@@ -1,0 +1,12 @@
+prefix=/Users/sscott/Documents/projects/bcube-semantics/similarity_preview
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+
+Name: libxslt
+Version: 1.1.28
+Description: XSLT library version 2.
+Requires: libxml-2.0
+Libs: -L${libdir} -lxslt  -L/Users/sscott/Documents/projects/bcube-semantics/similarity_preview/lib -lxml2 -lz -liconv -lm  
+Cflags: -I${includedir}

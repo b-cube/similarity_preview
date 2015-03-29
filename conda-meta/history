@@ -19,3 +19,10 @@
 +sqlalchemy-0.9.9-py27_0
 +werkzeug-0.10.1-py27_0
 # install specs: ['flask', 'sqlalchemy', 'python 2.7*']
+==> 2015-03-29 13:59:11 <==
+# cmd: //anaconda/bin/conda install -p /Users/sscott/Documents/projects/bcube-semantics/similarity_preview requests lxml
++libxml2-2.9.0-1
++libxslt-1.1.28-2
++lxml-3.4.2-py27_0
++requests-2.6.0-py27_0
+# install specs: ['requests', 'lxml', 'python 2.7*']

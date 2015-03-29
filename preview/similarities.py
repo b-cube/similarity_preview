@@ -1,3 +1,4 @@
+import flask
 from flask import Flask
 from flask import abort
 from flask import render_template
@@ -28,17 +29,17 @@ def get_page():
 
     digests = []
     if not source_digest and not compare_digest:
-        files = glob.glob('similarities/*_similarities.txt')
+        files = glob.glob('preview/similarities/*_similarities.txt')
         digests = [os.basename(f).replace('_similarities.txt', '') for f in files]
 
     source_response = ''
     if source_digest:
-        similarities = parse_similarities('similarities/%s_similarity.txt' % source_digest)
-        source_response = parse_response('responses/%s.json' % source_digest)
+        similarities = parse_similarities('preview/similarities/%s_similarity.txt' % source_digest)
+        source_response = parse_response('preview/responses/%s.json' % source_digest)
 
     compare_response = ''
     if compare_digest:
-        compare_response = parse_response('responses/%s.json' % compare_digest)
+        compare_response = parse_response('preview/responses/%s.json' % compare_digest)
 
     return render_template(
         'index.html',
@@ -51,14 +52,14 @@ def get_page():
 
 @app.route("/similarities")
 def get_simlist():
-    files = glob.glob('similarities/*_similarities.txt')
-    digests = [os.basename(f).replace('_similarities.txt', '') for f in files]
-    return digests
+    files = glob.glob('preview/similarities/*_similarities.txt')
+    digests = [os.path.basename(f).replace('_similarities.txt', '') for f in files]
+    return flask.jsonify(ids=digests, total=len(files))
 
 
 @app.route("/response/<digest>")
 def get_response(digest):
-    fpath = 'responses/%s_identified.json' % digest
+    fpath = 'preview/responses/%s_identified.json' % digest
     if not os.path.exists(fpath):
         abort(404)
 
@@ -70,7 +71,7 @@ def get_response(digest):
 
 @app.route("/similarity/<digest>")
 def get_similarity(digest):
-    fpath = 'similarities/%s_similarity.txt' % digest
+    fpath = 'preview/similarities/%s_similarity.txt' % digest
     if not os.path.exists(fpath):
         abort(404)
     parsed_sim = parse_similarities(fpath)
@@ -109,8 +110,16 @@ def parse_response(digest_path, html_escape=True):
     return text
 
 
+def generate_diff(source_xml_as_text, comparison_xml_as_text, as_table=True):
+    '''
+    return the difflib diff as html or as html table
+    for the two pretty-printed xml
+    '''
+    pass
+
+
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
 
 
 '''

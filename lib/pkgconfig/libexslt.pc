@@ -1,0 +1,12 @@
+prefix=/Users/sscott/Documents/projects/bcube-semantics/similarity_preview
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+
+Name: libexslt
+Version: 0.8.17
+Description: EXSLT Extension library
+Requires: libxml-2.0
+Libs: -L${libdir} -lexslt -lxslt  -L/Users/sscott/Documents/projects/bcube-semantics/similarity_preview/lib -lxml2 -lz -liconv -lm  
+Cflags: -I${includedir}
