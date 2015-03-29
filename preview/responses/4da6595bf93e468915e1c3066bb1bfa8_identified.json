@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2013-12-13 15:31:03</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a14ea80-5b3a-4d6f-a81b-38150a1fbe93\"    xml:base=\"http://gcmdstage.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdstage.gsfc.nasa.gov/kms/concepts/concept_scheme/platforms\"/>    <skos:prefLabel xml:lang=\"en\">SOYUZ</skos:prefLabel>    <skos:definition xml:lang=\"en\"> SPOT 4 is the fourth member of the SPOT family. SPOT 4 was placed in orbit on March 24 1998 on an Ariane launcher. Designed and developed by the French space agency CNES (Centre National d'\\ufffd\\ufffdtudes Spatiales), the SPOT system is the world leader in civil earth observation.  The SPOT system comprises three satellites (SPOT 1, SPOT 2 and SPOT 4), an orbit and mission control ground segment, a global network of receiving and processing stations, and an international product distribution and marketing network.  Specifications on SPOT 4  Prime contractor: Matra Marconi Space Platform: Spot Mk 2 Mass at launch: 2755 kg Dry mass: 2600 kg Payload mass: 1390 kg Dimension: 2.5 x 2.5 x 5.35 m Solar array: 4 x 8 m Stabilization:  3-axis DC power: EOL (2200 W) Design lifetime: 5 years  Additional inforamtion avaialble at \"http://spot4.cnes.fr/\"  [Summary provided by CNES]      </skos:definition>    <skos:broader rdf:resource=\"388e72a1-b851-4b78-9e69-747e06ae215f\"/> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4da6595bf93e468915e1c3066bb1bfa8", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a14ea80-5b3a-4d6f-a81b-38150a1fbe93.rdf.last"
+}

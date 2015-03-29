@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>6810</id>   <unit>385</unit>   <dept_name>Dean of Students, Office of</dept_name>   <sub_name></sub_name>   <main_number>3091</main_number>   <location>MAIN 312</location>   <comments>     <comment>E-mail . . . . . . . . . . . . . . . . . . . . dos@uccs.edu </comment>     <comment>Student Health Insurance . . . 3258 </comment>     <comment>CU Opportunity Program . . . . 3040</comment>   </comments>   <employees> <employee>   <id>30265</id>   <name>Linhart, Stephen</name>   <phone>3838</phone>   <title>Dean of Students</title>   <department>Dean of Students, Office of</department>   <sub_unit></sub_unit>   <location>MAIN 312A</location>   <email>slinhart@uccs.edu</email>   <extra></extra>   <ntname>slinhart</ntname>   <unit>385</unit>   <order>1</order> </employee> <employee>   <id>29591</id>   <name>Allee, Amanda</name>   <phone>3834</phone>   <title>Program Manager</title>   <department>Dean of Students, Office of</department>   <sub_unit></sub_unit>   <location>MAIN 312A</location>   <email>aallee@uccs.edu</email>   <extra></extra>   <ntname>aallee</ntname>   <unit>385</unit>   <order>9</order> </employee> <employee>   <id>30635</id>   <name>Skaggs, Natalie</name>   <phone>3091</phone>   <title>Student Support Specialist</title>   <department>Dean of Students, Office of</department>   <sub_unit></sub_unit>   <location>MAIN 312</location>   <email>nskaggs@uccs.edu</email>   <extra></extra>   <ntname>nskaggs</ntname>   <unit>385</unit>   <order>9</order> </employee>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4efd2fa91424486bb28a98181246558a", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=385&type=details_by_unit"
+}

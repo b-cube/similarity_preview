@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0530'>  <front> <title>Report on the Survey Project</title> <author initials='A.K.' surname='Bhushan' fullname='A.K. Bhushan'> <organization /></author> <date year='1973' month='June' /></front>  <seriesInfo name='RFC' value='530' /> <format type='PDF' octets='408102' target='http://www.rfc-editor.org/rfc/rfc530.pdf' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "257f2d202b431a8df28868f118c6d330", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0530.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <Map srs=\"+proj=lcc +lat_1=43.1992913889 +lat_2=44.9960938889 +lat_0=44.1 +lon_0=2.3372291667 +x_0=600000 +y_0=200000 +a=6378249.2 +b=6356515.000000028 +units=m +no_defs\">  <Layer srs=\"+proj=lcc +lat_1=43.1992913889 +lat_2=44.9960938889 +lat_0=44.1 +lon_0=2.3372291667 +x_0=600000 +y_0=200000 +a=6378249.2 +b=6356515.000000028 +units=m +no_defs\">  </Layer> </Map>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6b19b305e5e5811e21dea4afcec16068", 
+    "source_url": "http://spatialreference.org/ref/sr-org/ntf/mapnik/"
+}

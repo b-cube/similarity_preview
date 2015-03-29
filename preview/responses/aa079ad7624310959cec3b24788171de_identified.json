@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../index.htm\"/>  <o:File HRef=\"item0008.xml\"/>  <o:File HRef=\"props009.xml\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aa079ad7624310959cec3b24788171de", 
+    "source_url": "http://www.cs.utexas.edu/users/dsb/cs392f/index_files/filelist.xml"
+}

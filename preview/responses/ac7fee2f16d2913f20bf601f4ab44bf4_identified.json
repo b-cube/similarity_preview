@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Hitzler, Matthias</author>           <author>Recke, Marco</author>         </authors>       </contributors>       <titles>         <title>Robot List OA-Statistics</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.8573</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>OA-Statistics</keyword>         <keyword>Robot</keyword>         <keyword>Exclusion </keyword>         <keyword>Verbundzentrale</keyword>         <keyword>standard</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-04-03</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;&lt;strong&gt;Standard Robot Exclusion List&lt;/strong&gt;&lt;br /&gt;     used by OA-Statistics. Compilation of some popular black-list.&lt;/p&gt;          &lt;p&gt;&lt;strong&gt;Status of this document &lt;/strong&gt;&lt;/p&gt;          &lt;p&gt;This document represents a consensus of the german project OA-Statistik. It is not an official standard backed by a standards body, or owned by any commercial organisation. It is not enforced by anybody, and there no guarantee that all current and future robots will use it. It has also been open for discussion.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ac7fee2f16d2913f20bf601f4ab44bf4", 
+    "source_url": "https://zenodo.org/record/8573/export/xe"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <?xml-stylesheet href=\"mmab.xsl\" type=\"text/xsl\" ?>  <person>   <name>Robert Grumbine</name>   <title>Physical Scientist</title>   <extension>3747</extension>   <email>Robert.Grumbine@noaa.gov</email>   <employer>NOAA/NWS   </employer>   <site>College Park, MD</site>   <blurb>   Work on sea ice remote sensing, modeling, and interactions with the air and sea.  Sea surface temperature remote sensing and assimilation and ocean modeling.  Branch webmaster.  Acting branch chief.   </blurb>   <more>    <group>      <link>/seaice</link>      <text>Seaice</text>     </group>     <group>      <link>/sst</link>      <text>Sea surface temperature</text>     </group>     <group>      <link>/gsf</link>      <text>Gulf Stream</text>     </group>     <personal>      <link>/mmab/people/seaice.new/</link>      <text>Curriculum Vitae</text>     </personal>     </more> </person>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d4d344630fd074b1d6863609a0f86a70", 
+    "source_url": "http://polar.ncep.noaa.gov/mmab/people/seaice.xml"
+}

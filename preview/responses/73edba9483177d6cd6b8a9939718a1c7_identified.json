@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Marine Aggregate Levy Sustainability Fund (MALSF) Geophysical and Multibeam Survey 2003/3_MEPF: MALSF Outer Bristol Channel Marine Habitat Study (30/Oct/2003 to 14/Nov/2003)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-5350-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">This British Geological Survey (BGS) marine geophysical survey took place during October/November 2003 in the Outer Bristol Channel aboard the RV Prince Madog. Netsurvey Ltd were commissioned to provide multibeam services. This survey was undertaken for the Outer Bristol Channel Marine Habitat Study (OBCMHS) as part of a series of five surveys. The OBCMHS was principally funded by the Aggregate Levy Sustainability Fund, MALSF, (administered in Wales by the Welsh Assembly Government), the Sustainable Land Won and Marine Dredged Aggregate Minerals Programme of the Office of the Deputy Prime Minister (ODPM), administered by Mineral Industry Research Organisation (MIRO), with contributions from others. Sea floor data collected were high-resolution multibeam bathymetry and side-scan sonar (on selected lines). Subsurface data were gathered using a surface tow boomer (on selected lines). The multibeam data collected on this survey were later merged with data from the 2004 survey and this combined dataset is available with the 2004 survey. Most of the data were recorded digitally. Some paper records were also generated also. These data are archived with the MEDIN Data Archive Centres (DAC), including the BGS DAC for geology and geophysics and the UKHO DAC for bathymetry data. Technical details of the survey are contained in BGS Cruise report IR/04/012. For further information on the surveys and general information on the OBCMHS see the final report (Mackie et al, 2006. BIOMOR Reports 4:ISBN 0-7200-0569-8).</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2003-11-14</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "73edba9483177d6cd6b8a9939718a1c7", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-5350-0f38-e044-0003ba9b0d98.xml/DC"
+}

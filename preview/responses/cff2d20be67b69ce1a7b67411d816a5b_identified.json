@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\">   <service>     <engineName>WordPress</engineName>     <engineLink>http://wordpress.org/</engineLink>     <homePageLink>http://www.csun.edu/catalog</homePageLink>     <apis>       <api name=\"WordPress\" blogID=\"1\" preferred=\"true\" apiLink=\"http://www.csun.edu/catalog/xmlrpc.php\" />       <api name=\"Movable Type\" blogID=\"1\" preferred=\"false\" apiLink=\"http://www.csun.edu/catalog/xmlrpc.php\" />       <api name=\"MetaWeblog\" blogID=\"1\" preferred=\"false\" apiLink=\"http://www.csun.edu/catalog/xmlrpc.php\" />       <api name=\"Blogger\" blogID=\"1\" preferred=\"false\" apiLink=\"http://www.csun.edu/catalog/xmlrpc.php\" />           </apis>   </service> </rsd> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cff2d20be67b69ce1a7b67411d816a5b", 
+    "source_url": "http://www.csun.edu/catalog/xmlrpc.php?rsd"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>Confederaci&#243;n Sindical Internacional</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>Swaziland - Detention of Mario Masuku and Maxwell Dlamini</title>  <author_name>Mathieu Debroux</author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/swaziland-detention-of-mario</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/swaziland-detention-of-mario'&gt;Swaziland - Detention of Mario Masuku and Maxwell Dlamini&lt;/a&gt;&lt;/h4&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "15bfb79f15dce8692dbbd6b79ae82d85", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Fswaziland-detention-of-mario"
+}

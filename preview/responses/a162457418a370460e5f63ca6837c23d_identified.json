@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><xml><records><record><source-app name=\"Biblio\" version=\"6.x\">Drupal-Biblio</source-app><ref-type>17</ref-type><contributors><authors><author><style face=\"normal\" font=\"default\" size=\"100%\">Uribe, Hamil</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Rupp, David E.</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Arum\\ufffd\\ufffd, Jos\\ufffd\\ufffd Luis</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Stewart, Ryan D.</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Selker, John S.</style></author></authors></contributors><titles><title><style face=\"normal\" font=\"default\" size=\"100%\">Assessment of current and potential yield of hand-dug wells in a semi-arid zone in south-central Chile using an analytical methodology</style></title><secondary-title><style face=\"normal\" font=\"default\" size=\"100%\">Chilean journal of agricultural research</style></secondary-title><short-title><style face=\"normal\" font=\"default\" size=\"100%\">Chilean J. Agric. Res.</style></short-title></titles><keywords><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">groundwater recharge</style></keyword><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">hydraulic conductivity</style></keyword><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">interior dryland</style></keyword><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">slug test</style></keyword><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">Water Engineering</style></keyword><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">Water Science</style></keyword><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">water usage</style></keyword><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">well capacity</style></keyword></keywords><dates><year><style  face=\"normal\" font=\"default\" size=\"100%\">2014</style></year><pub-dates><date><style  face=\"normal\" font=\"default\" size=\"100%\">2014</style></date></pub-dates></dates><volume><style face=\"normal\" font=\"default\" size=\"100%\">74</style></volume><pages><style face=\"normal\" font=\"default\" size=\"100%\">219 - 224</style></pages><issue><style face=\"normal\" font=\"default\" size=\"100%\">2</style></issue><notes><style face=\"normal\" font=\"default\" size=\"100%\">OSU authors: Rupp, Stewart, and Selker</style></notes></record></records></xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a162457418a370460e5f63ca6837c23d", 
+    "source_url": "http://water.oregonstate.edu/biblio/export/xml/2221"
+}

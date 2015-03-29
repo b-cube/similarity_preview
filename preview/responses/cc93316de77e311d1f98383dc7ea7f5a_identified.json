@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName></ShortName>  <Description>Search  - DOCUMENTARIES THAT MAKE A DIFFERENCE</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://unheardvoicesproject.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://unheardvoicesproject.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://unheardvoicesproject.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName></LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://1.gravatar.com/blavatar/dfad1d6779ffd62de77e13da0b6f6f8d?s=16&#038;d=http%3A%2F%2Funheardvoicesproject.org%2Ffavicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/jpeg\">http://0.gravatar.com/blavatar/4edbfb49e9bb019dcbc14ca06d96bc3c?s=64&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>blog</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://unheardvoicesproject.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cc93316de77e311d1f98383dc7ea7f5a", 
+    "source_url": "http://unheardvoicesproject.org/osd.xml"
+}

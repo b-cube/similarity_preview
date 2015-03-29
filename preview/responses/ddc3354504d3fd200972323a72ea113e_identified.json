@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <LinkComponent ID=\"x16350\" Name=\"List College\" SiteBaseUrl=\"\" Locale=\"\" XPowerPath=\"/JTS/PAGES/Home/Academics/Schools of JTS/List College\">   <IGX_Categories Count=\"0\" CategoryIds=\"\" />   <LingualMaps />   <LinkText type=\"string\" label=\"Link Text\" ID=\"1\">List College (Undergraduate)</LinkText>   <LinkURL type=\"string\" label=\"Link URL\" ID=\"2\">x18379.xml</LinkURL> </LinkComponent> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ddc3354504d3fd200972323a72ea113e", 
+    "source_url": "http://jtsa.edu/x16350.xml"
+}

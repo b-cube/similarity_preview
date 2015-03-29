@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0063\">   <front>     <title>Basic Filtering Operations</title>     <author initials=\"R.\" surname=\"Norris\" fullname=\"Robert Norris\">       <organization/>       <address>         <email>rob@cataclysm.cx</email>       </address>     </author>     <date day=\"30\" month=\"September\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0063\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0063.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "17eee97915cf29d2d6b58bb176e26c3a", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0063.xml"
+}

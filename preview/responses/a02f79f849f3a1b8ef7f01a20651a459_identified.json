@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\" ?>   <feed xmlns=\"http://www.w3.org/2005/Atom\">   <id>http://www.safersexinthecity.com/news/</id>   <title>Safer Sex in the City</title>   <link href=\"http://www.safersexinthecity.com/atom.php\" rel=\"self\"></link>   <link href=\"http://www.safersexinthecity.com/news/\" rel=\"alternate\"></link>   <updated>2015-03-15T15:35:20Z</updated>    </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a02f79f849f3a1b8ef7f01a20651a459", 
+    "source_url": "http://www.bestindrag.org/atom.php"
+}

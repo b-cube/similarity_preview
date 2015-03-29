@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <Map srs=\"+proj=longlat +a=6378137 +b=6378135.99663591 +pm=95 +no_defs\">  <Layer srs=\"+proj=longlat +a=6378137 +b=6378135.99663591 +pm=95 +no_defs\">  </Layer> </Map>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ab03fe220a3e855e6fc0aa2592ba2dbd", 
+    "source_url": "http://spatialreference.org/ref/sr-org/test-125/mapnik/"
+}

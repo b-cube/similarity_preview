@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Center2007f </Local-number>  <Author>Pacific Islands Fisheries Science Center </Author>  <Title>PIFSC Cruise Report CR-08-003 (Cruise 07-09 (OES-57)) </Title>  <Institution>Pacific Islands Fisheries Science Center </Institution>  <Publication-Place>Honolulu, HI </Publication-Place>  <Publication-Date><caldate>2008 </caldate></Publication-Date>  <Extent>12 </Extent>  <Type-Period-Note>Vessel: Oscar Elton Sette, Cruise 07-09 (OES-57), Period: October 11-November 9, 2007, Area of Operation: Papahanaumokuakea Marine National Monument </Type-Period-Note>  <Notes>FY2008 CRCP Project ID 1224; Project Title: Marine Debris Survey and Removal from the Northwestern Hawaiian Islands (NWHI): Maintenance Mode; Principal Investigator: Tony Perry III </Notes>  <Abstract>This report documents the marine debris removal operations of the Pacific Islands Fisheries Science Center (PIFSC) in the Papahanaumokuakea Marine National Monument between October 11 and November 9, 2007. </Abstract>  <Date-Time-Last-Modified>20100125000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/1224/pifsc_cruise_07-09_oes-57_oscar_elton_sette.pdf </URL>  <project>  <ID>1224 </ID>  <title>Marine Debris Survey and Removal from the Northwestern Hawaiian Islands (NWHI): Maintenance Mode </title>  <PI>Tony Perry III </PI>  </project>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b9af23488128ccbcddc464e1c47da8ce", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B1DB60AEE-AA95-4F3E-B491-3406A7EEE35A%7D"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../index.htm\"/>  <o:File HRef=\"image562.png\"/>  <o:File HRef=\"image325.png\"/>  <o:File HRef=\"image423.png\"/>  <o:File HRef=\"image476.jpg\"/>  <o:File HRef=\"image599.gif\"/>  <o:File HRef=\"image5991.png\"/>  <o:File HRef=\"image432.png\"/>  <o:File HRef=\"Page338.htm\"/>  <o:File HRef=\"image382.png\"/>  <o:File HRef=\"image424.png\"/>  <o:File HRef=\"image507.png\"/>  <o:File HRef=\"image633.png\"/>  <o:File HRef=\"Page328.htm\"/>  <o:File HRef=\"image434.png\"/>  <o:File HRef=\"image515.png\"/>  <o:File HRef=\"image631.png\"/>  <o:File HRef=\"image662.jpg\"/>  <o:File HRef=\"image643.png\"/>  <o:File HRef=\"Page425.htm\"/>  <o:File HRef=\"image444.png\"/>  <o:File HRef=\"image495.png\"/>  <o:File HRef=\"image493.png\"/>  <o:File HRef=\"image323.png\"/>  <o:File HRef=\"image466.png\"/>  <o:File HRef=\"Page335.htm\"/>  <o:File HRef=\"image343.png\"/>  <o:File HRef=\"image651.png\"/>  <o:File HRef=\"image393.png\"/>  <o:File HRef=\"image465.png\"/>  <o:File HRef=\"Page342.htm\"/>  <o:File HRef=\"image467.png\"/>  <o:File HRef=\"image489.png\"/>  <o:File HRef=\"image361.png\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5d44f9cddd50ea5c0d1612497f88713d", 
+    "source_url": "http://www.misnadata.org/index_files/filelist.xml"
+}

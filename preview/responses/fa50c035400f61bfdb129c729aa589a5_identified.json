@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs23695</identifier><identifier type=\"pwpk\">4955</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">236-95</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Introduction to Potential Fields: Magnetics</title></titleInfo><originInfo><dateOther>Sat, 10 Jan 1998 00:00 -0600</dateOther><dateIssued>1997</dateIssued><publisher>U.S. Geological Survey,</publisher></originInfo><name><namePart>U.S. Geological Survey</namePart><role>Author</role></name><physicalDescription><form>1 sheet ;  28 x 18 cm. </form><form>U.S. Geological Survey,</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_236_95.bmp</url><url displayLabel=\"pdf\" note=\"DOCUMENT\">http://pubs.usgs.gov/fs/fs-0236-95/fs-236-95.pdf</url></location><note type=\"citation/reference\">Introduction to Potential Fields: Magnetics; 1997; FS; 236-95; Fact Sheet; U.S. Geological Survey</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fa50c035400f61bfdb129c729aa589a5", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs23695"
+}

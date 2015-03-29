@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../lesson_plan_template.php\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"image003.gif\"/>  <o:File HRef=\"image004.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2af8a5575f979ac7c74d0d4db4497062", 
+    "source_url": "http://earth2class.org/er/teaching_tips/lesson_plan_template_files/filelist.xml"
+}

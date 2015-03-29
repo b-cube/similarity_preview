@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ISO.10039.1990\"> <front> <title>MAC Service Definition</title> <author> <organization>International Organization for Standardization</organization> </author> <date month=\"\" year=\"1990\" /> </front>  <seriesInfo name=\"ISO\" value=\"Standard 10039\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bc81560efae8f57ae8bb9df55cb902a1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.ISO.10039.1990.xml"
+}

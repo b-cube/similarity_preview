@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"          xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"          xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"          xmlns:bio=\"http://purl.org/vocab/bio/0.1/\"> <foaf:Person> <foaf:mbox_sha1sum>430463ada2d2651205e524dbd4532cb4c6845896</foaf:mbox_sha1sum> <foaf:weblog rdf:resource=\"http://epod.usra.edu/\" />    <foaf:nick>EPOD</foaf:nick>   <foaf:img rdf:resource=\"http://epod.usra.edu/.a/6a0105371bb32c970b0167641c4bd4970b-150wi\" />  </foaf:Person> </rdf:RDF>  <!-- ph=1 --> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ece40fa419d522b8a1dcce6d73ee3e99", 
+    "source_url": "http://epod.usra.edu/foaf.rdf"
+}

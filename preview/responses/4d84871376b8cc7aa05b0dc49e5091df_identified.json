@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../eapcoor.htm\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4d84871376b8cc7aa05b0dc49e5091df", 
+    "source_url": "http://www.dm.usda.gov/employ/eapcoor_files/filelist.xml"
+}

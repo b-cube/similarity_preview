@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Faculty Publications Newsletter</title> <link href=\"http://hdl.handle.net/2152/6010\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/2152/6010</id> <updated>2015-03-06T08:19:37Z</updated> <dc:date>2015-03-06T08:19:37Z</dc:date> <entry> <title>Faculty Publications - UT Law, October 2014</title> <link href=\"http://hdl.handle.net/2152/27988\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2152/27988</id> <updated>2014-12-16T08:17:50Z</updated> <published>2014-12-15T00:00:00Z</published> <summary type=\"text\">Faculty Publications - UT Law, October 2014 Periodic summary of scholarly activities of UT Law faculty </summary> <dc:date>2014-12-15T00:00:00Z</dc:date> </entry> <entry> <title>Faculty Publications - UT Law, September 2014</title> <link href=\"http://hdl.handle.net/2152/27987\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2152/27987</id> <updated>2014-12-16T08:17:50Z</updated> <published>2014-12-15T00:00:00Z</published> <summary type=\"text\">Faculty Publications - UT Law, September 2014 Periodic summary of scholarly activities of UT Law faculty </summary> <dc:date>2014-12-15T00:00:00Z</dc:date> </entry> <entry> <title>Faculty Publications - UT Law, August 2014</title> <link href=\"http://hdl.handle.net/2152/27986\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2152/27986</id> <updated>2014-12-16T08:17:49Z</updated> <published>2014-12-15T00:00:00Z</published> <summary type=\"text\">Faculty Publications - UT Law, August 2014 Periodic summary of scholarly activities of UT Law faculty </summary> <dc:date>2014-12-15T00:00:00Z</dc:date> </entry> <entry> <title>Faculty Publications - UT Law, July 2014</title> <link href=\"http://hdl.handle.net/2152/26071\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2152/26071</id> <updated>2014-09-23T07:18:26Z</updated> <published>2014-09-22T00:00:00Z</published> <summary type=\"text\">Faculty Publications - UT Law, July 2014 Periodic summary of scholarly activities of UT Law faculty </summary> <dc:date>2014-09-22T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "010175111e38f436e0191ebd7203bfde", 
+    "source_url": "http://repositories.lib.utexas.edu/feed/atom_1.0/2152/6010"
+}

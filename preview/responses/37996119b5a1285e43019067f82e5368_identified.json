@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"BFA39064-F836-4C03-A35C-11E5EA4F1543\" _position=\"1\" _address=\"http://data.cityofnewyork.us/resource/mgjt-zuui/1\"><year_built>Before 1983</year_built><inundation_area>84%</inundation_area><destroyed_by_storm>98%</destroyed_by_storm><red_tags>94%</red_tags><yellow_tags>67%</yellow_tags></row><row _id=\"2\" _uuid=\"84273A11-1607-476A-9ABD-B96A529D6F02\" _position=\"2\" _address=\"http://data.cityofnewyork.us/resource/mgjt-zuui/2\"><year_built>1983-2001</year_built><inundation_area>9%</inundation_area><destroyed_by_storm>&lt; 1%</destroyed_by_storm><red_tags>4%</red_tags><yellow_tags>23%</yellow_tags></row><row _id=\"3\" _uuid=\"F36C939B-6067-40C3-A257-3F11F8AC59DA\" _position=\"3\" _address=\"http://data.cityofnewyork.us/resource/mgjt-zuui/3\"><year_built>2002 or later</year_built><inundation_area>5%</inundation_area><destroyed_by_storm>&lt; 1%</destroyed_by_storm><red_tags>1%</red_tags><yellow_tags>9%</yellow_tags></row><row _id=\"4\" _uuid=\"5E12C208-5567-456E-8B49-3064F36A9D90\" _position=\"4\" _address=\"http://data.cityofnewyork.us/resource/mgjt-zuui/4\"><year_built>No Data</year_built><inundation_area>2%</inundation_area><destroyed_by_storm>2%</destroyed_by_storm><red_tags>1%</red_tags><yellow_tags>1%</yellow_tags></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "37996119b5a1285e43019067f82e5368", 
+    "source_url": "https://data.cityofnewyork.us/api/views/mgjt-zuui/rows.xml?accessType=DOWNLOAD"
+}

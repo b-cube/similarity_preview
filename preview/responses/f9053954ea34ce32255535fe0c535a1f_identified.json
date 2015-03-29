@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.NOTE-XIndirect-20030612\"> <front> <title>XML Indirection Facility</title>  <author initials=\"W\" surname=\"Kimber\" fullname=\"W. Eliot Kimber\">     <organization /> </author>  <date month=\"June\" day=\"12\" year=\"2003\" /> </front>  <seriesInfo name=\"W3C NOTE\" value=\"NOTE-XIndirect-20030612\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/2003/NOTE-XIndirect-20030612\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f9053954ea34ce32255535fe0c535a1f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-XIndirect-20030612.xml"
+}

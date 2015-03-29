@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">   <title>Gentoo Packages /package/net-news/rawdog</title>   <icon>http://www.gentoo.org/favicon.ico</icon>   <id>http://packages.gentoo.org/feed/package/net-news/rawdog</id>   <generator uri=\"http://packages.gentoo.org/\">Gentoo Packages2</generator>   <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/net-news/rawdog\" type=\"text/html\"/>   <link rel=\"self\" href=\"http://packages.gentoo.org/feed/package/net-news/rawdog\" type=\"application/atom+xml\"/>   <updated>2015-03-04T23:21:13Z</updated>   <entry>  <title xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\">    <div>         <span class=\"cpvstr\">net-news/rawdog</span>: <span class=\"description\">Rawdog - RSS Aggregator Without Delusions Of Grandeur</span>       </div>     </title>     <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/net-news/rawdog\" type=\"text/html\"/>     <id>http://packages.gentoo.org/package/net-news/rawdog?ts=2014-11-11T11:01:15Z</id>     <author>       <name>Agostino Sarubbo (ago)</name>       <uri>http://cia.vc/stats/author/ago</uri>     </author>     <updated>2014-11-11T11:01:15Z</updated>     <summary xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\"><div>11 Nov 2014; Agostino Sarubbo (<a href=\"http://cia.vc/stats/author/ago\">ago</a>) <a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/net-news/rawdog/rawdog-2.19.ebuild?view=markup\">rawdog-2.19.ebuild</a>:<br/>Stable for ia64, wrt bug #<a href=\"https://bugs.gentoo.org/show_bug.cgi?id=525038\">525038</a></div></summary>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c42bf075bd4e29073b4d53ee7eeb57eb", 
+    "source_url": "http://packages.gentoo.org/feed/package/net-news/rawdog"
+}

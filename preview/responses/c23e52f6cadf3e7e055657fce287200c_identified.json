@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0007'>  <front> <title>Host-IMP interface</title> <author initials='G.' surname='Deloche' fullname='G. Deloche'> <organization /></author> <date year='1969' month='May' /></front>  <seriesInfo name='RFC' value='7' /> <format type='TXT' octets='13408' target='http://www.rfc-editor.org/rfc/rfc7.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c23e52f6cadf3e7e055657fce287200c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-rfcs/reference.RFC.0007.xml"
+}

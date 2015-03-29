@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://maritimeboundaries.noaa.gov/arcgis/rest/services/ports_delineation/ports_delineation/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2dfe5825a3437f2929b42e6c820cb5ba", 
+    "source_url": "http://maritimeboundaries.noaa.gov/arcgis/rest/services/ports_delineation?f=sitemap"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile   HRef=\"../2011_DirectReadout_COMETAbstract_AbshireDillsWeingroff.htm\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3e353429d3df8f3bfdf8c0b5f9eba5b9", 
+    "source_url": "http://www.comet.ucar.edu/presentations/Abstracts_2011/2011_DirectReadout_COMETAbstract_AbshireDillsWeingroff_files/filelist.xml"
+}

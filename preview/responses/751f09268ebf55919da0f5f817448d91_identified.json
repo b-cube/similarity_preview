@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Understanding and Reducing Clinical Data Biases</dc:title><dc:creator>Fort, Daniel</dc:creator><dc:date>2015</dc:date><dc:type>text</dc:type><dc:subject>Bioinformatics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D85X27RD</dc:identifier><dc:description>The vast amount of clinical data made available by pervasive electronic health records presents a great opportunity for reusing these data to improve the efficiency and lower the costs of clinical and translational research. A risk to reuse is potential hidden biases in clinical data. While specific studies have demonstrated benefits in reusing clinical data for research, there are significant concerns about potential clinical data biases. This dissertation research contributes original understanding of clinical data biases. Using research data carefully collected from a patient community served by our institution as the reference standard, we examined the measurement and sampling biases in the clinical data for selected clinical variables. Our results showed that the clinical data and research data had similar summary statistical profiles, but that there were detectable differences in definitions and measurements for variables such as height, diastolic blood pressure, and diabetes status. One implication of these results is that research data can complement clinical data for clinical phenotyping. We further supported this hypothesis using diabetes as an example clinical phenotype, showing that integrated clinical and research data improved the sensitivity and positive predictive value.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "751f09268ebf55919da0f5f817448d91", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A182340.oai_dc_xml"
+}

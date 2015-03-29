@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0353'>  <front> <title>Network host status</title> <author initials='E.' surname='Westheimer' fullname='E. Westheimer'> <organization /></author> <date year='1972' month='June' /></front>  <seriesInfo name='RFC' value='353' /> <format type='TXT' octets='8747' target='http://www.rfc-editor.org/rfc/rfc353.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "20cea0dc9d831309413030408657d7ad", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0353.xml"
+}

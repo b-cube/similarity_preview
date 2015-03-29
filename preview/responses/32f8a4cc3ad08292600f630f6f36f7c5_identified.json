@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <sitemap>     <loc>http://www.rferl.org/sitemap_8_1.xml.gz</loc>     <lastmod>2015-03-08T01:03:32.3838831Z</lastmod>   </sitemap>   <sitemap>     <loc>http://www.rferl.org/sitemap_8_2.xml.gz</loc>     <lastmod>2015-03-08T01:03:36.3088026Z</lastmod>   </sitemap>   <sitemap>     <loc>http://www.rferl.org/sitemap_8_3.xml.gz</loc>     <lastmod>2015-03-08T01:03:40.4182397Z</lastmod>   </sitemap>   <sitemap>     <loc>http://www.rferl.org/sitemap_8_4.xml.gz</loc>     <lastmod>2015-03-08T01:03:44.5589441Z</lastmod>   </sitemap>   <sitemap>     <loc>http://www.rferl.org/sitemap_8_5.xml.gz</loc>     <lastmod>2015-03-08T01:03:46.9496112Z</lastmod>   </sitemap>   <sitemap>     <loc>http://www.rferl.org/sitemap_8_6.xml.gz</loc>     <lastmod>2015-03-08T01:03:49.9340324Z</lastmod>   </sitemap>   <sitemap>     <loc>http://www.rferl.org/sitemap_8_7.xml.gz</loc>     <lastmod>2015-03-08T01:03:51.8715676Z</lastmod>   </sitemap>   <sitemap>     <loc>http://www.rferl.org/sitemap_8_latest.xml.gz</loc>     <lastmod>2015-03-12T19:49:55.8460845Z</lastmod>   </sitemap>   <sitemap>     <loc>http://www.rferl.org/sitemap_8_news.xml.gz</loc>     <lastmod>2015-03-12T19:49:56.5179698Z</lastmod>   </sitemap>   <sitemap>     <loc>http://www.rferl.org/sitemap_8_section.xml.gz</loc>     <lastmod>2015-03-08T01:03:30.662278Z</lastmod>   </sitemap>   <sitemap>     <loc>http://www.rferl.org/sitemap_8_videos.xml.gz</loc>     <lastmod>2015-03-12T04:40:51.4994575Z</lastmod>   </sitemap> </sitemapindex>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "32f8a4cc3ad08292600f630f6f36f7c5", 
+    "source_url": "http://www.rferl.org/sitemap.xml"
+}

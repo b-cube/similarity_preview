@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>6690</id>   <unit>410.1</unit>   <dept_name>Education, College of</dept_name>   <sub_name>Administration</sub_name>   <main_number>4119</main_number>   <location>COLU</location>   <comments>     <comment></comment>   </comments>   <employees> <employee>   <id>29581</id>   <name>Abila, Patricia</name>   <phone>4111</phone>   <title>Fiscal Administrator</title>   <department>Education, College of</department>   <sub_unit>Administration</sub_unit>   <location>COLU 3023</location>   <email>pabila@uccs.edu</email>   <extra></extra>   <ntname>pabila</ntname>   <unit>410.1</unit>   <order>9</order> </employee> <employee>   <id>29711</id>   <name>Brown, Cindy</name>   <phone>4344</phone>   <title>Technology Coordinator</title>   <department>Education, College of</department>   <sub_unit>Administration</sub_unit>   <location>COLU 3034</location>   <email>cbrown@uccs.edu</email>   <extra></extra>   <ntname>cbrown</ntname>   <unit>410.1</unit>   <order>9</order> </employee> <employee>   <id>30124</id>   <name>Hurless, Mary</name>   <phone>3720</phone>   <title>Faculty Liaison and HR Specialist</title>   <department>Education, College of</department>   <sub_unit>Administration</sub_unit>   <location>COLU 3023B</location>   <email>mhurless@uccs.edu</email>   <extra></extra>   <ntname>mhurless</ntname>   <unit>410.1</unit>   <order>9</order> </employee> <employee>   <id>30136</id>   <name>Jardon, Julie</name>   <phone>4996</phone>   <title>Academic Specialist - Student Resource Office</title>   <department>Education, College of</department>   <sub_unit>Administration</sub_unit>   <location>COLU 3010</location>   <email>jjardon@uccs.edu</email>   <extra></extra>   <ntname>jjardon</ntname>   <unit>410.1</unit>   <order>9</order> </employee> <employee>   <id>30231</id>   <name>Laney, Peggy</name>   <phone>3927</phone>   <title>Faculty Liaison and Tech Writer</title>   <department>Education, College of</department>   <sub_unit>Administration</sub_unit>   <location>COLU 3023</location>   <email>planey@uccs.edu</email>   <extra></extra>   <ntname>planey</ntname>   <unit>410.1</unit>   <order>9</order> </employee> <employee>   <id>30870</id>   <name>Zomchek, Cindy</name>   <phone>4997</phone>   <title>Director of Field Experience and Community Outreach</title>   <department>Education, College of</department>   <sub_unit>Administration</sub_unit>   <location>COLU 3010</location>   <email>czomchek@uccs.edu</email>   <extra></extra>   <ntname>czomchek</ntname>   <unit>410.1</unit>   <order>9</order> </employee>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0fa68fbe4bd0761048f646276a015fa4", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=410.1&type=details_by_unit"
+}

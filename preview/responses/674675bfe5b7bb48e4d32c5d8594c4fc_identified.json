@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.11830</dc:identifier><dc:creator>Guillaume Doll\\ufffd\\ufffd</dc:creator><dc:creator>Zakaria Belhachmi</dc:creator><dc:creator>Christophe Prud'homme</dc:creator><dc:creator>Murielle Torregrossa</dc:creator><dc:title>Diffuse Optical Tomography and Fluorescence Simulation</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Diffusion of a source of light (Dirac) in a turbid medium. The object owns two inclusions, one more absorbant and one more diffusive than the background. These inclusions can be seen as tumours that have different optical and fluorescence properties compared to the &amp;quot;homogeneous&amp;quot; background.&lt;/p&gt;  &lt;p&gt;This simulation shows the forward problem solutions for choosen optical and fluorescence parameters and computed with FEEL++, a C++ library for Generalized Garlerkin methods (FEM, HP-FEM, ...).&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-06-18</dc:date><dc:source>http://zenodo.org/record/11830</dc:source><dc:doi>10.5281/zenodo.11830</dc:doi><dc:identifier>http://zenodo.org/record/11830</dc:identifier><dc:identifier>oai:zenodo.org:11830</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "674675bfe5b7bb48e4d32c5d8594c4fc", 
+    "source_url": "https://zenodo.org/record/11830/export/xd"
+}

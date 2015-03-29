@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <psh>   <responseDate>2015-03-19T23:08:35Z</responseDate>   <request verb=\"Count\">http://www.opendoar.org/demos/psh.php</request>   <Count>     <header>       <setType>continent</setType>       <setSpec>Central America</setSpec>       <setName>Central America</setName>       <datestamp />       <numItems>15</numItems>     </header>     <header>       <setType>continent</setType>       <setSpec>North America</setSpec>       <setName>North America</setName>       <datestamp />       <numItems>557</numItems>     </header>     <header>       <setType>continent</setType>       <setSpec>South America</setSpec>       <setName>South America</setName>       <datestamp />       <numItems>250</numItems>     </header>   </Count> </psh>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cd1ce8e5937693b2b495968b38a96092", 
+    "source_url": "http://www.opendoar.org/demos/psh.php?verb=Count&setType=continent&setQuery=america&setQueryType=name&operator=contains"
+}

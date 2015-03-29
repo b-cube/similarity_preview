@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?><META xmlns=\"http://www.w3.org/2002/01/P3Pv1\"> <POLICY-REFERENCES>     <POLICY-REF about=\"http://www.bodc.ac.uk/w3c/bodc.p3p#bodc\">       <INCLUDE>/*</INCLUDE>       <COOKIE-INCLUDE/>     </POLICY-REF>  </POLICY-REFERENCES> </META> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0d0cb6f5bfc685c5c995bd059c396f07", 
+    "source_url": "https://www.bodc.ac.uk/w3c/p3p.xml"
+}

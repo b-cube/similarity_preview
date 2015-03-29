@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"> <ShortName>Flickr</ShortName> <Description>Flickr</Description> <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://www.flickr.com/favicon.ico</Image> <Url type=\"text/html\" method=\"get\" template=\"http://www.flickr.com/search/?q={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dce1f05f8154c2ab67f7e8ea14be8089", 
+    "source_url": "https://www.flickr.com/opensearch.xml"
+}

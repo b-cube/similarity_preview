@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../WaveDemo.htm\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"image001.png\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"image005.png\"/>  <o:File HRef=\"image006.gif\"/>  <o:File HRef=\"image007.jpg\"/>  <o:File HRef=\"image008.jpg\"/>  <o:File HRef=\"image009.gif\"/>  <o:File HRef=\"image010.gif\"/>  <o:File HRef=\"image011.jpg\"/>  <o:File HRef=\"image012.jpg\"/>  <o:File HRef=\"image013.png\"/>  <o:File HRef=\"image014.gif\"/>  <o:File HRef=\"image015.png\"/>  <o:File HRef=\"image016.gif\"/>  <o:File HRef=\"image017.png\"/>  <o:File HRef=\"image018.gif\"/>  <o:File HRef=\"image019.png\"/>  <o:File HRef=\"image020.gif\"/>  <o:File HRef=\"image021.jpg\"/>  <o:File HRef=\"image022.jpg\"/>  <o:File HRef=\"image023.jpg\"/>  <o:File HRef=\"image024.jpg\"/>  <o:File HRef=\"image025.gif\"/>  <o:File HRef=\"image026.jpg\"/>  <o:File HRef=\"image027.jpg\"/>  <o:File HRef=\"image028.gif\"/>  <o:File HRef=\"image029.png\"/>  <o:File HRef=\"image030.gif\"/>  <o:File HRef=\"image031.png\"/>  <o:File HRef=\"image032.gif\"/>  <o:File HRef=\"image033.png\"/>  <o:File HRef=\"image034.gif\"/>  <o:File HRef=\"image035.png\"/>  <o:File HRef=\"image036.gif\"/>  <o:File HRef=\"image037.png\"/>  <o:File HRef=\"image038.gif\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5c859a493a3b1745fb38449320b34864", 
+    "source_url": "http://web.ics.purdue.edu/~braile/edumod/waves/WaveDemo_files/filelist.xml"
+}

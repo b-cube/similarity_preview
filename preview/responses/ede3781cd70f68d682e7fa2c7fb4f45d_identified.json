@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0068\">   <front>     <title>Field Standardization for Data Forms</title>     <author initials=\"J.\" surname=\"Hildebrand\" fullname=\"Joe Hildebrand\">       <organization/>       <address>         <email>jhildebr@cisco.com</email>       </address>     </author>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"28\" month=\"May\" year=\"2012\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0068\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0068.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ede3781cd70f68d682e7fa2c7fb4f45d", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0068.xml"
+}

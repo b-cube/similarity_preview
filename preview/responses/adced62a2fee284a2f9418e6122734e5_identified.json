@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0039\">   <front>     <title>Statistics Gathering</title>     <author initials=\"P.\" surname=\"Curtis\" fullname=\"Paul Curtis\">       <organization/>       <address>         <email>pcurtis@terrapin.com</email>       </address>     </author>     <author initials=\"R.\" surname=\"Davis\" fullname=\"Russell Davis\">       <organization/>       <address>         <email>ukscone@burninghorse.com</email>       </address>     </author>     <author initials=\"R.\" surname=\"Eatmon\" fullname=\"Ryan Eatmon\">       <organization/>       <address>         <email>reatmon@jabber.org</email>       </address>     </author>     <author initials=\"D.\" surname=\"Sutton\" fullname=\"David Sutton\">       <organization/>       <address>         <email>dsutton@legend.co.uk</email>       </address>     </author>     <date day=\"05\" month=\"November\" year=\"2002\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0039\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0039.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "adced62a2fee284a2f9418e6122734e5", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0039.xml"
+}

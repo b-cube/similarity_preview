@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>MembersOnly Search</ShortName><Description>Search MembersOnly</Description><Url type=\"text/html\" method=\"get\" template=\"http://secure.fisheries.org/membersonly/My_Account_2/MemberPortal/MyAccount/Account_Page.aspx?hkey=00a6fa01-005d-41fa-b984-519f9cf04fddiMIS/ContentManagement/Search.aspx?SearchTerms={searchTerms}\"/><Image>http://secure.fisheries.org/membersonly/My_Account_2/MemberPortal/MyAccount/Account_Page.aspx?hkey=00a6fa01-005d-41fa-b984-519f9cf04fddfavicon.ico</Image><InputEncoding>UTF-8</InputEncoding><SearchForm>http://secure.fisheries.org/membersonly/My_Account_2/MemberPortal/MyAccount/Account_Page.aspx?hkey=00a6fa01-005d-41fa-b984-519f9cf04fdd</SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9233c7387dfd9fa071513af1060c620a", 
+    "source_url": "https://secure.fisheries.org/OpenSearch.aspx"
+}

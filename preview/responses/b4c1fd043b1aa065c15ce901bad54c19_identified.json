@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">British Geological Survey (BGS) Geophysical Survey 1972/7: Sound of Jura and Irish Sea (07/08/1972 to 27/08/1972)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-5438-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">This British Geological Survey (BGS) geophysical survey took place in August 1972 in the Sound of Jura and Irish Sea on board the MV Researcher. The purpose was to conduct gravity meter trials and collect data for UK regional mapping. Subsurface data were gathered using a gravity meter. These data were are archived by BGS. Technical details of the survey are contained in BGS report WB/MG/73/39.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">1972-08-27</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b4c1fd043b1aa065c15ce901bad54c19", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-5438-0f38-e044-0003ba9b0d98.xml/DC"
+}

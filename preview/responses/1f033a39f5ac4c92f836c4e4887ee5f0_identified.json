@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Tsuda2010 </Local-number>  <Author>Tsuda, R. T., Fisher, J. R., Vroom, P. S., Abbott, I. A. </Author>  <Title>New records of subtidal benthic marine algae from Wake Atoll, Central Pacific </Title>  <Journal-Title>Botanica Marina </Journal-Title>  <Publication-Date><caldate>2010 </caldate></Publication-Date>  <Volume-ID>53 </Volume-ID>  <Issue-ID>1 </Issue-ID>  <Extent>19-29 </Extent>  <Notes>FY2005 CRCP Project ID 1221; Project Title: Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls; Principal Investigator: Rusty Brainard </Notes>  <Abstract>\"The marine flora of Wake Atoll is phytogeographically interesting because the atoll is a small (6.5 km2) isolated coral reef structure located in the central Pacific between the north-western Hawaiian Islands and the Marshall Islands. Eighty-one of the 103 species of subtidal marine benthic algae collected in October 2005 and April-May 2007 during two NOAA cruises to Wake Atoll represent new records for the atoll. Previously published collections include five species collected in December 1841 during the US Exploring Expedition, 35 additional species representing collections made in June 1998 by US Fish and Wildlife personnel, and incidental specimens collected by various biologists and deposited in the Herbarium Pacificum of the Bishop Museum, Honolulu. The 121 species of marine benthic algae now documented from Wake Atoll contain components from the Hawaiian Islands and Marshall Islands, but show a closer resemblance to those of the Hawaiian Archipelago.\" </Abstract>  <DOI>10.1515/BOT.2010.005 </DOI>  <DOI-URL>http://dx.doi.org/10.1515/BOT.2010.005 </DOI-URL>  <Keywords>central Pacific, coral reef, marine algae, Micronesia, Wake Atoll </Keywords>  <Date-Time-Last-Modified>20100421000000 </Date-Time-Last-Modified>  <project>  <ID>1221 </ID>  <title>Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls </title>  <PI>Rusty Brainard </PI>  </project>  <Region>RMI </Region>  <Bounding>  <Eastbc>169.97 </Eastbc>  <Westbc>162.302 </Westbc>  <Southbc>5.573 </Southbc>  <Northbc>14.71 </Northbc>  </Bounding>  <CoRIS-Record-Type>article </CoRIS-Record-Type>  <Local-subject-index>article </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1f033a39f5ac4c92f836c4e4887ee5f0", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B594F35A7-558B-4624-B752-0D97BB487F19%7D"
+}

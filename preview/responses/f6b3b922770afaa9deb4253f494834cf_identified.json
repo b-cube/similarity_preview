@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../FTE%20Calculation%20Tool%202007.html\"/>  <o:File HRef=\"image001.png\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f6b3b922770afaa9deb4253f494834cf", 
+    "source_url": "http://www.usnhgateway.org/hr_tools/FTE%20Calculation%20Tool%202007_files/filelist.xml"
+}

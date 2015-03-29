@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <vocabulary id=\"launch_type\"> <terms> <term> <id>AUV</id> <description>Autonomous Underwater Vehicle</description> </term> <term> <id>HOV</id> <description>Human-Occupied Vehicle</description> </term> <term> <id>ROV</id> <description>Remotely-Operated Vehicle</description> </term> </terms> </vocabulary> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "45eda3d8791b46b84cf268e64d16ddf6", 
+    "source_url": "http://www.marine-geo.org/services/getVocabulary/?id=launch_type&fmt=xml"
+}

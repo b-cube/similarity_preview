@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-css3-multicol-20091217'            target='http://www.w3.org/TR/2009/CR-css3-multicol-20091217'> <front> <title>CSS Multi-column Layout Module</title>  <author initials='H.' surname='Lie' fullname='H\\ufffd\\ufffdkon Wium Lie'>     <organization /> </author>  <date month='December' day='17' year='2009' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-css3-multicol-20091217' /> <format type='HTML' target='http://www.w3.org/TR/2009/CR-css3-multicol-20091217' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "55fbc3a163d6c1075c6f4acad2303e6f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.CR-css3-multicol-20091217.xml"
+}

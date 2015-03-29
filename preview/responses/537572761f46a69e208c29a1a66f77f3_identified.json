@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/drcog-environmental-justice-2014\" rel=\"alternate\"></link><id>/revision/drcog-environmental-justice-2014</id><updated>2015-03-19T11:41:52Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "537572761f46a69e208c29a1a66f77f3", 
+    "source_url": "http://data.opencolorado.org/dataset/history/drcog-environmental-justice-2014?days=7&format=atom"
+}

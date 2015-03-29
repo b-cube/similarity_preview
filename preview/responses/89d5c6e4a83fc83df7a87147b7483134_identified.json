@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Mynediad Agored / Open Access</title> <link href=\"http://hdl.handle.net/2160/14428\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/2160/14428</id> <updated>2015-03-19T04:07:31Z</updated> <dc:date>2015-03-19T04:07:31Z</dc:date> <entry> <title>PLOS Open Access</title> <link href=\"http://hdl.handle.net/2160/14809\" rel=\"alternate\"/> <author> <name>Stead, Nicola</name> </author> <id>http://hdl.handle.net/2160/14809</id> <updated>2014-11-04T16:10:49Z</updated> <published>2014-10-24T00:00:00Z</published> <summary type=\"text\">PLOS Open Access Stead, Nicola This was a talk presented by Dr Nicola Stead for International Open Access Week 2014 at a REF &amp; Open Access event held at Aberystwyth Arts Centre Cinema. </summary> <dc:date>2014-10-24T00:00:00Z</dc:date> </entry> <entry> <title>International Open Access Week - Aberystwyth 2014</title> <link href=\"http://hdl.handle.net/2160/14430\" rel=\"alternate\"/> <author> <name>Institutional Repository &amp; Metadata Team</name> </author> <id>http://hdl.handle.net/2160/14430</id> <updated>2014-10-30T03:00:30Z</updated> <published>2014-10-01T00:00:00Z</published> <summary type=\"text\">International Open Access Week - Aberystwyth 2014 Institutional Repository &amp; Metadata Team International Open Access Week poster - Aberystwyth October 2014 </summary> <dc:date>2014-10-01T00:00:00Z</dc:date> </entry> <entry> <title>Wiley and Open Access</title> <link href=\"http://hdl.handle.net/2160/14427\" rel=\"alternate\"/> <author> <name>Scheer, Eva-Maria</name> </author> <id>http://hdl.handle.net/2160/14427</id> <updated>2014-10-27T16:39:39Z</updated> <published>2014-10-24T00:00:00Z</published> <summary type=\"text\">Wiley and Open Access Scheer, Eva-Maria This was a talk presented by Eva-Maria Scheer for International Open Access Week 2014 at a REF &amp; Open Access event held at Aberystwyth Arts Centre Cinema. </summary> <dc:date>2014-10-24T00:00:00Z</dc:date> </entry> <entry> <title>Springer and BioMed Central - Open Access</title> <link href=\"http://hdl.handle.net/2160/14426\" rel=\"alternate\"/> <author> <name>Wilkinson, Daniel</name> </author> <id>http://hdl.handle.net/2160/14426</id> <updated>2014-10-27T16:40:32Z</updated> <published>2014-10-24T00:00:00Z</published> <summary type=\"text\">Springer and BioMed Central - Open Access Wilkinson, Daniel This was a talk presented by Daniel Wilkinson for International Open Access Week 2014 at a REF &amp; Open Access event held at Aberystwyth Arts Centre's Cinema. </summary> <dc:date>2014-10-24T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "89d5c6e4a83fc83df7a87147b7483134", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/14428"
+}

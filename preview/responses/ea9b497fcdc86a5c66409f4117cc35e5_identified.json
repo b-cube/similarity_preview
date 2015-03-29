@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><!DOCTYPE ServiceExceptionReport SYSTEM \"http://geosrv:8080/geoserver/schemas/wms/1.1.1/WMS_exception_1_1_1.dtd\"> <ServiceExceptionReport version=\"1.1.1\" >   <ServiceException code=\"LayerNotDefined\" locator=\"layers\">       Could not find layer DRCOGPUB:rtd_directordistrics </ServiceException></ServiceExceptionReport>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1.1", 
+        "protocol": "OGC:error", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ea9b497fcdc86a5c66409f4117cc35e5", 
+    "source_url": "http://gis.drcog.org/geoserver/wms?service=WMS&version=1.1.0&request=GetMap&layers=DRCOGPUB%3Artd_directordistrics&styles=&bbox=2945479.25%2C1472046.875%2C3268284.75%2C1885381.625&width=399&height=512&srs=EPSG%3A2232&format=image/png"
+}

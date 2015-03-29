@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>Workflow Management Coalition</ShortName><Description></Description><InputEncoding>UTF-8</InputEncoding><Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.wfmc.org/favicon.ico</Image><Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.wfmc.org/component/search/?format=opensearch\"/><Url type=\"text/html\" template=\"http://www.wfmc.org/index.php?option=com_search&amp;searchword={searchTerms}\"/></OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "96337906d034dfdf689f4308b4127280", 
+    "source_url": "http://www.wfmc.org/component/search/?format=opensearch"
+}

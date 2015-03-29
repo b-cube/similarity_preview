@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://maritimeboundaries.noaa.gov/arcgis/rest/services/RNC/NOAA_RNC_Footprints/MapServer</loc> </url> <url> <loc>http://maritimeboundaries.noaa.gov/arcgis/rest/services/RNC/NOAA_RNC/ImageServer</loc> </url> <url> <loc>http://maritimeboundaries.noaa.gov/arcgis/rest/services/RNC/NOAA_RNC/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "69c5e7e9b8de4c1d5acb38ce52a6f33c", 
+    "source_url": "http://maritimeboundaries.noaa.gov/arcgis/rest/services/RNC?f=sitemap"
+}

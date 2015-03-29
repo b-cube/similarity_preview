@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <data created=\"12/10/2014\" records=\"5\"> <title>AC01_RR_Appealable_HO_Dispositions</title>             <row>                                                             <APPEALABLE_HO_DISPOSITIONS>325925</APPEALABLE_HO_DISPOSITIONS>                                                      <FISCALYEAR>FY 2010</FISCALYEAR>                                                      <PERCENTAGE>39.48</PERCENTAGE>                                                      <RR_RECEIPTS>128689</RR_RECEIPTS>                                           </row>                 <row>                                                             <APPEALABLE_HO_DISPOSITIONS>383691</APPEALABLE_HO_DISPOSITIONS>                                                      <FISCALYEAR>FY 2011</FISCALYEAR>                                                      <PERCENTAGE>45.17</PERCENTAGE>                                                      <RR_RECEIPTS>173332</RR_RECEIPTS>                                           </row>                 <row>                                                             <APPEALABLE_HO_DISPOSITIONS>447511</APPEALABLE_HO_DISPOSITIONS>                                                      <FISCALYEAR>FY 2012</FISCALYEAR>                                                      <PERCENTAGE>38.85</PERCENTAGE>                                                      <RR_RECEIPTS>173849</RR_RECEIPTS>                                           </row>                 <row>                                                             <APPEALABLE_HO_DISPOSITIONS>458869</APPEALABLE_HO_DISPOSITIONS>                                                      <FISCALYEAR>FY 2013</FISCALYEAR>                                                      <PERCENTAGE>37.59</PERCENTAGE>                                                      <RR_RECEIPTS>172492</RR_RECEIPTS>                                           </row>                 <row>                                                             <APPEALABLE_HO_DISPOSITIONS>415808</APPEALABLE_HO_DISPOSITIONS>                                                      <FISCALYEAR>FY 2014</FISCALYEAR>                                                      <PERCENTAGE>37.36</PERCENTAGE>                                                      <RR_RECEIPTS>155352</RR_RECEIPTS>                                           </row>                              </data> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3ffdaeef7be7fd5fc21e2c85ca059e5b", 
+    "source_url": "http://www.socialsecurity.gov/appeals/DataSets/AC01_RR_Appealable_HO_Dispositions.xml"
+}

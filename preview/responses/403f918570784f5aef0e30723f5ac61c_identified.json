@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Search HELCATS</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">https://www.helcats-fp7.eu/trac/chrome/common/trac.ico</Image>   <Url type=\"text/html\" template=\"https://www.helcats-fp7.eu/trac/search?q={searchTerms}&amp;page={startPage}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "403f918570784f5aef0e30723f5ac61c", 
+    "source_url": "https://www.helcats-fp7.eu/trac/search/opensearch"
+}

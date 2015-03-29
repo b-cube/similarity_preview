@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\">   <service>     <engineName>WordPress</engineName>     <engineLink>http://wordpress.org/</engineLink>     <homePageLink>http://www.discovery.org/id</homePageLink>     <apis>       <api name=\"WordPress\" blogID=\"1\" preferred=\"true\" apiLink=\"http://www.discovery.org/id/xmlrpc.php\" />       <api name=\"Movable Type\" blogID=\"1\" preferred=\"false\" apiLink=\"http://www.discovery.org/id/xmlrpc.php\" />       <api name=\"MetaWeblog\" blogID=\"1\" preferred=\"false\" apiLink=\"http://www.discovery.org/id/xmlrpc.php\" />       <api name=\"Blogger\" blogID=\"1\" preferred=\"false\" apiLink=\"http://www.discovery.org/id/xmlrpc.php\" />           </apis>   </service> </rsd> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d86ed1936a0c990e296ba524f1d67188", 
+    "source_url": "http://www.discovery.org/id/xmlrpc.php?rsd"
+}

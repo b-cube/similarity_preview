@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ITU.H323v3.1999\"> <front> <title>Packet-based Multimedia Communications Systems (includes Annex C - H.323 on ATM)</title> <author> <organization></organization> </author> <date month=\"September\" year=\"1999\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation H.323v3\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c082b2017dde601acf199c201b9027c1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ITU.H323v3.1999.xml"
+}

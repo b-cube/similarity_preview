@@ -1,0 +1,15 @@
+{
+    "content": "<feed xmlns=\"http://www.w3.org/2005/Atom\" xmlns:georss=\"http://www.georss.org/georss\" scast=\"http://sciflo.jpl.nasa.gov/serviceCasting/2009v1\"><id>http://azgs.az.gov/resources/atom</id><title>Arizona Geological Survey Atom Feed</title><updated>2015-03-19T01:50:27Z</updated><author><name>Arizona Geological Survey</name><email>metadata@usgin.org</email></author><entries><entry><title>AASG Geothermal Data: Well Log Observation Content Model</title><id>98ddf901b9782a25982e01af3b05b445</id><author><name>Richard, Stephen; Love, Diane; Coleman, Celia; Pape, Esty</name><contactInformation><phone>520 770-3500</phone><email/><address><street>416 W. Congress suite 100</street><city>Tucson</city><state>Arizona</state><zip>85701</zip></address></contactInformation></author><link href=\"/metadata/record/98ddf901b9782a25982e01af3b05b445/\" rel=\"alternate\"/><link href=\"http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b05b445/file/welllogdatatemplate1.0.zip\"/><link href=\"http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b05b445/file/welllogdatatemplate1.2_0.zip\"/><link href=\"http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b05b445/file/welllogobservationcontentmodel_schemamatch0.8_0.zip\"/><updated>2013-08-26T20:29:04Z</updated><summary>Please see the current location for information exchange formats (Excel workbooks and schemas) at http://schemas.usgin.org/models. This repository is not the most updated location for schemas. This spreadsheet indicates the content requested for AASG geothermal data compiled from logs acquired in boreholes. The compiled data will be used to produce metadata records describing logs as resources of interest. Typcially bottomhole temperatures are recorded from log headers, and this information will be provided through a borehole temperature observation service. The HeaderURI for a particular borehole (well for simple wells) is the cross-referencing link (foreign key) used to associate the header record, well logs, temperature measurements, and other information from a particular borehole.</summary><georss:box>-170.332 14.7142 -64.8633 72.5357</georss:box></entry></entries></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2f8383a09edfdf4d131d2984d854786d", 
+    "source_url": "http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b05b445.atom.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <vocabulary id=\"entry_type\"> <terms> <term> <id>Compilation</id> <description>A data compilation, e.g. bathymetric grid composed of data from many cruises, a Fledermous scene, earthquake catalog, table of derived GPS velocities from many campaigns, etc.</description> </term> <term> <id>ECL</id> <description>Collection of Geochemical data, methods or software that has been registered in the EarthChem Library (ECL)</description> </term> <term> <id>Field:Airborne</id> <description>Field data acquired using an airborne platform</description> </term> <term> <id>Field:Land</id> <description>Field programs that acquire data using a land based platform</description> </term> <term> <id>Field:Marine</id> <description>Field programs that acquire data aboard a marine platform.</description> </term> <term> <id>Field:Marine:Docked</id> <description>Marine entry that is at a moored or docked position. Ex. Open Periods, Maintenance, Dry Dock; valid data may be collected</description> </term> <term> <id>Field:Marine:Transit</id> <description>Field work in a marine environment during a transit between funded surveys: may contain data</description> </term> </terms> </vocabulary> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4ac3d5081b4a8367fcef91a1181757ed", 
+    "source_url": "http://www.marine-geo.org/services/getVocabulary/?id=entry_type&fmt=xml"
+}

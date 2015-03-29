@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><?xml-stylesheet type=\"text/xsl\" href=\"http://mrdata.usgs.gov/nicrpge/nicrpge.xsl\"?><record id=\"8401\"><name>Naboom</name><latitude>-24.34</latitude><longitude>29.51</longitude><src_rec_no>810</src_rec_no><record_tp>Mine, Abandoned</record_tp><country>South Africa</country><class>Past Producer</class><ref_short>Martini and others (2001)</ref_short><reference>Martini, J.E.J., Vorster, C.J., Oosterhuis, W.R., and Wolmarans, L.G., 2001, Digital metallogenic map of South Africa and the Kingdoms of Lesotho and Swaziland [mineralpoints.dbf]: Council for Geoscience (Geological Survey), South Africa, scale 1:1,000,000, CD-ROM.</reference><commodity>Cr</commodity></record>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c77758a723f75f3016eda316d59d6885", 
+    "source_url": "http://mrdata.usgs.gov/nicrpge/show-nicrpge.php?site_id=8401"
+}

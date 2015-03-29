@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../todd.htm\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1803d54166c413bf9fb497abda8f0b49", 
+    "source_url": "https://www.ndsu.edu/pubweb/~akhmedov/todd_files/filelist.xml"
+}

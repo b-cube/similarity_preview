@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Digwyddiad Cadwrfeydd a CRIS 2010/Repositories and CRIS Event 2010</title> <link href=\"http://hdl.handle.net/2160/4650\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/2160/4650</id> <updated>2015-03-20T01:20:23Z</updated> <dc:date>2015-03-20T01:20:23Z</dc:date> <entry> <title>How not to do it: lessons learnt and tips from the field</title> <link href=\"http://hdl.handle.net/2160/4655\" rel=\"alternate\"/> <author> <name>Knowles, Jackie</name> </author> <id>http://hdl.handle.net/2160/4655</id> <updated>2014-10-22T11:40:56Z</updated> <published>2010-05-01T00:00:00Z</published> <summary type=\"text\">How not to do it: lessons learnt and tips from the field Knowles, Jackie Selection of tips and guidance sourced from repository and CRIS (Current Research Information Systems) practitioners. </summary> <dc:date>2010-05-01T00:00:00Z</dc:date> </entry> <entry> <title>An Ideal CRIS?</title> <link href=\"http://hdl.handle.net/2160/4654\" rel=\"alternate\"/> <author> <name>Clements, Anna</name> </author> <id>http://hdl.handle.net/2160/4654</id> <updated>2014-10-22T11:40:47Z</updated> <published>2010-05-01T00:00:00Z</published> <summary type=\"text\">An Ideal CRIS? Clements, Anna Overview of CRIS (Current Research Information Systems) and the CERIF standard. </summary> <dc:date>2010-05-01T00:00:00Z</dc:date> </entry> <entry> <title>Institutional Repositories, just a bit of a CRIS?</title> <link href=\"http://hdl.handle.net/2160/4653\" rel=\"alternate\"/> <author> <name>Kerridge, Simon</name> </author> <id>http://hdl.handle.net/2160/4653</id> <updated>2014-10-22T11:41:04Z</updated> <published>2010-05-01T00:00:00Z</published> <summary type=\"text\">Institutional Repositories, just a bit of a CRIS? Kerridge, Simon Overview of CRIS (Current Research Information Systems). </summary> <dc:date>2010-05-01T00:00:00Z</dc:date> </entry> <entry> <title>Why a CRIS</title> <link href=\"http://hdl.handle.net/2160/4652\" rel=\"alternate\"/> <author> <name>McGregor, Andy</name> </author> <id>http://hdl.handle.net/2160/4652</id> <updated>2014-10-22T11:40:56Z</updated> <published>2010-05-01T00:00:00Z</published> <summary type=\"text\">Why a CRIS McGregor, Andy Overview of the overlaps between repositories and CRIS (Current Research Information Systems). </summary> <dc:date>2010-05-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7ffc2c4588157825e8f9860e270b4340", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/4650"
+}

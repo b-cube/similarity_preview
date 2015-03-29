@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">             <channel rdf:about=\"http://www.infectiousdisease.cam.ac.uk/directory/search-by-keyword/Diabetes/RSS\">   <title>Diabetes</title>   <link>http://www.infectiousdisease.cam.ac.uk</link>    <description>                    </description>                     <syn:updatePeriod>daily</syn:updatePeriod>             <syn:updateFrequency>1</syn:updateFrequency>             <syn:updateBase>2011-10-04T15:40:51Z</syn:updateBase>             <image rdf:resource=\"http://www.infectiousdisease.cam.ac.uk/logo.png\"/>    <items>     <rdf:Seq>                <rdf:li rdf:resource=\"http://www.infectiousdisease.cam.ac.uk/directory/gavin.koh@idp.protectnetwork.org\"/>            </rdf:Seq>   </items>  </channel>     <item rdf:about=\"http://www.infectiousdisease.cam.ac.uk/directory/gavin.koh@idp.protectnetwork.org\">     <title>Dr Gavin CKW Koh, PhD MRCP</title>     <link>http://www.infectiousdisease.cam.ac.uk/directory/gavin.koh@idp.protectnetwork.org</link>     <description></description>          <dc:publisher>No publisher</dc:publisher>     <dc:creator>avd26@cam.ac.uk</dc:creator>     <dc:rights></dc:rights>            <dc:subject>Burkholderia</dc:subject>                 <dc:subject>Bioinformatics</dc:subject>                 <dc:subject>Host-pathogen interactions</dc:subject>                 <dc:subject>Melioidosis</dc:subject>                 <dc:subject>Diabetes</dc:subject>          <dc:date>2009-01-01T00:00:00Z</dc:date>     <dc:type>Person</dc:type>   </item>      </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5303e31ca5f8a94adde0e68713c5c9e2", 
+    "source_url": "http://www.infectiousdisease.cam.ac.uk/directory/search-by-keyword/Diabetes/RSS"
+}

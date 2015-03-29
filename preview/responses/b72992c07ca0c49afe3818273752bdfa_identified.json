@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>English</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/131670\" rel=\"alternate\"/> <subtitle>LLCC - English</subtitle> <id>http://www.repository.cam.ac.uk:80/handle/1810/131670</id> <updated>2015-03-13T04:38:51Z</updated> <dc:date>2015-03-13T04:38:51Z</dc:date> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b72992c07ca0c49afe3818273752bdfa", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/atom_1.0/1810/131670"
+}

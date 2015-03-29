@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20103074</identifier><identifier type=\"pwpk\">98683</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2010-3074</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A climate trend analysis of Kenya-August 2010</title></titleInfo><originInfo><dateOther>Fri, 10 Sep 2010 00:00 -0500</dateOther><dateIssued>2010</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Funk, Chris</namePart><role>Author</role></name><abstract>Introduction&#xd; This brief report draws from a multi-year effort by the United States Agency for International Development's Famine Early Warning System Network (FEWS NET) to monitor and map rainfall and temperature trends over the last 50 years (1960-2009) in Kenya. Observations from seventy rainfall gauges and seventeen air temperature stations were analyzed for the long rains period, corresponding to March through June (MAMJ). The data were quality controlled, converted into 1960-2009 trend estimates, and interpolated using a rigorous geo-statistical technique (kriging). Kriging produces standard error estimates, and these can be used to assess the relative spatial accuracy of the identified trends. Dividing the trends by the associated errors allows us to identify the relative certainty of our estimates (Funk and others, 2005; Verdin and others, 2005; Brown and Funk, 2008; Funk and Verdin, 2009). Assuming that the same observed trends persist, regardless of whether or not these changes are due to anthropogenic or natural cyclical causes, these results can be extended to 2025, providing critical, and heretofore missing information about the types and locations of adaptation efforts that may be required to improve food security.&#xd; </abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2010_3074.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2010/3074/</url></location><note type=\"citation/reference\">A climate trend analysis of Kenya-August 2010; 2010; FS; 2010-3074; Fact Sheet; Funk, Chris</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4303e8e1f05c7744d81bc3c79d49ae60", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20103074"
+}

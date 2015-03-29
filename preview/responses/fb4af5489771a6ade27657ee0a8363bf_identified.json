@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='ISO-8859-1'?><martif type=\"MSC\" lang=\"en\"><martifHeader><fileDesc><sourceDesc><p>OECD Glossary of Statistical Terms</p></sourceDesc></fileDesc><publicationStmt><p type=\"resultCount\">0</p><p type=\"resultsPerPage\">10</p><p type=\"currentPage\">1</p></publicationStmt></martifHeader><text><body></body></text></martif>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fb4af5489771a6ade27657ee0a8363bf", 
+    "source_url": "http://stats.oecd.org/glossary/filter.asp?vET=ON&vFC=ON&cFC=C&tFC=Brut&format=martif"
+}

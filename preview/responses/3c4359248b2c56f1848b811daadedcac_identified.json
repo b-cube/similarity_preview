@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123127</identifier><identifier type=\"pwpk\">70042319</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3127</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>The ongoing Pu\\ufffd\\ufffdu \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd eruption of K\\ufffd\\ufffdlauea Volcano, Hawai\\ufffd\\ufffdi: 30 years of eruptive activity</title></titleInfo><originInfo><dateOther>Thu, 3 Jan 2013 00:00 -0600</dateOther><dateIssued>2013</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Orr, Tim R.; Heliker, Christina; Patrick, Matthew R.</namePart><role>Author</role></name><abstract>The Pu\\ufffd\\ufffdu \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd eruption of K\\ufffd\\ufffdlauea Volcano is its longest rift-zone eruption in more than 500 years. Since the eruption began in 1983, lava flows have buried 48 square miles (125 square kilometers) of land and added about 500 acres (200 hectares) of new land to the Island of Hawai\\ufffd\\ufffdi. The eruption not only challenges local communities, which must adapt to an ever-changing and sometimes-destructive environment, but has also drawn millions of visitors to Hawai\\ufffd\\ufffdi Volcanoes National Park. U.S. Geological Survey (USGS) scientists closely monitor and evaluate hazards at Hawai\\ufffd\\ufffdi\\ufffd\\ufffd\\ufffds volcanoes and also work with park rangers to help ensure safe lava viewing for visitors.</abstract><physicalDescription><form>6 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2012/3127/fs2012-3127.pdf</url><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3127.gif</url><url note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3127/</url></location><note type=\"citation/reference\">The ongoing Pu\\ufffd\\ufffdu \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd eruption of K\\ufffd\\ufffdlauea Volcano, Hawai\\ufffd\\ufffdi: 30 years of eruptive activity; 2013; FS; 2012-3127; Fact Sheet; Orr, Tim R.; Heliker, Christina; Patrick, Matthew R.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3c4359248b2c56f1848b811daadedcac", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123127"
+}

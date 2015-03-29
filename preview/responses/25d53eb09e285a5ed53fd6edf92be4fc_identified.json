@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/afghanistan/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/africa/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/arabian/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/arctic/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/asiapacific/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/bangladesh/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/caribbean/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/europe/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/formersovietunion/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/gulfofmexico/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/iran/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/northamerica_gmna/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/southamerica/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/southasia/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "25d53eb09e285a5ed53fd6edf92be4fc", 
+    "source_url": "http://certmapper.cr.usgs.gov/arcgis/rest/services/geology?f=sitemap"
+}

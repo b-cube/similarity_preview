@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!-- JNLP File for VARS Query Application --> <!-- $Id: varsquery.jnlp,v 1.5 2006/12/04 22:31:20 brian Exp $ --> <jnlp codebase=\"http://dsg.mbari.org/vars/webstart/\" href=\"varspublicquery.jnlp\">     <information>         <title>VARS Public Query</title>         <vendor>MBARI</vendor>         <homepage href=\"index.html\"/>         <description>VARS Public Query Application</description>         <icon href=\"vars/images/query-64.jpg\"/>         <icon kind=\"splash\" href=\"vars/images/query-splash.jpg\"/>         <offline-allowed/>         <shortcut>             <desktop/>             <menu submenu=\"VARS\"/>         </shortcut>     </information>     <security>         <all-permissions/>     </security>     <resources>         <j2se version=\"1.7+\" initial-heap-size=\"128m\" max-heap-size=\"1024m\"/>         <jar href=\"vars/lib/vars-query-7.0.5-SNAPSHOT.jar\" />         <jar href=\"vars/lib/vars-redux-jnlp-7.0.5-SNAPSHOT.jar\" />         <jar href=\"vars/lib/activation-1.1.1.jar\" />         <jar href=\"vars/lib/aopalliance-1.0.jar\" />         <jar href=\"vars/lib/commons-email-1.3.3.jar\" />         <jar href=\"vars/lib/eclipselink-2.5.2.jar\" />         <jar href=\"vars/lib/eventbus-1.4.jar\" />         <jar href=\"vars/lib/forms-1.0.5.jar\" />         <jar href=\"vars/lib/foxtrot-core-4.0.jar\" />         <jar href=\"vars/lib/guava-17.0.jar\" />         <jar href=\"vars/lib/guice-3.0.jar\" />         <jar href=\"vars/lib/imagej-1.41.jar\" />         <jar href=\"vars/lib/jasypt-1.9.2.jar\" />         <jar href=\"vars/lib/javax.inject-1.jar\" />         <jar href=\"vars/lib/javax.persistence-2.1.0.jar\" />         <jar href=\"vars/lib/jta-1.1.jar\" />         <jar href=\"vars/lib/jtds-1.3.1.jar\" />         <jar href=\"vars/lib/logback-classic-1.0.13.jar\" />         <jar href=\"vars/lib/logback-core-1.0.13.jar\" />         <jar href=\"vars/lib/mail-1.4.5.jar\" />         <jar href=\"vars/lib/mbarix4j-1.9.3-SNAPSHOT.jar\" />         <jar href=\"vars/lib/slf4j-api-1.7.7.jar\" />         <jar href=\"vars/lib/swing-layout-1.0.3.jar\" />         <jar href=\"vars/lib/swingx-all-1.6.5-1.jar\" />         <jar href=\"vars/lib/vars-core-7.0.5-SNAPSHOT.jar\" />         <jar href=\"vars/lib/vars-jpa-7.0.5-SNAPSHOT.jar\" />         <jar href=\"vars/lib/vars-quicktime-7.0.5-SNAPSHOT.jar\" />         <jar href=\"vars/lib/vars-shared-ui-7.0.5-SNAPSHOT.jar\" />     </resources>     <application-desc main-class=\"vars.query.ui.App\"/> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a9db5b74eecaf63c9c1a3ddcf2390f4d", 
+    "source_url": "http://dsg.mbari.org/vars/webstart/varspublicquery.jnlp"
+}

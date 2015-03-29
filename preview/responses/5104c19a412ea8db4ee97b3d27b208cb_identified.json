@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0042\">   <front>     <title>Jabber OOB Broadcast Service (JOBS)</title>     <author initials=\"M.\" surname=\"Miller\" fullname=\"Matthew Miller\">       <organization/>       <address>         <email>linuxwolf@outer-planes.net</email>       </address>     </author>     <date day=\"11\" month=\"April\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0042\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0042.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5104c19a412ea8db4ee97b3d27b208cb", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0042.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\"> <service> <engineName>Movable Type Pro 4.34-en</engineName> <engineLink>http://www.sixapart.com/movabletype/</engineLink> <homePageLink>http://advancingphysics.iop.org/</homePageLink> <apis> <api name=\"MetaWeblog\" preferred=\"true\" apiLink=\"http://www.iop.org/mt4/mt-xmlrpc.cgi\" blogID=\"1\" /> <api name=\"MovableType\" preferred=\"false\" apiLink=\"http://www.iop.org/mt4/mt-xmlrpc.cgi\" blogID=\"1\" /> <api name=\"Blogger\" preferred=\"false\" apiLink=\"http://www.iop.org/mt4/mt-xmlrpc.cgi\" blogID=\"1\" /> <api name=\"Atom\" preferred=\"false\" apiLink=\"http://www.iop.org/mt4/mt-atom.cgi/weblog\" blogID=\"1\" /> </apis> </service> </rsd> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "03cf982ddc7d86fa7a42f56f52d03556", 
+    "source_url": "http://www.advancingphysics.org/rsd.xml"
+}

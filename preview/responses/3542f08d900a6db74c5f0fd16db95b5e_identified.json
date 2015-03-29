@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">British Geological Survey (BGS) Geophysical and Multibeam Survey 2005/5_MESH: North Channel/Rockall Trough; CD174 (11/Aug/2005 to 08/Sep/2005)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-5343-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">This marine geophysical and multibeam survey took place in August and early September 2005 off the west coast of Scotland on board the RSS Charles Darwin (Cruise CD174) as part of the Mapping European Seabed Habitats (MESH) survey. The survey was carried out by the British Geological Survey (BGS). The area surveyed was in UK and Irish waters and lies between 55 and 57 Degrees North and between 8 and 14 Degrees West. This work was planned to integrate with existing UK, Irish and French multibeam data and also with multibeam data collected July-August 2005 during the UK Department of Trade and Industry (DTI) Strategic Environmental Assessment Surveys (SEAS) in the Rockall Trough. Seafloor bathymetry data were collected using a Simrad EM12 multibeam system. Subsurface seismic data were collected using an Airgun, Boomer, Pinger and Sparker. Magnetic and Gravity data were also collected. Technical details of the survey are contained in BGS Internal Report IR/05/132.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2005-09-08</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3542f08d900a6db74c5f0fd16db95b5e", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-5343-0f38-e044-0003ba9b0d98.xml/DC"
+}

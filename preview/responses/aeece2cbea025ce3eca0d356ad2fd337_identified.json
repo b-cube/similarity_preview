@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <?xml-stylesheet href=\"http://www.atomenabled.org/css/atom.css\" type=\"text/css\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">  <icon>http://www.lsoft.com/images/listserv-community.gif</icon> <logo>http://www.lsoft.com/images/listserv_small.gif</logo> <link rel=\"related\" href=\"http://www.lsoft.com/products/listserv-powered.asp\" title=\"Powered by L-Soft's LISTSERV mailing list manager\"/>  <title>BEYONDTEXT List</title> <subtitle>BEYONDTEXT List Archives</subtitle> <link rel=\"alternate\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=BEYONDTEXT\"/> <link rel=\"self\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=BEYONDTEXT&amp;v=ATOM1.0\"/> <id>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=BEYONDTEXT&amp;v=ATOM1.0</id> <div class=\"info\" xmlns=\"http://www.w3.org/1999/xhtml\">This is an Atom formatted XML site feed. It is intended to be viewed in a Newsreader. Alternatively you can view the HTML archives at https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=BEYONDTEXT. </div> <generator uri=\"/cgi-bin/webadmin?DEBUG-SHOW-VERSION\">LISTSERV Web Interface 2.4.1</generator> <updated>2014-11-26T11:49:12Z</updated>   <entry xmlns='http://www.w3.org/2005/Atom'>   <link rel='alternate' href='https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=BEYONDTEXT;9dd01100.1411' title='Neurocreator - new journal '/>   <author>      <name>Mal Williamson</name>   </author>   <published>2014-11-26T11:39:00+00:00</published>   <updated>2014-11-26T11:39:00+00:00</updated>   <title>Neurocreator - new journal </title>   <id>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=BEYONDTEXT;9dd01100.1411</id>   <content type='html'>*apologies for cross-posting*&lt;br&gt;&lt;br&gt;Hello Creators,&lt;br&gt;&lt;br&gt;the inaugural journal of Neurocreator introduces a different way of looking&lt;br&gt;at how creators do what we do.&lt;br&gt;&lt;br&gt;From the traditions of general semantics, neuro-linguistics, changework&lt;br&gt;therapies and the latest explorations of neuroscience comes an approach&lt;br&gt;that is already transforming creators' lives.&lt;br&gt;&lt;br&gt;For instance, the concepts of inspiration and the muse are based on very&lt;br&gt;old ideas - such as the belief system of the Roman Empire and their gods!&lt;br&gt;Surely in the 21st Century we can get closer to the reality of the creative&lt;br&gt;process? [...]</content> </entry>  </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aeece2cbea025ce3eca0d356ad2fd337", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=BEYONDTEXT&v=ATOM1.0"
+}

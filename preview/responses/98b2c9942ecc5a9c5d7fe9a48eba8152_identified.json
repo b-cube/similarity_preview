@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20093083</identifier><identifier type=\"pwpk\">97870</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2009-3083</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>How to Use the Marine Realms Information Bank (MRIB) Digital Libraries</title></titleInfo><originInfo><dateOther>Thu, 1 Oct 2009 00:00 -0500</dateOther><dateIssued>2009</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Lightsom, Frances L.; Allwardt, Alan O.</namePart><role>Author</role></name><abstract>Marine Realms Information Bank (MRIB) digital libraries provide access to free online scientific resources about oceans, coasts, and coastal watersheds. MRIB allows category, geographic, and keyword searching, alone or in combination. Instructions for searching the three MRIB libraries and for refining the searches are explained in detail.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2009_3083.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2009/3083/</url></location><note type=\"citation/reference\">How to Use the Marine Realms Information Bank (MRIB) Digital Libraries; 2009; FS; 2009-3083; Fact Sheet; Lightsom, Frances L.; Allwardt, Alan O.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "98b2c9942ecc5a9c5d7fe9a48eba8152", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20093083"
+}

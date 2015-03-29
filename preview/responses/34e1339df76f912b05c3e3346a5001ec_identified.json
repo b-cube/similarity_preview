@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.12661</dc:identifier><dc:creator>Colon,Knicole</dc:creator><dc:title>Characterizing Hot Jupiter Atmospheres with Large Ground-Based Telescopes</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;It has recently become possible to characterize the atmospheres of some extrasolar planets via transit spectroscopy, which is a crucial stepping stone towards future studies of Earth-like planets.&amp;nbsp; For hot Jupiters in particular,&amp;nbsp;potassium has been predicted to be one of the strongest sources of opacity at optical wavelengths. &amp;nbsp;Indeed, it&amp;nbsp;has been previously detected in the atmospheres of one of my planets of interest (XO-2b).&amp;nbsp; I presented narrow-band spectrophotometric observations of XO-2b as well as TrES-2b made with the 10.4-meter Gran Telescopio Canarias to confirm/search for absorption due to potassium in their atmospheres. &amp;nbsp;I&amp;nbsp;discussed the results from my search for potassium absorption in these planetary atmospheres as well as recent progress made in characterizing the atmospheres of hot Jupiters with other large ground-based telescopes.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-11-11</dc:date><dc:source>http://zenodo.org/record/12661</dc:source><dc:doi>10.5281/zenodo.12661</dc:doi><dc:identifier>http://zenodo.org/record/12661</dc:identifier><dc:identifier>oai:zenodo.org:12661</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "34e1339df76f912b05c3e3346a5001ec", 
+    "source_url": "https://zenodo.org/record/12661/export/xd"
+}

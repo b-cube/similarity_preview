@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Magdalene College</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/198276\" rel=\"alternate\"/> <subtitle/> <id>http://www.repository.cam.ac.uk:80/handle/1810/198276</id> <updated>2015-03-20T04:32:21Z</updated> <dc:date>2015-03-20T04:32:21Z</dc:date> <entry> <title>Investigating the Site of Newton's Laboratory in Trinity College, Cambridge</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/198285\" rel=\"alternate\"/> <author> <name>Spargo, P E</name> </author> <id>http://www.repository.cam.ac.uk:80/handle/1810/198285</id> <updated>2013-07-25T12:23:28Z</updated> <published>2005-07-01T00:00:00Z</published> <summary type=\"text\">Investigating the Site of Newton's Laboratory in Trinity College, Cambridge Spargo, P E It is not generally known that over the &#13; course of some thirty years, Isaac Newton&#13; carried out around four hundred chemical&#13; experiments in a private laboratory located in&#13; the walled garden immediately below his&#13; rooms in Trinity College, Cambridge. The&#13; exact location of his laboratory has long been a&#13; source of conjecture and this article describes&#13; a survey undertaken to determine both the&#13; possible site of the laboratory as well as that of&#13; the rubbish pit in which Newton would have&#13; disposed of the waste materials generated in&#13; his chemical experiments. The results are&#13; believed to be of sufficient interest to justify&#13; continuation of the investigation. </summary> <dc:date>2005-07-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bc3d494e93897b6317ab2f0daee001a9", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/atom_1.0/1810/198276"
+}

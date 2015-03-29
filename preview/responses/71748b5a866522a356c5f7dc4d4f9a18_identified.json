@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/orders/500914729\" ID=\"/opendap/hyrax/orders/500914729/\">             <thredds:dataset name=\"MOD02QKM.A2014255.0800.006.2014264205526.pssgcs_000500914729.Band_250M.hdf\"                        ID=\"/opendap/hyrax/orders/500914729/MOD02QKM.A2014255.0800.006.2014264205526.pssgcs_000500914729.Band_250M.hdf\">          <thredds:dataSize units=\"bytes\">35856</thredds:dataSize>          <thredds:date type=\"modified\">2015-03-14T04:53:18</thredds:date>          <thredds:access serviceName=\"dap\"                          urlPath=\"/orders/500914729/MOD02QKM.A2014255.0800.006.2014264205526.pssgcs_000500914729.Band_250M.hdf\"/>       </thredds:dataset>             <thredds:dataset name=\"README.1426308726_11213.5405.500914729.txt\"                        ID=\"/opendap/hyrax/orders/500914729/README.1426308726_11213.5405.500914729.txt\">          <thredds:dataSize units=\"bytes\">546</thredds:dataSize>          <thredds:date type=\"modified\">2015-03-14T04:53:18</thredds:date>          <thredds:access serviceName=\"file\"                          urlPath=\"/orders/500914729/README.1426308726_11213.5405.500914729.txt\"/>       </thredds:dataset>             <thredds:dataset name=\"checksums_500914729\"                        ID=\"/opendap/hyrax/orders/500914729/checksums_500914729\">          <thredds:dataSize units=\"bytes\">438</thredds:dataSize>          <thredds:date type=\"modified\">1970-01-01T00:00:00</thredds:date>          <thredds:access serviceName=\"file\" urlPath=\"/orders/500914729/checksums_500914729\"/>       </thredds:dataset>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "71748b5a866522a356c5f7dc4d4f9a18", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/orders/500914729/catalog.xml"
+}

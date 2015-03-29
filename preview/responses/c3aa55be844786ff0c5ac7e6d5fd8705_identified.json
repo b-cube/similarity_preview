@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Anti-NMDAR encephalitis: Demonstration of neuroinflammation and the effect of immunotherapy.</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Kondziella</surname>             <given-names>Daniel</given-names>           </name>           <aff>             <institution>Department of Neurology, Rigshospitalet, K\\ufffd\\ufffdbenhavn, Denmark</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Thomsen</surname>             <given-names>Gerda</given-names>           </name>           <aff>             <institution>Department of Neurology, Rigshospitalet, K\\ufffd\\ufffdbenhavn, Denmark</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Dyssegaard</surname>             <given-names>Agnete</given-names>           </name>           <aff>             <institution>Department of Neurology, Rigshospitalet, K\\ufffd\\ufffdbenhavn, Denmark</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Svarer</surname>             <given-names>Claus</given-names>           </name>           <aff>             <institution>Department of Neurology, Rigshospitalet, K\\ufffd\\ufffdbenhavn, Denmark</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Pinborg</surname>             <given-names>Lars</given-names>           </name>           <aff>             <institution>Department of Neurology, Rigshospitalet, K\\ufffd\\ufffdbenhavn, Denmark</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Jensen</surname>             <given-names>Per</given-names>           </name>           <aff>             <institution>Department of Neurology, Rigshospitalet, K\\ufffd\\ufffdbenhavn, Denmark</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2015</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/15839\"/>       <self-uri xlink:href=\"https://zenodo.org/record/15839/files/Jensen_Neurology_2015-P14.pdf\"/>     </article-meta>     <abstract>&lt;p&gt;Anti-NMDAR encephalitis&lt;/p&gt;  &lt;p&gt;Demonstration of neuroinflammation and the effect of&lt;/p&gt;  &lt;p&gt;immunotherapy&lt;/p&gt;</abstract>   </front>   <article-type>user-inmind</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c3aa55be844786ff0c5ac7e6d5fd8705", 
+    "source_url": "https://zenodo.org/record/15839/export/xn"
+}

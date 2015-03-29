@@ -1,0 +1,15 @@
+{
+    "content": "<?oxygen RNGSchema=\"http://www.tei-c.org/cms/system/modules/org.tei.www/_common/schemas/teilite.rnc\" type=\"compact\"?> <TEI xmlns=\"http://www.tei-c.org/ns/1.0\">          <teiHeader>         <fileDesc>                          <titleStmt>                                  <title>XSL stylesheets for TEI XML</title>                                  <author>Kevin Hawkins</author>                              </titleStmt>                          <publicationStmt>                 <p> </p>             </publicationStmt>                          <sourceDesc>                 <p>This file is the original.</p>             </sourceDesc>                      </fileDesc>     </teiHeader>          <text>                  <body>             <p>The XSL stylesheets for TEI XML are <ref target=\"https://github.com/TEIC/Stylesheets\">maintained on GitHub</ref>. <ref target=\"http://www.tei-c.org/release/doc/tei-xsl/\">Documentation</ref> is available online and updated with every release of the TEI Guidelines. See also <ref target=\"http://wiki.tei-c.org/index.php/Tei-xsl\">documentation in the TEI Wiki</ref>.</p>         </body>     </text> </TEI>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "183b100ac906850ba6cdbee4576a9239", 
+    "source_url": "http://www.tei-c.org/Tools/Stylesheets/index.xml?style=raw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0255'>  <front> <title>Status of network hosts</title> <author initials='E.' surname='Westheimer' fullname='E. Westheimer'> <organization /></author> <date year='1971' month='October' /></front>  <seriesInfo name='RFC' value='255' /> <format type='TXT' octets='4002' target='http://www.rfc-editor.org/rfc/rfc255.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "41e251e3fa6636be5e2b3039795fd580", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0255.xml"
+}

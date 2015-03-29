@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">British Geological Survey (BGS) Geophysical Survey 1969/SM/9: Firth of Clyde (08/12/1969 to 18/12/1969)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-5463-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">This British Geological Survey (BGS) marine geophysical survey took place in December 1969 in the Firth of Clyde on board the MV Stella Maris. The purpose was to investigate the superficial deposits of the clyde area, this survey was Phase 4 of a 5 phase project. Sea floor data were collected using echosounder. Sub-bottom seismic profiling data were collected using Pinger and Sparker. These records are archived by BGS. Details of the survey are contained in IGS report 73/9.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">1969-12-18</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dea5cf165914b8bbc533e9f0612f2a40", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-5463-0f38-e044-0003ba9b0d98.xml/DC"
+}

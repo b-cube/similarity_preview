@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>AEIOU - Activity data to Enhance &amp; Increase Open-access Usage</title> <link href=\"http://hdl.handle.net/2160/7191\" rel=\"alternate\"/> <subtitle>Creation of D Space recommendation service</subtitle> <id>http://hdl.handle.net/2160/7191</id> <updated>2015-03-19T04:15:48Z</updated> <dc:date>2015-03-19T04:15:48Z</dc:date> <entry> <title>DSpace Activity Exporter (Binary)</title> <link href=\"http://hdl.handle.net/2160/7206\" rel=\"alternate\"/> <author> <name>Corfield, Antony</name> </author> <id>http://hdl.handle.net/2160/7206</id> <updated>2011-07-28T16:35:10Z</updated> <published>2011-07-27T00:00:00Z</published> <summary type=\"text\">DSpace Activity Exporter (Binary) Corfield, Antony This includes a binary distribution with required Java libraries (jar files) and Howto for deploying and configuring with DSpace. </summary> <dc:date>2011-07-27T00:00:00Z</dc:date> </entry> <entry> <title>AEIOU Evaluation Report - Appendix C</title> <link href=\"http://hdl.handle.net/2160/7205\" rel=\"alternate\"/> <author> <name>AEIOU project team</name> </author> <id>http://hdl.handle.net/2160/7205</id> <updated>2011-07-27T10:21:27Z</updated> <published>2011-07-27T00:00:00Z</published> <summary type=\"text\">AEIOU Evaluation Report - Appendix C AEIOU project team </summary> <dc:date>2011-07-27T00:00:00Z</dc:date> </entry> <entry> <title>AEIOU Evaluation Report</title> <link href=\"http://hdl.handle.net/2160/7204\" rel=\"alternate\"/> <author> <name>Evidence Base Research and Evaluation Services</name> </author> <id>http://hdl.handle.net/2160/7204</id> <updated>2014-10-23T02:52:13Z</updated> <published>2011-07-27T00:00:00Z</published> <summary type=\"text\">AEIOU Evaluation Report Evidence Base Research and Evaluation Services </summary> <dc:date>2011-07-27T00:00:00Z</dc:date> </entry> <entry> <title>AEIOU Evaluation Report - Appendix B</title> <link href=\"http://hdl.handle.net/2160/7203\" rel=\"alternate\"/> <author> <name>AEIOU project team</name> </author> <id>http://hdl.handle.net/2160/7203</id> <updated>2011-07-27T09:16:36Z</updated> <published>2011-07-27T00:00:00Z</published> <summary type=\"text\">AEIOU Evaluation Report - Appendix B AEIOU project team </summary> <dc:date>2011-07-27T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dc2a7a6d6e1c79cc32167ec749e6199c", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/7191"
+}

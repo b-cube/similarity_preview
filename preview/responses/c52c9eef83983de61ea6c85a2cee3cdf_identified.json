@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.kashyap-ipoib-advanced-capabilities'> <front> <title>IP over InfiniBand(IPoIB): Advanced Capabilities</title>  <author initials='V' surname='Kashyap' fullname='Vivek Kashyap'>     <organization /> </author>  <date month='January' day='11' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-kashyap-ipoib-advanced-capabilities-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-kashyap-ipoib-advanced-capabilities-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c52c9eef83983de61ea6c85a2cee3cdf", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.kashyap-ipoib-advanced-capabilities.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-css-pseudo-4-20150115'            target='http://www.w3.org/TR/2015/WD-css-pseudo-4-20150115'> <front> <title>CSS Pseudo-Elements Module Level 4</title>  <author initials='D.' surname='Glazman' fullname='Daniel Glazman'>     <organization /> </author>  <author initials='E.' surname='Etemad' fullname='Elika Etemad'>     <organization /> </author>  <author initials='A.' surname='Stearns' fullname='Alan Stearns'>     <organization /> </author>  <date month='January' day='15' year='2015' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-css-pseudo-4-20150115' /> <format type='HTML' target='http://www.w3.org/TR/2015/WD-css-pseudo-4-20150115' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f4aed5ffb74c51331f44a6433f5b8092", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-css-pseudo-4-20150115.xml"
+}

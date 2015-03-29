@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">  <rdf:Description rdf:about=\"http://dublincore.org/resources/\"> <dc:title>Dublin Core Metadata Initiative Resources</dc:title> <dc:description>A listing of resources that can enhance understanding and use of Dublin Core Metadata. Resources include the Usage Guide, a bibliography, a FAQ, training resources and translations of DCMI documents.</dc:description> <dc:date>2004-11-15</dc:date> <dc:format>text/html</dc:format> <dc:language>en</dc:language> <dc:publisher>Dublin Core Metadata Initiative</dc:publisher> </rdf:Description> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b3bbb07de4e68c2f675c3eef48188e6e", 
+    "source_url": "http://www.dublincore.org/resources/index.shtml.rdf"
+}

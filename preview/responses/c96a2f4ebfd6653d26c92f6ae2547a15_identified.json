@@ -1,0 +1,15 @@
+{
+    "content": "<foo xmlns=\"http://z0\" xml:id=\"23\">   <bar xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"xsd:string\">data</bar> </foo>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c96a2f4ebfd6653d26c92f6ae2547a15", 
+    "source_url": "http://www.w3.org/TR/2013/NOTE-xml-c14n2-testcases-20130618/files/out_inNsXml_c14nQname.xml"
+}

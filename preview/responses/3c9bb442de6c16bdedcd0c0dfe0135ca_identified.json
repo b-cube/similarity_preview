@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Search MIRP</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">http://proj.badc.rl.ac.uk/mirp/chrome/common/trac.ico</Image>   <Url type=\"text/html\" template=\"http://proj.badc.rl.ac.uk/mirp/search?q={searchTerms}&amp;page={startPage}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3c9bb442de6c16bdedcd0c0dfe0135ca", 
+    "source_url": "http://proj.badc.rl.ac.uk/mirp/search/opensearch"
+}

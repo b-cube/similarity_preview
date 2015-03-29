@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../perennial_rivers_qk_ref.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ac7c6f732a858a69f1688863ff0b09dc", 
+    "source_url": "http://webgis.wr.usgs.gov/globalgis/metadata_qr/perennial_rivers_qk_ref_files/filelist.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>School of Health in Social Science</title> <link href=\"http://hdl.handle.net/10283/146\" rel=\"alternate\"/> <subtitle>provider of postgraduate and undergraduate education in health, health policy and related fields.</subtitle> <id>http://hdl.handle.net/10283/146</id> <updated>2015-03-19T06:34:39Z</updated> <dc:date>2015-03-19T06:34:39Z</dc:date> <entry> <title>Acceptance and Commitment Therapy for Irritable Bowel Syndrome</title> <link href=\"http://hdl.handle.net/10283/163\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/10283/163</id> <updated>2013-11-11T10:29:03Z</updated> <published>2012-09-04T11:20:43Z</published> <summary type=\"text\">Acceptance and Commitment Therapy for Irritable Bowel Syndrome </summary> <dc:date>2012-09-04T11:20:43Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "05821bda0c152ef18eb5d301c88dcab8", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/atom_1.0/10283/146"
+}

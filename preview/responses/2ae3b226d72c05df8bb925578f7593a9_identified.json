@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <!DOCTYPE Zthes SYSTEM \"zthes.dtd\"> <Zthes>   <termId>102067</termId>   <termName>video art</termName>   <termType>PT</termType>   <termNote>     Use for works of art that employ video technology, especially  videotapes. For the study and practice of the art of producing such  works, use \"video.\"   </termNote>   <relation>     <relationType>UF</relationType>     <termId>102067/001</termId>     <termName>art, video</termName>     <termType>ND</termType>   </relation>   <relation>     <relationType>BT</relationType>     <termId>185191</termId>     <termName>[time-based works]</termName>     <termType>NL</termType>   </relation>   <relation>     <relationType>RT</relationType>     <termId>54153</termId>     <termName>video</termName>     <termType>PT</termType>   </relation>   <relation>     <relationType>RT</relationType>     <termId>253827</termId>     <termName>video artists</termName>     <termType>PT</termType>   </relation> </Zthes> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2ae3b226d72c05df8bb925578f7593a9", 
+    "source_url": "http://zthes.z3950.org/xml/sample-03.xml"
+}

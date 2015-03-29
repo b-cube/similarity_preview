@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.X9-55.1995\"> <front> <title>Public Key Cryptography For The Financial Services Industry: Extensions To Public Key Certificates And Certificate Revocation Lists</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"December\" year=\"1995\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X9.55\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6b986dfadd57514346b9fc180c19d9d8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ANSI.X9-55.1995.xml"
+}

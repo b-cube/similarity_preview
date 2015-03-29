@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>PathBLAST: a tool for alignment of protein interaction networks</dc:title><dc:creator>Kelley, Brian P.</dc:creator><dc:creator>Yuan, Bingbing</dc:creator><dc:creator>Sharan, Roded</dc:creator><dc:creator>Lewitter, Fran</dc:creator><dc:creator>Stockwell, Brent R.</dc:creator><dc:creator>Ideker, Trey</dc:creator><dc:date>2004</dc:date><dc:type>text</dc:type><dc:subject>Bioinformatics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8639NKT</dc:identifier><dc:description>PathBLAST is a network alignment and search tool for comparing protein interaction networks across species to identify protein pathways and complexes that have been conserved by evolution. The basic method searches for high-scoring alignments between pairs of protein interaction paths, for which proteins of the first path are paired with putative orthologs occurring in the same order in the second path. This technique discriminates between true- and false-positive interactions and allows for functional annotation of protein interaction pathways based on similarity to the network of another, well-characterized species. PathBLAST is now available at http://www.pathblast.org/ as a web-based query. In this implementation, the user specifies a short protein interaction path for query against a target protein\\ufffd\\ufffd\\ufffdprotein interaction network selected from a network database. PathBLAST returns a ranked list of matching paths from the target network along with a graphical view of these paths and the overlap among them. Target protein\\ufffd\\ufffd\\ufffdprotein interaction networks are currently available for Helicobacter pylori, Saccharomyces cerevisiae, Caenorhabditis elegans and Drosophila melanogaster. Just as BLAST enables rapid comparison of protein sequences between genomes, tools such as PathBLAST are enabling comparative genomics at the network level.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d40171e1dee6cbfc9b01527d2c009c40", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A183934.dc_xml"
+}

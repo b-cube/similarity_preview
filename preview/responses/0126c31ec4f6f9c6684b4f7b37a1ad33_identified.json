@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2013-07-03 10:48:02</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a07badb-1382-4f63-8344-7ba063b05534\"    xml:base=\"http://gcmdstage.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdstage.gsfc.nasa.gov/static/kms/sciencekeywords\"/>    <skos:prefLabel xml:lang=\"en\">BREEDING PRODUCTIVITY</skos:prefLabel>    <skos:broader rdf:resource=\"76943142-e5a9-4ecf-b496-050dd3d97101\"/>    <skos:changeNote>2012-06-26 12:39:12.0 [gee-cee] Insert Concept  add broader relation (BREEDING PRODUCTIVITY [0a07badb-1382-4f63-8344-7ba063b05534,39887] - BIOSPHERIC INDICATORS [76943142-e5a9-4ecf-b496-050dd3d97101,39883]);  </skos:changeNote> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0126c31ec4f6f9c6684b4f7b37a1ad33", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a07badb-1382-4f63-8344-7ba063b05534.rdf.last"
+}

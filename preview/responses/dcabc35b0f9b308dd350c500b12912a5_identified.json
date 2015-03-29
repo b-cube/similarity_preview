@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/1853/49630\"> <title>Georgia Tech Alumni Association Annual Reports</title> <link>http://hdl.handle.net/1853/49630</link> <description>These are the annual reports for the Alumni Association.</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/50977\"/> </rdf:Seq> </items> <dc:date>2015-03-12T19:37:48Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/1853/50977\"> <title>Alumni Association Annual Report, 2013</title> <link>http://hdl.handle.net/1853/50977</link> <description>Alumni Association Annual Report, 2013 </description> <dc:date>2013-01-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dcabc35b0f9b308dd350c500b12912a5", 
+    "source_url": "https://smartech.gatech.edu/feed/rss_1.0/1853/49630"
+}

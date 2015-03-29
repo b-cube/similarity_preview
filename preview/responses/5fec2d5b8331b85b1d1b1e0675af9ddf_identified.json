@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-neighborhood-business-revitalization-corridors\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-neighborhood-business-revitalization-corridors</id><updated>2015-03-15T16:58:18Z</updated><entry><title>REST API: Update object city-and-county-of-denver-neighborhood-business-revitalization-corridors</title><link href=\"/revision/a6e4d5c5-b83a-4133-81d4-65af32cb02b1\" rel=\"alternate\"></link><updated>2015-03-15T16:58:18Z</updated><published>2015-03-15T16:58:18Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/a6e4d5c5-b83a-4133-81d4-65af32cb02b1</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-neighborhood-business-revitalization-corridors</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-neighborhood-business-revitalization-corridors</title><link href=\"/revision/2549b211-4b4f-4ec2-a882-71fead74c130\" rel=\"alternate\"></link><updated>2015-03-15T16:58:03Z</updated><published>2015-03-15T16:58:03Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/2549b211-4b4f-4ec2-a882-71fead74c130</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-neighborhood-business-revitalization-corridors</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-neighborhood-business-revitalization-corridors</title><link href=\"/revision/4863e842-3616-4e3b-8272-a56d88678864\" rel=\"alternate\"></link><updated>2015-03-08T16:58:00Z</updated><published>2015-03-08T16:58:00Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/4863e842-3616-4e3b-8272-a56d88678864</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-neighborhood-business-revitalization-corridors</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-neighborhood-business-revitalization-corridors</title><link href=\"/revision/e51f057c-2278-43f3-85b4-5664741b9dc5\" rel=\"alternate\"></link><updated>2015-03-08T16:57:49Z</updated><published>2015-03-08T16:57:49Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/e51f057c-2278-43f3-85b4-5664741b9dc5</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-neighborhood-business-revitalization-corridors</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5fec2d5b8331b85b1d1b1e0675af9ddf", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-neighborhood-business-revitalization-corridors?days=14&format=atom"
+}

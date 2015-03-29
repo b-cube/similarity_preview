@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?> <rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xml:lang=\"fr\">  <dcat:Dataset rdf:about=\"http://data.angers.fr/?eID=smile_od_rdf&amp;id=176\">   <dct:identifier>aura_men_typ_99-10</dct:identifier>   <dct:title>Nombre de m\\ufffd\\ufffdnages selon le type en 1999 et 2010 par commune</dct:title>   <dct:description>Type de m\\ufffd\\ufffdnage par commune d'Angers Loire M\\ufffd\\ufffdtropole en 1999 et en 2010</dct:description>   <dcat:landingPage>http://data.angers.fr/donnees/nombre-de-menages-selon-le-type-en-1999-et-2010-par-commune/</dcat:landingPage>   <dcat:theme>Soci\\ufffd\\ufffdt\\ufffd\\ufffd</dcat:theme>   <dcat:keywords>Type de m\\ufffd\\ufffdnage, m\\ufffd\\ufffdnage, personnes seules, familles monoparentales, couple avec ou sans enfant</dcat:keywords>   <dct:licence>Licence ODbL</dct:licence>   <dct:issued>1391382000</dct:issued>   <dct:modified>1417561200</dct:modified>   <lastModificationDescription/>   <dct:temporal>annuelle</dct:temporal>   <dct:created>1391440755</dct:created>   <dct:creator>INSEE</dct:creator>   <dct:contributor>Angers Loire M\\ufffd\\ufffdtropole</dct:contributor>   <dct:publisher>Agence Urbanisme Angevine (AURA)</dct:publisher>   <dct:spatial>Territoire d'Angers Loire M\\ufffd\\ufffdtropole</dct:spatial>   <dct:language>fran\\ufffd\\ufffdais</dct:language>   <dcat:dataQuality/>   <dcat:granularity/>   <dct:references/>   <dcat:themeTaxonomy/>   <dcat:distribution>    <dcat:Distribution>     <dcat:Download>fileadmin/datastore/data/AURA/aura_men_typ_99-10.csv</dcat:Download>     <dct:format>CSV</dct:format>     <dcat:accessURL>http://data.angers.fr/fileadmin/datastore/data/AURA/aura_men_typ_99-10.csv</dcat:accessURL>    </dcat:Distribution>    <dcat:Distribution>     <dcat:Download>fileadmin/datastore/data/AURA/aura_men_typ_99-10.xls</dcat:Download>     <dct:format>XLS</dct:format>     <dcat:accessURL>http://data.angers.fr/fileadmin/datastore/data/AURA/aura_men_typ_99-10.xls</dcat:accessURL>    </dcat:Distribution>   </dcat:distribution>  </dcat:Dataset> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "fr", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "0f52fdaeae02f18ff9c2d90b8b7d4acf", 
+    "source_url": "http://data.angers.fr/?eID=smile_od_rdf&id=176"
+}

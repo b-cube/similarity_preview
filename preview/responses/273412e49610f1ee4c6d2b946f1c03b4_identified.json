@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.48.049'> <front> <title>Base Station Controller - Cell Broadcast Centre (BSC-CBC) interface specification; Cell Broadcast Service Protocol (CBSP)</title> <author><organization>3GPP</organization></author> <date day='16' month='March' year='2012' /> </front>  <seriesInfo name='3GPP TS' value='48.049 10.1.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/48049.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "273412e49610f1ee4c6d2b946f1c03b4", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.48.049.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.REC-html32-19970114'            target='http://www.w3.org/TR/REC-html32-19970114'> <front> <title>HTML 3.2 Reference Specification</title>  <author initials='D.' surname='Raggett' fullname='Dave Raggett'>     <organization /> </author>  <date month='January' day='14' year='1997' /> </front>  <seriesInfo name='World Wide Web Consortium Recommendation' value='REC-html32-19970114' /> <format type='HTML' target='http://www.w3.org/TR/REC-html32-19970114' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a10facd5e869277aa84f0d7916aa0bf7", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.REC-html32-19970114.xml"
+}

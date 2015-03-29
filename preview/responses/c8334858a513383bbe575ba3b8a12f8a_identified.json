@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Guillaume Doll\\ufffd\\ufffd</a1>   <a2>Zakaria Belhachmi</a2>   <a2>Christophe Prudhomme</a2>   <a2>Murielle Torregrossa</a2>   <a2>Christophe Prudhomme</a2>   <a2>Zakaria Belhachmi</a2>   <a2>Murielle Torregrossa</a2>   <t1>Diffuse optical tomography for tumour detection</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;&lt;em&gt;Time-resolved diffuse optical tomography&lt;/em&gt; aims to reconstruct images for internal parts of a body (diffusive objects owning one or several inclusions, small animals, ...) from its boundary measures.&lt;br /&gt; This poster gives an overview of the experimental setup created by the ICube/IMIS team and the mathematical model used for the reconstruction. Numerical results are obtained using FEEL++, a C++ library for finite element methods.&lt;/p&gt;</ab>   <la/>   <k1>Tomography;                 Optic;                 Image;                 Reconstruction;                 Time-Resolved;                 Feel++;                 feelpp;                 FEM;                 DOT;                 TR-DOT;                 </k1>   <pb/>   <pp/>   <yr>2014-06-18</yr>   <ed/>   <ul>https://zenodo.org/record/11641/files/IPB2014_dot_poster.png?subformat=icon-90;  https://zenodo.org/record/11641/files/IPB2014_dot_poster.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c8334858a513383bbe575ba3b8a12f8a", 
+    "source_url": "https://zenodo.org/record/11641/export/xw"
+}

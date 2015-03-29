@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.04.10'> <front> <title>Mobile Radio Interface  Layer 3 - Supplementary Services Specification - General Aspects</title> <author><organization>3GPP</organization></author> <date day='01' month='January' year='1995' /> </front>  <seriesInfo name='3GPP TS' value='04.10 3.2.3' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0410.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bb5eff03e0c39c20e08f1d7b2ab73def", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.04.10.xml"
+}

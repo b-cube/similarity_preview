@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"> <ShortName>Sida Info Service</ShortName> <Description>Toujours \\ufffd\\ufffd votre \\ufffd\\ufffdcoute</Description> <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://www.sida-info-service.org/sites/sida/squelettes/images/favicon.ico</Image> <Url type=\"text/html\" method=\"get\" template=\"http://www.sida-info-service.org/?page=recherche&amp;recherche={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "88a0e879cb48537cff04e7ec621b9196", 
+    "source_url": "https://www.sida-info-service.org/sites/sida/squelettes/opensearch.xml"
+}

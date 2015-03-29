@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>Elag 2013</ShortName>  <Description>Search Elag 2013 - Inside Out Library</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://elag2013.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://elag2013.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://elag2013.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>Elag 2013</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://elag2013.org/favicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/png\">http://s0.wp.com/i/logo/gray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>blog</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://elag2013.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "80a8bd3bf718be05c2e249fa994ba2ea", 
+    "source_url": "http://elag2013.org/osd.xml"
+}

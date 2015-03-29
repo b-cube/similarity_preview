@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"> <ShortName>Radiological Sciences (E</ShortName> <Description>Radiological Sciences (English)</Description> <Image height=\"16\" width=\"16\" type=\"image/x-icon\">https://radsci.uthscsa.edu/favicon.ico</Image> <Url type=\"text/html\" method=\"get\" template=\"https://radsci.uthscsa.edu/index.php?title=Special:Search&amp;search={searchTerms}\"/> <Url type=\"application/x-suggestions+json\" method=\"GET\" template=\"https://radsci.uthscsa.edu/api.php?action=opensearch&amp;search={searchTerms}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "64849277f240d4c27183473fab1c161e", 
+    "source_url": "https://radsci.uthscsa.edu/opensearch_desc.php"
+}

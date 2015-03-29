@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><?xml-stylesheet type=\"text/xsl\" href=\"/openurl/openurl.xsl\"?><OAI-PMH xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd\"><responseDate>2015-03-18T21:19:54Z</responseDate><request>http://alcme.oclc.org/openurl/servlet/OAIHandler</request><error code=\"badVerb\">Illegal verb</error></OAI-PMH>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": true, 
+        "version": "", 
+        "protocol": "OAI-PMH", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "079ff8f4bf0befe020dd3cc3aae6594b", 
+    "source_url": "http://alcme.oclc.org/openurl/servlet/OAIHandler"
+}

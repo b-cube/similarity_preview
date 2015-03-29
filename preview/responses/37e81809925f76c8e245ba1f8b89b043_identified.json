@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>San Francisco Data</ShortName>   <Description>Data | San Francisco</Description>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://data.sfgov.org/stylesheets/images/common/favicon.ico</Image>   <Url type=\"text/html\" method=\"get\" template=\"http://data.sfgov.org/browse?q={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "37e81809925f76c8e245ba1f8b89b043", 
+    "source_url": "https://data.sfgov.org/opensearch.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <datalist IDNo=\"LiDA_TR1_01\"> <record> <InterviuID>2</InterviuID> <Vieta>Miestieti\\ufffd\\ufffdka vietove X_2</Vieta> <Data>2010-11-19</Data> <PslSk>21</PslSk> <TekstFailas>FGD-INT-2.f.doc</TekstFailas> <TEIFailas>FGD-INT-2_TEI.f.xml</TEIFailas> <AudioFailas>n/a</AudioFailas> </record> <record> <InterviuID>3</InterviuID> <Vieta>Kaimi\\ufffd\\ufffdka vietove X_3</Vieta> <Data>2010-11-25</Data> <PslSk>14</PslSk> <TekstFailas>FGD-INT-3.f.doc</TekstFailas> <TEIFailas>FGD-INT-3_TEI.f.xml</TEIFailas> <AudioFailas>n/a</AudioFailas> </record> </datalist>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "63953d93dc943e644895ebd8681f4e60", 
+    "source_url": "http://www.lidata.eu/files/duomenys/polsys/LiDA_TR1_01.FILES.xml"
+}

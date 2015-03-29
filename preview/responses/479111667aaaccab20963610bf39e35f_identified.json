@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <ShortName>www.usgbcga.org</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Url type=\"text/html\" method=\"get\" template=\"http://www.usgbcga.org/sys/search?q={searchTerms}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "479111667aaaccab20963610bf39e35f", 
+    "source_url": "http://www.usgbcga.org/opensearch.ashx"
+}

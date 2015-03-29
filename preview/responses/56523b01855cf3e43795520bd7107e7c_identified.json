@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?> <metadata xml:lang=\"en\"> <Esri> <CreaDate>20130124</CreaDate> <CreaTime>16032500</CreaTime> <ArcGISFormat>1.0</ArcGISFormat> <SyncOnce>TRUE</SyncOnce> </Esri> <dataIdInfo> <idAbs/> <idPurp/> <idCredit>NOAA/NOS/Office of Coast Survey</idCredit> <resConst> <Consts> <useLimit/> </Consts> </resConst> <idCitation> <resTitle>disposal_areas</resTitle> </idCitation> <searchKeys> <keyword/> </searchKeys> </dataIdInfo> <Binary> <Thumbnail> <Data EsriPropertyType=\"PictureX\">/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAI454pi4ilRzG2x9rA7W9D6HkcVJWLpM2mx6rqVvBG8N7LMZ5hNEI2l/g3LwC6jbgNzxjmtqgAooIyCK8917WPEUGtJ4a0G7W81a7tVZ55Agg09AdrS7QpcseoDuQSOOmCAehUVV0+G6t7GGG8uhdTpGivN5YQuQoDMQOOWBPHTOO1WqACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigCOWCKZo2ljVzE+9CwztbBGR74J/OpKKKAOO/wCEQ1SZFn1DxRqtxcxSPKq20xgjfcuAjIhXIU8jkdBnPObfhHw9e6HHeG9ullee5llPlqB5u5uJH/2yAM4OOvrx01FABRSBQucADJycUtABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRTWVi6kNhRkkDv8A/W/+tTqACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//2Q==</Data> </Thumbnail> </Binary> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "56523b01855cf3e43795520bd7107e7c", 
+    "source_url": "http://encdirect.noaa.gov/arcgis/rest/services/cmsp/disposal_areas/MapServer/info/metadata"
+}

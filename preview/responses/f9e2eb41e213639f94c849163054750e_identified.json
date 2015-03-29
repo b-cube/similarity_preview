@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0050\">   <front>     <title>Ad-Hoc Commands</title>     <author initials=\"M.\" surname=\"Miller\" fullname=\"Matthew Miller\">       <organization/>       <address>         <email>linuxwolf@outer-planes.net</email>       </address>     </author>     <date day=\"30\" month=\"June\" year=\"2005\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0050\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0050.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f9e2eb41e213639f94c849163054750e", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0050.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/EJ_Screening_Methods_Comparison_San_Joaquin_Valley/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/Navajo_Nation_Administrative_Boundaries/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9HomeViewBoundaries/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9HomeViewCadastral/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9HomeViewCensus/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9HomeViewClimateMeteorological/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9HomeViewEducation/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9HomeViewGeology/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9HomeViewMilitary/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9HomeViewNaturalResources/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9HomeViewWaterHydrology/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9NNAUMFederalLandStatus/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9NNAUMGeology/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9NNAUMRadiation/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/Region9/R9NNAUMSampling/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "03562fcf2f769f64b57875b6a4f17084", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/Region9?f=geositemap"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <event_data eventid=\"c000tvan\" source=\"us\" network=\"us\" region=\"global\" process_timestamp=\"2015-03-05 22:50:18\" ciim_version=\"1\" code_version=\"1.3\" event_version=\"0\">   <event magnitude=\"4.7\" latitude=\"6.0944\" longitude=\"119.9502\" depth=\"15.57\" event_timestamp=\"2015-03-05 17:36:35\" localtime=\"Mar 6 2015 01:36:35 AM local\" locationtext=\"SULU SEA\" />   <cdi_summary nresponses=\"0\" max_intensity=\"1\" citydb=\"city_2009\" />   <products>     <category name=\"Maps\">       <product name=\"City map\">         <description><![CDATA[Map of responses by city or ZIP code]]></description>         <format type=\"image/jpeg\" file=\"usc000tvan_ciim.jpg\" />         <format type=\"application/pdf\" file=\"usc000tvan_ciim.pdf\" />         <format type=\"application/postscript\" file=\"usc000tvan_ciim.ps\" />         <format type=\"text/html\" file=\"usc000tvan_ciim_imap.html\" />       </product>     </category>     <category name=\"Plots\"></category>     <category name=\"Data\">       <product name=\"Product List\">         <description><![CDATA[List of available DYFI maps and data for this event]]></description>         <format type=\"text/xml\" file=\"event_data.xml\" />       </product>     </category>   </products> </event_data> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "425acd79ba851b2a404b27e797b38c80", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/c000tvan/us/event_data.xml"
+}

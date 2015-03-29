@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <urlset xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" />", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6918ba9dc992d2c524730da594bd6dab", 
+    "source_url": "http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Locators?f=geositemap"
+}

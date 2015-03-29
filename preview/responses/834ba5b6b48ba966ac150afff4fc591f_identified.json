@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <oembed><type>video</type><provider_url>http://www.youtube.com/</provider_url><thumbnail_height>360</thumbnail_height><thumbnail_url>http://i.ytimg.com/vi/kR3ZeIycuKQ/hqdefault.jpg</thumbnail_url><width>480</width><provider_name>YouTube</provider_name><height>270</height><html>&lt;iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/kR3ZeIycuKQ?feature=oembed\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</html><author_name>The White House</author_name><version>1.0</version><title>The White House Safety Datapalooza  DOJ Open Data in Action and U.S. CTO Todd Park Closing Remarks</title><thumbnail_width>480</thumbnail_width><author_url>http://www.youtube.com/user/whitehouse</author_url></oembed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "834ba5b6b48ba966ac150afff4fc591f", 
+    "source_url": "http://www.youtube.com/oembed?format=xml&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkR3ZeIycuKQ"
+}

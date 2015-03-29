@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>protectyourhomed</ShortName>  <Description>Search Protect Your Home in a FLASH - The official blog of the Federal Alliance for Safe Homes (FLASH)\\ufffd\\ufffd</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://protect-your-home.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://protect-your-home.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://protect-your-home.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>Protect Your Home in a FLASH</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://0.gravatar.com/blavatar/4b7edc277b756c94192cc28283a586d9?s=16&#038;d=http%3A%2F%2Fprotect-your-home.org%2Ffavicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/jpeg\">http://1.gravatar.com/blavatar/f190300426ed5fc97a158485dd33aeb4?s=64&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>hurricane disaster-safety mitigation flood-2 hurricane-preparedness family-preparedness tornado tornado-safe-room prepare earthquake-2</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://protect-your-home.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1d4c7a8e89cfda70d2a072d63ae69cd2", 
+    "source_url": "http://protect-your-home.org/osd.xml"
+}

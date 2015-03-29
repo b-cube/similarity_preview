@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../2004_annual_report.htm\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1ba3fcd68b2e3dbf22297cbce8290afe", 
+    "source_url": "http://www.assessment.ucar.edu/pub/2004_annual_report_files/filelist.xml"
+}

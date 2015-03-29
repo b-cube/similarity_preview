@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Introduction to Open Data</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname/>             <given-names/>           </name>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/10258\"/>       <self-uri xlink:href=\"http://zenodo.org/record/10258/files/Intro_to_Open_Data_Carnegie_Grantees_Nairobi_May_2013.pptx\"/>     </article-meta>     <abstract>&lt;p&gt;Presentation made by invitation to African higher education grantees of the Carnegie Corporation of New York including Trust Africa, CODESRIA, Centre for Higher Education Transformation and representatives of universities and tertiary education councils. Nairobi, May 2013.&lt;/p&gt;</abstract>   </front>   <article-type>user-odsahe</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "caef69755d5733a1328ffb158a8ac9ba", 
+    "source_url": "http://zenodo.org/record/10258/export/xn"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Faust (a tragedy)</dc:title><dc:creator>Quick, Bryan</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Theater</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8H1303H</dc:identifier><dc:description>A modern take on the classic German myth. Drunk and raving, Faust sells his soul to get back the only thing he has ever cared about.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "466337eac62fab98f839cfcad23540b8", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A173787.xml"
+}

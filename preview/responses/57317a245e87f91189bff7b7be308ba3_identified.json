@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <discovery xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns=\"http://schemas.xmlsoap.org/disco/\">   <contractRef ref=\"http://www.landxml.org/webapps/LandXMLPreview.asmx?wsdl\" docRef=\"http://www.landxml.org/webapps/LandXMLPreview.asmx\" xmlns=\"http://schemas.xmlsoap.org/disco/scl/\" />   <soap address=\"http://www.landxml.org/webapps/LandXMLPreview.asmx\" xmlns:q1=\"http://www.landxml.org\" binding=\"q1:LandXMLPreviewSoap\" xmlns=\"http://schemas.xmlsoap.org/disco/soap/\" />   <soap address=\"http://www.landxml.org/webapps/LandXMLPreview.asmx\" xmlns:q2=\"http://www.landxml.org\" binding=\"q2:LandXMLPreviewSoap12\" xmlns=\"http://schemas.xmlsoap.org/disco/soap/\" /> </discovery>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "57317a245e87f91189bff7b7be308ba3", 
+    "source_url": "http://www.landxml.org/webapps/LandXMLPreview.asmx?disco"
+}

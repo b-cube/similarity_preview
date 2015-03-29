@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.T4.1988\"> <front> <title>Standardization of Group 3 Facsimile Apparatus for Document Transmission</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"\" year=\"1988\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation T.4\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1dc443f693d0bc60cef477f90e61e6b3", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-misc/_reference.CCITT.T4.1988.xml"
+}

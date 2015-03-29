@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/EX_IndonesiaDatasets/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/GlobalEXDatasets/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_Bathymetry_Products/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_IOCM_Planned/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_IOCM/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_MethaneSeeps/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_Nautilus/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_Okeanos_Combined/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosCruises/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosCTDs/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosDailyUpdates/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosDives/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosShipObs/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosShipTrk/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OECruiseData/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "72d8fea337c2338e09aedf5ee5e0b25e", 
+    "source_url": "http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration?f=sitemap"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>T\\ufffd\\ufffdks, Ermo</a1>   <a2>Rull, Addi</a2>   <a2>S\\ufffd\\ufffd\\ufffd\\ufffdr, Anni</a2>   <a2>Burkhard Schafer</a2>   <t1>Report on a computer assisted copyright reform observatory</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;In the past, computational representations of copyright law were almost exclusively used for DRM technology, and with that at the consumer side of the creative industry. The problems of this approach are well known. This project explores more &amp;quot;creative&amp;quot; approaches to computational copyright law - instead of focussing on consumers, it aims to utilise &amp;quot;self-applying&amp;quot; law to reduce costs both for the legislative process and also for the management of licenses and contracts by the rights holders and their legal representative. The paper proposes an approach to AI assisted law reform, that tries to align research in Artificial Intelligence and Law with the jurisprudential philosophy of Luc Wintgens. Taking a holistic, system-oriented view, we propose a visualisation based link analysis that allows lawmakers to identify those parts of the legal system where the smallest amount of change has the largest effect.&lt;/p&gt;</ab>   <la/>   <k1>Link analysis;                 Natural language processing;                 Law reform;                 Copyright law;                 </k1>   <pb/>   <pp/>   <yr>2014-10-27</yr>   <ed/>   <ul>http://zenodo.org/record/12431/files/CREATe-Working-Paper-2014-11.pdf;  http://zenodo.org/record/12431/files/CREATe-Working-Paper-2014-11.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a819af8b4681e36335caf29d73857241", 
+    "source_url": "https://zenodo.org/record/12431/export/xw"
+}

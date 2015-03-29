@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../brown.htm\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c93e4998cac7b653ac6ea4f4e3386518", 
+    "source_url": "http://grads.iges.org/ellfb/Mar02/Brown/brown_files/filelist.xml"
+}

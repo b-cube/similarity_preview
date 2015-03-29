@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr20111032</identifier><identifier type=\"pwpk\">99058</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2011-1032</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Bats of Ouray National Wildlife Refuge</title></titleInfo><originInfo><dateOther>Fri, 18 Feb 2011 00:00 -0600</dateOther><dateIssued>2011</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Ellison, Laura E.</namePart><role>Author</role></name><abstract>Ouray National Wildlife Refuge (NWR) is located in the northeast corner of Utah along the Green River and is part of the Upper Colorado River System and the Colorado Plateau. The Colorado Plateau is home to 19 species of bats, some of which are quite rare. Of those 19 species, a few have a more southern range and would not be expected to be found at Ouray NWR, but it is unknown what species occur at Ouray NWR or their relative abundance. The assumption is that Ouray NWR provides excellent habitat for bats, since the riparian habitat consists of a healthy population of cottonwoods with plenty of older, large trees and snags that would provide foraging and roosting habitat for bats. The more than 4,000 acres of wetland habitat, along with the associated insect population resulting from the wetland habitat, would provide ideal foraging habitat for bats. The overall objective of this project is to conduct a baseline inventory of bat species occurring on the refuge using mist nets and passive acoustic monitoring.</abstract><physicalDescription><form>iii, 20 p.; Appendices</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/ofr_2011_1032.png</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/2011/1032/</url></location><note type=\"citation/reference\">Bats of Ouray National Wildlife Refuge; 2011; OFR; 2011-1032; Open-File Report; Ellison, Laura E.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e96b5734f7f872cd6a6d69ad28c3851a", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr20111032"
+}

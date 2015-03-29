@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123006</identifier><identifier type=\"pwpk\">70007140</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3006</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Monitoring floods and fires during the summer of 2011--The value of the Landsat satellite 40-year archives</title></titleInfo><originInfo><dateOther>Wed, 18 Jan 2012 00:00 -0600</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Jonescheit, Linda</namePart><role>Author</role></name><abstract>The summer of 2011 proved to be a season of extreme events. Heavy snowfall in the western mountains and excessive spring rains caused flooding along the Missouri and Mississippi Rivers; whereas extended dry conditions enabled fires to rage out of control from Alaska and Canada, south to Texas, Arizona, New Mexico, Georgia, and Mexico. The Landsat archive holds nearly 40 years of continuous global earth observation data. Landsat data are used by emergency responders to monitor change and damage caused by natural and man-made disasters. Decision makers rely on Landsat as they create plans for future environmental concerns.</abstract><physicalDescription><form>2 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3006.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3006/</url></location><note type=\"citation/reference\">Monitoring floods and fires during the summer of 2011--The value of the Landsat satellite 40-year archives; 2012; FS; 2012-3006; Fact Sheet; Jonescheit, Linda</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8a1e312c52c9ea8774228ac860995ec2", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123006"
+}

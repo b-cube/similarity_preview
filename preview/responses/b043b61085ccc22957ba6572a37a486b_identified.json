@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-css-text-decor-3-20130801'            target='http://www.w3.org/TR/2013/CR-css-text-decor-3-20130801'> <front> <title>CSS Text Decoration Module Level 3</title>  <author initials='E.' surname='Etemad' fullname='Elika Etemad'>     <organization /> </author>  <author initials='K.' surname='Ishii' fullname='Koji Ishii'>     <organization /> </author>  <date month='August' day='1' year='2013' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-css-text-decor-3-20130801' /> <format type='HTML' target='http://www.w3.org/TR/2013/CR-css-text-decor-3-20130801' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b043b61085ccc22957ba6572a37a486b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.CR-css-text-decor-3-20130801.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Michele Manca</a1>   <a2>Szabolcs Beke</a2>   <a2>Luisa De Marco</a2>   <a2>Paola Pareo</a2>   <a2>Antonio Qualtieri</a2>   <a2>Alessandro Cannavale</a2>   <a2>Fernando Brandi</a2>   <a2>Giuseppe Gigli</a2>   <t1>3D Photoelectrode for Dye Solar Cells Realized by Laser Micromachining of Photosensitive Glass</t1>   <t2/>   <sn/>   <op>17100\\ufffd\\ufffd\\ufffd17107</op>   <vo>118</vo>   <ab>&lt;p&gt;An explorative dye solar cell architecture based on the implementation of a 3D micropatterned photoelectrode is disclosed here. An array of conical micropillars has been realized by laser micromachining of photosensitive glass which has been advantageously used as a substrate for deposition of a thin transparent conductive layer and a thick mesoporous TiO2&amp;nbsp;electrode. A significantly higher photocurrent density has been detected as an effect of the extended overall absorbing area of the micropatterned photoelectrode with respect to a conventional 2D reference photoelectrode. This enhancement can also be partially imputable to a not negligible &amp;ldquo;waveguide effect&amp;rdquo; occurring within the glass micropillars.&lt;/p&gt;</ab>   <la/>   <k1/>   <pb/>   <pp/>   <yr>2014-05-08</yr>   <ed/>   <ul>https://zenodo.org/record/12488/files/3D_Photoelectrode_for_Dye_Solar_Cells.png?subformat=icon-90;  https://zenodo.org/record/12488/files/3D_Photoelectrode_for_Dye_Solar_Cells.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5f8d910e42c9ff8aa042a9fce7b82847", 
+    "source_url": "https://zenodo.org/record/12488/export/xw"
+}

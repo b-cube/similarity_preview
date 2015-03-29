@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.T1-617.1991\"> <front> <title>Telecommunications - Integrated Services Digital Network (ISDN) - Digital Subscriber Signalling System Number 1 (DSS1) - Signalling Specification for Frame Relay</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"June\" year=\"1991\" /> </front>  <seriesInfo name=\"ANSI\" value=\"T1.617\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8d9e8cbd89fc6792fb11f752d1e9d738", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ANSI.T1-617.1991.xml"
+}

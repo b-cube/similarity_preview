@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>AAG_MBR Search</ShortName><Description>Search AAG_MBR</Description><Url type=\"text/html\" method=\"get\" template=\"http://www2.aag.org/aag_prod_imis/AAG_MBR/Home/AAG_MBR/Default.aspx?hkey=57075083-e1c5-4928-847c-67e3c0fae943iMIS/ContentManagement/Search.aspx?SearchTerms={searchTerms}\"/><Image>http://www2.aag.org/aag_prod_imis/AAG_MBR/Home/AAG_MBR/Default.aspx?hkey=57075083-e1c5-4928-847c-67e3c0fae943favicon.ico</Image><InputEncoding>UTF-8</InputEncoding><SearchForm>http://www2.aag.org/aag_prod_imis/AAG_MBR/Home/AAG_MBR/Default.aspx?hkey=57075083-e1c5-4928-847c-67e3c0fae943</SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "653c2b6967610f58fcd84769173377f2", 
+    "source_url": "http://www2.aag.org/aag_prod_imis/OpenSearch.aspx"
+}

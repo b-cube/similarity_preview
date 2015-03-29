@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://map23.epa.gov/arcgis/rest/services/cimc/ArcPyMapping_SaveToPDF/GPServer</loc> </url> <url> <loc>http://map23.epa.gov/arcgis/rest/services/cimc/Cleanups_geoplatform/MapServer</loc> </url> <url> <loc>http://map23.epa.gov/arcgis/rest/services/cimc/Cleanups/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "eebe5eab9128dec20ddfc5e899bcbc7f", 
+    "source_url": "http://map23.epa.gov/arcgis/rest/services/cimc?f=sitemap"
+}

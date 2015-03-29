@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"::09_Curr_04_17_14.htm\"/>  <o:File HRef=\"item0001.xml\"/>  <o:File HRef=\"props0002.xml\"/>  <o:File HRef=\"themedata.xml\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d8398902cd55a8c258ce5eea28a3b2af", 
+    "source_url": "http://www.morris.umn.edu/committees/Curriculum/minutes13-14/09_Curr_04_17_14_files/filelist.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:community=\"http://www.bibsonomy.org/ontologies/2008/05/community#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:admin=\"http://webns.net/mvcb/\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\" xmlns:cc=\"http://web.resource.org/cc/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:swrc=\"http://swrc.ontoware.org/ontology#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xml:base=\"http://www.bibsonomy.org/url/872bd1a185634bcbec7f6e04413d7c61/yish\"><owl:Ontology rdf:about=\"\"><rdfs:comment>BibSonomy publications for /url/872bd1a185634bcbec7f6e04413d7c61/yish</rdfs:comment><owl:imports rdf:resource=\"http://swrc.ontoware.org/ontology/portal\"/></owl:Ontology></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4a28387530d0c8e89642e679f900dda5", 
+    "source_url": "http://www.bibsonomy.org/swrc/url/872bd1a185634bcbec7f6e04413d7c61/yish?.entriesPerPage=5"
+}

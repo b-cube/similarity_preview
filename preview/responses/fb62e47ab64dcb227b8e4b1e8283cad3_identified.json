@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for Bal&#245;es e Empuxo -->  <jnlp spec=\"1.0+\" codebase=\"http://phet.colorado.edu/sims/ideal-gas\" href=\"balloons-and-buoyancy_pt_BR.jnlp\">      <information>          <title>Bal&#245;es e Empuxo</title>          <vendor>University of Colorado, Department of Physics</vendor>          <description>The Bal&#245;es e Empuxo Simulation</description>          <offline-allowed/>      </information>      <resources>          <j2se version=\"1.4+\"/>          <property name=\"javaws.phet.locale\" value=\"pt\" /> <property name=\"javaws.user.language\" value=\"pt\" /><property name=\"javaws.user.country\" value=\"BR\" />          <jar href=\"ideal-gas_all.jar\"/>      </resources>            <application-desc main-class=\"edu.colorado.phet.idealgas.BalloonsAndBuoyancyApplication\">                </application-desc>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fb62e47ab64dcb227b8e4b1e8283cad3", 
+    "source_url": "http://phet.colorado.edu/sims/ideal-gas/balloons-and-buoyancy_pt_BR.jnlp"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.H245.1998\"> <front> <title>CONTROL PROTOCOL FOR MULTIMEDIA COMMUNICATION</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"\" year=\"1998\" /> </front>  <seriesInfo name=\"ITU\" value=\"Recommendation H.245\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d56f5d1fa1d01f0e0a17cc46b88ebb87", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.H245.1998.xml"
+}

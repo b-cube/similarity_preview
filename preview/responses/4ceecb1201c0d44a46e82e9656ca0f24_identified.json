@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123070</identifier><identifier type=\"pwpk\">70038806</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3070</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A climate trend analysis of Chad</title></titleInfo><originInfo><dateOther>Thu, 21 Jun 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Funk, Chris; Rowland, Jim; Adoum, Alkhalil; Eilerts, Gary; White, Libby</namePart><role>Author</role></name><abstract>This brief report, drawing from a multi-year effort by the U.S. Agency for International Development (USAID) Famine Early Warning Systems Network (FEWS NET), identifies significant decreases in rainfall and increases in air temperature across Chad, especially in the eastern part of the country. These analyses are based on quality-controlled station observations. &lt;b>Conclusions:&lt;/b>* Summer rains have decreased in eastern Chad during the past 20 years.  * Temperatures have increased by 0.8 &amp;deg;Celsius since 1975, amplifying the effect of droughts. * Crop yields are very low and stagnant. * The amount of farmland per person is low, and decliningrapidly.* Population growth combined with stagnating yieldscould lead to a 30 percent reduction in per capita cereal production by 2025.* In many cases, areas with changing climate are coincident with zones of substantial conflict, indicating some degree of association; however, the contribution of climate change to these conflicts is not currently understood.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3070.JPG</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3070/</url></location><note type=\"citation/reference\">A climate trend analysis of Chad; 2012; FS; 2012-3070; Fact Sheet; Funk, Chris; Rowland, Jim; Adoum, Alkhalil; Eilerts, Gary; White, Libby</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4ceecb1201c0d44a46e82e9656ca0f24", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123070"
+}

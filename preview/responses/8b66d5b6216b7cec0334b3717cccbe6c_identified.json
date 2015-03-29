@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <WCS_Capabilities xmlns=\"http://www.opengis.net/wcs\" xmlns:gml=\"http://www.opengis.net/gml\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.0.0\">   <Service>     <fees>NONE</fees>     <accessConstraints>NONE</accessConstraints>   </Service>   <Capability>     <Request>       <GetCapabilities>         <DCPType>           <HTTP>             <Get>               <OnlineResource xlink:href=\"https://rsg.pml.ac.uk/thredds/wcs/cnr/3b42-rainfall-3h-annual-agg.nc\" />             </Get>           </HTTP>         </DCPType>       </GetCapabilities>       <DescribeCoverage>         <DCPType>           <HTTP>             <Get>               <OnlineResource xlink:href=\"https://rsg.pml.ac.uk/thredds/wcs/cnr/3b42-rainfall-3h-annual-agg.nc\" />             </Get>           </HTTP>         </DCPType>       </DescribeCoverage>       <GetCoverage>         <DCPType>           <HTTP>             <Get>               <OnlineResource xlink:href=\"https://rsg.pml.ac.uk/thredds/wcs/cnr/3b42-rainfall-3h-annual-agg.nc\" />             </Get>           </HTTP>         </DCPType>       </GetCoverage>     </Request>     <Exception>       <Format>application/vnd.ogc.se_xml</Format>     </Exception>   </Capability>   <ContentMetadata /> </WCS_Capabilities> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0.0", 
+        "protocol": "OGC:WCS", 
+        "language": "", 
+        "service": "GetCapabilities", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8b66d5b6216b7cec0334b3717cccbe6c", 
+    "source_url": "https://rsg.pml.ac.uk/thredds/wcs/cnr/3b42-rainfall-3h-annual-agg.nc?service=WCS&version=1.0.0&request=GetCapabilities"
+}

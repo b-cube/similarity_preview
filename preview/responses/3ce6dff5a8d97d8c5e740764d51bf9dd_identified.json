@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?><discovery xmlns=\"http://schemas.xmlsoap.org/disco/\"><contractRef ref=\"http://search.ams.usda.gov/FarmersMarkets/mobile/mobile.svc?wsdl\" docRef=\"https://search.ams.usda.gov/FarmersMarkets/mobile/mobile.svc\" xmlns=\"http://schemas.xmlsoap.org/disco/scl/\"/></discovery>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3ce6dff5a8d97d8c5e740764d51bf9dd", 
+    "source_url": "http://search.ams.usda.gov/FarmersMarkets/mobile/mobile.svc?disco"
+}

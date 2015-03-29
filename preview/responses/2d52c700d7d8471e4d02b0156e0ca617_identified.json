@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">   <title>Gentoo Packages /package/dev-ruby/exifr</title>   <icon>http://www.gentoo.org/favicon.ico</icon>   <id>http://packages.gentoo.org/feed/package/dev-ruby/exifr</id>   <generator uri=\"http://packages.gentoo.org/\">Gentoo Packages2</generator>   <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/dev-ruby/exifr\" type=\"text/html\"/>   <link rel=\"self\" href=\"http://packages.gentoo.org/feed/package/dev-ruby/exifr\" type=\"application/atom+xml\"/>   <updated>2015-03-04T04:27:35Z</updated>   <entry>  <title xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\">    <div>         <span class=\"cpvstr\">dev-ruby/exifr</span>: <span class=\"description\">A library to read EXIF info from JPEG and TIFF images</span>       </div>     </title>     <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/dev-ruby/exifr\" type=\"text/html\"/>     <id>http://packages.gentoo.org/package/dev-ruby/exifr?ts=2015-03-03T18:21:31Z</id>     <author>       <name>Manuel R\\ufffd\\ufffdger (mrueg)</name>       <uri>http://cia.vc/stats/author/mrueg</uri>     </author>     <updated>2015-03-03T18:21:31Z</updated>     <summary xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\"><div>*exifr-1.2.1 (03 Mar 2015)<br/>03 Mar 2015; Manuel R\\ufffd\\ufffdger (<a href=\"http://cia.vc/stats/author/mrueg\">mrueg</a>) +<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-ruby/exifr/exifr-1.2.1.ebuild?view=markup\">exifr-1.2.1.ebuild</a>:<br/>Version bump.</div></summary>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2d52c700d7d8471e4d02b0156e0ca617", 
+    "source_url": "http://packages.gentoo.org/feed/package/dev-ruby/exifr"
+}

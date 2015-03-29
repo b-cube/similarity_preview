@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">cir1198</identifier><identifier type=\"pwpk\">30790</identifier><identifier type=\"series\">Circular</identifier><identifier type=\"seriesNumber\">1198</identifier><identifier type=\"seriesCode\">CIR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Beyond the Golden Gate; oceanography, geology, biology, and environmental issues in the Gulf of the Farallones</title></titleInfo><originInfo><dateOther>Fri, 1 Mar 2002 00:00 -0600</dateOther><dateIssued>2001</dateIssued></originInfo><name><namePart>Karl, Herman A., (Edited By); Chin, John L.; Ueber, Edward; Stauffer, Peter H.; Hendley, James W., II</namePart><role>Author</role></name><abstract>In the 1990's, the U.S. Geological Survey sponsored a multidisciplinary, multiagency investigation of the Gulf of the Farallones, which lies offshore of the San Francisco Bay region. This book discussess the results of the endeavor, covering the topics of oceanography and geology, biology and ecological niches, and issues of environmental management.</abstract><physicalDescription><form>78 p.; CD-ROM in pocket</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/cir_1198.bmp</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/circ/c1198/</url></location><note type=\"citation/reference\">Beyond the Golden Gate; oceanography, geology, biology, and environmental issues in the Gulf of the Farallones; 2001; CIR; 1198; Circular; Karl, Herman A., (Edited By); Chin, John L.; Ueber, Edward; Stauffer, Peter H.; Hendley, James W., II</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Circular</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "265b6635738c69320ef7742041dc4726", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=cir1198"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for Reactions &amp; Rates -->  <jnlp spec=\"1.0+\" codebase=\"http://phet.colorado.edu/sims/reactions-and-rates\" href=\"reactions-and-rates_en.jnlp\">      <information>          <title>Reactions &amp; Rates</title>          <vendor>University of Colorado, Department of Physics</vendor>          <description>The Reactions &amp; Rates Simulation</description>          <offline-allowed/>      </information>      <resources>          <j2se version=\"1.4+\"/>          <property name=\"javaws.phet.locale\" value=\"en\" /> <property name=\"javaws.user.language\" value=\"en\" />          <jar href=\"reactions-and-rates_all.jar\"/>      </resources>                  <application-desc main-class=\"edu.colorado.phet.reactionsandrates.ReactionsAndRatesApplication\">                </application-desc>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "23f76534b1e3385761ec3e128baaa65a", 
+    "source_url": "http://phet.colorado.edu/sims/reactions-and-rates/reactions-and-rates_en.jnlp"
+}

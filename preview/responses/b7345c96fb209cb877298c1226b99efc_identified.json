@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/new-companies-registered-2014\">     <owl:sameAs rdf:resource=\"urn:uuid:29aceaff-9858-40fd-95e1-3b2e192e8526\"></owl:sameAs>     <dct:description>##New Companies Registered in Barnet 2014  The number of new companies registered between 1st January 2014 to 31st December 2014.   </dct:description>         <dcat:keyword>2014</dcat:keyword>         <dcat:keyword>Barnet</dcat:keyword>         <dcat:keyword>businesses</dcat:keyword>         <dcat:keyword>companies</dcat:keyword>         <dcat:keyword>company</dcat:keyword>         <dcat:keyword>latest</dcat:keyword>         <dcat:keyword>new</dcat:keyword>         <dcat:keyword>registered</dcat:keyword>         <dcat:keyword>registery</dcat:keyword>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/new-companies-registered-2014\"></foaf:homepage>     <rdfs:label>new-companies-registered-2014</rdfs:label>     <dct:identifier>new-companies-registered-2014</dct:identifier>     <dct:title>New Companies Registered 2014</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://demo.ckan.org/dataset/29aceaff-9858-40fd-95e1-3b2e192e8526/resource/2cd52352-987b-44aa-9db0-8de29aa6ef57/download/barnetcompanies17032015.csv\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>New Companies Registered 2014</dct:title>             </dcat:Distribution>         </dcat:distribution>     <dct:creator>       <rdf:Description>         <foaf:name>Children's Services</foaf:name>         <foaf:mbox rdf:resource=\"mailto:csteam@barnet.gov.uk\"></foaf:mbox>       </rdf:Description>     </dct:creator>     <dct:contributor>       <rdf:Description>         <foaf:name>Children's Services</foaf:name>         <foaf:mbox rdf:resource=\"mailto:csdata@barnet.gov.uk\"></foaf:mbox>       </rdf:Description>     </dct:contributor>     <dct:rights rdf:resource=\"http://reference.data.gov.uk/id/open-government-licence\"></dct:rights>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "b7345c96fb209cb877298c1226b99efc", 
+    "source_url": "http://demo.ckan.org/dataset/29aceaff-9858-40fd-95e1-3b2e192e8526.rdf"
+}

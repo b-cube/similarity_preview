@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Interview data on provision and use of open data in South African higher education</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname/>             <given-names/>           </name>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/10261\"/>       <self-uri xlink:href=\"https://zenodo.org/record/10261/files/ODDC_Interview_Data.xlsx\"/>     </article-meta>     <abstract>&lt;p&gt;Data from interviews conducted with university planners, higher education studies researchers and the South African Department of Higher Education and Training (DHET). Data sourced for the &amp;#39;Use of open data in the governance of South African higher education&amp;#39; research project, in the IDRC/WWWF &amp;#39;Exploring Emerging Impacts of Open Data in the South&amp;#39; initiative.&lt;/p&gt;</abstract>   </front>   <article-type>user-odsahe</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b94259fc4b2d1399a9b1b37ff9a28739", 
+    "source_url": "https://zenodo.org/record/10261/export/xn"
+}

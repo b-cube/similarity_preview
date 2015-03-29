@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"['en_GB']\"><title>CKAN Repository Revision History</title><link href=\"/data/revision/list?id=\" rel=\"alternate\"></link><id>/data/revision/list?id=</id><updated>2015-03-19T08:59:24Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7b028a4ef385edd2252b9e04a85021fb", 
+    "source_url": "http://data.bris.ac.uk/data/revision/list?days=1&format=atom"
+}

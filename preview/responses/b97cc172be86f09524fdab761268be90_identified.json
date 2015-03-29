@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>AFSC/REFM: Steller sea lion economic survey data, U.S., 2007, Lew</dc:title>    <dcterms:alternative>AFSC/REFM: Steller sea lion economic survey data, U.S., 2007, Lew</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>economic values, stated preference, non-market valuation</dc:subject>    <dc:subject>Economy, Oceans</dc:subject>    <dcterms:abstract>The project will produce a valuation function that depends on factors related to Steller sea lion (SSL) protection measures, and may include some combination of the expected aggregate size of the population and improvements to the ESA listing status resulting from protection measures, cost of the protection measures, and effects of protection measures on local economies, fishery participants, and consumer fish prices.  This function can be used to identify non-consumptive use values for SSLs and how these values are affected by protection measures, thereby providing valuable information to policy makers.</dcterms:abstract>    <dc:publisher>Alaska Fisheries Science Center</dc:publisher>    <dc:creator>Alaska Fisheries Science Center</dc:creator>    <dc:creator>Lew, Dan </dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/21675</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/22253</dcterms:isPartOf>    <dcterms:spatial xsi:type=\"dcterms:Box\">                         northlimit=65;                         eastlimit=-117;                         southlimit=32;                         westlimit=170;                                              name=a.National sample (U.S. households) with oversampling in Alaska;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:W3CDTF\">2007</dcterms:temporal>    <dcterms:accessRights>The data set is still being analyzed and will not be available for distribution until it has been finalized and all QA/QC practices have been performed.  Contact the Point Of Contact for estimated time of release.</dcterms:accessRights> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b97cc172be86f09524fdab761268be90", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/21675/dublin-core"
+}

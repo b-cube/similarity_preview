@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Socrata</ShortName>   <Description>Open Data | Socrata</Description>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://controllerdata.lacity.org/api/assets/82CD444F-E070-4A6E-AFE4-F26A49528836</Image>   <Url type=\"text/html\" method=\"get\" template=\"http://controllerdata.lacity.org/browse?q={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "86525d11d37e2032f44f914c8429b478", 
+    "source_url": "https://controllerdata.lacity.org/opensearch.xml"
+}

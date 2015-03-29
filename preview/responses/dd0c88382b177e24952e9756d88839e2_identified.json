@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Metabolic disruption due to contaminant exposure (Characterizing the toxicity of metabolic disruptors in juvenile chinook)</dc:title>    <dcterms:alternative>Metabolic disruption due to contaminant exposure (Characterizing the toxicity of metabolic disruptors in juvenile chinook)</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>Lipid stores, Metabolic disruptor, Physiological parameters, growth, Protected species and marine mammals, Toxicology</dc:subject>    <dcterms:abstract>This is an ongoing series of studies to examine the toxicity of various common contaminants that have the potential to affect metabolic homeostasis in salmon. We have completed experiments with polycyclic aromatic hydrocarbons, tributyltin, and bis(2-ethylhexyl)phthalate. With the current experiment we are examining the effects of perfluorooctane sulfonic acid on juvenile chinook. The experiments examine growth and various physiological parameters related to metabolism and lipid dynamics. All experiments are conducted at environmentally relevant exposure concentrations that fish experience in urban estuaries. Excel spreadsheets - growth values, plasma parameters, lipid content</dcterms:abstract>    <dc:publisher>Northwest Fisheries Science Center</dc:publisher>    <dc:creator>Meador, James </dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/17825</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/17696</dcterms:isPartOf>    <dcterms:spatial xsi:type=\"dcterms:Box\">                         northlimit=47.949141;                         eastlimit=-122.302703;                         southlimit=47.644914;                         westlimit=-122.306178;                                              name=Salmon lab at Mukilteo; Chemistry lab at Montlake;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:Period\">                             start=2012-01-01;                             end=2013-10-30;                         </dcterms:temporal>    <dcterms:accessRights>Unclassified</dcterms:accessRights>    <dcterms:created xsi:type=\"dcterms:W3CDTF\">2013-10-30</dcterms:created> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dd0c88382b177e24952e9756d88839e2", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/17825/dublin-core"
+}

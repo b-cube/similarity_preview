@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Community Recommendations for Improving Sustainable Scientific Software Practices</dc:title><dc:creator>Downs, Robert R.</dc:creator><dc:creator>Lenhardt, W. Christopher</dc:creator><dc:creator>Robinson, Erin</dc:creator><dc:creator>Davis, Ethan</dc:creator><dc:creator>Weber, Nicholas</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Information science</dc:subject><dc:subject>Computer science</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8Q52NBC</dc:identifier><dc:description>Multiple focus groups were conducted to elicit perspectives from members of the Earth science informatics community on the sustainability of scientific software. Recommendations that the participants offered for near-term community actions and activities are described.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "648208db6ceb64e71ed1c9f13cd1c911", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A179856.dc_xml"
+}

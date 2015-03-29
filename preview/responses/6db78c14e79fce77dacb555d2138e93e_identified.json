@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Results of the Digital Curation Centre 2014 RDM Survey Pre-\\ufffd\\ufffd\\ufffd\\ufffd\\ufffdrelease Briefing 2,</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Whyte</surname>             <given-names>Angus</given-names>           </name>           <aff>             <institution>Digital Curation Centre, University of Edinburgh</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/10712\"/>       <self-uri xlink:href=\"http://zenodo.org/record/10712/files/DCC_RDM2014_SurveyAnalysis_Pre2.pdf\"/>       <self-uri xlink:href=\"http://zenodo.org/record/10712/files/DCC_RDM2014_SurveyAnalysis_Pre2.png?subformat=icon-90\"/>     </article-meta>     <abstract>&lt;p&gt;The 2nd of 3 Briefing papers giving results of the DCC survey, originally released to survey respondents on 1st May 2014. The report outlines:&lt;/p&gt;  &lt;p&gt;How far have institutions progressed towards developing RDM policy?&lt;/p&gt;  &lt;p&gt;How far have institutions got in implementing their policies?&lt;/p&gt;  &lt;p&gt;When will institutions be able to provide for long-term access?&lt;/p&gt;  &lt;p&gt;What external guidance and support is needed now?&lt;/p&gt;  &lt;p&gt;What shared services are appropriate?&lt;/p&gt;</abstract>   </front>   <article-type>user-dcc-rdm-2014</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6db78c14e79fce77dacb555d2138e93e", 
+    "source_url": "https://zenodo.org/record/10712/export/xn"
+}

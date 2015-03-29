@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='utf-8'  ?> <formats> <format name=\"marcxml\" type=\"application/xml\" namespace_uri=\"http://www.loc.gov/MARC21/slim\" docs=\"http://www.loc.gov/marcxml/\" schema_location=\"http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd\"/> <format name=\"marcxml-full\" type=\"application/xml\" namespace_uri=\"http://www.loc.gov/MARC21/slim\" docs=\"http://www.loc.gov/marcxml/\" schema_location=\"http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd\"/> <format name=\"mods\" type=\"application/xml\" namespace_uri=\"http://www.loc.gov/mods/\" docs=\"http://www.loc.gov/mods/\" schema_location=\"http://www.loc.gov/standards/mods/mods.xsd\"/> <format name=\"mods-full\" type=\"application/xml\" namespace_uri=\"http://www.loc.gov/mods/\" docs=\"http://www.loc.gov/mods/\" schema_location=\"http://www.loc.gov/standards/mods/mods.xsd\"/> <format name=\"mods3\" type=\"application/xml\" namespace_uri=\"http://www.loc.gov/mods/v3\" docs=\"http://www.loc.gov/mods/\" schema_location=\"http://www.loc.gov/standards/mods/v3/mods-3-1.xsd\"/> <format name=\"mods3-full\" type=\"application/xml\" namespace_uri=\"http://www.loc.gov/mods/v3\" docs=\"http://www.loc.gov/mods/\" schema_location=\"http://www.loc.gov/standards/mods/v3/mods-3-1.xsd\"/> <format name=\"oai_dc\" type=\"application/xml\" namespace_uri=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" schema_location=\"http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"/> <format name=\"rdfdc\" type=\"application/xml\" namespace_uri=\"http://purl.org/dc/elements/1.1/\" schema_location=\"http://purl.org/dc/elements/1.1/\"/> <format name=\"rss2\" type=\"application/xml\"/> <format name=\"rss2-full\" type=\"application/xml\"/> <format name=\"srw_dc\" type=\"application/xml\" namespace_uri=\"info:srw/schema/1/dc-schema\" schema_location=\"http://www.loc.gov/z3950/agency/zing/srw/dc-schema.xsd\"/> </formats> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "141cd44fba19a7074a1fa7d5d7e4906b", 
+    "source_url": "http://www.nmbl.org/cgi-bin/koha/unapi"
+}

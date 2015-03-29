@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OAI-PMH xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd\">     <responseDate>2015-03-18T23:31:28Z</responseDate>     <request verb=\"identify\">http://data.nodc.noaa.gov/cgi-bin/oai-pmh</request>     <error code=\"badVerb\">The request no verb.</error></OAI-PMH> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": true, 
+        "version": "", 
+        "protocol": "OAI-PMH", 
+        "language": "", 
+        "service": "Identify", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fbac2a8b1b3d19d0781f6bea44ce3744", 
+    "source_url": "http://data.nodc.noaa.gov/cgi-bin/oai-pmh?verb=identify"
+}

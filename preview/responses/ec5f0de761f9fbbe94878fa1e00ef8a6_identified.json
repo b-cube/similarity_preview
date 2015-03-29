@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>5799</id>   <unit>150.2</unit>   <dept_name>Bookstore</dept_name>   <sub_name>Book Division</sub_name>   <main_number>3634</main_number>   <location>UCTR 105J</location>   <comments>     <comment></comment>   </comments>   <employees> <employee>   <id>26128</id>   <name>Gillman, Deborah</name>   <phone>3220</phone>   <title>Bookkeeper</title>   <department>Bookstore</department>   <sub_unit>Book Division</sub_unit>   <location>UCTR 105</location>   <email>dgillma2@uccs.edu</email>   <extra></extra>   <ntname>dgillma2</ntname>   <unit>150.2</unit>   <order>3</order> </employee> <employee>   <id>25917</id>   <name>Coddington, Sharon</name>   <phone>3250</phone>   <title>Sales Manager II</title>   <department>Bookstore</department>   <sub_unit>Book Division</sub_unit>   <location>UCTR 105J</location>   <email>scodding@uccs.edu</email>   <extra></extra>   <ntname>scodding</ntname>   <unit>150.2</unit>   <order>9</order> </employee> <employee>   <id>25932</id>   <name>Counterman, Andrew</name>   <phone>3803</phone>   <title>Customer Fulfillment Coordinator</title>   <department>Bookstore</department>   <sub_unit>Book Division</sub_unit>   <location>UCTR 105J</location>   <email>acounter@uccs.edu</email>   <extra></extra>   <ntname>acounter</ntname>   <unit>150.2</unit>   <order>9</order> </employee> <employee>   <id>26922</id>   <name>Weed, Ericka</name>   <phone>3634</phone>   <title>Assistant Textbook Buyer</title>   <department>Bookstore</department>   <sub_unit>Book Division</sub_unit>   <location>UCTR 105</location>   <email>ehanlonr@uccs.edu</email>   <extra></extra>   <ntname>ehanlonr</ntname>   <unit>150.2</unit>   <order>9</order> </employee>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ec5f0de761f9fbbe94878fa1e00ef8a6", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=150.2&type=details_by_unit"
+}

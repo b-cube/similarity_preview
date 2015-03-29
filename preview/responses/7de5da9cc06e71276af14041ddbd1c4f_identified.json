@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">     <ShortName>CEH Gateway</ShortName>     <LongName>CEH Information Gateway</LongName>     <Description>The catalogue of the CEH Information Gateway describes data holdings and services managed by the Centre for Ecology and Hydrology (CEH). CEH is the United Kingdom's Centre of Excellence for integrated research in terrestrial and freshwater ecosystems and their interaction with the atmosphere. CEH is part of the United Kingdom Natural Environment Research Council (NERC).</Description>     <Contact>gateway@ceh.ac.uk</Contact>     <Image height=\"16\" width=\"16\" type=\"image/x-icon\">https://gateway.ceh.ac.uk/terraCatalog/favicon.ico</Image>     <Url type=\"text/html\" template=\"https://gateway.ceh.ac.uk/terraCatalog/OpenSearch.do?search={searchTerms}&amp;type=/Query/OpenSearch.do\"/>     <Query role=\"example\" searchTerms=\"ecology\"/>     <Developer>CEH Apps Dev Team</Developer> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7de5da9cc06e71276af14041ddbd1c4f", 
+    "source_url": "http://gateway.ceh.ac.uk/terraCatalog/os-description.xml"
+}

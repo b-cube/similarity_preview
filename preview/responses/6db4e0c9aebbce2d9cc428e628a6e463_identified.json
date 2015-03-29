@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs02702</identifier><identifier type=\"pwpk\">32735</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">027-02</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Pharmaceuticals, Hormones, and Other Organic Wastewater Contaminants in U.S. Streams</title></titleInfo><originInfo><dateOther>Tue, 1 Oct 2002 00:00 -0500</dateOther><dateIssued>2002</dateIssued></originInfo><name><namePart>Buxton, Herbert T.; Kolpin, Dana W.</namePart><role>Author</role></name><physicalDescription><form>2 p.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_027_02.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://toxics.usgs.gov/pubs/FS-027-02/index.html</url></location><note type=\"citation/reference\">Pharmaceuticals, Hormones, and Other Organic Wastewater Contaminants in U.S. Streams; 2002; FS; 027-02; Fact Sheet; Buxton, Herbert T.; Kolpin, Dana W.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6db4e0c9aebbce2d9cc428e628a6e463", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs02702"
+}

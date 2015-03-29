@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns=\"http://www.w3.org/2002/03owlt/pathTransitive#\"     xmlns:owl=\"http://www.w3.org/2001/10/daml+oil#\"     xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">      <rdf:Description rdf:about=\"#Antwerp\">         <path rdf:resource=\"#Amsterdam\"/>     </rdf:Description>      <rdf:Description rdf:about=\"#Ghent\">         <path rdf:resource=\"#Antwerp\"/>     </rdf:Description>      <owl:TransitiveProperty rdf:about=\"#path\">     </owl:TransitiveProperty>      <rdf:Description rdf:about=\"\">         <rcsid>$Id: pathTransitiveP.rdf,v 1.1 2002/06/29 12:20:09 jderoo Exp $</rcsid>     </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "db5b2285e98b9b4a721cf02f47d92436", 
+    "source_url": "http://www.w3.org/2002/03owlt/pathTransitiveP.rdf"
+}

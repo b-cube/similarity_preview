@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Commercial Fisheries</dc:title>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:publisher>Alaska Fisheries Science Center</dc:publisher>    <dc:creator>Alaska Fisheries Science Center</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/22253</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/12365</dcterms:isPartOf> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2490967abaecd3c9a3b18a75a5b1a3f3", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/22253/dublin-core"
+}

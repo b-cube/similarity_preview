@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Becker, Hans-Georg</author>         </authors>       </contributors>       <titles>         <title>Datens\\ufffd\\ufffdtze aus dem Katalog der Universit\\ufffd\\ufffdts- und Stadtbibliothek K\\ufffd\\ufffdln</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.10251</doi>       <pages/>       <volume/>       <number>doi</number>       <keywords>         <keyword>Bibliographie</keyword>         <keyword>ArcheoInf</keyword>         <keyword>Testdaten</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-06-01</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Dieses Paket enth&amp;auml;lt bibliographische Daten aus dem Katalog der Universit&amp;auml;ts- und Stadtbibliothek K&amp;ouml;ln in den Formaten MODS, RDF/XML und im Apache-Solr-Add-Format.&lt;/p&gt;          &lt;p&gt;Die Daten wurden zum Test des im Projekt aufgebauten Systems erzeugt und haben den Stand vom 28.06.2012. Die Daten der USB K&amp;ouml;ln stehen als Open Data zur Verf&amp;uuml;gung.&lt;/p&gt;          &lt;p&gt;Die Daten wurden mit den im Projekt ArcheoInf entwickelten Werkzeugen erzeugt. Die Werkzeuge sind auf GitHub unter https://github.com/ArcheoInf/bibdata abgelegt.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6d64c4e839938853b5cfa10edfa54093", 
+    "source_url": "https://zenodo.org/record/10251/export/xe"
+}

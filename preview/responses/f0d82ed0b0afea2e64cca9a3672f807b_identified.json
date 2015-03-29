@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-di-dco-20021213'> <front> <title>Delivery Context Overview for Device Independence</title>  <author initials='R' surname='Gimson' fullname='Roger Gimson'>     <organization /> </author>  <date month='December' day='13' year='2002' /> </front>  <seriesInfo name='W3C WD' value='WD-di-dco-20021213' /> <format type='HTML' target='http://www.w3.org/TR/2002/WD-di-dco-20021213' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f0d82ed0b0afea2e64cca9a3672f807b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-di-dco-20021213.xml"
+}

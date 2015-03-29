@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20103036</identifier><identifier type=\"pwpk\">98755</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2010-3036</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>PAGER--Rapid assessment of an earthquake?s impact</title></titleInfo><originInfo><dateOther>Thu, 30 Sep 2010 00:00 -0500</dateOther><dateIssued>2010</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Wald, D.J.; Jaiswal, K.; Marano, K.D.; Bausch, D.; Hearne, M.</namePart><role>Author</role></name><abstract>PAGER (Prompt Assessment of Global Earthquakes for Response) is an automated system that produces content concerning the impact of significant earthquakes around the world, informing emergency responders, government and aid agencies, and the media of the scope of the potential disaster. PAGER rapidly assesses earthquake impacts by comparing the population exposed to each level of shaking intensity with models of economic and fatality losses based on past earthquakes in each country or region of the world. Earthquake alerts--which were formerly sent based only on event magnitude and location, or population exposure to shaking--now will also be generated based on the estimated range of fatalities and economic losses.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2010_3036.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2010/3036/</url></location><note type=\"citation/reference\">PAGER--Rapid assessment of an earthquake?s impact; 2010; FS; 2010-3036; Fact Sheet; Wald, D.J.; Jaiswal, K.; Marano, K.D.; Bausch, D.; Hearne, M.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0e017e7376f4ae2229e6c85b3d2d370c", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20103036"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <jnlp spec=\"1.0\"       codebase=\"http://www.ciesin.columbia.edu/gcce/\"       href=\"CHANGE_Viewer.jnlp\">     <information>         <title>Global Climate Change Education Project</title>         <vendor>CIESIN</vendor>         <homepage href=\"http://worldwind.arc.nasa.gov\"/>         <description>World Wind WMS Viewer</description>         <description kind=\"short\">World Wind WMS Viewer</description>         <offline-allowed/>     </information>     <security>         <all-permissions/>     </security>      <resources>         <j2se href=\"http://java.sun.com/products/autodl/j2se\" version=\"1.6+\" initial-heap-size=\"512m\" max-heap-size=\"1024m\"/>         <property name=\"sun.java2d.noddraw\" value=\"true\"/>         <jar href=\"gcce.jar\" main=\"true\"/>         <extension name=\"worldwindx\" href=\"http://worldwind.arc.nasa.gov/java/2.0.0/webstart/worldwindx.jnlp\"/>     </resources>      <application-desc main-class=\"edu.columbia.ciesin.gcce.MapViewerApp\"> </application-desc> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5c27b6bed24226c37a80da6193037fee", 
+    "source_url": "http://www.ciesin.org/gcce/CHANGE_Viewer.jnlp"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<job>   <arg>./jobs/nix/nix.nix</arg>   <arg>nixHeadRelease</arg>   <arg>http://nix.cs.uu.nl/dist/nix</arg>   <arg>http://nix.cs.uu.nl/dist/nix-cache</arg>   <arg>none</arg>   <input>     <name>job</name>     <hash>4eb86cefc55ed933a87b426966d47169</hash>     <rev>3903</rev>     <type>svn</type>     <url>https://svn.cs.uu.nl:12443/repos/trace/release/trunk</url>   </input>   <input>     <name>nixHead</name>     <hash>350a8f60bfec65ffe02b46e5db10f45a</hash>     <rev>3932</rev>     <type>svn</type>     <url>https://svn.cs.uu.nl:12443/repos/trace/nix/branches/0.9.2-release</url>   </input>   <input>     <name>nixpkgs</name>     <hash>5ef7f277890df941ee854600ef1e6e4f</hash>     <rev>3902</rev>     <type>svn</type>     <url>https://svn.cs.uu.nl:12443/repos/trace/nixpkgs/trunk</url>   </input>   <job-script>generic-dist/build+upload.sh</job-script>   <notify-address>eelco@cs.uu.nl</notify-address>   <secrets>../../secrets/nix-upload-passwd</secrets> </job> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "caf066f954aa5626a5a45a6ca47180a9", 
+    "source_url": "http://nixos.org/releases/nix/nix-0.9.2/job.xml"
+}

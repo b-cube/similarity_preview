@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0072\">   <front>     <title>SOAP Over XMPP</title>     <author initials=\"F.\" surname=\"Forno\" fullname=\"Fabio Forno\">       <organization/>       <address>         <email>fabio.forno@gmail.com</email>       </address>     </author>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"14\" month=\"December\" year=\"2005\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0072\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0072.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "81b6796df654cb0bca85c0c750be6d4d", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0072.xml"
+}

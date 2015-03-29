@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <o:nodeList xmlns:o=\"http://www.w3.org/2005/11/its/testoutputformat\">   <o:nodeList datacat=\"terminology\">     <o:node path=\"/{}myDoc\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}head[1]\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/@{}version\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/@{http://www.w3.org/2005/11/its}version\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/{http://www.w3.org/2005/11/its}termRule[1]\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/{http://www.w3.org/2005/11/its}termRule[1]/@{}selector\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/{http://www.w3.org/2005/11/its}termRule[1]/@{}term\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/{http://www.w3.org/2005/11/its}termRule[1]/@{}termInfoPointer\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}head[1]/{}title[1]\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}par[1]\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}par[1]/{}term[1]\" outputType=\"new-value-global\">       <o:output o:term=\"yes\">         <o:termInfoText>Palouse horses, or Appaloosa, are rugged horses with spotted coats.</o:termInfoText>       </o:output>     </o:node>     <o:node path=\"/{}myDoc/{}par[1]/{}term[1]/@{}ref\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}par[2]\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>     <o:node path=\"/{}myDoc/{}par[2]/@{}id\" outputType=\"default-value\">       <o:output o:term=\"no\" />     </o:node>   </o:nodeList> </o:nodeList>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "15a2ffae851e434e8b4761605b38a71c", 
+    "source_url": "http://www.w3.org/International/its/tests/test2/Terminology1-result.xml"
+}

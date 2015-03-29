@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/antarctic/antarctic_basemap/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/antarctic/clipping_donut/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/antarctic/graticule/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/antarctic/ibcso_contours/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/antarctic/reference/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9ed9fc3cbd6b179c75337c1bf31df285", 
+    "source_url": "http://maps.ngdc.noaa.gov/arcgis/rest/services/antarctic?f=sitemap"
+}

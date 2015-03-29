@@ -1,0 +1,15 @@
+{
+    "content": "<OAI-PMH xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd\"><responseDate>2015-03-18T21:22:30Z</responseDate><request verb=\"Identify\">http://copac.ac.uk/oai-pmh</request><Identify><repositoryName>Copac National, Academic, &amp; Special Library Catalogue</repositoryName><baseURL>http://copac.ac.uk/oai-pmh</baseURL><protocolVersion>2.0</protocolVersion><adminEmail>copac@mimas.ac.uk</adminEmail><earliestDatestamp>2014-04-01</earliestDatestamp><deletedRecord>no</deletedRecord><granularity>YYYY-MM-DD</granularity></Identify></OAI-PMH>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "2.0", 
+        "protocol": "OAI-PMH", 
+        "language": "", 
+        "service": "Identify", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8224d3cafcc46328b729146e717014a4", 
+    "source_url": "http://copac.ac.uk/oai-pmh?verb=Identify"
+}

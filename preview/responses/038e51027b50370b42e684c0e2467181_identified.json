@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns:atom=\"http://www.w3.org/2005/Atom\"   xmlns=\"http://purl.org/rss/1.0/\" >  <channel rdf:about=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=COMPUTING-WORCESTER&amp;v=1.0\">  <dc:identifier>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=COMPUTING-WORCESTER&amp;v=1.0</dc:identifier>  <title>COMPUTING-WORCESTER List</title>  <link>https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=COMPUTING-WORCESTER</link>  <description>COMPUTING-WORCESTER List Archives</description>  <dc:date>2014-05-29T11:11:54Z</dc:date>  <image rdf:resource=\"http://www.lsoft.com/images/listserv_small.gif\"/>    <items>   <rdf:Seq>     <rdf:li resource=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=COMPUTING-WORCESTER;bb0126e3.1405\"/>     </rdf:Seq>  </items>   </channel>  <image rdf:about=\"http://www.lsoft.com/images/listserv_small.gif\">     <title>Powered by L-Soft's LISTSERV mailing list manager</title>     <link>http://www.lsoft.com/products/listserv-powered.asp</link>     <url>http://www.lsoft.com/images/listserv_small.gif</url> </image>   <item rdf:about=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=COMPUTING-WORCESTER;bb0126e3.1405\">   <title>2nd International Summer School on Advances in Programming Languages - Call for participation </title>   <link>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=COMPUTING-WORCESTER;bb0126e3.1405</link>   <description> Good morning,&lt;br&gt;&lt;br&gt;We thought this Summer School might be of interest to researchers and&lt;br&gt;students within your group and department.&lt;br&gt;If you could kindly circulate the below call for participation within&lt;br&gt;your network including broader community with&lt;br&gt;some interest in programming languages.&lt;br&gt;&lt;br&gt;Apologies for multiple postings.&lt;br&gt;&lt;br&gt;Best wishes,&lt;br&gt;AiPL&apos;14 Organising Committee    </description>   <dc:date>2014-05-29T12:56:16+01:00</dc:date>   <dc:creator>Prabhat Totoo</dc:creator>   <dc:identifier>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=COMPUTING-WORCESTER;bb0126e3.1405</dc:identifier> </item>   </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "038e51027b50370b42e684c0e2467181", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=COMPUTING-WORCESTER&v=1.0"
+}

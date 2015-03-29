@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Department of Trade and Industry (DTI) Geophysical Survey 2006/1_SEA8: Strategic Environmental Assessment Area 8: Inner Bristol Channel (29/Mar/2006 to 21/Apr/2006)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-5345-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">This geophysical and multibeam survey took place in March/April 2006 in the Bristol Channel on board the MV Confidante. It was carried out by Gardline under contract to British Geological Survey (BGS) and Geotek Ltd. It was co-funded by UK Department of Trade and Industry for their Strategic Environmental Assessment Programme and NERC/BGS for their marine mapping programme. The objective was to collect data for investigations of sediment mobility and for monitoring sea bed morphology and sea bed sediment texture. Seafloor bathymetry data were collected using an EM3000 multibeam system and Edgetech 4200FS sidescan sonar. Sub-bottom seismic profiling data were collected using a surface tow boomer. These data were recorded digitally and are archived by BGS. Technical details of the survey are contained in Gardline Report 6749, the BGS cruise report and preliminary geological interpretation are contained in BGS Report CR/06/085.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2006-04-21</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3455e1084eb36db13a267b85c2cc8c77", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-5345-0f38-e044-0003ba9b0d98.xml/DC"
+}

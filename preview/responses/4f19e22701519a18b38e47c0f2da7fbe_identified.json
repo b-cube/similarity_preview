@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Bathymetric Survey - 2009-09-07 - Garston Channel Entrance</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">ukho.ac.uk:DC:01c90f55-1606-3f72-9e43-fa4cf62a845e</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">IPR Holder: Mersey Docks and Harbour Company; Purpose: Safety of navigation; IHO Sea: Irish Sea and the St. Georges Channel - 19; Survey Start: 2009-09-07; Survey End: 2009-09-07; Primary Instrument Type: Echosounder - single beam; Primary Navigation Type: Not Known;</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2010-05-13</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4f19e22701519a18b38e47c0f2da7fbe", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/ukho.ac.uk__MEDIN_2.3__01c90f55-1606-3f72-9e43-fa4cf62a845e.xml/DC"
+}

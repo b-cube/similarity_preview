@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\">   <service>     <engineName>WordPress</engineName>     <engineLink>http://wordpress.org/</engineLink>     <homePageLink>http://nsidc.org/icelights</homePageLink>     <apis>       <api name=\"WordPress\" blogID=\"1\" preferred=\"true\" apiLink=\"http://nsidc.org/icelights/xmlrpc.php\" />       <api name=\"Movable Type\" blogID=\"1\" preferred=\"false\" apiLink=\"http://nsidc.org/icelights/xmlrpc.php\" />       <api name=\"MetaWeblog\" blogID=\"1\" preferred=\"false\" apiLink=\"http://nsidc.org/icelights/xmlrpc.php\" />       <api name=\"Blogger\" blogID=\"1\" preferred=\"false\" apiLink=\"http://nsidc.org/icelights/xmlrpc.php\" />           </apis>   </service> </rsd> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f96e2e5de6609a3795474523acd6b665", 
+    "source_url": "http://nsidc.org/icelights/xmlrpc.php?rsd"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.E163.1988\"> <front> <title>Numbering Plan for the International Telephone Service</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"\" year=\"1988\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation E.163\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aace3234f2b9d700653a6bbe107680c1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-misc/_reference.CCITT.E163.1988.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Bathymetric Survey - 2002-09-17 - Approaches to Londonderry</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">ukho.ac.uk:DC:0aaede22-f376-368a-9a84-3432fb0e594b</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">IPR Holder: Londonderry Port and Harbour Commissioners Trust; Purpose: Safety of navigation; IHO Sea: Inner Seas off the West Coast of Scotland - 18; Survey Start: 2002-09-17; Survey End: 2002-09-17; Primary Instrument Type: Echosounder - single beam; Primary Navigation Type: GPS;</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2010-05-13</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "73a2e3b64f75a489359ec462e4c1fedb", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/ukho.ac.uk__MEDIN_2.3__0aaede22-f376-368a-9a84-3432fb0e594b.xml/DC"
+}

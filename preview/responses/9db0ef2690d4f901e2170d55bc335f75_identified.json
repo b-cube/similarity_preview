@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:File HRef=\"master03.htm\"/>  <o:File HRef=\"master03.xml\"/>  <o:File HRef=\"preview.wmf\"/>  <o:File HRef=\"pres.xml\"/>  <o:File HRef=\"slide0002.htm\"/>  <o:File HRef=\"slide0002_image001.emz\"/>  <o:File HRef=\"oledata.mso\"/>  <o:File HRef=\"slide0002_image002.gif\"/>  <o:File HRef=\"slide0003.htm\"/>  <o:File HRef=\"slide0003_image003.wmz\"/>  <o:File HRef=\"slide0003_image004.gif\"/>  <o:File HRef=\"slide0004.htm\"/>  <o:File HRef=\"slide0004_image005.wmz\"/>  <o:File HRef=\"slide0004_image006.gif\"/>  <o:File HRef=\"slide0005.htm\"/>  <o:File HRef=\"slide0005_image007.wmz\"/>  <o:File HRef=\"slide0005_image008.gif\"/>  <o:File HRef=\"slide0006.htm\"/>  <o:File HRef=\"slide0006_image009.wmz\"/>  <o:File HRef=\"slide0006_image010.gif\"/>  <o:File HRef=\"slide0007.htm\"/>  <o:File HRef=\"slide0007_image011.wmz\"/>  <o:File HRef=\"slide0007_image012.gif\"/>  <o:File HRef=\"slide0008.htm\"/>  <o:File HRef=\"slide0008_image013.wmz\"/>  <o:File HRef=\"slide0008_image014.gif\"/>  <o:File HRef=\"slide0009.htm\"/>  <o:File HRef=\"slide0009_image015.wmz\"/>  <o:File HRef=\"slide0009_image016.gif\"/>  <o:File HRef=\"master03_stylesheet.css\"/>  <o:File HRef=\"script.js\"/>  <o:MainFile HRef=\"../nsffundhist.htm\"/>  <o:File HRef=\"fullscreen.htm\"/>  <o:File HRef=\"buttons.gif\"/>  <o:File HRef=\"frame.htm\"/>  <o:File HRef=\"outline.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9db0ef2690d4f901e2170d55bc335f75", 
+    "source_url": "http://dellweb.bfa.nsf.gov/nsffundhist_files/filelist.xml"
+}

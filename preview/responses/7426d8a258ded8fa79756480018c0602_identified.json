@@ -1,0 +1,15 @@
+{
+    "content": "<dsig:CanonicalizationMethod xmlns:dsig=\"http://www.w3.org/2000/09/xmldsig#\" xmlns:c14n2=\"http://www.w3.org/2010/xml-c14n2\" Algorithm=\"http://www.w3.org/2010/xml-c14n2\">   <c14n2:QNameAware>    <c14n2:Element Name=\"bar\" NS=\"http://a\"/>    <c14n2:XPathElement Name=\"IncludedXPath\" NS=\"http://www.w3.org/2010/xmldsig2#\"/>   </c14n2:QNameAware> </dsig:CanonicalizationMethod>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7426d8a258ded8fa79756480018c0602", 
+    "source_url": "http://www.w3.org/2008/xmlsec/Drafts/c14n-20/test-cases/FPWD-2011-12/files/c14nQnameXpathElem.xml"
+}

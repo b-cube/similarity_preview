@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>godoc</ShortName>   <Description>The Go Programming Language</Description>   <Tags>go golang</Tags>   <Contact />   <Url type=\"text/html\" template=\"http://golang.org/search?q={searchTerms}\" />   <Image height=\"15\" width=\"16\" type=\"image/x-icon\">/favicon.ico</Image>   <OutputEncoding>UTF-8</OutputEncoding>   <InputEncoding>UTF-8</InputEncoding> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5e992a9df0911fa9f2f7864b37cb7396", 
+    "source_url": "http://golang.org/opensearch.xml"
+}

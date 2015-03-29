@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0032\">   <front>     <title>Jabber URI Scheme</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <author initials=\"P.\" surname=\"Millard\" fullname=\"Peter Millard\">       <organization/>       <address>         <email/>       </address>     </author>     <date day=\"02\" month=\"September\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0032\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0032.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e22dccd8c8780f966d4d24e158d53ccb", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0032.xml"
+}

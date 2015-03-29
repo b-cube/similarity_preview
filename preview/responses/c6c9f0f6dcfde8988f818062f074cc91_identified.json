@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.xfa-template-19990614\"> <front> <title>XFA-Template</title>  <author initials=\"G\" surname=\"McKenzie\" fullname=\"Gavin F. McKenzie\">     <organization /> </author>  <date month=\"June\" day=\"14\" year=\"1999\" /> </front>  <seriesInfo name=\"W3C NOTE\" value=\"xfa-template-19990614\" /> <format type=\"HTML\" target=\"http://www.w3.org/1999/05/XFA/xfa-template-19990614\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c6c9f0f6dcfde8988f818062f074cc91", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.xfa-template-19990614.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Coronal Hole Properties in Solar Cycle 24</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Moran</surname>             <given-names>James M.</given-names>           </name>           <aff>             <institution>Harvard Smithsonian Center for Astrophysics</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Miralles</surname>             <given-names>Mari Paz</given-names>           </name>           <aff>             <institution>Harvard Smithsonian Center for Astrophysics</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Miralles</surname>             <given-names>Mari Paz</given-names>           </name>           <aff>             <institution>Harvard-Smithsonian Center for Astrophysics</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Arteaga</surname>             <given-names>Adri\\ufffd\\ufffdn</given-names>           </name>           <aff>             <institution>Harvard University</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/12161\"/>       <self-uri xlink:href=\"http://zenodo.org/record/12161/files/arteaga_presentation.pdf\"/>       <self-uri xlink:href=\"http://zenodo.org/record/12161/files/arteaga_presentation.jpg?subformat=icon-700\"/>       <self-uri xlink:href=\"http://zenodo.org/record/12161/files/arteaga_presentation.gif?subformat=icon\"/>       <self-uri xlink:href=\"http://zenodo.org/record/12161/files/arteaga_presentation.jpg?subformat=icon-180\"/>     </article-meta>     <abstract>&lt;p&gt;Presentation for thesis: &amp;quot;Coronal Hole Properties in Solar Cycle 24: Plasma Behavior in the Weakest Period of Solar Activity Over the Last Half Century&amp;quot;&lt;/p&gt;</abstract>   </front>   <article-type>user-cfa-theses</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c90146092e1a97add52f0c665dd9e038", 
+    "source_url": "https://zenodo.org/record/12161/export/xn"
+}

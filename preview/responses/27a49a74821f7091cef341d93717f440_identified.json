@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>International Trade Union Confederation</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>An ambitious climate agreement requires Lima COP to deliver</title>  <author_name>Anabella Rosemberg </author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/an-ambitious-climate-agreement</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/an-ambitious-climate-agreement'&gt;An ambitious climate agreement requires Lima COP to deliver&lt;/a&gt;&lt;/h4&gt;&lt;blockquote class='spip'&gt; &lt;p&gt;Only a massive demand for climate action from citizens will be able to correct the current unambitious path in which leaders have set their comfort zones. That said, it is our duty as workers' representatives to expect leadership and vision from the very people we elect.&lt;br class='autobr' /&gt; The international community shares today more scientific evidence than it needs to inform decision making on climate change. The impacts on peoples' lives, livelihoods and prosperity if we fail to act now will be calamitous. (...)&lt;/p&gt; &lt;/blockquote&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "27a49a74821f7091cef341d93717f440", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Fan-ambitious-climate-agreement"
+}

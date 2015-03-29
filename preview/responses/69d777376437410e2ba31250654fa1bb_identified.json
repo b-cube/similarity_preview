@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"                        xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <ShortName>MarkMail</ShortName>   <LongName>MarkMail Email Search</LongName>   <Description>Search through email archives at MarkMail</Description>   <Tags>email open source</Tags>   <Url  type=\"text/html\"         method=\"GET\"         template=\"http://markmail.org/search/?q={searchTerms}\" />   <Image width=\"16\"          height=\"16\">http://markmail.org/favicon.ico</Image>   <Query role=\"example\" searchTerms=\"MarkMail\" />   <Developer>MarkMail</Developer>   <Attribution>Search results copyright 2010 Mark Logic, All Rights Reserved</Attribution>   <SyndicationRight>open</SyndicationRight>   <AdultContent>false</AdultContent>   <Language>en-us</Language>   <OutputEncoding>UTF-8</OutputEncoding>   <InputEncoding>UTF-8</InputEncoding>   <moz:SearchForm>http://markmail.org/</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en-us", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "69d777376437410e2ba31250654fa1bb", 
+    "source_url": "http://thunderbird.markmail.org/BrowserPlugins/markmail.xml"
+}

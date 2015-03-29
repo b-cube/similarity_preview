@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Updating the Dartmouth stellar evolution model grid: Pre-main-sequence models &amp; magnetic fields</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Chaboyer</surname>             <given-names>Brian</given-names>           </name>           <aff>             <institution>Dartmouth College</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Jones</surname>             <given-names>Jaquille</given-names>           </name>           <aff>             <institution>Dartmouth College</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Feiden</surname>             <given-names>Gregory</given-names>           </name>           <aff>             <institution>Uppsala University</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/10649\"/>       <self-uri xlink:href=\"http://www.coolstars18.net\"/>       <self-uri xlink:href=\"https://zenodo.org/record/10649/files/poster_CS18_model_grid.pdf\"/>       <self-uri xlink:href=\"https://zenodo.org/record/10649/files/poster_CS18_model_grid.png?subformat=icon-90\"/>     </article-meta>     <abstract>&lt;p&gt;Poster from The 18th Workshop on Cool Stars, Stellar Systems, and the Sun on updating the Dartmouth stellar evolution model grid. Additions include models of pre-main-sequence stars, magnetic fields, deuterium burning, and a revised treatment of surface boundary conditions.&lt;/p&gt;</abstract>   </front>   <article-type>user-cool-stars</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bcd4a77bfc2caf8942b1d51bc472cb33", 
+    "source_url": "http://zenodo.org/record/10649/export/xn"
+}

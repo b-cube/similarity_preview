@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?> <xs:schema     targetNamespace='http://www.w3.org/2005/08/ws-polling'     xmlns:wsp='http://www.w3.org/2005/08/ws-polling'     xmlns:wsa='http://schemas.xmlsoap.org/ws/2004/08/addressing'     xmlns:xs='http://www.w3.org/2001/XMLSchema'     elementFormDefault='qualified'     blockDefault='#all' >    <xs:import namespace=\"http://schemas.xmlsoap.org/ws/2004/08/addressing\"              schemaLocation=\"http://schemas.xmlsoap.org/ws/2004/08/addressing\"/>    <xs:element name='GetMessage'>     <xs:complexType>       <xs:sequence>         <xs:element ref='wsa:MessageID' minOccurs='0' />         <xs:element name='To' minOccurs='0'                     type=\"wsa:EndpointReferenceType\"/>  <xs:element name='extensions' minOccurs='0' />       </xs:sequence>       <xs:anyAttribute namespace='##any' processContents='lax'/>     </xs:complexType>   </xs:element>    <xs:element name='NoMessageAvailable' >     <xs:complexType>       <xs:attribute name='reason' type='xs:QName' />       <xs:anyAttribute namespace='##any' processContents='lax' />     </xs:complexType>   </xs:element>    <xs:complexType name=\"StatusRequested\">     <xs:sequence>       <xs:element ref='wsa:MessageID' minOccurs='0' />       <xs:element name='To' minOccurs='0'                   type=\"wsa:EndpointReferenceType\"/>       <xs:element name='extensions' minOccurs='0' />     </xs:sequence>     <xs:anyAttribute namespace='##any' processContents='lax'/>   </xs:complexType>    <xs:complexType name=\"Status\">     <xs:sequence>       <xs:element ref='wsa:MessageID' minOccurs='0' />       <xs:element name='To' minOccurs='0'                   type=\"wsa:EndpointReferenceType\"/>       <xs:element name='extensions' minOccurs='0' />     </xs:sequence>     <xs:attribute name='messagesPending' type='xs:boolean'                   use='required' />     <xs:anyAttribute namespace='##any' processContents='lax'/>   </xs:complexType>  </xs:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1b336dc44aa129f69402e3ef0ecad6d7", 
+    "source_url": "http://www.w3.org/2005/08/ws-polling/ws-polling.xsd"
+}

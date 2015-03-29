@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2013-07-03 10:48:02</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a22b06c-eeed-46dc-b41b-af44ca94c419\"    xml:base=\"http://gcmdstage.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdstage.gsfc.nasa.gov/static/kms/sciencekeywords\"/>    <skos:prefLabel xml:lang=\"en\">CRYOSPHERE MODELS</skos:prefLabel>    <skos:definition xml:lang=\"en\">Cryosphere Models are models that look at the Earth's cryosphere regions, specifically looking at frozen water, snow, permafrost, floating ice, and glaciers. The cryosphere component is directly related to ocean sea-level, therefore is indirectly related to changes in the atmosphere and biosphere.</skos:definition>    <skos:broader rdf:resource=\"e1f20631-b5b9-438c-b5c2-b1fa0fce100a\"/> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dbaecde579041fb90da9532e483a7bc0", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a22b06c-eeed-46dc-b41b-af44ca94c419.rdf.last"
+}

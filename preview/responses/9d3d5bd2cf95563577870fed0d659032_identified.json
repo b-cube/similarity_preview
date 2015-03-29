@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0160'>  <front> <title>RFC brief list</title> <author> <organization>SRI/Network Information Center</organization></author> <date year='1971' month='May' /></front>  <seriesInfo name='RFC' value='160' /> <format type='TXT' octets='12173' target='http://www.rfc-editor.org/rfc/rfc160.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9d3d5bd2cf95563577870fed0d659032", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0160.xml"
+}

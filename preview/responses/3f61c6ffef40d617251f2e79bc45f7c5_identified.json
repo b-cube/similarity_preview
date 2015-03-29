@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../2011.htm\"/>  <o:File HRef=\"stylesheet.css\"/>  <o:File HRef=\"tabstrip.htm\"/>  <o:File HRef=\"sheet001.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3f61c6ffef40d617251f2e79bc45f7c5", 
+    "source_url": "http://www.nws.noaa.gov/oh/hic/flood_stats/fatalities/2011_files/filelist.xml"
+}

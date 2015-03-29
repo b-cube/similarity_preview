@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Sato-Tate Problem for GL(3)</dc:title><dc:creator>Zhou, Fan</dc:creator><dc:date>2013</dc:date><dc:type>text</dc:type><dc:subject>Mathematics</dc:subject><dc:identifier>http://hdl.handle.net/10022/AC:P:20048</dc:identifier><dc:description>Based upon the work of Goldfeld and Kontorovich on the Kuznetsov trace formula of Maass forms for SL(3,Z), we prove a weighted vertical equidistribution theorem (with respect to the generalized Sato-Tate measure) for the p-th Hecke eigenvalue of Maass forms, with the rate of convergence. With a conjectured orthogonality relation between the Fourier coefficients of Maass forms for SL(N,Z) for N\\ufffd\\ufffd\\ufffd4, we generalize the above equidistribution theorem to N\\ufffd\\ufffd\\ufffd4.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "54991e5bcee7b7db770b0437545809eb", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A160461.xml"
+}

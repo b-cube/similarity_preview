@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <vocabulary id=\"initiative_id\"> <terms> <term> <id>BioCom:Funded</id> <description>Funded by the BIOCOM organization</description> </term> <term> <id>CD:Funded</id> <description>Funded by the NSF Continental Dynamics (CD) Program</description> </term> <term> <id>GeoPRISMS:Funded</id> <description>Funded by the NSF GeoPRISMS program</description> </term> <term> <id>GeoPRISMS:Related</id> <description>Work related to, but not funded by, the NSF GeoPRISMS program</description> </term> <term> <id>LExEn:Funded</id> <description>Funded by the NSF Life in Extreme Environments (LExEn) program</description> </term> <term> <id>LISS:Funded</id> <description>Funded by the Long Island Sound Study </description> </term> <term> <id>LISS:Related</id> <description>Related the Long Island Sound Study</description> </term> <term> <id>MARGINS:Funded</id> <description>Funded by the NSF MARGINS program</description> </term> <term> <id>MARGINS:Related</id> <description>Work related to, but not funded by, the NSF MARGINS program</description> </term> <term> <id>Ridge2000:Funded</id> <description>Funded by the NSF Ridge 2000 program</description> </term> <term> <id>Ridge2000:Related</id> <description>Work related to, but not funded by, the NSF Ridge 2000 program</description> </term> <term> <id>RIDGE:Funded</id> <description>Funded by the NSF RIDGE program</description> </term> <term> <id>RIDGE:Related</id> <description>Work related to, but not funded by, the NSF Ridge program</description> </term> <term> <id>SDMS:Funded</id> <description>Used for all entries that contain data held by the ASP:LDEO or ASP:UTIG</description> </term> <term> <id>SDMS:Related</id> <description>entries, data sets or other known to have seismic content, but the data are not online</description> </term> <term> <id>USAP:Funded</id> <description>Funded by the US Antarctic Program (USAP)</description> </term> <term> <id>USAP:Related</id> <description>Work related to, but not funded by, the US Antarctic program</description> </term> <term> <id>USCG:Funded</id> <description>Funded by the US Coast Guard</description> </term> </terms> </vocabulary> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "16d799d08cc6fa8bedf77afe4e3da93b", 
+    "source_url": "http://www.marine-geo.org/services/getVocabulary/?id=initiative_id&fmt=xml"
+}

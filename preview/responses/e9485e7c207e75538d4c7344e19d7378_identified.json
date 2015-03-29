@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"::GOES_History_08-19-2013.htm\"/>  <o:File HRef=\"stylesheet.css\"/>  <o:File HRef=\"tabstrip.htm\"/>  <o:File HRef=\"sheet001.htm\"/>  <o:File HRef=\"sheet002.htm\"/>  <o:File HRef=\"sheet003.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e9485e7c207e75538d4c7344e19d7378", 
+    "source_url": "http://goes.gsfc.nasa.gov/text/history/GOES_History_08-19-2013_files/filelist.xml"
+}

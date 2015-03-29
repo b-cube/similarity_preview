@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Kretschmer, Martin</a1>   <a2>Deazley, Ronan</a2>   <a2>Edwards, Lilian</a2>   <a2>Erickson, Kristofer</a2>   <a2>Schafer, Burkhard</a2>   <a2>Zizzo, Daniel John</a2>   <t1>The European Commission\\ufffd\\ufffd\\ufffds public consultation on the review of EU copyright rules:  a response by the CREATe Centre</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;The European Commission consulted between December 5, 2013 and March 5, 2014 on a wide-ranging review of EU copyright rules.[2] This response by the CREATe Centre attempts to make two contributions: (1) the process of policy formation matters for the evolution of the EU legal framework, and so we offer a short critique of the consultation format; (2) we summarise available evidence in seven thematic areas where CREATe has developed or is developing research (term of protection, libraries and archives, disabilities, text and data mining, user-generated content, fair remuneration for authors and performers, and respect for rights). CREATe understands evidence here as empirically grounded, but open to historical and comparative approaches.&lt;/p&gt;</ab>   <la/>   <k1/>   <pb/>   <pp/>   <yr>2014-10-12</yr>   <ed/>   <ul>https://zenodo.org/record/12219/files/CREATe-Working-Paper-2014-09.pdf;  https://zenodo.org/record/12219/files/CREATe-Working-Paper-2014-09.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "be3c817464145ba1cc3d4c498d129b29", 
+    "source_url": "https://zenodo.org/record/12219/export/xw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Georgia Tech Facilities</title> <link href=\"http://hdl.handle.net/1853/15540\" rel=\"alternate\"/> <subtitle>Georgia Tech Facilities is responsible for providing appropriate and well maintained facilities for those persons on the Georgia Tech campus.</subtitle> <id>http://hdl.handle.net/1853/15540</id> <updated>2015-03-12T19:35:45Z</updated> <dc:date>2015-03-12T19:35:45Z</dc:date> <entry> <title>Recycling Buzz, Volume 12, Issue 2</title> <link href=\"http://hdl.handle.net/1853/52783\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52783</id> <updated>2014-11-05T08:33:02Z</updated> <published>2014-11-01T00:00:00Z</published> <summary type=\"text\">Recycling Buzz, Volume 12, Issue 2 </summary> <dc:date>2014-11-01T00:00:00Z</dc:date> </entry> <entry> <title>Recycling Buzz, Volume 12, Issue 3</title> <link href=\"http://hdl.handle.net/1853/52782\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52782</id> <updated>2014-11-05T08:33:02Z</updated> <published>2013-12-01T00:00:00Z</published> <summary type=\"text\">Recycling Buzz, Volume 12, Issue 3 </summary> <dc:date>2013-12-01T00:00:00Z</dc:date> </entry> <entry> <title>Recycling Buzz, Volume 12, Issue 4</title> <link href=\"http://hdl.handle.net/1853/52781\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52781</id> <updated>2014-11-05T08:33:02Z</updated> <published>2014-01-01T00:00:00Z</published> <summary type=\"text\">Recycling Buzz, Volume 12, Issue 4 </summary> <dc:date>2014-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Recycling Buzz, Volume 12, Issue 5</title> <link href=\"http://hdl.handle.net/1853/52780\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52780</id> <updated>2014-11-05T08:33:02Z</updated> <published>2014-02-01T00:00:00Z</published> <summary type=\"text\">Recycling Buzz, Volume 12, Issue 5 </summary> <dc:date>2014-02-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1a0e5c4b3c3b0c542437b19b96df1d3e", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/15540"
+}

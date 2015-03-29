@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Hourcl\\ufffd\\ufffd, Joseph</author>         </authors>       </contributors>       <titles>         <title>DOIs Should Not Link to Data</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.10057</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>data-citation</keyword>         <keyword>digital-object-identifiers</keyword>       </keywords>       <dates>         <year>2013</year>         <pub-dates>           <date>2013-12-11</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;In August of 2011, the National Academy of Science&amp;rsquo;s Board of Research Data and Information (BRDI) had a meeting on the topic of &amp;ldquo;&lt;strong&gt;&lt;em&gt;Developing Data Attribution and &lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;Citation Practices and Standards&lt;/em&gt;&lt;/strong&gt;&amp;rdquo;. As part of that meeting were various breakout groups to discuss issues that still remained regarding technical, scientific, and socio-cultural issues, the roles and actors that needed to be involved, and how to get additional feedback from the community.&lt;/p&gt;          &lt;p&gt;The technical breakout group decided that the majority of the technical problems with citing data revolved around establishing the identity of what it was that we were attempting to cite. As such, our recommendations were to push some of the work back onto the data publishers to tell us how scientists should cite their data (to avoid different disciplines applying different rules), establish &amp;lsquo;&lt;strong&gt;&lt;em&gt;data landing pages&lt;/em&gt;&lt;/strong&gt;&amp;rsquo; to describe, document and link to the data, and to provide those pages with persistent identifiers such as a DOI.&lt;/p&gt;          &lt;p&gt;We present here some of the reasons that were discussed about why not to link directly to data, including:&lt;/p&gt;          &lt;p&gt;recalibration, reaccessioning and other data impermanence, setting context and providing links to documentation, and&lt;/p&gt;          &lt;p&gt;allowing selection of different packaging formats&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "98595514b2641db79ce44b11998ba845", 
+    "source_url": "https://zenodo.org/record/10057/export/xe"
+}

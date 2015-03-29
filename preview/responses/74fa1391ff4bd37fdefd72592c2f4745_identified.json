@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-css3-color-20030514'            target='http://www.w3.org/TR/2003/CR-css3-color-20030514'> <front> <title>CSS3 Color Module</title>  <author initials='T.' surname='\\ufffd\\ufffdelik' fullname='Tantek \\ufffd\\ufffdelik'>     <organization /> </author>  <author initials='C.' surname='Lilley' fullname='Chris Lilley'>     <organization /> </author>  <date month='May' day='14' year='2003' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-css3-color-20030514' /> <format type='HTML' target='http://www.w3.org/TR/2003/CR-css3-color-20030514' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "74fa1391ff4bd37fdefd72592c2f4745", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-w3c/reference.W3C.CR-css3-color-20030514.xml"
+}

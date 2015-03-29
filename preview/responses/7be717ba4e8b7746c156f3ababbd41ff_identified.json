@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"> <ShortName>International Association of Geophysical Contractors</ShortName> <Description>International Association of Geophysical Contractors</Description> <InputEncoding>UTF-8</InputEncoding> <Image  width=\"16\" height=\"16\" type=\"image/png\">http://www.iagc.org/static/images/icons/tendenci-favicon.png</Image > <Url type=\"text/html\" method=\"GET\" template=\"http://www.iagc.org/search/?q={searchTerms}\"></Url> <moz:SearchForm>http://www.iagc.org/search/?q={searchTerms}</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7be717ba4e8b7746c156f3ababbd41ff", 
+    "source_url": "http://www.iagc.org/search/open-search/"
+}

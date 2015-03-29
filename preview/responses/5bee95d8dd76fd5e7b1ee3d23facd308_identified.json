@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Center2011b </Local-number>  <Author>Pacific Islands Fisheries Science Center </Author>  <Title>PIFSC Cruise Report CR-10-010 (Cruise HA-10-01, Leg III) </Title>  <Institution>Pacific Islands Fisheries Science Center </Institution>  <Publication-Place>Honolulu, HI </Publication-Place>  <Publication-Date><caldate>2011 </caldate></Publication-Date>  <Extent>69 </Extent>  <Type-Period-Note>Vessel: NOAA Ship Hi'ialakai, Cruise HA-10-01, Leg 3, Cruise Period: 27 March-24 April 2010, Area of Operation: Jarvis Island, Palmyra Atoll, and Kingman Reef of the Pacific Remote Islands Marine National Monument </Type-Period-Note>  <Notes>FY2010 CRCP Project ID 1221; Project Title: Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls; Principal Investigator: Rusty Brainard. FY2010 CRCP Project ID 20579; Project Title: Ocean Acidification: Spatial and Temporal Patterns of Carbonate Chemistry in the Pacific Islands; Principal Investigator: Rusty Brainard </Notes>  <Abstract>\"Personnel from the Coral Reef Ecosystem Division (CRED) of the Pacific Islands Fisheries Science Center, the U.S. Fish and Wildlife Service (USFWS), and their partner agencies conducted interdisciplinary Pacific Reef and Assessment Program (Pacific RAMP) surveys in waters surrounding Jarvis Island, Palmyra Atoll, and Kingman Reef. All activities described in this report were covered by Pacific Reefs National Wildlife Refuge Complex special-use permit number 12521-10001 (effective date: January 15, 2010; expiration date: May 30, 2010).\" </Abstract>  <Date-Time-Last-Modified>20110218000000 </Date-Time-Last-Modified>  <URL>http://www.pifsc.noaa.gov/library/pubs/cruise/Hiialakai/CRHA1001III-KD.pdf </URL>  <project>  <ID>1221 </ID>  <title>Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls </title>  <PI>Rusty Brainard </PI>  </project>  <project>  <ID>20579 </ID>  <title>Ocean Acidification: Spatial and Temporal Patterns of Carbonate Chemistry in the Pacific Islands </title>  <PI>Rusty Brainard </PI>  </project>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5bee95d8dd76fd5e7b1ee3d23facd308", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BDB989B6B-6815-4A54-8EBD-90524FDA5C1D%7D"
+}

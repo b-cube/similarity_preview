@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?> <concepts xsi:noNamespaceSchemaLocation=\"http://gcmd.gsfc.nasa.gov/Aboutus/xml/kms/kms.xsd\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">     <termsOfUse>See http://gcmd.nasa.gov/r/l/TermsOfUse</termsOfUse>     <keywordVersion>8.0</keywordVersion>     <schemeVersion>2012-10-19 14:09:54</schemeVersion>     <conceptBrief id=\"81869\" uuid=\"0893353d-4e8c-4b31-bcc5-fce552ccfff3\" prefLabel=\"Point Resolution\" prefLabelSortText=\"00 Point Resolution\" conceptSchemeId=\"115\" conceptScheme=\"verticalresolutionrange\" isLeaf=\"true\" status=\"\"/>     <conceptBrief id=\"81859\" uuid=\"201337ea-fa14-4e58-a538-e92c5ff734a4\" prefLabel=\"1 meter - &lt; 10 meters\" prefLabelSortText=\"02 1 meter - &lt; 10 meters\" conceptSchemeId=\"115\" conceptScheme=\"verticalresolutionrange\" isLeaf=\"true\" status=\"\"/>     <conceptBrief id=\"81857\" uuid=\"20505a5b-4df8-4430-83a3-ad7b212c9bfc\" prefLabel=\"10 meters - &lt; 30 meters\" prefLabelSortText=\"03 10 meters - &lt; 30 meters\" conceptSchemeId=\"115\" conceptScheme=\"verticalresolutionrange\" isLeaf=\"true\" status=\"\"/>     <conceptBrief id=\"81867\" uuid=\"3f0aa4fc-802c-4804-9f9f-8b666f3a2776\" prefLabel=\"&gt; 1 km\" prefLabelSortText=\"06 &gt; 1 km\" conceptSchemeId=\"115\" conceptScheme=\"verticalresolutionrange\" isLeaf=\"true\" status=\"\"/>     <conceptBrief id=\"81855\" uuid=\"9728ca44-7bb3-40a4-9dd2-49470ad47fa5\" prefLabel=\"Vertical Resolution Ranges\" conceptSchemeId=\"115\" conceptScheme=\"verticalresolutionrange\" isLeaf=\"false\" status=\"\"/>     <conceptBrief id=\"81863\" uuid=\"a66aa809-5320-408d-9cbe-86ed7940b8ec\" prefLabel=\"30 meters - &lt; 100 meters\" prefLabelSortText=\"04 30 meters - &lt; 100 meters\" conceptSchemeId=\"115\" conceptScheme=\"verticalresolutionrange\" isLeaf=\"true\" status=\"\"/>     <conceptBrief id=\"81865\" uuid=\"cf1f085e-4948-4874-9640-e236fff7bc8d\" prefLabel=\"&lt; 1 meter\" prefLabelSortText=\"01 &lt; 1 meter\" conceptSchemeId=\"115\" conceptScheme=\"verticalresolutionrange\" isLeaf=\"true\" status=\"\"/>     <conceptBrief id=\"81861\" uuid=\"eccf8700-c503-46a3-b6f7-86cf7e48465a\" prefLabel=\"100 meters - &lt; 1 km\" prefLabelSortText=\"05 100 meters - &lt; 1 km\" conceptSchemeId=\"115\" conceptScheme=\"verticalresolutionrange\" isLeaf=\"true\" status=\"\"/> </concepts> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "33feefbc91471d1c50930e8fa5c0b9bb", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/verticalresolutionrange/verticalresolutionrange.xml"
+}

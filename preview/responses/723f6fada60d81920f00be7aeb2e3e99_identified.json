@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">SEPA 110214, Scottish Sea Farms Ltd, Eday Sound Fin Fish Farm, visual sea bed monitoring</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:1b6e517b7dd9c6a3929a83ab1672c0e3</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Visual monitoring of the sea bed adjacent to the fish farm.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2011-07-12</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "723f6fada60d81920f00be7aeb2e3e99", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__1b6e517b7dd9c6a3929a83ab1672c0e3.xml/DC"
+}

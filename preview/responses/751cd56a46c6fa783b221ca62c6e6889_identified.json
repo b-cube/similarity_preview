@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!--    A JNLP File for the Jadeite Application Version 1.1.  @version 1.1  @date 2009/7/14  @author Arnaud Dumont  -->   <jnlp   spec=\"1.0+\"   codebase=\"http://www.ral.ucar.edu/rap_demos/jadeite/version1.1\"  href=\"jadeite1.1.jnlp\">    <information>      <title>Jadeite Application 1.1</title>      <vendor>NCAR - RAP</vendor>      <homepage href=\"http://www.ral.ucar.edu/rap_demos/jadeite\"/>      <description kind=\"tooltip\">Jadeite Application 1.1</description>      <description kind=\"one-line\">Jadeite Application 1.1</description>     <description kind=\"short\">The new Jadeite application, based on the JADE framework</description>      <icon href=\"jadeButton.gif\"/>   </information>    <security>       <all-permissions/>   </security>            <resources>      <j2se version=\"1.5+\" initial-heap-size=\"50331648\" max-heap-size=\"509600000\"/>     <jar href=\"lib/jadeite.jar\" download=\"eager\"/>     <jar href=\"lib/glf.jar\" download=\"eager\"/>       <jar href=\"lib/images.jar\" download=\"eager\"/>       <jar href=\"lib/jai_codec.jar\" download=\"eager\"/>       <jar href=\"lib/jaxen-full.jar\" download=\"eager\"/>       <jar href=\"lib/jdom.jar\" download=\"eager\"/>      <jar href=\"lib/JTS-1.3.jar\" download=\"eager\"/>     <jar href=\"lib/resources-2.0-B1.jar\" download=\"eager\"/>     <jar href=\"lib/resources.jar\" download=\"eager\"/>     <jar href=\"lib/saxpath.jar\" download=\"eager\"/>     <jar href=\"lib/shapefile-2.0-B1.jar\" download=\"eager\"/>     <jar href=\"lib/xmlConfig.jar\" download=\"eager\"/>    </resources>     <application-desc main-class=\"edu.ucar.rap.jadeite.apps.jadeite.JadeiteApp\">      <argument>http://www.rap.ucar.edu/projects/winter/COSPA/CoSPA.xml</argument>   </application-desc> </jnlp>      ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "751cd56a46c6fa783b221ca62c6e6889", 
+    "source_url": "http://www.rap.ucar.edu/projects/winter/COSPA/jadeite1.1a.jnlp"
+}

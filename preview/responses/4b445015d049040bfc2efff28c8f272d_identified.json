@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Lightstalkers Search</ShortName>   <Description>Search profiles, discussion, images, and more.</Description>   <Contact>support@lightstalkers.org</Contact>   <Url type=\"text/html\"         method=\"get\"        template=\"http://www.lightstalkers.org/search?terms={searchTerms}\">   </Url>   <LongName>Lightstalkers Search</LongName>    <Query role=\"example\" searchTerms=\"Afghanistan\" />   <Developer>Shinji Kuwayama</Developer>   <Attribution>     Search data (c) November Eleven and respective authors.   </Attribution>    <SyndicationRight>open</SyndicationRight>   <AdultContent>false</AdultContent>   <Language>en-us</Language>   <OutputEncoding>UTF-8</OutputEncoding>   <InputEncoding>UTF-8</InputEncoding> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en-us", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4b445015d049040bfc2efff28c8f272d", 
+    "source_url": "http://www.lightstalkers.org/opensearch.xml"
+}

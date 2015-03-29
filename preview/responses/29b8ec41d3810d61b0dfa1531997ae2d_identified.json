@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/Terra_MODIS_Level3\" ID=\"/opendap/hyrax/Terra_MODIS_Level3/\">             <thredds:catalogRef name=\"MOD08_D3.005\" xlink:href=\"MOD08_D3.005/catalog.xml\"                           xlink:title=\"MOD08_D3.005\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Terra_MODIS_Level3/MOD08_D3.005/\"/>             <thredds:catalogRef name=\"MOD08_D3.051\" xlink:href=\"MOD08_D3.051/catalog.xml\"                           xlink:title=\"MOD08_D3.051\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Terra_MODIS_Level3/MOD08_D3.051/\"/>             <thredds:catalogRef name=\"MOD08_M3.005\" xlink:href=\"MOD08_M3.005/catalog.xml\"                           xlink:title=\"MOD08_M3.005\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Terra_MODIS_Level3/MOD08_M3.005/\"/>             <thredds:catalogRef name=\"MOD08_M3.051\" xlink:href=\"MOD08_M3.051/catalog.xml\"                           xlink:title=\"MOD08_M3.051\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Terra_MODIS_Level3/MOD08_M3.051/\"/>             <thredds:catalogRef name=\"MOD08_M3_CLIM.005\" xlink:href=\"MOD08_M3_CLIM.005/catalog.xml\"                           xlink:title=\"MOD08_M3_CLIM.005\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Terra_MODIS_Level3/MOD08_M3_CLIM.005/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "29b8ec41d3810d61b0dfa1531997ae2d", 
+    "source_url": "http://acdisc.sci.gsfc.nasa.gov/opendap/hyrax/Terra_MODIS_Level3/catalog.xml"
+}

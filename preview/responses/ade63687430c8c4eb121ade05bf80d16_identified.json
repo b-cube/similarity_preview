@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123053</identifier><identifier type=\"pwpk\">70038066</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3053</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A climate trend analysis of Ethiopia</title></titleInfo><originInfo><dateOther>Mon, 16 Apr 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Funk, Chris; Rowland, Jim; Eilerts, Gary; Kebebe, Emebet; Biru, Nigist; White, Libby; Galu, Gideon</namePart><role>Author</role></name><abstract>This brief report, drawing from a multi-year effort by the U.S. Agency for International Development (USAID) Famine Early Warning Systems Network (FEWS NET), examines recent trends in March-June, June-September, and March-September rainfall and temperature, identifying significant reductions in rainfall and increases in temperature over time in many areas of Ethiopia. Conclusions: * Spring and summer rains in parts of Ethiopia have declined by 15-20 percent since the mid-1970s. * Substantial warming across the entire country has exacerbated the dryness.* An important pattern of observed existing rainfall declines coincides with heavily populated areas of the Rift Valley in south-central Ethiopia, and is likely already adversely affecting crop yields and pasture conditions. * Rapid population growth and the expansion of farming and pastoralism under a drier, warmer climate regime could dramatically increase the number of at-risk people in Ethiopia during the next 20 years.* Many areas of Ethiopia will maintain moist climate conditions, and agricultural development in these areas could help offset rainfall declines and reduced production in other areas.</abstract><physicalDescription><form>6 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3053.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3053/</url></location><note type=\"citation/reference\">A climate trend analysis of Ethiopia; 2012; FS; 2012-3053; Fact Sheet; Funk, Chris; Rowland, Jim; Eilerts, Gary; Kebebe, Emebet; Biru, Nigist; White, Libby; Galu, Gideon</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ade63687430c8c4eb121ade05bf80d16", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123053"
+}

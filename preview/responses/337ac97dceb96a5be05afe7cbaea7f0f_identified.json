@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <APML>   <Head>     <Title>APML data for Baha'is of New York City - Celebrating the 100th anniversary of the visit of `Abdu'l-Bah\\ufffd\\ufffd to New York City</Title>     <Generator>BlogEngine.NET 2.5.0.6</Generator>     <UserEmail />     <DateCreated>3/11/2015 5:08:30 PM</DateCreated>   </Head>   <Body defaultProfile=\"tags\">     <Profile name=\"tags\">       <ImplicitData>         <Concepts>           <Concept key=\"centenary\" value=\"1\" from=\"http://www.bahainyc.org/\" updated=\"5/17/2013 3:17:33 PM\" />           <Concept key=\"jazz\" value=\"1\" from=\"http://www.bahainyc.org/\" updated=\"5/25/2012 12:29:50 PM\" />           <Concept key=\"jazz night\" value=\"1\" from=\"http://www.bahainyc.org/\" updated=\"5/25/2012 12:29:50 PM\" />           <Concept key=\"'Abdu'l-Baha\" value=\"1\" from=\"http://www.bahainyc.org/\" updated=\"5/17/2013 3:17:33 PM\" />           <Concept key=\"New York City\" value=\"1\" from=\"http://www.bahainyc.org/\" updated=\"5/17/2013 3:17:33 PM\" />           <Concept key=\"Baha'i Faith\" value=\"1\" from=\"http://www.bahainyc.org/\" updated=\"5/17/2013 3:17:33 PM\" />         </Concepts>       </ImplicitData>     </Profile>     <Profile name=\"links\">       <ExplicitData>         <Concepts>           <Source key=\"http://news.bahai.org/rss.xml\" name=\"International\" value=\"1.0\" type=\"text/html\" from=\"http://www.bahainyc.org/\" updated=\"3/11/2015 5:08:30 PM\">             <Author key=\"International\" value=\"1.0\" from=\"http://www.bahainyc.org/\" updated=\"3/11/2015 5:08:30 PM\" />           </Source>         </Concepts>       </ExplicitData>     </Profile>   </Body> </APML>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "337ac97dceb96a5be05afe7cbaea7f0f", 
+    "source_url": "http://www.bahainyc.org/apml.axd"
+}

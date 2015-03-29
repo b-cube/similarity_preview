@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <status>Successful connection, 7 record(s) found.</status>   <species>   <genus>Pterocryptis</genus>   <speciesfb>berdmorei</speciesfb>   <speccode>24743</speccode>    </species>   <comnames>    <comname>&#20271;&#27663;&#39920;</comname>      <country>China</country>     <language>Mandarin Chinese</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#20271;&#27663;&#40118;</comname>      <country>China</country>     <language>Mandarin Chinese</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#2330;&#2367;&#2306;&#2327;&#32;&#2344;&#2327;&#2366;&#2340;&#2375;&#2306;</comname>      <country>India</country>     <language>Hindi</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#35997;&#27663;&#38577;&#39981;&#39920;</comname>      <country>China</country>     <language>Mandarin Chinese</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#36125;&#27663;&#38544;&#40141;&#40118;</comname>      <country>China</country>     <language>Mandarin Chinese</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#66;&#117;&#114;&#109;&#101;&#115;&#101;&#32;&#115;&#105;&#108;&#117;&#114;&#117;&#115;</comname>      <country>India</country>     <language>English</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#67;&#104;&#105;&#110;&#103;&#32;&#110;&#103;&#97;&#116;&#101;&#110;</comname>      <country>India</country>     <language>Hindi</language>     <type>Vernacular</type>    </comnames>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7e84df43eecc1d4ac03c1ad9cf277d23", 
+    "source_url": "http://www.fishbase.org/webservice/ComNames/comnamesxml.php?Genus=Pterocryptis&Species=berdmorei"
+}

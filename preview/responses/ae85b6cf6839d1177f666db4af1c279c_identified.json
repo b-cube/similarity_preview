@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for SKTEditor Application -->  <jnlp       spec=\"1.0\"       codebase=\"http://sscweb.gsfc.nasa.gov/skteditor\"      href=\"skteditor.jnlp\">       <information>         <title>ISTP CDF Skeleton Editor</title>         <vendor>NASA/Goddard Space Flight Center</vendor>         <homepage href=\"index.html\"/>         <description>ISTP CDF Skeleton Editor</description>         <description kind=\"short\">SKTEditor</description>         <icon href=\"nasaball.gif\"/>         <offline-allowed/>         <shortcut online=\"false\">            <desktop />            <menu submenu=\"NASA-GSFC-SPDF\" />        </shortcut>      </information>       <security>           <all-permissions/>       </security>       <resources>         <jar href=\"spdfjavaClasses.jar\" main=\"true\" />         <jar href=\"skteditor-help.jar\" />         <extension name=\"cdf\" href=\"cdf/cdf-latest.jnlp\" />        <extension name=\"CdfValidation\" href=\"CdfValidation/CdfValidation.jnlp\" />        <extension name=\"JavaHelp\" href=\"JavaHelp/JavaHelp.jnlp\" />        <property name=\"cdf.checksum\"                  value=\"MD5\" />        <!-- for JRE > 1.6.0_10        <property name=\"jnlp.packEnabled\"                  value=\"true\" />        <property name=\"swing.defaultlaf\"                  value=\"com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel\" />        end JRE > 1.6.0_10 -->        <j2se version=\"1.6+\" /> <!-- Causes the menu to not appear at all with Java 1.5.0_19 and 1.6.0_13      (Apple bug #6975997) until the user selects a different Java window      and then returns to this application's window -->        <property name=\"apple.laf.useScreenMenuBar\"                  value=\"true\" />         <property name=\"apple.awt.showGrowBox\"                  value=\"true\" />        <property name=\"apple.awt.brushMetalLook\"                 value=\"true\" />        <property name=\"apple.awt.antialiasing\"                  value=\"true\" />        <property name=\"com.apple.mrj.application.apple.menu.about.name\"                 value=\"SKTEditor\" />        <property name=\"com.apple.mrj.application.growbox.inturdes\"                  value=\"true\" />      </resources>      <application-desc main-class=\"gsfc.spdf.edit.guis.SKTEditor\"/>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ae85b6cf6839d1177f666db4af1c279c", 
+    "source_url": "http://sscweb.gsfc.nasa.gov/skteditor/skteditor.jnlp"
+}

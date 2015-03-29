@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:dcterms=\"http://purl.org/dc/terms/\"   xmlns:documentcontainer=\"http://eidchub.ceh.ac.uk/portal_types/documentContainer#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" >   <documentcontainer:documentContainer rdf:about=\"http://eidchub.ceh.ac.uk/metadata/ed05bf51-c3be-46f9-a1af-2e0789273bd5\">     <dcterms:isPartOf rdf:resource=\"http://eidchub.ceh.ac.uk/metadata\"/>     <dcterms:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-08-14T10:33:30Z</dcterms:issued>     <documentcontainer:id xml:lang=\"en\">ed05bf51-c3be-46f9-a1af-2e0789273bd5</documentcontainer:id>     <dcterms:description xml:lang=\"en\">This series of datasets consists of monthly mean inshore surface water temperature (degrees C) data from Windermere,  total weekly catch data of mature Perch (Perca fluviatilis) from trapping at Green Tuft, Windermere and weekly mean sizes of Perch from trapping at Green Tuft, Windermere.  The data presented were sampled between 1946 and 2012 from Windermere, a lake in northern England. The data were collected by the Freshwater Biological Association (FBA) and then by the Centre for Ecology and Hydrology and its predecessor Institute of Freshwater Ecology (IFE).  The files available in this series were used in Ohlberger et al. (2014) Proceedings of the Royal Society B (When phenology matters: Age-size truncation alters population response to trophic mismatch). </dcterms:description>     <dcterms:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-08-14T12:46:48Z</dcterms:modified>     <dcterms:creator>clamw</dcterms:creator>     <dcterms:subject>freshwater</dcterms:subject>     <dcterms:subject>lake</dcterms:subject>     <dcterms:subject>Environmental monitoring facilities</dcterms:subject>     <dcterms:subject>monthly</dcterms:subject>     <dcterms:subject>fish</dcterms:subject>     <dcterms:subject>Lake District</dcterms:subject>     <dcterms:subject>perch</dcterms:subject>     <dcterms:subject>Windermere</dcterms:subject>     <dcterms:subject>water temperature</dcterms:subject>     <documentcontainer:catalogLink>http://data.ceh.ac.uk/metadata/ed05bf51-c3be-46f9-a1af-2e0789273bd5</documentcontainer:catalogLink>     <dcterms:title xml:lang=\"en\">Windermere perch data 1946-2012</dcterms:title>     <dcterms:created rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-08-08T12:52:45Z</dcterms:created>     <documentcontainer:fileIdentifier xml:lang=\"en\">ed05bf51-c3be-46f9-a1af-2e0789273bd5</documentcontainer:fileIdentifier>   </documentcontainer:documentContainer> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "57367a5803a1cbc2c16d270c7e319660", 
+    "source_url": "http://eidchub.ceh.ac.uk/metadata/ed05bf51-c3be-46f9-a1af-2e0789273bd5/@@rdf"
+}

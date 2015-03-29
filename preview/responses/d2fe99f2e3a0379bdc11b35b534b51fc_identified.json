@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>El caso de Interoperabilidad para Repositorios de Acceso Abierto</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Clobridge</surname>             <given-names>Abby</given-names>           </name>           <aff>             <institution>Clobrigde Consulting</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Rodrigues</surname>             <given-names>Eloy</given-names>           </name>           <aff>             <institution>Universidade do Minho, Portugal</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2011</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/12563\"/>       <self-uri xlink:href=\"https://zenodo.org/record/12563/files/de_la_investigacion_a_traves_de_redes_globales_de_Repositorios_de_Acceso_Abierto_final_version.pdf\"/>       <self-uri xlink:href=\"https://zenodo.org/record/12563/files/de_la_investigacion_a_traves_de_redes_globales_de_Repositorios_de_Acceso_Abierto_final_version.png?subformat=icon-90\"/>     </article-meta>     <abstract>&lt;p&gt;Los Repositorios de Acceso Abierto, cuyo nombre ha ido en aumento, son un componente importante de la infraestructura de e-investigaci&amp;oacute;n. El valor real de los repositorios recae en el potencial de interconexi&amp;oacute;n para crear una red de repositorios, una red que puede proveer un acceso unificado a los resultados de la investigaci&amp;oacute;n y son (re-) utilizados por las m&amp;aacute;quinas y los investigadores.&lt;br /&gt; Sin embargo, para lograr este potencial, necesitamos interoperabilidad. El prop&amp;oacute;sito de este documento es proporcionar un visi&amp;oacute;n general de alto nivel de interoperabilidad de los Repositorios de Acceso Abierto, identificar los principales problemas y retos que deben abordarse, estimular la participaci&amp;oacute;n de la comunidad repositorio y poner en marcha un proceso que dirija a la creaci&amp;oacute;n de una hoja de ruta para la interoperabilidad del repositorio.&lt;/p&gt;</abstract>   </front>   <article-type>user-coar</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d2fe99f2e3a0379bdc11b35b534b51fc", 
+    "source_url": "https://zenodo.org/record/12563/export/xn"
+}

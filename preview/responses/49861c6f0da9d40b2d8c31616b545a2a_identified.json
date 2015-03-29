@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Search JSON-RPC</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Image width=\"16\" height=\"16\">http://json-rpc.org/chrome/common/no%20icon%20yet</Image>   <Url type=\"text/html\" template=\"http://json-rpc.org/search?q={searchTerms}&amp;page={startPage}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "49861c6f0da9d40b2d8c31616b545a2a", 
+    "source_url": "http://json-rpc.org/search/opensearch"
+}

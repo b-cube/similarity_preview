@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Becker, Hans-Georg</author>         </authors>       </contributors>       <titles>         <title>Datens\\ufffd\\ufffdtze aus der British National Bibliography</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.10250</doi>       <pages/>       <volume/>       <number>doi</number>       <keywords>         <keyword>Bibliographie</keyword>         <keyword>ArcheoInf</keyword>         <keyword>Testdaten</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-06-01</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Dieses Paket enth&amp;auml;lt weiterverarbeitete Daten aus der British National Bibliography in den Formaten MODS, RDF/XML und im Apache-Solr-Add-Format. Die Quelldaten aus der&amp;nbsp;British National Bibliography sind als Open Data verf&amp;uuml;gbar.&lt;/p&gt;          &lt;p&gt;Die Daten wurden zum Test des im Projekt aufgebauten Systems erzeugt und haben den Stand vom Februar 2012.&lt;/p&gt;          &lt;p&gt;Die Daten wurden mit den im Projekt ArcheoInf entwickelten Werkzeugen bearbeitet. Die Werkzeuge sind auf GitHub unter https://github.com/ArcheoInf/bibdata abgelegt.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6f37989f26282b2a9be90501196d4181", 
+    "source_url": "https://zenodo.org/record/10250/export/xe"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.29.010'> <front> <title>Information element mapping between Mobile Station - Base Station System (MS - BSS) and Base Station System - Mobile-services Switching Centre (BSS - MSC); Signalling Procedures and the Mobile Application Part (MAP)</title> <author><organization>3GPP</organization></author> <date day='23' month='March' year='2004' /> </front>  <seriesInfo name='3GPP TS' value='29.010 3.12.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/29010.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7c3b3a610124f1dcc57ea47883089d18", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.29.010.xml"
+}

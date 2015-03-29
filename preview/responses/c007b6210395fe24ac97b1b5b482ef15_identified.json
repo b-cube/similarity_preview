@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.ietf-isis-hmac'> <front> <title>IS-IS Cryptographic Authentication</title>  <author initials='T' surname='Li' fullname='Tony Li'>     <organization /> </author>  <author initials='R' surname='Atkinson' fullname='Richard Atkinson'>     <organization /> </author>  <date month='July' day='5' year='2001' /> </front>  <seriesInfo name='Internet-Draft' value='draft-ietf-isis-hmac-03' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-ietf-isis-hmac-03.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c007b6210395fe24ac97b1b5b482ef15", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-isis-hmac.xml"
+}

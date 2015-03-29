@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0300'>  <front> <title>ARPA Network mailing lists</title> <author initials='J.B.' surname='North' fullname='J.B. North'> <organization /></author> <date year='1972' month='January' /></front>  <seriesInfo name='RFC' value='300' /> <format type='TXT' octets='16357' target='http://www.rfc-editor.org/rfc/rfc300.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "58b53628aa6dc1759379efd8e3755c3c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0300.xml"
+}

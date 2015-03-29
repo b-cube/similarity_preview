@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Zakaria Belhachmi</author>           <author>Christophe Prudhomme</author>           <author>Murielle Torregrossa</author>           <author>Christophe Prudhomme</author>           <author>Zakaria Belhachmi</author>           <author>Murielle Torregrossa</author>           <author>Guillaume Doll\\ufffd\\ufffd</author>         </authors>       </contributors>       <titles>         <title>Diffuse optical tomography for tumour detection</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.11641</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>Tomography</keyword>         <keyword>Optic</keyword>         <keyword>Image</keyword>         <keyword>Reconstruction</keyword>         <keyword>Time-Resolved</keyword>         <keyword>Feel++</keyword>         <keyword>feelpp</keyword>         <keyword>FEM</keyword>         <keyword>DOT</keyword>         <keyword>TR-DOT</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-06-18</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;&lt;em&gt;Time-resolved diffuse optical tomography&lt;/em&gt; aims to reconstruct images for internal parts of a body (diffusive objects owning one or several inclusions, small animals, ...) from its boundary measures.&lt;br /&gt;     This poster gives an overview of the experimental setup created by the ICube/IMIS team and the mathematical model used for the reconstruction. Numerical results are obtained using FEEL++, a C++ library for finite element methods.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8bf37b5ec4a61d6e480e0b414c68aa6e", 
+    "source_url": "https://zenodo.org/record/11641/export/xe"
+}

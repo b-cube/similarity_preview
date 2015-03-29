@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <?oxygen RNGSchema=\"http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rnc\" type=\"compact\"?> <TEI xmlns=\"http://www.tei-c.org/ns/1.0\" rend=\"home\">   <teiHeader>   <fileDesc>     <titleStmt>       <title>TEI Tools SIG </title>       <author>Matthew Zimmerman</author>     </titleStmt>     <editionStmt>       <edition>         <date when=\"2004-02-12\">12th February 2004</date>       </edition>     </editionStmt>     <publicationStmt>       <authority></authority>     </publicationStmt>     <sourceDesc>       <p></p>     </sourceDesc>   </fileDesc>   <revisionDesc>     <change when=\"2010-08-01\" who=\"DRS\">New text from Serge Heiden</change>     <change when=\"2009-10-12\" who=\"CJR\">updated link to new mailing list</change>     <change when=\"2008-02-07\" who=\"kevin\">redid lost change from 2007-09-20: corrected list email address and link to list archive</change>     <change when=\"2007-12-09\" who=\"kevin\">added new p about meeting in college park</change>     <change when=\"2007-04-22\" who=\"CJR\">Converted to P5</change>     <change when=\"2007-03-14\" who=\"kevin\">added link to list archives</change>     <change when=\"2006-11-21\" who=\"kevin\">added new p about meeting in victoria, added back former name of SIG</change>     <change when=\"2006-11-17\" who=\"chris\">changed name of SIG where mentioned, from \"Presentation\" to \"Tools\"</change>     <change when=\"2004-02-13\" who=\"matt\">added new div about discussion in nancy</change>     <change when=\"2004-02-12\" who=\"lou\">fixed 2 typos, added 2 missing tags</change>   </revisionDesc>    </teiHeader>   <text>     <body>       <p>The goal of the TEI Special Interest Group on Tools (formerly \"Presentation\") is to bring together members who wish to share information about XML-TEI compatible tools. This covers:             <list>                <item>editing tools to encode texts and corpora</item> <item>conversion and preprocessing tools</item> <item>transformation and presentation languages such as XSLT</item> <item>querying tools such as native XML databases</item> <item>publishing and delivery tools</item> <item>analysis tools like Xaira, Philologic, etc.</item> </list>          </p> <p>The main channel of information for the SIG is the <ref target=\"http://wiki.tei-c.org/index.php/SIG:Tools\">TEI WIKI</ref>.</p>              <p>The SIG runs a mailing list on this topic. Click <ref target=\"http://listserv.brown.edu/?SUBED1=tei-tools-sig&amp;A=1\">here</ref> to join.</p>             <p>For further information about the Tools SIG, please contact <ref target=\"mailto:slh@ens-lyon.fr\">Serge Heiden</ref>.</p>            </body></text></TEI> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "537c1f7309060af45cedb6f7133a7b19", 
+    "source_url": "http://www.tei-c.org/Activities/SIG/Tools/index.xml?style=raw"
+}

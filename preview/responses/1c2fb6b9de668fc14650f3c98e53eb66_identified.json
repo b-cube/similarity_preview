@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns:atom=\"http://www.w3.org/2005/Atom\"   xmlns=\"http://purl.org/rss/1.0/\" >  <channel rdf:about=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CITYWARDACTION&amp;v=1.0\">  <dc:identifier>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CITYWARDACTION&amp;v=1.0</dc:identifier>  <title>CITYWARDACTION List</title>  <link>https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CITYWARDACTION</link>  <description>CITYWARDACTION List Archives</description>  <dc:date>2014-10-13T14:07:56Z</dc:date>  <image rdf:resource=\"http://www.lsoft.com/images/listserv_small.gif\"/>    <items>   <rdf:Seq>     <rdf:li resource=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CITYWARDACTION;74fad710.1410\"/>     </rdf:Seq>  </items>   </channel>  <image rdf:about=\"http://www.lsoft.com/images/listserv_small.gif\">     <title>Powered by L-Soft's LISTSERV mailing list manager</title>     <link>http://www.lsoft.com/products/listserv-powered.asp</link>     <url>http://www.lsoft.com/images/listserv_small.gif</url> </image>   <item rdf:about=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CITYWARDACTION;74fad710.1410\">   <title>Sexual Harassment working group </title>   <link>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CITYWARDACTION;74fad710.1410</link>   <description> Dear All,&lt;br&gt;&lt;br&gt;I have met with a few of the working group to see how we should move forward with the Sexual Harassment group.&lt;br&gt;&lt;br&gt;It has been agreed that the work is as important now as it has been previously. However it was felt in order for any further interventions/projects to be successful its crucial that these are based on the outcome of the research that is due to complete at the end of this year. [...]    </description>   <dc:date>2014-10-13T15:07:51+00:00</dc:date>   <dc:creator>Kate Armitstead</dc:creator>   <dc:identifier>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CITYWARDACTION;74fad710.1410</dc:identifier> </item>   </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1c2fb6b9de668fc14650f3c98e53eb66", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=CITYWARDACTION&v=1.0"
+}

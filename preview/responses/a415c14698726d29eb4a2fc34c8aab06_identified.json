@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0114'>  <front> <title>File Transfer Protocol</title> <author initials='A.K.' surname='Bhushan' fullname='A.K. Bhushan'> <organization /></author> <date year='1971' month='April' /></front>  <seriesInfo name='RFC' value='114' /> <format type='TXT' octets='38981' target='http://www.rfc-editor.org/rfc/rfc114.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a415c14698726d29eb4a2fc34c8aab06", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0114.xml"
+}

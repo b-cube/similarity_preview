@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/6\"> <title>Cymraeg / Welsh</title> <link>http://hdl.handle.net/2160/6</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/27536\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/27535\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/27534\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/27477\"/> </rdf:Seq> </items> <dc:date>2015-03-20T04:20:13Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/27536\"> <title>Arthur in Medieval Welsh Literature</title> <link>http://hdl.handle.net/2160/27536</link> <description>Arthur in Medieval Welsh Literature Oliver; Ian </description> <dc:date>2002-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/27535\"> <title>Ceinciau\\ufffd\\ufffd\\ufffdr Mabinogi</title> <link>http://hdl.handle.net/2160/27535</link> <description>Ceinciau\\ufffd\\ufffd\\ufffdr Mabinogi Ian </description> <dc:date>2002-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/27534\"> <title>Bob Owen y Blagardiwr</title> <link>http://hdl.handle.net/2160/27534</link> <description>Bob Owen y Blagardiwr Bleddyn </description> <dc:date>2002-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/27477\"> <title>Defnydd hyd Ddydd Brawd</title> <link>http://hdl.handle.net/2160/27477</link> <description>Defnydd hyd Ddydd Brawd Marged Geraint </description> <dc:date>2001-01-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ff36adb6163738a153230c24bc1e506b", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/6"
+}

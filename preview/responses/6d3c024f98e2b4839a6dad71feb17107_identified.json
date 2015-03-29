@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123140</identifier><identifier type=\"pwpk\">70042061</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3140</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Use of raw materials in the United States from 1900 through 2010</title></titleInfo><originInfo><dateOther>Fri, 21 Dec 2012 00:00 -0600</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Matos, Grecia R.</namePart><role>Author</role></name><abstract>Since the beginning of the 20th century, the types and quantities of raw materials used by U.S. manufacturers and consumers have changed over time. This fact sheet quantifies the amounts of those materials (other than food and fuel) that have been input into the U.S. economy annually for a period of 111 years, from 1900 through 2010. It provides a broad overview of all materials used but highlights the use and importance of raw nonfuel minerals in particular. This fact sheet supersedes U.S. Geological Survey Fact Sheet 2009\\ufffd\\ufffd\\ufffd3008, which was published in April 2009 and covered the period 1900 through 2006. These data have been compiled to help the public and policymakers understand the flow of raw materials used in the United States in physical terms. Such information can be helpful in assessing the past and potential effects of the materials on the environment, evaluating the materials\\ufffd\\ufffd\\ufffd intensity of use, and examining the role that these materials play in the economy. It can also provide insight into what may happen to the materials at the end of their useful life.</abstract><physicalDescription><form>Fact Sheet: 7 p.: Data Excel File</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"ADDITIONAL REPORT PIECE\">http://pubs.usgs.gov/fs/2012/3140/fs2012-3140_data_file.xlsx</url><url note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2012/3140/pdf/fs2012-3140.pdf</url><url note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3140/</url><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3140.gif</url></location><note type=\"citation/reference\">Use of raw materials in the United States from 1900 through 2010; 2012; FS; 2012-3140; Fact Sheet; Matos, Grecia R.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6d3c024f98e2b4839a6dad71feb17107", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123140"
+}

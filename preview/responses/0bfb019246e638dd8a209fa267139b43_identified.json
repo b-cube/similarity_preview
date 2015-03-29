@@ -1,0 +1,15 @@
+{
+    "content": "<cross-domain-policy>   <allow-access-from domain=\"*\" />  </cross-domain-policy>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0bfb019246e638dd8a209fa267139b43", 
+    "source_url": "http://www.eea.europa.eu/crossdomain.xml"
+}

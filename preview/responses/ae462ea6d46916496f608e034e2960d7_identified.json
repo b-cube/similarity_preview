@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-css3-ui-20150224'            target='http://www.w3.org/TR/2015/WD-css3-ui-20150224'> <front> <title>CSS Basic User Interface Module Level 3 (CSS3 UI)</title>  <author initials='T.' surname='\\ufffd\\ufffd\\ufffd\\ufffdelik' fullname='Tantek \\ufffd\\ufffd\\ufffd\\ufffdelik'>     <organization /> </author>  <date month='February' day='24' year='2015' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-css3-ui-20150224' /> <format type='HTML' target='http://www.w3.org/TR/2015/WD-css3-ui-20150224' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ae462ea6d46916496f608e034e2960d7", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-css3-ui-20150224.xml"
+}

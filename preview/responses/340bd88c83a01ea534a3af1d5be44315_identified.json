@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Division2007a </Local-number>  <General-Note>One-Page Update </General-Note>  <Author>Pacific Islands Fisheries Science Center Coral Reef Ecosystem Division </Author>  <Title>2007 Northwestern Hawaiian Islands Marine Debris Update - Results from first cruise, July 18 - August 14, 2007 </Title>  <Publication-Date><caldate>2007 </caldate></Publication-Date>  <Notes>FY2007 CRCP Project ID 1224; Project Title: Marine Debris Survey and Removal from the Northwestern Hawaiian Islands (NWHI): Maintenance Mode; Principal Investigator: Tony Perry III </Notes>  <Abstract>This document provides an overview of the results of the first marine debris cruise through NWHI, July 18 - August 14, 2007. </Abstract>  <Date-Time-Last-Modified>20091112000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/1224/2007_nwhi_marine_debris_update_1st_cruise.pdf </URL>  <project>  <ID>1224 </ID>  <title>Marine Debris Survey and Removal from the Northwestern Hawaiian Islands (NWHI): Maintenance Mode </title>  <PI>Tony Perry III </PI>  </project>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>misc </CoRIS-Record-Type>  <Local-subject-index>outreach </Local-subject-index>  <Local-subject-index>misc </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "340bd88c83a01ea534a3af1d5be44315", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BA36A64D9-95A8-46AF-B850-3CD50418A41E%7D"
+}

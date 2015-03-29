@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <oembed><html>&lt;iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/videoseries?list=PLiuUQ9asub3SOdRC7ZHR8ocKHUcjlwtGW\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</html><width>480</width><thumbnail_height>360</thumbnail_height><provider_url>http://www.youtube.com/</provider_url><thumbnail_width>480</thumbnail_width><version>1.0</version><type>video</type><title>Liftoff of OCO-2</title><height>270</height><author_url>http://www.youtube.com/user/NASAKennedy</author_url><provider_name>YouTube</provider_name><thumbnail_url>http://i.ytimg.com/vi/njf67aov4XA/hqdefault.jpg</thumbnail_url><author_name>NASAKennedy</author_name></oembed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5dfbde7481c34b12c15098f7bddd91e8", 
+    "source_url": "http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dnjf67aov4XA%26list%3DPLiuUQ9asub3SOdRC7ZHR8ocKHUcjlwtGW%26index%3D4&format=xml"
+}

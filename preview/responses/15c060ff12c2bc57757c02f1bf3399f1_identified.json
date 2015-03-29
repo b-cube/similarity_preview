@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">     <ShortName>Search Site</ShortName>     <Description>Search this site using open search ...</Description>     <Tags></Tags>     <Contact></Contact>              <Url type=\"application/opensearchdescription+xml\" template=\"http://www.geftwap.org/opensearch_description.xml\" rel=\"self\"/>                   <Url type=\"application/rss+xml\" template=\"http://www.geftwap.org/opensearch_rss.xml?SearchableText={searchTerms}&amp;b_start:int={startIndex?}&amp;b_size:int={count?}\" indexOffset=\"0\" rel=\"results\"/>                   <Url type=\"application/atom+xml\" template=\"http://www.geftwap.org/opensearch_atom.xml?SearchableText={searchTerms}&amp;b_start:int={startIndex?}&amp;b_size:int={count?}\" indexOffset=\"0\" rel=\"results\"/>                   <Url type=\"application/x-suggestions+json\" template=\"http://www.geftwap.org/opensearch_suggestions?command={searchTerms}\" rel=\"suggestions\"/>                   <Url type=\"text/html\" template=\"http://www.geftwap.org/search?SearchableText={searchTerms}\" indexOffset=\"0\" rel=\"results\"/>          <Query role=\"example\" searchTerms=\"None\"/>     <Image>http://www.geftwap.org/favicon.ico</Image>  </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "15c060ff12c2bc57757c02f1bf3399f1", 
+    "source_url": "http://www.geftwap.org/@@opensearch_description.xml"
+}

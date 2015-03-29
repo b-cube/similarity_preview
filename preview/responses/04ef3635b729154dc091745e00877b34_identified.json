@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <url>     <loc>/contact</loc>     <lastmod>2015-03-06T11:39:57+00:00</lastmod>   </url>   <url>     <loc>/</loc>     <lastmod>2015-03-06T11:39:57+00:00</lastmod>   </url>   <url>     <loc>/publications</loc>     <lastmod>2015-03-06T11:39:57+00:00</lastmod>   </url>   <url>     <loc>/research</loc>     <lastmod>2015-03-06T11:39:57+00:00</lastmod>   </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "04ef3635b729154dc091745e00877b34", 
+    "source_url": "http://al.host.cs.st-andrews.ac.uk/sitemap.xml"
+}

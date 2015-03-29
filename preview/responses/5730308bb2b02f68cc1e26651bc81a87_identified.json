@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/gilpin-county-facilitysitepoints\" rel=\"alternate\"></link><id>/revision/gilpin-county-facilitysitepoints</id><updated>2015-03-18T23:20:34Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5730308bb2b02f68cc1e26651bc81a87", 
+    "source_url": "http://data.opencolorado.org/dataset/history/gilpin-county-facilitysitepoints?days=7&format=atom"
+}

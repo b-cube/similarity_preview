@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:v=\"urn:schemas-microsoft-com:vml\"  xmlns:o=\"urn:schemas-microsoft-com:office:office\"  xmlns:p=\"urn:schemas-microsoft-com:office:powerpoint\">  <p:presentation notessizey=\"5856\">   <p:master id=\"3\" type=\"main\" href=\"master03.htm\" xmlhref=\"master03.xml\"    template=\"Sunny Days\" layout=\"title_body\"    slots=\"title,body,dateTime,footer,slideNumber\">    <p:schemes>     <p:colorscheme      colors=\"#FFCC66,#000000,#CC6600,#996633,#FF9933,#CCCCCC,#CC9900,#993366\"/>     <p:colorscheme      colors=\"#FFFFCC,#000000,#CC9900,#996633,#FF9933,#FFFFFF,#FFCC66,#993366\"/>     <p:colorscheme      colors=\"#FFFFFF,#000000,#868686,#000000,#EAEAEA,#5F5F5F,#CBCBCB,#FFFFFF\"/>     <p:colorscheme      colors=\"#006600,#F8F8F8,#000000,#FFCC00,#9999FF,#003300,#009966,#6600CC\"/>     <p:colorscheme      colors=\"#990099,#F8F8F8,#000000,#FFCC00,#9999FF,#660066,#CC00CC,#6600CC\"/>    </p:schemes>   </p:master>   <p:master id=\"4\" type=\"title\" href=\"master04.htm\" xmlhref=\"master04.xml\"    layout=\"title_subtitle\"    slots=\"centerTitle,subTitle,dateTime,footer,slideNumber\"/>   <p:master id=\"1\" type=\"notes\" href=\"master01.htm\" layout=\"notes\"    slots=\"header,dateTime,slideImage,body,footer,slideNumber\"/>   <p:master id=\"2\" type=\"handout\" href=\"master02.htm\" layout=\"handout\"    slots=\"header,dateTime,footer,slideNumber\"/>   <p:slide id=\"7\" href=\"slide0007.htm\" layout=\"title_body\" slots=\"title,body\"/>   <p:slide id=\"3\" href=\"slide0003.htm\" layout=\"title_body\" slots=\"title,body\"    collapseoutline=\"t\"/>   <p:slide id=\"8\" href=\"slide0008.htm\" layout=\"title_body\" slots=\"title,body\"/>   <p:slide id=\"5\" href=\"slide0005.htm\" layout=\"title_body\" slots=\"title,graph\"/>   <p:slide id=\"6\" href=\"slide0006.htm\" layout=\"title_body\" slots=\"title,graph\"/>   <p:slide id=\"2\" href=\"slide0002.htm\" layout=\"title_body\" slots=\"title,body\"/>   <p:slide id=\"4\" href=\"slide0004.htm\" layout=\"title_body\" slots=\"title,body\"/>   <p:viewstate type=\"slideView\"/>   <p:font name=\"Times New Roman\" charset=\"0\" type=\"4\"/>   <p:font name=\"Wingdings\" charset=\"2\" type=\"6\" family=\"2\"/>   <p:headersfooters noheader=\"t\"/>   <p:headersfooters notes=\"t\" slidenumber=\"t\"/>   <p:pptdocumentsettings framecolors=\"WhiteTextOnBlack\" hideslideanimation=\"t\"    browsersupport=\"dual\"/>  </p:presentation>  <o:shapedefaults v:ext=\"edit\" spidmax=\"47106\" style='mso-wrap-style:none'>   <v:stroke startarrowwidth=\"narrow\" startarrowlength=\"short\" endarrowwidth=\"narrow\"    endarrowlength=\"short\" color2=\"none [0]\" weight=\"1pt\"/>   <o:colormru v:ext=\"edit\" colors=\"#963,#fc6,fuchsia,red\"/>  </o:shapedefaults></xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ecf21211fb70e63dc5f4ee0525122626", 
+    "source_url": "http://www.cesm.ucar.edu/management/docs/implementation_plan_files/pres.xml"
+}

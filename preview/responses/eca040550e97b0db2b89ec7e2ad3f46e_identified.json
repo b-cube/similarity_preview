@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../index.htm\"/>  <o:File HRef=\"image327.gif\"/>  <o:File HRef=\"image328.gif\"/>  <o:File HRef=\"image329.gif\"/>  <o:File HRef=\"image330.gif\"/>  <o:File HRef=\"image334.gif\"/>  <o:File HRef=\"image319.gif\"/>  <o:File HRef=\"image318.jpg\"/>  <o:File HRef=\"image315.jpg\"/>  <o:File HRef=\"image553.gif\"/>  <o:File HRef=\"RAMPDISPDATA.htm\"/>  <o:File HRef=\"image460.gif\"/>  <o:File HRef=\"image463.gif\"/>  <o:File HRef=\"image485.gif\"/>  <o:File HRef=\"image536.png\"/>  <o:File HRef=\"image5361.gif\"/>  <o:File HRef=\"RAMPPROJECT.htm\"/>  <o:File HRef=\"image339.gif\"/>  <o:File HRef=\"image438.jpg\"/>  <o:File HRef=\"RAMPData.htm\"/>  <o:File HRef=\"image521.gif\"/>  <o:File HRef=\"image526.jpg\"/>  <o:File HRef=\"image401.png\"/>  <o:File HRef=\"image4011.gif\"/>  <o:File HRef=\"BPRCData.htm\"/>  <o:File HRef=\"image581.gif\"/>  <o:File HRef=\"RAMPPUBLICATIONS.htm\"/>  <o:File HRef=\"image403.jpg\"/>  <o:File HRef=\"CRESISOSU.htm\"/>  <o:File HRef=\"image312.jpg\"/>  <o:File HRef=\"CRESISOSULECTURES.htm\"/>  <o:File HRef=\"BPRCPersonnel.htm\"/>  <o:File HRef=\"image402.png\"/>  <o:File HRef=\"image4021.gif\"/>  <o:File HRef=\"image404.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "eca040550e97b0db2b89ec7e2ad3f46e", 
+    "source_url": "http://research.bpcrc.osu.edu/rsl/index_files/filelist.xml"
+}

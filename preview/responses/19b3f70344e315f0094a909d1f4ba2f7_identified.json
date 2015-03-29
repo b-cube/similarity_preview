@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../wwf.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "19b3f70344e315f0094a909d1f4ba2f7", 
+    "source_url": "http://webgis.wr.usgs.gov/globalgis/metadata_qr/wwf_files/filelist.xml"
+}

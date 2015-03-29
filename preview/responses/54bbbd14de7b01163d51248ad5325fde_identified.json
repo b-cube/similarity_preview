@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.montpetit-dynamic-nc'> <front> <title>Dynamic Network Coding</title>  <author initials='M' surname='Montpetit' fullname='Marie-Jose Montpetit'>     <organization /> </author>  <author initials='V' surname='Roca' fullname='Vincent Roca'>     <organization /> </author>  <author initials='j' surname='jonathan.detchart@isae.fr' fullname='jonathan.detchart@isae.fr'>     <organization /> </author>  <date month='March' day='9' year='2015' />  <abstract><t>This document presents a network coding approach that allows coding decisions to be based on the instantaneous conditions at the network nodes.  It uses dynamic rates and coefficients to constantly adapt to local conditions and to allow for provider and application differentiation.</t></abstract>  </front>  <seriesInfo name='Internet-Draft' value='draft-montpetit-dynamic-nc-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-montpetit-dynamic-nc-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "54bbbd14de7b01163d51248ad5325fde", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.montpetit-dynamic-nc.xml"
+}

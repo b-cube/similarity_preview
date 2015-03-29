@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"FIPS.161-1.1993\"> <front> <title>Electronic Data Interchange (EDI)</title> <author> <organization>National Institute of Standards and Technology</organization> </author> <date month=\"April\" year=\"1993\" /> </front>  <seriesInfo name=\"FIPS\" value=\"PUB 161-1\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0af2a1904dc27c62e3c263f416dda2e3", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.FIPS.161-1.1993.xml"
+}

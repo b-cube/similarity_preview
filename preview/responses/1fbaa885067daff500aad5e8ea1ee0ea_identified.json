@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/ApalachicolaFL_Oyster/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/ApalachicolaFL_Vibracores/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/Chandeleur2010_Lidar/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/ChandeleurIslands/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/GulfofMexicoRegion/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/NGOM2004_Lidar/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/NGOM2007_Lidar/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/PearlRiverDelta2008_Lidar/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1fbaa885067daff500aad5e8ea1ee0ea", 
+    "source_url": "http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex?f=sitemap"
+}

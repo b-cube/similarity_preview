@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">    <rdf:Description rdf:about=\"\">       <response xmlns=\"http://xml.opendap.org/ns/bes/1.0#\">          <rdf:Description xmlns:rdfx=\"http://www.w3.org/1999/02/22-rdf-syntax-ns\">             <reqID xmlns=\"http://iridl.ldeo.columbia.edu/ontologies/xsd2owl/nonamespace#\">[http-bio-9400-exec-1447:1475:bes_request]</reqID>             <dataset_id xmlns=\"http://iridl.ldeo.columbia.edu/ontologies/xsd2owl/nonamespace#\">/orders/500915124/MOD08_D3.A2011001.006.2015049201441.psgscs_000500915124.AOD_Histo_Intervals.hdf</dataset_id>             <getDDX>                <rdf:Description>                   <BESError>                      <rdf:Description>                         <Type>1</Type>                         <Message>libdap exception building response: error_code = 1001: Parse error while processing a CoreMetadata attribute.</Message>                         <Administrator>navid.golpayegani@nasa.gov</Administrator>                      </rdf:Description>                   </BESError>                </rdf:Description>             </getDDX>          </rdf:Description>       </response>    </rdf:Description> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "196202fac9478432c85597a61fa444a7", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/orders/500915124/MOD08_D3.A2011001.006.2015049201441.psgscs_000500915124.AOD_Histo_Intervals.hdf.rdf"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <jnlp codebase=\"http://jogamp.org/deployment/archive/rc/v2.3.0/jogl-demos\"       href=\"TextCube.jnlp\">   <information>     <title>Text Cube</title>     <vendor>JogAmp Community</vendor>     <homepage href=\"http://jogamp.org/jogl-demos/\"/>     <description>Text Cube</description>     <description kind=\"short\">Shows how to use the TextRenderer to draw 2D text in 3D.</description>     <offline-allowed/>   </information>   <update check=\"background\" policy=\"always\"/>      <resources>       <j2se href=\"http://java.sun.com/products/autodl/j2se\" version=\"1.4+\"/>       <jar href=\"jar/jogl-demos.jar\" main=\"true\"/>       <jar href=\"jar/jogl-demos-util.jar\" />       <extension name=\"jogl-all-awt\" href=\"http://jogamp.org/deployment/archive/rc/v2.3.0/jogl-all-awt.jnlp\" />     </resources>    <application-desc main-class=\"demos.j2d.TextCube\">   </application-desc> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8266184c311e123902c2c789f53570b6", 
+    "source_url": "http://jogamp.org/deployment/jogamp-next/jogl-demos/TextCube.jnlp"
+}

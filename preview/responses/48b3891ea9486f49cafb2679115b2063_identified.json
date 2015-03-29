@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0073\">   <front>     <title>Basic IM Protocol Suite</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"30\" month=\"October\" year=\"2007\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0073\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0073.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "48b3891ea9486f49cafb2679115b2063", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0073.xml"
+}

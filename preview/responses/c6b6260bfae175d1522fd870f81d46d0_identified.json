@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <opml version=\"1.1\"> <head> <title>Arizona Mineral Education - A STEM Resource</title> <dateModified>Thu, 19 Mar 2015 17:39:39 +0000</dateModified> </head> <body> <outline text=\"Mineral and Geology News\" xmlUrl=\"http://news.google.com/news?pz=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;q=minerals+geology+education+-vitamin+location:united_states&amp;cf=all&amp;output=rss\" /> </body> </opml> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c6b6260bfae175d1522fd870f81d46d0", 
+    "source_url": "http://azmineraleducation.org/aggregator/opml"
+}

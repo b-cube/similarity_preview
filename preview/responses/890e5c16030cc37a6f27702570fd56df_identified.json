@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?> <reference anchor=\"W3C.xpath\" target=\"http://www.w3.org/TR/xpath\">   <front>     <title>XML Path Language (XPath) Version 1.0</title>     <author initials=\"J.\" surname=\"Clark\" fullname=\"James Clark\">       <organization>       </organization>       <address>         <email>jjc@jclark.com</email>       </address>     </author>     <author initials=\"S.\" surname=\"DeRose\" fullname=\"Steve DeRose\">       <organization>       </organization>       <address>         <email>Steven_DeRose@Brown.edu</email>       </address>     </author>     <date day=\"16\" month=\"November\" year=\"1999\"/>   </front>   <seriesInfo name=\"W3C Recommendation\" value=\"xpath\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "890e5c16030cc37a6f27702570fd56df", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.W3C.xpath.xml"
+}

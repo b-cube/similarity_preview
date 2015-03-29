@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <species  status='valid'      totalpics='3'       total_adult='3'       total_stamps='0'       total_diseases='0'       total_larvae='0'       link='http://www.fishbase.us/photos/ThumbnailsSummary.php?id=13835'    >     <speccode>13835</speccode>     <genus>Decodon</genus>     <speciesfb>melasma</speciesfb>    </species>    <pictures type='adult'>    <picname link='http://www.fishbase.org/photos/PicturesSummary.cfm?ID=13835&amp;what=species'>Demel_u1.jpg</picname>    <actual>http://www.fishbase.org/images/species/Demel_u1.jpg</actual>    <thumbnail>http://www.fishbase.org/images/thumbnails/jpg/tn_Demel_u1.jpg</thumbnail>   <author link='http://www.fishbase.org/Collaborators/CollaboratorSummary.cfm?ID=1071'>Robertson, R.</author>   </pictures>    <pictures type='adult'>    <picname link='http://www.fishbase.org/photos/PicturesSummary.cfm?StartRow=1&amp;ID=13835&amp;what=species'>Demel_u0.jpg</picname>    <actual>http://www.fishbase.org/images/species/Demel_u0.jpg</actual>    <thumbnail>http://www.fishbase.org/images/thumbnails/jpg/tn_Demel_u0.jpg</thumbnail>   <author link='http://www.fishbase.org/Collaborators/CollaboratorSummary.cfm?ID=1071'>Robertson, R.</author>   </pictures>    <pictures type='adult'>    <picname link='http://www.fishbase.org/photos/PicturesSummary.cfm?StartRow=2&amp;ID=13835&amp;what=species'>Demel_u0.gif</picname>    <actual>http://www.fishbase.org/images/species/Demel_u0.gif</actual>    <thumbnail>http://www.fishbase.org/images/thumbnails/gif/tn_Demel_u0.gif</thumbnail>   <author link='http://www.fishbase.org/Collaborators/CollaboratorSummary.cfm?ID=823'>FAO</author>   </pictures>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "42645d6ffbde0c4e91caef54ea6fa984", 
+    "source_url": "http://www.fishbase.org/webservice/Photos/FishPicsList.php?Genus=Decodon&Species=melasma&type="
+}

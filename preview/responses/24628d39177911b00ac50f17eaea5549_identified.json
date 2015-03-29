@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr01429</identifier><identifier type=\"pwpk\">31495</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2001-429</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Environmental studies of the World Trade Center area after the September 11, 2001 attack</title></titleInfo><originInfo><dateOther>Fri, 1 Mar 2002 00:00 -0600</dateOther><dateIssued>2001</dateIssued></originInfo><name><namePart>Clark, Roger N.; Green, Robert O.; Swayze, Gregg A.; Meeker, Greg; Sutley, Steve; Hoefen, Todd M.; Livo, K. Eric; Plumlee, Geoff; Pavri, Betina; Sarture, Chuck; Wilson, Steve; Hageman, Phil; Lamothe, Paul; Vance, J. Sam; Boardman, Joe; Brownfield, Isabelle; Gent, Carol; Morath, Laurie C.; Taggart, Joseph; Theodorakos, Peter M.; Adams, Monique</namePart><role>Author</role></name><physicalDescription><form>NA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/usgs_thumb.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/2001/ofr-01-0429/</url></location><note type=\"citation/reference\">Environmental studies of the World Trade Center area after the September 11, 2001 attack; 2001; OFR; 2001-429; Open-File Report; Clark, Roger N.; Green, Robert O.; Swayze, Gregg A.; Meeker, Greg; Sutley, Steve; Hoefen, Todd M.; Livo, K. Eric; Plumlee, Geoff; Pavri, Betina; Sarture, Chuck; Wilson, Steve; Hageman, Phil; Lamothe, Paul; Vance, J. Sam; Boardman, Joe; Brownfield, Isabelle; Gent, Carol; Morath, Laurie C.; Taggart, Joseph; Theodorakos, Peter M.; Adams, Monique</note><edition>Version 1.1</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "24628d39177911b00ac50f17eaea5549", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr01429"
+}

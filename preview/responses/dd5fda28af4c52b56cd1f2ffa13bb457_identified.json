@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../colman.htm\"/>  <o:File HRef=\"image001.png\"/>  <o:File HRef=\"oledata.mso\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"image003.gif\"/>  <o:File HRef=\"image004.gif\"/>  <o:File HRef=\"image005.gif\"/>  <o:File HRef=\"image006.gif\"/>  <o:File HRef=\"image007.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dd5fda28af4c52b56cd1f2ffa13bb457", 
+    "source_url": "http://grads.iges.org/ellfb/Sep02/Colman/colman_files/filelist.xml"
+}

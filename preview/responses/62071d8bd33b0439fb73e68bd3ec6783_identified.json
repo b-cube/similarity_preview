@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/test-site-bore-holes-2012\">     <owl:sameAs rdf:resource=\"urn:uuid:4ba1ff58-985b-4452-b24e-1cb5b80d4bc3\"></owl:sameAs>     <dct:description></dct:description>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/test-site-bore-holes-2012\"></foaf:homepage>     <rdfs:label>test-site-bore-holes-2012</rdfs:label>     <dct:identifier>test-site-bore-holes-2012</dct:identifier>     <dct:title>Test site bore holes 2012</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://demo.ckan.org/dataset/4ba1ff58-985b-4452-b24e-1cb5b80d4bc3/resource/358ed9a0-2577-4cef-ad22-955af401ae04/download/hanclass2.jpg\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>gif</rdf:value>                             <rdfs:label>gif</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>Raw Data File 1</dct:title>             </dcat:Distribution>         </dcat:distribution>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "62071d8bd33b0439fb73e68bd3ec6783", 
+    "source_url": "http://demo.ckan.org/dataset/4ba1ff58-985b-4452-b24e-1cb5b80d4bc3.rdf"
+}

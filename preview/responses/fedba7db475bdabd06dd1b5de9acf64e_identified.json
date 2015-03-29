@@ -1,0 +1,15 @@
+{
+    "content": "<!--[if IE]> <script type=\"text/javascript\">  $(document).ready(function() {   var blueButtonSettings = {      tl: { radius: 10 },      tr: { radius: 10 },      bl: { radius: 10 },      br: { radius: 10 },      antiAlias: true   };      var speciesOverlaySettings = {      tl: { radius: 8 },      tr: { radius: 8 },      bl: { radius: 8 },      br: { radius: 8 },      antiAlias: true   };      var closeOverlayButtonSettings = {      tl: { radius: 8 },      tr: { radius: 0 },      bl: { radius: 0 },      br: { radius: 8 },      antiAlias: true   };   // For IE   curvyCorners(blueButtonSettings,\".blue-button\");   curvyCorners(speciesOverlaySettings,\".species-overlay\");   curvyCorners(closeOverlayButtonSettings,\".close-overlay\");  }); </script> <![endif]--> <div class=\"species-overlay\">   <h2>Crab</h2>   <a href=\"/seafood_profiles/species/crab/group_pages/index.htm\" class=\"blue-button go-to-species-page\">GO TO SPECIES PAGE</a>   <!-- species-scroll -->   <div class=\"species-scroll\">     <ul>       <li> <span class=\"species-meta\">         <div class=\"species-name\"><a href=\"/seafood_profiles/species/crab/species_pages/alaska_snow_crab.htm\">Alaska Snow Crab</a></div>         <div class=\"species-description\"></div>       </span> <span class=\"species-image\"> <a href=\"/seafood_profiles/species/crab/species_pages/alaska_snow_crab.htm\"><img src=\"/seafood_profiles/species/crab/imgs/crab_alaskasnow_overlay.png\" alt=\"Alaska Snow Crab\" title=\"Alaska Snow Crab\" /></a> </span> </li>       <li> <span class=\"species-meta\">         <div class=\"species-name\"><a href=\"/seafood_profiles/species/crab/species_pages/red_king_crab.htm\">Red King Crab</a></div>         <div class=\"species-description\"></div>       </span> <span class=\"species-image\"> <a href=\"/seafood_profiles/species/crab/species_pages/red_king_crab.htm\"><img src=\"/seafood_profiles/species/crab/imgs/crab_redking_overlay.png\" alt=\"Red King Crab\" title=\"Red King Crab\" /></a> </span> </li>                     </ul>   </div>   <!-- /species-scroll -->   <a href=\"#\" class=\"close-overlay\" onclick=\"$('.species-overlay').remove();return false;\">CLOSE</a> </div> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fedba7db475bdabd06dd1b5de9acf64e", 
+    "source_url": "http://www.fishwatch.gov/partials/fish-finder/species-overlays/crab.html"
+}

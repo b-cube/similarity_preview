@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123046</identifier><identifier type=\"pwpk\">70038660</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3046</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Assessment of undiscovered conventional oil and gas resources of South America and the Caribbean, 2012</title></titleInfo><originInfo><dateOther>Mon, 11 Jun 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Schenk, Christopher J.; Brownfield, Michael E.; Charpentier, Ronald R.; Cook, Troy A.; Klett, Timothy R.; Kirschbaum, Mark A.; Pitman, Janet K.; Pollastro, Richard M.; Tennyson, Marilyn E.</namePart><role>Author</role></name><abstract>Using a geology-based assessment methodology, the U.S. Geological Survey estimated means of 126 billion barrels of oil and 679 trillion cubic feet of undiscovered natural gas in 31 geologic provinces of South America and the Caribbean.</abstract><physicalDescription><form>3 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3046.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3046/</url></location><note type=\"citation/reference\">Assessment of undiscovered conventional oil and gas resources of South America and the Caribbean, 2012; 2012; FS; 2012-3046; Fact Sheet; Schenk, Christopher J.; Brownfield, Michael E.; Charpentier, Ronald R.; Cook, Troy A.; Klett, Timothy R.; Kirschbaum, Mark A.; Pitman, Janet K.; Pollastro, Richard M.; Tennyson, Marilyn E.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6bd9e82d4d48ea243f88e49817f460b2", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123046"
+}

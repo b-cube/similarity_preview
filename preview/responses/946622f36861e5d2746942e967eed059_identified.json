@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/TRMM_L1/TRMM_1B01_CSI_LBAX/1997\"                     ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAX/1997/\">             <thredds:catalogRef name=\"355\" xlink:href=\"355/catalog.xml\" xlink:title=\"355\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAX/1997/355/\"/>             <thredds:catalogRef name=\"358\" xlink:href=\"358/catalog.xml\" xlink:title=\"358\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAX/1997/358/\"/>             <thredds:catalogRef name=\"360\" xlink:href=\"360/catalog.xml\" xlink:title=\"360\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAX/1997/360/\"/>             <thredds:catalogRef name=\"362\" xlink:href=\"362/catalog.xml\" xlink:title=\"362\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAX/1997/362/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "946622f36861e5d2746942e967eed059", 
+    "source_url": "http://disc2.nascom.nasa.gov/opendap/TRMM_L1/TRMM_1B01_CSI_LBAX/1997/catalog.xml"
+}

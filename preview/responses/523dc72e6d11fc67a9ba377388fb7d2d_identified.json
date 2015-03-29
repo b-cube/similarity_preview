@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>uasreno</ShortName>  <Description>Search UAS MAPPING 2015 RENO - ASPRS UAS Technical Demonstration and Symposium</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://uasreno.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://uasreno.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://uasreno.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>UAS MAPPING 2015 RENO</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://1.gravatar.com/blavatar/fd4de9362d89d73e514127cd2255fbd9?s=16&#038;d=http%3A%2F%2Fuasreno.org%2Ffavicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/png\">http://0.gravatar.com/blavatar/c9deb8d91f360bfdfd50935d9de2ad2d?s=64&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>asprs asprs-uas-symposium uav-conference asprs-conference uas-reno-mapping-2014 asprs-norcal change-is-in-the-air october-21-22 uas drones</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://uasreno.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "523dc72e6d11fc67a9ba377388fb7d2d", 
+    "source_url": "http://uasreno.org/osd.xml"
+}

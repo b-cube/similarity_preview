@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.rutkowski-enum-neutrality\"> <front> <title>Framework for ENUM Neutrality</title>  <author initials=\"A\" surname=\"Rutkowski\" fullname=\"A. Rutkowski\">     <organization /> </author>  <date month=\"November\" day=\"12\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-rutkowski-enum-neutrality-01\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "090f176ad92d19df5f656756e93441a4", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.rutkowski-enum-neutrality.xml"
+}

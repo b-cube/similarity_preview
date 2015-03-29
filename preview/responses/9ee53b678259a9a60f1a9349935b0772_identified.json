@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <Map srs=\"+proj=eqdc +lat_0=0 +lon_0=0 +lat_1=47 +lat_2=62 +x_0=0 +y_0=0 +ellps=krass +units=m +no_defs\">  <Layer srs=\"+proj=eqdc +lat_0=0 +lon_0=0 +lat_1=47 +lat_2=62 +x_0=0 +y_0=0 +ellps=krass +units=m +no_defs\">  </Layer> </Map>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9ee53b678259a9a60f1a9349935b0772", 
+    "source_url": "http://spatialreference.org/ref/sr-org/equidistant_conic/mapnik/"
+}

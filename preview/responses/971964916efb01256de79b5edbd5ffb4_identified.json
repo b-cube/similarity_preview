@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.04.01'> <front> <title>Mobile Station - Base Station System (MS - BSS) Interface General Aspects and Principles</title> <author><organization>3GPP</organization></author> <date day='01' month='January' year='1995' /> </front>  <seriesInfo name='3GPP TS' value='04.01 3.0.1' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0401.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "971964916efb01256de79b5edbd5ffb4", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.04.01.xml"
+}

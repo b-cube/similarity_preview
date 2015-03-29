@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <ShortName>OxSynC Site Search</ShortName>   <Description>The search engine included in mojoPortal Content Managment System</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/x-icon\" width=\"16\" height=\"16\">http://oxsync.chem.ox.ac.uk/Data/Sites/19/skins/chem-template/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://oxsync.chem.ox.ac.uk/SearchEngineInfo.ashx\" />   <Url type=\"application/atom+xml\" template=\"http://oxsync.chem.ox.ac.uk/SearchResults.ashx?q={searchTerms}&amp;p={startPage?}\" />   <Url type=\"text/html\" template=\"http://oxsync.chem.ox.ac.uk/SearchResults.aspx?q={searchTerms}&amp;p={startPage?}\" />   <moz:SearchForm>http://oxsync.chem.ox.ac.uk/SearchResults.aspx</moz:SearchForm> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b76d65037f26ece25b9babe8f4cafeb0", 
+    "source_url": "http://oxsync.chem.ox.ac.uk/SearchEngineInfo.ashx"
+}

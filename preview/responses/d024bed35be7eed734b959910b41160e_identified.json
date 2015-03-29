@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"::VO_Framework_7_Jan_05.html\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.pct\"/>  <o:File HRef=\"image003.png\"/>  <o:File HRef=\"image004.png\"/>  <o:File HRef=\"image005.jpg\"/>  <o:File HRef=\"image006.gif\"/>  <o:File HRef=\"image007.pct\"/>  <o:File HRef=\"image008.png\"/>  <o:File HRef=\"image009.png\"/>  <o:File HRef=\"image010.jpg\"/>  <o:File HRef=\"image011.png\"/>  <o:File HRef=\"image012.jpg\"/>  <o:File HRef=\"image013.png\"/>  <o:File HRef=\"image014.jpg\"/>  <o:File HRef=\"image015.png\"/>  <o:File HRef=\"image016.jpg\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d024bed35be7eed734b959910b41160e", 
+    "source_url": "http://lwsde.gsfc.nasa.gov/VO_Framework_7_Jan_05_files/filelist.xml"
+}

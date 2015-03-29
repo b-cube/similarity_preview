@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../PROSOPOGRAPHY%20CENTRE.htm\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8b0f3dc85b4ca75b9006414916154a66", 
+    "source_url": "http://users.ox.ac.uk/%7Eprosop/PROSOPOGRAPHY%20CENTRE_files/filelist.xml"
+}

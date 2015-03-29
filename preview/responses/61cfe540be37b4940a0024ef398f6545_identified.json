@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"316\" _uuid=\"BE0AC0DA-E47E-4356-B511-25FD1FB47BDA\" _position=\"316\" _address=\"http://data.sfgov.org/resource/tgmn-chny/316\"><campaign_consultant>SGR Consulting</campaign_consultant><employee>Roumeliotes, Stefanie</employee><department>Golden Gate Park Concourse Authority</department><city_position>Board member</city_position><appointment_date>2010-05-14T00:00:00</appointment_date><appointing_officer>Newsom, Gavin</appointing_officer><quarter_start_date>2010-06-01T00:00:00</quarter_start_date><quarter_end_date>2010-08-31T00:00:00</quarter_end_date><quarter>3</quarter><year>2010</year></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "61cfe540be37b4940a0024ef398f6545", 
+    "source_url": "https://data.sfgov.org/api/views/tgmn-chny/rows.xml?accessType=DOWNLOAD"
+}

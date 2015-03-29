@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/r4/WatershedTable_Impervious/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/r4/WatershedTable/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/r4/WSIO/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8d165ef6c12ac3dc0d354b7fb3341e62", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/r4?f=sitemap"
+}

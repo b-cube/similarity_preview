@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.schulzrinne-tftp-url\"> <front> <title>The tftp URL Scheme</title>  <author initials=\"H\" surname=\"Schulzrinne\" fullname=\"H. Schulzrinne\">     <organization /> </author>  <date month=\"November\" day=\"26\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-schulzrinne-tftp-url-01\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9f84d19ffa8b9b1bfdae73671208410c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.schulzrinne-tftp-url.xml"
+}

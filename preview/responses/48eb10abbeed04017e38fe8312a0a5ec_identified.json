@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for My Program v1.0 -->  <jnlp spec=\"1.0+\" codebase=\"http://www.lisdatacenter.org/lissy/userinterface\" href=\"userinterface.jnlp\">     <information>         <title>Lissy Userinterface</title>         <vendor>LIS Cross-National Data Center in Luxembourg / HAL SA</vendor>     </information>     <security>        <all-permissions/>     </security>     <resources>         <j2se version=\"1.6+\"/>         <jar href=\"UserInterface.jar\"/>     </resources>     <application-desc main-class=\"UserInterface\">         <argument>178.254.118.44</argument>                 <argument>443</argument>             <argument>30</argument>          <argument>SSL</argument>            </application-desc>  </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "48eb10abbeed04017e38fe8312a0a5ec", 
+    "source_url": "http://www.lisdatacenter.org/lissy/userinterface/userinterface.jnlp"
+}

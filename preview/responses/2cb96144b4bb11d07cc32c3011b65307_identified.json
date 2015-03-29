@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"IEEE.P8021A.1989\"> <front> <title>Overview and Architecture</title> <author> <organization>Institute of Electrical and Electronics Engineers</organization> </author> <date month=\"September\" year=\"1989\" /> </front>  <seriesInfo name=\"IEEE\" value=\"Draft P802.1A\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2cb96144b4bb11d07cc32c3011b65307", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.IEEE.P8021A.1989.xml"
+}

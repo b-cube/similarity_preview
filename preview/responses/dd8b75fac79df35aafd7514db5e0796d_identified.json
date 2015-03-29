@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"238\"><idinfo><citation><citeinfo><origin role=\"Sponsor\">Mineral Resources Program</origin><title>Mineral resources online spatial data</title><pubinfo><publish>U.S. Geological Survey</publish></pubinfo><onlink>http://mrdata.usgs.gov/</onlink></citeinfo></citation><descript><abstract>Website for geospatial data on mineral resources of the U.S. or the world that users can locate by geographic area, view, and download.</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><theme><themekt>USGS Thesaurus</themekt><themekey>data services</themekey><themekey>economic geology</themekey><themekey>geographic information systems</themekey><themekey>geospatial datasets</themekey><themekey>maps and atlases</themekey><themekey>mineral resources</themekey><themekey>mineralogy</themekey><themekey>web map services</themekey></theme></keywords></idinfo><metainfo><metd>20120905</metd><metc><cntinfo><cntperp><cntper>Schweitzer, Peter N</cntper><cntorg>ER Mineral Resources</cntorg></cntperp><cntaddr><addrtype>mailing address</addrtype><address>12201 Sunrise Valley Drive Mail Stop 954</address><city>Reston</city><state>VA</state><postal>20192</postal><country>USA</country></cntaddr><cntvoice>703-648-6533</cntvoice><cntemail>pschweitzer@usgs.gov</cntemail></cntinfo></metc><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dd8b75fac79df35aafd7514db5e0796d", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=238"
+}

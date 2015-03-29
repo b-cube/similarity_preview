@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.heinanen-inarp-uni'> <front> <title>Inverse ARP over Unidirectional Virtual Circuits</title>  <author initials='J' surname='Heinanen' fullname='Juha Heinanen'>     <organization /> </author>  <date month='March' day='2' year='2001' /> </front>  <seriesInfo name='Internet-Draft' value='draft-heinanen-inarp-uni-01' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-heinanen-inarp-uni-01.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "afa0f6fffe12a5c5a20b0385b91e276b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.heinanen-inarp-uni.xml"
+}

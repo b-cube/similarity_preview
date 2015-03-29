@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.G708.1992\"> <front> <title>Network Node Interface for the Synchronous Digital Hierarchy</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"June\" year=\"1992\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation G.708\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1739c9dae7862d8ae5bd06ec26efc581", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.CCITT.G708.1992.xml"
+}

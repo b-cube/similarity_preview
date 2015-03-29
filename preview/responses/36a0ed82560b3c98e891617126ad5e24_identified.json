@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OAI-PMH xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd\"><responseDate>2015-03-18T06:17:00Z</responseDate><request>http://www.sharegeo.ac.uk/oai/request</request><error code=\"badVerb\">Illegal verb</error></OAI-PMH>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": true, 
+        "version": "", 
+        "protocol": "OAI-PMH", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "36a0ed82560b3c98e891617126ad5e24", 
+    "source_url": "http://www.sharegeo.ac.uk/oai/request"
+}

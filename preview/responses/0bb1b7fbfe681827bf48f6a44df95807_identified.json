@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image001.gif\"/>  <o:MainFile HRef=\"../Pledge%20of%20Nonviolence.html\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0bb1b7fbfe681827bf48f6a44df95807", 
+    "source_url": "http://www.ipj-ppj.org/Pledge%20of%20Nonviolence_files/filelist.xml"
+}

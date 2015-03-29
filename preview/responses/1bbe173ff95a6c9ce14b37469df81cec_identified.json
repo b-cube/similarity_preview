@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"   xmlns:lvont=\"http://lexvo.org/ontology#\"   xmlns:lexvo=\"http://lexvo.org/id/\"   xmlns:owl=\"http://www.w3.org/2002/07/owl#\"   xmlns:skos=\"http://www.w3.org/2008/05/skos#\"    xmlns:skosxl=\"http://www.w3.org/2008/05/skos-xl#\"   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"   xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" >  <!-- This data file is a part of  Lexvo http://www.lexvo.org/ Gerard de Melo, 2008-2015  For information about the data sources and the respective copyrights, please see: http://www.lexvo.org/linkeddata/sources.html  This information is available under an open source license. For detailed license information, please refer to: http://www.lexvo.org/legal.html -->  <rdf:Description rdf:about=\"http://lexvo.org/id/iso639-3/frp\">   <rdf:type rdf:resource=\"lvont:Language\" />   <rdfs:label rdf:datatype=\"xsd:string\" xml:lang=\"en\">Arpitan</rdfs:label>   <rdfs:label rdf:datatype=\"xsd:string\" xml:lang=\"en\">Francoproven\\ufffd\\ufffdal</rdfs:label>   <rdfs:seeAlso rdf:resource=\"http://www.ethnologue.com/show_language.asp?code=frp\" />   <rdfs:seeAlso rdf:resource=\"http://www.llmap.org/languages/frp.html\" />   <owl:sameAs rdf:resource=\"http://www.lingvoj.org/lang/frp\" />   <lvont:hasMember rdf:resource=\"http://lexvo.org/id/term/frp/acolada\" />   <lvont:hasMember rdf:resource=\"http://lexvo.org/id/term/frp/count%C3%A9\" />   <lvont:iso639P3PCode rdf:datatype=\"xsd:string\">frp</lvont:iso639P3PCode>   <lvont:label rdf:resource=\"http://lexvo.org/id/term/eng/Arpitan\" />   <lvont:label rdf:resource=\"http://lexvo.org/id/term/eng/Francoproven%C3%A7al\" />   <lvont:usedIn rdf:resource=\"geo:44.0;6.0\" />   <lvont:usedIn rdf:resource=\"http://lexvo.org/id/iso3166/CH\" />   <lvont:usedIn rdf:resource=\"http://lexvo.org/id/iso3166/FR\" />   <lvont:usedIn rdf:resource=\"http://lexvo.org/id/iso3166/IT\" />   <skos:prefLabel rdf:datatype=\"xsd:string\" xml:lang=\"en\">Arpitan</skos:prefLabel> </rdf:Description>  </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1bbe173ff95a6c9ce14b37469df81cec", 
+    "source_url": "http://www.lexvo.org/data/iso639-3/frp"
+}

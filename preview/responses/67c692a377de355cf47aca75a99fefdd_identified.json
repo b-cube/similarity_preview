@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0033'>  <front> <title>New Host-Host Protocol</title> <author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'> <organization /></author> <date year='1970' month='February' /></front>  <seriesInfo name='RFC' value='33' /> <format type='TXT' octets='44167' target='http://www.rfc-editor.org/rfc/rfc33.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "67c692a377de355cf47aca75a99fefdd", 
+    "source_url": "http://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.0033.xml"
+}

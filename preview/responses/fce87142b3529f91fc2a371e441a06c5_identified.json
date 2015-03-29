@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>NERC Catalogue</ShortName>   <LongName>Natural Environment Research Council (NERC) Data Discovery Service Search</LongName>   <Description>Search the NERC metadata catalogue using the full interface</Description>   <Tags>nerc portal metadata environment</Tags>   <Contact>enquiries@bodc.ac.uk</Contact>   <Url type=\"application/atom+xml\"        template=\"http://data-search.nerc.ac.uk/search/full/catalogue.atom?q={searchTerms}&amp;c={count}&amp;i={startIndex}\"/>   <Url type=\"application/rss+xml\"        template=\"http://data-search.nerc.ac.uk/search/full/catalogue.rss?q={searchTerms}&amp;c={count}&amp;i={startIndex}\"/>   <Url type=\"text/html\"         template=\"http://data-search.nerc.ac.uk/search/full/catalogue?q={searchTerms}&amp;c={count}&amp;i={startIndex}\"/>   <Image height=\"64\" width=\"64\" type=\"image/png\">http://data-search.nerc.ac.uk/images_new/nerc-logo-print.png</Image>   <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://data-search.nerc.ac.uk/favicon.ico</Image>   <Query role=\"example\" searchTerms=\"cat\" />   <Developer>NERC</Developer>   <Attribution>     Search data Copyright 2010, NERC, All Rights Reserved   </Attribution>   <SyndicationRight>open</SyndicationRight>   <AdultContent>false</AdultContent>   <Language>en-gb</Language>   <OutputEncoding>UTF-8</OutputEncoding>   <InputEncoding>UTF-8</InputEncoding> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en-gb", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fce87142b3529f91fc2a371e441a06c5", 
+    "source_url": "http://data-search.nerc.ac.uk/search/opensearch/catalogue/full.xml"
+}

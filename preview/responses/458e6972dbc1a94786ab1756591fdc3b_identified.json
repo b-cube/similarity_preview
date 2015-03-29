@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>A Walk in the Park</dc:title><dc:creator>Mee, Charles L.</dc:creator><dc:type>text</dc:type><dc:subject>Theater</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8Z60MP6</dc:identifier><dc:description>On a sunny afternoon, at a caf\\ufffd\\ufffd in the middle of a park, a young man flirts with a young woman, while an old man nearby goes on and on with talk as crazy as Picasso, and a woman on the other side of the caf\\ufffd\\ufffd replies in the words of Gertrude Stein\\ufffd\\ufffd\\ufffdas dancers and musicians and contortionists and gymnasts and circus performers all do their thing and men in baseball caps and Brooklyn T-shirts rain down from the sky. And the young man gets the girl. [8 or 9 actors and some performance artists]</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "458e6972dbc1a94786ab1756591fdc3b", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A178637.xml"
+}

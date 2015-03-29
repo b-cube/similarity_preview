@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.02.53'> <front> <title>Tandem Free Operation (TFO); Service description; Stage 1</title> <author><organization>3GPP</organization></author> <date day='16' month='August' year='1999' /> </front>  <seriesInfo name='3GPP TS' value='02.53 7.0.1' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0253.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b9eba4e2ce85b0e81577c30316379657", 
+    "source_url": "http://xml2rfc.tools.ietf.org/public/rfc/bibxml5/reference.3GPP.02.53.xml"
+}

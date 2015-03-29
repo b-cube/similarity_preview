@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_HR/guam_2005_ccap_hr/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_HR/Hawaii_HR_2005/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_HR/USVI_HR_2003/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_HR/USVI_HR_2007/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8e04f938712ca6ff5b0b4f8553eb9532", 
+    "source_url": "http://coast.noaa.gov/arcgis/rest/services/CCAP_HR?f=geositemap"
+}

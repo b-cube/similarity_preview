@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for Glaciers -->  <jnlp spec=\"1.0+\" codebase=\"http://phet.colorado.edu/sims/glaciers\" href=\"glaciers_en.jnlp\">      <information>          <title>Glaciers</title>          <vendor>University of Colorado, Department of Physics</vendor>          <description>@PROJECT.DESCRIPTION@</description>          <description kind=\"short\">The Glaciers Simulation</description>          <offline-allowed/>      </information>      <resources>          <j2se version=\"1.4+\"/>          <property name=\"javaws.phet.locale\" value=\"en\" /> <property name=\"javaws.user.language\" value=\"en\" />          <jar href=\"glaciers_all.jar\"/>      </resources>            <application-desc main-class=\"edu.colorado.phet.glaciers.GlaciersApplication\">                </application-desc>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "85c57980e53cedd7cab3a93bedea1865", 
+    "source_url": "http://phet.colorado.edu/sims/glaciers/glaciers_en.jnlp"
+}

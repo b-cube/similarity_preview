@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <ShortName>www.georgiascienceteacher.org</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Url type=\"text/html\" method=\"get\" template=\"http://www.georgiascienceteacher.org/sys/search?q={searchTerms}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c53dcb5289aa1d34ef43603036414451", 
+    "source_url": "http://www.georgiascienceteacher.org/opensearch.ashx"
+}

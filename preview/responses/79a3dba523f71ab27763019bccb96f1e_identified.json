@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?> <metadata xml:lang=\"en\"> <Esri> <CreaDate>20130821</CreaDate> <CreaTime>10064200</CreaTime> <ArcGISFormat>1.0</ArcGISFormat> <SyncOnce>TRUE</SyncOnce> </Esri> <dataIdInfo> <idAbs>SURDEX and Survey Tracker db join, symbolized showing the Status of each contemporary survey (Year 2000 to present).</idAbs> <searchKeys> <keyword>SURDEX Survey Tracker Survey Status</keyword> </searchKeys> <idPurp>SURDEX and Survey Tracker database join, symbolized showing the Status of each contemporary survey (Year 2000 to present). </idPurp> <idCredit>Brian Mohr</idCredit> <resConst> <Consts> <useLimit/> </Consts> </resConst> <idCitation> <resTitle>SURDEX_SurveyTracker_Status</resTitle> </idCitation> </dataIdInfo> <Binary> <Thumbnail> <Data EsriPropertyType=\"PictureX\">/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAiuZHitZZI03uqEquM5OKyYL1XgHn6wDc5CulqEb5mHAVdpbHfv3z0rXeBJH3MWII2ldx2kc9R071XtNI06xbda2NvC395IwD+dACWeo2VxI0EWoQ3Eykho96+YuOoZRyCO4IGKu1TfSdPfUFv2soDeKMCfYN/4nvUtnJLLao8xQyHO7YCADk8YPPFA3boT0UVUN+n2xLMRyNcFA7qoyIlOcFj06ggdzg+hwCLdFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAEc3nCPMAQv6OSAfxHSkiklbiWLY3+y25fz4/lUtFABTVjVXZ1GGfG4+uKdRQBWmgnluQyXcsMSgfIiIdxz3LAn24x/hFGx0+zmnvMk7i7tGGkOCeAABnAyBgDtV6igBFYMoYZwRnkYP5UtFFABRRRQAUUUUAFFFFABRRRQAitvQMAQCM4IwaWgAAAAYA6CigAooooAKKKKACiiigAooooAQ5wcEA+4zS0UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/2Q==</Data> </Thumbnail> </Binary> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "79a3dba523f71ab27763019bccb96f1e", 
+    "source_url": "http://encdirect.noaa.gov/arcgis/rest/services/HSD_Web_Services/SURDEX_SurveyTracker_Status/MapServer/info/metadata"
+}

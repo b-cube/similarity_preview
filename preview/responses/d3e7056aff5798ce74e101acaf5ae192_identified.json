@@ -1,0 +1,15 @@
+{
+    "content": "<mws:getOrderStatusResponse xmlns:mws=\"http://modapsws.gsfc.nasa.gov/xsd\"><return>Removed</return></mws:getOrderStatusResponse>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d3e7056aff5798ce74e101acaf5ae192", 
+    "source_url": "http://modwebsrv.modaps.eosdis.nasa.gov/axis2/services/MODAPSservices/getOrderStatus?orderId=500575353"
+}

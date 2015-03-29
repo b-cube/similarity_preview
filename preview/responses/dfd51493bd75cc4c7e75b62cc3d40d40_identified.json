@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <!-- generator=\"FeedCreator 1.7.2-ppt DokuWiki\" --> <?xml-stylesheet href=\"http://www.lofar.org/operations/lib/exe/css.php?s=feed\" type=\"text/css\"?> <rdf:RDF     xmlns=\"http://purl.org/rss/1.0/\"     xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"     xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\"     xmlns:dc=\"http://purl.org/dc/elements/1.1/\">     <channel rdf:about=\"http://www.lofar.org/operations/feed.php\">         <title>LOFAR</title>         <description></description>         <link>http://www.lofar.org/operations/</link>         <image rdf:resource=\"http://www.lofar.org/operations/lib/tpl/monobook/images/favicon.ico\" />        <dc:date>2015-03-19T07:23:25+01:00</dc:date>         <items>             <rdf:Seq>                 <rdf:li rdf:resource=\"http://www.lofar.org/operations/doku.php?id=start&amp;rev=1368622880&amp;do=diff\"/>             </rdf:Seq>         </items>     </channel>     <image rdf:about=\"http://www.lofar.org/operations/lib/tpl/monobook/images/favicon.ico\">         <title>LOFAR</title>         <link>http://www.lofar.org/operations/</link>         <url>http://www.lofar.org/operations/lib/tpl/monobook/images/favicon.ico</url>     </image>     <item rdf:about=\"http://www.lofar.org/operations/doku.php?id=start&amp;rev=1368622880&amp;do=diff\">         <dc:format>text/html</dc:format>         <dc:date>2013-05-15T15:01:20+01:00</dc:date>         <title>start</title>         <link>http://www.lofar.org/operations/doku.php?id=start&amp;rev=1368622880&amp;do=diff</link>         <description>The Wiki registration page has been discovered by bots that can automatically create registration events, despite the anti-spam Captcha options. This led to 100-s of false registrations that flooded our system and mailboxes.   Therefore, we had no option but to disable registration through the Wiki. Users who want access to this Wiki can sent a request by email to the Wiki administration address: ro_wiki at astron dot nl.</description>     </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dfd51493bd75cc4c7e75b62cc3d40d40", 
+    "source_url": "http://www.lofar.org/operations/feed.php?mode=list&ns="
+}

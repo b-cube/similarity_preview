@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0571'>  <front> <title>TENEX FTP PROBLEM</title> <author initials='R.' surname='Braden' fullname='R. Braden'> <organization /></author> <date year='1973' month='November' /></front>  <seriesInfo name='RFC' value='571' /> <format type='TXT' octets='1530' target='http://www.rfc-editor.org/rfc/rfc571.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fa1a49cccf0d07765199e2a572c07cd0", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0571.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:time=\"http://a9.com/-/opensearch/extensions/time/1.0/\" xmlns:geo=\"http://a9.com/-/opensearch/extensions/geo/1.0/\"> <ShortName>MOB02CRT</ShortName> <Description>Use MODAPS Web Services to search for various MODIS related data products</Description> <Tags>modis modaps laads ladsweb terra aqua</Tags> <Contact>modapsuso@sigmaspace.com</Contact> <Url xmlns:mp=\"http://modwebsrv.modaps.eosdis.nasa.gov/opensearchextensions/1.0/\" type=\"text/html\" template=\"http://modwebsrv.modaps.eosdis.nasa.gov/axis2/services/MODAPSservices/getOpenSearch?product=MOB02CRT&amp;collection={mp:collection?}&amp;start={time:start}&amp;end={time:end}&amp;bbox={geo:box}&amp;coordsOrTiles={mp:coordsOrTiles?}&amp;dayNightBoth={mp:dayNightBoth?}\" /> <LongName>Search For Level 1 and Atmosphere Products</LongName> <Query xmlns:mp=\"http://modwebsrv.modaps.eosdis.nasa.gov/opensearchextensions/1.0/\" role=\"example\" mp:products=\"MOB02CRT\" mp:collection=\"5\" time:start=\"2009-09-01\" time:end=\"2009-09-02\" geo:box=\"-100,-70,100,70\" mp:coordsOrTiles=\"coords\" mp:dayNightBoth=\"DNB\" /> <Developer>MODAPS Web Services Development Team</Developer> <Attribution>nasa.gov</Attribution> <SyndicationRight>open</SyndicationRight> <AdultContent>false</AdultContent> <Language>en-us</Language> <OutputEncoding>UTF-8</OutputEncoding> <InputEncoding>UTF-8</InputEncoding> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en-us", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a183aba9257bb2968417484187c06cdb", 
+    "source_url": "http://modwebsrv.modaps.eosdis.nasa.gov/axis2/services/MODAPSservices/getOSDD?product=MOB02CRT"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.03.72'> <front> <title>Call Deflection  stage 2</title> <author><organization>3GPP</organization></author> <date day='08' month='October' year='1999' /> </front>  <seriesInfo name='3GPP TS' value='03.72 7.1.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0372.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "47c4ac55f2dfa1f9269f00983d9f0caa", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.03.72.xml"
+}

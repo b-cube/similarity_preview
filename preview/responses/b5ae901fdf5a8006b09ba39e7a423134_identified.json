@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.X121.1978\"> <front> <title>International Numbering Plan for Public Data Networks</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"\" year=\"1978\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation X.121\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b5ae901fdf5a8006b09ba39e7a423134", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.CCITT.X121.1978.xml"
+}

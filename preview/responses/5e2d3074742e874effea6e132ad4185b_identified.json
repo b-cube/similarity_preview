@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <META xmlns=\"http://www.w3.org/2002/01/P3Pv1\"> <POLICY-REFERENCES>   <EXPIRY date=\"Tue, 01 May 2012 17:47:48 +0000\"/>   <POLICY-REF about=\"/w3c/policies.xml#Privacy\">     <INCLUDE>/*</INCLUDE>     <COOKIE-INCLUDE name=\"*\" value=\"*\" domain=\"*\" path=\"*\"/>   </POLICY-REF> </POLICY-REFERENCES> </META> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5e2d3074742e874effea6e132ad4185b", 
+    "source_url": "http://support.academiccommons.columbia.edu/w3c/p3p.xml"
+}

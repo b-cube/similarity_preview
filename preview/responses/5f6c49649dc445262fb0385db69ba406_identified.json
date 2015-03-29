@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding=\"ISO-8859-1\" ?> <schema    targetNamespace=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ms=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ogc=\"http://www.opengis.net/ogc\"    xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"    xmlns=\"http://www.w3.org/2001/XMLSchema\"    xmlns:gml=\"http://www.opengis.net/gml\"    elementFormDefault=\"qualified\" version=\"0.1\" >    <import namespace=\"http://www.opengis.net/gml\"           schemaLocation=\"http://schemas.opengis.net/gml/3.1.1/base/gml.xsd\" />    <element name=\"nicrpge\"             type=\"ms:nicrpgeType\"             substitutionGroup=\"gml:_Feature\" />    <complexType name=\"nicrpgeType\">     <complexContent>       <extension base=\"gml:AbstractFeatureType\">         <sequence>           <element name=\"geometry\" type=\"gml:PointPropertyType\" minOccurs=\"0\" maxOccurs=\"1\"/>           <element name=\"site_id\" type=\"string\"/>           <element name=\"latitude\" type=\"string\"/>           <element name=\"longitude\" type=\"string\"/>           <element name=\"name\" type=\"string\"/>           <element name=\"class\" type=\"string\"/>           <element name=\"record_tp\" type=\"string\"/>           <element name=\"country\" type=\"string\"/>           <element name=\"state\" type=\"string\"/>           <element name=\"src_rec_no\" type=\"string\"/>           <element name=\"ref\" type=\"string\"/>           <element name=\"ref_short\" type=\"string\"/>           <element name=\"url\" type=\"string\"/>         </sequence>       </extension>     </complexContent>   </complexType>  </schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5f6c49649dc445262fb0385db69ba406", 
+    "source_url": "http://mrdata.usgs.gov/wfs/nicrpge?request=describefeaturetype&service=WFS&version=1.1.0&typename=nicrpge"
+}

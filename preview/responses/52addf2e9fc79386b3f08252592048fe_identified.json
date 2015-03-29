@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0049\">   <front>     <title>Private XML Storage</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <author initials=\"R.\" surname=\"Davis\" fullname=\"Russell Davis\">       <organization/>       <address>         <email>ukscone@burninghorse.com</email>       </address>     </author>     <date day=\"01\" month=\"March\" year=\"2004\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0049\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0049.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "52addf2e9fc79386b3f08252592048fe", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0049.xml"
+}

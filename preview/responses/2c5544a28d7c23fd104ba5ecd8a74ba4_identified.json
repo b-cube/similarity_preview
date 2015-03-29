@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?>  <rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\">   <service>     <engineName>Movable Type 4.3-en</engineName>      <engineLink>http://www.movabletype.org/</engineLink>     <homePageLink>http://alg.umbc.edu/usaq/</homePageLink>     <apis>       <api name=\"MetaWeblog\" preferred=\"true\" apiLink=\"https://alg.umbc.edu/cgi-bin/MT/mt-xmlrpc.cgi\" blogID=\"1\" />       <api name=\"Blogger\" preferred=\"false\" apiLink=\"https://alg.umbc.edu/cgi-bin/MT/mt-xmlrpc.cgi\" blogID=\"1\" />     </apis>   </service> </rsd>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2c5544a28d7c23fd104ba5ecd8a74ba4", 
+    "source_url": "http://alg.umbc.edu/usaq/rsd.xml"
+}

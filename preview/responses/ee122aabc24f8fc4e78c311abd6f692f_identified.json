@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Conservancy2007a </Local-number>  <Author>The Nature Conservancy </Author>  <Title>NOAA GCRF Program Grant- Final Report October 1, 2004-August 31, 2007 </Title>  <Publication-Date><caldate>2007 </caldate></Publication-Date>  <Notes>FY2004 CRCP Project ID 1413; Project Title: General Coral Conservation Grants; Principal Investigator: Andy Bruckner </Notes>  <Abstract>\"The GCRC grant entitled \"Building Capacity for St. Croix East End Marine Park\" outlines several activities that were aimed at increasing local capacity to manage the East End Marine Park (STXEEMP) and assist in the implementation of priority projects as identified in the Park Management Plan developed by The Nature Conservancy in 2002. In order to achieve the goal of increasing local capacity, The Nature Conservancy designed a program working in collaboration with the Division of Coastal Zone Management (CZM) to increase the commitment of local stakeholders in the park's activities. Three major activities were the focus of this grant: 1) implementation of a marine internship program to provide staff support to the STXEEMP office, 2) facilitation of the employment of a local community member as a Park Ranger/ Interpreter for the Park, and 3) development of a Volunteer Support Network for the STXEEMP. A summary of the objectives achieved for each of these activities is illustrated below.\" </Abstract>  <Date-Time-Last-Modified>20130517000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/1413/NA04NMF4630331_Final_Report.pdf </URL>  <project>  <ID>1413 </ID>  <title>General Coral Conservation Grants </title>  <PI>Andy Bruckner </PI>  </project>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>misc </CoRIS-Record-Type>  <Local-subject-index>Grants </Local-subject-index>  <Local-subject-index>misc </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ee122aabc24f8fc4e78c311abd6f692f", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B25862C44-CFAC-43DA-A1C6-2A23A79B4C06%7D"
+}

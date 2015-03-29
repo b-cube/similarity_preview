@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-qa-handbook-20040830'> <front> <title>The QA Handbook</title>  <author initials='L' surname='Henderson' fullname='Lofton Henderson'>     <organization /> </author>  <date month='August' day='30' year='2004' /> </front>  <seriesInfo name='W3C WD' value='WD-qa-handbook-20040830' /> <format type='HTML' target='http://www.w3.org/TR/2004/WD-qa-handbook-20040830' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9b6d5ea22b22f7e6630803a9610ee5b1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-qa-handbook-20040830.xml"
+}

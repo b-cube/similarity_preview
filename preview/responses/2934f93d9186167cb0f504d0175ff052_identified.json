@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"> <ShortName>Search NetCDF</ShortName> <Description>Doxygen Search</Description> <InputEncoding>UTF-8</InputEncoding> <!-- <Image height=\"16\" width=\"16\" type=\"image/x-icon\"> http://dev.squello.com/doc/html/favicon.ico</Image> --> <Url type=\"text/html\" method=\"GET\" template=\"http://www.unidata.ucar.edu/software/netcdf/docs/search.php?query={searchTerms}\" /> <Url type=\"application/x-suggestions+json\" method=\"GET\" template=\"http://www.unidata.ucar.edu/software/netcdf/docs/search_opensearch.php?v=json&amp;query={searchTerms}\" /> <Url type=\"application/x-suggestions+xml\" method=\"GET\" template=\"http://www.unidata.ucar.edu/software/netcdf/docs/search_opensearch.php?v=xml&amp;query={searchTerms}\" /> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2934f93d9186167cb0f504d0175ff052", 
+    "source_url": "http://www.unidata.ucar.edu/software/netcdf/docs/search_opensearch.php?v=opensearch.xml"
+}

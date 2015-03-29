@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>AFSC/ABL: Auke Bay Climatology 1959-present</dc:title>    <dcterms:alternative>AFSC/ABL: Auke Bay Climatology 1959-present</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>Daily records of air temperature, Precipitation, snowfall, stream temperature, lake temperature, surface salinity, water color, water transparency</dc:subject>    <dc:subject>004, Climatology</dc:subject>    <dcterms:abstract>Data set includes available climatological and related physical environmental records for Auke Bay, Auke Creek and Auke Lake beginning in 1959.  Daily high and low air temperatures,  precipitation, snow fall, snow on the ground,  cloud cover, sea surface temperature, surface salinity, Secchi disc depth and water color are taken at the Auke Bay Laboratory.  Daily stream temperatures are taken at the Auke Creek Weir. Three meter depth Auke Lake Temperatures are recorded and the Auke Creek Hatchery in take pipe in the lake.</dcterms:abstract>    <dc:publisher>Alaska Fisheries Science Center</dc:publisher>    <dc:creator>Alaska Fisheries Science Center</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/17284</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/12324</dcterms:isPartOf>    <dcterms:spatial xsi:type=\"dcterms:Box\">                         northlimit=58.383417;                         eastlimit=-134.633417;                         southlimit=58.38065;                         westlimit=-134.646767;                                              name=Auke Bay Laboratory, Auke Creek Weir, and Auke Lake in Juneau, Alaska, USA.;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:Period\">                             start=1959;                             end=2010;                         </dcterms:temporal>    <dcterms:accessRights>There are no legal restrictions on access to data. They reside in public domain and can be freely distributed.</dcterms:accessRights> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e4d4f1e7d759dd164c0f7e5408634dd2", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/17284/dublin-core"
+}

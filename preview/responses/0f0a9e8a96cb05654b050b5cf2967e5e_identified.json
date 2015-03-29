@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>6033</id>   <unit>415.1</unit>   <dept_name>El Pomar Institute for Innovation and Commericialization (EPIIC)</dept_name>   <sub_name>MIND Studios</sub_name>   <main_number>3943</main_number>   <location></location>   <comments>     <comment></comment>   </comments>   <employees>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0f0a9e8a96cb05654b050b5cf2967e5e", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=415.1&type=details_by_unit"
+}

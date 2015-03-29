@@ -1,0 +1,15 @@
+{
+    "content": "<ERROR>Value cannot be null. Parameter name: s</ERROR>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "20f9b57eec59d28304ff6b2deb7b3f17", 
+    "source_url": "http://coast.noaa.gov/dataservices/Training/getOnlineParticipantForm?trainingurl=http:/www.coast.noaa.gov/digitalcoast/_/elearning/canvis/mod1/player.html"
+}

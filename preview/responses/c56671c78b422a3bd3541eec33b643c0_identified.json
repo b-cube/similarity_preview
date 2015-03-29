@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>  <mods xmlns=\"http://www.loc.gov/mods/v3\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd\">    <titleInfo>       <title>Faust (a tragedy)</title>    </titleInfo>    <name type=\"personal\" ID=\"bq2118\">       <namePart type=\"family\">Quick</namePart>       <namePart type=\"given\">Bryan</namePart>       <role>          <roleTerm type=\"text\">author</roleTerm>       </role>       <affiliation>Columbia University. Theatre</affiliation>    </name>    <name type=\"corporate\">       <namePart>Columbia University. Theatre</namePart>       <role>          <roleTerm type=\"text\">originator</roleTerm>       </role>    </name>    <extension xmlns:rioxxterms=\"http://docs.rioxx.net/schema/v1.0/rioxxterms/\" xmlns=\"http://www.loc.gov/mods/v3\" xsi:schemaLocation=\"http://docs.rioxx.net/schema/v1.0/rioxxterms/ http://docs.rioxx.net/schema/v1.0/rioxxterms.xsd\">     </extension>    <typeOfResource>text</typeOfResource>    <genre>Master's theses</genre>    <originInfo>       <dateIssued keyDate=\"yes\">2014</dateIssued>    </originInfo>    <language>       <languageTerm type=\"text\">English</languageTerm>    </language>    <abstract>A modern take on the classic German myth. Drunk and raving, Faust sells his soul to get back the only thing he has ever cared about.</abstract>    <note>M.F.A., Columbia University.</note>    <subject>       <topic>Theater</topic>    </subject>    <identifier type=\"CDRS doi\">http://dx.doi.org/10.7916/D8H1303H</identifier>    <location>       <physicalLocation authority=\"marcorg\">NNC</physicalLocation>    </location>    <recordInfo>       <recordContentSource authority=\"marcorg\">NNC</recordContentSource>       <recordCreationDate>2014-05-12 15:04:05 -0400</recordCreationDate>       <recordChangeDate>2014-05-21 10:36:37 -0400</recordChangeDate>       <recordIdentifier>14428</recordIdentifier>       <languageOfCataloging>          <languageTerm authority=\"iso639-2b\">eng</languageTerm>       </languageOfCataloging>    </recordInfo> </mods> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c56671c78b422a3bd3541eec33b643c0", 
+    "source_url": "http://academiccommons.columbia.edu/download/fedora_content/show_pretty/ac:173789/CONTENT/ac173789_description.xml?data=meta&xml=true"
+}

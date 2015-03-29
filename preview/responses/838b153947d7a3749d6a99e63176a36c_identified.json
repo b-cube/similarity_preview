@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <fi:FIGISDoc xmlns:fi=\"http://www.fao.org/fi/figis/devcon/\" xmlns:ags=\"http://www.purl.org/agmes/1.1/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.fao.org/fi/figis/devcon/ http://www.fao.org/fi/figis/devcon/schema/3_6/topic_v2.xsd\">  <fi:DataEntry>   <fi:Editor>Luca Limongelli</fi:Editor>   <dcterms:Created>2010-02-03</dcterms:Created>   <dcterms:Modified>2014-08-06</dcterms:Modified>  </fi:DataEntry>  <fi:ObjectSource>   <fi:Owner>    <fi:CollectionRef> <fi:FigisID MetaID=\"267000\">7260</fi:FigisID> <dc:Title xml:lang=\"en\">EIFAAC - Web site</dc:Title> <fi:ForeignID Code=\"EIFAAC_WS\" CodeSystem=\"acronym\"/> </fi:CollectionRef>   </fi:Owner>   <fi:CorporateCoverPage> <fi:FigisID MetaID=\"280000\">740</fi:FigisID> <dc:Title xml:lang=\"en\">European Inland Fisheries and Aquaculture Advisory Commission (EIFAAC)</dc:Title> <dc:Title xml:lang=\"fr\">Commission Europ\\ufffd\\ufffdenne Consultative Pour Les P\\ufffd\\ufffdches Et l'aquaculture Dans Les Eaux Int\\ufffd\\ufffdrieures (CECPAI)</dc:Title> <dc:Identifier>EIFAC_WS_CP</dc:Identifier> <dc:Publisher>FAO</dc:Publisher> </fi:CorporateCoverPage>   <fi:CoverPage>    <dcterms:Modified>2014-08-06</dcterms:Modified>   </fi:CoverPage>  </fi:ObjectSource>  <fi:Topic>   <fi:TopicIdent Type=\"Topic\">    <fi:FigisID>18223</fi:FigisID>    <dc:Title>EIFAAC Current Meetings</dc:Title>   </fi:TopicIdent>   <fi:Overview>    <fi:NEMS DisplayRecord=\"all\" Label=\" \" recordtype=\"EVENTS\">     <fi:NEMSEntry Year=\"2013\" body=\"EIFAAC\"/>    </fi:NEMS>   </fi:Overview>   <fi:RelatedResources/>  </fi:Topic> </fi:FIGISDoc> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "838b153947d7a3749d6a99e63176a36c", 
+    "source_url": "http://www.fao.org/fishery/xml/topic/18223/en"
+}

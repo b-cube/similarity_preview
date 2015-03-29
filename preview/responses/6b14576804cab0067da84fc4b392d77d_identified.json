@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/1853/12811\"> <title>Georgia Tech Department of Housing</title> <link>http://hdl.handle.net/1853/12811</link> <description>The Department of Housing offers quality, safe, well-maintained residential facilities.</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/45464\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/45463\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/45462\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/45461\"/> </rdf:Seq> </items> <dc:date>2015-03-15T23:16:02Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/1853/45464\"> <title>Residence Hall Association Newsletter [Volume 1, Issue 4]</title> <link>http://hdl.handle.net/1853/45464</link> <description>Residence Hall Association Newsletter [Volume 1, Issue 4] </description> <dc:date>2012-01-31T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/1853/45463\"> <title>Residence Hall Association Newsletter [Volume 1, Issue 3]</title> <link>http://hdl.handle.net/1853/45463</link> <description>Residence Hall Association Newsletter [Volume 1, Issue 3] </description> <dc:date>2011-12-16T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/1853/45462\"> <title>Residence Hall Association Newsletter [Volume 1, Issue 2]</title> <link>http://hdl.handle.net/1853/45462</link> <description>Residence Hall Association Newsletter [Volume 1, Issue 2] </description> <dc:date>2011-11-18T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/1853/45461\"> <title>Residence Hall Association Newsletter [Volume 1, Issue 1]</title> <link>http://hdl.handle.net/1853/45461</link> <description>Residence Hall Association Newsletter [Volume 1, Issue 1] </description> <dc:date>2011-10-14T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6b14576804cab0067da84fc4b392d77d", 
+    "source_url": "https://smartech.gatech.edu/feed/rss_1.0/1853/12811"
+}

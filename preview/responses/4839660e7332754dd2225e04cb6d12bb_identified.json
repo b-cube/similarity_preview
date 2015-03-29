@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr03337</identifier><identifier type=\"pwpk\">51316</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2003-337</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>An overview of coastal land loss with emphasis on the southeastern United States</title></titleInfo><originInfo><dateOther>Mon, 1 Sep 2003 00:00 -0500</dateOther><dateIssued>2003</dateIssued></originInfo><name><namePart>Morton, Robert A.</namePart><role>Author</role></name><abstract>This report represents a general overview of the primary causes and consequences of coastal land loss. Most of the examples and references are from states bordering the Gulf of Mexico and the Atlantic Ocean where the largest magnitudes and highest rates of coastal land losses in the United States are recorded (Dahl, 2000). The report serves as an introductory guide to the topics and literature on coastal land loss, and acts as a link to ongoing research being conducted by the U.S. Geological Survey.</abstract><physicalDescription><form>29 p.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/usgs_thumb.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/2003/of03-337/pdf.html</url><url displayLabel=\"html\" note=\"PROJECT SITE\">http://coastal.er.usgs.gov/shoreline-change/</url></location><note type=\"citation/reference\">An overview of coastal land loss with emphasis on the southeastern United States; 2003; OFR; 2003-337; Open-File Report; Morton, Robert A.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4839660e7332754dd2225e04cb6d12bb", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr03337"
+}

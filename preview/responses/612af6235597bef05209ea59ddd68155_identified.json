@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Roetmann, Karsten</author>           <author>J\\ufffd\\ufffdhne, Bernd</author>           <author>Garbe, Christoph</author>         </authors>       </contributors>       <titles>         <title>An optical flow based technique for the non-invasive measurement of microfluidic flows</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.14846</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>flow visualization</keyword>         <keyword>microfluidic</keyword>         <keyword>Taylor dispersion</keyword>       </keywords>       <dates>         <year>2006</year>         <pub-dates>           <date>2006-09-10</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;A new approach for estimating motion in microfluidic flows is presented. Is is based on an extension of the brightness changes constraint equation (BCCE) to incorporate Taylor dispersion. This extended BCCE is then used for accurately estimating fluid flows in a two dimensional Molecular Tagging Velocimetry (2D-MTV) framework. Reference measurements were conducted to validate the accuracy and applicability of the novel technique. Due to the excellent agreement between measurement and ground truth, the method was also applied to inhomogeneous flows in a mixing chamber.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "612af6235597bef05209ea59ddd68155", 
+    "source_url": "https://zenodo.org/record/14846/export/xe"
+}

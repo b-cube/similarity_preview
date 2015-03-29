@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Search OpenSHA</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">/shared/opensha.ico</Image>   <Url type=\"text/html\" template=\"http://www.opensha.org/trac/search?q={searchTerms}&amp;page={startPage}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b0c6bf5ce04eca2e5e9f1f948df262db", 
+    "source_url": "http://www.opensha.org/trac/search/opensearch"
+}

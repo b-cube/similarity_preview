@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <species  status='valid'      totalpics='0'       total_adult='0'       total_stamps='0'       total_diseases='0'       total_larvae='0'       link='http://www.fishbase.us/photos/ThumbnailsSummary.php?id=47787'    >     <speccode>47787</speccode>     <genus>Nannoglanis</genus>     <speciesfb>fasciatus</speciesfb>    </species>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "07eb0bd50bcdfcc120d1016e5ae86289", 
+    "source_url": "http://www.fishbase.org/webservice/Photos/FishPicsList.php?Genus=Nannoglanis&Species=fasciatus&type="
+}

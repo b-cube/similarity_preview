@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>DSpace UK &amp; Ireland User Group </title> <link href=\"http://hdl.handle.net/2160/313\" rel=\"alternate\"/> <subtitle>Items from the DSpace UK &amp; Ireland User Group</subtitle> <id>http://hdl.handle.net/2160/313</id> <updated>2015-03-19T06:20:30Z</updated> <dc:date>2015-03-19T06:20:30Z</dc:date> <entry> <title>The Repository Support Project: DSpace support</title> <link href=\"http://hdl.handle.net/2160/320\" rel=\"alternate\"/> <author> <name>Yates, Chris</name> </author> <id>http://hdl.handle.net/2160/320</id> <updated>2014-10-22T11:36:16Z</updated> <published>2007-07-11T15:11:55Z</published> <summary type=\"text\">The Repository Support Project: DSpace support Yates, Chris Chris Yate's, Technical Repository Officer for the RSP presents the RSP and the DSpace support element. </summary> <dc:date>2007-07-11T15:11:55Z</dc:date> </entry> <entry> <title>Brunel University Research Archive: Mandate and RAE. An update</title> <link href=\"http://hdl.handle.net/2160/319\" rel=\"alternate\"/> <author> <name>Murtagh, John</name> </author> <id>http://hdl.handle.net/2160/319</id> <updated>2014-10-22T11:36:16Z</updated> <published>2007-07-11T15:07:01Z</published> <summary type=\"text\">Brunel University Research Archive: Mandate and RAE. An update Murtagh, John Brunel University's Repository Manager John Murtagh gives an update on their repository, how it is used to support the RAE, and a mandate they have issued. </summary> <dc:date>2007-07-11T15:07:01Z</dc:date> </entry> <entry> <title>Open Repository, Open Source</title> <link href=\"http://hdl.handle.net/2160/318\" rel=\"alternate\"/> <author> <name>Triggs, Graham</name> </author> <id>http://hdl.handle.net/2160/318</id> <updated>2007-07-12T01:00:26Z</updated> <published>2007-07-11T14:57:51Z</published> <summary type=\"text\">Open Repository, Open Source Triggs, Graham A presentation by Graham Triggs of BioMed Central's 'Open Repository' team about their work and contribution to DSpace. </summary> <dc:date>2007-07-11T14:57:51Z</dc:date> </entry> <entry> <title>Persistent identification and storage abstraction in DSpace</title> <link href=\"http://hdl.handle.net/2160/317\" rel=\"alternate\"/> <author> <name>Rutherford, James</name> </author> <id>http://hdl.handle.net/2160/317</id> <updated>2007-07-12T01:00:26Z</updated> <published>2007-07-11T14:38:22Z</published> <summary type=\"text\">Persistent identification and storage abstraction in DSpace Rutherford, James A presentation by James Rutherford of HP Labs exploring the issues of identification and storage abstraction in DSpace. </summary> <dc:date>2007-07-11T14:38:22Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ee15000f2c9350e6a029794938bb9fa3", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/313"
+}

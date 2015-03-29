@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?>  <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">    <ShortName>VIAF</ShortName>    <LongName>VIAF: The Virtual International Authority File</LongName>    <Description>The union of many international name authority files.  See http://viaf.org for more information.</Description>          <Tags>international name authority</Tags>    <Contact>levan@oclc.org</Contact>    <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://viaf.org/favicon.ico</Image>    <Url type=\"application/rss+xml\"         template=\"http://viaf.org/viaf/search?query=cql.any+all+%22{searchTerms}%22+&amp;maximumRecords=100&amp;startRecord={startIndex}&amp;sortKeys=holdingscount&amp;http:accept=application/rss%2bxml\"/>    <Query role=\"example\" searchTerms=\"dempsey\"/>    <Developer>OCLC Research</Developer>    <Attribution>      OCLC Research and the partner VIAF institutions      </Attribution>    <SyndicationRight>open</SyndicationRight>    <AdultContent>false</AdultContent>    <OutputEncoding>UTF-8</OutputEncoding>    <InputEncoding>UTF-8</InputEncoding>  </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "670e70e05719fdedec7bddc74aa9b523", 
+    "source_url": "http://viaf.org/allFieldsSearch.xml"
+}

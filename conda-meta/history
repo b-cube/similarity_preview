@@ -1,0 +1,21 @@
+==> 2015-03-27 00:46:50 <==
+# cmd: //anaconda/bin/conda create -p /Users/sscott/Documents/projects/bcube-semantics/similarity_preview python=2
+==> 2015-03-27 00:46:57 <==
+# cmd: //anaconda/bin/conda create -p /Users/sscott/Documents/projects/bcube-semantics/similarity_preview python=2
++openssl-1.0.1k-1
++python-2.7.9-1
++readline-6.2-2
++sqlite-3.8.4.1-1
++tk-8.5.18-0
++zlib-1.2.8-0
+# create specs: ['python 2*']
+==> 2015-03-27 00:47:59 <==
+# cmd: //anaconda/bin/conda install -p /Users/sscott/Documents/projects/bcube-semantics/similarity_preview flask sqlalchemy
++flask-0.10.1-py27_1
++itsdangerous-0.24-py27_0
++jinja2-2.7.3-py27_1
++markupsafe-0.23-py27_0
++setuptools-14.3-py27_0
++sqlalchemy-0.9.9-py27_0
++werkzeug-0.10.1-py27_0
+# install specs: ['flask', 'sqlalchemy', 'python 2.7*']

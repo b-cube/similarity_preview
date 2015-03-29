@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <xsd:schema targetNamespace=\"http://hes.lbl.gov/scoring_tool/calculate\" elementFormDefault=\"qualified\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:tns=\"http://hes.lbl.gov/scoring_tool/calculate\">     <xsd:element name=\"retrieveLabelInputs\">  <xsd:complexType>      <xsd:sequence>   <xsd:element name=\"client_guid\" type=\"xsd:string\"/>   <xsd:element ref=\"tns:session_id\"/>      </xsd:sequence>  </xsd:complexType>     </xsd:element> </xsd:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "537b37620e182bbcf9556604d3708740", 
+    "source_url": "http://tool-sb-api.hescloud.net/public/xsd/calculate/input/retrieveLabelInputs.xsd"
+}

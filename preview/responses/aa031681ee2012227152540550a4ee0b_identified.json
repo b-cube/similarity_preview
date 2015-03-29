@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/1853/10745\"> <title>RFTCW04. Session IV</title> <link>http://hdl.handle.net/1853/10745</link> <description>May 10, 2004;  3:30-5:30</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/10818\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/10817\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/10816\"/> </rdf:Seq> </items> <dc:date>2015-03-12T19:47:00Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/1853/10818\"> <title>Challenges of FTNIR for Recycling of Fibrous Textile and Carpet Waste Industries</title> <link>http://hdl.handle.net/1853/10818</link> <description>Challenges of FTNIR for Recycling of Fibrous Textile and Carpet Waste Industries Martin, Douglas L.; Wang, Qian; Klevisha, Dan </description> <dc:date>2004-05-10T00:00:00Z</dc:date> <dc:creator>Martin, Douglas L.</dc:creator> <dc:creator>Wang, Qian</dc:creator> <dc:creator>Klevisha, Dan</dc:creator> </item> <item rdf:about=\"http://hdl.handle.net/1853/10817\"> <title>Plastics Recycling and Integrated Waste Management</title> <link>http://hdl.handle.net/1853/10817</link> <description>Plastics Recycling and Integrated Waste Management Verma, Sushil </description> <dc:date>2004-05-10T00:00:00Z</dc:date> <dc:creator>Verma, Sushil</dc:creator> </item> <item rdf:about=\"http://hdl.handle.net/1853/10816\"> <title>Sustainable Practices in the Commercial Carpet Industry</title> <link>http://hdl.handle.net/1853/10816</link> <description>Sustainable Practices in the Commercial Carpet Industry Rusinko, Cathy </description> <dc:date>2004-05-10T00:00:00Z</dc:date> <dc:creator>Rusinko, Cathy</dc:creator> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aa031681ee2012227152540550a4ee0b", 
+    "source_url": "https://smartech.gatech.edu/feed/rss_1.0/1853/10745"
+}

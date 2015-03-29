@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>lco.edu</ShortName>   <Description>Lac Courte Oreilles Ojibwa Community College</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.lco.edu/templates/it_university/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.lco.edu/component/search/?format=opensearch\"/>   <Url type=\"text/html\" template=\"http://www.lco.edu/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9a577aaed2e80b289533d9e3f239924a", 
+    "source_url": "http://www.lco.edu/component/search/?format=opensearch"
+}

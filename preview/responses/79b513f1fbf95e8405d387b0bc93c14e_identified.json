@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <xs:schema xmlns:xs=\"http://www.w3.org/2001/XMLSchema\"            targetNamespace=\"http://www.example.com/xmlns/myml\"            xmlns:xhtml=\"http://www.w3.org/1999/xhtml\"            xmlns=\"http://www.example.com/xmlns/myml\">    <xs:annotation>     <xs:documentation>       This is XML Schema template for MLML module       $Id: myml-module-1.xsd,v 1.2 2008/10/08 20:27:31 smccarro Exp $     </xs:documentation>     <xs:documentation source=\"http://www.w3.org/MarkUp/SCHEMA/xhtml-copyright-1.xsd\"/>   </xs:annotation>    <xs:annotation>     <xs:documentation>       My Elements Module         + myelement         + myotherelement         This module has no purpose other than to provide structure for some        PCDATA content.     </xs:documentation>   </xs:annotation>    <xs:import namespace=\"http://www.w3.org/1999/xhtml\"/>    <xs:attributeGroup name=\"myml.myotherelement.attlist\">        <xs:attributeGroup ref=\"xhtml:xhtml.Global.common.attrib\"/>   </xs:attributeGroup>    <xs:group name=\"myml.myotherelement.content\">     <xs:sequence/>   </xs:group>    <xs:complexType name=\"myml.myotherelement.type\">     <xs:group ref=\"myml.myotherelement.content\"/>     <xs:attributeGroup ref=\"myml.myotherelement.attlist\"/>   </xs:complexType>    <xs:element name=\"myotherelement\" type=\"myml.myotherelement.type\"/>    <xs:group name=\"myml.myelement.content\">     <xs:choice>        <xs:element ref=\"myotherelement\"/>     </xs:choice>   </xs:group>    <xs:attributeGroup name=\"myelement.attlist\">        <xs:attribute name=\"myattribute\" type=\"xs:string\"/>        <xs:attributeGroup ref=\"xhtml:Global.common.attrib\"/>   </xs:attributeGroup>    <xs:complexType name=\"myml.myelement.type\" mixed=\"true\">      <xs:choice>         <xs:group ref=\"myml.myelement.content\" minOccurs=\"0\" maxOccurs=\"1\"/>      </xs:choice>      <xs:attributeGroup ref=\"myml.myelement.attlist\"/>   </xs:complexType>    <xs:element name=\"myelement\" type=\"myml.myelement.type\"/>    <!-- Note: Global attribute -->   <xs:attribute name=\"myattr\" type=\"xs:string\"/>  </xs:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "79b513f1fbf95e8405d387b0bc93c14e", 
+    "source_url": "http://www.w3.org/MarkUp/SCHEMA/examples/myml-module-1.xsd"
+}

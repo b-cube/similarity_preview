@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/chartplanner/alaska_ports_of_entry/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/chartplanner/arctic_ocean/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/chartplanner/enc_footprints/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/chartplanner/rasidx/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c194ad34be18cb5e8ed442bb8e493ff9", 
+    "source_url": "http://encdirect.noaa.gov/arcgis/rest/services/chartplanner?f=geositemap"
+}

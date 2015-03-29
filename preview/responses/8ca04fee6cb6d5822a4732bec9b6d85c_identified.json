@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"          xmlns:digest=\"http://www.wizards-toolkit.org/digest/1.0/\">   <digest:Content rdf:about=\"iOSMagick-6.8.8-9-libs.zip\">     <digest:timestamp>2014-09-14T20:00:49-04:00</digest:timestamp>     <digest:modify-date>2014-06-14T23:28:10-04:00</digest:modify-date>     <digest:create-date>2014-06-14T23:28:10-04:00</digest:create-date>     <digest:extent>29973782</digest:extent>     <digest:sha256>64cb64ba26acbb78cb5c8c1262c836ab3f5144712b87613e9d06676baddb3624</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"iOSMagick-6.8.8-9.zip\">     <digest:timestamp>2014-09-14T20:00:49-04:00</digest:timestamp>     <digest:modify-date>2014-06-14T23:28:54-04:00</digest:modify-date>     <digest:create-date>2014-06-14T23:28:54-04:00</digest:create-date>     <digest:extent>27746542</digest:extent>     <digest:sha256>f20cf93b0cb68455e6035695bced14ac5b22b0f47f0865fd998feb294c563582</digest:sha256>   </digest:Content> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8ca04fee6cb6d5822a4732bec9b6d85c", 
+    "source_url": "http://www.imagemagick.org/download/iOS/digest.rdf"
+}

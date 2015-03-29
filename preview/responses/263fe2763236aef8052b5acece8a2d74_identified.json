@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"       xmlns:scast=\"http://sciflo.jpl.nasa.gov/serviceCasting/2009v1\">       <title>Subset Agent - Get Data Services</title>       <subtitle>General URL-based Web services from NSIDC</subtitle>       <link rel=\"self\" href=\"http://nsidc.org/feeds/services/subsetAgent_getData_feed.xml\"/>       <updated>2010-09-01T08:17:03.721649Z</updated>       <author>             <name>Timy Gonzalez</name>             <email>nsidc@nsidc.org</email>       </author>       <id>uri:http://nsidc.org/feeds/services/subsetAgent_getData_feed.xml</id>        <entry>             <title>Subset Agent / Get Data Services</title>             <id>uri:http://nsidc.org/api/get_data/index.html</id>             <updated>2011-01-28T17:17:03.721649Z</updated>             <summary>The SubsetAgent/GetData API provides a simple way to search and access NSIDC's data holdings that are hosted through Searchlight.\\ufffd\\ufffd  It allows for the search and customization (subsetting, reprojection, and reformatting) of NSIDC data with immediate downloads. Currently it only supports 13 data sets.</summary>             <scast:serviceType>Simple/HTTP</scast:serviceType>             <!-- Possible service types are: SOAP, REST, OGC.WXS, OpenSearch, GUI, or [yours].  -->             <category schema=\"scast\"                   term=\"data PIC badge share web services restful license polar commons API subset agent\"/>    <link type=\"text/html ; charset=utf-8\" title=\"Service documentation\"                   href=\"http://nsidc.org/api/get_data/index.html\"/>             <link rel=\"scast:serviceEndpoint\" type=\"application/XML\" title=\"Server endpoint\"                   href=\"http://nsidc.org/api/get_data/index.html\"/>             <link rel=\"scast:serviceDocumentation\" type=\"text/html\" xml:lang=\"en-us\"                   title=\"Service documentation\" href=\"http://nsidc.org/api/get_data/index.html\"/>             <link rel=\"alternate\" type=\"text/html\" xml:lang=\"en-us\" title=\"Service documentation\"                   href=\"http://nsidc.org/api/get_data/index.html\"/>             <content type=\"xhtml\"> </content> </entry>          </feed>    ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "263fe2763236aef8052b5acece8a2d74", 
+    "source_url": "http://nsidc.org/feeds/services/subsetAgent_getData_feed.xml"
+}

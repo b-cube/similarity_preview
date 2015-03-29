@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?> <rdf:RDF      xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"      xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"      xmlns:dc=\"http://purl.org/dc/elements/1.1/\"      xmlns:dcq=\"http://dublincore.org/2000/03/13/dcq#\"      xmlns:lom=\"http://www.imsproject.org/rdf/imsmd_rootv1p2#\"      xmlns:lom_meta=\"http://www.imsproject.org/rdf/imsmd_metametadatav1p2#\">    <rdfs:Class rdf:ID=\"MetadataScheme\">     <rdfs:label>Meta-data schemes</rdfs:label>     <rdfs:comment>Instances of this class represent meta-data schemes.</rdfs:comment>   </rdfs:Class>    <lom_meta:MetadataScheme rdf:ID=\"LOMv1.0\">     <rdfs:label>LOMv1.0</rdfs:label>     <rdfs:comment>IEEE Learning Object Metadata</rdfs:comment>   </lom_meta:MetadataScheme>    <lom_meta:MetadataScheme rdf:ID=\"ARIADNEv3\">     <rdfs:label>ARIADNEv3</rdfs:label>     <rdfs:comment>ARIADNE Metadata</rdfs:comment>   </lom_meta:MetadataScheme>    <lom_meta:MetadataScheme rdf:ID=\"IMSMD_1.2\">     <rdfs:label>IMSMD_1.2</rdfs:label>     <rdfs:comment>IMS Metadata</rdfs:comment>   </lom_meta:MetadataScheme>    <rdf:Property rdf:ID=\"metadatascheme\">     <rdfs:range rdf:resource=\"#MetadataScheme\"/>     <rdfs:label>Meta-data scheme</rdfs:label>     <rdfs:comment>The meta-data scheme used by the document.</rdfs:comment>   </rdf:Property>  </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "570a5686362dd7bad55b45c5c30f0225", 
+    "source_url": "http://www.imsglobal.org/rdf/imsmd_metametadatav1p2.xml"
+}

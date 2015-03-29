@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-css-print-20040225'            target='http://www.w3.org/TR/2004/CR-css-print-20040225'> <front> <title>CSS Print Profile</title>  <author initials='J.' surname='Bigelow' fullname='Jim Bigelow'>     <organization /> </author>  <date month='February' day='25' year='2004' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-css-print-20040225' /> <format type='HTML' target='http://www.w3.org/TR/2004/CR-css-print-20040225' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "95ab74caedcb1b25cc24c1a89a25ffe8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.CR-css-print-20040225.xml"
+}

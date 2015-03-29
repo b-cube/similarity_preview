@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.klyne-urn-ietf-lang\"> <front> <title>A URN sub-namespace for language tags</title>  <author initials=\"G\" surname=\"Klyne\" fullname=\"Graham Klyne\">     <organization /> </author>  <date month=\"November\" day=\"6\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-klyne-urn-ietf-lang-01\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d4302748aa921346c336701eed22042a", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.klyne-urn-ietf-lang.xml"
+}

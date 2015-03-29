@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/\"> <dc:title>Dublin Core Metadata Initiative (DCMI) Home Page</dc:title> <dc:description>The Dublin Core Metadata Initiative is an open forum engaged in metadata innovation and support the development of interoperable online metadata standards that support a broad range of purposes and business models. DCMI's activities include consensus-driven working groups, global conferences and workshops, standards liaison, and educational efforts to promote widespread acceptance of metadata standards and practices.</dc:description> <dc:date>2015-03-16</dc:date> <dc:format>text/html</dc:format> <dc:language>en</dc:language> <dc:contributor>Dublin Core Metadata Initiative</dc:contributor> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b64f16c8d165c019fbed1e576e0f7fb4", 
+    "source_url": "http://dublincore.org/index.shtml.rdf"
+}

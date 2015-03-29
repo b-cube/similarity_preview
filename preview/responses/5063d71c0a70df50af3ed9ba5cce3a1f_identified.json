@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <ShortName>www.vafweb.wildapricot.org</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Url type=\"text/html\" method=\"get\" template=\"http://www.vafweb.wildapricot.org/sys/search?q={searchTerms}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5063d71c0a70df50af3ed9ba5cce3a1f", 
+    "source_url": "http://www.vafweb.wildapricot.org/opensearch.ashx"
+}

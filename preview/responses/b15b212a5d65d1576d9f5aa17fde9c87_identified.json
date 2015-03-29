@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.01.61'> <front> <title>General Packet Radio Service (GPRS); GPRS ciphering algorithm requirements</title> <author><organization>3GPP</organization></author> <date day='20' month='March' year='1998' /> </front>  <seriesInfo name='3GPP TS' value='01.61 6.0.1' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0161.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b15b212a5d65d1576d9f5aa17fde9c87", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.01.61.xml"
+}

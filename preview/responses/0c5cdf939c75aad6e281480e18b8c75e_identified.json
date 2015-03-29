@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.48.014'> <front> <title>General Packet Radio Service (GPRS); Base Station System (BSS) - Serving GPRS Support Node (SGSN) interface; Gb interface Layer 1</title> <author><organization>3GPP</organization></author> <date day='01' month='April' year='2011' /> </front>  <seriesInfo name='3GPP TS' value='48.014 10.0.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/48014.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0c5cdf939c75aad6e281480e18b8c75e", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.48.014.xml"
+}

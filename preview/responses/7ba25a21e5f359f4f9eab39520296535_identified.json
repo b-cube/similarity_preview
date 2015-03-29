@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/documents/singapore-framework/\"> <dc:title>The Singapore Framework for Dublin Core Application Profiles</dc:title> <dc:creator>Nilsson, Mikael</dc:creator> <dc:creator>Baker, Thomas</dc:creator> <dc:creator>Johnston, Pete</dc:creator> <dc:publisher>Dublin Core Metadata Initiative</dc:publisher> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7ba25a21e5f359f4f9eab39520296535", 
+    "source_url": "http://dublincore.org/documents/singapore-framework/index.shtml.rdf"
+}

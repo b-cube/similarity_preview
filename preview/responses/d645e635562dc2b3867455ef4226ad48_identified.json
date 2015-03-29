@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description about=\"http://dublincore.org/documents/dc-dsp/\"> <dc:title>Description Set Profiles: A constraint language for Dublin Core Application Profiles</dc:title> <dc:creator>DCMI Ltd.</dc:creator> <dc:creator>FOAF Project</dc:creator> <dc:description>This specification describes an information model and XML expression of a &quot;Description Set Profile&quot; (DSP). A DSP describes structural constraints on a description set, allowing for formal expression of the constraints of a Dublin Core Application Profile.</dc:description> <dc:date>2008-03-31</dc:date> <dc:format>text/html</dc:format> <dc:language>en</dc:language> <dc:publisher>Dublin Core Metadata Initiative</dc:publisher> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d645e635562dc2b3867455ef4226ad48", 
+    "source_url": "http://dublincore.org/documents/dcmi-foaf/index.shtml.rdf"
+}

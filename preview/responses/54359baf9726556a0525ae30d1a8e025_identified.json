@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?> <reference anchor=\"W3C.xmldsig-core\" target=\"http://www.w3.org/TR/xmldsig-core/\">   <front>     <title>XML-Signature Syntax and Processing</title>     <author initials=\"D.\" surname=\"Eastlake\" fullname=\"Donald Eastlake\">       <organization>Motorola</organization>       <address>         <email>dee3@torque.pothole.com</email>       </address>     </author>     <author initials=\"J.\" surname=\"Reagle \" fullname=\"Joseph Reagle \">       <organization>W3C</organization>       <address>         <email>reagle@w3.org</email>       </address>     </author>     <author initials=\"D.\" surname=\"Solo\" fullname=\"David Solo\">       <organization>Citigroup</organization>       <address>         <email>dsolo@alum.mit.edu</email>       </address>     </author>     <date day=\"6\" month=\"October\" year=\"2000\"/>   </front>   <seriesInfo value=\"xmldsig-core\" name=\"W3C Recommendation\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "54359baf9726556a0525ae30d1a8e025", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.W3C.xmldsig-core.xml"
+}

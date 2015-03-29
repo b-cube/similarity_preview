@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Chamberlain, Rebecca</author>           <author>McManus, I Chris</author>           <author>Brunswick, Nicola</author>           <author>Kanai, Ryota</author>         </authors>       </contributors>       <titles>         <title>Drawing on the right side of the brain: A voxel-based morphometry study of individual differences in drawing and local processing ability</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.7690</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>Voxel-based morphometry, drawing, local processing, cerebellum</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-01-22</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;The relationship between individual differences in brain structure and expert abilities has been demonstrated in a number of domains including visual perception, spatial navigation, complex motor skills and musical ability. However research into neural differences associated with skill in visual art is scarce. The aim of this study was to investigate whether there would be any differences in brain structure in relation to increasing representational drawing skill in a diverse group of training artists. The relationship between brain structure and drawing skill was then examined in relation to local perceptual processing abilities in order to explore existing behavioral evidence that local processing facilitates drawing ability (Drake &amp;amp; Winner, 2011; Chamberlain et al, 2013). A cohort of graduate and post-graduate art students and non-art students completed drawing tasks, the embedded figures task and the block design task. Scores on these tasks were then correlated with the regional grey and white matter volume in cortical and subcortical structures. An increase in grey matter density in the cerebellum was observed in relation to observational drawing ability which was independent of artistic training, suggesting an enhancement of fine motor control and procedural memory. Furthermore, overlap in medial frontal regions associated with performance on local processing tasks and drawing suggest that drawing may be facilitated by the suppression of bias toward global perceptual processing in action selection. The findings corroborate small-scale fMRI studies of online drawing and provide insights into the properties of the developing artistic brain.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "442c9647dba20eb524227dd3d1c6cbcb", 
+    "source_url": "https://zenodo.org/record/7690/export/xe"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <rdf:RDF xmlns=\"http://usefulinc.com/ns/doap#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"><Project><name>lzmaffi</name> <shortdesc>Port of Python 3.3's 'lzma' module for XZ/LZMA compressed files to cffi.</shortdesc> <description>This is a port of the 'lzma' module included in Python 3.3 or later by Nadeem Vawda and Per Oyvind Karlsen, which provides a Python wrapper for XZ Utils (aka LZMA Utils v2) by Igor Pavlov.  Unlike backports.lzma which is a straight backport, this version uses cffi which means it runs on PyPy without having to use the (very slow) CPyExt. It also runs perfectly well on CPython 2.6, 2.7 or 3.  To use, either `import lzmaffi as lzma', or add this at the beginning of your script:  import lzmaffi.compat lzmaffi.compat.register()  Then `import lzma' as usual.  In order to compile this, you will need to install XZ Utils from http://tukaani.org/xz/</description> <homepage rdf:resource=\"https://github.com/r3m0t/backports.lzma\" /> <maintainer><foaf:Person><foaf:name>Tomer Chachamu, based on work by Peter Cock</foaf:name> <foaf:mbox_sha1sum>0be0338d23966a45608b5c66ea98ebb419920078</foaf:mbox_sha1sum></foaf:Person></maintainer> <release><Version><revision>0.2.1</revision></Version></release> </Project></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a94b99ee3d4a3334f2aefd01cdb7d424", 
+    "source_url": "https://pypi.python.org/pypi?:action=doap&name=lzmaffi&version=0.2.1"
+}

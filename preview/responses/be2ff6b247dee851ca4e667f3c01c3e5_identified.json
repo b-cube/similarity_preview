@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-zoning-for-farmers-markets\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-zoning-for-farmers-markets</id><updated>2015-03-15T13:20:14Z</updated><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-farmers-markets</title><link href=\"/revision/27158cc7-c0f0-4722-bdc8-142a94a48d3b\" rel=\"alternate\"></link><updated>2015-03-15T13:20:14Z</updated><published>2015-03-15T13:20:14Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/27158cc7-c0f0-4722-bdc8-142a94a48d3b</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-farmers-markets</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-farmers-markets</title><link href=\"/revision/5ca390fd-0b14-4b39-85d0-88b49d888d65\" rel=\"alternate\"></link><updated>2015-03-15T13:20:01Z</updated><published>2015-03-15T13:20:01Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/5ca390fd-0b14-4b39-85d0-88b49d888d65</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-farmers-markets</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-farmers-markets</title><link href=\"/revision/2801c6b6-7252-4b11-9ac2-ceb48d958706\" rel=\"alternate\"></link><updated>2015-03-08T13:39:58Z</updated><published>2015-03-08T13:39:58Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/2801c6b6-7252-4b11-9ac2-ceb48d958706</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-farmers-markets</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-farmers-markets</title><link href=\"/revision/73b895d9-6cf4-4a52-92ff-ec00a81f08a3\" rel=\"alternate\"></link><updated>2015-03-08T13:39:50Z</updated><published>2015-03-08T13:39:50Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/73b895d9-6cf4-4a52-92ff-ec00a81f08a3</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-farmers-markets</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "be2ff6b247dee851ca4e667f3c01c3e5", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-zoning-for-farmers-markets?days=14&format=atom"
+}

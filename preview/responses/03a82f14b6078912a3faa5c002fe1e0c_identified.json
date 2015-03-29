@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Drupal API</ShortName>   <Description>Drupal API documentation</Description>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">https://api.drupal.org/misc/favicon.ico</Image>   <Url type=\"text/html\" rel=\"results\" method=\"GET\" template=\"https://api.drupal.org/apis/{searchTerms}\" />   <Url type=\"application/x-suggestions+json\" rel=\"suggestions\" template=\"https://api.drupal.org/api/suggest/{searchTerms}\"/>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"https://api.drupal.org/api/opensearch\" /> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "03a82f14b6078912a3faa5c002fe1e0c", 
+    "source_url": "https://api.drupal.org/api/opensearch"
+}

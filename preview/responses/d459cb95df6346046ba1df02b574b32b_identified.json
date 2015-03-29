@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0083'>  <front> <title>Language-machine for data reconfiguration</title> <author initials='R.H.' surname='Anderson' fullname='R.H. Anderson'> <organization /></author> <author initials='E.' surname='Harslem' fullname='E. Harslem'> <organization /></author> <author initials='J.F.' surname='Heafner' fullname='J.F. Heafner'> <organization /></author> <date year='1970' month='December' /></front>  <seriesInfo name='RFC' value='83' /> <format type='TXT' octets='22253' target='http://www.rfc-editor.org/rfc/rfc83.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d459cb95df6346046ba1df02b574b32b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-rfcs/reference.RFC.0083.xml"
+}

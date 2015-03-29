@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.46.051'> <front> <title>Enhanced Full Rate (EFR) speech processing functions; General description</title> <author><organization>3GPP</organization></author> <date day='05' month='April' year='2011' /> </front>  <seriesInfo name='3GPP TS' value='46.051 10.0.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/46051.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c6293700e1d8c38e62976dbca6949573", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.46.051.xml"
+}

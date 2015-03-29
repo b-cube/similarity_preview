@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.case-sming-smiv3\"> <front> <title>Structure of Management Information NG based on SMIv2</title>  <author initials=\"J\" surname=\"Case\" fullname=\"Jeffrey Case\">     <organization /> </author>  <date month=\"November\" day=\"21\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-case-sming-smiv3-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a9c9e553ab8ebc11001d547da4e83123", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.case-sming-smiv3.xml"
+}

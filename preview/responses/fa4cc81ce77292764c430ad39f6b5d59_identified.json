@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <species  status='valid'      totalpics='3'       total_adult='3'       total_stamps='0'       total_diseases='0'       total_larvae='0'       link='http://www.fishbase.us/photos/ThumbnailsSummary.php?id=8940'    >     <speccode>8940</speccode>     <genus>Pristis</genus>     <speciesfb>pristis</speciesfb>    </species>    <pictures type='adult'>    <picname link='http://www.fishbase.org/photos/PicturesSummary.cfm?ID=8940&amp;what=species'>Prpri_u1.gif</picname>    <actual>http://www.fishbase.org/images/species/Prpri_u1.gif</actual>    <thumbnail>http://www.fishbase.org/images/thumbnails/gif/tn_Prpri_u1.gif</thumbnail>   <author link='http://www.fishbase.org/Collaborators/CollaboratorSummary.cfm?ID=823'>FAO</author>   </pictures>    <pictures type='adult'>    <picname link='http://www.fishbase.org/photos/PicturesSummary.cfm?StartRow=1&amp;ID=8940&amp;what=species'>Prpri_u0.gif</picname>    <actual>http://www.fishbase.org/images/species/Prpri_u0.gif</actual>    <thumbnail>http://www.fishbase.org/images/thumbnails/gif/tn_Prpri_u0.gif</thumbnail>   <author link='http://www.fishbase.org/Collaborators/CollaboratorSummary.cfm?ID=823'>FAO</author>   </pictures>    <pictures type='adult'>    <picname link='http://www.fishbase.org/photos/PicturesSummary.cfm?StartRow=2&amp;ID=8940&amp;what=species'>Prpri_u0.jpg</picname>    <actual>http://www.fishbase.org/images/species/Prpri_u0.jpg</actual>    <thumbnail>http://www.fishbase.org/images/thumbnails/jpg/tn_Prpri_u0.jpg</thumbnail>   <author link='http://www.fishbase.org/Collaborators/CollaboratorSummary.cfm?ID=513'>JJPhoto</author>   </pictures>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fa4cc81ce77292764c430ad39f6b5d59", 
+    "source_url": "http://www.fishbase.org/webservice/Photos/FishPicsList.php?Genus=Pristis&Species=pristis&type="
+}

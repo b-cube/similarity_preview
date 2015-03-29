@@ -1,0 +1,15 @@
+{
+    "content": "<Response xmlns:i=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"NHTSA/webapi/types\"><Count>8</Count><Message>Results returned successfully</Message><Results><CrashTestedVehicle xmlns=\"\"><ModelYear>2013</ModelYear><Make>ACURA</Make><Model>ILX</Model></CrashTestedVehicle><CrashTestedVehicle xmlns=\"\"><ModelYear>2013</ModelYear><Make>ACURA</Make><Model>ILX HYBRID</Model></CrashTestedVehicle><CrashTestedVehicle xmlns=\"\"><ModelYear>2013</ModelYear><Make>ACURA</Make><Model>MDX</Model></CrashTestedVehicle><CrashTestedVehicle xmlns=\"\"><ModelYear>2013</ModelYear><Make>ACURA</Make><Model>RDX</Model></CrashTestedVehicle><CrashTestedVehicle xmlns=\"\"><ModelYear>2013</ModelYear><Make>ACURA</Make><Model>TL</Model></CrashTestedVehicle><CrashTestedVehicle xmlns=\"\"><ModelYear>2013</ModelYear><Make>ACURA</Make><Model>TSX</Model></CrashTestedVehicle><CrashTestedVehicle xmlns=\"\"><ModelYear>2013</ModelYear><Make>ACURA</Make><Model>TSX  SPORT WAGON</Model></CrashTestedVehicle><CrashTestedVehicle xmlns=\"\"><ModelYear>2013</ModelYear><Make>ACURA</Make><Model>ZDX</Model></CrashTestedVehicle></Results></Response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "51dca9692b232a7167c5428c6d5c1809", 
+    "source_url": "http://www.nhtsa.gov/webapi/api/SafetyRatings/modelyear/2013/make/Acura?format=xml"
+}

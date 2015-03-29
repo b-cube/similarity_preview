@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>       <!-- JNLP File for Integrated Data Viewer -->       <jnlp          spec=\"1.0+\"          codebase = \"http://www.unidata.ucar.edu/software/idv/current/webstart/\" href=\"IDV/idv.jnlp\">         <information>           <title>Integrated Data Viewer 5.1 </title>           <vendor>Unidata</vendor>           <homepage href=\"http://www.unidata.ucar.edu/software/idv/index.html\"/>           <description>Integrated Data Viewer (IDV)</description>           <description kind=\"short\">A tool for geoscientific analysis and visualization.         </description>          <icon href=\"IDV/idv.gif\"/>          <offline-allowed/>         </information>         <resources>           <j2se version=\"1.6+\" max-heap-size=\"1024m\" java-vm-args=\"-XX:MaxPermSize=128m\" />             <jar href=\"IDV/idv.jar\"/>            <extension name=\"IDV Base\" href=\"IDV/idvbase.jnlp\"/>        </resources>        <resources os=\"Linux\">             <property name=\"j3d.sharedctx\" value=\"false\"/>        </resources>        <application-desc main-class=\"ucar.unidata.idv.DefaultIdv\"/>         <security>            <all-permissions/>        </security>       </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0983dc4e888e4e5aa557b4578002e624", 
+    "source_url": "http://www.unidata.ucar.edu/software/idv/webstart/IDV/idv.jnlp"
+}

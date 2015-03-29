@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\">   <service>     <engineName>WordPress</engineName>     <engineLink>http://wordpress.org/</engineLink>     <homePageLink>http://www.alaskapublic.org</homePageLink>     <apis>       <api name=\"WordPress\" blogID=\"1\" preferred=\"true\" apiLink=\"http://www.alaskapublic.org/xmlrpc.php\" />       <api name=\"Movable Type\" blogID=\"1\" preferred=\"false\" apiLink=\"http://www.alaskapublic.org/xmlrpc.php\" />       <api name=\"MetaWeblog\" blogID=\"1\" preferred=\"false\" apiLink=\"http://www.alaskapublic.org/xmlrpc.php\" />       <api name=\"Blogger\" blogID=\"1\" preferred=\"false\" apiLink=\"http://www.alaskapublic.org/xmlrpc.php\" />           </apis>   </service> </rsd> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4833bd71d6edb69fb6cab0e30662cb78", 
+    "source_url": "http://www.alaskapublic.org/xmlrpc.php?rsd"
+}

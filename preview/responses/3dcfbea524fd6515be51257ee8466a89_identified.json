@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi w=\"-97.72505\" e=\"-96.70835\" n=\"36.7583\" utm_span=\"1000\" zone=\"14S\" type=\"geo\" s=\"35.9333\">     <location name=\"UTM:(14S 0634 3957 1000)\">       <cdi>3.7738</cdi>       <nresp>2</nresp>       <dist>71</dist>       <lat>35.7523</lat>       <lon>-97.5124</lon>       <name>UTM:(14S 0634 3957 1000)</name>     </location>     <location name=\"UTM:(14S 0657 3918 1000)\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>105</dist>       <lat>35.3974</lat>       <lon>-97.2657</lon>       <name>UTM:(14S 0657 3918 1000)</name>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3dcfbea524fd6515be51257ee8466a89", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/10001mb1/us/cdi_geo.xml"
+}

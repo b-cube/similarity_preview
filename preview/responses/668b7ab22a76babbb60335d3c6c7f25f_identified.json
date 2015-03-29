@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <?xml-stylesheet type=\"text/css\" href=\"http://www.openforis.org/OFwiki/skins/common/feed.css?207\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\">   <id>http://www.openforis.org/OFwiki/index.php?title=Special:RecentChanges&amp;feed=atom</id>   <title>Open Foris Wiki  - Recent changes [en]</title>   <link rel=\"self\" type=\"application/atom+xml\" href=\"http://www.openforis.org/OFwiki/index.php?title=Special:RecentChanges&amp;feed=atom\"/>   <link rel=\"alternate\" type=\"text/html\" href=\"http://www.openforis.org/OFwiki/index.php/Special:RecentChanges\"/>   <updated>2015-03-04T04:54:56Z</updated>   <subtitle>Track the most recent changes to the wiki in this feed.</subtitle>   <generator>MediaWiki 1.15.1</generator>   </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "668b7ab22a76babbb60335d3c6c7f25f", 
+    "source_url": "http://openforis.org/OFwiki/index.php?title=Special:RecentChanges&feed=atom"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.14956</dc:identifier><dc:creator>Schimpf, Uwe</dc:creator><dc:creator>Nagel, Leila</dc:creator><dc:creator>J\\ufffd\\ufffdhne, Bernd</dc:creator><dc:title>The 2009 SOPRAN active thermography pilot experiment in the Baltic Sea</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Heat is used as a proxy tracer for gases to investigate the transport across&lt;br /&gt; the sea-surface microlayer. A further development of the active controlled flux&lt;br /&gt; technique (ACFT) is presented. A periodically varying heat flux density is forced onto a rectangle area at the water surface by a CO2 laser. The resulting variation in sea surface temperature is imaged with a calibrated IR-camera. The time constant of the transfer process is estimated by the amplitude damping of the temperature response in the Fourier domain. A pilot experiment in the Baltic Sea was conducted and heat transfer rates were determined. Applying Schmidt number scaling, the measured transfer rates are in good agreement with empirical gas transfer wind speed relationships for moderate wind speeds (4-6 m/s). At high wind speed (12 m/s), the ACFT transfer rates are lower, which might be explained by the fact that heat transport is insensitive to bubble-mediated gas transfer.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2011-07-04</dc:date><dc:source>http://zenodo.org/record/14956</dc:source><dc:doi>10.5281/zenodo.14956</dc:doi><dc:identifier>http://zenodo.org/record/14956</dc:identifier><dc:identifier>oai:zenodo.org:14956</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bd510ae2c9093d3023e4dd63a0545e11", 
+    "source_url": "https://zenodo.org/record/14956/export/xd"
+}

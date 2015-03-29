@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.F401.1992\" target=\"gopher://info.itu.ch/9/.1/ITUdoc/.dirtree/.1/.itu- t/.rec/.f/.23068/.7724.zip\"> <front> <title>Message Handling Services - Operations and Definitions of Service - Naming and Addressing for Public Message Handling Services, Annex B</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"August\" year=\"1992\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation F.401\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a4e04d7a353d386ef002e36590cc1849", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-misc/_reference.CCITT.F401.1992.xml"
+}

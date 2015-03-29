@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/239957\"> <title>Haddon Library Image Collection</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/239957</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/240459\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/240458\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/240457\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/240456\"/> </rdf:Seq> </items> <dc:date>2015-03-13T04:38:30Z</dc:date> </channel> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/240459\"> <title>Hottentots practising with their weapons</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/240459</link> <description>Hottentots practising with their weapons Kolbe, P Illustration taken from Kolbe, P (1727). Naaukeurige en uitvoerige Beschryving van de Kaap de Goede Hoop. Volume 2. Page 202. Amsterdam. </description> <dc:date>1727-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/240458\"> <title>The casa of a padre in Campinha</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/240458</link> <description>The casa of a padre in Campinha Henderson, J Illustration taken from Henderson, J (1821). \"A History of the Brazil, comprising its geography, commerce, colonization, aboriginal inhabitants, etc. \". Page 85. London. </description> <dc:date>1821-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/240457\"> <title>Third incarnation of Vishnu (Wild boar)</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/240457</link> <description>Third incarnation of Vishnu (Wild boar) Sonnerat, P Illustration taken from Sonnerat, P (1782). Voyages aux Indes Orientales et a la Chine. Volume 1. Page 161. Paris. </description> <dc:date>1782-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/240456\"> <title>Assembling of the caravan, under the walls of Bagdad</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/240456</link> <description>Assembling of the caravan, under the walls of Bagdad Buckingham, J.S. Illustration taken from Buckingham, J.S. (1829). \"Travels in Assyria, Media and Persia\". Page 1. London. </description> <dc:date>1829-01-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b15d506442c5534dcb0153c2f846c4f4", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/rss_1.0/1810/239957"
+}

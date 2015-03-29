@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\">   <service>     <engineName>WordPress</engineName>     <engineLink>http://wordpress.org/</engineLink>     <homePageLink>http://inkdroid.org/journal</homePageLink>     <apis>       <api name=\"WordPress\" blogID=\"1\" preferred=\"true\" apiLink=\"http://inkdroid.org/journal/xmlrpc.php\" />       <api name=\"Movable Type\" blogID=\"1\" preferred=\"false\" apiLink=\"http://inkdroid.org/journal/xmlrpc.php\" />       <api name=\"MetaWeblog\" blogID=\"1\" preferred=\"false\" apiLink=\"http://inkdroid.org/journal/xmlrpc.php\" />       <api name=\"Blogger\" blogID=\"1\" preferred=\"false\" apiLink=\"http://inkdroid.org/journal/xmlrpc.php\" />           </apis>   </service> </rsd> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7bcfd9b084c8025561c4b605965dfa6d", 
+    "source_url": "http://inkdroid.org/journal/xmlrpc.php?rsd"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Sphinx</ShortName>   <Description>Search Sphinx 1.3.1+ documentation</Description>   <InputEncoding>utf-8</InputEncoding>   <Url type=\"text/html\" method=\"get\"        template=\"http://sphinx-doc.org/search.html?q={searchTerms}&amp;check_keywords=yes&amp;area=default\"/>   <LongName>Sphinx 1.3.1+ documentation</LongName>    </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b94b1d2f6fb2931295ac7a1fa7a265b1", 
+    "source_url": "http://sphinx-doc.org/_static/opensearch.xml"
+}

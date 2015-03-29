@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version = \"1.0\" encoding = \"UTF-8\"?> <!--This is a Reload version 1.3 Content Package document        --> <!--Spawned from the Reload Content Package Generator - http://www.reload.ac.uk   --> <!-- Specification: ePortfolio v1.0              --> <!-- Authors:  Andy Heath and Colin Smythe              --> <!-- Date:   27th June, 2005                  --> <!-- Comment:  Basic example of a minimal Portfolio Package.      --> <manifest xmlns = \"http://www.imsglobal.org/xsd/imsportfoliocp_v1p0\"   xmlns:imsmd = \"http://www.imsglobal.org/xsd/imsmd_v1p2\"   xmlns:xsi = \"http://www.w3.org/2001/XMLSchema-instance\"   xsi:schemaLocation = \"http://www.imsglobal.org/xsd/imsportfoliocp_v1p0 http://www.imsglobal.org/xsd/imsportfoliocp_v1p0.xsd http://www.imsglobal.org/xsd/imsmd_v1p2 http://www.imsglobal.org/xsd/imsmd_v1p2p2.xsd\"   identifier = \"MANIFEST-8058760E-63E2-D91D-8CBF-4F283BFFD6C0\"   version = \"1.0\">    <metadata>       <schema>Portfolio Package</schema>   <schemaversion>1.0</schemaversion>    </metadata>    <organizations default = \"ORG-4433B3DD-E2A4-B0E6-CD76-41A00B73FCFE\">       <organization identifier = \"ORG-4433B3DD-E2A4-B0E6-CD76-41A00B73FCFE\">          <title>MinimalPorfolio</title>    <item identifier = \"ITEM-PORTFOLIOPARTS-ROOT\">     <title>PortfolioParts</title>     <item identifier = \"ITEM-68A5273B-6D1B-2E6E-B15C-91F712E73185\" identifierref = \"RES-663C1D31-D3ED-4B2D-A84F-7CD0601297BD\">              <title>Identification</title>           </item>     <item identifier = \"ITEM-D14FEC12-45E3-0934-48F4-19614606BE4E\" identifierref = \"RES-2DFE4004-922D-6830-6735-D2F62BF42AD5\">              <title>Product-Midterm_Research_Project_hollandp_Arthur</title>           </item>    </item>                   </organization>    </organizations>    <resources>       <resource identifier = \"RES-663C1D31-D3ED-4B2D-A84F-7CD0601297BD\" type = \"imslip-Identification\" href = \"minimalIdentification.xml\">          <file href = \"minimalIdentification.xml\"/>       </resource>       <resource identifier = \"RES-2DFE4004-922D-6830-6735-D2F62BF42AD5\" type = \"imslip-Product\" href = \"minimalProduct.xml\">          <file href = \"minimalProduct.xml\"/>        <file href = \"Midterm_Research_Project_hollandp_Arthur.doc\"/>   </resource>    </resources> </manifest>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a3199e302c311e2c5993898662aad893", 
+    "source_url": "http://www.imsglobal.org/ep/epv1p0/exmpldocs/minimalPortfolio/imsmanifest.xml"
+}

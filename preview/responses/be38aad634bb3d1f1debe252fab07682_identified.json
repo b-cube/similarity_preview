@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding=\"ISO-8859-1\" ?> <schema    targetNamespace=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ms=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ogc=\"http://www.opengis.net/ogc\"    xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"    xmlns=\"http://www.w3.org/2001/XMLSchema\"    xmlns:gml=\"http://www.opengis.net/gml\"    elementFormDefault=\"qualified\" version=\"0.1\" >    <import namespace=\"http://www.opengis.net/gml\"           schemaLocation=\"http://schemas.opengis.net/gml/3.1.1/base/gml.xsd\" />    <element name=\"mineplant\"             type=\"ms:mineplantType\"             substitutionGroup=\"gml:_Feature\" />    <complexType name=\"mineplantType\">     <complexContent>       <extension base=\"gml:AbstractFeatureType\">         <sequence>           <element name=\"geometry\" type=\"gml:PointPropertyType\" minOccurs=\"0\" maxOccurs=\"1\"/>           <element name=\"rec_no\" type=\"string\"/>           <element name=\"commodity\" type=\"string\"/>           <element name=\"site_name\" type=\"string\"/>           <element name=\"company_na\" type=\"string\"/>           <element name=\"state_loca\" type=\"string\"/>           <element name=\"county\" type=\"string\"/>           <element name=\"latitude\" type=\"string\"/>           <element name=\"longitude\" type=\"string\"/>           <element name=\"plant_min\" type=\"string\"/>           <element name=\"fips\" type=\"string\"/>           <element name=\"huc\" type=\"string\"/>           <element name=\"quad\" type=\"string\"/>         </sequence>       </extension>     </complexContent>   </complexType>  </schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "be38aad634bb3d1f1debe252fab07682", 
+    "source_url": "http://mrdata.usgs.gov/wfs/active-mines?request=describefeaturetype&service=WFS&version=1.1.0&typename=mineplant"
+}

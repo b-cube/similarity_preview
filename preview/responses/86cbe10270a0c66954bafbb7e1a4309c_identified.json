@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.X3.1984\"> <front> <title>Recommendation X.3</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"\" year=\"1984\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation X.3\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "86cbe10270a0c66954bafbb7e1a4309c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-misc/_reference.CCITT.X3.1984.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!-- edited with XMLSpy v2014 sp1 (x64) (http://www.altova.com) by XMLSpy 2013 Professional Ed. Release 2, Installed for 6 users (with SMP from 2013-10-18 to 2014-10-19) (NOAA) --> <xs:schema xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" elementFormDefault=\"qualified\" attributeFormDefault=\"unqualified\">  <xs:simpleType name=\"RadioButton\">   <xs:restriction base=\"xs:boolean\"/>  </xs:simpleType>  <xs:simpleType name=\"CheckBox\">   <xs:restriction base=\"xs:boolean\"/>  </xs:simpleType> </xs:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5e602fab3dfefc51e85c7f852892fa3b", 
+    "source_url": "http://www.nauticalcharts.noaa.gov/hsd/xmldr/Schemas/Version_2014_02/BooleanControls.xsd"
+}

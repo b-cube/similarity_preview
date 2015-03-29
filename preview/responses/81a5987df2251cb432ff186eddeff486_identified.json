@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"9141DB04-3B5E-4EBA-A5B2-108260395BEE\" _position=\"1\" _address=\"http://data.lacity.org/resource/wja6-7dvj/1\"><metric_nbr>1.1</metric_nbr><metric>State Enterprise Zone Vouchers Processed</metric><annual_goal>25000</annual_goal><_4_quarter_cumulative_goal_apr_1_mar_31>25000</_4_quarter_cumulative_goal_apr_1_mar_31><_4_quarter_cumulative_actual_apr_1_mar_31>52524</_4_quarter_cumulative_actual_apr_1_mar_31><percentage_of_4_quarter_goal>210</percentage_of_4_quarter_goal><of_annual_goal_completed>210</of_annual_goal_completed></row><row _id=\"2\" _uuid=\"12B188C4-6B6B-4A46-871A-AA0EFA3A6674\" _position=\"2\" _address=\"http://data.lacity.org/resource/wja6-7dvj/2\"><metric_nbr>1.2</metric_nbr><metric>State Enterprise Zone Vouchers Processed ($ Value)</metric><annual_goal>625000</annual_goal><_4_quarter_cumulative_goal_apr_1_mar_31>625000</_4_quarter_cumulative_goal_apr_1_mar_31><_4_quarter_cumulative_actual_apr_1_mar_31>1313100</_4_quarter_cumulative_actual_apr_1_mar_31><percentage_of_4_quarter_goal>210</percentage_of_4_quarter_goal><of_annual_goal_completed>210</of_annual_goal_completed></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "81a5987df2251cb432ff186eddeff486", 
+    "source_url": "https://data.lacity.org/api/views/wja6-7dvj/rows.xml?accessType=DOWNLOAD"
+}

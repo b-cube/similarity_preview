@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Ferst Center for the Arts OSP Research Reports</title> <link href=\"http://hdl.handle.net/1853/46613\" rel=\"alternate\"/> <subtitle>OSP research reports associated with the Ferst Center for the Arts</subtitle> <id>http://hdl.handle.net/1853/46613</id> <updated>2015-03-12T19:42:17Z</updated> <dc:date>2015-03-12T19:42:17Z</dc:date> <entry> <title>Lily Cai block booking support</title> <link href=\"http://hdl.handle.net/1853/41877\" rel=\"alternate\"/> <author> <name>Thompson, George</name> </author> <id>http://hdl.handle.net/1853/41877</id> <updated>2012-02-28T14:59:18Z</updated> <published>2011-01-31T00:00:00Z</published> <summary type=\"text\">Lily Cai block booking support Thompson, George Issued as final report </summary> <dc:date>2011-01-31T00:00:00Z</dc:date> <dc:creator>Thompson, George</dc:creator> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "48afb84b86a095fffbd7f36cd41873f4", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/46613"
+}

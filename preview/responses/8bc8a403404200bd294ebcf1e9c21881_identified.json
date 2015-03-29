@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <opml version=\"1.1\"> <head> <title>ACM-W supporting, celebrating and advocating for Women in Computing</title> <dateModified>Thu, 19 Mar 2015 06:24:00 +0000</dateModified> </head> <body> <outline text=\"Active Chapters\" xmlUrl=\"http://rss.acm.org/acm-w/acmw_chapters.xml\" /> <outline text=\"Awards Recipient\" xmlUrl=\"http://rss.acm.org/acm-w/acmw_awards_recipient.xml\" /> <outline text=\"Communications of the ACM: Education\" xmlUrl=\"http://cacm.acm.org/browse-by-subject/education.rss\" /> <outline text=\"Communications of the ACM: News\" xmlUrl=\"http://cacm.acm.org/news.rss\" /> <outline text=\"Conference Locations\" xmlUrl=\"http://dl.acm.org/UpcomingConfLocations.xml\" /> <outline text=\"Facebook Feed\" xmlUrl=\"https://www.facebook.com/feeds/page.php?format=atom10&amp;id=30612287251\" /> </body> </opml> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8bc8a403404200bd294ebcf1e9c21881", 
+    "source_url": "http://women.acm.org/aggregator/opml"
+}

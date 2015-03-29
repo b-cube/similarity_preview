@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Library Studies</title> <link href=\"http://hdl.handle.net/2160/416\" rel=\"alternate\"/> <subtitle>Library Studies by IS Library staff</subtitle> <id>http://hdl.handle.net/2160/416</id> <updated>2015-03-20T04:04:07Z</updated> <dc:date>2015-03-20T04:04:07Z</dc:date> <entry> <title>With a little HELP from my friends: developments in Welsh academic library collaboration</title> <link href=\"http://hdl.handle.net/2160/548\" rel=\"alternate\"/> <author> <name>Atkinson, Jeremy</name> </author> <author> <name>Kensler, Elizabeth</name> </author> <id>http://hdl.handle.net/2160/548</id> <updated>2008-03-15T02:00:10Z</updated> <published>2004-01-01T00:00:00Z</published> <summary type=\"text\">With a little HELP from my friends: developments in Welsh academic library collaboration Atkinson, Jeremy; Kensler, Elizabeth </summary> <dc:date>2004-01-01T00:00:00Z</dc:date> </entry> <entry> <title>WHELF: wherefore, whereto?</title> <link href=\"http://hdl.handle.net/2160/547\" rel=\"alternate\"/> <author> <name>Kensler, Elizabeth</name> </author> <author> <name>Green, Andrew</name> </author> <id>http://hdl.handle.net/2160/547</id> <updated>2008-03-15T02:00:09Z</updated> <published>2005-01-01T00:00:00Z</published> <summary type=\"text\">WHELF: wherefore, whereto? Kensler, Elizabeth; Green, Andrew </summary> <dc:date>2005-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Help is at hand: Reviewing and developing Welsh Academic Library Collaboration</title> <link href=\"http://hdl.handle.net/2160/546\" rel=\"alternate\"/> <author> <name>Kensler, Elizabeth</name> </author> <author> <name>Atkinson, Jeremy</name> </author> <id>http://hdl.handle.net/2160/546</id> <updated>2008-03-15T02:00:09Z</updated> <published>2004-11-01T00:00:00Z</published> <summary type=\"text\">Help is at hand: Reviewing and developing Welsh Academic Library Collaboration Kensler, Elizabeth; Atkinson, Jeremy This paper describes the work undertaken for the HELP (Higher Education Libraries in Partnership) project by WHELF (Wales Higher Education Libraries Forum). The project received funding from HEFCW (Higher Education Funding Council for Wales) and was concerned with reviewing and developing Welsh academic library collaboration. The paper describes the various elements of the project \\ufffd\\ufffd\\ufffd Collaboration Review, E-Learning Feasibility Study, Journals Case Study, and the development of an Action Plan for future collaborative activity. </summary> <dc:date>2004-11-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "04102bbac23769103712f10e228fa6a8", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/416"
+}

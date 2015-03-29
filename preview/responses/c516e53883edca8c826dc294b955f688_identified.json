@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.25.934'> <front> <title>AAL2 QoS optimization</title> <author><organization>3GPP</organization></author> <date day='06' month='April' year='2001' /> </front>  <seriesInfo name='3GPP TR' value='25.934 4.0.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/25934.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c516e53883edca8c826dc294b955f688", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.25.934.xml"
+}

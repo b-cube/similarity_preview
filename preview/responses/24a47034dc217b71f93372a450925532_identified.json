@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <jnlp codebase=\"http://jogamp.org/deployment/archive/rc/v2.2.4/jogl-demos\"       href=\"VertexArrayRange.jnlp\">   <information>     <title>JOGL Vertex Array Range Demo</title>     <vendor>JogAmp Community</vendor>     <homepage href=\"http://jogamp.org/jogl-demos/\"/>     <description>VertexArrayRange Demo</description>     <description kind=\"short\">NVidia's vertex_array_range demo ported to Java and JOGL.</description>     <offline-allowed/>   </information>   <update check=\"background\" policy=\"always\"/>      <resources>       <j2se href=\"http://java.sun.com/products/autodl/j2se\" version=\"1.4+\"/>       <jar href=\"jar/jogl-demos.jar\" main=\"true\"/>       <jar href=\"jar/jogl-demos-util.jar\" />       <extension name=\"jogl-all-awt\" href=\"http://jogamp.org/deployment/archive/rc/v2.2.4/jogl-all-awt.jnlp\" />     </resources>    <application-desc main-class=\"demos.vertexArrayRange.VertexArrayRange\">   </application-desc> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "24a47034dc217b71f93372a450925532", 
+    "source_url": "http://jogamp.org/deployment/jogamp-current/jogl-demos/VertexArrayRange.jnlp"
+}

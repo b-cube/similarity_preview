@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <codeBook xsi:schemaLocation=\"ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd\" version=\"2.5\" xmlns=\"ddi:codebook:2_5\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">   <docDscr>     <citation>       <titlStmt>         <titl>DDI2.5 XML CODEBOOK RECORD FOR STUDY NUMBER 851420</titl>       </titlStmt>       <prodStmt>         <prodDate></prodDate>       </prodStmt>     </citation>   </docDscr>   <stdyDscr>     <citation>       <titlStmt>         <titl>Adult survivors of childhood liver transplant</titl>         <IDNo agency=\"UKDA\">851420</IDNo>       </titlStmt>       <rspStmt>         <AuthEnty>Karen Lowton, King's College London</AuthEnty>       </rspStmt>       <prodStmt>         <copyright>Karen Lowton, King's College London</copyright>         <fundAg>ESRC</fundAg>         <grantNo>ES/J002445/1</grantNo>       </prodStmt>       <distStmt>         <depositr>Karen Lowton, King's College London</depositr>         <distDate>2014-07-11T00:00:00Z</distDate>       </distStmt>       <verStmt>         <version date=\"\">1</version>       </verStmt>     </citation>     <stdyInfo>       <subject>         <keyword>TRANSPLANT</keyword>         <keyword>LIVER DISEASE</keyword>         <keyword>2014</keyword>         <topcClas>Health</topcClas>         <topcClas>Society and culture</topcClas>       </subject>       <abstract>&lt;p&gt;Abstract copyright UK Data Service and data collection copyright owner.&lt;/p&gt;Semi-structured interviews</abstract>       <sumDscr>         <collDate event=\"start\" date=\"2012-01-03T00:00:00Z\">03 January 2012</collDate>         <collDate event=\"end\" date=\"2014-01-02T00:00:00Z\">02 January 2014</collDate>         <nation>United Kingdom</nation>         <anlyUnit>individuals</anlyUnit>         <dataKind>Textual</dataKind>       </sumDscr>     </stdyInfo>     <method>       <dataColl>         <collMode>Individual semi-structured interviews</collMode>         <sources />       </dataColl>     </method>     <dataAccs>       <setAvail>         <accsPlac>UK Data Service</accsPlac>       </setAvail>       <useStmt>         <contact>&lt;a href=\"mailto:karen.lowton@kcl.ac.uk\"&gt;Karen Lowton, King's College London&lt;/a&gt;</contact>       </useStmt>     </dataAccs>     <othrStdyMat />   </stdyDscr> </codeBook>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e1ad763de92ddb18a605d1f9baa3b764", 
+    "source_url": "http://esds.ac.uk/DDI25/851420.xml"
+}

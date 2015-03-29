@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Diffuse Optical Tomography and Fluorescence Simulation</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname/>             <given-names/>           </name>           <aff>             <institution>LMIA</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname/>             <given-names/>           </name>           <aff>             <institution>IRMA (UMR7501)</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname/>             <given-names/>           </name>           <aff>             <institution>ICube (UMR7357)</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname/>             <given-names/>           </name>           <aff>             <institution>IRMA (UMR7501)</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/11830\"/>       <self-uri xlink:href=\"https://zenodo.org/record/11830/files/dotcad2014_forward.mp4\"/>     </article-meta>     <abstract>&lt;p&gt;Diffusion of a source of light (Dirac) in a turbid medium. The object owns two inclusions, one more absorbant and one more diffusive than the background. These inclusions can be seen as tumours that have different optical and fluorescence properties compared to the &amp;quot;homogeneous&amp;quot; background.&lt;/p&gt;  &lt;p&gt;This simulation shows the forward problem solutions for choosen optical and fluorescence parameters and computed with FEEL++, a C++ library for Generalized Garlerkin methods (FEM, HP-FEM, ...).&lt;/p&gt;</abstract>   </front>   <article-type>user-feelpp</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ab9a6359704a04d64c0fba3e57c00370", 
+    "source_url": "https://zenodo.org/record/11830/export/xn"
+}

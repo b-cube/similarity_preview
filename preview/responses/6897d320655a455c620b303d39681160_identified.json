@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi w=\"-112.35835\" e=\"-110.34165\" n=\"43.1583\" utm_span=\"2000\" zone=\"12T\" type=\"geo\" s=\"41.6583\">     <location name=\"UTM:(12T 0468 4686 2000)\">       <cdi>3.0916</cdi>       <nresp>1</nresp>       <dist>9</dist>       <lat>42.3346</lat>       <lon>-111.3763</lon>       <name>UTM:(12T 0468 4686 2000)</name>     </location>     <location name=\"UTM:(12T 0474 4684 2000)\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>11</dist>       <lat>42.3169</lat>       <lon>-111.3034</lon>       <name>UTM:(12T 0474 4684 2000)</name>     </location>     <location name=\"UTM:(12T 0476 4674 2000)\">       <cdi>3.4498</cdi>       <nresp>1</nresp>       <dist>21</dist>       <lat>42.2268</lat>       <lon>-111.2787</lon>       <name>UTM:(12T 0476 4674 2000)</name>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6897d320655a455c620b303d39681160", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/uu/60104457/us/cdi_geo.xml"
+}

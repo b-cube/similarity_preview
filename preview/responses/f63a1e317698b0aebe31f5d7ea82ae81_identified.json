@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs02701</identifier><identifier type=\"pwpk\">30718</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">027-01</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A primer on water quality</title></titleInfo><originInfo><dateOther>Wed, 1 Aug 2001 00:00 -0500</dateOther><dateIssued>2001</dateIssued></originInfo><name><namePart>Cordy, G.E.</namePart><role>Author</role></name><physicalDescription><form>2 p.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_027_01.bmp</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/FS/fs-027-01/</url></location><note type=\"citation/reference\">A primer on water quality; 2001; FS; 027-01; Fact Sheet; Cordy, G.E.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f63a1e317698b0aebe31f5d7ea82ae81", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs02701"
+}

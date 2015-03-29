@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-css-print-20031218'> <front> <title>CSS Print Profile</title>  <author initials='J' surname='Bigelow' fullname='Jim Bigelow'>     <organization /> </author>  <date month='December' day='18' year='2003' /> </front>  <seriesInfo name='W3C LastCall' value='WD-css-print-20031218' /> <format type='HTML' target='http://www.w3.org/TR/2003/WD-css-print-20031218' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "af38aac467d489571bb1d105d5a268a4", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-css-print-20031218.xml"
+}

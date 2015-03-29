@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0443'>  <front> <title>Traffic statistics (December 1972)</title> <author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'> <organization /></author> <date year='1973' month='January' /></front>  <seriesInfo name='RFC' value='443' /> <format type='TXT' octets='5664' target='http://www.rfc-editor.org/rfc/rfc443.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "25fe7be14a76f544a6309123d10fdd50", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0443.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>J\\ufffd\\ufffdhne, Bernd</author>           <author>Herrmann, Helmut</author>         </authors>       </contributors>       <titles>         <title>EMVA 1288 datasheet PCO edge5.5 USB3.0 monochrome</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12558</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>EMVA 1288</keyword>         <keyword>camera characterization</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-11-03</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;EMVA 1288 datasheet m0550, PCO edge5.5 USB3.0 monochrome, SN 61000057&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "addc7f347fdf4df8117ccda09c8e1df6", 
+    "source_url": "https://zenodo.org/record/12558/export/xe"
+}

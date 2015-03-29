@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20073057</identifier><identifier type=\"pwpk\">80373</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2007-3057</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Acid Rain in Shenandoah National Park, Virginia</title></titleInfo><originInfo><dateOther>Sat, 15 Sep 2007 00:00 -0500</dateOther><dateIssued>2007</dateIssued><publisher>Geological Survey (U.S.)</publisher></originInfo><name><namePart>Rice, Karen C.; Deviney, Frank A., Jr.; Olson, Gordon</namePart><role>Author</role></name><abstract>Visitors to Shenandoah National Park (SNP) enjoy the animal and plant life and the scenery but may not realize how vulnerable these features are to various threats, such as invasion of exotic plants and insects, improper use of park resources by humans, and air and water pollution. The National Park Service strives to protect natural resources from such threats to ensure that the resources will be available for enjoyment now and in the future. Because SNP has limited influence over the air pollution that envelops the region, acidic deposition--commonly known as acid rain--is one of the more challenging threats facing park managers. With the help of U.S. Geological Survey (USGS) scientists, park managers can understand how acid rain interacts with ground- and surface-water resources, which enables them to explain why reductions in air pollution can help preserve park resources. Such understanding also provides essential insight into ecosystem processes, as managers strive to unravel and resolve other environmental problems that are interrelated to acid rain.</abstract><physicalDescription><form>4 p.</form><form>Geological Survey (U.S.)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2007_3057.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2007/3057/</url></location><note type=\"citation/reference\">Acid Rain in Shenandoah National Park, Virginia; 2007; FS; 2007-3057; Fact Sheet; Rice, Karen C.; Deviney, Frank A., Jr.; Olson, Gordon</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f62deba65314c437577735cb330c4e21", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20073057"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Adenovirus Recruits Dynein by an Evolutionary Novel Mechanism Involving Direct Binding to pH-Primed Hexon</dc:title><dc:creator>Scherer, Julian</dc:creator><dc:creator>Vallee, Richard</dc:creator><dc:date>2011</dc:date><dc:type>text</dc:type><dc:subject>Pathology</dc:subject><dc:subject>Cellular biology</dc:subject><dc:subject>Medicine</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8NP22GP</dc:identifier><dc:description>Following receptor-mediated uptake into endocytic vesicles and escape from the endosome, adenovirus is transported by cytoplasmic dynein along microtubules to the perinuclear region of the cell. How motor proteins are recruited to viruses for their own use has begun to be investigated only recently. We review here the evidence for a role for dynein and other motor proteins in adenovirus infectivity. We also discuss the implications of recent studies on the mechanism of dynein recruitment to adenovirus for understanding the relationship between pathogenic and physiological cargo recruitment and for the evolutionary origins of dynein-mediated adenovirus transport.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2595395f7b2ecd1656f8d9548ddd6440", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A171091.dc_xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">             <channel rdf:about=\"http://www.ecn.ac.uk/links/citizen-science/RSS\">   <title>Citizen science programmes</title>   <link>http://www.ecn.ac.uk</link>    <description>            Links to citizen science/participatory monitoring programmes        </description>                     <syn:updatePeriod>daily</syn:updatePeriod>             <syn:updateFrequency>1</syn:updateFrequency>             <syn:updateBase>2010-09-11T14:21:18Z</syn:updateBase>             <image rdf:resource=\"http://www.ecn.ac.uk/logo.png\"/>    <items>     <rdf:Seq>                <rdf:li rdf:resource=\"http://www.ecn.ac.uk/links/link-items/natures-calendar\"/>            </rdf:Seq>   </items>  </channel>     <item rdf:about=\"http://www.ecn.ac.uk/links/link-items/natures-calendar\">     <title>Nature's calendar</title>     <link>http://www.ecn.ac.uk/links/link-items/natures-calendar</link>     <description>In autumn 2000 the Woodland Trust forces joined with the Centre for Ecology &amp; Hydrology to promote phenology to a far wider and larger audience. Almost 50,000 people across the UK are now involved with the Nature's Calendar survey.</description>          <dc:publisher>No publisher</dc:publisher>     <dc:creator>admin</dc:creator>     <dc:rights></dc:rights>            <dc:subject>link-set:citizen-science</dc:subject>          <dc:date>2011-02-01T14:55:00Z</dc:date>     <dc:type>Link</dc:type>   </item>      </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d07e12af0d335b67528a3de49573d31b", 
+    "source_url": "http://www.ecn.ac.uk/links/citizen-science/RSS"
+}

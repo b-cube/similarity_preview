@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <Zthes>   <term>     <termId>918964</termId>     <termName>Zoology</termName>     <termType>PT</termType>     <termLanguage>English</termLanguage>     <termVocabulary>Training Thesaurus</termVocabulary>     <termStatus>active</termStatus>     <termApproval>candidate</termApproval>     <termSortkey>zoology</termSortkey>     <termNote label=\"Scope\">       A science that deals with animals : a branch of biology       concerned with the animal kingdom and its members as individuals       and classes and with animal life and animal morphology together       with anatomy, histology, and cytology, physiology, embryology,       genetics, taxonomy, paleontology, ecology, and various other       sciences in whole or in part.     </termNote>     <termNote label=\"Source\">       Merriam-Webster's Unabridged Dictionary     </termNote>     <termCreatedDate>2004-12-09T12:51:46</termCreatedDate>     <termCreatedBy>dclarke</termCreatedBy>     <termModifiedDate>2005-01-03T12:35:55</termModifiedDate>     <termModifiedBy>dclarke</termModifiedBy>     <relation weight=\"150\">       <relationType>NT</relationType>       <termId>918965</termId>       <termName>Applied zoology</termName>       <termType>PT</termType>       <termLanguage>English</termLanguage>     </relation>     <relation weight=\"150\">       <relationType>LE</relationType>       <termId>918433</termId>       <termName>Zoologie</termName>       <termType>PT</termType>       <termLanguage>French</termLanguage>     </relation>   </term> </Zthes> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5e51122589fd3f094648387ffa9b200b", 
+    "source_url": "http://zthes.z3950.org/schema/synapse.xml"
+}

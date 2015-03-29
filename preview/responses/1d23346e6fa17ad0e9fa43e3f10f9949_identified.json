@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Vroom </Local-number>  <Author>Vroom, P., Musburger, C., Cooper, S., Maragos, J., Page-Albins, K., Timmers, M. </Author>  <Title>Marine biological community baselines in unimpacted tropical ecosystems: spatial and temporal analysis of reefs at Howland and Baker Islands </Title>  <Journal-Title>Biodiversity and Conservation </Journal-Title>  <Publication-Date><caldate>2009 </caldate></Publication-Date>  <Volume-ID>19 </Volume-ID>  <Issue-ID>3 </Issue-ID>  <Extent>797-812 </Extent>  <Abstract>\"Howland and Baker Islands are two small, isolated reef and sand islets located near the equator in the central Pacific Ocean that are situated approximately 60 km apart. In 2004 and 2006, species-level monitoring at multiple sites, coupled with towed-diver surveys in 2002, 2004, and 2006 on both of these federally protected islands, revealed diverse fish, coral, macroinvertebrate, and algal assemblages. This study examines inter- and intra-island spatial and temporal differences in community composition among sites and presents baseline biological community parameters for two of the least impacted reef systems in the world. Despite similarities in species composition, permutational multivariate analysis of variance (PERMANOVA) and multidimensional scaling ordinations (nMDS) suggest biological communities at the two islands are distinct with Baker Island containing a greater percent cover of branched Acroporid corals and turf algae and Howland Island containing a greater percent cover of crustose coralline red algae and small, compact genera of coral. Both islands also contained considerable cover of non-invasive macroalgae. PERMANOVA further revealed benthic and fish species composition to differ between forereef and reef shelf sites from different sides of each island. When islands were considered as a whole, temporal changes were not noted between 2004 and 2006; however, temporal changes at select sites did occur, with coral cover decreasing significantly along the west side of Baker Island from 2004 to 2006. \" </Abstract>  <DOI>10.1007/s10531-009-9735-y </DOI>  <DOI-URL>http://dx.doi.org/10.1007/s10531-009-9735-y </DOI-URL>  <Date-Time-Last-Modified>20110202000000 </Date-Time-Last-Modified>  <URL>http://www.springerlink.com/content/n36t7k6r35421721/ </URL>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <CoRIS-Record-Type>article </CoRIS-Record-Type>  <Local-subject-index>article </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1d23346e6fa17ad0e9fa43e3f10f9949", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B3491E21C-3226-42E0-AADD-F88784A382E5%7D"
+}

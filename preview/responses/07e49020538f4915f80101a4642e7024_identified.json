@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/10283/540\"> <title>School of Mathematics Collection</title> <link>http://hdl.handle.net/10283/540</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/607\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/541\"/> </rdf:Seq> </items> <dc:date>2015-03-20T01:23:53Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/10283/607\"> <title>HypFun</title> <link>http://hdl.handle.net/10283/607</link> <description>HypFun MATLAB code for computing the confluent and Gauss hypergeometric functions using a range of numerical methods. </description> <dc:date>2014-07-29T11:03:16Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/10283/541\"> <title>Symmetry operators Mathematica notebook</title> <link>http://hdl.handle.net/10283/541</link> <description>Symmetry operators Mathematica notebook This a collection of files intended for verification of the results in the paper&#13; Andersson, L, B\\ufffd\\ufffdckdahl, T, Blue, P, \"Second order symmetry operators\", (2014) arXiv:1402.6252 [gr-qc]&#13; to appear in Class. Quantum Grav. </description> <dc:date>2014-04-17T16:23:36Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "07e49020538f4915f80101a4642e7024", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/rss_1.0/10283/540"
+}

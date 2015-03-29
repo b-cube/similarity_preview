@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:socrata=\"http://www.socrata.com/rdf/terms#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:ods=\"http://open-data-standards.github.com/2012/01/open-data-standards#\" xmlns:dcterm=\"http://purl.org/dc/terms/\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dsbase=\"http://data.ok.gov/resource/\" xmlns:ds=\"http://data.ok.gov/resource/ur9t-5iqd/\"> <dsbase:ur9t-5iqd rdf:about=\"http://data.ok.gov/resource/ur9t-5iqd/1\">     <socrata:rowID>1</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/ur9t-5iqd\"/>     <ds:years>2011</ds:years>     <ds:historical_data>55.8</ds:historical_data></dsbase:ur9t-5iqd> <dsbase:ur9t-5iqd rdf:about=\"http://data.ok.gov/resource/ur9t-5iqd/2\">     <socrata:rowID>2</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/ur9t-5iqd\"/>     <ds:years>2012</ds:years>     <ds:historical_data>58.8</ds:historical_data></dsbase:ur9t-5iqd> <dsbase:ur9t-5iqd rdf:about=\"http://data.ok.gov/resource/ur9t-5iqd/3\">     <socrata:rowID>3</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/ur9t-5iqd\"/>     <ds:years>2013</ds:years>     <ds:historical_data>60</ds:historical_data></dsbase:ur9t-5iqd> <dsbase:ur9t-5iqd rdf:about=\"http://data.ok.gov/resource/ur9t-5iqd/4\">     <socrata:rowID>4</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/ur9t-5iqd\"/>     <ds:years>2014</ds:years></dsbase:ur9t-5iqd> <dsbase:ur9t-5iqd rdf:about=\"http://data.ok.gov/resource/ur9t-5iqd/5\">     <socrata:rowID>5</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/ur9t-5iqd\"/>     <ds:years>2015</ds:years></dsbase:ur9t-5iqd> <dsbase:ur9t-5iqd rdf:about=\"http://data.ok.gov/resource/ur9t-5iqd/6\">     <socrata:rowID>6</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/ur9t-5iqd\"/>     <ds:years>2016</ds:years></dsbase:ur9t-5iqd> <dsbase:ur9t-5iqd rdf:about=\"http://data.ok.gov/resource/ur9t-5iqd/7\">     <socrata:rowID>7</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/ur9t-5iqd\"/>     <ds:years>2017</ds:years>     <ds:target>51</ds:target></dsbase:ur9t-5iqd></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "22511a526895f1e14965709ac54aa24b", 
+    "source_url": "https://data.ok.gov/api/views/ur9t-5iqd/rows.rdf?accessType=DOWNLOAD"
+}

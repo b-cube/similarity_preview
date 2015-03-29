@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <event_data eventid=\"c000rki5\" source=\"us\" network=\"us\" region=\"global\" process_timestamp=\"2015-01-30 21:15:27\" ciim_version=\"21\" code_version=\"1.3\" event_version=\"0\">   <event magnitude=\"7.9\" latitude=\"51.8486\" longitude=\"178.7352\" depth=\"109\" event_timestamp=\"2014-06-23 20:53:09\" localtime=\"Jun 23 2014 11:53:09 AM local\" locationtext=\"RAT ISLANDS, ALEUTIAN ISLANDS, ALASKA\" />   <cdi_summary nresponses=\"4\" max_intensity=\"5.4\" citydb=\"city_2009\" />   <products>     <category name=\"Maps\">       <product name=\"City map\">         <description><![CDATA[Map of responses by city or ZIP code]]></description>         <format type=\"image/jpeg\" file=\"usc000rki5_ciim.jpg\" />         <format type=\"application/pdf\" file=\"usc000rki5_ciim.pdf\" />         <format type=\"application/postscript\" file=\"usc000rki5_ciim.ps\" />         <format type=\"text/html\" file=\"usc000rki5_ciim_imap.html\" />       </product>     </category>     <category name=\"Plots\">       <product name=\"Intensity vs. Distance\">         <description><![CDATA[Plot of Attenuation (fall-off) with distance for each intensity versus its distance from the epicenter]]></description>         <format type=\"image/jpeg\" file=\"usc000rki5_plot_atten.jpg\" />         <format type=\"application/postscript\" file=\"usc000rki5_plot_atten.ps\" />       </product>       <product name=\"Responses vs. Time\">         <description><![CDATA[Plot of total number of responses since the event]]></description>         <format type=\"image/jpeg\" file=\"usc000rki5_plot_numresp.jpg\" />         <format type=\"application/postscript\" file=\"usc000rki5_plot_numresp.ps\" />       </product>     </category>     <category name=\"Data\">       <product name=\"Product List\">         <description><![CDATA[List of available DYFI maps and data for this event]]></description>         <format type=\"text/xml\" file=\"event_data.xml\" />       </product>       <product name=\"Intensity Summary\">         <description><![CDATA[Table of intensities aggregated by city or ZIP code]]></description>         <format type=\"text/plain\" file=\"cdi_zip.txt\" />         <format type=\"text/xml\" file=\"cdi_zip.xml\" />       </product>     </category>   </products> </event_data> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "69a2ccd883bd72f47f1e1ffddb51aaa2", 
+    "source_url": "http://earthquake.usgs.gov/archive/product/dyfi/usc000rki5/us/1422652532890/event_data.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <licenseClass id=\"pic_cc_by\"><field id=\"creator\"><label>Attribute work to name</label><description>The name of the creator of the work</description></field><field id=\"workurl\"><label>Attribute work to URL</label><description>The URL of the work</description></field><field id=\"title\"><label>Title of Work</label><description>The title of the work</description></field><field id=\"holder\"><label>Holder</label><description>The name of the work holder</description></field><field id=\"year\"><label>Year</label><description>The year in which the work was produced</description></field><field id=\"type\"><label>Format of Work</label><description>The format of the work</description></field><field id=\"outputType\"><description>The format of the output</description><label>License Output format</label><label>XML having License HTML and RDF</label><label>License HTML ONLY</label></field><field id=\"description\"><label>Description</label><description>A brief description of the work</description></field></licenseClass>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d9b3db4db3c23eb33ebbdcef925ef238", 
+    "source_url": "http://nsidc.org/api/picbadge/licenses/pic_cc_by/"
+}

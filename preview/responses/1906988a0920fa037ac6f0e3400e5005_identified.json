@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Kentish Flats Offshore Wind Farm: Post-Construction Oyster Sampling</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:782091f5be9c5aeca4d5c1a67de8d97d</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">This project concerns the presence of oysters at the site of Kentish Flats Offshore Wind Farm after its construction. A series of field sampling of the local native oysters was undertaken to be able to assess the levels of specific chemicals in the flesh of the oysters. A comparison is made between the pre and post construction results. </dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2005-08-31</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1906988a0920fa037ac6f0e3400e5005", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__782091f5be9c5aeca4d5c1a67de8d97d.xml/DC"
+}

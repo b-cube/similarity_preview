@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\">  <service>   <engineName>EasyBlog!</engineName>   <engineLink>www.stackideas.com</engineLink>   <siteName>Center for Watershed Protection</siteName>   <homePageLink>http://www.cwp.org/index.php?option=com_easyblog</homePageLink>   <apis>    <api name=\"EasyBlog\" blogID=\"1\" preferred=\"true\" apiLink=\"http://www.cwp.org/index.php?option=com_easyblog&amp;controller=xmlrpc\" rpcLink=\"http://www.cwp.org/index.php?option=com_easyblog&amp;controller=xmlrpc\" />    <api name=\"MetaWeblog\" blogID=\"1\" preferred=\"false\" apiLink=\"http://www.cwp.org/index.php?option=com_easyblog&amp;controller=xmlrpc\" />   </apis>  </service> </rsd> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9edc83f4cd1f93d3e4ab66f03b5b6bcc", 
+    "source_url": "http://www.cwp.org/2013-04-07-22-15-38?rsd=RealSimpleDiscovery"
+}

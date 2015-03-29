@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"                        xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <ShortName>CTAN search</ShortName>   <Description>Search on CTAN for TeX-related material</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">http://www.ctan.org/images/favicon.ico</Image>   <Url type=\"text/html\" method=\"get\" template=\"http://www.ctan.org/search\">     <Param name=\"phrase\" value=\"{searchTerms}\"/>   </Url>   <moz:SearchForm>http://www.ctan.org/search</moz:SearchForm> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "476831fab39f254b30514f46d28af63c", 
+    "source_url": "http://www.ctan.org/search/open-search.xml"
+}

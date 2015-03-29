@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:doap=\"http://usefulinc.com/ns/doap#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:admin=\"http://webns.net/mvcb/\" xml:lang=\"en\">   <rdf:Description rdf:about=\"\">     <admin:generatorAgent rdf:resource=\"http://doapy.bonjourlesmouettes.org/doap-a-matic\"/>   </rdf:Description>   <doap:Project>     <doap:name>IsaViz: A Visual Authoring Tool for RDF</doap:name>     <doap:shortname>IsaViz</doap:shortname>     <doap:homepage rdf:resource=\"http://www.w3.org/2001/11/IsaViz/\"/>     <doap:created>2001-11-01</doap:created>     <doap:description>IsaViz is a visual environment for browsing and authoring RDF models represented as graphs. It features a 2.5D user interface allowing smooth zooming and navigation in the graph. It allows the &#13; creation and editing of graphs by drawing ellipses, boxes and arcs.&#13; &#13; IsaViz provides support for GSS stylesheets, a visual debugger for FSL path expressions, and will soon support the Fresnel ontology for modeling RDF data presentation knowledge.</doap:description>     <doap:shortdesc>Visual environment for browsing and authoring RDF models represented as graphs.</doap:shortdesc>     <doap:mailing-list rdf:resource=\"http://lists.w3.org/Archives/Public/www-isaviz/\"/>     <doap:screenshots rdf:resource=\"http://www.w3.org/2001/11/IsaViz/images/isv8.png\"/>     <doap:programming-language>Java</doap:programming-language>     <doap:license rdf:resource=\"http://usefulinc.com/doap/licenses/w3c\"/>     <doap:download-page rdf:resource=\"http://www.w3.org/2001/11/IsaViz/\"/>     <doap:maintainer>       <foaf:Person>         <foaf:name>Emmanuel Pietriga</foaf:name>         <foaf:mbox_sha1sum>9f1c3d906a2f41f3ff5b7a566e385aa4fe7d704a</foaf:mbox_sha1sum>         <rdfs:seeAlso rdf:resource=\"http://www.lri.fr/~pietriga/foaf.rdf\"/>       </foaf:Person>     </doap:maintainer>     <doap:repository>       <doap:CVSRepository>         <doap:anon-root>:pserver:anonymous@dev.w3.org:/sources/public/java/classes/org/w3c/IsaViz</doap:anon-root>         <doap:module>IsaViz</doap:module>         <doap:browse rdf:resource=\"http://dev.w3.org/cvsweb/java/classes/org/w3c/IsaViz/\"/>       </doap:CVSRepository>     </doap:repository>   </doap:Project> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "en", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "05d2616d8bd93d7764f268e630786a61", 
+    "source_url": "http://www.w3.org/2001/11/IsaViz/doap.rdf"
+}

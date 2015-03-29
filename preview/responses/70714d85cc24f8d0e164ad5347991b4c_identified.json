@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>5933</id>   <unit>30.1</unit>   <dept_name>Administration and Finance, Vice Chancellor for</dept_name>   <sub_name>Policy, Property, and Administrative Contracts</sub_name>   <main_number>3626</main_number>   <location>MAIN 414</location>   <comments>     <comment></comment>   </comments>   <employees> <employee>   <id>26363</id>   <name>Lapioli, Debbie</name>   <phone>3626</phone>   <title>Program Manager</title>   <department>Administration and Finance, Vice Chancellor for</department>   <sub_unit>Policy, Property, and Administrative Contracts</sub_unit>   <location>MAIN 414D</location>   <email>dlapioli@uccs.edu</email>   <extra></extra>   <ntname>dlapioli</ntname>   <unit>30.1</unit>   <order>1</order> </employee>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "70714d85cc24f8d0e164ad5347991b4c", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=30.1&type=details_by_unit"
+}

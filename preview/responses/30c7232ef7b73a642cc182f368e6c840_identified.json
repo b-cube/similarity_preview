@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <results id=\"\" name=\"Tara spinosa\" total_number_of_results=\"1\" number_of_results_returned=\"1\" start=\"0\" error_message=\"\" version=\"1.6 [r1152] rev 1152\">   <result>     <id>623160</id>     <name>Tara spinosa</name>     <rank>Species</rank>     <name_status>synonym</name_status>     <online_resource></online_resource>     <source_database>ILDIS World Database of Legumes</source_database>     <source_database_url>http://www.ildis.org</source_database_url>     <name_html><![CDATA[<i>Tara spinosa</i> (Molina)Britton & Rose]]></name_html>     <url>http://www.catalogueoflife.org/annual-checklist/2011/details/species/id/614291/synonym/623160</url>     <accepted_name/>   </result> </results> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "30c7232ef7b73a642cc182f368e6c840", 
+    "source_url": "http://www.catalogueoflife.org/annual-checklist/2011/webservice?name=Tara+spinosa"
+}

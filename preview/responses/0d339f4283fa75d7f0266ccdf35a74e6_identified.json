@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Date-Time-Last-Modified>19830201082511 </Date-Time-Last-Modified>  <Personal-Name>Nolan, Ron Scott, 1947- </Personal-Name>  <Title>The ecology of patch reef fishes / by Ron Scott Nolan. </Title>  <Imprint>1975. </Imprint>  <Physical-Description>230 leaves : ill., graphs ; 21 cm. </Physical-Description>  <General-Note>Vita. </General-Note>  <Dissertation-Note>Thesis--University of California, San Diego. </Dissertation-Note>  <Bibliography-Note>Bibliography: leaves 189-194. </Bibliography-Note>  <Subject-Added-Topical-Term>Fishes Marshall Islands Enewetak Atoll Ecology. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Coral reef ecology Marshall Islands Enewetak Atoll. </Subject-Added-Topical-Term>  <Access-Information>NOS Rice Library, Beaufort, NC|STACKS|QL636.5.E5 N65|BOOK|1 </Access-Information>  <Region>RMI </Region>  <Bounding>  <Eastbc>169.97 </Eastbc>  <Westbc>162.302 </Westbc>  <Southbc>5.573 </Southbc>  <Northbc>14.71 </Northbc>  </Bounding>  <Local-number>OCoLC-ocm06552230 </Local-number>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0d339f4283fa75d7f0266ccdf35a74e6", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B4A6F66EA-293E-420B-B828-33B7E17ABD9A%7D"
+}

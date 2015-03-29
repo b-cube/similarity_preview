@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <dataCollection>   <info>     <title>January  U.S. Wildfires (2000-2014)</title>     <missing>-9999</missing>   </info>   <data>     <date>2000</date>     <fires>2,796</fires>     <acres>40,757</acres>     <acres_per_fire>14.6</acres_per_fire>   </data>   <data>     <date>2001</date>     <fires>1,231</fires>     <acres>44,334</acres>     <acres_per_fire>36.0</acres_per_fire>   </data>   <data>     <date>2002</date>     <fires>1,383</fires>     <acres>10,079</acres>     <acres_per_fire>7.3</acres_per_fire>   </data>   <data>     <date>2003</date>     <fires>1,964</fires>     <acres>18,818</acres>     <acres_per_fire>9.6</acres_per_fire>   </data>   <data>     <date>2004</date>     <fires>1,740</fires>     <acres>15,386</acres>     <acres_per_fire>8.8</acres_per_fire>   </data>   <data>     <date>2005</date>     <fires>1,674</fires>     <acres>9,735</acres>     <acres_per_fire>5.8</acres_per_fire>   </data>   <data>     <date>2006</date>     <fires>3,507</fires>     <acres>330,447</acres>     <acres_per_fire>94.2</acres_per_fire>   </data>   <data>     <date>2007</date>     <fires>387</fires>     <acres>4,597</acres>     <acres_per_fire>11.9</acres_per_fire>   </data>   <data>     <date>2008</date>     <fires>1,380</fires>     <acres>40,804</acres>     <acres_per_fire>29.6</acres_per_fire>   </data>   <data>     <date>2009</date>     <fires>2,481</fires>     <acres>57,150</acres>     <acres_per_fire>23.0</acres_per_fire>   </data>   <data>     <date>2010</date>     <fires>1,081</fires>     <acres>19,052</acres>     <acres_per_fire>17.6</acres_per_fire>   </data>   <data>     <date>2011</date>     <fires>1,526</fires>     <acres>17,352</acres>     <acres_per_fire>11.4</acres_per_fire>   </data>   <data>     <date>2012</date>     <fires>1,758</fires>     <acres>62,909</acres>     <acres_per_fire>35.8</acres_per_fire>   </data>   <data>     <date>2013</date>     <fires>964</fires>     <acres>8,573</acres>     <acres_per_fire>8.9</acres_per_fire>   </data>   <data>     <date>2014</date>     <fires>2,584</fires>     <acres>38,078</acres>     <acres_per_fire>14.7</acres_per_fire>   </data> </dataCollection> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f382db86b54b1e8b35223db5c2f3b3d3", 
+    "source_url": "http://www.ncdc.noaa.gov/societal-impacts/wildfires/month/1.xml"
+}

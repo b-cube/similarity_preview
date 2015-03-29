@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>OnePetro</ShortName><Description>Search OnePetro</Description><Tags>OnePetro</Tags><Url type=\"text/html\" method=\"get\" template=\"https://www.onepetro.org/opensearch.xml?title=OnePetro&amp;autocompletePath=%2Fautocomplete%3Fq%3D%7BsearchTerms%7D/search?q={searchTerms}\"/><Url type=\"application/json\" template=\"/autocomplete?q={searchTerms}\" rel=\"suggestions\"/><Image height=\"16\" width=\"16\" type=\"https://www.onepetro.org/opensearch.xml?title=OnePetro&amp;autocompletePath=%2Fautocomplete%3Fq%3D%7BsearchTerms%7D/static/img/favicon.ico\">https://www.onepetro.org/opensearch.xml?title=OnePetro&amp;autocompletePath=%2Fautocomplete%3Fq%3D%7BsearchTerms%7D/static/img/favicon.ico</Image><AdultContent>false</AdultContent></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "92ab2e476925c69c7d2cd032b20a1396", 
+    "source_url": "https://www.onepetro.org/opensearch.xml?title=OnePetro&autocompletePath=%2Fautocomplete%3Fq%3D%7BsearchTerms%7D"
+}

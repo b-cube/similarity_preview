@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <?xml-stylesheet href=\"mmab.xsl\" type=\"text/xsl\" ?>  <person>  <name>Todd Spindler</name>  <title>Research Oceanographer</title>  <extension>3757</extension>  <email>Todd.Spindler@noaa.gov</email>  <employer>IMSG</employer>  <site>College Park, MD</site>  <blurb>  Global and regional ocean modeling, short-term ocean forecasting,  occasional matlab wizardry.  </blurb>  <more>     <group>       <link>/ofs</link>       <text>OFS model</text>     </group>  </more> </person> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7ef3d097e34de262ca4f076fca67cfd7", 
+    "source_url": "http://polar.ncep.noaa.gov/mmab/people/todd.xml"
+}

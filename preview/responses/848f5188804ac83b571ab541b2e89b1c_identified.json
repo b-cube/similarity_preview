@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Williams2010b </Local-number>  <Author>Williams, G. J., Knapp, I. S., Maragos, J. E., Davy, S. K. </Author>  <Title>Modeling patterns of coral bleaching at a remote Central Pacific atoll </Title>  <Institution>Centre for Marine Environmental and Economic Research, Victoria University of Wellington </Institution>  <Journal-Title>Marine Pollution Bulletin </Journal-Title>  <Publication-Date><caldate>2010 </caldate></Publication-Date>  <Volume-ID>60 </Volume-ID>  <Issue-ID>9 </Issue-ID>  <Extent>1467-1476 </Extent>  <Notes>Funded in part by The National Geographic Society </Notes>  <fundingorganization>  <id>The National Geographic Society </id>  </fundingorganization>  <Abstract>\"A mild bleaching event (9.2% prevalence) at Palmyra Atoll occurred in response to the 2009 ENSO, when mean water temperature reached 29.8-30.1 deg C. Prevalence among both abundant and sparse taxa varied with no clear pattern in susceptibility relating to coral morphology. Seven taxon-specific models showed that turbidity exacerbated while prior exposure to higher background temperatures alleviated bleaching, with these predictors explaining an average 16.3% and 11.5% variation in prevalence patterns, respectively. Positive associations occurred between bleaching prevalence and both immediate temperature during the bleaching event (average 8.4% variation explained) and increased sand cover (average 3.7%). Despite these associations, mean unexplained variation in prevalence equaled 59%. Lower bleaching prevalence in areas experiencing higher background temperatures suggests acclimation to temperature stress among several coral genera, while WWII modifications may still be impacting the reefs via shoreline sediment re-distribution and increased turbidity, exacerbating coral bleaching susceptibility during periods of high temperature stress.\" </Abstract>  <DOI>10.1016/j.marpolbul.2010.05.009 </DOI>  <DOI-URL>http://dx.doi.org/10.1016/j.marpolbul.2010.05.009 </DOI-URL>  <Keywords>Modeling coral bleaching; 2009 ENSO; Temperature; Turbidity; Sand cover; Palmyra Atoll </Keywords>  <Date-Time-Last-Modified>20150112000000 </Date-Time-Last-Modified>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <CoRIS-Record-Type>article </CoRIS-Record-Type>  <Local-subject-index>article </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "848f5188804ac83b571ab541b2e89b1c", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B94102B5A-8F8E-4A76-827E-30861722C0F0%7D"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">British Geological Survey (BGS) Geophysical and Sampling Survey 1973/9: Humber (30/08/1973 to 17/09/1973)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-5423-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">This geophysical and sampling survey has been carried out by British Geological Survey (BGS) for BGS, the survey took place in August to October 1973 in the Upper Humber on board the MV Wyke. The purpose was to collect data as part of UK regional mapping programme. Sub-bottom profiling data were collected using sparker. Sample data were collected using hand corer; Vibrocorer and Shipek Grab. These data are archived by BGS. No BGS survey report currently available.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">1973-09-17</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "50b0d1df05967dfd188cd8698271aaf8", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-5423-0f38-e044-0003ba9b0d98.xml/DC"
+}

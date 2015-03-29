@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.absw-mpls-lsp-ping-mpls-tp-oam-conf'> <front> <title>Configuration of pro-active MPLS-TP Operations, Administration, and Maintenance (OAM) Functions Using LSP Ping</title>  <author initials='E' surname='Bellagamba' fullname='Elisa Bellagamba'>     <organization /> </author>  <author initials='L' surname='Andersson' fullname='Loa Andersson'>     <organization /> </author>  <author initials='P' surname='Skoldstrom' fullname='Pontus Skoldstrom'>     <organization /> </author>  <author initials='D' surname='Ward' fullname='David Ward'>     <organization /> </author>  <date month='July' day='2' year='2010' />  <abstract><t>This specification describes the configuration of pro-active MPLS-TP Operations, Administration, and Maintenance (OAM) Functions for a given LSP using a common set of TLVs that is carried on LSP Ping.</t></abstract>  </front>  <seriesInfo name='Internet-Draft' value='draft-absw-mpls-lsp-ping-mpls-tp-oam-conf-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-absw-mpls-lsp-ping-mpls-tp-oam-conf-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2a57d779ab1898dad4b47b83f538ec20", 
+    "source_url": "http://xml2rfc.tools.ietf.org/public/rfc/bibxml3/reference.I-D.absw-mpls-lsp-ping-mpls-tp-oam-conf.xml"
+}

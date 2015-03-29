@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20113109</identifier><identifier type=\"pwpk\">70005772</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2011-3109</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Applying remote sensing to invasive species science&amp;mdash;A tamarisk example</title></titleInfo><originInfo><dateOther>Tue, 18 Oct 2011 00:00 -0500</dateOther><dateIssued>2011</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Morisette, Jeffrey T.</namePart><role>Author</role></name><abstract>The Invasive Species Science Branch of the Fort Collins Science Center provides research and technical assistance relating to management concerns for invasive species, including understanding how these species are introduced, identifying areas vulnerable to invasion, forecasting invasions, and developing control methods. This fact sheet considers the invasive plant species tamarisk (Tamarix spp), addressing three fundamental questions:&#xd; *Where is it now?&#xd; *What are the potential or realized ecological impacts of invasion?&#xd; *Where can it survive and thrive if introduced?&#xd; It provides peer-review examples of how the U.S. Geological Survey, working with other federal agencies and university partners, are applying remote-sensing technologies to address these key questions.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2011_3109.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2011/3109/</url></location><note type=\"citation/reference\">Applying remote sensing to invasive species science&amp;mdash;A tamarisk example; 2011; FS; 2011-3109; Fact Sheet; Morisette, Jeffrey T.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cc46b0d310d9ff8baf7c791baebebdb5", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20113109"
+}

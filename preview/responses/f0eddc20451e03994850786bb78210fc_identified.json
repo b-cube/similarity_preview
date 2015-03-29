@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0022'>  <front> <title>Host-host control message formats</title> <author initials='V.G.' surname='Cerf' fullname='V.G. Cerf'> <organization /></author> <date year='1969' month='October' /></front>  <seriesInfo name='RFC' value='22' /> <format type='TXT' octets='4606' target='http://www.rfc-editor.org/rfc/rfc22.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f0eddc20451e03994850786bb78210fc", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-rfcs/reference.RFC.0022.xml"
+}

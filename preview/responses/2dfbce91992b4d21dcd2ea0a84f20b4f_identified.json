@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/1853/13245\"> <title>Office of Student Integrity</title> <link>http://hdl.handle.net/1853/13245</link> <description>The Office of Student Integrity encourages a comprehensive learning environment through the promotion and implementation of the Academic Honor Code / Student Code of Conduct to foster integrity and ethical conduct within the Georgia Tech community.</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/52746\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/52677\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/49161\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/47198\"/> </rdf:Seq> </items> <dc:date>2015-03-15T23:12:06Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/1853/52746\"> <title>Student Code of Conduct [April 2014]</title> <link>http://hdl.handle.net/1853/52746</link> <description>Student Code of Conduct [April 2014] NOTE: These HTML files contain links to URIs outside of SMARTech. The Georgia Tech Library and Information Center cannot guarantee the authenticity of resources that reside outside the smartech.gatech.edu domain.  These documents are made available for historical purposes. </description> <dc:date>2014-04-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/1853/52677\"> <title>Academic Violations Statistics, Summer 2013 - Spring 2014</title> <link>http://hdl.handle.net/1853/52677</link> <description>Academic Violations Statistics, Summer 2013 - Spring 2014 </description> <dc:date>2014-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/1853/49161\"> <title>Academic Violation Statistics, Summer 2012-Spring 2013</title> <link>http://hdl.handle.net/1853/49161</link> <description>Academic Violation Statistics, Summer 2012-Spring 2013 </description> <dc:date>2013-06-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/1853/47198\"> <title>Student Code of Conduct November 2012</title> <link>http://hdl.handle.net/1853/47198</link> <description>Student Code of Conduct November 2012 NOTE: These HTML files contain links to URIs outside of SMARTech. The Georgia Tech Library and Information Center cannot guarantee the authenticity of resources that reside outside the smartech.gatech.edu domain.  These documents are made available for historical purposes. </description> <dc:date>2012-11-27T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2dfbce91992b4d21dcd2ea0a84f20b4f", 
+    "source_url": "https://smartech.gatech.edu/feed/rss_1.0/1853/13245"
+}

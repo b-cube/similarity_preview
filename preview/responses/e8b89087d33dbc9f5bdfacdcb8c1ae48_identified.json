@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><xml><records><record><source-app name=\"HighWire\" version=\"7.x\">Drupal-HighWire</source-app><ref-type name=\"Journal Article\">17</ref-type><contributors><authors><author><style face=\"normal\" font=\"default\" size=\"100%\">Keeling, M. J.</style></author></authors><secondary-authors></secondary-authors></contributors><titles><title><style face=\"normal\" font=\"default\" size=\"100%\">The effects of local spatial structure on epidemiological invasions</style></title><secondary-title><style face=\"normal\" font=\"default\" size=\"100%\">Proceedings of the Royal Society of London B: Biological Sciences</style></secondary-title></titles><dates><year><style  face=\"normal\" font=\"default\" size=\"100%\">1999</style></year><pub-dates><date><style  face=\"normal\" font=\"default\" size=\"100%\">1999-04-22 08:00:00</style></date></pub-dates></dates><pages><style  face=\"normal\" font=\"default\" size=\"100%\">859-867</style></pages><abstract><style  face=\"normal\" font=\"default\" size=\"100%\">M. J. KeelingZoology Department, University of Cambridge, Downing Street, Cambridge CB2 3EJ, UK  (matt{at}zoo.cam.ac.uk)Abstract     Predicting the likely success of invasions is vitally important in ecology and especially epidemiology. Whether an organism can successfully invade and persist in the short\\ufffd\\ufffd\\ufffdterm is highly dependent on the spatial correlations that develop in the early stages of invasion. By modelling the correlations between individuals, we are able to understand the role of spatial heterogeneity in invasion dynamics without the need for large\\ufffd\\ufffd\\ufffdscale computer simulations. Here, a natural methodology is developed for modelling the behaviour of individuals in a fixed network. This formulation is applied to the spread of a disease through a structured network to determine invasion thresholds and some statistical properties of a single epidemic.    correlation equationscontact networksspatial heterogeneitybasic reproductive ratiofinal sizeinvasion</style></abstract><number><style face=\"normal\" font=\"default\" size=\"100%\">1421</style></number><volume><style face=\"normal\" font=\"default\" size=\"100%\">266</style></volume></record></records></xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e8b89087d33dbc9f5bdfacdcb8c1ae48", 
+    "source_url": "http://rspb.royalsocietypublishing.org/highwire/citation/14644/endnote8"
+}

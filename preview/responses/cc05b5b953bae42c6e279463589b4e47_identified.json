@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Determining sex ratios of turtle hatchlings</dc:title>    <dcterms:alternative>Determining sex ratios of turtle hatchlings</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>leatherback, hawksbill, ecology, turtle, sex ratio, hatchling, temperature</dc:subject>    <dcterms:abstract>Previous status assessments of marine turtles have assumed that the natural sex ratio of a marine turtle population is 1:1 (e.g. Conant et al. 2009). However, this is largely speculative and is based on few data, a troubling fact considering the importance of sex ratios when modeling the status of marine turtle populations. Marine turtles exhibit temperature sex determination (TSD), such that the overall sex ratio of hatchlings produced on a nesting beach is affected by the incubation temperatures on that beach (Mrosovsky and Yntema 1980, Rimblot et al. 1985). This creates unique susceptibility of marine turtles to global climate change and deforestation at nesting beaches (Hawkes et al. 2007). And although research has shown that the temperature threshold may vary among species and beaches, there are relatively few studies on hatchling sex ratios (Chevalier et al. 1999, Wibbels 2003, Mrosovsky et al. 2009). Considering the extreme importance of knowing sex ratio when modeling population abundance and trends, it is essential to conduct studies to determine sex ratio at various nesting beaches. In this study, we proposed to monitor thermal environments at the St. Croix, USVI, leatherback turtle nesting beach and the Bahia de Jiquilisco-Xiriualtique Biosphere Reserve in El Salvador for hawksbill turtles.</dcterms:abstract>    <dc:publisher>Southwest Fisheries Science Center</dc:publisher>    <dc:creator>Eguchi, Tomo </dc:creator>    <dc:creator>Southwest Fisheries Science Center</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/12736</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/11041</dcterms:isPartOf>    <dcterms:spatial>                         name=U.S. Virgin Islands and El Salvador;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:Period\">                           start=2012-04;                         </dcterms:temporal> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cc05b5b953bae42c6e279463589b4e47", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/12736/dublin-core"
+}

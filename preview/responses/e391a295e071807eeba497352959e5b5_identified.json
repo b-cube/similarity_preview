@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>The evolution of Surinamese emigration across and beyond independence: The role of origin and destination states</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Vezzoli</surname>             <given-names>Simona</given-names>           </name>           <aff>             <institution>International Migration Institute, University of Oxford</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/12957\"/>       <self-uri xlink:href=\"https://zenodo.org/record/12957/files/WP106_The_evolution_of_Surinamese_emigration_across_and_beyond_independence.pdf\"/>     </article-meta>     <abstract>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;This paper examines how states in origin and destinations countries shape migration by exploring emigration from Suriname from the 1950s to the 2010s. Suriname experienced substantial emigration growth, particularly between 1973 and 1980, a period that included independence from the Netherlands, a coup d&amp;rsquo;&amp;eacute;tat and the end of the preferential immigration channel with the Netherlands. Using a historical approach that combines the analysis of migration literature, primary documentary sources and qualitative interviews of Surinamese migrants, returnees and non-migrants mainly in Suriname, this paper examines migration volumes, timing, destination and variations across different segments of the population. The paper finds that the political and economic uncertainties associated with independence and the establishment of a border regime had an important impact on the evolution of Surinamese migration, but also points to the importance of educational aspirations, long-term socio-economic conditions in Suriname, and employment opportunities and family connections in the Netherlands. Dutch migration policies also affected Surinamese migration, first stimulating emigration in the 1973&amp;ndash;1980 period and then encouraging family reunification and irregular migration. The timing of these factors has contributed to the strong post-colonial influence in Surinamese migration.&lt;/p&gt;</abstract>   </front>   <article-type>user-intmiginstitute</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e391a295e071807eeba497352959e5b5", 
+    "source_url": "https://zenodo.org/record/12957/export/xn"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.li-avt-vocoder\"> <front> <title>An RTP Payload Format for EVRC, SMV and Other Frame-Based Vocoders</title>  <author initials=\"A\" surname=\"Li\" fullname=\"Adam Li\">     <organization /> </author>  <date month=\"November\" day=\"12\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-li-avt-vocoder-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a45d2597ce2a903c67705b3c5d69bfc0", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.li-avt-vocoder.xml"
+}

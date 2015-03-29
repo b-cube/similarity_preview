@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <oembed><provider_url>http://www.youtube.com/</provider_url><type>video</type><thumbnail_height>360</thumbnail_height><height>270</height><thumbnail_url>http://i.ytimg.com/vi/nrG3kiGkeU4/hqdefault.jpg</thumbnail_url><width>480</width><provider_name>YouTube</provider_name><html>&lt;iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/nrG3kiGkeU4?feature=oembed\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</html><author_name>NOAAVisualizations</author_name><version>1.0</version><author_url>http://www.youtube.com/user/NOAAVisualizations</author_url><thumbnail_width>480</thumbnail_width><title>June 13, 2013 Storms on the East Coast</title></oembed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3a306150157e775f95fdd7972865da02", 
+    "source_url": "http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnrG3kiGkeU4&format=xml"
+}

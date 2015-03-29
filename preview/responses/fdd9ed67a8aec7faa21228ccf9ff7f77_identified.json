@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.WD-rdf-mt-20020429\"> <front> <title>RDF Model Theory</title>  <author initials=\"P\" surname=\"Hayes\" fullname=\"Patrick Hayes\">     <organization /> </author>  <date month=\"April\" day=\"29\" year=\"2002\" /> </front>  <seriesInfo name=\"W3C WD\" value=\"WD-rdf-mt-20020429\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/2002/WD-rdf-mt-20020429\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fdd9ed67a8aec7faa21228ccf9ff7f77", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-rdf-mt-20020429.xml"
+}

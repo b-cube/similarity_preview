@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Herzog, Alexandra</a1>   <a2>Friedl, Felix</a2>   <a2>J\\ufffd\\ufffdhne, Bernd</a2>   <t1>Simultaneous high-resolution LIF measurements of dissolved gas concentration fields and measurements of wave slope at a wavy free water surface with wind-induced turbulence</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;In this study we present a significantly improved LIF technique that is suitable for high-resolution measurements of dissolved gas concentration fields in a vertical plane oriented in wind-direction close to a wavy water surface in wind/wave facilities.&lt;/p&gt;</ab>   <la/>   <k1>wind-induced turbulence;                 free surface;                 scalar flux;                 LIF;                 fluorescence imaging;                 wind waves;                 </k1>   <pb/>   <pp/>   <yr>2010-07-05</yr>   <ed/>   <ul>http://ltces.dem.ist.utl.pt/lxlaser/lxlaser2010/;  https://zenodo.org/record/15132/files/HerzogFriedlJaehne_SympApplLaserTechFluidMech_Lisbon2010a.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aebc691f748d7ed0ffdde42403f08b3c", 
+    "source_url": "https://zenodo.org/record/15132/export/xw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Material And Social Construction: A Framework For The Adaptation Of Buildings</dc:title><dc:creator>Keenan, Jesse M.</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Climate change</dc:subject><dc:subject>Architecture</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8H70DP1</dc:identifier><dc:description>This article is a formulation of a framework for understanding the nature of change, particularly climate change, as it applies to the scale of a building. Through an exploration of various scientific and social scientific literature, the article positions the concept of adaptation as the appropriate mode for understanding and managing change. Through the classification of a duality of material and social construction in the ontological composition of a building, various lines of thought relating to adaptive capacity and adaptive cycling within systems theory are appropriated within an integrated framework of adaptation. Specifically, it is theorized that as buildings as objects are developing greater capacities for integrated operations and management through artificial intelligence, they will possess an ex ante capacity to autonomously adapt in dynamic relation to and with the ex post adaptation of owners and operators. It is argued that this top-down and bottom-up confluence of multi-scalar dynamic change along an adaptive cycle is consistent with the prevailing Theory of Panarchy applied in social-ecological systems theory. The article concludes with perspectives on the limitations of systems theory in architecture, future directions for research and an alternative positioning of professional practices.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f354a59b6253a847e478762bab735e93", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A184005.dc_xml"
+}

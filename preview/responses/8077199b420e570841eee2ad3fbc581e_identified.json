@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OAI-PMH xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd\"><responseDate>2015-03-18T23:37:42Z</responseDate><request>http://aura.abdn.ac.uk/dspace-oai/request</request><error code=\"badVerb\">Illegal verb</error></OAI-PMH>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": true, 
+        "version": "", 
+        "protocol": "OAI-PMH", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8077199b420e570841eee2ad3fbc581e", 
+    "source_url": "http://aura.abdn.ac.uk/dspace-oai/request"
+}

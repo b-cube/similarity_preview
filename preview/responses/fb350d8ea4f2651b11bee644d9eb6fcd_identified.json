@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../springs_qk_ref.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fb350d8ea4f2651b11bee644d9eb6fcd", 
+    "source_url": "http://webgis.wr.usgs.gov/globalgis/metadata_qr/springs_qk_ref_files/filelist.xml"
+}

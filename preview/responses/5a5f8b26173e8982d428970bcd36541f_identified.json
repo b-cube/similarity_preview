@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/allData/3001/NPP_D17BRDFS_L3\"                     ID=\"/opendap/hyrax/allData/3001/NPP_D17BRDFS_L3/\">             <thredds:catalogRef name=\"2012\" xlink:href=\"2012/catalog.xml\" xlink:title=\"2012\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/3001/NPP_D17BRDFS_L3/2012/\"/>             <thredds:catalogRef name=\"2013\" xlink:href=\"2013/catalog.xml\" xlink:title=\"2013\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/3001/NPP_D17BRDFS_L3/2013/\"/>             <thredds:dataset name=\"NOTICE\" ID=\"/opendap/hyrax/allData/3001/NPP_D17BRDFS_L3/NOTICE\">          <thredds:dataSize units=\"bytes\">1409</thredds:dataSize>          <thredds:date type=\"modified\">2014-08-04T15:22:14</thredds:date>          <thredds:access serviceName=\"file\" urlPath=\"/allData/3001/NPP_D17BRDFS_L3/NOTICE\"/>       </thredds:dataset>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "5a5f8b26173e8982d428970bcd36541f", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/allData/3001/NPP_D17BRDFS_L3/catalog.xml"
+}

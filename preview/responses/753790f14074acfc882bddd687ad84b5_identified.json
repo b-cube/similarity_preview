@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../final-cruise-report.htm\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"image003.gif\"/>  <o:File HRef=\"image004.gif\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "753790f14074acfc882bddd687ad84b5", 
+    "source_url": "http://www.arctic.noaa.gov/aro/russian-american/final-cruise-report_files/filelist.xml"
+}

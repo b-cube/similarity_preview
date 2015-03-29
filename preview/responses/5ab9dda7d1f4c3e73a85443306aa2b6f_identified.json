@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20143063</identifier><identifier type=\"pwpk\">70116916</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2014-3063</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Powder X-ray diffraction laboratory, Reston, Virginia</title></titleInfo><originInfo><dateOther>Thu, 7 Aug 2014 10:11 -0500</dateOther><dateIssued>2014</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Piatak, Nadine M.; Dulong, Frank T.; Jackson, John C.; Folger, Helen W.</namePart><role>Author</role></name><abstract>&lt;p>The powder x-ray diffraction (XRD) laboratory is managed jointly by the Eastern Mineral and Environmental Resources and Eastern Energy Resources Science Centers. Laboratory scientists collaborate on a wide variety of research problems involving other U.S. Geological Survey (USGS) science centers and government agencies, universities, and industry. Capabilities include identification and quantification of crystalline and amorphous phases, and crystallographic and atomic structure analysis for a wide variety of sample media. Customized laboratory procedures and analyses commonly are used to characterize non-routine samples including, but not limited to, organic and inorganic components in petroleum source rocks, ore and mine waste, clay minerals, and glassy phases. Procedures can be adapted to meet a variety of research objectives.&lt;/p></abstract><physicalDescription><form>2 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs20143063.jpg</url><url note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2014/3063/pdf/fs2014-3063.pdf</url><url note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2014/3063/</url></location><note type=\"citation/reference\">Powder X-ray diffraction laboratory, Reston, Virginia; 2014; FS; 2014-3063; Fact Sheet; Piatak, Nadine M.; Dulong, Frank T.; Jackson, John C.; Folger, Helen W.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5ab9dda7d1f4c3e73a85443306aa2b6f", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20143063"
+}

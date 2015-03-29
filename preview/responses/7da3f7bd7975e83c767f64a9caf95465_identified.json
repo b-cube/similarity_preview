@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xqueryx-20031219'> <front> <title>XML Syntax for XQuery 1.0 (XQueryX)</title>  <author initials='A' surname='Malhotra' fullname='Ashok Malhotra'>     <organization /> </author>  <author initials='J' surname='Melton' fullname='Jim Melton'>     <organization /> </author>  <author initials='M' surname='Rys' fullname='Michael Rys'>     <organization /> </author>  <author initials='J' surname='Robie' fullname='Jonathan Robie'>     <organization /> </author>  <date month='December' day='19' year='2003' /> </front>  <seriesInfo name='W3C WD' value='WD-xqueryx-20031219' /> <format type='HTML' target='http://www.w3.org/TR/2003/WD-xqueryx-20031219' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7da3f7bd7975e83c767f64a9caf95465", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xqueryx-20031219.xml"
+}

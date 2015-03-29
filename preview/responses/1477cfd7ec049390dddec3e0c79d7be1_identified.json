@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>   <ServiceException code=\"-2147024735\"> The specified path is invalid.    </ServiceException> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1477cfd7ec049390dddec3e0c79d7be1", 
+    "source_url": "http://maritimeboundaries.noaa.gov/arcgis/services/MaritimeBoundaries/US_Maritime_Limits_Boundaries/MapServer/WMSServer?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities"
+}

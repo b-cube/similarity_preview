@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Georgia Tech Basketball Programs and Guides</title> <link href=\"http://hdl.handle.net/1853/43415\" rel=\"alternate\"/> <subtitle>Georgia Tech Athletic Association basketball program and media guides.</subtitle> <id>http://hdl.handle.net/1853/43415</id> <updated>2015-03-15T23:21:09Z</updated> <dc:date>2015-03-15T23:21:09Z</dc:date> <entry> <title>2014-2015 Women's Basketball Guide</title> <link href=\"http://hdl.handle.net/1853/52757\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52757</id> <updated>2014-11-05T08:32:37Z</updated> <published>2014-01-01T00:00:00Z</published> <summary type=\"text\">2014-2015 Women's Basketball Guide </summary> <dc:date>2014-01-01T00:00:00Z</dc:date> </entry> <entry> <title>2014-2015 Men's Basketball Guide</title> <link href=\"http://hdl.handle.net/1853/52756\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52756</id> <updated>2014-11-05T08:32:32Z</updated> <published>2014-01-01T00:00:00Z</published> <summary type=\"text\">2014-2015 Men's Basketball Guide </summary> <dc:date>2014-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Georgia Tech Women's Basketball 2010-2011</title> <link href=\"http://hdl.handle.net/1853/50976\" rel=\"alternate\"/> <author> <name>Georgia Tech Sports Information Office</name> </author> <id>http://hdl.handle.net/1853/50976</id> <updated>2014-02-19T08:31:26Z</updated> <published>2010-01-01T00:00:00Z</published> <summary type=\"text\">Georgia Tech Women's Basketball 2010-2011 Georgia Tech Sports Information Office </summary> <dc:date>2010-01-01T00:00:00Z</dc:date> <dc:creator>Georgia Tech Sports Information Office</dc:creator> </entry> <entry> <title>Georgia Tech Women's Basketball 2011-2012</title> <link href=\"http://hdl.handle.net/1853/50975\" rel=\"alternate\"/> <author> <name>Georgia Tech Sports Information Office</name> </author> <id>http://hdl.handle.net/1853/50975</id> <updated>2014-02-19T08:37:42Z</updated> <published>2011-01-01T00:00:00Z</published> <summary type=\"text\">Georgia Tech Women's Basketball 2011-2012 Georgia Tech Sports Information Office </summary> <dc:date>2011-01-01T00:00:00Z</dc:date> <dc:creator>Georgia Tech Sports Information Office</dc:creator> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d9142877af390a2086316ec7a51957c1", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/43415"
+}

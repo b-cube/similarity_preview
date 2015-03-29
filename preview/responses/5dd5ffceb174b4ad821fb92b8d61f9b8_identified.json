@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-network-error-logging-20150305'            target='http://www.w3.org/TR/2015/WD-network-error-logging-20150305'> <front> <title>Network Error Logging</title>  <author initials='I.' surname='Grigorik' fullname='Ilya Grigorik'>     <organization /> </author>  <author initials='A.' surname='Jain' fullname='Arvind Jain'>     <organization /> </author>  <author initials='J.' surname='Mann' fullname='Jatinder Mann'>     <organization /> </author>  <date month='March' day='5' year='2015' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-network-error-logging-20150305' /> <format type='HTML' target='http://www.w3.org/TR/2015/WD-network-error-logging-20150305' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5dd5ffceb174b4ad821fb92b8d61f9b8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-network-error-logging-20150305.xml"
+}

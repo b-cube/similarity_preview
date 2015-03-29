@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-15\"?>   <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns=\"http://purl.org/rss/1.0/\"   xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">    <channel rdf:about=\"http://www.geoss-ecp.org/.cps_portlets/portlet_foldercontents/render?export=rss_1_0&amp;path=sections/gas\">     <title>GEOSS-ECP - Folder contents</title>     <description></description>     <link>http://www.geoss-ecp.org/.cps_portlets/portlet_foldercontents/render?export=rss_1_0&amp;path=sections/gas</link>      <items>       <rdf:Seq>                               <rdf:li rdf:resource=\"/sections/gas/earth-observation\" />                         </rdf:Seq>     </items>   </channel>                <item rdf:about=\"/sections/gas/earth-observation\">          <title>Earth Observation metocean requirements of the oil &amp; gas industry</title>          <description></description>          <link>/sections/gas/earth-observation</link>                                                                                                                 </item>         </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "55d6219d4a4293d36efe3d166ef0df68", 
+    "source_url": "http://www.geoss-ecp.org/.cps_portlets/portlet_foldercontents/render?export=rss_1_0&path=sections/gas"
+}

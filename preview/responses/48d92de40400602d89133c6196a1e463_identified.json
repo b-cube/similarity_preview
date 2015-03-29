@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for Molecule Polarity -->  <jnlp spec=\"1.0+\" codebase=\"http://phet.colorado.edu/sims/molecule-polarity\" href=\"molecule-polarity_en.jnlp\">      <information>          <title>Molecule Polarity</title>          <vendor>University of Colorado, Department of Physics</vendor>          <description>@PROJECT.DESCRIPTION@</description>          <description kind=\"short\">The Molecule Polarity Simulation</description>          <offline-allowed/>      </information>      <resources>          <j2se version=\"1.4+\"/>          <property name=\"javaws.phet.locale\" value=\"en\" /> <property name=\"javaws.user.language\" value=\"en\" />          <jar href=\"molecule-polarity_all.jar\"/>      </resources>            <application-desc main-class=\"edu.colorado.phet.moleculepolarity.MoleculePolarityApplication\">                </application-desc>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "48d92de40400602d89133c6196a1e463", 
+    "source_url": "http://phet.colorado.edu/sims/molecule-polarity/molecule-polarity_en.jnlp"
+}

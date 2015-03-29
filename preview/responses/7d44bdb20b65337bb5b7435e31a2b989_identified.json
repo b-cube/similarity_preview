@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-becss-19990804'            target='http://www.w3.org/TR/1999/WD-becss-19990804'> <front> <title>Behavioral Extensions to CSS</title>  <author initials='V.' surname='Apparao' fullname='Vidur Apparao'>     <organization /> </author>  <author initials='C.' surname='Wilson' fullname='Chris Wilson'>     <organization /> </author>  <author initials='D.' surname='Glazman' fullname='Daniel Glazman'>     <organization /> </author>  <date month='August' day='4' year='1999' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-becss-19990804' /> <format type='HTML' target='http://www.w3.org/TR/1999/WD-becss-19990804' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7d44bdb20b65337bb5b7435e31a2b989", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-becss-19990804.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-DOM-Level-3-Core-20031107'> <front> <title>Document Object Model (DOM) Level 3 Core Specification</title>  <author initials='J' surname='Robie' fullname='Jonathan Robie'>     <organization /> </author>  <author initials='M' surname='Champion' fullname='Mike Champion'>     <organization /> </author>  <author initials='S' surname='Byrne' fullname='Steve Byrne'>     <organization /> </author>  <author initials='A' surname='Hors' fullname='Arnaud Le Hors'>     <organization /> </author>  <author initials='P' surname='H\\ufffd\\ufffdgaret' fullname='Philippe Le H\\ufffd\\ufffdgaret'>     <organization /> </author>  <author initials='L' surname='Wood' fullname='Lauren Wood'>     <organization /> </author>  <author initials='G' surname='Nicol' fullname='Gavin Nicol'>     <organization /> </author>  <date month='November' day='7' year='2003' /> </front>  <seriesInfo name='W3C CR' value='CR-DOM-Level-3-Core-20031107' /> <format type='HTML' target='http://www.w3.org/TR/2003/CR-DOM-Level-3-Core-20031107' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1a5ccf5239d4352ce162fb1dfdee2be5", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-w3c/reference.W3C.CR-DOM-Level-3-Core-20031107.xml"
+}

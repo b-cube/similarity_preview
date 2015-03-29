@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <jnlp codebase=\"http://jogamp.org/deployment/archive/rc/v2.3.0/jogl-demos\"       href=\"FlyingText.jnlp\">   <information>     <title>Flying Text</title>     <vendor>JogAmp Community</vendor>     <homepage href=\"http://jogamp.org/jogl-demos/\"/>     <description>Flying Text</description>     <description kind=\"short\">Advanced demo of TextRenderer, showing animated and colored text with drop shadows.</description>     <offline-allowed/>   </information>   <update check=\"background\" policy=\"always\"/>      <resources>       <j2se href=\"http://java.sun.com/products/autodl/j2se\" version=\"1.4+\"/>       <jar href=\"jar/jogl-demos.jar\" main=\"true\"/>       <jar href=\"jar/jogl-demos-util.jar\" />       <extension name=\"jogl-all-awt\" href=\"http://jogamp.org/deployment/archive/rc/v2.3.0/jogl-all-awt.jnlp\" />     </resources>    <application-desc main-class=\"demos.j2d.FlyingText\">   </application-desc> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "84461dd31a32b7c065e821739f3cabce", 
+    "source_url": "http://jogamp.org/deployment/jogamp-next/jogl-demos/FlyingText.jnlp"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?> <metadata xml:lang=\"en\"> <Esri> <CreaDate>20140428</CreaDate> <CreaTime>11421500</CreaTime> <ArcGISFormat>1.0</ArcGISFormat> <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle> <SyncOnce>TRUE</SyncOnce> </Esri> <dataIdInfo> <idAbs>Shoreline Change, Offshore Baseline</idAbs> <searchKeys> <keyword>Shoreline Change</keyword> <keyword>Offshore Baseline</keyword> <keyword>United States</keyword> <keyword>U.S. Geological Survey</keyword> <keyword>USGS</keyword> <keyword>Coastal and Marine Geology Program</keyword> <keyword>CMGP</keyword> <keyword>Woods Hole Coastal and Marine Science Center</keyword> <keyword>WHCMSC</keyword> <keyword>Atlantic Ocean</keyword> <keyword>Gulf of Mexico</keyword> <keyword>Pacific Ocean</keyword> </searchKeys> <idPurp>Shoreline Change</idPurp> <idCredit/> <resConst> <Consts> <useLimit/> </Consts> </resConst> <idCitation> <resTitle>Shoreline Change - Offshore Baseline</resTitle> </idCitation> </dataIdInfo> <Binary> <Thumbnail> <Data EsriPropertyType=\"PictureX\">/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP//Z</Data> </Thumbnail> </Binary> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5be8c95b16f9db9c9a2835a0c1874dbd", 
+    "source_url": "http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/slc_OffshoreBaseline/MapServer/info/metadata"
+}

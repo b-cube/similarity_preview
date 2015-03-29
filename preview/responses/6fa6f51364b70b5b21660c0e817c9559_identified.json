@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-WebIDL-20120419'            target='http://www.w3.org/TR/2012/CR-WebIDL-20120419'> <front> <title>Web IDL</title>  <author initials='C.' surname='McCormack' fullname='Cameron McCormack'>     <organization /> </author>  <date month='April' day='19' year='2012' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-WebIDL-20120419' /> <format type='HTML' target='http://www.w3.org/TR/2012/CR-WebIDL-20120419' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6fa6f51364b70b5b21660c0e817c9559", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.CR-WebIDL-20120419.xml"
+}

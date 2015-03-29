@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">                 <ShortName>Cambridge Journals Online</ShortName>                 <Description>Cambridge Journals Online Search Provider</Description>                 <InputEncoding>UTF-8</InputEncoding><Url type=\"text/html\" template=\"http://journals.cambridge.org/action/quickSearch?search={searchTerms}\"/></OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b9c27b3945d17a38673004d99b4d2dce", 
+    "source_url": "http://journals.cambridge.org/jsp/cjo/help/cjo.xml"
+}

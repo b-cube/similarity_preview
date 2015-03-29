@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Recycling of Fibrous Textile and Carpet Waste Conference (9th - 2004)</title> <link href=\"http://hdl.handle.net/1853/10739\" rel=\"alternate\"/> <subtitle>May 10-11, 2004, Dalton, Georgia</subtitle> <id>http://hdl.handle.net/1853/10739</id> <updated>2015-03-12T15:06:58Z</updated> <dc:date>2015-03-12T15:06:58Z</dc:date> <entry> <title>Recycling, Sustainability and the Environment</title> <link href=\"http://hdl.handle.net/1853/10824\" rel=\"alternate\"/> <author> <name>Wang, Youjiang</name> </author> <id>http://hdl.handle.net/1853/10824</id> <updated>2013-11-18T20:51:05Z</updated> <published>2004-05-11T00:00:00Z</published> <summary type=\"text\">Recycling, Sustainability and the Environment Wang, Youjiang </summary> <dc:date>2004-05-11T00:00:00Z</dc:date> <dc:creator>Wang, Youjiang</dc:creator> </entry> <entry> <title>Modern Solutions for Shredding, Grinding and Repelletizing Post-Industrial Fiber, Nonwovens and Carpet Scrap</title> <link href=\"http://hdl.handle.net/1853/10823\" rel=\"alternate\"/> <author> <name>Strzelecki, Chris</name> </author> <id>http://hdl.handle.net/1853/10823</id> <updated>2013-11-18T20:51:51Z</updated> <published>2004-05-11T00:00:00Z</published> <summary type=\"text\">Modern Solutions for Shredding, Grinding and Repelletizing Post-Industrial Fiber, Nonwovens and Carpet Scrap Strzelecki, Chris </summary> <dc:date>2004-05-11T00:00:00Z</dc:date> <dc:creator>Strzelecki, Chris</dc:creator> </entry> <entry> <title>Recycled Product Market Development</title> <link href=\"http://hdl.handle.net/1853/10822\" rel=\"alternate\"/> <author> <name>Banik, Gouranga</name> </author> <id>http://hdl.handle.net/1853/10822</id> <updated>2013-11-18T20:52:50Z</updated> <published>2004-05-11T00:00:00Z</published> <summary type=\"text\">Recycled Product Market Development Banik, Gouranga [Title page only] </summary> <dc:date>2004-05-11T00:00:00Z</dc:date> <dc:creator>Banik, Gouranga</dc:creator> </entry> <entry> <title>Processes of Converting Multi-fiber Textile Waste into Products</title> <link href=\"http://hdl.handle.net/1853/10821\" rel=\"alternate\"/> <author> <name>Langley, Kenneth</name> </author> <author> <name>Kim, Yong K.</name> </author> <id>http://hdl.handle.net/1853/10821</id> <updated>2013-11-18T20:39:25Z</updated> <published>2004-05-11T00:00:00Z</published> <summary type=\"text\">Processes of Converting Multi-fiber Textile Waste into Products Langley, Kenneth; Kim, Yong K. </summary> <dc:date>2004-05-11T00:00:00Z</dc:date> <dc:creator>Langley, Kenneth</dc:creator> <dc:creator>Kim, Yong K.</dc:creator> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1a14e6f0fc32ca2ee44c772a353ff0b1", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/10739"
+}

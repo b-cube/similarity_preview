@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">     <ShortName>Codehaus</ShortName>     <Description>Atlassian Confluence Search Provider</Description>     <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://docs.codehaus.org/images/logo/confluence_48_white.png</Image>     <Image height=\"64\" width=\"64\" type=\"image/png\">http://docs.codehaus.org/images/logo/confluence_128_white.png</Image>     <Url type=\"text/html\" template=\"http://docs.codehaus.org/dosearchsite.action?queryString={searchTerms}\"/>     <Query role=\"example\" searchTerms=\"Confluence\"/>     <InputEncoding>UTF-8</InputEncoding>     <moz:SearchForm>http://docs.codehaus.org/searchsite.action</moz:SearchForm> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2ffe6ef091452f3bacf7f32a5d5c056c", 
+    "source_url": "http://docs.codehaus.org/opensearch/osd.action"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <?xml-stylesheet href=\"demoresults.xsl\" type=\"text/xml\"?> <response><lst name=\"responseHeader\"><int name=\"status\">0</int><int name=\"Qtime\">156</int><str name=\"version\">1.0 </str><lst name=\"params\"><str name=\"q\">bread</str><str name=\"stylesheet\">demoresults.xsl</str></lst><lst name=\"sources_available\"/></lst><result name=\"response\"/></response> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "172257decf1eb1ad2662fad9cc3b9f68", 
+    "source_url": "http://discovery.ac.uk/ww1/api/?q=bread&stylesheet=demoresults.xsl"
+}

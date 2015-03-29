@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/13\"> <title>Ieithoedd Ewropeaidd / European Languages</title> <link>http://hdl.handle.net/2160/13</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/27406\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/27405\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/27296\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/27235\"/> </rdf:Seq> </items> <dc:date>2015-03-16T17:45:35Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/27406\"> <title>Juan Valera y los l\\ufffd\\ufffdmites del Realismo: un debate finisecular (La ilustraci\\ufffd\\ufffdn espa\\ufffd\\ufffdola y americana).</title> <link>http://hdl.handle.net/2160/27406</link> <description>Juan Valera y los l\\ufffd\\ufffdmites del Realismo: un debate finisecular (La ilustraci\\ufffd\\ufffdn espa\\ufffd\\ufffdola y americana). Jose </description> <dc:date>2012-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/27405\"> <title>El m\\ufffd\\ufffdtodo estil\\ufffd\\ufffdstico contextual comparativo</title> <link>http://hdl.handle.net/2160/27405</link> <description>El m\\ufffd\\ufffdtodo estil\\ufffd\\ufffdstico contextual comparativo Jose David </description> <dc:date>2007-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/27296\"> <title>Introduction to Luna de miel and Las guerras del soldado desconocido by Jes\\ufffd\\ufffds Carazo.</title> <link>http://hdl.handle.net/2160/27296</link> <description>Introduction to Luna de miel and Las guerras del soldado desconocido by Jes\\ufffd\\ufffds Carazo. Jos\\ufffd\\ufffd Manuel Go\\ufffd\\ufffdi </description> <dc:date>2012-12-31T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/27235\"> <title>Im\\ufffd\\ufffdgenes del conflicto marroqu\\ufffd\\ufffd en La Ilustraci\\ufffd\\ufffdn Espa\\ufffd\\ufffdola y Americana (1890-1906)</title> <link>http://hdl.handle.net/2160/27235</link> <description>Im\\ufffd\\ufffdgenes del conflicto marroqu\\ufffd\\ufffd en La Ilustraci\\ufffd\\ufffdn Espa\\ufffd\\ufffdola y Americana (1890-1906) Jos\\ufffd\\ufffd Manuel Go\\ufffd\\ufffdi </description> <dc:date>2011-09-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "690ed7451aa96650f6377b35d243bb52", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/13"
+}

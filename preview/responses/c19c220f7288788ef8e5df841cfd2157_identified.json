@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Marine Turtle Research Program</dc:title>    <dcterms:alternative>Marine Turtle Research Program</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>marine turtle</dc:subject>    <dcterms:abstract>The Marine Turtle Research Program was established at the La Jolla Lab of the Southwest Marine Fisheries Service to address the priority actions identified in the U.S. Pacific Sea Turtle Recovery Plans. These include (1) monitoring and protection of nesting populations, (2) monitor and reduce incidental take in fisheries, (3) determine abundance and distribution of adults and juveniles in marine environment, and (4) support existing and new international agreements to protect sea turtles Our research and conservation effort has mainly focused on the leatherback and the eastern Pacific green turtle due to concerns over alarming and dramatic population declines in the last two decades. We are, however, working in partnership with governments, universities, private institutions, and local communities throughout the Pacific to build collaborative research programs and implement a coordinated recovery effort for all sea turtles species.</dcterms:abstract>    <dc:publisher>Southwest Fisheries Science Center</dc:publisher>    <dc:creator>Seminoff, Jeffrey A</dc:creator>    <dc:creator>Southwest Fisheries Science Center</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/11041</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/10795</dcterms:isPartOf>    <dcterms:spatial xsi:type=\"dcterms:Box\">                         northlimit=50;                         eastlimit=180;                         southlimit=-50;                         westlimit=-180;                                              name=Eastern Tropical Pacific, Western Pacific Ocean, Caribbean, San Diego Bay, Monterey Bay;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:Period\">                           start=1980;                         </dcterms:temporal> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c19c220f7288788ef8e5df841cfd2157", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/11041/dublin-core"
+}

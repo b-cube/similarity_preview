@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"6\" _uuid=\"2C96F5E6-0C86-42B7-B39B-503F33F188A1\" _position=\"6\" _address=\"http://data.cityofchicago.org/resource/_57s6-wkzs/6\"><requestor_name>Charlene Roderick</requestor_name><organization>Canon Business Solutions</organization><description_of_request>Second request of Bid information that was proposed by Xerox, OCE and Canon for specification # 25827</description_of_request><date_received>2010-10-25T00:00:00</date_received><due_date>2010-11-01T00:00:00</due_date></row><row _id=\"4\" _uuid=\"87D0F221-2B43-4948-9DE9-F8195C45D326\" _position=\"4\" _address=\"http://data.cityofchicago.org/resource/_57s6-wkzs/4\"><requestor_name>George Noble</requestor_name><organization>Noble &amp; Associates Inc.</organization><description_of_request>Aerial photograph of the South Filtration Plant</description_of_request><date_received>2010-09-23T00:00:00</date_received><due_date>2010-09-30T00:00:00</due_date></row><row _id=\"3\" _uuid=\"32A6A60C-861E-4ABC-B490-014AC2979C8F\" _position=\"3\" _address=\"http://data.cityofchicago.org/resource/_57s6-wkzs/3\"><requestor_name>Charlene Roderick</requestor_name><organization>Canon Business Solutions</organization><description_of_request>Requesting Bid information that was proposed by Xerox, OCE and Canon for specification # 25827</description_of_request><date_received>2010-06-02T00:00:00</date_received><due_date>2010-06-09T00:00:00</due_date></row><row _id=\"2\" _uuid=\"B879363A-A1CD-4888-8928-26DBD57369C5\" _position=\"2\" _address=\"http://data.cityofchicago.org/resource/_57s6-wkzs/2\"><requestor_name>Lauren Thomas</requestor_name><description_of_request>Any information pertaining to the property located at 2152 W. North Ave.,Chicago IL 60647.</description_of_request><date_received>2010-02-26T00:00:00</date_received><due_date>2010-03-05T00:00:00</due_date></row><row _id=\"5\" _uuid=\"98605069-D04B-44FB-BED6-12CC5EC8C479\" _position=\"5\" _address=\"http://data.cityofchicago.org/resource/_57s6-wkzs/5\"><requestor_name>Wrina E. Sellers</requestor_name><description_of_request>Requesting details on a signage that was posted by the City of Chicago</description_of_request><due_date>2010-10-22T00:00:00</due_date></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fd31724cf91df4daf7412977db2325b0", 
+    "source_url": "https://data.cityofchicago.org/api/views/57s6-wkzs/rows.xml?accessType=DOWNLOAD"
+}

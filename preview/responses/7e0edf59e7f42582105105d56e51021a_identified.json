@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0'?> <item> <entry> <date>January 07, 2015</date> <title>8-14 Day Prognostic Discussion</title> <forecastPeriod>Outlook for Jan 15 - 21 2015</forecastPeriod> <discussion> <![CDATA[Today's ensemble means are in fair agreement on the mean 500-hpa heights within the 8-14 day period. However, agreement among the deterministic gfs solutions is poor. Troughs are predicted by the ensemble means over the western Aleutians and over eastern Canada and a ridge is forecast over western Canada extending northward to Alaska. Low-amplitude flow is predicted by the ensemble means across the CONUS suggesting that air of Pacific origin may dominate much of the country during this time period. However, uncertainty is high as the low amplitude flow depicted by the ensemble means is due, in part, to large differences in the component ensemble members being averaged together. The greatest weight in today's week two manual height blend was given to today's 0z ECMWF ensemble mean due primarily to considerations of recent skill.   Above-normal temperatures are favored for much of the western two-thirds of the CONUS underneath predicted low-amplitude Pacific flow. Above-normal temperatures are also favored for southeastern Alaska due to forecast ridging. Enhanced probabilities of near-normal temperatures are indicated for much of the eastern third of the CONUS consistent with bias corrected temperatures from the 0z ECMWF ensembles.  Above-median precipitation probabilities are enhanced along much of the west coast of the CONUS due to the potential for moist Pacific flow to affect this region. Calibrated precipitation forecasts from the GEFS and precipitation estimates from the ECMWF suggest an increased likelihood for above-median precipitation amounts over parts of the Mississippi Valley. Conversely, below-median precipitation is favored for parts of the northern high plains in association with a predicted ridge. Below-median precipitation is also favored for parts of the Florida Peninsula as indicated by GFS and ECWMF ensemble precipitation estimates. Above-median precipitation is favored for much of Alaska ahead of a trough predicted over the Aleutians.<br><br><br><br>Today's official 500-HPA Blend Consists of 30% of Today's 0z GFS Ensemble Mean centered on Day 11, 15% of Today's 6z GFS Ensemble Mean centered on Day 11, 35% of Today's 0z European Ensemble Mean centered on Day 11, and 20% of Yesterday's 12z European Ensemble Mean centered on Day 10  <br><br>Forecast confidence for the 8-14 day period: below average, 2 out of 5, due to a predicted low-amplitude flow by the ensemble mean solutions and poor agreement among the deterministic gfs solutions.<br><br>]]> </discussion></entry></item>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7e0edf59e7f42582105105d56e51021a", 
+    "source_url": "http://www.cpcpara.ncep.noaa.gov/xml/outlookDiscussions/814.xml"
+}

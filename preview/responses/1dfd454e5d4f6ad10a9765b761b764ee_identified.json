@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.REC-smil-19980615'            target='http://www.w3.org/TR/1998/REC-smil-19980615'> <front> <title>Synchronized Multimedia Integration Language (SMIL) 1.0 Specification</title>  <author initials='P.' surname='Hoschka' fullname='Philipp Hoschka'>     <organization /> </author>  <date month='June' day='15' year='1998' /> </front>  <seriesInfo name='World Wide Web Consortium Recommendation' value='REC-smil-19980615' /> <format type='HTML' target='http://www.w3.org/TR/1998/REC-smil-19980615' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1dfd454e5d4f6ad10a9765b761b764ee", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.REC-smil-19980615.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OAR_OAQPS/1997NAAQS_NAA2013conditions/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OAR_OAQPS/1997NAAQS_nonattainment_areas/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OAR_OAQPS/2013DesignValues/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OAR_OAQPS/2025BaselineDesignValues/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OAR_OAQPS/CleanPowerPlan_111d_StatesSummary/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OAR_OAQPS/CleanPowerPlan_Tribes/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OAR_OAQPS/Facilities_Covered_by_Rule/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OAR_OAQPS/PM25NAA/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OAR_OAQPS/States/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5e4dfccc48711751750c08fa919d87fc", 
+    "source_url": "http://gispub.epa.gov/arcgis/rest/services/OAR_OAQPS?f=geositemap"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.jung-seamoby-paging-buffload'> <front> <title>Reducing the Buffering Load of Paging Agent in IP Paging</title>  <author initials='H' surname='Jung' fullname='Hans Jung'>     <organization /> </author>  <author initials='S' surname='Koh' fullname='Seok  Koh'>     <organization /> </author>  <date month='January' day='8' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-jung-seamoby-paging-buffload-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-jung-seamoby-paging-buffload-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f1c31fec7299c601e77589ab1a799e2f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.jung-seamoby-paging-buffload.xml"
+}

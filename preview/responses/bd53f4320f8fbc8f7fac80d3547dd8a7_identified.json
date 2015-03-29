@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"IEEE.1284-1.1997\"> <front> <title>Transport Independent Printer/System Interface</title> <author> <organization></organization> </author> <date month=\"\" year=\"1997\" /> </front>  <seriesInfo name=\"IEEE\" value=\"Standard 1284.1\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bd53f4320f8fbc8f7fac80d3547dd8a7", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.IEEE.1284-1.1997.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?> <metadata xml:lang=\"en\"> <Esri> <CreaDate>20140325</CreaDate> <CreaTime>09390800</CreaTime> <ArcGISFormat>1.0</ArcGISFormat> <SyncOnce>TRUE</SyncOnce> </Esri> <dataIdInfo> <idAbs/> <idPurp/> <idCredit/> <resConst> <Consts> <useLimit/> </Consts> </resConst> <idCitation> <resTitle>General_Coastline</resTitle> </idCitation> </dataIdInfo> <Binary> <Thumbnail> <Data EsriPropertyType=\"PictureX\">/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACmu+xSdrMecBRyeKdVSe5uUZ0hsZZCACGLIFbnp97I9en50DSuVLHUtQv1aQad9mVWKmO5ZkfrwfuY6ehYe9X4nuy4EsECpjkpMWP5bRVGwg1n+057m/u4RasgWKziAcI2eW3lVJ47Y71cu7aSdMwXMlvMoOx1+Zc+6ngj9fQiki5ct7aFmiq9o9yLaP7eLdLgnB8liVJ9sgH8KsUyGrBRUc9xDbQtNcSxxRL1eRgoH4mnI6SorxsrowyGU5BFArDqKKKACiiigAooooAKKKKACiiigAooooAKKKKACiio3kZGwIZGHHzLjHJx69utAElFFFABRRSAYGBn15OaAFoqBp2S6SE28pR84lXBUEDODzkflj9KnoCxm6vGn+iXUtv58drOJSuCSnBG9QASSM9PQn0q/FLHNEksTq8bqGVlOQwPIIp9IqqgwoAHoBQNu6sVtR0+31SxltLmNHR1IBZQdpII3D0Iz1rIitV0C3stE0KJdzyfvXl3OIU2sTIwHclQoGRktnsa0Z9It7uaWS8Mk6swKRl2CooA+XAOCCQSc9c4PAFc5ZW/iPT/Fuy1sY49DlkYunmAqo2qAR3B7gDIPI4wDUs3p6xav52ex18ERht442kaRlUAu/Vj6mpKKKo5wooooAKKKKACiiigAooooAKKKKACiimvIiFAzAFztXPc4z/Q0AOooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigApGUMVJz8pyMEjtjn160tFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/2Q==</Data> </Thumbnail> </Binary> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ef51d37d09175eb662cce657061986a5", 
+    "source_url": "http://encdirect.noaa.gov/arcgis/rest/services/avpg/General_Coastline/MapServer/info/metadata"
+}

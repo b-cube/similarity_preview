@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20073078</identifier><identifier type=\"pwpk\">80380</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2007-3078</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Integrated Geologic, Geochemical, and Geophysical Studies of Big Bend National Park, Texas</title></titleInfo><originInfo><dateOther>Tue, 18 Sep 2007 00:00 -0500</dateOther><dateIssued>2007</dateIssued><publisher>Geological Survey (U.S.)</publisher></originInfo><name><namePart>Gray, John E.; Finn, Carol A.; Morgan, Lisa A.; Page, William R.; Shanks, Wayne C.</namePart><role>Author</role></name><abstract>Introduction&#xd; &#xd; Big Bend National Park (BBNP), Texas, covers 801,163 acres (3,242 km2) and was established in 1944 through a transfer of land from the State of Texas to the United States. The park is located along a 118-mi (190-km) stretch of the Rio Grande at the United States border with Mexico. The U.S. Geological Survey (USGS) began a 5-year project in 2003 with the objective of studying a number of broad and diverse geologic, geochemical, and geophysical topics in BBNP. This fact sheet describes results of some of the research by USGS scientists working in BBNP.</abstract><physicalDescription><form>6 p.</form><form>Geological Survey (U.S.)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2007_3078.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2007/3078/</url></location><note type=\"citation/reference\">Integrated Geologic, Geochemical, and Geophysical Studies of Big Bend National Park, Texas; 2007; FS; 2007-3078; Fact Sheet; Gray, John E.; Finn, Carol A.; Morgan, Lisa A.; Page, William R.; Shanks, Wayne C.</note><edition>Version 1.0</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ec91ae5d98d286f0ecd52b28fc8689bd", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20073078"
+}

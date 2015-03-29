@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Bathymetric Survey - 2005-10-18 - Swash Channel</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">ukho.ac.uk:DC:0513a464-6827-3388-a689-c4d579070ef0</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">IPR Holder: Bristol Port Company; Purpose: Safety of navigation; IHO Sea: Bristol Channel - 20; Survey Start: 2005-10-18; Survey End: 2005-10-18; Primary Instrument Type: Echosounder - multibeam; Primary Navigation Type: RTK DGPS;</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2010-05-13</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9eadecba4b98ff25a932a194445bd02b", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/ukho.ac.uk__MEDIN_2.3__0513a464-6827-3388-a689-c4d579070ef0.xml/DC"
+}

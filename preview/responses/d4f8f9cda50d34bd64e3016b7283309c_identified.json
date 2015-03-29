@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <oembed><thumbnail_width>480</thumbnail_width><html>&lt;iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/4yDJz0nfQd0?feature=oembed\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</html><type>video</type><thumbnail_url>http://i.ytimg.com/vi/4yDJz0nfQd0/hqdefault.jpg</thumbnail_url><height>270</height><author_name>NOAAVisualizations</author_name><provider_url>http://www.youtube.com/</provider_url><provider_name>YouTube</provider_name><thumbnail_height>360</thumbnail_height><title>Hurricane Sandy One Year Later</title><author_url>http://www.youtube.com/user/NOAAVisualizations</author_url><version>1.0</version><width>480</width></oembed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d4f8f9cda50d34bd64e3016b7283309c", 
+    "source_url": "http://www.youtube.com/oembed?format=xml&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4yDJz0nfQd0"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/DWH/DWHAtlas_CTDs/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/DWH/ERMA_CTDs/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/DWH/ERMA_GLIDERs/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/DWH/ERMA_WaterChemistry/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8ac3981a5ba4c1e64d5c0ecc4e292743", 
+    "source_url": "http://www.ncddc.noaa.gov/arcgis/rest/services/DWH?f=geositemap"
+}

@@ -1,0 +1,26 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "http://repo.continuum.io/pkgs/free/osx-64/", 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info", 
+    "lib/python2.7/site-packages/itsdangerous.py", 
+    "lib/python2.7/site-packages/itsdangerous.pyc"
+  ], 
+  "license": "BSD License", 
+  "link": {
+    "source": "//anaconda/pkgs/itsdangerous-0.24-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "c2b1a6a2c6200c2af8282993bc59196c", 
+  "name": "itsdangerous", 
+  "platform": "osx", 
+  "requires": [], 
+  "size": 15983, 
+  "url": null, 
+  "version": "0.24"
+}

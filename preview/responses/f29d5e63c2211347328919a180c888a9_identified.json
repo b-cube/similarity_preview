@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Van den Eynden, Veerle</a1>   <t1>Aditivos plantas \\ufffd\\ufffdtiles</t1>   <t2/>   <sn/>   <op>2015</op>   <vo/>   <ab>&lt;p&gt;Data table supported book chapter on wild plants used as food additives in Ecuador.&lt;/p&gt;</ab>   <la/>   <k1>plants;                 food;                 Ecuador;                 </k1>   <pb/>   <pp/>   <yr>2015-02-10</yr>   <ed/>   <ul>https://zenodo.org/record/14990/files/aditivos_table.xls;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f29d5e63c2211347328919a180c888a9", 
+    "source_url": "https://zenodo.org/record/14990/export/xw"
+}

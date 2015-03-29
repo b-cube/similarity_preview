@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../Mesonet-UMBA_RainfallHistory.htm\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "807f0ce2f77d845bbc8ea21f7afb9974", 
+    "source_url": "http://www.mesonet.ttu.edu/rain/Mesonet-UMBA_RainfallHistory_files/filelist.xml"
+}

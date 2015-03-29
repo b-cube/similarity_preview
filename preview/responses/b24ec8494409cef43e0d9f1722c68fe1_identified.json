@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>HIV testing and care in Burkina Faso, Kenya, Malawi and Uganda: ethics on the ground</dc:title><dc:creator>Obermeyer, Carla Makhlouf</dc:creator><dc:creator>Bott, Sarah</dc:creator><dc:creator>Bayer, Ronald</dc:creator><dc:creator>Desclaux, Alice</dc:creator><dc:creator>Baggaley, Rachel</dc:creator><dc:date>2013</dc:date><dc:type>text</dc:type><dc:subject>Public health</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D89K48JP</dc:identifier><dc:description>Background: The ethical discourse about HIV testing has undergone a profound transformation in recent years. The greater availability of antiretroviral therapy (ART) has led to a global scaling up of HIV testing and counseling as a gateway to prevention, treatment and care. In response, critics raised important ethical questions, including: How do different testing policies and practices undermine or strengthen informed consent and medical confidentiality? How well do different modalities of testing provide benefits that outweigh risks of harm? To what degree do current testing policies and programs provide equitable access to HIV services? And finally, what lessons have been learned from the field about how to improve the delivery of HIV services to achieve public health objectives and protections for human rights? This article reviews the empirical evidence that has emerged to answer these questions, from four sub-Saharan African countries, namely: Burkina Faso, Kenya, Malawi and Uganda. Discussion: Expanding access to treatment and prevention in these four countries has made the biomedical benefits of HIV testing increasingly clear. But serious challenges remain with regard to protecting human rights, informed consent and ensuring linkages to care. Policy makers and practitioners are grappling with difficult ethical issues, including how to protect confidentiality, how to strengthen linkages to care, and how to provide equitable access to services, especially for most at risk populations, including men who have sex with men. Summary: The most salient policy questions about HIV testing in these countries no longer address whether to scale up routine PITC (and other strategies), but how. Instead, individuals, health care providers and policy makers are struggling with a host of difficult ethical questions about how to protect rights, maximize benefits, and mitigate risks in the face of resource scarcity.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b24ec8494409cef43e0d9f1722c68fe1", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A180289.dc_xml"
+}

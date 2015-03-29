@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20053146</identifier><identifier type=\"pwpk\">74203</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2005-3146</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>The avianinfluenza H5N1 threat</title></titleInfo><originInfo><dateOther>Tue, 14 Feb 2006 00:00 -0600</dateOther><dateIssued>2005</dateIssued></originInfo><name><namePart>Ip, Hon</namePart><role>Author</role></name><physicalDescription><form>2 p.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2005_3146.jpg</url><url displayLabel=\"pdf\" note=\"DOCUMENT\">http://www.usgs.gov/solutions/docs/05FS_3146.pdf</url></location><note type=\"citation/reference\">The avianinfluenza H5N1 threat; 2005; FS; 2005-3146; Fact Sheet; Ip, Hon</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f97aad06b4e4235786c32c57f69c4468", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20053146"
+}

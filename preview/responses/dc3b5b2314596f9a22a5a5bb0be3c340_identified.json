@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.korn-vcdiff\"> <front> <title>The VCDIFF Generic Differencing and Compression Data Format</title>  <author initials=\"D\" surname=\"Korn\" fullname=\"David  Korn\">     <organization /> </author>  <date month=\"November\" day=\"26\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-korn-vcdiff-06\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dc3b5b2314596f9a22a5a5bb0be3c340", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.korn-vcdiff.xml"
+}

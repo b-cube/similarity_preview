@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Asociaci\\ufffd\\ufffdn Nacional para la Conservaci\\ufffd\\ufffdn de la Naturaleza</ShortName>   <Description>La Asociaci\\ufffd\\ufffdn Nacional para la Conservaci\\ufffd\\ufffdn de la Naturaleza (ANCON), es una organizaci\\ufffd\\ufffdn privada, sin fines de lucro, cuya misi\\ufffd\\ufffdn es la de Conservar la biodiversidad y los recursos naturales de Panam\\ufffd\\ufffd para beneficio de las presentes y futuras generaciones; la misma fue fundada en 1985 por un grupo de prominentes hombres de negocios, cient\\ufffd\\ufffdficos y l\\ufffd\\ufffdderes de la comunidad. Desde sus inicios, ANCON ha trabajado muy cerca con organismos nacionales e internacionales, entidades acad\\ufffd\\ufffdmicas, comerciales y comunidades locales.</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.ancon.org/templates/ja_travel/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.ancon.org/index.php?option=com_search&amp;format=opensearch\"/>   <Url type=\"text/html\" template=\"http://www.ancon.org/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e2f57d8c78f55ffe083a7128ffaab8ab", 
+    "source_url": "http://www.ancon.org/index.php?option=com_search&format=opensearch"
+}

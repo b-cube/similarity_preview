@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"> <ShortName>DSpace</ShortName> <LongName>CaseRe3</LongName> <Description>CaseRe3 DSpace repository</Description> <InputEncoding>UTF-8</InputEncoding> <OutputEncoding>UTF-8</OutputEncoding> <Query role=\"example\" searchTerms=\"photosynthesis\"/> <Tags>IR DSpace</Tags> <Contact>admin@dspacedirect.org</Contact> <Image height=\"16\" type=\"image/vnd.microsoft.icon\" width=\"16\">http://www.dspace.org/images/favicon.ico</Image> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aa9d88ede96c30a7f5fa8ce1c08ed38a", 
+    "source_url": "https://casere3.dspacedirect.org/open-search/description.xml"
+}

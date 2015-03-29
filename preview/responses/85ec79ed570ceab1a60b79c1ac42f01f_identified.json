@@ -1,0 +1,15 @@
+{
+    "content": "<feed xmlns=\"http://www.w3.org/2005/Atom\" xmlns:georss=\"http://www.georss.org/georss\" scast=\"http://sciflo.jpl.nasa.gov/serviceCasting/2009v1\"><id>http://azgs.az.gov/resources/atom</id><title>Arizona Geological Survey Atom Feed</title><updated>2015-03-06T04:09:40Z</updated><author><name>Arizona Geological Survey</name><email>metadata@usgin.org</email></author><entries><entry><title>ArcMap Layer Files for Geothermal Features</title><id>98ddf901b9782a25982e01af3b068fdc</id><author><name/><contactInformation><phone>(520) 209-4141</phone><email/><address><street>416 W. Congress Street</street><city>Tucson</city><state>Arizona</state><zip>85701</zip></address></contactInformation></author><link href=\"/metadata/record/98ddf901b9782a25982e01af3b068fdc/\" rel=\"alternate\"/><link href=\"http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b068fdc/file/wms_legends.zip\"/><updated>2014-08-20T19:34:28Z</updated><summary>These layer files contain the symbology for portrayal of geothermal features in ArcMap.  For the Borehole Temperatures and Thermal Springs, the color ramp ranges from green (cool) to red (hot) for each feature. For the active faults legend, the FGDC symbology was used (with additions further specifying activity during the early Quaternary). For the volcanic features, well headers, well log observations, and other features an arbitrary symbol was chosen.</summary><georss:box>-134.121 19.4178 -47.9883 51.797</georss:box></entry></entries></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "85ec79ed570ceab1a60b79c1ac42f01f", 
+    "source_url": "http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b068fdc.atom.xml"
+}

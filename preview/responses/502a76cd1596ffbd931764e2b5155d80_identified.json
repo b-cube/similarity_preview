@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?>  <?quicktime type = \"application/x-quicktime-media-link\"?>  <embed src = \"rtsp://qtss.indiana.edu/ip/phys/Centripetal_Force.mov\" />  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "502a76cd1596ffbd931764e2b5155d80", 
+    "source_url": "http://www.indiana.edu/%7Ephys/meta/centripetal_force.qtl"
+}

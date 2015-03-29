@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.png\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.png\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.png\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.png\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.png\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.png\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.png\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.png\"/>  <o:File HRef=\"image003.jpg\"/>  <o:MainFile HRef=\"../Choi04.html\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.png\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9a45406a4e229ae308e963da93123fb4", 
+    "source_url": "http://www.scienceteacherprogram.org/genscience/Choi04_files/filelist.xml"
+}

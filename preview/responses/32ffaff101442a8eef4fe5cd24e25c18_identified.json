@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Imagining a New Belfast: Municipal Parades in Urban Regeneration</dc:title><dc:creator>Keenan, Katharine</dc:creator><dc:date>2013</dc:date><dc:type>text</dc:type><dc:subject>Cultural anthropology</dc:subject><dc:subject>European studies</dc:subject><dc:subject>Peace studies</dc:subject><dc:identifier>http://hdl.handle.net/10022/AC:P:21097</dc:identifier><dc:description>This work highlights civic events and celebration as functional components of Belfast, Northern Ireland's ongoing post-conflict regeneration. Exploring the broad networks that fund and organize such events through a material semiotic approach, this dissertation sketches an outline of the process that produces parades, and examines the motivations and intentions behind them. It finds that parades function within a negotiated process of \"place-making\" to convey idealized visions of a peaceful \"New Belfast\". In particular the tropes of multiculturalism and European identity are repeated as aspirational ideals for Belfast's regeneration. The parades display, and in doing so reify these ideals as a temporary reality. Longer-term effects of the parades are difficult to determine, but they may potentially change public opinion regarding the social space of the city center, leading to more integrated and liberal use of the city center. In these events, issues central to Belfast's political life--from tourism, physical redevelopment, to European integration--are addressed through carnivalesque play and performance, as the events' producers and participants imagine Belfast's future urban identity.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "32ffaff101442a8eef4fe5cd24e25c18", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A163336.oai_dc_xml"
+}

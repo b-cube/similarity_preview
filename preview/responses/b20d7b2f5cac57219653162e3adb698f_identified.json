@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/R9MarineDebris/ER1402150_MarineDebrisData/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/R9MarineDebris/LosAngeles_ApproachingZeroTrash/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/R9MarineDebris/SanFranciscoBayArea_BaselineTrashLoadEstimate/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b20d7b2f5cac57219653162e3adb698f", 
+    "source_url": "http://gispub.epa.gov/arcgis/rest/services/R9MarineDebris?f=sitemap"
+}

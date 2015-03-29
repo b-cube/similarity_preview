@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.25.933'> <front> <title>IP transport in UTRAN</title> <author><organization>3GPP</organization></author> <date day='13' month='January' year='2004' /> </front>  <seriesInfo name='3GPP TR' value='25.933 5.4.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/25933.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bffa62a77ae10d6758bd04b289ae54e0", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.25.933.xml"
+}

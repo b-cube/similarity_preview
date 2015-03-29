@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20103116</identifier><identifier type=\"pwpk\">98977</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2010-3116</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Airborne volcanic ash; a global threat to aviation</title></titleInfo><originInfo><dateOther>Sat, 1 Jan 2011 00:00 -0600</dateOther><dateIssued>2010</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Neal, Christina A.; Guffanti, Marianne C.</namePart><role>Author</role></name><abstract>The world's busy air traffic corridors pass over or downwind of hundreds of volcanoes capable of hazardous explosive eruptions. The risk to aviation from volcanic activity is significant - in the United States alone, aircraft carry about 300,000 passengers and hundreds of millions of dollars of cargo near active volcanoes each day. Costly disruption of flight operations in Europe and North America in 2010 in the wake of a moderate-size eruption in Iceland clearly demonstrates how eruptions can have global impacts on the aviation industry. Airborne volcanic ash can be a serious hazard to aviation even hundreds of miles from an eruption. Encounters with high-concentration ash clouds can diminish visibility, damage flight control systems, and cause jet engines to fail. Encounters with low-concentration clouds of volcanic ash and aerosols can accelerate wear on engine and aircraft components, resulting in premature replacement. The U.S. Geological Survey (USGS), in cooperation with national and international partners, is playing a leading role in the international effort to reduce the risk posed to aircraft by volcanic eruptions.</abstract><physicalDescription><form>6 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2010_3116.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2010/3116/</url><url note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2010/3116/fs2010-3116.pdf</url></location><note type=\"citation/reference\">Airborne volcanic ash; a global threat to aviation; 2010; FS; 2010-3116; Fact Sheet; Neal, Christina A.; Guffanti, Marianne C.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5bf57f209ca547a1a156a5deb1216b3b", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20103116"
+}

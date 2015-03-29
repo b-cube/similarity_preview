@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"3AC73CD5-334F-4CF8-9540-D21AFA21D049\" _position=\"1\" _address=\"http://data.ok.gov/resource/ugrz-2fft/1\"><years>2011</years><historical_data>24.2</historical_data></row><row _id=\"2\" _uuid=\"911622F5-D94A-4F35-9B0E-7FAC444FF840\" _position=\"2\" _address=\"http://data.ok.gov/resource/ugrz-2fft/2\"><years>2012</years><historical_data>24</historical_data></row><row _id=\"3\" _uuid=\"DB73E61A-3D31-4515-987F-3A247C4E2E6F\" _position=\"3\" _address=\"http://data.ok.gov/resource/ugrz-2fft/3\"><years>2013</years><historical_data>22.8</historical_data></row><row _id=\"4\" _uuid=\"F3C0FECD-1150-4F6A-AD0B-E8CED279BC9C\" _position=\"4\" _address=\"http://data.ok.gov/resource/ugrz-2fft/4\"><years>2014</years></row><row _id=\"5\" _uuid=\"344A0164-503F-419F-A047-B66382405430\" _position=\"5\" _address=\"http://data.ok.gov/resource/ugrz-2fft/5\"><years>2015</years></row><row _id=\"6\" _uuid=\"61EAB4E5-F311-439C-9BBA-B36C0E4FC2F9\" _position=\"6\" _address=\"http://data.ok.gov/resource/ugrz-2fft/6\"><years>2016</years></row><row _id=\"7\" _uuid=\"B82AD1C3-B2DB-4506-9740-CF636AB5BDB7\" _position=\"7\" _address=\"http://data.ok.gov/resource/ugrz-2fft/7\"><years>2017</years><target>19.4</target></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "92a6e720a7536cdf1a47f6ab5579f32c", 
+    "source_url": "https://data.ok.gov/api/views/ugrz-2fft/rows.xml?accessType=DOWNLOAD"
+}

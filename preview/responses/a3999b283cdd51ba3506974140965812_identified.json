@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <psh>   <responseDate>2015-03-19T22:38:21Z</responseDate>   <request verb=\"Count\">http://www.opendoar.org/demos/psh.php</request>   <Count>     <header>       <setType>repositoryType</setType>       <setSpec>2</setSpec>       <setName>Institutional</setName>       <datestamp />       <numItems>2350</numItems>     </header>     <header>       <setType>repositoryType</setType>       <setSpec>3</setSpec>       <setName>Disciplinary</setName>       <datestamp />       <numItems>299</numItems>     </header>     <header>       <setType>repositoryType</setType>       <setSpec>4</setSpec>       <setName>Aggregating</setName>       <datestamp />       <numItems>98</numItems>     </header>     <header>       <setType>repositoryType</setType>       <setSpec>5</setSpec>       <setName>Governmental</setName>       <datestamp />       <numItems>78</numItems>     </header>   </Count> </psh>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a3999b283cdd51ba3506974140965812", 
+    "source_url": "http://www.opendoar.org/demos/psh.php?verb=Count&setType=repositoryType"
+}

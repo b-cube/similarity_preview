@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.ietf-rohc-tcp-epic\"> <front> <title>TCP/IP Compression for ROHC</title>  <author initials=\"R\" surname=\"Price\" fullname=\"Richard Price\">     <organization /> </author>  <date month=\"November\" day=\"30\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-ietf-rohc-tcp-epic-02\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "23368b6c7a631641fadfc5a0b335d42c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-rohc-tcp-epic.xml"
+}

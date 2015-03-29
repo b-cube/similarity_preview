@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>My first upload</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Doe</surname>             <given-names>Jane</given-names>           </name>           <aff>             <institution>ZENODO</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/13396\"/>       <self-uri xlink:href=\"https://zenodo.org/record/13396/files/test_file_upload.txt\"/>     </article-meta>     <abstract>This is my first upload</abstract>   </front>   <article-type>provisional-user-zenodo</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "41d2f93042a788dbd36daf7b5b3a5d54", 
+    "source_url": "https://zenodo.org/record/13396/export/xn"
+}

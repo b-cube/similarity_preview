@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><?xml-stylesheet type=\"text/xsl\" href=\"/myCrossref/missingmd.xsl\"?> <mmd_results>   <sources>    <source>     <message>No Data Found</message>    </source>   </sources> </mmd_results>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7bbeeed591534de8efa38a9f83d0f582", 
+    "source_url": "http://www.crossref.org/missingmd?datatype=j&prefix=10.17524"
+}

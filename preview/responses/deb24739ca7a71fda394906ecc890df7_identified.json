@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Georgia Tech Research Institute (GTRI)</title> <link href=\"http://hdl.handle.net/1853/8735\" rel=\"alternate\"/> <subtitle>Georgia Tech Research Institute (GTRI) is the nonprofit applied research arm of the Georgia Institute of Technology in Atlanta, GA.</subtitle> <id>http://hdl.handle.net/1853/8735</id> <updated>2015-03-06T08:43:44Z</updated> <dc:date>2015-03-06T08:43:44Z</dc:date> <entry> <title>Research Horizons [Winter/Spring 2014]</title> <link href=\"http://hdl.handle.net/1853/52744\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52744</id> <updated>2014-10-28T07:31:56Z</updated> <published>2014-01-01T00:00:00Z</published> <summary type=\"text\">Research Horizons [Winter/Spring 2014] NOTE: This PDF file was created from original HTML files on GTRI's website. The file may contain contain links to URIs outside of SMARTech. The Georgia Tech Library and Information Center cannot guarantee the authenticity of resources that reside outside the smartech.gatech.edu domain. </summary> <dc:date>2014-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Research Horizons [Summer 2014]</title> <link href=\"http://hdl.handle.net/1853/52743\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52743</id> <updated>2014-10-28T07:31:55Z</updated> <published>2014-01-01T00:00:00Z</published> <summary type=\"text\">Research Horizons [Summer 2014] NOTE: This PDF file was created from original HTML files on GTRI's website. The file may contain contain links to URIs outside of SMARTech. The Georgia Tech Library and Information Center cannot guarantee the authenticity of resources that reside outside the smartech.gatech.edu domain. </summary> <dc:date>2014-01-01T00:00:00Z</dc:date> </entry> <entry> <title>2012-2013 GTRI Annual Report</title> <link href=\"http://hdl.handle.net/1853/52730\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52730</id> <updated>2014-10-28T07:31:45Z</updated> <published>2013-01-01T00:00:00Z</published> <summary type=\"text\">2012-2013 GTRI Annual Report </summary> <dc:date>2013-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Agricultural Technology Research Program Brochure, 2014</title> <link href=\"http://hdl.handle.net/1853/52700\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52700</id> <updated>2014-10-28T07:31:37Z</updated> <published>2014-01-01T00:00:00Z</published> <summary type=\"text\">Agricultural Technology Research Program Brochure, 2014 </summary> <dc:date>2014-01-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "deb24739ca7a71fda394906ecc890df7", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/8735"
+}

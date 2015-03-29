@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>  <META xmlns=\"http://www.w3.org/2000/12/P3Pv1\"> <POLICY-REFERENCES> <POLICY-REF about=\"http://www.doi.gov/w3c/p.xml#s\"> <INCLUDE>/*</INCLUDE>    </POLICY-REF>   </POLICY-REFERENCES>   </META>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d49ef50a5d14dd483f02ba34a8caaa07", 
+    "source_url": "http://www.doi.gov/w3c/p3p.xml"
+}

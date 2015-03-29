@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"DA42B014-15BD-4E72-A818-2F441612D750\" _position=\"1\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/1\"><date>Thursday, January 1, 2015</date><holiday>New Year's Day</holiday></row><row _id=\"2\" _uuid=\"2B93B90B-6CA7-4FD4-8CDD-76C307F954A6\" _position=\"2\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/2\"><date>Monday, January 19, 2015</date><holiday>Martin Luther King, Jr's Birthday</holiday></row><row _id=\"3\" _uuid=\"43C14C1A-74DD-4BD2-9E47-8C504E4CF7C7\" _position=\"3\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/3\"><date>Monday, February 16, 2015</date><holiday>President's Day</holiday></row><row _id=\"4\" _uuid=\"939E41C7-92C2-454D-BA41-EB338450287C\" _position=\"4\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/4\"><date>Monday, March 30, 2015</date><holiday>C\\ufffd\\ufffdsar E. Ch\\ufffd\\ufffdvez' Birthday</holiday></row><row _id=\"5\" _uuid=\"2E84A86E-CD1B-4023-8519-19B839C6023E\" _position=\"5\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/5\"><date>Monday, May 25, 2015</date><holiday>Memorial Day</holiday></row><row _id=\"6\" _uuid=\"DB045068-D360-456C-B736-C7B9DE106AD7\" _position=\"6\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/6\"><date>Friday, July 3, 2015</date><holiday>Independence Day Observed</holiday></row><row _id=\"7\" _uuid=\"EEB4FADA-EB3D-4CA5-B2C0-0EF13AAB4703\" _position=\"7\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/7\"><date>Monday, September 7, 2015</date><holiday>Labor Day</holiday></row><row _id=\"8\" _uuid=\"233487BB-4810-4CF2-99C2-666A81E1B101\" _position=\"8\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/8\"><date>Monday, October 12, 2015</date><holiday>Columbus Day</holiday></row><row _id=\"9\" _uuid=\"0F5B302D-EBA8-4E94-BF93-85C100D20A31\" _position=\"9\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/9\"><date>Wednesday, November 11, 2015</date><holiday>Veteran's Day</holiday></row><row _id=\"10\" _uuid=\"8DA0C7AD-C97C-4EEC-BF63-12B45A30225B\" _position=\"10\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/10\"><date>Thursday, November 26, 2015</date><holiday>Thanksgiving Day</holiday></row><row _id=\"11\" _uuid=\"0EADDEA7-D4D9-47E1-B67A-D8840ED7060E\" _position=\"11\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/11\"><date>Friday, November 27, 2015</date><holiday>The Friday After Thanksgiving Day</holiday></row><row _id=\"12\" _uuid=\"4788C894-E695-4BFA-8396-D041686058E7\" _position=\"12\" _address=\"http://data.lacity.org/resource/bwqa-7qhk/12\"><date>Friday, December 25, 2015</date><holiday>Christmas Day</holiday></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d6cd113b6602304abccac90dd5b02bfa", 
+    "source_url": "https://data.lacity.org/api/views/bwqa-7qhk/rows.xml?accessType=DOWNLOAD"
+}

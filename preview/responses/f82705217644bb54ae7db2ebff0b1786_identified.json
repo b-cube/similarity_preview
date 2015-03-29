@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0026\">   <front>     <title>Internationalization (I18N)</title>     <author initials=\"M.\" surname=\"Horn\" fullname=\"Max Horn\">       <organization/>       <address>         <email>max@quendi.de</email>       </address>     </author>     <date day=\"05\" month=\"November\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0026\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0026.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f82705217644bb54ae7db2ebff0b1786", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0026.xml"
+}

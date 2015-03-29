@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../jpbarry_cv_April%202011.htm\"/>  <o:File HRef=\"item0007.xml\"/>  <o:File HRef=\"props008.xml\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b406e8ca33f4ac884d35fa81623d8701", 
+    "source_url": "http://www.mbari.org/staff/barry/CV/jpbarry_cv_April%202011_files/filelist.xml"
+}

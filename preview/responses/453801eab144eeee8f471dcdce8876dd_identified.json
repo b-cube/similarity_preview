@@ -1,0 +1,15 @@
+{
+    "content": "<doc attrExtEnt=\"entExt\">Hello, world!</doc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "453801eab144eeee8f471dcdce8876dd", 
+    "source_url": "http://www.w3.org/TR/2013/NOTE-xml-c14n2-testcases-20130618/files/out_inC14N5_c14nTrim.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0034\">   <front>     <title>SASL Integration</title>     <author initials=\"R.\" surname=\"Norris\" fullname=\"Robert Norris\">       <organization/>       <address>         <email>rob@cataclysm.cx</email>       </address>     </author>     <author initials=\"J.\" surname=\"Miller\" fullname=\"Jeremie Miller\">       <organization/>       <address>         <email>jeremie@jabber.org</email>       </address>     </author>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"05\" month=\"November\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0034\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0034.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8880b5f9a57fdc129b4e3f81b5bc1c02", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0034.xml"
+}

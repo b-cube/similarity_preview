@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../index.htm\"/>  <o:File HRef=\"image008.jpg\"/>  <o:File HRef=\"image009.jpg\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"image010.gif\"/>  <o:File HRef=\"image006.jpg\"/>  <o:File HRef=\"image007.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c91fbe67302f9eb2a9635de0700b25c2", 
+    "source_url": "http://www.goodshare.org/index_files/filelist.xml"
+}

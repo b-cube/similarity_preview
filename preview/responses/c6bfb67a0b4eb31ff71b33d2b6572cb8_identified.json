@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <urlset xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/Transborder/Transborder/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url> </urlset>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c6bfb67a0b4eb31ff71b33d2b6572cb8", 
+    "source_url": "http://gis.rita.dot.gov/ArcGIS/rest/services/Transborder?f=geositemap"
+}

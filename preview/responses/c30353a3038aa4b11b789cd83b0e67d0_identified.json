@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi w=\"-156.40005\" e=\"-155.38335\" n=\"20.49165\" utm_span=\"1000\" zone=\"5Q\" type=\"geo\" s=\"19.53335\">     <location name=\"UTM:(5Q 0202 2220 1000)\">       <cdi>3.7738</cdi>       <nresp>1</nresp>       <dist>28</dist>       <lat>20.0586</lat>       <lon>-155.8442</lon>       <name>UTM:(5Q 0202 2220 1000)</name>     </location>     <location name=\"UTM:(5Q 0202 2224 1000)\">       <cdi>3.7738</cdi>       <nresp>1</nresp>       <dist>29</dist>       <lat>20.0947</lat>       <lon>-155.8448</lon>       <name>UTM:(5Q 0202 2224 1000)</name>     </location>     <location name=\"UTM:(5Q 0208 2206 1000)\">       <cdi>3.0916</cdi>       <nresp>1</nresp>       <dist>31</dist>       <lat>19.9331</lat>       <lon>-155.7846</lon>       <name>UTM:(5Q 0208 2206 1000)</name>     </location>     <location name=\"UTM:(5Q 0267 2210 1000)\">       <cdi>2.2372</cdi>       <nresp>1</nresp>       <dist>76</dist>       <lat>19.9772</lat>       <lon>-155.2219</lon>       <name>UTM:(5Q 0267 2210 1000)</name>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c30353a3038aa4b11b789cd83b0e67d0", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/hv/60866726/us/cdi_geo.xml"
+}

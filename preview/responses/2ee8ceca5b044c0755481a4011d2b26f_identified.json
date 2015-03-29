@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-WOFF-20110804'            target='http://www.w3.org/TR/2011/CR-WOFF-20110804'> <front> <title>WOFF File Format 1.0</title>  <author initials='T.' surname='Leming' fullname='Tal Leming'>     <organization /> </author>  <author initials='J.' surname='Kew' fullname='Jonathan Kew'>     <organization /> </author>  <author initials='E.' surname='Blokland' fullname='Erik van Blokland'>     <organization /> </author>  <date month='August' day='4' year='2011' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-WOFF-20110804' /> <format type='HTML' target='http://www.w3.org/TR/2011/CR-WOFF-20110804' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2ee8ceca5b044c0755481a4011d2b26f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-w3c/reference.W3C.CR-WOFF-20110804.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE XSIL SYSTEM \"http://www.vallis.org/lisa-xml.dtd\"> <?xml-stylesheet type=\"text/xsl\" href=\"lisa-xml.xsl\"?> <XSIL>     <Param Name=\"Author\">MLDC Task Force</Param>     <Param Name=\"GenerationDate\" Type=\"ISO-8601\">2007-08-11T04:08:58CEST</Param>     <Comment>         XML key for challenge1B.2.2, source seed = 747268, noise seed = 747268, LISAtools SVN revision 491                 lisaXML 1.0 [M. Vallisneri, June 2006]     </Comment>     <XSIL Type=\"LISAData\">         <XSIL Name=\"Standard MLDC PseudoLISA\" Type=\"PseudoLISA\">             <Param Name=\"TimeOffset\" Unit=\"Second\">                 0             </Param>             <Param Name=\"InitialPosition\" Unit=\"Radian\">                 0             </Param>             <Param Name=\"InitialRotation\" Unit=\"Radian\">                 0             </Param>             <Param Name=\"Armlength\" Unit=\"Second\">                 16.6782             </Param>         </XSIL>     </XSIL>     <XSIL Type=\"SourceData\">         <XSIL Name=\"SMBH-1.2.2\" Type=\"PlaneWave\">             <Param Name=\"SourceType\">                 BlackHoleBinary             </Param>             <Param Name=\"EclipticLatitude\" Unit=\"Radian\">                 -0.264756433902             </Param>             <Param Name=\"EclipticLongitude\" Unit=\"Radian\">                 2.90960542859             </Param>             <Param Name=\"Polarization\" Unit=\"Radian\">                 2.78992126678             </Param>             <Param Name=\"Inclination\" Unit=\"Radian\">                 1.51582640827             </Param>             <Param Name=\"Distance\" Unit=\"Parsec\">                 1280496427.76             </Param>             <Param Name=\"Mass1\" Unit=\"SolarMass\">                 3421745.72115             </Param>             <Param Name=\"Mass2\" Unit=\"SolarMass\">                 2534543.04169             </Param>             <Param Name=\"CoalescenceTime\" Unit=\"Second\">                 36842546.3611             </Param>             <Param Name=\"InitialAngularOrbitalPhase\" Unit=\"Radian\">                 0.235309398533             </Param>             <Param Name=\"TruncationTime\" Unit=\"Second\">                 0.0             </Param>             <Param Name=\"TaperApplied\" Unit=\"TotalMass\">                 7.0             </Param>         </XSIL>     </XSIL> </XSIL> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "605390ac4b03275a1010c07a39444beb", 
+    "source_url": "http://astrogravs.gsfc.nasa.gov/docs/mldc/round1/round1b/keys/challenge1B.2.2-key.xml"
+}

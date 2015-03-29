@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <marinelitterdata> <header></header> <communities> <community communitycode=\"PICIP\"> <name>Laurence Castaing</name> <contact>maisonpourtousvsg@gmail.com</contact> <website/> <description/> <countrycode/> <beaches> <beach> <name>4756 Route de la Plage, 40560 Vielle-Saint-Girons, France</name> <countrycode/> <externallink/> <length_m></length_m> <nationalreference/> <beachtype></beachtype> <beachlocation></beachlocation> <gml:MultiGeometry xmlns:gml=\"http://www.opengis.net/gml\" srsName=\"EPSG:4979\" srsDimension=\"1\"> <gml:geometryMember> <gml:MultiPoint> <gml:pointMember> <gml:Point> <gml:pos>43.968 -1.3607</gml:pos> </gml:Point> </gml:pointMember> </gml:MultiPoint> </gml:geometryMember> <gml:geometryMember> </gml:geometryMember> </gml:MultiGeometry> <events> <event eventcode=\"\" startdate=\"2015-03-01\" enddate=\"\" ispublic=\"1\" qa=\"0\" qc=\"0\"> <items protocol=\"EEA-MLW\"> <item code=\"G27\" count=\"10\"/><item code=\"G4\" count=\"50\"/><item code=\"G7\" count=\"50\"/><item code=\"G100\" count=\"10\"/><item code=\"G79\" count=\"200\"/><item code=\"G50\" count=\"100\"/><item code=\"G56\" count=\"20\"/><item code=\"G70\" count=\"5\"/><item code=\"G00\" count=\"15\"/><item code=\"G200\" count=\"5\"/> </items> </event> </events> </beach> </beaches> </community> </communities> </marinelitterdata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6e7020def8a9f1c0b0daf8bfa3801589", 
+    "source_url": "https://taskman.eionet.europa.eu/attachments/download/11404/mlw_2015-03-04T102914_e82756b6-5b01-4f75-b03c-09754f46e65d.xml"
+}

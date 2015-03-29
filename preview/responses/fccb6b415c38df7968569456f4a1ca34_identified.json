@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"> <ShortName>Marinespecies.org</ShortName> <Description>MarineSpecies</Description> <InputEncoding>UTF-8</InputEncoding> <Url type=\"text/html\" template=\"http://www.marinespecies.org/aphia.php?p=taxlist&amp;tName={searchTerms}\" />  <Image height=\"8\" width=\"8\" type=\"image/vnd.microsoft.icon\">http://www.marinespecies.org/favicon.ico</Image> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fccb6b415c38df7968569456f4a1ca34", 
+    "source_url": "http://www.marinespecies.org/provider.xml"
+}

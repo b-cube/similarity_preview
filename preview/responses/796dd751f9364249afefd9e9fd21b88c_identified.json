@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"IEEE.802-2.1985\"> <front> <title>Local Area Networks: Logical Link Control</title> <author> <organization>Institute of Electrical and Electronics Engineers</organization> </author> <date month=\"\" year=\"1985\" /> </front>  <seriesInfo name=\"IEEE\" value=\"Standard 802.2\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "796dd751f9364249afefd9e9fd21b88c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.IEEE.802-2.1985.xml"
+}

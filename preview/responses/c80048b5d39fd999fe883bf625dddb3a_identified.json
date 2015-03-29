@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../dance2002.htm\"/>  <o:File HRef=\"image001.wmz\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"oledata.mso\"/>  <o:File HRef=\"image003.wmz\"/>  <o:File HRef=\"image004.gif\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c80048b5d39fd999fe883bf625dddb3a", 
+    "source_url": "http://www.isi.edu/touch/pubs/dance2002/dance2002_files/filelist.xml"
+}

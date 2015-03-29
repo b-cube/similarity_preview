@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"FIPS.1-1.1980\"> <front> <title>Code for Information</title> <author> <organization>National Institute of Standards and Technology</organization> </author> <date month=\"December\" year=\"1980\" /> </front>  <seriesInfo name=\"FIPS\" value=\"PUB 1-1\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "654a6d15430df29e56809b61e1221b23", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.FIPS.1-1.1980.xml"
+}

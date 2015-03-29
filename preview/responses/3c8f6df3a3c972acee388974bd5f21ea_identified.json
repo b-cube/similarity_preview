@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi type=\"zip\">     <location name=\"99517\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>2193</dist>       <lat>61.1899261926</lat>       <lon>-149.936096257</lon>       <name>Anchorage</name>       <state>AK</state>     </location>     <location name=\"99546\">       <cdi>5.4480</cdi>       <nresp>1</nresp>       <dist>332</dist>       <lat>51.8250029775</lat>       <lon>-176.70693451</lon>       <name>Adak</name>       <state>AK</state>     </location>     <location name=\"99664\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>2217</dist>       <lat>60.2395703767</lat>       <lon>-149.044241402</lon>       <name>Seward</name>       <state>AK</state>     </location>     <location name=\"99750\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>2037</dist>       <lat>67.7577914511</lat>       <lon>-163.483890921</lon>       <name>Kivalina</name>       <state>AK</state>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3c8f6df3a3c972acee388974bd5f21ea", 
+    "source_url": "http://earthquake.usgs.gov/archive/product/dyfi/usc000rki5/us/1422652532890/cdi_zip.xml"
+}

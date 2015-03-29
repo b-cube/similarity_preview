@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">SEPA 090701, The Scottish Salmon Company Ltd, Meall Mhor Fin Fish Farm, visual sea bed monitoring</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:1871487344fce1dd94654eb7738bda1a</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Visual monitoring of the sea bed adjacent to the fish farm.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2011-05-25</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7144c0b11094ca0219c1ff90fa888ef5", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__1871487344fce1dd94654eb7738bda1a.xml/DC"
+}

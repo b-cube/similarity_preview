@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:geo=\"http://a9.com/-/opensearch/extensions/geo/1.0/\" xmlns:eum=\"http://a9.com/-/opensearch/extensions/eumetsat/1.0/\">  <ShortName>EUMETSAT Product Navigator</ShortName>  <Description>The EUMETSAT Product Navigator is the central data discovery service for all EUMETSAT data and products, including third-party products disseminated via EUMETCast.</Description>  <Tags>EUMETSAT meteorology satellite weather climate terraCatalog CSW catalogue service</Tags>  <Contact>$MAILING_ADMIN</Contact>   <Url type=\"application/vnd.google-earth.kml+xml\" template=\"$WEBAPP_SERVER_URL/OpenSearch?q={searchTerms}&amp;pw={startPage?}&amp;bbox={geo:box?}&amp;dtstart={time:start?}&amp;dtend={time:end?}&amp;cat={eum:category?}&amp;pp={eum:productProvider?}&amp;dis={eum:dissemination?}&amp;ins={eum:instrument?}&amp;sat={eum:satellite?}&amp;uL={eum:useLimitation?}&amp;format=kml\"/>  <Url type=\"application/atom+xml\" template=\"$WEBAPP_SERVER_URL/OpenSearch?q={searchTerms}&amp;pw={startPage?}&amp;bbox={geo:box?}&amp;dtstart={time:start?}&amp;dtend={time:end?}&amp;cat={eum:category?}&amp;pp={eum:productProvider?}&amp;dis={eum:dissemination?}&amp;ins={eum:instrument?}&amp;sat={eum:satellite?}&amp;uL={eum:useLimitation?}&amp;format=atom\"/>  <Url type=\"application/atom+xml\" template=\"$WEBAPP_SERVER_URL/OpenSearch?id={geo:uid}&amp;format=atom\"/>   <Url type=\"application/rss+xml\" template=\"$WEBAPP_SERVER_URL/OpenSearch?q={searchTerms}&amp;pw={startPage?}&amp;bbox={geo:box?}&amp;dtstart={time:start?}&amp;dtend={time:end?}&amp;cat={eum:category?}&amp;pp={eum:productProvider?}&amp;dis={eum:dissemination?}&amp;ins={eum:instrument?}&amp;sat={eum:satellite?}&amp;uL={eum:useLimitation?}&amp;format=rss\"/>  <LongName>terraCatalog geospatial resource search engine</LongName>  <Image height=\"75\" width=\"155\" type=\"image/png\">terraCatalog_feed.png</Image>  <Image height=\"14\" width=\"14\" type=\"image/png\">feed-icon-14x14.png</Image>  <Query role=\"example\" searchTerms=\"metadata\"/>  <Developer>sdi-suite Development Team</Developer>  <!-- enter any copyright remarks in the optional attribution element --> <!--  <Attribution></Attribution> -->  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>*</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "*", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8188686443d0bcd8d40188838a776991", 
+    "source_url": "http://vnavigator.eumetsat.int/discovery/os-description.xml"
+}

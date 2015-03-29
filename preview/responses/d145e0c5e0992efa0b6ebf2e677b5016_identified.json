@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <c02 level=\"file\">           <did>             <unitid countrycode=\"GB\" repositorycode=\"532\" identifier=\" Cwl PN/9/17 \"> Cwl PN/9/17 </unitid>             <unittitle> File. Book, 'Preparing for non-violent direct action', by Howard Clark et al (Peace News/CND, 1984) </unittitle>             <unitdate normal=\" 1984 \" era=\"ce\" calendar=\"gregorian\"> 1984 </unitdate>             <physdesc>               <extent> 1 file </extent>             </physdesc>           </did>           <scopecontent>             <p> Book; original graphics by Fanny Tribble; correspondence about production, sales and distribution; book reviews; annotated text; card covers </p>           </scopecontent>         </c02>          ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d145e0c5e0992efa0b6ebf2e677b5016", 
+    "source_url": "http://archiveshub.ac.uk/data/gb532-cwlpn/cwlpn/9/17.xml"
+}

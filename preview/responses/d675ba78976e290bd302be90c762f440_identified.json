@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE XSIL SYSTEM \"http://www.vallis.org/lisa-xml.dtd\"> <?xml-stylesheet type=\"text/xsl\" href=\"lisa-xml.xsl\"?> <XSIL>     <Param Name=\"Author\">MLDC Task Force</Param>     <Param Name=\"GenerationDate\" Type=\"ISO-8601\">2007-08-10T17:34:43CEST</Param>     <Comment>         XML key for challenge1B.1.1a, source seed = 466434, noise seed = 466434, LISAtools SVN revision 491                 lisaXML 1.0 [M. Vallisneri, June 2006]     </Comment>     <XSIL Type=\"LISAData\">         <XSIL Name=\"Standard MLDC PseudoLISA\" Type=\"PseudoLISA\">             <Param Name=\"TimeOffset\" Unit=\"Second\">                 0             </Param>             <Param Name=\"InitialPosition\" Unit=\"Radian\">                 0             </Param>             <Param Name=\"InitialRotation\" Unit=\"Radian\">                 0             </Param>             <Param Name=\"Armlength\" Unit=\"Second\">                 16.6782             </Param>         </XSIL>     </XSIL>     <XSIL Type=\"SourceData\">         <XSIL Name=\"GB-1.1.1a\" Type=\"PlaneWave\">             <Param Name=\"SourceType\">                 GalacticBinary             </Param>             <Param Name=\"EclipticLatitude\" Unit=\"Radian\">                 -0.575404489541             </Param>             <Param Name=\"EclipticLongitude\" Unit=\"Radian\">                 6.27798155181             </Param>             <Param Name=\"Polarization\" Unit=\"Radian\">                 3.82365252645             </Param>             <Param Name=\"Frequency\" Unit=\"Hertz\">                 0.00105998801347             </Param>             <Param Name=\"InitialPhase\" Unit=\"Radian\">                 0.850396198518             </Param>             <Param Name=\"Inclination\" Unit=\"Radian\">                 0.636626284139             </Param>             <Param Name=\"Amplitude\" Unit=\"1\">                 5.34342375687e-23             </Param>         </XSIL>     </XSIL> </XSIL> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d675ba78976e290bd302be90c762f440", 
+    "source_url": "http://astrogravs.gsfc.nasa.gov/docs/mldc/round1/round1b/keys/challenge1B.1.1a-key.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <doap:Project xmlns:doap=\"http://usefulinc.com/ns/doap#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:xh=\"http://www.w3.org/1999/xhtml\">   <doap:name>Jackson Java JSON Processor</doap:name>   <doap:homepage rdf:resource=\"http://jackson.codehaus.org/\"/>   <doap:created></doap:created>   <doap:shortdesc xml:lang=\"en\">Jackson Java JSON Processor: Fast, Compatible, Streaming</doap:shortdesc>   <doap:description xml:lang=\"en\">Jackson is a Java-based JSON-processing package that contains:  * high-performance streaming JSON parser/generator * Tree Model that can be built from/written to parser/generator * Object Mapper that implements data binding to/from parser/generator  API of streaming parser/generator is similar to Stax API used for efficient xml processing on Java platform.  Beyond VERY fast Json parser and generator, Jackson project also offers full data binding support through 2 different approaches: \"Object Mapper\" for full POJO to/from Json data mapping (similar to JAXB2) and \"Tree Mapper\" for something similar to DOM and XPath.</doap:description>   <doap:mailing-list rd-resource=\"http://xircles.codehaus.org/lists/dev@jackson.codehaus.org\"/>   <doap:mailing-list rd-resource=\"http://xircles.codehaus.org/lists/user@jackson.codehaus.org\"/>   <doap:mailing-list rd-resource=\"http://xircles.codehaus.org/lists/announce@jackson.codehaus.org\"/>   <doap:mailing-list rd-resource=\"http://xircles.codehaus.org/lists/scm@jackson.codehaus.org\"/>   <doap:repository>     <doap:SVNRepository>       <doap:location rdf:resources=\"http://svn.codehaus.org/jackson/\"/>       <doap:location rdf:resource=\"https://svn.codehaus.org/jackson/\"/>       <doap:location rdf:resource=\"svn://svn.jackson.codehaus.org/jackson/\"/>       <doap:browse rdf:resource=\"http://svn.jackson.codehaus.org/\"/>     </doap:SVNRepository>   </doap:repository>   <doap:bug-database rdf:resource=\"http://jira.codehaus.org/browse/JACKSON\"/>   <doap:wiki rdf:resource=\"http://docs.codehaus.org/display/JACKSON\"/> </doap:Project> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "79820d0c076bc67b142074cdb6772c84", 
+    "source_url": "http://xircles.codehaus.org/projects/jackson/doap"
+}

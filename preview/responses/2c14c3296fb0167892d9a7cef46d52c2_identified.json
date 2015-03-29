@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">   <o:MainFile HRef=\"../MeanderingRivers.htm\"/>   <o:File HRef=\"image001.gif\"/>   <o:File HRef=\"filelist.xml\"/>  </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2c14c3296fb0167892d9a7cef46d52c2", 
+    "source_url": "http://www.sierrapotomac.org/W_Needham/MeanderingRivers_files/filelist.xml"
+}

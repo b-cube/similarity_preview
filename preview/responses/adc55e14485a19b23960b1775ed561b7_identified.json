@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2014-01-08 12:10:03</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a2a66b4-1142-462a-9fae-850942ea0e8a\"    xml:base=\"http://gcmdstage.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdstage.gsfc.nasa.gov/kms/concepts/concept_scheme/projects\"/>    <skos:prefLabel xml:lang=\"en\">CAMP-CEOP</skos:prefLabel>    <skos:altLabel xml:lang=\"en\">CEOP Asian Monsoon Project</skos:altLabel>    <skos:definition xml:lang=\"en\">The Coordinated Enhanced Observing Period (CEOP), which is built as the foundation of the World Climate Research Program (WCRP) in cooperation with the World Meteorological Organization (WMO)and the framework of Integrated Global Observing Strategy Partnership (IGOS-P),seeks to establish an integrated global observing system for the water cycle which responds to both scientific and social needs.  This summary is taken from http://www.ceop.net/ </skos:definition>    <skos:broader rdf:resource=\"0c89f3f4-7ab1-43ce-89ee-795d35f0e30a\"/> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "adc55e14485a19b23960b1775ed561b7", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a2a66b4-1142-462a-9fae-850942ea0e8a.rdf.last"
+}

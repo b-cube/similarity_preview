@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20113081</identifier><identifier type=\"pwpk\">70005012</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2011-3081</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Cobalt: for strength and color</title></titleInfo><originInfo><dateOther>Tue, 2 Aug 2011 00:00 -0500</dateOther><dateIssued>2011</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Boland, Maeve A.; Kropschot, S.J.</namePart><role>Author</role></name><abstract>&lt;p>Cobalt is a shiny, gray, brittle metal that is best known for creating an intense blue color in glass and paints. It is frequently used in the manufacture of rechargeable batteries and to create alloys that maintain their strength at high temperatures. It is also one of the essential trace elements (or \"micronutrients\") that humans and many other living creatures require for good health. Cobalt is an important component in many aerospace, defense, and medical applications and is a key element in many clean energy technologies. The name cobalt comes from the German word kobold, meaning goblin. It was given this name by medieval miners who believed that troublesome goblins replaced the valuable metals in their ore with a substance that emitted poisonous fumes when smelted. The Swedish chemist Georg Brandt isolated metallic cobalt-the first new metal to be discovered since ancient times-in about 1735 and identified some of its valuable properties.&lt;/p></abstract><physicalDescription><form>2 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2011_3081.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2011/3081/</url><url displayLabel=\"pdf\" note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2011/3081/pdf/fs2011-3081.pdf</url></location><note type=\"citation/reference\">Cobalt: for strength and color; 2011; FS; 2011-3081; Fact Sheet; Boland, Maeve A.; Kropschot, S.J.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "393d756fcabaa1fcd1f4d9387e5d05b2", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20113081"
+}

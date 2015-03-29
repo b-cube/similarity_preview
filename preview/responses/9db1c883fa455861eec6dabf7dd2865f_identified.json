@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <ShortDOIResults> <DOI>10.1002/(SICI)1097-0258(19980815/30)17:15/16&lt;1661::AID-SIM968&gt;3.0.CO;2-2</DOI> <ShortDOI>10/aabbe</ShortDOI> <IsNew>false</IsNew> </ShortDOIResults> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9db1c883fa455861eec6dabf7dd2865f", 
+    "source_url": "http://shortdoi.org/10.1002/(SICI)1097-0258(19980815/30)17:15/16%3C1661::AID-SIM968%3E3.0.CO%3B2-2?format=xml"
+}

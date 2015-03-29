@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>J\\ufffd\\ufffdhne, Bernd</a1>   <a2>Hau\\ufffd\\ufffdecker, Horst</a2>   <a2>Schimpf, Uwe</a2>   <a2>Balschbach, G\\ufffd\\ufffdnther</a2>   <t1>The Heidelberg Aelotron --- a new facility for laboratory investigations of small-scale air-sea interaction</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;The study of small-scale air sea interaction still lacks suitable facilities. No facilities are available with large fetches and correspondingly high wave ages. Furthermore almost no large facility is suitable for measurements with sea water,&lt;br /&gt; is clean enough for controllable experiments with surface films or sufficiently&lt;br /&gt; gastight for gas exchange measurements. Currently a new large annular wind/wave facility with quasi unlimited fetch is under construction at the Institute for Environmental Physics of Heidelberg University. An annular facility is not a new idea. A 40 m diameter facility (&amp;ldquo;storm basin&amp;rdquo;) was already built shortly after World War II in Sevastopol for wind/wave interaction studies. Various small circular facilities for air-sea gas exchange studies have been used since the late 70ties at Heidelberg University and later at Woods Hole Oceanographic Institution for air-sea gas exchange studies.&lt;/p&gt;</ab>   <la/>   <k1>Aeolotron;                 gas exchange;                 wind-wave facility;                 </k1>   <pb/>   <pp/>   <yr>1999-01-11</yr>   <ed/>   <ul>https://zenodo.org/record/14857/files/ASI1999_PosterAeolotrron_Jaehne_et_al_a.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a2d2b9899456538bed089269984faef0", 
+    "source_url": "https://zenodo.org/record/14857/export/xw"
+}

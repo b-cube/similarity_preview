@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <rdf:RDF xmlns=\"http://usefulinc.com/ns/doap#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"><Project><name>pyliblzma</name> <shortdesc>Python bindings for liblzma</shortdesc> <description>PylibLZMA provides a python interface for the liblzma library to read and write data that has been compressed or can be decompressed by Lasse Collin's xz / lzma utils.</description> <homepage rdf:resource=\"https://launchpad.net/pyliblzma\" /> <maintainer><foaf:Person><foaf:name>Per Oyvind Karlsen</foaf:name> <foaf:mbox_sha1sum>8ccc01798af6c416da8e0490322828c3fdb6212f</foaf:mbox_sha1sum></foaf:Person></maintainer> <release><Version><revision>0.5.3</revision></Version></release> </Project></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "49558db6e948f34aa9c64e2dd00b2a8a", 
+    "source_url": "https://pypi.python.org/pypi?:action=doap&name=pyliblzma&version=0.5.3"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <url>     <loc>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/WaterTemplate/LocalGovernmentInfrastructureBasemap/MapServer</loc>   </url>   <url>     <loc>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/WaterTemplate/WaterDistributionAdministrativeReport/MapServer</loc>   </url>   <url>     <loc>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/WaterTemplate/WaterDistributionInventoryReport/MapServer</loc>   </url>   <url>     <loc>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/WaterTemplate/WaterDistributionNetwork/MapServer</loc>   </url>   <url>     <loc>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/WaterTemplate/WaterDistributionOperations/MapServer</loc>   </url>   <url>     <loc>http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/WaterTemplate/WaterDistributionPerformanceReport/MapServer</loc>   </url> </urlset>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "eedf64702f8bc7e0feb64b6cd52c5ffc", 
+    "source_url": "http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/WaterTemplate?f=sitemap"
+}

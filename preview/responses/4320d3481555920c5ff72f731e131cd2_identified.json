@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0093\">   <front>     <title>Roster Item Exchange</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"26\" month=\"August\" year=\"2005\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0093\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0093.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4320d3481555920c5ff72f731e131cd2", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0093.xml"
+}

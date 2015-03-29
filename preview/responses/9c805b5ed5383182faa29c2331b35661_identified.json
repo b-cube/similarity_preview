@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <opml version=\"1.1\"> <head> <title>State Geothermal Data </title> <dateModified>Thu, 19 Mar 2015 17:45:17 +0000</dateModified> </head> <body> <outline text=\"Geothermal in the News\" xmlUrl=\"http://news.google.com/news?hl=en&amp;newwindow=1&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official&amp;q=geothermal+energy&amp;um=1&amp;ie=UTF-8&amp;output=rss\" /> </body> </opml> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9c805b5ed5383182faa29c2331b35661", 
+    "source_url": "http://www.stategeothermaldata.org/aggregator/opml"
+}

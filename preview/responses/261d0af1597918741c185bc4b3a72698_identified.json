@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0059\">   <front>     <title>Result Set Management</title>     <author initials=\"I.\" surname=\"Paterson\" fullname=\"Ian Paterson\">       <organization/>       <address>         <email>ian.paterson@clientside.co.uk</email>       </address>     </author>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <author initials=\"V.\" surname=\"Mercier\" fullname=\"Valerie Mercier\">       <organization/>       <address>         <email>valerie.mercier@orange-ftgroup.com</email>       </address>     </author>     <author initials=\"J.\" surname=\"Seguineau\" fullname=\"Jean-Louis Seguineau\">       <organization/>       <address>         <email>jls@antepo.com</email>       </address>     </author>     <date day=\"20\" month=\"September\" year=\"2006\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0059\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0059.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "261d0af1597918741c185bc4b3a72698", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0059.xml"
+}

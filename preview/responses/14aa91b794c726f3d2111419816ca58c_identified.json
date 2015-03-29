@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Waller, Jan</author>           <author>Hasselbring, Wilhelm</author>         </authors>       </contributors>       <titles>         <title>Benchmark for: A Benchmark Engineering Methodology to Measure the Overhead of Application-Level Monitoring</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.7616</doi>       <pages/>       <volume/>       <number>doi</number>       <keywords>         <keyword>Kieker</keyword>         <keyword>MooBench</keyword>         <keyword>Software Performance Engineering</keyword>         <keyword>Benchmarking</keyword>       </keywords>       <dates>         <year>2013</year>         <pub-dates>           <date>2013-11-28</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Application-level monitoring frameworks, such as Kieker, provide insight into the inner workings and the dynamic behavior of software systems. However, depending on the number of monitoring probes used, these frameworks may introduce significant runtime overhead. Consequently, planning the instrumentation of continuously operating software systems requires detailed knowledge of the performance impact of each monitoring probe.&lt;/p&gt;          &lt;p&gt;In this paper, we present our benchmark engineering approach to quantify the monitoring overhead caused by each probe under controlled and repeatable conditions. Our developed MooBench benchmark provides a basis for performance evaluations and comparisons of application-level monitoring frameworks. To evaluate its capabilities, we employ our benchmark to conduct a performance comparison of all available Kieker releases from version 0.91 to the current release 1.8.&lt;/p&gt;          &lt;p&gt;This set supplements the paper and contains the used benchmark, its configuration, and the used Kieker versions for all experiments.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "14aa91b794c726f3d2111419816ca58c", 
+    "source_url": "https://zenodo.org/record/7616/export/xe"
+}

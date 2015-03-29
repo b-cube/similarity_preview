@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0002\">   <front>     <title>Special Interest Groups (SIGs)</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"11\" month=\"January\" year=\"2002\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0002\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0002.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f8743a44e466389a0a03682212c14b83", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0002.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>Institutional Repositories: Partnering with Faculty to Enhance Scholarly Communication</title> <creator>Richard K. Johnson</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">November 2002</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/november2002-johnson</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/november02/johnson/11johnson.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>8</volume> <issue>11</issue> </relation> <rights>Richard K. Johnson</rights> </dlib-meta0.1>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "92d603b8f5c624a50acc8052d838b9e5", 
+    "source_url": "http://www.dlib.org/dlib/november02/johnson/11johnson.meta.xml"
+}

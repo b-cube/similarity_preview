@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Pastori, Gabriela</author>           <author>Pugh, Adrian</author>           <author>Martens, Frans</author>           <author>Pauw, Bea</author>           <author>Rueckert, Chris</author>           <author>Vonder Muehll, Daniel</author>           <author>Alberghina, Lilia</author>           <author>Borsani, Massimiliano </author>           <author>Kitney, Richard</author>           <author>Skene, Barbara</author>           <author>Martins dos Santos, Vitor</author>           <author>Regierer, Babette</author>           <author>Westerhoff, Hans</author>           <author>Mon\\ufffd\\ufffd, Martijn</author>           <author>Stanford, Natalie</author>           <author>van Driel, Roel</author>           <author>van Nieuwpoort, Frans</author>         </authors>       </contributors>       <titles>         <title>Map of the current funding segments of the infrastructure, in space and in time, their interactions</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.15833</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>ISBE, systems biology, funding </keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-02-24</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;&amp;nbsp;&lt;/p&gt;          &lt;p&gt;Between September 2012 and December 2013, ISBE project WP11 staff engaged representatives from a range of national funding agencies through one-to-one engagement, and via updates and the twice yearly meetings of the Work Package 11 meetings.&lt;/p&gt;          &lt;p&gt;Input following interviews was received from 16 Countries and further information on roadmap activities was obtained for a further 6 countries. The summary of those discussions is provided within this document.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2c17721d58e1e495eb2f9ad660060ad8", 
+    "source_url": "https://zenodo.org/record/15833/export/xe"
+}

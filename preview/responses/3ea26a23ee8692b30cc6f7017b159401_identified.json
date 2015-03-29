@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Bathymetric Survey - 2012-01-27 - The Sloyne</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">ukho.ac.uk:DC:046291d5-dd1a-3c25-9fb3-bf5f0161e0e1</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">IPR Holder: Mersey Docks and Harbour Company; Purpose: Safety of navigation; IHO Sea: Irish Sea and the St. Georges Channel - 19; Survey Start: 2012-01-27; Survey End: 2012-01-27; Primary Instrument Type: Echosounder - multibeam; Primary Navigation Type: DGPS;</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2012-03-26</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3ea26a23ee8692b30cc6f7017b159401", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/ukho.ac.uk__MEDIN_2.3__046291d5-dd1a-3c25-9fb3-bf5f0161e0e1.xml/DC"
+}

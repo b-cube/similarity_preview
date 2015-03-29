@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"es\"><title>Historial de revisi\\ufffd\\ufffdn del conjunto de datos CKAN</title><link href=\"/es/revision/drcog-2010-census-data-sex-age-census-block-group-denver-aurora-boulder-csa\" rel=\"alternate\"></link><id>/es/revision/drcog-2010-census-data-sex-age-census-block-group-denver-aurora-boulder-csa</id><updated>2015-03-20T04:18:06Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e047719667618664e1316db3a96da0ff", 
+    "source_url": "http://data.opencolorado.org/es/dataset/history/drcog-2010-census-data-sex-age-census-block-group-denver-aurora-boulder-csa?days=7&format=atom"
+}

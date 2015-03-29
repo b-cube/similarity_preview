@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/ahps_gauges/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/atStorms/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/AtStormViewer/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/cpc_weather_hazards/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/epStorms/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/EpStormViewer/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/FOP/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/NDFDTemps/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/QPF/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/Radar_warnings/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/RIDGERadar/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/SPC_Outlooks/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/watchwarn/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/wxmap/MapServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/System/CachingTools/GPServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/System/PublishingTools/GPServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/System/ReportingTools/GPServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fc36ca5d45f140c84285fb844c807eac", 
+    "source_url": "http://gis.srh.noaa.gov/arcgis/rest/services/?f=sitemap"
+}

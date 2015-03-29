@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <netcdf xmlns=\"http://www.unidata.ucar.edu/namespaces/netcdf/ncml-2.2\">   <remove type=\"attribute\" name=\"creation_date\"/>        <variable name=\"lat\">  <attribute name=\"standard_name\" type=\"String\" value=\"latitude\"/>  <attribute name=\"axis\" type=\"string\" value=\"Y\"/>  <attribute name=\"units\" type=\"string\" value=\"degrees_north\" />   </variable>   <variable name=\"lon\">  <attribute name=\"standard_name\" type=\"string\" value=\"longitude\"/>  <attribute name=\"axis\" type=\"string\" value=\"X\"/>  <attribute name=\"units\" type=\"string\" value=\"degrees_east\" />     </variable>   <variable name=\"time\">  <attribute name=\"standard_name\" type=\"string\" value=\"time\"/>  <attribute name=\"axis\" type=\"string\" value=\"T\"/>  <attribute name=\"units\" type=\"string\" value=\"months since 0000-01-01 00:00:00\"/>   </variable>   <aggregation dimName=\"time\" type=\"joinExisting\">  <netcdf id=\"1\" location =\"http://data.nodc.noaa.gov/thredds/dodsC/woa/DATA_ANALYSIS/NP_REG_CLIMAT/DATA/netcdf/temperature/0.25/t00_04.nc\" coordValue=\"6\"/>   </aggregation>  </netcdf> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "UNIDATA:NCML", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9577589dd0a8dde62ae7ccd63da2dff5", 
+    "source_url": "http://data.nodc.noaa.gov/nodc/ncml/arctic_ncml/temperature_annual_quarter.ncml"
+}

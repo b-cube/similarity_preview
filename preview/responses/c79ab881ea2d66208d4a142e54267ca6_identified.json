@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/Dasymetric_WMerc/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_DNC_Landcover/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_MWI_Landcover/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_PAZ_Landcover/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_PitPA_Landcover/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_PME_Landcover/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_TFL_Landcover/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESN_Rare_Ecosystems/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/NHDFlowlines_nolabels/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/PRW_WMerc/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/Reference_BiophysicalData/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/Reference_Boundaries/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c79ab881ea2d66208d4a142e54267ca6", 
+    "source_url": "http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental?f=sitemap"
+}

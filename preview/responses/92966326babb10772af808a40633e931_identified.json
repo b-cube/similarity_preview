@@ -1,0 +1,15 @@
+{
+    "content": "<job>   <arg>./jobs/nix/nix.nix</arg>   <arg>nixHeadRelease</arg>   <arg>http://catamaran.labs.cs.uu.nl/dist/nix</arg>   <arg>http://catamaran.labs.cs.uu.nl/dist/nix-cache</arg>   <arg>http://www.cs.uu.nl/groups/ST/twiki/bin/fresh/Trace/Nix</arg>   <input>     <name>job</name>     <hash>8fb9d56e7f8b22d3016d0881f6099e70</hash>     <rev>2510</rev>     <type>svn</type>     <url>https://svn.cs.uu.nl:12443/repos/trace/release/trunk</url>   </input>   <input>     <name>nixHead</name>     <hash>d9783d590bed7c3d379e339d49d0653f</hash>     <rev>2524</rev>     <type>svn</type>     <url>https://svn.cs.uu.nl:12443/repos/trace/nix/branches/0.8-release</url>   </input>   <input>     <name>nixpkgs</name>     <hash>fed6ba8a5dc61eedd0262f23b1595c51</hash>     <rev>2398</rev>     <type>svn</type>     <url>https://svn.cs.uu.nl:12443/repos/trace/nixpkgs/tags/0.7</url>   </input>   <job-script>generic-dist/build+upload.sh</job-script>   <notify-address>eelco@cs.uu.nl</notify-address>   <secrets>../../secrets/nix-upload-passwd</secrets> </job> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "92966326babb10772af808a40633e931", 
+    "source_url": "http://nixos.org/releases/nix/nix-0.8/job.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0'?>  <reference anchor=\"W3C.REC-xslt\" target=\"http://www.w3.org/TR/2000/REC-xslt-19991116\">   <front>     <title>XSL Transformations (XSLT) Version 1.0</title>     <author initials=\"J.\" surname=\"Clark\" fullname=\"James Clark\">       <organization/>       <address>         <email>jjc@jclark.com</email>       </address>     </author>     <date day=\"16\" month=\"November\" year=\"1999\"/>   </front>   <seriesInfo name=\"W3C\" value=\"REC-xslt\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2ae807ee05f35d1b0a6249d5caa98a66", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.W3C.REC-xslt.xml"
+}

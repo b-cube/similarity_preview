@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.aboba-dhc-domsearch'> <front> <title>DHCP Domain Search Option</title>  <author initials='B' surname='Aboba' fullname='Bernard Aboba'>     <organization /> </author>  <author initials='S' surname='Cheshire' fullname='Stuart Cheshire'>     <organization /> </author>  <date month='January' day='15' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-aboba-dhc-domsearch-09' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-aboba-dhc-domsearch-09.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a952e88d6759c5af5841bd537381e3f3", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-ids/reference.I-D.aboba-dhc-domsearch.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <?xml-stylesheet href=\"http://www.atomenabled.org/css/atom.css\" type=\"text/css\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">  <icon>http://www.lsoft.com/images/listserv-community.gif</icon> <logo>http://www.lsoft.com/images/listserv_small.gif</logo> <link rel=\"related\" href=\"http://www.lsoft.com/products/listserv-powered.asp\" title=\"Powered by L-Soft's LISTSERV mailing list manager\"/>  <title>QL-HE-TECH List</title> <subtitle>QL-HE-TECH List Archives</subtitle> <link rel=\"alternate\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=QL-HE-TECH\"/> <link rel=\"self\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=QL-HE-TECH&amp;v=ATOM1.0\"/> <id>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=QL-HE-TECH&amp;v=ATOM1.0</id> <div class=\"info\" xmlns=\"http://www.w3.org/1999/xhtml\">This is an Atom formatted XML site feed. It is intended to be viewed in a Newsreader. Alternatively you can view the HTML archives at https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=QL-HE-TECH. </div> <generator uri=\"/cgi-bin/webadmin?DEBUG-SHOW-VERSION\">LISTSERV Web Interface 2.4.1</generator> <updated>2014-06-16T14:33:34Z</updated>   <entry xmlns='http://www.w3.org/2005/Atom'>   <link rel='alternate' href='https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=QL-HE-TECH;cc722af5.1406' title='University of East Anglia '/>   <author>      <name>George Porter (ITCS)</name>   </author>   <published>2014-06-16T15:33:29+00:00</published>   <updated>2014-06-16T15:33:29+00:00</updated>   <title>University of East Anglia </title>   <id>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=QL-HE-TECH;cc722af5.1406</id>   <content type='html'>Dear All&lt;br&gt;At the University of East Anglia we have migrated over to ABW. Consequently it is a good time to step down from QLx business. I have asked Ann Buck to take over the mailbase and she has accepted. I wish to thank all those who have used this mailbase and I wish you all well in your dealings with QL. [...] </content> </entry>  </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "907b4c35d740b4b732aa5f72174d4981", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=QL-HE-TECH&v=ATOM1.0"
+}

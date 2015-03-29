@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0085\">   <front>     <title>Chat State Notifications</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <author initials=\"D.\" surname=\"Smith\" fullname=\"Dave Smith\">       <organization/>       <address>         <email>dizzyd@jabber.org</email>       </address>     </author>     <date day=\"23\" month=\"September\" year=\"2009\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0085\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0085.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2b7548b319a8e86756b9f42f2c99aa7f", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0085.xml"
+}

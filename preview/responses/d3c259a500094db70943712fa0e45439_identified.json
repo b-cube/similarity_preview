@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xslt-xquery-serialization-30-20130108'            target='http://www.w3.org/TR/2013/WD-xslt-xquery-serialization-30-20130108'> <front> <title>XSLT and XQuery Serialization 3.0</title>  <author initials='H.' surname='Zongaro' fullname='Henry Zongaro'>     <organization /> </author>  <date month='January' day='8' year='2013' /> </front>  <seriesInfo name='World Wide Web Consortium LastCall' value='WD-xslt-xquery-serialization-30-20130108' /> <format type='HTML' target='http://www.w3.org/TR/2013/WD-xslt-xquery-serialization-30-20130108' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d3c259a500094db70943712fa0e45439", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xslt-xquery-serialization-30-20130108.xml"
+}

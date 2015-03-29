@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <nc:netcdf xmlns:nc=\"http://www.ucar.edu/schemas/netcdf\"     uri=\"http://www.scd.ucar.edu/vets/luca/netcdf/example.nc\"     xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.ucar.edu/schemas/netcdf http://www.ucar.edu/schemas/netcdf.xsd\">     <nc:dimension isUnlimited=\"true\" length=\"2\" name=\"time\"/>     <nc:dimension length=\"3\" name=\"lat\"/>     <nc:dimension length=\"4\" name=\"lon\"/>     <nc:variable name=\"rh\" shape=\"time lat lon\" type=\"int\">         <nc:attribute name=\"long_name\" type=\"string\" value=\"relative humidity\"/>         <nc:attribute name=\"units\" type=\"string\" value=\"percent\"/>     </nc:variable>     <nc:variable name=\"T\" shape=\"time lat lon\" type=\"double\">         <nc:attribute name=\"long_name\" type=\"string\" value=\"surface temperature\"/>         <nc:attribute name=\"units\" type=\"string\" value=\"degC\"/>     </nc:variable>     <nc:variable name=\"lat\" shape=\"lat\" type=\"float\">         <nc:attribute name=\"units\" type=\"string\" value=\"degrees_north\"/>         <nc:values separator=\" \">41.0 40.0 39.0</nc:values>     </nc:variable>     <nc:variable name=\"lon\" shape=\"lon\" type=\"float\">         <nc:attribute name=\"units\" type=\"string\" value=\"degrees_east\"/>         <nc:values separator=\" \">-109.0 -107.0 -105.0 -103.0</nc:values>     </nc:variable>     <nc:variable name=\"time\" shape=\"time\" type=\"int\">         <nc:attribute name=\"units\" type=\"string\" value=\"hours\"/>         <nc:values separator=\" \">6 18</nc:values>     </nc:variable>     <nc:attribute name=\"title\" type=\"string\" value=\"Example Data\"/> </nc:netcdf> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "81a8171965bb1a86648dc188cf7ead66", 
+    "source_url": "http://www.vets.ucar.edu/luca/netcdf/example.ncx.txt"
+}

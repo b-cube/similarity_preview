@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>A Technical Framework for Resource Synchronization</title> <creator>Martin Klein</creator> <creator>Robert Sanderson</creator> <creator>Herbert Van de Sompel</creator> <creator>Simeon Warner</creator> <creator>Bernhard Haslhofer</creator> <creator>Carl Lagoze</creator> <creator>Michael L. Nelson</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">January/February 2013</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/january2013-klein</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/january13/klein/01klein.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>19</volume> <issue>1/2</issue> </relation> <rights>Copyright 2013 Martin Klein, Robert Sanderson, Herbert Van de Sompel, Simeon Warner, Bernhard Haslhofer, Carl Lagoze, Michael L. Nelson</rights> </dlib-meta0.1>   ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ea293297b80d291d7c3799530a77d363", 
+    "source_url": "http://www.dlib.org/dlib/january13/klein/01klein.meta.xml"
+}

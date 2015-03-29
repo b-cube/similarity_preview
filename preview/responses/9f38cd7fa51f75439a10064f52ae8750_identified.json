@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Egloff, Willi</author>         </authors>       </contributors>       <titles>         <title>Das Urheberrecht und der Zugang zu wissenschaftlichen Publikationen</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.10880</doi>       <pages>205-217</pages>       <volume>10</volume>       <number/>       <keywords>         <keyword>legal issues</keyword>         <keyword>science</keyword>         <keyword>copyright</keyword>         <keyword>open access</keyword>         <keyword>scientific publications</keyword>       </keywords>       <dates>         <year>2007</year>         <pub-dates>           <date>2007-10-31</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;uploaded by Plazi&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9f38cd7fa51f75439a10064f52ae8750", 
+    "source_url": "https://zenodo.org/record/10880/export/xe"
+}

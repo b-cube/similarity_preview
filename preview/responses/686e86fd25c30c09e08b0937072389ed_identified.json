@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"                        xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <!-- Created on Fri, 05 Oct 2007 20:45:58 GMT -->   <ShortName>UT Digital Repository</ShortName>   <Description>Search University of Texas Digital Repository</Description>   <Url type=\"text/html\" method=\"get\" template=\"http://repositories.lib.utexas.edu/search?query={searchTerms}\"/>   <Contact>mlisle@austin.utexas.edu</Contact>   <Image width=\"16\" height=\"16\">http://repositories.lib.utexas.edu/themes/utdigithing/images/favicon.ico</Image>   <Developer>Matt Lisle</Developer>   <InputEncoding>UTF-8</InputEncoding>   <moz:SearchForm>http://repositories.lib.utexas.edu</moz:SearchForm>   <moz:UpdateInterval>7</moz:UpdateInterval>   <moz:UpdateUrl>http://www.lib.utexas.edu/gadgets/firefoxsearch/utdrsearch.xml</moz:UpdateUrl>   <moz:IconUpdateUrl>http://repositories.lib.utexas.edu/themes/utdigithing/images/favicon.ico</moz:IconUpdateUrl> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "686e86fd25c30c09e08b0937072389ed", 
+    "source_url": "http://www.lib.utexas.edu/gadgets/firefoxsearch/utdrsearch.xml"
+}

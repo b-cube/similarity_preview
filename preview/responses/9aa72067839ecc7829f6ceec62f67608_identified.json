@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/documents/dcmi-box/\"> <dc:title>DCMI Box Encoding Scheme</dc:title> <dc:creator>Simon Cox</dc:creator> <dc:description>This document is most recent version of the DCMI Box Encoding Scheme.</dc:description> <dc:publisher>Dublin Core Metadata Initiative</dc:publisher> </rdf:Description> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9aa72067839ecc7829f6ceec62f67608", 
+    "source_url": "http://dublincore.org/documents/dcmi-box/index.shtml.rdf"
+}

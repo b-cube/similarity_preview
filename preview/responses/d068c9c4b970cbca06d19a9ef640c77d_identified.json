@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>AIC2007a </Local-number>  <Author>AIC </Author>  <Title>Resolution 18-1: Coral reefs and climate change </Title>  <Institution>U.S. All Islands Coral Reef Committee (AIC), U.S. Coral Reef Task Force (USCRTF) </Institution>  <Publication-Date><caldate>2007 </caldate></Publication-Date>  <Extent>4 </Extent>  <Type-Period-Note>AIC Resolution </Type-Period-Note>  <Abstract>Resolution approved at the U.S. Coral Reef Task Force Meeting in Pago Pago, American Samoa, August 23, 2007. Several key resolutions, adopted by the AIC and the U.S. Coral Reef Task Force, have guided the activities of the AIC. The USCRTF has a history of specifically addressing the issue of climate change and its impacts to coral reef ecosystems. Specific to climate change, the USCRTF has passed four targeted resolutions and has developed Climate Change Local Action Strategies in two of seven jurisdictions. </Abstract>  <Keywords>U.S. All Islands Coral Reef Committee (AIC), U.S. Coral Reef Task Force (USCRTF) </Keywords>  <Date-Time-Last-Modified>20140328000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/other_crcp_publications/USCRTF/climate_samoa_2007_key_resolution18_1.pdf </URL>  <Region>AmSam </Region>  <Bounding>  <Eastbc>-167.551612 </Eastbc>  <Westbc>-171.541907 </Westbc>  <Southbc>-15.25183 </Southbc>  <Northbc>-10.207203 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d068c9c4b970cbca06d19a9ef640c77d", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BDD641736-744E-4533-81A6-944F1BA03E27%7D"
+}

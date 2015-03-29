@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0491'>  <front> <title>What is \"Free\"?</title> <author initials='M.A.' surname='Padlipsky' fullname='M.A. Padlipsky'> <organization /></author> <date year='1973' month='April' /></front>  <seriesInfo name='RFC' value='491' /> <format type='TXT' octets='5872' target='http://www.rfc-editor.org/rfc/rfc491.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3e582af8cf54b88d053404c2015a87c8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0491.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <LinkComponent ID=\"x16353\" Name=\"The Rabbinical School\" SiteBaseUrl=\"\" Locale=\"\" XPowerPath=\"/JTS/PAGES/Home/Academics/Schools of JTS/The Rabbinical School\">   <IGX_Categories Count=\"0\" CategoryIds=\"\" />   <LingualMaps />   <LinkText type=\"string\" label=\"Link Text\" ID=\"1\">The Rabbinical School</LinkText>   <LinkURL type=\"string\" label=\"Link URL\" ID=\"2\">x18454.xml</LinkURL> </LinkComponent> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "02e55d535cadd6f6543f3ad8d914f4f6", 
+    "source_url": "http://jtsa.edu/x16353.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.CR-SVGMobile-20020430\"> <front> <title>Mobile SVG Profiles: SVG Tiny and SVG Basic</title>  <author initials=\"T\" surname=\"Capin\" fullname=\"Tolga Capin\">     <organization /> </author>  <date month=\"April\" day=\"30\" year=\"2002\" /> </front>  <seriesInfo name=\"W3C CR\" value=\"CR-SVGMobile-20020430\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/2002/CR-SVGMobile-20020430\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1d9694b0889e8eb5ef3fce65691d333a", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-w3c/reference.W3C.CR-SVGMobile-20020430.xml"
+}

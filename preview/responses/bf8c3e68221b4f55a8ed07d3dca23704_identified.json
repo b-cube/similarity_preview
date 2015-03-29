@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.15775</dc:identifier><dc:creator>Editor: Prof. Jiang Qirong </dc:creator><dc:title>International journal of Engineering Works (ISSN:2409-2770)</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;&lt;strong&gt;Editor-In-Chief:&amp;nbsp;&lt;/strong&gt;Prof. Jiang Qirong, Tsinghua University, Beijing, China, Email: qrjiang@kwpublisher.com,&amp;nbsp;Tel:&amp;nbsp;+86-10-62773125, Fax: +86-10-627815277&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;ISSN: 2409-2770 (Online)&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Int.j.eng.works&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;RID:O-4321-2014&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;ZDB-Number: 280226-7&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;ORCID: 0000-0002-3251-2655&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;International journal of engineering works aims to give its contribution in state-of-the art research studies &amp;amp; activities in advance innovation and engineering science areas, which cover topics in a wide range of science and technology with the latest outstanding research &amp;amp; developments but not limited to. The accepted papers will be supervised double peer review process method contacted under the editorial board reviewers. The journal system primarily aims to bring out the scientific research endowment from academia, engineers, practitioners, research scholars, bachelor, Master, PhD students of engineering and science.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Submit your paper at&amp;nbsp;&lt;strong&gt;&amp;nbsp;editor@kwpublisher.com&amp;nbsp;or&amp;nbsp;&lt;/strong&gt;editorkwpublisher@gmail.com&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Publication Fee: 50$&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2015-03-02</dc:date><dc:source>http://zenodo.org/record/15775</dc:source><dc:doi>10.5281/zenodo.15775</dc:doi><dc:identifier>http://zenodo.org/record/15775</dc:identifier><dc:identifier>oai:zenodo.org:15775</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bf8c3e68221b4f55a8ed07d3dca23704", 
+    "source_url": "https://zenodo.org/record/15775/export/xd"
+}

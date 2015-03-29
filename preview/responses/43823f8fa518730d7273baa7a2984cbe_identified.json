@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?> <rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xml:lang=\"fr\">  <dcat:Dataset rdf:about=\"http://data.angers.fr/?eID=smile_od_rdf&amp;id=94\">   <dct:identifier/>   <dct:title>Bilan Carbone d'Angers Loire M\\ufffd\\ufffdtropole 2008</dct:title>   <dct:description>Pr\\ufffd\\ufffdsentation des conclusions du Bilan Carbone d'Angers Loire M\\ufffd\\ufffdtropole publi\\ufffd\\ufffd en d\\ufffd\\ufffdcembre 2008. </dct:description>   <dcat:landingPage>http://data.angers.fr/donnees/environnement-bilan-carbone-dalm-2008/</dcat:landingPage>   <dcat:theme>Environnement</dcat:theme>   <dcat:keywords/>   <dct:licence>Licence ODbL</dct:licence>   <dct:issued>1359932400</dct:issued>   <dct:modified>1359932400</dct:modified>   <lastModificationDescription/>   <dct:temporal>Annuelle</dct:temporal>   <dct:created>1359972533</dct:created>   <dct:creator>Angers Loire M\\ufffd\\ufffdtropole</dct:creator>   <dct:contributor>Angers Loire M\\ufffd\\ufffdtropole</dct:contributor>   <dct:publisher>Angers Loire M\\ufffd\\ufffdtropole</dct:publisher>   <dct:spatial/>   <dct:language/>   <dcat:dataQuality/>   <dcat:granularity/>   <dct:references/>   <dcat:themeTaxonomy/>   <dcat:distribution>    <dcat:Distribution>     <dcat:Download>fileadmin/datastore/data/Environement/Direction_Developpement_durable/Bilan_carbone_dALM_Decembre_2008.zip</dcat:Download>     <dct:format>PDF</dct:format>     <dcat:accessURL>http://data.angers.fr/fileadmin/datastore/data/Environement/Direction_Developpement_durable/Bilan_carbone_dALM_Decembre_2008.zip</dcat:accessURL>    </dcat:Distribution>   </dcat:distribution>  </dcat:Dataset> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "fr", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "43823f8fa518730d7273baa7a2984cbe", 
+    "source_url": "http://data.angers.fr/?eID=smile_od_rdf&id=94"
+}

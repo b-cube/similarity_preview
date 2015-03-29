@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.03.43'> <front> <title>Support of Videotex</title> <author><organization>3GPP</organization></author> <date day='01' month='January' year='1995' /> </front>  <seriesInfo name='3GPP TR' value='03.43 3.0.1' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0343.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7914135b9e3fba218f1141bc34c7b1fd", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.03.43.xml"
+}

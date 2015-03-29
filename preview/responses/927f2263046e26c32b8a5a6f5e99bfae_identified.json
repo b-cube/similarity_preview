@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2015-02-27 13:45:25</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a3e7f9b-e279-496d-aee2-41be7e05e0b4\"    xml:base=\"http://gcmdservices.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/projects\"/>    <skos:prefLabel xml:lang=\"en\">SEA-SKY</skos:prefLabel>    <skos:altLabel xml:lang=\"en\">PROYECTO MODELO DEL MAR (SEA AND SKY PROJECT)</skos:altLabel>    <skos:broader rdf:resource=\"4eb1894b-35b4-406b-8864-944a42bc7702\"/> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "927f2263046e26c32b8a5a6f5e99bfae", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a3e7f9b-e279-496d-aee2-41be7e05e0b4.rdf"
+}

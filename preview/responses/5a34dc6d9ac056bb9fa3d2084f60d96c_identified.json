@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Moran, Steven</a1>   <a2>Forkel, Robert</a2>   <t1>phoible: PHOIBLE Online</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Moran, Steven &amp;amp; McCloy, Daniel &amp;amp; Wright, Richard (eds.) 2014. PHOIBLE Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://phoible.org)&lt;/p&gt;</ab>   <la/>   <k1>linguistics;                 </k1>   <pb/>   <pp/>   <yr>2014-09-12</yr>   <ed/>   <ul>http://zenodo.org/record/11706/files/phoible-v2014.zip;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5a34dc6d9ac056bb9fa3d2084f60d96c", 
+    "source_url": "http://zenodo.org/record/11706/export/xw"
+}

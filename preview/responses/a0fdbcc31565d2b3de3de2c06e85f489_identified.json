@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../colman.htm\"/>  <o:File HRef=\"image001.wmz\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"oledata.mso\"/>  <o:File HRef=\"image003.png\"/>  <o:File HRef=\"image004.gif\"/>  <o:File HRef=\"image005.png\"/>  <o:File HRef=\"image006.gif\"/>  <o:File HRef=\"image007.png\"/>  <o:File HRef=\"image008.gif\"/>  <o:File HRef=\"image009.png\"/>  <o:File HRef=\"image010.gif\"/>  <o:File HRef=\"image011.png\"/>  <o:File HRef=\"image012.gif\"/>  <o:File HRef=\"image013.png\"/>  <o:File HRef=\"image014.gif\"/>  <o:File HRef=\"image015.png\"/>  <o:File HRef=\"image016.gif\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"image017.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a0fdbcc31565d2b3de3de2c06e85f489", 
+    "source_url": "http://grads.iges.org/ellfb/Sep04/colman/colman_files/filelist.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/drcog-2010-census-data-vacancy-status-census-block-group-denver-aurora-boulder-csa\" rel=\"alternate\"></link><id>/revision/drcog-2010-census-data-vacancy-status-census-block-group-denver-aurora-boulder-csa</id><updated>2015-03-18T17:25:24Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6b5152ce710e40b52cf943af583526a1", 
+    "source_url": "http://data.opencolorado.org/dataset/history/drcog-2010-census-data-vacancy-status-census-block-group-denver-aurora-boulder-csa?days=7&format=atom"
+}

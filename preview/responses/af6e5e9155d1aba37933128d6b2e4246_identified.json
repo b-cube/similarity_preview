@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xhtml-print-20030729'> <front> <title>XHTML-Print</title>  <author initials='J' surname='Bigelow' fullname='Jim Bigelow'>     <organization /> </author>  <date month='July' day='29' year='2003' /> </front>  <seriesInfo name='W3C LastCall' value='WD-xhtml-print-20030729' /> <format type='HTML' target='http://www.w3.org/TR/2003/WD-xhtml-print-20030729' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "af6e5e9155d1aba37933128d6b2e4246", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xhtml-print-20030729.xml"
+}

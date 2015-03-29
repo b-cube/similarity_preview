@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.aboba-pppext-eap-iana'> <front> <title>EAP IANA Considerations</title>  <author initials='B' surname='Aboba' fullname='Bernard Aboba'>     <organization /> </author>  <date month='February' day='28' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-aboba-pppext-eap-iana-01' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-aboba-pppext-eap-iana-01.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "44f0a4bc39dd6c5666c1bdb07fdb66e4", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.aboba-pppext-eap-iana.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Dynamical Phenotyping: Using Temporal Analysis of Clinically Collected Physiologic Data to Stratify Populations</dc:title><dc:creator>Albers, David J.</dc:creator><dc:creator>Elhadad, Noemie</dc:creator><dc:creator>Tabak, E.</dc:creator><dc:creator>Perotte, Adler</dc:creator><dc:creator>Hripcsak, George M.</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Medicine</dc:subject><dc:subject>Endocrinology</dc:subject><dc:subject>Statistics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8W9581V</dc:identifier><dc:description>Using glucose time series data from a well measured population drawn from an electronic health record (EHR) repository, the variation in predictability of glucose values quantified by the time-delayed mutual information (TDMI) was explained using a mechanistic endocrine model and manual and automated review of written patient records. The results suggest that predictability of glucose varies with health state where the relationship (e.g., linear or inverse) depends on the source of the acuity. It was found that on a fine scale in parameter variation, the less insulin required to process glucose, a condition that correlates with good health, the more predictable glucose values were. Nevertheless, the most powerful effect on predictability in the EHR subpopulation was the presence or absence of variation in health state, specifically, in- and out-of-control glucose versus in-control glucose. Both of these results are clinically and scientifically relevant because the magnitude of glucose is the most commonly used indicator of health as opposed to glucose dynamics, thus providing for a connection between a mechanistic endocrine model and direct insight to human health via clinically collected data.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "68b4c5ab4f44d4039f23a474d328c9be", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A184147.dc_xml"
+}

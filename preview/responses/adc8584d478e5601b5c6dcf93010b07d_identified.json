@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.ishii-ipv6-te-tunnel\"> <front> <title>IPv6 Traffic Engineering Tunnel</title>  <author initials=\"H\" surname=\"Ishii\" fullname=\"Hideo Ishii\">     <organization /> </author>  <date month=\"November\" day=\"15\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-ishii-ipv6-te-tunnel-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "adc8584d478e5601b5c6dcf93010b07d", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ishii-ipv6-te-tunnel.xml"
+}

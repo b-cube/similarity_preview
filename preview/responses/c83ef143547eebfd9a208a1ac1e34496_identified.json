@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"> <ShortName>IC3</ShortName> <Description>Internet Crime Complaint Center</Description> <Url type=\"text/html\" method=\"get\" template=\"http://www.ic3.gov/search.aspx?q={searchTerms}\"/>  </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c83ef143547eebfd9a208a1ac1e34496", 
+    "source_url": "http://www.ic3.gov/opensearch.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">   <title>Gentoo Packages /package/dev-lisp/clisp</title>   <icon>http://www.gentoo.org/favicon.ico</icon>   <id>http://packages.gentoo.org/feed/package/dev-lisp/clisp</id>   <generator uri=\"http://packages.gentoo.org/\">Gentoo Packages2</generator>   <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/dev-lisp/clisp\" type=\"text/html\"/>   <link rel=\"self\" href=\"http://packages.gentoo.org/feed/package/dev-lisp/clisp\" type=\"application/atom+xml\"/>   <updated>2015-03-04T00:31:15Z</updated>   <entry>  <title xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\">    <div>         <span class=\"cpvstr\">dev-lisp/clisp</span>: <span class=\"description\">A portable, bytecode-compiled implementation of Common Lisp</span>       </div>     </title>     <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/dev-lisp/clisp\" type=\"text/html\"/>     <id>http://packages.gentoo.org/package/dev-lisp/clisp?ts=2014-12-28T16:01:06Z</id>     <author>       <name>Aaron W. Swenson (titanofold)</name>       <uri>http://cia.vc/stats/author/titanofold</uri>     </author>     <updated>2014-12-28T16:01:06Z</updated>     <summary xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\"><div>28 Dec 2014; Aaron W. Swenson (<a href=\"http://cia.vc/stats/author/titanofold\">titanofold</a>) <a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-lisp/clisp/clisp-2.47-r1.ebuild?view=markup\">clisp-2.47-r1.ebuild</a>,<br/><a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-lisp/clisp/clisp-2.48-r1.ebuild?view=markup\">clisp-2.48-r1.ebuild</a>, <a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-lisp/clisp/clisp-2.48-r2.ebuild?view=markup\">clisp-2.48-r2.ebuild</a>, <a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-lisp/clisp/clisp-2.49-r8.ebuild?view=markup\">clisp-2.49-r8.ebuild</a>:<br/>Rename virtual/postgresql to dev-db/postgresql</div></summary>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "439032c155a48c6d7057925885d59e61", 
+    "source_url": "http://packages.gentoo.org/feed/package/dev-lisp/clisp"
+}

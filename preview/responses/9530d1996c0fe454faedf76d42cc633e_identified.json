@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Powell, Diana K.</a1>   <a2>Margutti, Raffaella</a2>   <a2>Soderberg, Alicia</a2>   <t1>Explosion Parameters of SN 2013df and Properties of Its Progenitor Star</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Presentation of thesis: &amp;quot;Explosion Parameters of SN 2013df and Properties of Its Progenitor Star&amp;quot;&lt;/p&gt;</ab>   <la/>   <k1>Type II supernovae;                 Type IIb supernovae;                 Core-collapse supernovae;                 Stellar luminosities;                 </k1>   <pb/>   <pp/>   <yr>2014-04-01</yr>   <ed/>   <ul>https://zenodo.org/record/12166/files/powell_presentation.pdf;  https://zenodo.org/record/12166/files/powell_presentation.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9530d1996c0fe454faedf76d42cc633e", 
+    "source_url": "https://zenodo.org/record/12166/export/xw"
+}

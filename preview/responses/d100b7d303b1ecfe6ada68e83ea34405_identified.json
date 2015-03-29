@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/1853/14770\"> <title>The Georgia Tech</title> <link>http://hdl.handle.net/1853/14770</link> <description>Monthly newspaper of the students of the Georgia School of Technology.</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/14771\"/> </rdf:Seq> </items> <dc:date>2015-03-12T19:44:32Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/1853/14771\"> <title>The Georgia Tech, June 1899, Commencement Issue</title> <link>http://hdl.handle.net/1853/14771</link> <description>The Georgia Tech, June 1899, Commencement Issue Scanned by the Georgia Tech Alumni Association.; Due to the large file sizes of these publications, it is recommended that they be downloaded, saved to your desktop, and opened in a stand alone viewer such as Adobe Acrobat, rather than opened directly in a web browser. </description> <dc:date>1899-06-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d100b7d303b1ecfe6ada68e83ea34405", 
+    "source_url": "https://smartech.gatech.edu/feed/rss_1.0/1853/14770"
+}

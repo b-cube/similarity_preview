@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <!-- JNLP File for ProfileDisplay Application --> <jnlp   spec=\"1.0+\"   codebase=\"http://www.star.nesdis.noaa.gov/smcd/opdb/poes/apps\"   href=\"ProfileDisplay.jnlp\">   <information>     <title>ProfileDisplay Application</title>     <vendor>Sun Microsystems, Inc.</vendor>     <homepage href=\"docs/help.html\"/>     <description>ProfileDisplay Application</description>     <description kind=\"short\">ProfileDisplay - Graphical User Interface for NPROVS Collocation files.</description>     <icon href=\"images/swingset2.jpg\"/>     <icon kind=\"splash\" href=\"images/splash.gif\"/>     <offline-allowed/>   </information>   <security>       <all-permissions/>   </security>   <resources>     <j2se version=\"1.4+\"/>     <jar href=\"ProfileDisplay.jar\"/>   </resources>   <application-desc main-class=\"ProfileDisplay\"/> </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "371848bc69fa33cbd8c1798194b042eb", 
+    "source_url": "http://www.star.nesdis.noaa.gov/smcd/opdb/nprovs/apps/ProfileDisplay.jnlp"
+}

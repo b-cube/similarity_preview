@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">gip21</identifier><identifier type=\"pwpk\">74253</identifier><identifier type=\"series\">General Information Product</identifier><identifier type=\"seriesNumber\">21</identifier><identifier type=\"seriesCode\">GIP</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Earthquake science explained : a series of ten short articles for students, teachers, and families</title></titleInfo><originInfo><dateOther>Tue, 14 Feb 2006 00:00 -0600</dateOther><dateIssued>2006</dateIssued></originInfo><name><namePart>D'Alessio, Matthew A., (compiler)</namePart><role>Author</role></name><physicalDescription><form>v, 10 p. : ill., maps ; 28 cm.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/gip_21.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/gip/2006/21/</url></location><note type=\"citation/reference\">Earthquake science explained : a series of ten short articles for students, teachers, and families; 2006; GIP; 21; General Information Product; D'Alessio, Matthew A., (compiler)</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>General Information Product</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "704659ff492d214ad02061f2f4be531c", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=gip21"
+}

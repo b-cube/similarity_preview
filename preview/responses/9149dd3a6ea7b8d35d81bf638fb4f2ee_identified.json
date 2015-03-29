@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Charbonneau, David</author>           <author>Irwin, Jonathan</author>           <author>Mann, Andrew W.</author>           <author>Newton, Elisabeth R.</author>         </authors>       </contributors>       <titles>         <title>Temperatures and radii of low mass dwarfs  inferred from NIR spectra</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.11056</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>astronomy</keyword>         <keyword>cool stars</keyword>         <keyword>m dwarfs</keyword>         <keyword>spectroscopy</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-07-27</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;We present a new empirical calibration for the radii, temperatures, and luminosities of cool dwarf stars. Our calibration, based on stars with bolometric fluxes and interferometric radii, uses the EWs of atomic features in moderate resolution H-band spectra. We apply our calibration to two samples of stars: the nearby M dwarfs targeted by MEarth and the cool Kepler Objects of Interest.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9149dd3a6ea7b8d35d81bf638fb4f2ee", 
+    "source_url": "https://zenodo.org/record/11056/export/xe"
+}

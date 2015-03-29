@@ -1,0 +1,15 @@
+{
+    "content": "<GetCapabilities version=\"1.0.0\" service=\"WCS\">  <section>/</section>     <!--<section>/WCS_Capabilities/Service</section>-->     <!--<section>/WCS_Capabilities/Capability</section>-->     <!--<section>/WCS_Capabilities/ContentMetadata</section>--> </GetCapabilities>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "91d6edbc5391d8a6bf4c9c2096138741", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/data/wcs_getcapabilities_request.xml"
+}

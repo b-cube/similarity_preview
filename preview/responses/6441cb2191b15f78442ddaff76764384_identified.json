@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi type=\"city\">     <location name=\"Sapporo::Hokkaido::Japan\">       <cdi>2.6912</cdi>       <nresp>1</nresp>       <dist>147</dist>       <lat>43.06</lat>       <lon>141.34</lon>       <name>Sapporo</name>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6441cb2191b15f78442ddaff76764384", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/c000tve1/us/cdi_zip.xml"
+}

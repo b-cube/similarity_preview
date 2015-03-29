@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Pacific Science Center</ShortName>   <Description>Pacific Science Center inspires a lifelong interest in science, math and technology by engaging diverse communities through interactive and innovative exhibits and programs.</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.pacificsciencecenter.org/templates/ja_t3_blank/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"https://www.pacificsciencecenter.org/Search?catid=21&amp;format=opensearch&amp;id=393\"/>   <Url type=\"text/html\" template=\"http://www.pacificsciencecenter.org/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ee12910cba2f6721b7c43ebad3dd8ff8", 
+    "source_url": "https://www.pacificsciencecenter.org/Search?catid=21&format=opensearch&id=393"
+}

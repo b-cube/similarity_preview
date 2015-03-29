@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <q:quakeml xmlns=\"http://quakeml.org/xmlns/bed/1.2\" xmlns:catalog=\"http://anss.org/xmlns/catalog/0.1\" xmlns:q=\"http://quakeml.org/xmlns/quakeml/1.2\"> <eventParameters publicID=\"quakeml:earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.quakeml\"> <event catalog:datasource=\"us\" catalog:eventsource=\"us\" catalog:eventid=\"10001njh\" publicID=\"quakeml:earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us10001njh.quakeml\"><description><type>earthquake name</type><text>12km N of Takayama, Japan</text></description><origin catalog:datasource=\"us\" catalog:dataid=\"us10001njh\" catalog:eventsource=\"us\" catalog:eventid=\"10001njh\" publicID=\"quakeml:earthquake.usgs.gov/realtime/product/origin/us10001njh/us/1426706353040/product.xml\"><time><value>2015-03-18T19:06:52.480Z</value></time><longitude><value>137.2754</value></longitude><latitude><value>36.2406</value></latitude><depth><value>252420</value><uncertainty>6200</uncertainty></depth><originUncertainty><horizontalUncertainty>7100</horizontalUncertainty><preferredDescription>horizontal uncertainty</preferredDescription></originUncertainty><quality><usedPhaseCount>83</usedPhaseCount><standardError>1.21</standardError><azimuthalGap>56</azimuthalGap><minimumDistance>0.638</minimumDistance></quality><evaluationMode>manual</evaluationMode><creationInfo><agencyID>us</agencyID><creationTime>2015-03-18T19:19:13.040Z</creationTime></creationInfo></origin><magnitude catalog:datasource=\"us\" catalog:dataid=\"us10001njh\" catalog:eventsource=\"us\" catalog:eventid=\"10001njh\" publicID=\"quakeml:earthquake.usgs.gov/realtime/product/origin/us10001njh/us/1426706353040/product.xml#magnitude\"><mag><value>4.5</value><uncertainty>0.067</uncertainty></mag><type>mb</type><stationCount>67</stationCount><originID>quakeml:earthquake.usgs.gov/realtime/product/origin/us10001njh/us/1426706353040/product.xml</originID><evaluationMode>manual</evaluationMode><creationInfo><agencyID>us</agencyID><creationTime>2015-03-18T19:19:13.040Z</creationTime></creationInfo></magnitude><preferredOriginID>quakeml:earthquake.usgs.gov/realtime/product/origin/us10001njh/us/1426706353040/product.xml</preferredOriginID><preferredMagnitudeID>quakeml:earthquake.usgs.gov/realtime/product/origin/us10001njh/us/1426706353040/product.xml#magnitude</preferredMagnitudeID><type>earthquake</type><creationInfo><agencyID>us</agencyID><creationTime>2015-03-18T19:19:41.907Z</creationTime></creationInfo></event> <creationInfo><creationTime>2015-03-18T19:28:13.000Z</creationTime></creationInfo> </eventParameters></q:quakeml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3e5cd4e5f5362fe2641ad1fa61e07d7c", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.quakeml"
+}

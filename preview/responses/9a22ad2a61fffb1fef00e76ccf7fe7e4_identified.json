@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123016</identifier><identifier type=\"pwpk\">70007541</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3016</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Connectivity of tropical marine ecosystems--An overview of interdisciplinary research to understand biodiversity and trophic relationships in the Virgin Islands and Puerto Rico</title></titleInfo><originInfo><dateOther>Tue, 28 Feb 2012 00:00 -0600</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>McClain-Counts, Jennifer P.; Demopoulos, Amanda W.J.</namePart><role>Author</role></name><abstract>The Virgin Islands and Puerto Rico contain marine reserves and protected areas that encompass a variety of tropical ecosystems, including coral reefs, mangroves, and seagrass beds. Reserves and protected areas are established for a variety of reasons, such as preserving nursery habitats and biodiversity, or reducing anthropogenic effects associated with pollution and land use. Questions remain regarding the effectiveness of these designated areas in preserving and protecting spatially connected habitats and associated fishes and invertebrates. Scientists from the U.S. Geological Survey (USGS), University of Florida, and Arkansas State University are collaborating on interdisciplinary research in the Virgin Islands and Puerto Rico to examine the biodiversity and trophic dynamics of fishes and invertebrates residing in connected mangroves, seagrasses, and coral reefs to discern the effectiveness of current marine reserves and protected areas for conserving reef resources.</abstract><physicalDescription><form>2 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3016.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3016/</url></location><note type=\"citation/reference\">Connectivity of tropical marine ecosystems--An overview of interdisciplinary research to understand biodiversity and trophic relationships in the Virgin Islands and Puerto Rico; 2012; FS; 2012-3016; Fact Sheet; McClain-Counts, Jennifer P.; Demopoulos, Amanda W.J.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9a22ad2a61fffb1fef00e76ccf7fe7e4", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123016"
+}

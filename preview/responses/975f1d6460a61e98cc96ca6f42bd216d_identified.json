@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\"   xmlns:dc=\"http://purl.org/dc/terms/\">    <rdf:Description rdf:about=\"http://vents-data.interridge.org/ventfield/central-andaman-trough-rift-valley-dredges-9-and-10\">     <rdf:type rdf:resource=\"http://rdfs.org/sioc/ns#Item\"/>     <rdf:type rdf:resource=\"http://xmlns.com/foaf/0.1/Document\"/>     <rdf:type rdf:resource=\"http://yago-knowledge.org/resource/HydrothermalVents\"/>     <rdf:type rdf:resource=\"http://www.opengis.net/rdf#Feature\"/>     <geo:lat rdf:datatype=\"http://www.w3.org/2001/XMLSchema#decimal\">10.4166</geo:lat>     <geo:long rdf:datatype=\"http://www.w3.org/2001/XMLSchema#decimal\">94.1666</geo:long>     <dc:title>Central Andaman Trough, rift valley, dredges 9 and 10</dc:title>     <dc:date rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2011-03-31T14:31:35-04:00</dc:date>     <dc:created rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2011-03-31T14:31:35-04:00</dc:created>     <dc:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2013-04-03T15:00:05-04:00</dc:modified>   </rdf:Description>  </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "975f1d6460a61e98cc96ca6f42bd216d", 
+    "source_url": "http://vents-data.interridge.org/node/608.rdf"
+}

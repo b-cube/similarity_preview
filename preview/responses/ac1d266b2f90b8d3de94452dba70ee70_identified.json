@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/HDF-EOS5/Aura_HIRDLS_Level2/HIRDLS2.007\"                     ID=\"/opendap/hyrax/HDF-EOS5/Aura_HIRDLS_Level2/HIRDLS2.007/\">             <thredds:catalogRef name=\"2005\" xlink:href=\"2005/catalog.xml\" xlink:title=\"2005\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/HDF-EOS5/Aura_HIRDLS_Level2/HIRDLS2.007/2005/\"/>             <thredds:catalogRef name=\"2006\" xlink:href=\"2006/catalog.xml\" xlink:title=\"2006\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/HDF-EOS5/Aura_HIRDLS_Level2/HIRDLS2.007/2006/\"/>             <thredds:catalogRef name=\"2007\" xlink:href=\"2007/catalog.xml\" xlink:title=\"2007\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/HDF-EOS5/Aura_HIRDLS_Level2/HIRDLS2.007/2007/\"/>             <thredds:catalogRef name=\"2008\" xlink:href=\"2008/catalog.xml\" xlink:title=\"2008\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/HDF-EOS5/Aura_HIRDLS_Level2/HIRDLS2.007/2008/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "ac1d266b2f90b8d3de94452dba70ee70", 
+    "source_url": "http://acdisc.gsfc.nasa.gov/opendap/HDF-EOS5/Aura_HIRDLS_Level2/HIRDLS2.007/catalog.xml"
+}

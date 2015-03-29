@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Powell, Diana K.</a1>   <a2>Soderberg, Alicia</a2>   <a2>Margutti, Raffaella</a2>   <t1>Explosion Parameters of SN 2013df and Properties of Its Progenitor Star</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Type IIb supernovae have only recently been identified as a distinct flavor of core-collapse stellar explosions. These supernovae represent a transitional type between Type II and Type Ib supernovae. Here I present a multi-wavelength (UV-optical) analysis of Type IIb SN 2013df, with the primary goals to (i) constrain the radius of the progenitor star and (ii) determine properties of the stellar explosion. From the analysis of the cooling envelope emission from SN 2013df I constrain the progenitor radius to be R &amp;lt; 7.8X10&lt;sup&gt;14&lt;/sup&gt; cm. I then analyze the main supernova peak that is powered by freshly synthesized &lt;sup&gt;56&lt;/sup&gt;Ni and find that the total ejecta mass is M&lt;sub&gt;ej&lt;/sub&gt; = 5.0 M&lt;sub&gt;\\ufffd\\ufffd&lt;/sub&gt; and the explosion kinetic energy is E&lt;sub&gt;k&lt;/sub&gt; = 3 X 10&lt;sup&gt;51&lt;/sup&gt; erg. Finally, I compare my findings with the explosion and progenitor properties of the currently known and studied sample of Type IIb supernovae from the literature.&lt;/p&gt;</ab>   <la/>   <k1>Type II supernovae;                 Type IIb supernovae;                 Core-collapse supernovae;                 Stellar luminosities;                 </k1>   <pb/>   <pp/>   <yr>2014-04-01</yr>   <ed/>   <ul>https://zenodo.org/record/12165/files/Powell_Thesis_final.pdf;  https://zenodo.org/record/12165/files/Powell_Thesis_final.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f993b7d2897a8c4e71f7be0dcbb555eb", 
+    "source_url": "https://zenodo.org/record/12165/export/xw"
+}

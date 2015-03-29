@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.REC-pointerevents-20150224'            target='http://www.w3.org/TR/2015/REC-pointerevents-20150224'> <front> <title>Pointer Events</title>  <author initials='J.' surname='Rossi' fullname='Jacob Rossi'>     <organization /> </author>  <author initials='M.' surname='Brubeck' fullname='Matt Brubeck'>     <organization /> </author>  <date month='February' day='24' year='2015' /> </front>  <seriesInfo name='World Wide Web Consortium Recommendation' value='REC-pointerevents-20150224' /> <format type='HTML' target='http://www.w3.org/TR/2015/REC-pointerevents-20150224' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e3a092ac71c58df16349b301b75307cd", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.REC-pointerevents-20150224.xml"
+}

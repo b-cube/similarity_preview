@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>  <Banner   bannerWidth=\"600px\"  bannerHeight=\"335px\"  bannerBackgroundColor=\"\"  bannerLoopCount=\"\"  bannerCornerRadius=\"\"  buttonsVerticalMargin=\"3\"  buttonsHorizontalMargin=\"3\"   textEmbed=\"yes\"  textBoldAll=\"yes\"  textSize=\"14\"  textColor=\"\"  textAreaWidth=\"\"  textLineSpacing=\"0\"   textLetterSpacing=\"-0.5\"   textMarginLeft=\"12\"  textMarginBottom=\"5\"  textBackgroundBlur=\"yes\"  textBackgroundColor=\"f9f9f9\"  textBackgroundTransparency=\"40\"      transitionType=\"1\"  transitionVertical=\"no\"  transitionDirection=\"1\"    transitionRandomEffects=\"yes\"  transitionDelayTimeFixed=\"6\"   transitionDelayTimePerWord=\"1\"  transitionSpeed=\"9\"  transitionBlur=\"yes\"      showTimerClock=\"yes\"  showNextButton=\"yes\"  showBackButton=\"no\"  showNumberButtons=\"yes\"  showNumberButtonsAlways=\"yes\"  showNumberButtonsHorizontal=\"no\"  showNumberButtonsAscending=\"yes\"  showPlayPauseOnTimer=\"yes\"    alignButtonsLeft=\"no\"  alignTextTop=\"no\"    autoPlay=\"yes\"   imageResizeToFit=\"no\"  imageRandomizeOrder=\"no\"    >    <item buttonLabel=\"\"   image=\"http://www.marinelife.org/view.image?id=622\"    link=\"#\"   target=\"_blank\"   delay=\"\"   textBlend=\"no\">  </item>   <item buttonLabel=\"\"   image=\"http://www.marinelife.org/view.image?id=623\"   link=\"#\"   target=\"_blank\"   delay=\"\"   textBlend=\"no\">  </item>     <item buttonLabel=\"\"   image=\"http://www.marinelife.org/view.image?id=1780\"   link=\"#\"   target=\"_blank\"   delay=\"\"   textBlend=\"no\">  </item>      <item buttonLabel=\"\"   image=\"http://www.marinelife.org/view.image?id=625\"   link=\"#\"   target=\"_blank\"   delay=\"\"   textBlend=\"no\">  </item>      <item buttonLabel=\"\"   image=\"http://www.marinelife.org/view.image?id=1779\"   link=\"#\"   target=\"_blank\"   delay=\"\"   textBlend=\"no\">  </item>      </Banner>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1ba995d301db9136b643805f9a891523", 
+    "source_url": "https://www.marinelife.org/Document.Doc?id=7"
+}

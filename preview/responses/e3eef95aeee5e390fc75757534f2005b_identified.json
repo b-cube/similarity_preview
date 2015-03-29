@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.14957</dc:identifier><dc:creator>Rocholz, Roland</dc:creator><dc:creator>Wanner, Sven</dc:creator><dc:creator>Schimpf, Uwe</dc:creator><dc:creator>J\\ufffd\\ufffdhne, Bernd</dc:creator><dc:title>Combined visualization of wind waves and water surface temperature</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;A combined visualization of wind waves and water surface temperature is gained from synchronized and co-located active thermography and wave slope imaging at a high frame rate (312 Hz). An interactive rendering tool, WaveVis, was developed in order facilitate a direct comparison of the space-time evolution of the waves and the surface temperature distribution. For this the water surface elevation is reconstructed from the wave slope and rendered in perspective with OpenGL. The temperature images are mapped in false color onto that virtual surface. Shading, based on the surface slope, is additionally exploited to make the tiny capillary waves visible even though their amplitudes are much smaller than those of the dominating short-gravity waves. WaveVis enables to interactively study many mechanisms of air-sea gas exchange, for instance raindrop impacts, microscale breaking waves, and micro Langmuir circulations.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2011-07-04</dc:date><dc:source>http://zenodo.org/record/14957</dc:source><dc:doi>10.5281/zenodo.14957</dc:doi><dc:identifier>http://zenodo.org/record/14957</dc:identifier><dc:identifier>oai:zenodo.org:14957</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e3eef95aeee5e390fc75757534f2005b", 
+    "source_url": "https://zenodo.org/record/14957/export/xd"
+}

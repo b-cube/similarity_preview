@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?> <xs:schema xmlns:xs=\"http://www.w3.org/2001/XMLSchema\"      xmlns:serial=\"http://www.isan.org/schema/v1.1/common/serial\"      xmlns=\"http://www.isan.org/dtd/mlISANSerialHeaderWork\"      targetNamespace=\"http://www.isan.org/dtd/mlISANSerialHeaderWork\"      elementFormDefault=\"qualified\">     <xs:import namespace=\"http://www.w3.org/XML/1998/namespace\" schemaLocation=\"http://www.w3.org/2001/XML.xsd\"/>     <xs:import namespace=\"http://www.isan.org/schema/v1.1/common/serial\" schemaLocation=\"http://www.isan.org/schema/v1.1/common/serial.xsd\"/>     <xs:annotation>         <xs:appinfo>ISAN Serial Header Work XML Schema V 1.0</xs:appinfo>         <xs:documentation>             Copyright \\ufffd\\ufffd 2003-2008 ISAN International Agency             Date: 2008-01-30             Based on  ISAN Work registration Web Services WSDL, to use  for massive load of ISAN Serial Header Work</xs:documentation>     </xs:annotation>     <xs:element name=\"ISANWorkCatalogue\" type=\"ISANWorkCatalogueType\"/>     <xs:complexType name=\"ISANWorkCatalogueType\">         <xs:annotation>             <xs:documentation>                 ISANWorkCatalogue is a sequence of two elements : RegistrantLogin and SerialHeaderList                 RegistrantLogin is the registrant login name                 SerialHeaderList is a list of SerialHeader work metadata             </xs:documentation>         </xs:annotation>         <xs:sequence>             <xs:element name=\"RegistrantLogin\" type=\"RegistrantLoginType\"/>             <xs:element name=\"SerialHeaderList\" type=\"serial:SeriaHeaderListType\" />         </xs:sequence>     </xs:complexType>     <xs:simpleType name=\"RegistrantLoginType\">  <xs:restriction base=\"xs:string\">  <xs:minLength value=\"1\"/>        <xs:maxLength value=\"10\"/>  </xs:restriction>     </xs:simpleType>     </xs:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4011767a0d18064350a7c2e4229810f5", 
+    "source_url": "http://www.isan.org/schema/v1.1/MLISANSerialHeaderWorkSchema.xsd"
+}

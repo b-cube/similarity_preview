@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Software Defined Networking for CommunityNetwork Testbeds</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Dimogerontakis</surname>             <given-names>Emmanouil</given-names>           </name>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Vilata</surname>             <given-names>Ivan</given-names>           </name>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Navarro</surname>             <given-names>Leandro</given-names>           </name>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2013</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/7547\"/>       <self-uri xlink:href=\"http://research.ac.upc.edu/CNBuB2013/\"/>       <self-uri xlink:href=\"http://zenodo.org/record/7547/files/CNBuB_CONFINE_SDN_Paper.pdf\"/>       <self-uri xlink:href=\"http://zenodo.org/record/7547/files/CNBuB_CONFINE_SDN_Paper.png?subformat=icon-90\"/>     </article-meta>     <abstract>&lt;p&gt;Wireless Community Networks have received increasing attention the latest years. In an effort to set the cornerstone for an internet without central authorities and &amp;nbsp;monopolies,&amp;nbsp;network engineers throughout the world have started creating&amp;nbsp;community networks. To enhance this effort, Community-lab,&amp;nbsp;a wireless community networks testbed, was created allowing&amp;nbsp;researchers to experiment with new protocols and applications&amp;nbsp;in a realistic environment. Nevertheless, this testbed does not offer&amp;nbsp;the ability to perform L2 experiments. To address this gap, we&amp;nbsp;developed a platform that allows Community-Lab researchers to&amp;nbsp;perform L2 experiments. Moreover, we decided to reach our goal&amp;nbsp;using Software Defined Networking(SDN) techniques, due to the&amp;nbsp;attention they received lately and their promise for a complete&amp;nbsp;networking solution. Overall, we propose an architecture that&amp;nbsp;allows researchers to perform L2 experiments in a generic&amp;nbsp;community networks testbed. To prove the feasibility of our&amp;nbsp;archtecture we implemented it for Community-Lab using the&amp;nbsp;OpenFlow SDN protocol, enabling researchers to manage the L2&amp;nbsp;topology of their experiments.&lt;/p&gt;</abstract>   </front>   <article-type>user-confine</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "385a51a51568fccb65b9fab469e21a3e", 
+    "source_url": "http://zenodo.org/record/7547/export/xn"
+}

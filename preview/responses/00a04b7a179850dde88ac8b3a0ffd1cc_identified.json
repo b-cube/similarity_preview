@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0038\">   <front>     <title>Icon Styles</title>     <author initials=\"A.\" surname=\"Theo\" fullname=\"Adam Theo\">       <organization/>       <address>         <email>theo@theoretic.com</email>       </address>     </author>     <date day=\"02\" month=\"June\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0038\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0038.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "00a04b7a179850dde88ac8b3a0ffd1cc", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0038.xml"
+}

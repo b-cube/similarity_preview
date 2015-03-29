@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for Neoonvalgustid ja teised gaaslahenduslambid -->  <jnlp spec=\"1.0+\" codebase=\"http://phet.colorado.edu/sims/discharge-lamps\" href=\"discharge-lamps_et.jnlp\">      <information>          <title>Neoonvalgustid ja teised gaaslahenduslambid</title>          <vendor>University of Colorado, Department of Physics</vendor>          <description>@PROJECT.DESCRIPTION@</description>          <description kind=\"short\">The Neoonvalgustid ja teised gaaslahenduslambid Simulation</description>          <offline-allowed/>      </information>      <resources>          <j2se version=\"1.4+\"/>          <property name=\"javaws.phet.locale\" value=\"et\" /> <property name=\"javaws.user.language\" value=\"et\" />          <jar href=\"discharge-lamps_all.jar\"/>      </resources>            <application-desc main-class=\"edu.colorado.phet.dischargelamps.DischargeLampsApplication\">                </application-desc>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ffc53575a7f572f7c008299c940780bd", 
+    "source_url": "http://phet.colorado.edu/sims/discharge-lamps/discharge-lamps_et.jnlp"
+}

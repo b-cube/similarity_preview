@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"https://catalog.data.gov/dataset/metar-data-access\">     <owl:sameAs rdf:resource=\"urn:uuid:DOC-4710\"></owl:sameAs>     <dct:description>The National Weather Service (NWS) National Telecommunications Gateway provides current and recent METAR or aviation routine weather reports around the world. </dct:description>     <foaf:homepage rdf:resource=\"https://catalog.data.gov/dataset/metar-data-access\"></foaf:homepage>     <rdfs:label>metar-data-access</rdfs:label>     <dct:identifier>metar-data-access</dct:identifier>     <dct:title>METAR Data Access</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://weather.noaa.gov/weather/metar.shtml\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>TXT</rdf:value>                             <rdfs:label>TXT</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>Text File</dct:title>             </dcat:Distribution>         </dcat:distribution>     <dct:rights rdf:resource=\"http://www.opendefinition.org/licenses/cc-by\"></dct:rights>         <dct:relation>           <rdf:Description>             <rdfs:label>__category_tag_872991f6-ef6d-40e1-8bdc-fbbcede1463d</rdfs:label>             <rdf:value>[\"Natural Hazards\"]</rdf:value>           </rdf:Description>         </dct:relation>         <dct:relation>           <rdf:Description>             <rdfs:label>__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9</rdfs:label>             <rdf:value>[\"Extreme Weather\"]</rdf:value>           </rdf:Description>         </dct:relation>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "27f2dfbc785a0219a3277bc2fc71a910", 
+    "source_url": "https://catalog.data.gov/dataset/DOC-4710.rdf"
+}

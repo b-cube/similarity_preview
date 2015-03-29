@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Brainard2004 </Local-number>  <Author>Brainard, R., Aeby, G., Chojnacki, J., DeMartini, E., Dunlap, M., Ferguson, S., Firing, J., Friedlander, A., Godwin, S., Gove, J., Hoeke, R., Holzwarth, S., Kosaki, R., Keenan, E., Kenyon, J., Lammers, M., Maragos, J., Miller, J., Page, K., Rooney, J., Timmers, M., Vroom, P., Wilkinson, C., Wong, K., Zglicczynski, B. </Author>  <Title>Ecosystem science to support ecosystem-based management of the Northwestern Hawaiian Islands </Title>  <Proceedings-Title>Northwestern Hawaiian Islands' Third Scientific Symposium Presentation Abstracts </Proceedings-Title>  <Publication-Date><caldate>2004 </caldate></Publication-Date>  <Extent>67 </Extent>  <Publication-Place>Honolulu, Hawaii </Publication-Place>  <Notes>FY2005 CRCP Project ID 1221; Project Title: Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls; Principal Investigator: Rusty Brainard </Notes>  <Date-Time-Last-Modified>20090611000000 </Date-Time-Last-Modified>  <project>  <ID>1221 </ID>  <title>Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls </title>  <PI>Rusty Brainard </PI>  </project>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>inproceedings </CoRIS-Record-Type>  <Local-subject-index>inproceedings </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bc6d54a29b4b871f7f45a16ffaad75bc", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B6E147399-1D84-4DD4-ADD5-C741B7BFD24F%7D"
+}

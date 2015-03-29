@@ -1,0 +1,15 @@
+{
+    "content": "<?oxygen RNGSchema=\"http://www.tei-c.org/cms/system/modules/org.tei.www/_common/schemas/teilite.rnc\" type=\"compact\"?> <TEI xmlns=\"http://www.tei-c.org/ns/1.0\">         <teiHeader>       <fileDesc>                       <titleStmt>                              <title type=\"main\">Agenda for TEI Board Conference Call: 5 October 2007</title>                       </titleStmt>                       <publicationStmt>             <availability>                <p>Licensed under <ptr target=\"http://creativecommons.org/licenses/by-sa/2.0/uk/\"/>                </p>             </availability>          </publicationStmt>                       <sourceDesc>                              <p>Original text</p>                       </sourceDesc>                </fileDesc>    </teiHeader>         <text>                <front>                       <titlePage>                              <docTitle>                                     <titlePart type=\"main\">Agenda for TEI Board Conference Call: 5 October 2007</titlePart>                              </docTitle>                              <docAuthor>Daniel O'Donnell</docAuthor>                       </titlePage>                </front>                <body>                       <list type=\"ordered\">                              <item>Approval of Minutes: http://www.tei-c.org/Board/bm21.xml</item>                                <item>Reports<list type=\"simple\">                                            <item>Chair's Report (DO)</item>                                            <item>Treasurer's Report (DP)</item>                                            <item>2007 Members Meeting Report (SR)</item>                                            <item>P5 Report (SR)</item>                                            <item>TEI-ISO/TC 37/SC 4 MoU report (LB)</item>                                            <item>Website Revisions Report (CR)</item>                                     </list>                              </item>                              <item>Items for Discussion/Action<list type=\"simple\">                                            <item>2008 Members Meeting Bids</item>                                            <item>P5 Publication</item>                                            <item>Kazan-Izhevsk 2008 Invitation</item>                                 </list>                                  </item>                               <item>Adjournment</item>                       </list>                </body>         </text>  </TEI>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6a09a2a22c8a0fd3513a922f6f232545", 
+    "source_url": "http://www.tei-c.org/Board/bm22a.xml?style=raw"
+}

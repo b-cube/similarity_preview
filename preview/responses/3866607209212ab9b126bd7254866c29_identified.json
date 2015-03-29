@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"PKCS.7.1993\"> <front> <title>Cryptographic Message Syntax Standard. Version 1.5</title> <author> <organization>RSA Laboratories</organization> </author> <date month=\"November\" year=\"1993\" /> </front>  <seriesInfo name=\"PKCS\" value=\"7\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3866607209212ab9b126bd7254866c29", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.PKCS.7.1993.xml"
+}

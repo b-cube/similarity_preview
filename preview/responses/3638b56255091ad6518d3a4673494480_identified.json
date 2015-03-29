@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!-- edited with XMLSpy v2006 sp2 U (http://www.altova.com) by Limongelli (Food and Agriculture Organization of the UN) --> <fi:FIGISDoc xmlns:fi=\"http://www.fao.org/fi/figis/devcon/\" xmlns:ags=\"http://www.purl.org/agmes/1.1/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.fao.org/fi/figis/devcon/ http://www.fao.org/fi/figis/devcon/schema/3_6/topic_v2.xsd\">  <fi:DataEntry>   <fi:Editor>Luca Limongelli, Tiziana Cantarelli</fi:Editor>   <dcterms:Created>2010-08-24</dcterms:Created>  </fi:DataEntry>  <fi:ObjectSource>   <fi:Owner>    <fi:CollectionRef> <fi:FigisID MetaID=\"267000\">7160</fi:FigisID> <dc:Title xml:lang=\"en\">IPOA SEABIRDS - Web site</dc:Title> <fi:ForeignID Code=\"IPOA_SEABIRDS_WS\" CodeSystem=\"acronym\"/> </fi:CollectionRef>   </fi:Owner>   <fi:CorporateCoverPage> <fi:FigisID MetaID=\"280000\">260</fi:FigisID> <dc:Title xml:lang=\"en\">International Plan of Action for Reducing Incidental Catch of Seabirds in Longline Fisheries - Web site</dc:Title> <ags:CreatorCorporate xml:lang=\"en\">Food and Agriculture Organization of the United Nations (FAO-UN)</ags:CreatorCorporate> <fi:Series xml:lang=\"en\">FI Institutional Websites</fi:Series> <dc:Publisher>FAO</dc:Publisher> </fi:CorporateCoverPage>  </fi:ObjectSource>  <fi:Topic>   <fi:TopicIdent Type=\"Topic\">    <fi:FigisID>18120</fi:FigisID>    <dc:Title>Contact - IPOA-Seabirds</dc:Title>   </fi:TopicIdent>   <fi:Overview>   <fi:Text><![CDATA[<p>For further information about the programme and its activities, please contact the programme coordinator <br /><br /><br />Chopin, Francis IPOA-SEABIRDS<br /><br />Food and Agriculture Organization of the United Nations <br />Viale delle Terme di Caracalla<br />00153<br />Rome<br /><strong>Italy</strong><br />For comments, views and suggestions relating to the website, please email to:</p> <p><a href=\"mailto:figis-comments\" onclick=\"if(this.href.indexOf('@')==-1) this.href=this.href + '@' + 'fao.org ';\"><img src=\"/fi/figis/assets/images/email.gif\" alt=\"send an email\" /></a></p>]]></fi:Text>   </fi:Overview>   <fi:RelatedResources/>  </fi:Topic> </fi:FIGISDoc> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3638b56255091ad6518d3a4673494480", 
+    "source_url": "http://www.fao.org/fishery/xml/topic/18120/en"
+}

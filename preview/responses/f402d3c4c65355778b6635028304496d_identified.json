@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2015-03-19 08:52:31</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a9e9501-0439-4a15-a31f-3eb235eb6e86\"    xml:base=\"http://gcmdservices.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/providers\"/>    <skos:prefLabel xml:lang=\"en\">AU/CSIRO/PUB</skos:prefLabel>    <skos:altLabel xml:lang=\"en\">Publishing, Commonwealth Scientific and Industrial Research Organization, Australia</skos:altLabel>    <skos:definition xml:lang=\"en\">      Company Description: Manufacturing: CSIRO Publishing is a publisher and exporter of scientific and technical information. The CD-ROM product range focuses on the natural sciences, agriculture and ecology.              Summary Provided By:              http://goliath.ecnext.com/coms2/merc-compint-0000865061-Commonwealth-Scientific-and-Industrial-Research.html </skos:definition>    <skos:broader rdf:resource=\"03e2acdd-67f7-4380-8c82-53aeb1d4730e\"/> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f402d3c4c65355778b6635028304496d", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a9e9501-0439-4a15-a31f-3eb235eb6e86.rdf"
+}

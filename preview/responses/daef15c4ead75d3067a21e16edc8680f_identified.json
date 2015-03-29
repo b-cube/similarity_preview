@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Kansas City, MO</ShortName>   <Description>KCStat | Kansas City, MO</Description>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://kcstat.kcmo.org/stylesheets/images/common/favicon.ico</Image>   <Url type=\"text/html\" method=\"get\" template=\"http://kcstat.kcmo.org/browse?q={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "daef15c4ead75d3067a21e16edc8680f", 
+    "source_url": "https://kcstat.kcmo.org/opensearch.xml"
+}

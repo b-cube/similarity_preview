@@ -1,0 +1,15 @@
+{
+    "content": "<OAI-PMH xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd\"><responseDate>2015-03-18T14:38:33Z</responseDate><request>http://copac.ac.uk/oai-pmh</request><error code=\"badVerb\">no verb</error></OAI-PMH>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": true, 
+        "version": "", 
+        "protocol": "OAI-PMH", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c5931f99cb53d9be22a9a552e2e1172f", 
+    "source_url": "http://copac.ac.uk/oai-pmh/"
+}

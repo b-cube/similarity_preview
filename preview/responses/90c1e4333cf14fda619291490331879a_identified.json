@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Medvedev E.S. </a1>   <a2>Osherov V.I.</a2>   <t1>Theory of Nonradiative Transitions in Polyatomic Molecules (in Russian)</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;This is the 1st edition in Russian published by Nauka in 1983. The 2nd ed. in English was published by Springer in 1995.&lt;/p&gt;</ab>   <la/>   <k1>molecular spectroscopy;                 </k1>   <pb>Nauka</pb>   <pp>Moscow</pp>   <yr>2014</yr>   <ed/>   <ul>https://zenodo.org/record/13240/files/Medvedev_YE.S._Osherov_V.I._Teoriya_bezuezluchaBookFi.org.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "90c1e4333cf14fda619291490331879a", 
+    "source_url": "https://zenodo.org/record/13240/export/xw"
+}

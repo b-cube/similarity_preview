@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhapt/NFHP_ThematicViewer_All_BioDatasets_Per_HUC12/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhapt/NFHP_ThematicViewer_All_BioSamples_Per_HUC12/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhapt/NFHP_ThematicViewer_Linked_BioDatasets_Per_HUC12/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhapt/NFHP_ThematicViewer_TotMonSamples_Per_HUC12/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhapt/NHFP_ThematicViewer_Linked_BioSamples_Per_HUC12/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhapt/obis_fish_usa/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "31ee0a6a5b11ff9e9bc50788aa3f0bc6", 
+    "source_url": "http://gis1.usgs.gov/arcgis/rest/services/nfhapt?f=geositemap"
+}

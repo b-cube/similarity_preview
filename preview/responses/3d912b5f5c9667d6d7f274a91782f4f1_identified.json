@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Department of Spanish and Portuguese</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/223797\" rel=\"alternate\"/> <subtitle/> <id>http://www.repository.cam.ac.uk:80/handle/1810/223797</id> <updated>2015-03-12T02:54:34Z</updated> <dc:date>2015-03-12T02:54:34Z</dc:date> <entry> <title>Reinventing the Legend of King Roderick: Gertrudis G\\ufffd\\ufffdmez de Avellaneda\\ufffd\\ufffd\\ufffds Egilona</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/246587\" rel=\"alternate\"/> <author> <name>Drayson, Elizabeth</name> </author> <id>http://www.repository.cam.ac.uk:80/handle/1810/246587</id> <updated>2015-01-15T12:40:50Z</updated> <published>2014-11-01T00:00:00Z</published> <summary type=\"text\">Reinventing the Legend of King Roderick: Gertrudis G\\ufffd\\ufffdmez de Avellaneda\\ufffd\\ufffd\\ufffds Egilona Drayson, Elizabeth This article explores the little-known play Egilona penned in 1845 by the talented Cuban writer Gertrudis G\\ufffd\\ufffdmez de Avellaneda, renowned for her poetry, novels and letters yet virtually unrecognized as a playwright. The play's source of inspiration is the legend of King Roderick and La Cava, in which the last Visigothic king of Spain's passion for the beautiful daughter of Count Julian, his governor in Ceuta, was deemed to have precipitated the Muslim invasion of Spain in 711. G\\ufffd\\ufffdmez de Avellaneda joins three other women writers from different eras, Mary Pix, Mar\\ufffd\\ufffda Rosa G\\ufffd\\ufffdlvez and Dana Broccoli, who all found literary inspiration in the Hispanic king's dramatic love affair. Yet the great originality of Avellaneda's drama lies in her innovative creation of the tragic figure of Egilona, the wronged wife of King Roderick, never before depicted as a protagonist in the reception of the legend.  Its dramatic plot uncovers the complex issues of racial and religious marginalization which also characterize Avellaneda's prose works, as the depiction of her heroine boldly challenges issues of patriarchy and politics as pressing in the mid nineteenth-century as they were in the early middle ages. This is the Author Accepted Manuscript which is embargoed for 24 months. The final version is published by Maney and can be found here: http://dx.doi.org/10.1179/0263990414Z.00000000078 </summary> <dc:date>2014-11-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3d912b5f5c9667d6d7f274a91782f4f1", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/atom_1.0/1810/223797"
+}

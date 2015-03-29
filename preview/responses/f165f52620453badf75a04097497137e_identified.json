@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>2010e </Local-number>  <Title>St. Thomas East End Reserves. A tourist guide </Title>  <Institution>The Nature Conservancy; National Oceanic and Atmospheric Administration; Coral Reef Conservation Program </Institution>  <Publication-Place>St. Croix, USVI </Publication-Place>  <Publication-Date><caldate>2010 </caldate></Publication-Date>  <Extent>38 </Extent>  <Notes>NOAA grant NA09NMF4630122, Building Capacity and Increasing Effectiveness for USVI Territorial Marine Protected Areas </Notes>  <URL-Cover>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/grants/Domestic_FMC_CoRIS_Products/NA09NMF4630122_STEER_TouristGuideBook_Cover_Page_01.jpg </URL-Cover>  <grantid>  <id>NA09NMF4630122 </id>  </grantid>  <Abstract>This guide was created to promote and manage the resources of the STEER (St. Thomas East End Reserves) coastal ecological system. Subjects include mangrove forests, seagrass beds, salt ponds, birds (sea and shore), coral reef communities, fisheries resources, and compatible (responsible) human use and enjoyment of the resources. Outlined for each subject: an introduction describing the subject resource (illustrations and area maps) and its importance (ecological, cultural and economic); specific regulations (legal protections, permits, and penalties); and possible, recognized threats. Contact information is provided to report non-compliance, hazard response procedures, or other emergencies situations. </Abstract>  <Date-Time-Last-Modified>20140917000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/grants/Domestic_FMC_CoRIS_Products/NA09NMF4630122_STEER_TouristGuideBook.pdf </URL>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>outreach </Local-subject-index>  <Local-subject-index>Grants </Local-subject-index>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f165f52620453badf75a04097497137e", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BF522F1A6-D87D-4240-8013-259BCFB311E6%7D"
+}

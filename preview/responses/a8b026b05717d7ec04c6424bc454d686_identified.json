@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123061</identifier><identifier type=\"pwpk\">70041790</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3061</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>United States Geological Survey (USGS) Natural Hazards Response</title></titleInfo><originInfo><dateOther>Thu, 13 Dec 2012 00:00 -0600</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Lamb, Rynn; Jones, Brenda K.</namePart><role>Author</role></name><abstract>The primary goal of U.S. Geological Survey (USGS) Natural Hazards Response is to ensure that the disaster response community has access to timely, accurate, and relevant geospatial products, imagery, and services during and after an emergency event. To accomplish this goal, products and services provided by the National Geospatial Program (NGP) and Land Remote Sensing (LRS) Program serve as a geospatial framework for mapping activities of the emergency response community. Post-event imagery and analysis can provide important and timely information about the extent and severity of an event. USGS Natural Hazards Response will also support the coordination of remotely sensed data acquisitions, image distribution, and authoritative geospatial information production as required for use in disaster preparedness, response, and recovery operations.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3061.gif</url><url note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2012/3061/fs2012-3061.pdf</url><url note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3061/</url></location><note type=\"citation/reference\">United States Geological Survey (USGS) Natural Hazards Response; 2012; FS; 2012-3061; Fact Sheet; Lamb, Rynn; Jones, Brenda K.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a8b026b05717d7ec04c6424bc454d686", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123061"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">England's Shipping</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">ads.nerc.ac.uk:DC:2c522795-fc5a-3437-9c65-77bf5495cdc9</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">England's Shipping was a pioneering project that researched ways of mapping evidence of historic shipping in UK waters in order to improve the incorporation of such evidence into the assessment of archaeological potential of the seabed. For the project, information has been collated about traditional trade routes and patterns of shipping movements; modern and historic approaches to ports and harbours; incidents of contemporaneous large scale shipping losses such as sea battles; navigational hazards; and historic shipping losses where physical remains have been identified on the seabed. The digital archive consists of a Source Appraisal, Year 1 and Year 2 Reports and an additional Mapping report.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2007-04-07</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "38e8d27a8a9d64ba291e2860629e4304", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/ads.nerc.ac.uk__MEDIN_2.3__2c522795-fc5a-3437-9c65-77bf5495cdc9.xml/DC"
+}

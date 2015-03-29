@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/SFBayWQIF/ImpairedWaterQuality/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/SFBayWQIF/SanFranciscoBayWaterQualityImprovementFund/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/SFBayWQIF/SFBA_MajorRivers_Tributaries/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/SFBayWQIF/SFBWQIF_Counties_Watershed/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/SFBayWQIF/Wetlands/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6ebba3a29b1a5000d0cbf051b6bb5855", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/SFBayWQIF?f=sitemap"
+}

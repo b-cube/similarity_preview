@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">         <ShortName>Debian Package Tracker</ShortName>         <Description>                 Lookup a package in the Debian Package Tracker         </Description>         <InputEncoding>UTF-8</InputEncoding>         <Image width=\"16\" height=\"16\" type=\"image/x-icon\">https://tracker.debian.org/favicon.ico</Image>         <Url type=\"text/html\" method=\"get\" template=\"https://tracker.debian.org/search?package_name={searchTerms}\"/>         <Url type=\"application/x-suggestions+json\" method=\"get\" template=\"https://tracker.debian.org/api/package/search/autocomplete?q={searchTerms}\"/> </OpenSearchDescription>  ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3fa511847b57db4fe52aa9c7bb65c2c8", 
+    "source_url": "https://tracker.debian.org/search.xml"
+}

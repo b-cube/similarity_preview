@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0041\">   <front>     <title>Reliable Entity Link</title>     <author initials=\"J.\" surname=\"Karneges\" fullname=\"Justin Karneges\">       <organization/>       <address>         <email>justin@affinix.com</email>       </address>     </author>     <date day=\"30\" month=\"September\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0041\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0041.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6fdd424216049c730169c412b8a8d5bc", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0041.xml"
+}

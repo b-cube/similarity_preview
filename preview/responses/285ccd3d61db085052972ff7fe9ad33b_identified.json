@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding=\"ISO-8859-1\" ?> <schema    targetNamespace=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ms=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ogc=\"http://www.opengis.net/ogc\"    xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"    xmlns=\"http://www.w3.org/2001/XMLSchema\"    xmlns:gml=\"http://www.opengis.net/gml\"    elementFormDefault=\"qualified\" version=\"0.1\" >    <import namespace=\"http://www.opengis.net/gml\"           schemaLocation=\"http://schemas.opengis.net/gml/3.1.1/base/gml.xsd\" />    <element name=\"cusmelters\"             type=\"ms:cusmeltersType\"             substitutionGroup=\"gml:_Feature\" />    <complexType name=\"cusmeltersType\">     <complexContent>       <extension base=\"gml:AbstractFeatureType\">         <sequence>           <element name=\"geometry\" type=\"gml:PointPropertyType\" minOccurs=\"0\" maxOccurs=\"1\"/>           <element name=\"idnum\" type=\"string\"/>           <element name=\"country\" type=\"string\"/>           <element name=\"location\" type=\"string\"/>           <element name=\"latitude\" type=\"string\"/>           <element name=\"longitude\" type=\"string\"/>           <element name=\"factype\" type=\"string\"/>           <element name=\"commodity\" type=\"string\"/>           <element name=\"owner\" type=\"string\"/>           <element name=\"status\" type=\"string\"/>           <element name=\"capacity\" type=\"string\"/>           <element name=\"proctype\" type=\"string\"/>         </sequence>       </extension>     </complexContent>   </complexType>  </schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "285ccd3d61db085052972ff7fe9ad33b", 
+    "source_url": "http://mrdata.usgs.gov/wfs/copper-smelters?request=describefeaturetype&service=WFS&version=1.1.0&typename=cusmelters"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"                        xmlns:moz=\"http:/www.mozilla.org/2006/browser/search/\"> <ShortName>Mozilla Developer Network</ShortName> <Description>Buscar na documenta\\ufffd\\ufffd\\ufffd\\ufffdo da Mozilla Developer Network</Description> <InputEncoding>UTF-8</InputEncoding> <Image width=\"16\" height=\"16\" type=\"image/png\">https://developer.cdn.mozilla.net/media/redesign/img/favicon32.png</Image> <Url type=\"text/html\" method=\"get\" template=\"https://developer.mozilla.org/pt-BR/search\">   <Param name=\"q\" value=\"{searchTerms}\"/>   <Param name=\"w\" value=\"3\"/>   <Param name=\"qs\" value=\"plugin\"/> </Url> <Url type=\"application/opensearchdescription+xml\"      rel=\"self\"      template=\"https://developer.mozilla.org/pt-BR/search/xml\"/> <Url type=\"application/x-suggestions+json\"      template=\"https://developer.mozilla.org/pt-BR/search/suggestions?q={searchTerms}\"/> <moz:SearchForm>https://developer.mozilla.org/pt-BR/search</moz:SearchForm> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "69371437b045238b0d090fd9c040f8ca", 
+    "source_url": "https://developer.mozilla.org/pt-BR/search/xml"
+}

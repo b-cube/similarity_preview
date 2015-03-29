@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Jensen, Per</a1>   <a2>Kondziella, Daniel</a2>   <a2>Thomsen, Gerda</a2>   <a2>Dyssegaard, Agnete</a2>   <a2>Svarer, Claus</a2>   <a2>Pinborg, Lars</a2>   <t1>Anti-NMDAR encephalitis: Demonstration of neuroinflammation and the effect of immunotherapy.</t1>   <t2/>   <sn/>   <op>859</op>   <vo>84</vo>   <ab>&lt;p&gt;Anti-NMDAR encephalitis&lt;/p&gt;  &lt;p&gt;Demonstration of neuroinflammation and the effect of&lt;/p&gt;  &lt;p&gt;immunotherapy&lt;/p&gt;</ab>   <la/>   <k1/>   <pb/>   <pp/>   <yr>2015-02-24</yr>   <ed/>   <ul>https://zenodo.org/record/15839/files/Jensen_Neurology_2015-P14.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bfd0b05a2e13c4adbae5e6e26567873d", 
+    "source_url": "https://zenodo.org/record/15839/export/xw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.jacquet-olsr-molsr\"> <front> <title>Multicast Optimized Link State Routing</title>  <author initials=\"P\" surname=\"Jacquet\" fullname=\"Philippe Jacquet\">     <organization /> </author>  <date month=\"November\" day=\"28\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-jacquet-olsr-molsr-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "facec7a874b1da1a2349b3c2737d635a", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.jacquet-olsr-molsr.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/orders/500915120\" ID=\"/opendap/hyrax/orders/500915120/\">             <thredds:dataset name=\"MYD021KM.A2015071.1755.005.2015072151651.pscs_000500915120.hdf\"                        ID=\"/opendap/hyrax/orders/500915120/MYD021KM.A2015071.1755.005.2015072151651.pscs_000500915120.hdf\">          <thredds:dataSize units=\"bytes\">11295770</thredds:dataSize>          <thredds:date type=\"modified\">2015-03-14T10:36:55</thredds:date>          <thredds:access serviceName=\"dap\"                          urlPath=\"/orders/500915120/MYD021KM.A2015071.1755.005.2015072151651.pscs_000500915120.hdf\"/>       </thredds:dataset>             <thredds:dataset name=\"MYD021KM.A2015071.1800.005.2015072151642.pscs_000500915120.hdf\"                        ID=\"/opendap/hyrax/orders/500915120/MYD021KM.A2015071.1800.005.2015072151642.pscs_000500915120.hdf\">          <thredds:dataSize units=\"bytes\">12287898</thredds:dataSize>          <thredds:date type=\"modified\">2015-03-14T10:36:55</thredds:date>          <thredds:access serviceName=\"dap\"                          urlPath=\"/orders/500915120/MYD021KM.A2015071.1800.005.2015072151642.pscs_000500915120.hdf\"/>       </thredds:dataset>             <thredds:dataset name=\"README.1426329311_29596.5497.500915120.txt\"                        ID=\"/opendap/hyrax/orders/500915120/README.1426329311_29596.5497.500915120.txt\">          <thredds:dataSize units=\"bytes\">746</thredds:dataSize>          <thredds:date type=\"modified\">2015-03-14T10:36:55</thredds:date>          <thredds:access serviceName=\"file\"                          urlPath=\"/orders/500915120/README.1426329311_29596.5497.500915120.txt\"/>       </thredds:dataset>             <thredds:dataset name=\"checksums_500915120\"                        ID=\"/opendap/hyrax/orders/500915120/checksums_500915120\">          <thredds:dataSize units=\"bytes\">531</thredds:dataSize>          <thredds:date type=\"modified\">1970-01-01T00:00:00</thredds:date>          <thredds:access serviceName=\"file\" urlPath=\"/orders/500915120/checksums_500915120\"/>       </thredds:dataset>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "d27f403c44310099a0e096ace3e96777", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/orders/500915120/catalog.xml"
+}

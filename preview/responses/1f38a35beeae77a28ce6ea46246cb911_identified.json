@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>6892</id>   <unit>290</unit>   <dept_name>Clyde's</dept_name>   <sub_name></sub_name>   <main_number>3502</main_number>   <location>UCTR 119</location>   <comments>     <comment></comment>   </comments>   <employees>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1f38a35beeae77a28ce6ea46246cb911", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=290&type=details_by_unit"
+}

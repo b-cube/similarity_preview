@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-css-masking-1-20140826'            target='http://www.w3.org/TR/2014/CR-css-masking-1-20140826'> <front> <title>CSS Masking Module Level 1</title>  <author initials='D.' surname='Schulze' fullname='Dirk Schulze'>     <organization /> </author>  <author initials='B.' surname='Birtles' fullname='Brian Birtles'>     <organization /> </author>  <author initials='T.' surname='Atkins' fullname='Tab Atkins'>     <organization /> </author>  <date month='August' day='26' year='2014' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-css-masking-1-20140826' /> <format type='HTML' target='http://www.w3.org/TR/2014/CR-css-masking-1-20140826' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b1b1f9d9e39c72e7888d8d90d436e7ed", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-w3c/reference.W3C.CR-css-masking-1-20140826.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"FIPS.113.1985\"> <front> <title>Computer Data Authentication</title> <author> <organization>National Institute of Standards and Technology</organization> </author> <date month=\"May\" year=\"1985\" /> </front>  <seriesInfo name=\"FIPS\" value=\"PUB 113\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "49a74a1b0daa56d0a4867f88e550cc6c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.FIPS.113.1985.xml"
+}

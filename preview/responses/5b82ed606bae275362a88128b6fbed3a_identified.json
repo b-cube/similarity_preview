@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>Members Search</ShortName><Description>Search Members</Description><Url type=\"text/html\" method=\"get\" template=\"http://services.nycbar.org/Members/Membership_Home/Members/MemberHome.aspx?hkey=8412b9c7-60df-410a-9eb4-468bcfa7e6b8iMIS/ContentManagement/Search.aspx?SearchTerms={searchTerms}\"/><Image>http://services.nycbar.org/Members/Membership_Home/Members/MemberHome.aspx?hkey=8412b9c7-60df-410a-9eb4-468bcfa7e6b8favicon.ico</Image><InputEncoding>UTF-8</InputEncoding><SearchForm>http://services.nycbar.org/Members/Membership_Home/Members/MemberHome.aspx?hkey=8412b9c7-60df-410a-9eb4-468bcfa7e6b8</SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5b82ed606bae275362a88128b6fbed3a", 
+    "source_url": "https://services.nycbar.org/OpenSearch.aspx"
+}

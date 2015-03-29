@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0095\">   <front>     <title>Stream Initiation</title>     <author initials=\"T.\" surname=\"Muldowney\" fullname=\"Thomas Muldowney\">       <organization/>       <address>         <email>temas@jabber.org</email>       </address>     </author>     <author initials=\"M.\" surname=\"Miller\" fullname=\"Matthew Miller\">       <organization/>       <address>         <email>linuxwolf@outer-planes.net</email>       </address>     </author>     <author initials=\"R.\" surname=\"Eatmon\" fullname=\"Ryan Eatmon\">       <organization/>       <address>         <email>reatmon@jabber.org</email>       </address>     </author>     <date day=\"13\" month=\"April\" year=\"2004\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0095\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0095.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0f52cae9bff9dc2f6876fe2b4d508b49", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0095.xml"
+}

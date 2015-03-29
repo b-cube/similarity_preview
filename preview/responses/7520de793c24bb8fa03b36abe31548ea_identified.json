@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <event_data eventid=\"c000tvc3\" source=\"us\" network=\"us\" region=\"cus\" process_timestamp=\"2015-03-06 00:02:09\" ciim_version=\"1\" code_version=\"1.3\" event_version=\"0\">   <event magnitude=\"3.2\" latitude=\"36.8123\" longitude=\"-98.2732\" depth=\"5.449\" event_timestamp=\"2015-03-05 20:33:09\" localtime=\"Mar 5 2015 02:33:09 PM local\" locationtext=\"OKLAHOMA\" />   <cdi_summary nresponses=\"0\" max_intensity=\"1\" citydb=\"city_2009\" />   <products>     <category name=\"Maps\">       <product name=\"City map\">         <description><![CDATA[Map of responses by city or ZIP code]]></description>         <format type=\"image/jpeg\" file=\"usc000tvc3_ciim.jpg\" />         <format type=\"application/pdf\" file=\"usc000tvc3_ciim.pdf\" />         <format type=\"application/postscript\" file=\"usc000tvc3_ciim.ps\" />         <format type=\"text/html\" file=\"usc000tvc3_ciim_imap.html\" />       </product>     </category>     <category name=\"Plots\"></category>     <category name=\"Data\">       <product name=\"Product List\">         <description><![CDATA[List of available DYFI maps and data for this event]]></description>         <format type=\"text/xml\" file=\"event_data.xml\" />       </product>     </category>   </products> </event_data> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7520de793c24bb8fa03b36abe31548ea", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/c000tvc3/us/event_data.xml"
+}

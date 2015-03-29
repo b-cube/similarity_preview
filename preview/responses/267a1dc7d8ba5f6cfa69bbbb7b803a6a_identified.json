@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic_ps/arctic_basemap/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic_ps/clipping_donut/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic_ps/graticule/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic_ps/ibcao_contours/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic_ps/reference/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic_ps/sample_index/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "267a1dc7d8ba5f6cfa69bbbb7b803a6a", 
+    "source_url": "http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic_ps?f=sitemap"
+}

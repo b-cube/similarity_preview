@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"988\"><idinfo><citation><citeinfo><origin role=\"Sponsor\">New Jersey Water Science Center</origin><title>New Jersey drought watch</title><pubinfo><publish>U.S. Geological Survey</publish></pubinfo><onlink>http://nj.usgs.gov/drought/</onlink></citeinfo></citation><descript><abstract>Update on daily streamflow conditions and drought situation in New Jersey.</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><theme><themekt>Alexandria Digital Library Feature Type Thesaurus</themekt><themekey>streams</themekey></theme><place><placekt>Common geographic areas</placekt><placekey>fUS34 = New Jersey</placekey></place><theme><themekt>USGS Thesaurus</themekt><themekey>droughts</themekey><themekey>hydrology</themekey><themekey>maps and atlases</themekey><themekey>stream-gage measurement</themekey><themekey>streamflow</themekey><themekey>water resources</themekey></theme></keywords><ptcontac><cntinfo><cntemail>dsun</cntemail></cntinfo></ptcontac></idinfo><metainfo><metd>20120905</metd><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "72f13df90ab1b4025e8c3ea1f7d8be93", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=988"
+}

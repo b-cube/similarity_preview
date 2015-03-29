@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-row-ordinance-vacation\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-row-ordinance-vacation</id><updated>2015-03-15T16:30:56Z</updated><entry><title>REST API: Update object city-and-county-of-denver-row-ordinance-vacation</title><link href=\"/revision/a635a280-9d70-4bc5-b890-a29c3966f055\" rel=\"alternate\"></link><updated>2015-03-15T16:30:56Z</updated><published>2015-03-15T16:30:56Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/a635a280-9d70-4bc5-b890-a29c3966f055</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-row-ordinance-vacation</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-row-ordinance-vacation</title><link href=\"/revision/83392884-d8df-4e62-b64d-c267156a5d2c\" rel=\"alternate\"></link><updated>2015-03-15T16:30:29Z</updated><published>2015-03-15T16:30:29Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/83392884-d8df-4e62-b64d-c267156a5d2c</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-row-ordinance-vacation</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-row-ordinance-vacation</title><link href=\"/revision/880277ea-931c-427d-8be0-3cebbb0f49f8\" rel=\"alternate\"></link><updated>2015-03-08T16:28:14Z</updated><published>2015-03-08T16:28:14Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/880277ea-931c-427d-8be0-3cebbb0f49f8</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-row-ordinance-vacation</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-row-ordinance-vacation</title><link href=\"/revision/1ceff4da-6a10-4114-b4f2-decba7ab887e\" rel=\"alternate\"></link><updated>2015-03-08T16:28:04Z</updated><published>2015-03-08T16:28:04Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/1ceff4da-6a10-4114-b4f2-decba7ab887e</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-row-ordinance-vacation</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "26e5ba23f4d68900623228bf2f51a8b4", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-row-ordinance-vacation?days=14&format=atom"
+}

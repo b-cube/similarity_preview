@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/ACS_Demographics_by_Tract_2006_2010/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/EPA_Locations/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/Factle_Neighborhoods/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/FRS_PowerPlants/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/FRS_Subfacilities/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/FRS_Wastewater/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/ORNL_Education/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/Place_Holder/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/TRI_NationalAnalysis_2013/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/USEPA_AIR/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d6d21be1c702666338b92cbc8afe879b", 
+    "source_url": "http://gispub.epa.gov/arcgis/rest/services/OEI?f=geositemap"
+}

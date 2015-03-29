@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <rdf:RDF  xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"  xmlns=\"http://purl.org/rss/1.0/\"  xmlns:content=\"http://purl.org/rss/1.0/modules/content/\"  xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\"  xmlns:dc=\"http://purl.org/dc/elements/1.1/\"  xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\"  xmlns:admin=\"http://webns.net/mvcb/\" >  <channel rdf:about=\"https://academicjobsonline.org/ajo/Interdisciplinary%20Arts%20and%20Sciences\"> <title>Interdisciplinary Arts and Sciences Job Listing</title> <link>https://academicjobsonline.org/ajo/Interdisciplinary%20Arts%20and%20Sciences</link> <description>Interdisciplinary Arts and Sciences Job Listing</description> <dc:language>en-us</dc:language> <dc:date>Thu, 19 Mar 2015 23:59:03 EDT</dc:date> <dc:publisher>academicjobsonline.org</dc:publisher> <syn:updateBase>2000-01-01T12:00:00-0500</syn:updateBase> <syn:updateFrequency>1</syn:updateFrequency> <syn:updatePeriod>daily</syn:updatePeriod> <items>  <rdf:Seq>  </rdf:Seq> </items> </channel> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b23afa646fe7b5602bd71b7b3c42ba84", 
+    "source_url": "https://academicjobsonline.org/ajo?joblist-58-1249-0-----rss"
+}

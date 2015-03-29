@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Zotero Documentation</ShortName>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">http://www.zotero.org/support/lib/tpl/zotero-theme/images/favicon.ico</Image>   <Url type=\"text/html\" template=\"http://www.zotero.org/support/doku.php?do=search&amp;id={searchTerms}\" />   <Url type=\"application/x-suggestions+json\" template=\"http://www.zotero.org/support/lib/exe/ajax.php?call=suggestions&amp;q={searchTerms}\" /> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "65253a1d93cdbfee0aea250a837e616c", 
+    "source_url": "https://www.zotero.org/support/lib/exe/opensearch.php"
+}

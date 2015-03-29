@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <wcm:root xmlns:wcm=\"http://www.stellent.com/wcm-data/ns/8.0.0\" version=\"8.0.0.0\">   <wcm:element name=\"ConfirmationWindowTitle\">Electronic Prospectus Delivery</wcm:element>   <wcm:element name=\"ConfirmationWindowWidth\">500</wcm:element>   <wcm:element name=\"ConfirmationWindowButtonAlignment\">center</wcm:element>   <wcm:element name=\"ConfirmationMessage\">By selecting the &amp;quot;OK&amp;quot; button below, you are indicating your consent to receive prospectuses electronically. If you are unable to do so, or if you otherwise would like to receive a paper copy, please call us at 800 TIAA-CREF (800 842-2273) to request a copy of the prospectuses. We are available Monday - Friday, 8 a.m. - 10 p.m., and Saturdays, 9 a.m. - 6 p.m. (ET).</wcm:element>   <wcm:element name=\"ConfirmationAcceptButtonLabel\">OK</wcm:element>   <wcm:element name=\"ConfirmationDeclineButtonLabel\">Cancel</wcm:element>   <wcm:element name=\"TargetWindow\">Popup</wcm:element>   <wcm:element name=\"TargetWindowWidth\">800</wcm:element>   <wcm:element name=\"TargetWindowHeight\">500</wcm:element>   <wcm:element name=\"TargetWindowLeft\">20</wcm:element>   <wcm:element name=\"TargetWindowTop\">20</wcm:element>   <wcm:element name=\"TargetWindowResizable\">yes</wcm:element>   <wcm:element name=\"ShowTargetWindowAddress\">yes</wcm:element>   <wcm:element name=\"ShowTargetWindowMenuBar\">yes</wcm:element>   <wcm:element name=\"ShowTargetWindowScrollBars\">yes</wcm:element>   <wcm:element name=\"ShowTargetWindowStatusBar\">yes</wcm:element>   <wcm:element name=\"ShowTargetWindowTitleBar\">yes</wcm:element>   <wcm:element name=\"ShowTargetWindowToolBar\">yes</wcm:element>   <wcm:element name=\"ShowTargetWindowFullscreen\">false</wcm:element> </wcm:root> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0b544dca7e73ed0827e950e1c06d4e32", 
+    "source_url": "http://www1.tiaa-cref.org/ucm/groups/content/@ap_ucm_p_mcr_auth/documents/webcontent/tiaa02027209.xml"
+}

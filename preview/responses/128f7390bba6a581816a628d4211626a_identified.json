@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"   xmlns:owl=\"http://www.w3.org/2002/07/owl#\"   xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dcat=\"http://www.w3.org/ns/dcat#\"   xmlns:dct=\"http://purl.org/dc/terms/\" >   <dcat:Dataset rdf:about=\"http://beta.ckan.org/en/dataset/scc-test\">     <owl:sameAs rdf:resource=\"urn:uuid:d419574c-2996-4143-93a6-2c7ec1b10a65\"/>     <dct:description>Scc test</dct:description>              <dcat:keyword>local government</dcat:keyword>          <foaf:homepage rdf:resource=\"http://beta.ckan.org/en/dataset/scc-test\"/>     <rdfs:label>scc-test</rdfs:label>      <dct:identifier>scc-test</dct:identifier>     <dct:title>SCC test</dct:title>              <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://beta.ckan.org/dataset/d419574c-2996-4143-93a6-2c7ec1b10a65/resource/c7f1bef9-d47d-4e0d-abb7-56e358562227/download/ckantest.xlsx\"/>                                          <dct:format>                         <dct:IMT>                             <rdf:value>ms excel xlsx</rdf:value>                             <rdfs:label>ms excel xlsx</rdfs:label>                         </dct:IMT>                     </dct:format>                                     <dct:title>SCC test</dct:title>             </dcat:Distribution>         </dcat:distribution>               <dct:creator>       <rdf:Description>         <foaf:name>Business Rates</foaf:name>                </rdf:Description>     </dct:creator>                         </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "128f7390bba6a581816a628d4211626a", 
+    "source_url": "http://beta.ckan.org/en/dataset/d419574c-2996-4143-93a6-2c7ec1b10a65.rdf"
+}

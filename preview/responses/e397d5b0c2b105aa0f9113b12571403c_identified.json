@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-css3-namespace-19990625'            target='http://www.w3.org/1999/06/25/WD-css3-namespace-19990625'> <front> <title>CSS Namespace Enhancements (Proposal)</title>  <author initials='P.' surname='Linss' fullname='Peter Linss'>     <organization /> </author>  <date month='June' day='25' year='1999' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-css3-namespace-19990625' /> <format type='HTML' target='http://www.w3.org/1999/06/25/WD-css3-namespace-19990625' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e397d5b0c2b105aa0f9113b12571403c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-css3-namespace-19990625.xml"
+}

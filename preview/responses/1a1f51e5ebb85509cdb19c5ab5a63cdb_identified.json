@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <species  status='valid'      totalpics='1'       total_adult='1'       total_stamps='0'       total_diseases='0'       total_larvae='0'       link='http://www.fishbase.us/photos/ThumbnailsSummary.php?id=23549'    >     <speccode>23549</speccode>     <genus>Chrionema</genus>     <speciesfb>chryseres</speciesfb>    </species>    <pictures type='adult'>    <picname link='http://www.fishbase.org/photos/PicturesSummary.cfm?ID=23549&amp;what=species'>Chchr_u2.gif</picname>    <actual>http://www.fishbase.org/images/species/Chchr_u2.gif</actual>    <thumbnail>http://www.fishbase.org/images/thumbnails/gif/tn_Chchr_u2.gif</thumbnail>   <author link='http://www.fishbase.org/Collaborators/CollaboratorSummary.cfm?ID=478'>Yang, N.-S.</author>   </pictures>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1a1f51e5ebb85509cdb19c5ab5a63cdb", 
+    "source_url": "http://www.fishbase.org/webservice/Photos/FishPicsList.php?Genus=Chrionema&Species=chryseres&type="
+}

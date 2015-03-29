@@ -1,0 +1,15 @@
+{
+    "content": "<dsig:CanonicalizationMethod xmlns:dsig=\"http://www.w3.org/2000/09/xmldsig#\" xmlns:c14n2=\"http://www.w3.org/2010/xml-c14n2\" Algorithm=\"http://www.w3.org/2010/xml-c14n2\">  <c14n2:PrefixRewrite>sequential</c14n2:PrefixRewrite> </dsig:CanonicalizationMethod>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d60f403b7833c22280504371ba648801", 
+    "source_url": "http://www.w3.org/TR/2013/NOTE-xml-c14n2-testcases-20130618/files/c14nPrefix.xml"
+}

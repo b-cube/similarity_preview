@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Gove2004 </Local-number>  <Author>Gove, J. M., Hoeke, R., Schroeder, R., Brainard, R. E. </Author>  <Title>Upwelling of the equatorial undercurrent near Jarvis Island: Implications for local ecosystem processes </Title>  <Proceedings-Title>Proceedings of the 10th International Coral Reef Symposium </Proceedings-Title>  <Publication-Date><caldate>2004 </caldate></Publication-Date>  <Publication-Place>Okinawa, Japan </Publication-Place>  <Notes>FY2005 CRCP Project ID 1221; Project Title: Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls; Principal Investigator: Rusty Brainard </Notes>  <Date-Time-Last-Modified>20090608000000 </Date-Time-Last-Modified>  <project>  <ID>1221 </ID>  <title>Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls </title>  <PI>Rusty Brainard </PI>  </project>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <CoRIS-Record-Type>inproceedings </CoRIS-Record-Type>  <Local-subject-index>inproceedings </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "438d98282d636d79c5bd1664689154df", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BCB85DB17-21B1-4EC7-BD36-64FEA34B85EE%7D"
+}

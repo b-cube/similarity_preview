@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0066\">   <front>     <title>Out of Band Data</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"16\" month=\"August\" year=\"2006\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0066\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0066.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b7dfe58e26d01d4ef417761fd55abb80", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0066.xml"
+}

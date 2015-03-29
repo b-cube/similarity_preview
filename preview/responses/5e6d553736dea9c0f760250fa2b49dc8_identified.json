@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ITU.H341.1999\"> <front> <title>Line Transmission of Non-Telephone Signals</title> <author> <organization></organization> </author> <date month=\"May\" year=\"1999\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation H.341\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5e6d553736dea9c0f760250fa2b49dc8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.ITU.H341.1999.xml"
+}

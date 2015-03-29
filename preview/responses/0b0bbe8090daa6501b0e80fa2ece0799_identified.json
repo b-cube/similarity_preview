@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.mcgrew-saag-tmmh\"> <front> <title>The Truncated Multi-Modular Hash Function (TMMH)</title>  <author initials=\"D\" surname=\"McGrew\" fullname=\"David McGrew\">     <organization /> </author>  <date month=\"November\" day=\"15\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-mcgrew-saag-tmmh-01\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0b0bbe8090daa6501b0e80fa2ece0799", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.mcgrew-saag-tmmh.xml"
+}

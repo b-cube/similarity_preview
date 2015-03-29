@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../PullParsing.htm\"/>  <o:File HRef=\"image001.emz\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"image003.png\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "297e94d1f336044e092ab13e22cb87eb", 
+    "source_url": "http://www.xmlpull.org/history/PullParsing_files/filelist.xml"
+}

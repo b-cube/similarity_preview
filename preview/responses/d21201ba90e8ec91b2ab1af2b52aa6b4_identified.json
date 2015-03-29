@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <rdf:RDF xmlns=\"http://usefulinc.com/ns/doap#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"><Project><name>cloud</name> <shortdesc>PiCloud client-side library</shortdesc> <description>`PiCloud &lt;http://www.picloud.com&gt;`_ is a cloud-computing platform that integrates into the Python Programming Language. It enables you to leverage the computing power of Amazon Web Services without having to manage, maintain, or configure virtual servers.  When using this Python library known as *cloud*, PiCloud will integrate seamlessly into your existing code base. To offload the execution of a function to our servers, all you must do is pass your desired function into the *cloud* library. PiCloud will run the function on its high-performance cluster. As you run more functions, our cluster auto-scales to meet your computational needs.   Before using this package, you will need to sign up a `PiCloud &lt;http://www.picloud.com&gt;`_ account.  The *cloud* library also features a simulator, which can be used without a PiCloud account.  The simulator uses the  `multiprocessing &lt;http://docs.python.org/library/multiprocessing.html&gt;`_ library to create a stripped down version of the PiCloud service.  This simulated service can then run jobs locally across all CPU cores.  Quick command-line example::     &gt;&gt;&gt; import cloud  &gt;&gt;&gt; def square(x):  ...     return x*x  ...       &gt;&gt;&gt; jid = cloud.call(square,3)  #square(3) evaluated on PiCloud  &gt;&gt;&gt; cloud.result(jid)  9  Full package documentation is available at http://docs.picloud.com.  Some dependencies may be required depending on your platform and Python version; see INSTALL for more information.</description> <homepage rdf:resource=\"http://www.picloud.com\" /> <maintainer><foaf:Person><foaf:name>PiCloud, Inc.</foaf:name> <foaf:mbox_sha1sum>ec63bab4529cdb9878a6cde5fd2d46efa338eed1</foaf:mbox_sha1sum></foaf:Person></maintainer> <release><Version><revision>2.8.5</revision></Version></release> </Project></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d21201ba90e8ec91b2ab1af2b52aa6b4", 
+    "source_url": "https://pypi.python.org/pypi?:action=doap&name=cloud&version=2.8.5"
+}

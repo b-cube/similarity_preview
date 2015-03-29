@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/6217\"> <title>Final reporting</title> <link>http://hdl.handle.net/2160/6217</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6226\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6219\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6218\"/> </rdf:Seq> </items> <dc:date>2015-03-19T11:55:37Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/6226\"> <title>E-theses work package transcript</title> <link>http://hdl.handle.net/2160/6226</link> <description>E-theses work package transcript Welsh Repository Network Transcript describing the work carried out by the Welsh Repository Network team and staff at the National Library of Wales as part of the Welsh e-theses harvesting Work package of the Welsh Repository Network Enhancement Project. </description> <dc:date>2011-03-17T13:40:56Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/6219\"> <title>Institutional Case Studies</title> <link>http://hdl.handle.net/2160/6219</link> <description>Institutional Case Studies Welsh Repository Network Case Studies from each of the Welsh Repository Network (WRN) partners describing their institutional repository development over the course of the WRN Enhancement Project. Transcripts for further evaluation interviews with repository staff at University of Glamorgan and Glynd\\ufffd\\ufffdr University are also included. </description> <dc:date>2011-03-15T16:11:31Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/6218\"> <title>Mediated Deposit Bureau</title> <link>http://hdl.handle.net/2160/6218</link> <description>Mediated Deposit Bureau Payne, Hannah Final report and methodology case studies for the Welsh Repository Network (WRN) Mediated Deposit Bureau (MDB). </description> <dc:date>2011-03-15T16:05:14Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "94c105ed20d54a80ed2ce7a70d9791b4", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/6217"
+}

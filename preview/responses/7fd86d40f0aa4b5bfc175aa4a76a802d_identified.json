@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Grimaldi, David A.</a1>   <a2>Nguyen, Tam</a2>   <t1>Monograph on the spittlebug flies, genus Cladochaeta (Diptera, Drosophilidae, Cladochaetini)</t1>   <t2/>   <sn/>   <op>326 p. : ill. (some col.), maps ; 26 cm.</op>   <vo>241</vo>   <ab>&lt;p&gt;Uploaded by Plazi&lt;/p&gt;</ab>   <la/>   <k1>taxonomy;                 biodiversity;                 terrestrial;                 animalia;                 insecta;                 diptera;                 </k1>   <pb/>   <pp/>   <yr>1999-12-31</yr>   <ed/>   <ul>https://zenodo.org/record/15815/files/Grimaldi_1999_B241-0002.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7fd86d40f0aa4b5bfc175aa4a76a802d", 
+    "source_url": "https://zenodo.org/record/15815/export/xw"
+}

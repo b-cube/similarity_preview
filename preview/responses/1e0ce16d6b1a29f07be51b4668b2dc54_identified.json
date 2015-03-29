@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.X3-216.1992\"> <front> <title>The Structure and Semantics of the Domain-Specific Part (DSP) of the OSI Network Service Access Point (NSAP) Address</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1992\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X3.216\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1e0ce16d6b1a29f07be51b4668b2dc54", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.ANSI.X3-216.1992.xml"
+}

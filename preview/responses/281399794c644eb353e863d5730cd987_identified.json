@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../sean.sather-wagstaff.sept13.htm\"/>  <o:File HRef=\"item0001.xml\"/>  <o:File HRef=\"props0002.xml\"/>  <o:File HRef=\"item0003.xml\"/>  <o:File HRef=\"props0004.xml\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "281399794c644eb353e863d5730cd987", 
+    "source_url": "https://www.ndsu.edu/pubweb/~akhmedov/sean.sather-wagstaff.sept13_files/filelist.xml"
+}

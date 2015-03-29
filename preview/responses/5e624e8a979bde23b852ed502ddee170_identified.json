@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"   xmlns:lvont=\"http://lexvo.org/ontology#\"   xmlns:lexvo=\"http://lexvo.org/id/\"   xmlns:owl=\"http://www.w3.org/2002/07/owl#\"   xmlns:skos=\"http://www.w3.org/2008/05/skos#\"    xmlns:skosxl=\"http://www.w3.org/2008/05/skos-xl#\"   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"   xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" >  <!-- This data file is a part of  Lexvo http://www.lexvo.org/ Gerard de Melo, 2008-2015  For information about the data sources and the respective copyrights, please see: http://www.lexvo.org/linkeddata/sources.html  This information is available under an open source license. For detailed license information, please refer to: http://www.lexvo.org/legal.html -->  <rdf:Description rdf:about=\"http://lexvo.org/id/term/jpn/%E3%82%A2%E3%82%B2%E3%83%A0%E8%AA%9E\">   <rdf:type rdf:resource=\"lvont:Term\" />   <lvont:language rdf:resource=\"http://lexvo.org/id/iso639-3/jpn\" />   <skosxl:literalForm rdf:datatype=\"xsd:string\" xml:lang=\"ja\">\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd</skosxl:literalForm> </rdf:Description>  </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5e624e8a979bde23b852ed502ddee170", 
+    "source_url": "http://www.lexvo.org/data/term/jpn/%E3%82%A2%E3%82%B2%E3%83%A0%E8%AA%9E"
+}

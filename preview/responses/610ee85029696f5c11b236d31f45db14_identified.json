@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/NPDAT/NPDATA/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/NPDAT/SPARROW_MRB_N/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/NPDAT/SPARROW_MRB_P/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/NPDAT/SPARROW/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "610ee85029696f5c11b236d31f45db14", 
+    "source_url": "http://gispub.epa.gov/arcgis/rest/services/NPDAT?f=sitemap"
+}

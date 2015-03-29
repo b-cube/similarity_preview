@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><xml><records><record><source-app name=\"HighWire\" version=\"7.x\">Drupal-HighWire</source-app><ref-type name=\"Journal Article\">17</ref-type><contributors><authors><author><style face=\"normal\" font=\"default\" size=\"100%\">Barab\\ufffd\\ufffdsi, Albert-L\\ufffd\\ufffdszl\\ufffd\\ufffd</style></author></authors><secondary-authors></secondary-authors></contributors><titles><title><style face=\"normal\" font=\"default\" size=\"100%\">Network science</style></title><secondary-title><style face=\"normal\" font=\"default\" size=\"100%\">Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences</style></secondary-title></titles><dates><year><style  face=\"normal\" font=\"default\" size=\"100%\">2013</style></year><pub-dates><date><style  face=\"normal\" font=\"default\" size=\"100%\">2013-02-18 08:05:30</style></date></pub-dates></dates><abstract><style  face=\"normal\" font=\"default\" size=\"100%\">Albert-L\\ufffd\\ufffdszl\\ufffd\\ufffd Barab\\ufffd\\ufffdsi1,2\\ufffd\\ufffd\\ufffd1Department of Physics, Northeastern University, 360 Huntington Avenue, Boston, MA 02115, USA2Department of Medicine, Harvard Medical School, 25 Shattuck Street, Boston, MA 02115, USAe-mail: a.barabasi{at}neu.eduAbstract Professor Barab\\ufffd\\ufffdsi's talk described how the tools of network science can help understand the Web's structure, development and weaknesses. The Web is an information network, in which the nodes are documents (at the time of writing over one trillion of them), connected by links. Other well-known network structures include the Internet, a physical network where the nodes are routers and the links are physical connections, and organizations, where the nodes are people and the links represent communications. networksweb infrastructurecomplex systemsFootnotesOne contribution of 15 to a Discussion Meeting Issue \\ufffd\\ufffd\\ufffdWeb science: a new frontier\\ufffd\\ufffd\\ufffd.\\ufffd\\ufffd 2013 The Author(s) Published by the Royal Society. All rights reserved.</style></abstract><number><style face=\"normal\" font=\"default\" size=\"100%\">1987</style></number><volume><style face=\"normal\" font=\"default\" size=\"100%\">371</style></volume></record></records></xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a3f5f0d33936cb7244b542ce875f406d", 
+    "source_url": "http://rsta.royalsocietypublishing.org/highwire/citation/14336/endnote8"
+}

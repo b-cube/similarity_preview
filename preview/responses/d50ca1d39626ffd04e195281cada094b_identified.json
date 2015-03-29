@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-predefined-counter-styles-20150203'            target='http://www.w3.org/TR/2015/WD-predefined-counter-styles-20150203'> <front> <title>Predefined Counter Styles</title>  <author initials='R.' surname='Ishida' fullname='Richard Ishida'>     <organization /> </author>  <date month='February' day='3' year='2015' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-predefined-counter-styles-20150203' /> <format type='HTML' target='http://www.w3.org/TR/2015/WD-predefined-counter-styles-20150203' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d50ca1d39626ffd04e195281cada094b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-predefined-counter-styles-20150203.xml"
+}

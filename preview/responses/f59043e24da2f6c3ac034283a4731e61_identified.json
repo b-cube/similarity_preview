@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?> <rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xml:lang=\"fr\">  <dcat:Dataset rdf:about=\"http://data.angers.fr/?eID=smile_od_rdf&amp;id=98\">   <dct:identifier/>   <dct:title>Maquette du budget primitif Assainissement 2012</dct:title>   <dct:description>Le jeu contient la maquette du budget primitif (assainissement) 2012 du budget principal de la Communaut\\ufffd\\ufffd Urbaine d'Angers Loire M\\ufffd\\ufffdtropole.</dct:description>   <dcat:landingPage>http://data.angers.fr/donnees/citoyennete-maquette-assainissement-bp-2012/</dcat:landingPage>   <dcat:theme>Citoyennet\\ufffd\\ufffd / Institution</dcat:theme>   <dcat:keywords/>   <dct:licence>Licence ODbL</dct:licence>   <dct:issued>1359932400</dct:issued>   <dct:modified>1359932400</dct:modified>   <lastModificationDescription/>   <dct:temporal>Annuelle</dct:temporal>   <dct:created>1359975494</dct:created>   <dct:creator>Angers Loire M\\ufffd\\ufffdtropole</dct:creator>   <dct:contributor>Angers Loire M\\ufffd\\ufffdtropole</dct:contributor>   <dct:publisher>Angers Loire M\\ufffd\\ufffdtropole</dct:publisher>   <dct:spatial/>   <dct:language/>   <dcat:dataQuality/>   <dcat:granularity/>   <dct:references/>   <dcat:themeTaxonomy/>   <dcat:distribution>    <dcat:Distribution>     <dcat:Download>fileadmin/datastore/data/Citoyennete/Service_finance_ALM/BP/MAQUETTE_ASSAINISSEMENT_BP_2012.zip</dcat:Download>     <dct:format>CSV</dct:format>     <dcat:accessURL>http://data.angers.fr/fileadmin/datastore/data/Citoyennete/Service_finance_ALM/BP/MAQUETTE_ASSAINISSEMENT_BP_2012.zip</dcat:accessURL>    </dcat:Distribution>   </dcat:distribution>  </dcat:Dataset> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "fr", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "f59043e24da2f6c3ac034283a4731e61", 
+    "source_url": "http://data.angers.fr/?eID=smile_od_rdf&id=98"
+}

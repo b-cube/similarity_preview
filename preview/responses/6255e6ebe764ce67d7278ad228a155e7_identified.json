@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.adrangi-mobileip-vpn-traversal'> <front> <title>Mobile IPv4 Traversal Across IPsec-based VPN Gateways</title>  <author initials='F' surname='Adrangi' fullname='Farid Adrangi'>     <organization /> </author>  <author initials='P' surname='Iyer' fullname='Prakash Iyer'>     <organization /> </author>  <date month='June' day='13' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-adrangi-mobileip-vpn-traversal-02' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-adrangi-mobileip-vpn-traversal-02.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6255e6ebe764ce67d7278ad228a155e7", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.adrangi-mobileip-vpn-traversal.xml"
+}

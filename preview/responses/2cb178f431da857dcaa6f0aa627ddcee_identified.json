@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <netcdf location=\"AIRS.2002.08.01.L3.RetStd_H031.v4.0.21.0.G06104133732.hdf.nc\"  xmlns=\"http://www.unidata.ucar.edu/namespaces/netcdf/ncml-2.2\">   <variable name=\"Temperature_A\" type=\"float\">     <attribute type=\"string\"  name=\"units\" value=\"K\" />   </variable> </netcdf> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "UNIDATA:NCML", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2cb178f431da857dcaa6f0aa627ddcee", 
+    "source_url": "http://www.hdfeos.org/zoo/h4cf/AIRS.2002.08.01.L3.RetStd_H031.v4.0.21.0.G06104133732.hdf.nc.ncml"
+}

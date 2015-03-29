@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns:g-core=\"http://base.google.com/ns/1.0\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\">   <channel rdf:about=\"http://hdl.handle.net/2122/141\">     <title>DSpace Collection:</title>     <link>http://hdl.handle.net/2122/141</link>     <description />     <items>       <rdf:Seq>         <rdf:li resource=\"http://hdl.handle.net/2122/8813\" />       </rdf:Seq>     </items>     <dc:date>2015-03-12T07:57:06Z</dc:date>   </channel>   <item rdf:about=\"http://hdl.handle.net/2122/8813\">     <title>Monitoraggio sismico del territorio nazionale: stato dell'arte e sviluppo delle reti di monitoraggio sismico</title>     <link>http://hdl.handle.net/2122/8813</link>     <description>Title: Monitoraggio sismico del territorio nazionale: stato dell'arte e sviluppo delle reti di monitoraggio sismico Authors: Sergio, Guardato; Istituto Nazionale di Geofisica e Vulcanologia, Sezione OV, Napoli, Italia Abstract: Il sistema CUMAS (Cabled Underwater Module&#xD; for Acquisition of Seismological data) \\ufffd\\ufffd un&#xD; prodotto tecnologico-scientifico complesso nato&#xD; con il Progetto V4 [Iannaccone et al., 2008] allo&#xD; scopo di monitorare l\\ufffd\\ufffd\\ufffdarea vulcanica dei Campi&#xD; Flegrei (fenomeno del bradisismo).&#xD; Si tratta di un modulo sottomarino cablato e&#xD; connesso a una boa galleggiante (meda elastica). Il&#xD; sistema \\ufffd\\ufffd in grado di acquisire e trasmettere alla&#xD; sala di monitoraggio dell\\ufffd\\ufffd\\ufffdOV, in continuo e in&#xD; tempo reale, sia i segnali sismologici sia quelli di&#xD; interesse geofisico ed oceanografico (maree,&#xD; correnti marine, segnali acustici subacquei,&#xD; parametri funzionali di varia natura).&#xD; Il sistema \\ufffd\\ufffd in grado di ricevere comandi da remoto&#xD; per variare diversi parametri di acquisizione e di&#xD; monitorare un cospicuo numero di variabili di&#xD; funzionamento.&#xD; Il sistema si avvale del supporto di una boa&#xD; galleggiante attrezzata. La boa \\ufffd\\ufffd installata a largo&#xD; del golfo di Pozzuoli (Napoli) a circa 3 km dalla&#xD; costa. Il modulo sottomarino, collegato via cavo&#xD; alla parte fuori acqua della boa, \\ufffd\\ufffd installato sul&#xD; fondale marino a una profondit\\ufffd\\ufffd di circa 100 metri.</description>     <dc:date>2010-12-31T23:00:00Z</dc:date>   </item> </rdf:RDF>  ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "037085299b4927ecfb8eff9d4d29a877", 
+    "source_url": "http://www.earth-prints.org/feed/rss_1.0/2122/141"
+}

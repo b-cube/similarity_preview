@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">British Geological Survey (BGS) Geophysical Survey 1973/6: SW Approaches (11/05/1973 to 06/06/1973)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-5449-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">This British Geological Survey (BGS) marine geophysical survey took place from the May to June in the SW Approaches on board the TSS profiler. The purpose was to collect data for regional survey of the UK continental Shelf. See Survey 1973/7 for the second phase of the project. A total of 6395km over 91 survey lines were collected during 1973/6 (Lines 1-49) and 1973/7 (Lines 50-91) surveys. Sea floor data were collected using echo sounder and transit sonar. Sub-bottom profiling data were collected using gravity meter; magnetometer; pinger and sparker. The data were recorded as paper records. These data are archived by BGS. Technical details of the survey are contained in BGS report WB/MG/74/48.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">1973-06-06</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "64075159fcb8426f7eea4636165376d7", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-5449-0f38-e044-0003ba9b0d98.xml/DC"
+}

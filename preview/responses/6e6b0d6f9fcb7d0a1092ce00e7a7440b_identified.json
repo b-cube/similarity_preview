@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"1DC9DDF3-F1C1-4618-9B5D-9E16A1A82A6F\" _position=\"1\" _address=\"http://datacatalog.cookcountyil.gov/resource/_3a6z-d5eu/1\"><violation_code>74-435A4</violation_code><violation_text>Violation of Tobacco Tax Ordinance Section 74-430</violation_text><number_of_violations>382</number_of_violations></row><row _id=\"2\" _uuid=\"FB50AB51-1948-4AB4-B67C-6E3E18413B6E\" _position=\"2\" _address=\"http://datacatalog.cookcountyil.gov/resource/_3a6z-d5eu/2\"><violation_code>74-435B2</violation_code><violation_text>Violation of Tobacco Tax Ordinance</violation_text><number_of_violations>203</number_of_violations></row><row _id=\"3\" _uuid=\"8D474C31-9027-4A4A-984F-470FF1604F05\" _position=\"3\" _address=\"http://datacatalog.cookcountyil.gov/resource/_3a6z-d5eu/3\"><violation_code>74-435B3</violation_code><violation_text>Violation of Tobacco Tax Ordinance </violation_text><number_of_violations>193</number_of_violations></row><row _id=\"4\" _uuid=\"5A70B1D9-B9AF-4459-ADA1-2B57C63BE669\" _position=\"4\" _address=\"http://datacatalog.cookcountyil.gov/resource/_3a6z-d5eu/4\"><violation_code>74-435B5</violation_code><violation_text>Safe</violation_text><number_of_violations>84</number_of_violations></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6e6b0d6f9fcb7d0a1092ce00e7a7440b", 
+    "source_url": "https://datacatalog.cookcountyil.gov/api/views/3a6z-d5eu/rows.xml?accessType=DOWNLOAD"
+}

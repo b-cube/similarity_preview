@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Thinking Systemically about China</dc:title><dc:creator>Jervis, Robert</dc:creator><dc:date>2006</dc:date><dc:type>text</dc:type><dc:subject>Political science</dc:subject><dc:subject>International relations</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8NS0SQS</dc:identifier><dc:description>Aaron Friedberg's comprehensive and insightful discussion of the theoretical bases for alternative expectations of future U.S.-China relations ends by explaining how various elements highlighted by liberal, realist, and constructivist perspectives might be combined.' I would like to offer an extension that builds on Friedberg's penultimate paragraph. Obviously, these examples are stark, if not overdrawn. They are intended neither to be definitive nor to contradict Friedberg's analysis, but to show that thinking more sys- tematically about the sort of nonlinear dynamics that make politics so fascinating and hard to manage can be fruitfu</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1f78d0901cd1ed4b9e6c4d8b6948dfb9", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A184035.oai_dc_xml"
+}

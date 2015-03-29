@@ -1,0 +1,15 @@
+{
+    "content": "<META xmlns=\"http://www.w3.org/2000/12/p3pv1\">  <POLICY-REFERENCES>     <POLICY-REF about=\"policy.xml\">        <INCLUDE>\\\\*</INCLUDE>        <COOKIE-INCLUDE name=\"*\" value=\"*\" domain=\"*\" path=\"*\"/>     </POLICY-REF>  </POLICY-REFERENCES> </META>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b7208a6e57ae3dddc9707cf2bd3ea805", 
+    "source_url": "http://datapoint.apa.virginia.gov/w3c/p3p.xml"
+}

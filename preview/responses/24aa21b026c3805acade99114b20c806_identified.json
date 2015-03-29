@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Moduli Spaces of Dynamical Systems on Pn</dc:title><dc:creator>Levy, Alon</dc:creator><dc:date>2011</dc:date><dc:type>text</dc:type><dc:subject>Mathematics</dc:subject><dc:identifier>http://hdl.handle.net/10022/AC:P:10408</dc:identifier><dc:description>This thesis studies the space of morphisms on Pn defined by polynomials of degree d and its quotient by the conjugation action of PGL(n+1), which should be thought of as coordinate change. First, we construct the quotient using geometric invariant theory, proving that it is a geometric quotient and that the stabilizer group in PGL(n+1) of each morphism is finite and bounded in terms of n and d. We then show that when n = 1, the quotient space is rational over a field of any characteristic. We then study semistable reduction in this space. For every complete curve C in the semistable completion of the quotient space, we can find curves upstairs mapping down to it; this leads to an abstract complete curve D with a projective vector bundle parametrizing maps on the curve. The bundle is trivial iff there exists a complete curve D in the semistable space upstairs mapping down to C; we show that for every n and d we can find a C for which no such D exists. Finally, in the case where D does exist, we show that, whenever it lies in the stable space, the map from D to C is ramified only over points with unusually large stabilizer, which for a fixed rational C will bound the degree of the map from D to C.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "24aa21b026c3805acade99114b20c806", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A132314.dc_xml"
+}

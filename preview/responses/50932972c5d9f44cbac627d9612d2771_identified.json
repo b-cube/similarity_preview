@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.wang-cevpn-group\"> <front> <title>VPN Group Support for CE-based IPsec VPN</title>  <author initials=\"C\" surname=\"Wang\" fullname=\"Cliff Wang\">     <organization /> </author>  <date month=\"November\" day=\"16\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-wang-cevpn-group-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "50932972c5d9f44cbac627d9612d2771", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.wang-cevpn-group.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.15575</dc:identifier><dc:creator>Kleineberg, Michael</dc:creator><dc:title>Christian Heise \\ufffd\\ufffdber digitales Publizieren in den Geisteswissenschaften. Transkriptionsprotokoll eines Experteninterviews</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Das Gespr&amp;auml;ch mit Christian Heise, Politik- und Kulturwissenschaftler am &lt;em&gt;Centre for Digital Cultures&lt;/em&gt; (CDC) an der Leuphana Universit&amp;auml;t in L&amp;uuml;neburg sowie Vorstandsmitglied der &lt;em&gt;Open Knowledge Foundation&lt;/em&gt;, f&amp;uuml;hrte Michael Kleineberg am 15. Januar 2015 im Jacob-und-Wilhelm-Grimm-Zentrum der Humboldt-Universit&amp;auml;t zu Berlin.&lt;/p&gt;  &lt;p&gt;Christian Heise hat unmittelbar vor Beginn des Gespr&amp;auml;chs einer Ver&amp;ouml;ffent&amp;shy;lichung sowohl der Audioaufzeichnung als auch des Transkriptionsprotokolls zugestimmt.&lt;/p&gt;  &lt;p&gt;Diese exemplarische Ver&amp;ouml;ffentlichung eines Experteninterviews im Rahmen des DFG-Projektes &amp;quot;Future Publications in den Humanities&amp;quot; (Fu-PusH) stellt einen Einzelfall dar und soll vor allem einer transparentere Methodik dienen.&lt;/p&gt;  &lt;p&gt;Die Audiodatei ist verf&amp;uuml;gbar unter: doi:10.5281/zenodo.15569.&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2015-02-21</dc:date><dc:source>http://zenodo.org/record/15575</dc:source><dc:doi>10.5281/zenodo.15575</dc:doi><dc:identifier>http://zenodo.org/record/15575</dc:identifier><dc:identifier>oai:zenodo.org:15575</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "38335e06fb474829b6aeb674c6b28e3f", 
+    "source_url": "https://zenodo.org/record/15575/export/xd"
+}

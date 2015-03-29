@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.06.20'> <front> <title>Half Rate Speech Transcoding</title> <author><organization>3GPP</organization></author> <date day='03' month='March' year='1996' /> </front>  <seriesInfo name='3GPP TS' value='06.20 4.3.1' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0620.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b5b581448de66c0318be6efd5b103b09", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.06.20.xml"
+}

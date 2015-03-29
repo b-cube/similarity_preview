@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"  xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>ITS</ShortName>  <Description>ITS provider</Description>  <InputEncoding>UTF-8</InputEncoding>  <Url type=\"text/html\" template=\"http://www.its.umich.edu/search/index.php\">   <Param name=\"cx\" value=\"013541196959893833844:unxac5bpi7w\"/>   <Param name=\"cof\" value=\"FORID:10\"/>   <Param name=\"ie\" value=\"UTF-8\"/>   <Param name=\"q\" value=\"{searchTerms}\"/>  </Url>  <moz:SearchForm>http://www.its.umich.edu/search/index.php</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "637343765744017d885472d66c48fca5", 
+    "source_url": "http://www.its.umich.edu/itssearch.xml"
+}

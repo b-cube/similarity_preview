@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:dcterms=\"http://purl.org/dc/terms/\"   xmlns:documentcontainer=\"http://eidchub.ceh.ac.uk/portal_types/documentContainer#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" >   <documentcontainer:documentContainer rdf:about=\"http://eidchub.ceh.ac.uk/metadata/b535ca33-c5e3-48fa-9912-ee9c0502ba1b\">     <dcterms:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-01-28T14:16:57Z</dcterms:issued>     <dcterms:created rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-01-24T11:25:51Z</dcterms:created>     <documentcontainer:fileIdentifier xml:lang=\"en\">b535ca33-c5e3-48fa-9912-ee9c0502ba1b</documentcontainer:fileIdentifier>     <dcterms:title xml:lang=\"en\">Countryside Survey 2000</dcterms:title>     <dcterms:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-01-30T15:35:26Z</dcterms:modified>     <dcterms:subject>vegetation</dcterms:subject>     <dcterms:subject>Great Britain</dcterms:subject>     <dcterms:subject>habitats</dcterms:subject>     <dcterms:subject>Environmental monitoring facilities</dcterms:subject>     <documentcontainer:catalogLink>http://data.ceh.ac.uk/metadata/b535ca33-c5e3-48fa-9912-ee9c0502ba1b</documentcontainer:catalogLink>     <dcterms:creator>clamw</dcterms:creator>     <dcterms:description xml:lang=\"en\">A range of data has been gathered under the Countryside Survey project including habitat areas, vegetation species, soil data, linear feature data and freshwater habitats. Data in this series were gathered in the 1998 survey in Great Britain (in a project known as Countryside Survey 2000). Countryside Survey is a unique study or 'audit' of the natural resources of the UK's countryside. The countryside is sampled and surveyed using rigorous scientific methods, allowing us to compare new results with those from previous surveys. In this way we can detect the gradual and subtle changes that occur in the UK's countryside over time. The 1km square sample sites are chosen from a stratified random sample, based on a 15 by 15 km grid of Britain. Surveys have been carried out in 1978, 1984, 1990, 1998 and 2007 with repeated visits to the majority of survey squares.</dcterms:description>     <documentcontainer:id xml:lang=\"en\">b535ca33-c5e3-48fa-9912-ee9c0502ba1b</documentcontainer:id>     <dcterms:isPartOf rdf:resource=\"http://eidchub.ceh.ac.uk/metadata\"/>   </documentcontainer:documentContainer> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c5d67173155c95a9389380c7abf575af", 
+    "source_url": "http://eidchub.ceh.ac.uk/metadata/b535ca33-c5e3-48fa-9912-ee9c0502ba1b/@@rdf"
+}

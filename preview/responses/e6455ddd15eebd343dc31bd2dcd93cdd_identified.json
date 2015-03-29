@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Academic Commons</ShortName>   <Description>Academic Commons Search</Description>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://academiccommons.columbia.edu/assets/favicon.ico</Image>   <Contact/>   <Url type=\"text/html\" method=\"get\" template=\"http://academiccommons.columbia.edu/catalog?q={searchTerms}\"/>   <Url type=\"application/rss+xml\" method=\"get\" template=\"http://academiccommons.columbia.edu/catalog.rss?q={searchTerms}\"/>   <Url type=\"application/x-suggestions+json\" method=\"get\" template=\"http://academiccommons.columbia.edu/catalog/opensearch.json?q={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e6455ddd15eebd343dc31bd2dcd93cdd", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/opensearch.xml"
+}

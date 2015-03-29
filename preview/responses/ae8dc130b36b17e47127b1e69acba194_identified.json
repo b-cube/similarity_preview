@@ -1,0 +1,15 @@
+{
+    "content": "<response><row/></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ae8dc130b36b17e47127b1e69acba194", 
+    "source_url": "https://data.seattle.gov/api/views/q773-8un5/rows.xml?accessType=DOWNLOAD"
+}

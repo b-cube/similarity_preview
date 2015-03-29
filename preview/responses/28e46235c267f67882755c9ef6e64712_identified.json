@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Date-Time-Last-Modified>20030418083151 </Date-Time-Last-Modified>  <Personal-Name>Hamilton, Edwin L. (Edwin Lee), 1914- </Personal-Name>  <Title>Lower Eocene phosphatized Globigerina ooze from Sylvania Guyot : Bikini and nearby Atolls, Marshall Islands : a study of the mode of occurrence, mineralogy, and paleontology of fossil Globigerina oozes from Sylvania Guyot / by Edwin L. Hamilton and Robert W. Rex. </Title>  <Imprint>Washington : U.S. G.P.O., 1959. </Imprint>  <Physical-Description>iii, p. 785-798, [5] leaves of plates : ill. ; 29 cm. </Physical-Description>  <Series-Statement-Added-Entry>Geological survey professional paper ; 260-W </Series-Statement-Added-Entry>  <Bibliography-Note>Includes bibliographical references (p. 794-795) and index. </Bibliography-Note>  <Subject-Added-Topical-Term>Globigerinidae Marshall Islands Geographical distribution. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Globigerinidae Marshall Islands Classification. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Foraminifera Marshall Islands Geographical distriubtion. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Foraminifera Marshall Islands Classification. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Paleontology Marshall Islands. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Fossils Marshall Islands. </Subject-Added-Topical-Term>  <Added-Entry-Personal-Name>Rex, Robert W., 1929- </Added-Entry-Personal-Name>  <Added-Entry-Corporate-Name>Geological Survey (U.S.) </Added-Entry-Corporate-Name>  <Access-Information>NOAA Central Library, Silver Spring, MD|STACKS|QE75 .P9 no.260-W|BOOK|1 </Access-Information>  <Region>RMI </Region>  <Bounding>  <Eastbc>169.97 </Eastbc>  <Westbc>162.302 </Westbc>  <Southbc>5.573 </Southbc>  <Northbc>14.71 </Northbc>  </Bounding>  <Local-number>OCoLC-ocm13112389 </Local-number>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "28e46235c267f67882755c9ef6e64712", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B289C9F7B-2559-4EB1-B3BD-9BF7B4923DA7%7D"
+}

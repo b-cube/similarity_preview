@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.O162.1988\"> <front> <title>Equipment To Perform In Service Monitoring On 2048 kbit/s Signals</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"July\" year=\"1988\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation O.162\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0182c6010ccc6ccc483f703af6063e00", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.CCITT.O162.1988.xml"
+}

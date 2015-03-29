@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <rdf:RDF  xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"  xmlns=\"http://purl.org/rss/1.0/\"  xmlns:content=\"http://purl.org/rss/1.0/modules/content/\"  xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\"  xmlns:dc=\"http://purl.org/dc/elements/1.1/\"  xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\"  xmlns:admin=\"http://webns.net/mvcb/\" >  <channel rdf:about=\"http://www.ieee802.org/1/\"> <title>IEEE 802.1: 802.1Q - Virtual LANs</title> <link>http://www.ieee802.org/1/</link> <description></description> <dc:language>en-us</dc:language> <dc:rights>Copyright 2006, Institution of Electrical and Electronics Engineers, Inc.</dc:rights> <dc:publisher>j.l.messenger@ieee.org</dc:publisher> <dc:creator>j.l.messenger@ieee.org</dc:creator> <dc:subject>802.1</dc:subject> <syn:updateBase>2006-06-28T02:39-05:00</syn:updateBase> <syn:updateFrequency>3</syn:updateFrequency> <syn:updatePeriod>hourly</syn:updatePeriod> <items>  <rdf:Seq>  </rdf:Seq> </items> </channel> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "65041656571d1257ab14868918df3503", 
+    "source_url": "http://www.ieee802.org/1/pages/802.1Q-rss.xml"
+}

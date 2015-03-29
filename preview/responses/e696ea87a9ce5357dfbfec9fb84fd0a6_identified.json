@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/BrownCounty_2010LandUse/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/BrownCounty_2025LandUse/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/BrownCounty_ConservationAreas/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/OzaukeeCounty_ProtectWetlands/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/OzaukeeCounty_RestoreWetland/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/OzaukeeCounty_WetlandBenefits/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/SheboyganCounty_AOCs/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e696ea87a9ce5357dfbfec9fb84fd0a6", 
+    "source_url": "http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes?f=geositemap"
+}

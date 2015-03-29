@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.chiba-radius-dynamic-disconnect'> <front> <title>Dynamic Disconnect</title>  <author initials='M' surname='Chiba' fullname='Murtaza Chiba'>     <organization /> </author>  <date month='November' day='20' year='2001' /> </front>  <seriesInfo name='Internet-Draft' value='draft-chiba-radius-dynamic-disconnect-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-chiba-radius-dynamic-disconnect-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3ee483d29589c59466b2e5c0a7f593d4", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.chiba-radius-dynamic-disconnect.xml"
+}

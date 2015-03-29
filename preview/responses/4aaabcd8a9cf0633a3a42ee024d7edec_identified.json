@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>IFALPA</ShortName><Description></Description><InputEncoding>UTF-8</InputEncoding><Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.ifalpa.org/templates/ifalpa_template/favicon.ico</Image><Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.ifalpa.org/component/search/?format=opensearch\"/><Url type=\"text/html\" template=\"http://www.ifalpa.org/index.php?option=com_search&amp;searchword={searchTerms}\"/></OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4aaabcd8a9cf0633a3a42ee024d7edec", 
+    "source_url": "http://www.ifalpa.org/component/search/?format=opensearch"
+}

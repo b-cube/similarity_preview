@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <gml:VerticalDatum xmlns:gml=\"http://www.opengis.net/gml/3.2\" gml:id=\"ogp-datum-5103\">    <gml:metaDataProperty>       <epsg:CommonMetaData xmlns:epsg=\"urn:x-ogp:spec:schema-xsd:EPSG:1.0:dataset\">          <epsg:type>vertical</epsg:type>          <epsg:alias code=\"247\" codeSpace=\"urn:ogc:def:naming-system:EPSG::7302\" alias=\"NAVD88\" />          <epsg:revisionDate>2013-09-02</epsg:revisionDate>          <epsg:changes>             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::2005.880\" />             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::2009.108\" />             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::2011.047\" />             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::2013.028\" />          </epsg:changes>          <epsg:show>true</epsg:show>          <epsg:isDeprecated>false</epsg:isDeprecated>       </epsg:CommonMetaData>    </gml:metaDataProperty>    <gml:identifier codeSpace=\"OGP\">urn:ogc:def:datum:EPSG::5103</gml:identifier>    <gml:name>North American Vertical Datum 1988</gml:name>    <gml:remarks>Helmert orthometric heights.</gml:remarks>    <gml:domainOfValidity xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:area:EPSG::4161\" />    <gml:scope>Topographic mapping, geodetic survey.</gml:scope>    <gml:anchorDefinition>Mean water level 1970-1988 at Pointe-au-Pierre (Father's Point) and Rimouski, Quebec. Benchmark 1250-G = 6.273m.</gml:anchorDefinition>    <gml:realizationEpoch>1988-01-01</gml:realizationEpoch> </gml:VerticalDatum> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "86e3b338479347bff06059820c201a7f", 
+    "source_url": "http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:datum:EPSG::5103"
+}

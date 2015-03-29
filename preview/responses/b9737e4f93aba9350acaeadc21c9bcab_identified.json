@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/131666\"> <title>Literary and Linguistic Computing Centre</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/131666</link> <description>Literary and Linguistic Computing Centre</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/183658\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/131694\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/131693\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/131692\"/> </rdf:Seq> </items> <dc:date>2015-03-12T02:54:39Z</dc:date> </channel> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/183658\"> <title>Histoire philosophique des deux Indes, 1770</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/183658</link> <description>Histoire philosophique des deux Indes, 1770 Raynal A philosophical and political history of the settlements and trade of the Europeans in the East and West Indies. </description> <dc:date>2006-11-08T17:12:31Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/131694\"> <title>London Gazette</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/131694</link> <description>London Gazette Ries, Paul French edition of the London Gazette for 1669 UFT-8 encoding </description> <dc:date>2006-04-03T15:48:44Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/131693\"> <title>Gazette d'Amsterdam</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/131693</link> <description>Gazette d'Amsterdam Ries, Paul Gazette d'Amsterdam 1669 UTF-8 encoding </description> <dc:date>2006-04-03T15:20:48Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/131692\"> <title>Gazette d'Amsterdam</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/131692</link> <description>Gazette d'Amsterdam Ries, Paul Gazette d'Amsterdam (french edition) for 1669 </description> <dc:date>2006-04-03T15:07:48Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b9737e4f93aba9350acaeadc21c9bcab", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/rss_1.0/1810/131666"
+}

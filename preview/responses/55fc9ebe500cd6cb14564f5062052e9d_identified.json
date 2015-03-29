@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.huitema-ipngwg-dialondemand\"> <front> <title>IPv6 Dial-up on Demand</title>  <author initials=\"C\" surname=\"Huitema\" fullname=\"C Huitema\">     <organization /> </author>  <date month=\"November\" day=\"16\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-huitema-ipngwg-dialondemand-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "55fc9ebe500cd6cb14564f5062052e9d", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.huitema-ipngwg-dialondemand.xml"
+}

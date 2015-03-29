@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0363'>  <front> <title>ARPA Network mailing lists</title> <author> <organization>SRI/Network Information Center</organization></author> <date year='1972' month='August' /></front>  <seriesInfo name='RFC' value='363' /> <format type='TXT' octets='25356' target='http://www.rfc-editor.org/rfc/rfc363.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c30bca10117d72eda420d46e5762b4a2", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0363.xml"
+}

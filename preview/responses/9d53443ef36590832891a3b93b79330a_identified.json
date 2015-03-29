@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../cesaratto.htm\"/>  <o:File HRef=\"item0009.xml\"/>  <o:File HRef=\"props010.xml\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9d53443ef36590832891a3b93b79330a", 
+    "source_url": "http://www.indiana.edu/~gsc/graduates/phd_abd/cesaratto_files/filelist.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:v=\"urn:schemas-microsoft-com:vml\"  xmlns:o=\"urn:schemas-microsoft-com:office:office\"  xmlns:p=\"urn:schemas-microsoft-com:office:powerpoint\"  xmlns:oa=\"urn:schemas-microsoft-com:office:activation\">  <p:presentation sizeof=\"B4JISPaper\" slidesizex=\"6912\" slidesizey=\"5184\"   gridspacingx=\"49152\" gridspacingy=\"49152\" subsetembed=\"1\">   <p:master id=\"3\" slidesn=\"0,0\" type=\"main\" href=\"master03.htm\"    xmlhref=\"master03.xml\" template=\"Default Design\" layout=\"title_body\"    slots=\"title,body,dateTime,footer,slideNumber\">    <p:schemes>    </p:schemes>   </p:master>   <p:slide id=\"2\" slidesn=\"0,0\" href=\"slide0002.htm\"/>   <p:slide id=\"5\" slidesn=\"0,0\" href=\"slide0005.htm\"/>   <p:slide id=\"19\" slidesn=\"0,0\" href=\"slide0019.htm\"/>   <p:slide id=\"20\" slidesn=\"0,0\" href=\"slide0020.htm\"/>   <p:slide id=\"6\" slidesn=\"0,0\" href=\"slide0006.htm\"/>   <p:slide id=\"24\" slidesn=\"0,0\" href=\"slide0024.htm\"/>   <p:slide id=\"9\" slidesn=\"0,0\" href=\"slide0009.htm\"/>   <p:slide id=\"25\" slidesn=\"0,0\" href=\"slide0025.htm\"/>   <p:slide id=\"8\" slidesn=\"0,0\" href=\"slide0008.htm\"/>   <p:slide id=\"7\" slidesn=\"0,0\" href=\"slide0007.htm\"/>   <p:viewstate scale=\"70\" sorterscale=\"100\" notestextscale=\"50\"    restoredleft=\"122\" restoredtop=\"955\" manualadjustleft=\"t\" manualadjusttop=\"t\"    hideoutlineicons=\"t\"/>   <p:headersfooters nouserdate=\"t\" nofooter=\"t\" noheader=\"t\" nodate=\"t\"    todaydate=\"t\"/>   <p:headersfooters notes=\"t\" nouserdate=\"t\" nofooter=\"t\" noheader=\"t\"    nodate=\"t\" todaydate=\"t\"/>   <p:pptdocumentsettings hideslideanimation=\"t\" browsersupport=\"dual\"/>   <p:htmlpublishsettings browsersupport=\"dual\"    href=\"C:\\\\Documents\\\\My Web Sites\\\\improve2\\\\Overview\\\\IMPROVEProgram.htm\"    hidespeakernote=\"t\" noloadinbrowser=\"t\"/>  </p:presentation>  <o:shapedefaults v:ext=\"edit\" spidmax=\"11268\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8ca5b26ad22d212ce4d8eaf28446c81c", 
+    "source_url": "http://vista.cira.colostate.edu/improve/Overview/IMPROVEProgram_files/pres.xml"
+}

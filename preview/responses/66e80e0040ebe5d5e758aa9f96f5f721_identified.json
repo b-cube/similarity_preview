@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Georgia Tech Auxiliary Services</title> <link href=\"http://hdl.handle.net/1853/7401\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/1853/7401</id> <updated>2015-03-06T08:31:23Z</updated> <dc:date>2015-03-06T08:31:23Z</dc:date> <entry> <title>Fall Semester Highlights, 2013</title> <link href=\"http://hdl.handle.net/1853/52745\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52745</id> <updated>2014-10-28T07:31:56Z</updated> <published>2013-01-01T00:00:00Z</published> <summary type=\"text\">Fall Semester Highlights, 2013 </summary> <dc:date>2013-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Spring Semester Highlights, 2013</title> <link href=\"http://hdl.handle.net/1853/49408\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/49408</id> <updated>2013-11-12T08:32:32Z</updated> <published>2012-01-01T00:00:00Z</published> <summary type=\"text\">Spring Semester Highlights, 2013 </summary> <dc:date>2012-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Summer Semester Highlights, 2012</title> <link href=\"http://hdl.handle.net/1853/47199\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/47199</id> <updated>2013-06-06T07:32:33Z</updated> <published>2012-01-01T00:00:00Z</published> <summary type=\"text\">Summer Semester Highlights, 2012 </summary> <dc:date>2012-01-01T00:00:00Z</dc:date> </entry> <entry> <title>The Buzz... Volume 15, Issue 1, Spring 2012</title> <link href=\"http://hdl.handle.net/1853/45446\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/45446</id> <updated>2012-11-27T08:32:59Z</updated> <published>2012-01-01T00:00:00Z</published> <summary type=\"text\">The Buzz... Volume 15, Issue 1, Spring 2012 </summary> <dc:date>2012-01-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "66e80e0040ebe5d5e758aa9f96f5f721", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/7401"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.03.86'> <front> <title>Advice of Charge (AoC) Supplementary Services; Stage 2</title> <author><organization>3GPP</organization></author> <date day='07' month='November' year='1994' /> </front>  <seriesInfo name='3GPP TS' value='03.86 4.6.1' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0386.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a6809742c97d4086201e1fcefc7e8240", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.03.86.xml"
+}

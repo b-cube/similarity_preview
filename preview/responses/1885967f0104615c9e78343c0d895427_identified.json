@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>5803</id>   <unit>150.9</unit>   <dept_name>Bookstore</dept_name>   <sub_name>Shipping and Receiving</sub_name>   <main_number></main_number>   <location></location>   <comments>     <comment></comment>   </comments>   <employees> <employee>   <id>26837</id>   <name>Thomas, Ethan</name>   <phone>3248</phone>   <title>Shipping and Receiving Supervisor</title>   <department>Bookstore</department>   <sub_unit>Shipping and Receiving</sub_unit>   <location>UCTR 105J</location>   <email>fthomas@uccs.edu</email>   <extra></extra>   <ntname>fthomas</ntname>   <unit>150.9</unit>   <order>9</order> </employee>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1885967f0104615c9e78343c0d895427", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=150.9&type=details_by_unit"
+}

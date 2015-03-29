@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Rietdijk, Frederik</author>         </authors>       </contributors>       <titles>         <title>Auralization of aircraft noise in an urban environment</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12642</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>auralisation</keyword>         <keyword>turbulence</keyword>         <keyword>aircraft</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-11-10</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Poster I presented during an internal meeting in Eindhoven on May 6th, 2014.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d64c89b0beb72f9186261275cfcf1436", 
+    "source_url": "https://zenodo.org/record/12642/export/xe"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Christopher Dembia</a1>   <a2>Jason K. Moore</a2>   <a2>StefenYin</a2>   <t1>yeadon v1.2.1</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Minor updates to to the Yeadon package associated with the software article at: &lt;a href=\"http://dx.doi.org/10.12688/f1000research.5292.1\"&gt;http://dx.doi.org/10.12688/f1000research.5292.1&lt;/a&gt;&lt;/p&gt;</ab>   <la/>   <k1/>   <pb/>   <pp/>   <yr>2015-03-04</yr>   <ed/>   <ul>https://zenodo.org/record/15836/files/yeadon-v1.2.1.zip;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bd8d99e0158b38c45bb36f51cfeccced", 
+    "source_url": "https://zenodo.org/record/15836/export/xw"
+}

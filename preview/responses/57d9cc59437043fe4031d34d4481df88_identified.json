@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.02.91'> <front> <title>Explicit Call Transfer (ECT)</title> <author><organization>3GPP</organization></author> <date day='14' month='February' year='1997' /> </front>  <seriesInfo name='3GPP TS' value='02.91 5.1.1' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0291.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "57d9cc59437043fe4031d34d4481df88", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.02.91.xml"
+}

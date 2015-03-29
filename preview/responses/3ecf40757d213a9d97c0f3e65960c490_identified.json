@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <oembed><author_name>NOAAVisualizations</author_name><height>270</height><html>&lt;iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/JD0jDt-ES1o?feature=oembed\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</html><version>1.0</version><author_url>http://www.youtube.com/user/NOAAVisualizations</author_url><thumbnail_width>480</thumbnail_width><title>New Research and Forecast Model Simulates Sandy-type Storms</title><width>480</width><provider_name>YouTube</provider_name><provider_url>http://www.youtube.com/</provider_url><thumbnail_height>360</thumbnail_height><thumbnail_url>http://i.ytimg.com/vi/JD0jDt-ES1o/hqdefault.jpg</thumbnail_url><type>video</type></oembed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3ecf40757d213a9d97c0f3e65960c490", 
+    "source_url": "http://www.youtube.com/oembed?format=xml&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJD0jDt-ES1o"
+}

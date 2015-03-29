@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0077\">   <front>     <title>In-Band Registration</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"25\" month=\"January\" year=\"2012\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0077\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0077.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "479009d2354c0d305e47413d09c11853", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0077.xml"
+}

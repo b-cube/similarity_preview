@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Les surr\\ufffd\\ufffdalistes et le mus\\ufffd\\ufffde d\\ufffd\\ufffd\\ufffdethnographie</dc:title><dc:creator>Debaene, Vincent</dc:creator><dc:date>2002</dc:date><dc:type>text</dc:type><dc:subject>Cultural anthropology</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8222RVD</dc:identifier><dc:description>The Institute of Ethnology was founded in 1925 ; in 1928, Paul Rivet and Georges-Henri Rivi\\ufffd\\ufffdre were put in charge of reorganizing the old Museum of Ethnography in the Trocad\\ufffd\\ufffdro where the Fauves and the Cubists had discovered the Negro art at the begining of the century. In 1934, the building was finally destroyed and replaced by the Palais de Chaillot where the Mus\\ufffd\\ufffde de l\\ufffd\\ufffd\\ufffdHomme would be inaugurated in 1938. These years are marked by an artistic and cultural dynamism where ethnologist's and avant-garde surrealists'interests intersected. But this proximity would not last because the avant-garde's demands were incompatible with the institutionalization of the discipline of ethnology around the Mus\\ufffd\\ufffde de l\\ufffd\\ufffd\\ufffdHomme. During this period oppositions between ethnologists and \"esthetes\" also appeared as we may still see it today in the controversies concerning the transfer of the Mus\\ufffd\\ufffde de l\\ufffd\\ufffd\\ufffdHomme\\ufffd\\ufffd\\ufffds collections and the Mus\\ufffd\\ufffde des Arts Premiers\\ufffd\\ufffd\\ufffds project at the quai Branly.</dc:description><dc:language>French</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9b0710acc73fd7f32922f164d88edd95", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A173730.dc_xml"
+}

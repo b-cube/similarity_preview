@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <gml:Ellipsoid xmlns:gml=\"http://www.opengis.net/gml/3.2\" gml:id=\"ogp-ellipsoid-7019\">    <gml:metaDataProperty>       <epsg:CommonMetaData xmlns:epsg=\"urn:x-ogp:spec:schema-xsd:EPSG:1.0:dataset\">          <epsg:alias code=\"64\" codeSpace=\"urn:ogc:def:naming-system:EPSG::7301\" alias=\"International 1979\">             <epsg:remarks>Adopted by IUGG 1979 Canberra as the Geodetic Reference Spheroid of 1980 (GRS 1980).</epsg:remarks>          </epsg:alias>          <epsg:informationSource>\"Geodetic Reference System 1980\" by H. Moritz; Bulletin Geodesique</epsg:informationSource>          <epsg:revisionDate>2013-08-23</epsg:revisionDate>          <epsg:changes>             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::1998.110\" />             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::1998.320\" />             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::2013.043\" />          </epsg:changes>          <epsg:show>true</epsg:show>          <epsg:isDeprecated>false</epsg:isDeprecated>       </epsg:CommonMetaData>    </gml:metaDataProperty>    <gml:identifier codeSpace=\"OGP\">urn:ogc:def:ellipsoid:EPSG::7019</gml:identifier>    <gml:name>GRS 1980</gml:name>    <gml:remarks>Adopted by IUGG 1979 Canberra.  Inverse flattening is derived from geocentric gravitational constant GM = 3986005e8 m*m*m/s/s; dynamic form factor J2 = 108263e-8 and Earth's angular velocity = 7292115e-11 rad/s.</gml:remarks>    <gml:semiMajorAxis uom=\"urn:ogc:def:uom:EPSG::9001\">6378137</gml:semiMajorAxis>    <gml:secondDefiningParameter>       <gml:SecondDefiningParameter>          <gml:inverseFlattening uom=\"urn:ogc:def:uom:EPSG::9201\">298.257222101</gml:inverseFlattening>       </gml:SecondDefiningParameter>    </gml:secondDefiningParameter> </gml:Ellipsoid> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8d958891ef35e67dc1972b8ca9e697ea", 
+    "source_url": "http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:ellipsoid:EPSG::7019"
+}

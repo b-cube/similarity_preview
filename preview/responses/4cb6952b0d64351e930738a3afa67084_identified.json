@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.NOTE-xmcl-20020919\"> <front> <title>XMCL - the eXtensible Media Commerce Language</title>  <author initials=\"J\" surname=\"Ayars\" fullname=\"Jeffrey Ayars\">     <organization /> </author>  <date month=\"September\" day=\"19\" year=\"2002\" /> </front>  <seriesInfo name=\"W3C NOTE\" value=\"NOTE-xmcl-20020919\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/2002/NOTE-xmcl-20020919\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4cb6952b0d64351e930738a3afa67084", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-xmcl-20020919.xml"
+}

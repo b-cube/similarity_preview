@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">   <channel rdf:about=\"http://hdl.handle.net/11366/178\">     <title>DSpace Comunit&amp;agrave;:</title>     <link>http://hdl.handle.net/11366/178</link>     <description />     <items>       <rdf:Seq>         <rdf:li rdf:resource=\"http://hdl.handle.net/11366/320\" />         <rdf:li rdf:resource=\"http://hdl.handle.net/11366/319\" />         <rdf:li rdf:resource=\"http://hdl.handle.net/11366/318\" />         <rdf:li rdf:resource=\"http://hdl.handle.net/11366/317\" />       </rdf:Seq>     </items>     <dc:date>2015-03-19T01:39:08Z</dc:date>   </channel>   <item rdf:about=\"http://hdl.handle.net/11366/320\">     <title>My data, our data, your data: data reuse through data management</title>     <link>http://hdl.handle.net/11366/320</link>     <description>Titolo: My data, our data, your data: data reuse through data management Autori: Ashley, Kevin Descrizione: Keynote speech at the CRIS2014 Conference in Rome.-- 55 slides.</description>     <dc:date>2014-05-14T00:00:00Z</dc:date>   </item>   <item rdf:about=\"http://hdl.handle.net/11366/319\">     <title>Infrastructures for Open, Digital Science</title>     <link>http://hdl.handle.net/11366/319</link>     <description>Titolo: Infrastructures for Open, Digital Science Autori: Buhr, Carl-Christian Descrizione: Keynote speech at the CRIS2014 Conference in Rome.-- 33 slides.</description>     <dc:date>2014-05-13T00:00:00Z</dc:date>   </item>   <item rdf:about=\"http://hdl.handle.net/11366/318\">     <title>Going beyond research communication and management current practices</title>     <link>http://hdl.handle.net/11366/318</link>     <description>Titolo: Going beyond research communication and management current practices Autori: Castelli, Donatella Descrizione: Keynote speech at the CRIS2014 Conference in Rome.-- 46 slides.</description>     <dc:date>2014-05-15T00:00:00Z</dc:date>   </item>   <item rdf:about=\"http://hdl.handle.net/11366/317\">     <title>R-LINK: Research Content Linked Data Cloud</title>     <link>http://hdl.handle.net/11366/317</link>     <description>Titolo: R-LINK: Research Content Linked Data Cloud Autori: Ghirardi, Nicola; Scipione, Gabriella Descrizione: Delivered at the Business Session of the CRIS2014 Conference in Rome.-- 21 slides.</description>     <dc:date>2014-05-14T00:00:00Z</dc:date>   </item> </rdf:RDF>  ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "035d07b1194338e37a8f916ab5a2e5c2", 
+    "source_url": "http://dspacecris.eurocris.org/feed/rss_1.0/11366/178"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.02.71'> <front> <title>Location Services (LCS); Stage 1</title> <author><organization>3GPP</organization></author> <date day='06' month='April' year='2001' /> </front>  <seriesInfo name='3GPP TS' value='02.71 7.3.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0271.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9e978c245e2a204bbd0f63b2fd8b4f88", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.02.71.xml"
+}

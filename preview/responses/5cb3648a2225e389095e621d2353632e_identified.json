@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.1007/978-3-319-02414-1_15</dc:identifier><dc:creator>Khan, Amin M</dc:creator><dc:creator>Buyuksahin, Umit C</dc:creator><dc:creator>Freitag, Felix</dc:creator><dc:title>Towards Incentive-based Resource Assignment and Regulation in Clouds for Community Networks</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Community networks are built with off-the-shelf communication equipment aiming to satisfy a community&amp;#39;s demand for Internet access and services. These networks are a real world example of a collective that shares ICT resources. But while these community networks successfully achieve the IP connectivity over the shared network infrastructure, the deployment of applications inside of community networks is surprisingly low. Given that community networks are driven by volunteers, we believe that bringing in incentive-based mechanisms for service and application deployments in community networks will help in unlocking its true potential. We investigate in this paper such mechanisms to steer user contributions, in order to provide cloud services from within community networks. From the analysis of the community network&amp;#39;s topology, we derive two scenarios of community clouds, the local cloud and the federated cloud. We develop an architecture tailored to community networks which integrates the incentive mechanism we propose. In simulations of large scale community cloud scenarios we study the behaviour of the incentive mechanism in different configurations, where slices of homogeneous virtual machine instances are shared. Our simulation results allow us to understand better how to configure such an incentive mechanism in a future prototype of a real community cloud system, which ultimately should lead to realisation of clouds in community networks.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2013-09-18</dc:date><dc:source>http://zenodo.org/record/7470</dc:source><dc:doi>10.1007/978-3-319-02414-1_15</dc:doi><dc:identifier>http://zenodo.org/record/7470</dc:identifier><dc:identifier>oai:zenodo.org:7470</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5cb3648a2225e389095e621d2353632e", 
+    "source_url": "https://zenodo.org/record/7470/export/xd"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?> <document>    <record>       <a>1</a>       <b>a</b>    </record>    <record>       <a>2</a>       <b>b</b>    </record>    <record>       <a>3</a>       <b>c</b>    </record>    <record>       <a>4</a>       <b>d</b>    </record>    <record>       <a>9</a>       <b>YA!!!\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd</b>    </record> </document> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d63bd06f47cdb274f398bd2f90d071fb", 
+    "source_url": "http://demo.ckan.org/dataset/1ddec90f-070d-4710-9237-5ca52426efb5/resource/69fd0a68-2d27-4eeb-9b89-be2996623a6a/download/b4fab8d5acddacdd.xml"
+}

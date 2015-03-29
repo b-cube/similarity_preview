@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC7457'>  <front> <title>Summarizing Known Attacks on Transport Layer Security (TLS) and Datagram TLS (DTLS)</title> <author initials='Y.' surname='Sheffer' fullname='Y. Sheffer'> <organization /></author> <author initials='R.' surname='Holz' fullname='R. Holz'> <organization /></author> <author initials='P.' surname='Saint-Andre' fullname='P. Saint-Andre'> <organization /></author> <date year='2015' month='February' /> <abstract> <t>Over the last few years, there have been several serious attacks on Transport Layer Security (TLS), including attacks on its most commonly used ciphers and modes of operation.  This document summarizes these attacks, with the goal of motivating generic and protocol-specific recommendations on the usage of TLS and Datagram TLS (DTLS).</t></abstract></front>  <seriesInfo name='RFC' value='7457' /> <format type='TXT' octets='28614' target='http://www.rfc-editor.org/rfc/rfc7457.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b0f9c59b707f3a9eb2041e874dee711b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.7457.xml"
+}

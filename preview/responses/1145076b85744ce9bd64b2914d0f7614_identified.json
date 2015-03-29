@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>DSpace</ShortName><LongName>EuroCRIS</LongName><Description>EuroCRIS DSpace repository</Description><InputEncoding>UTF-8</InputEncoding><OutputEncoding>UTF-8</OutputEncoding><Query role=\"example\" searchTerms=\"photosynthesis\" /><Tags>IR DSpace</Tags><Contact>dspace-help@localhost</Contact><Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://www.dspace.org/images/favicon.ico</Image><Url type=\"text/html\" template=\"http://dspacecris.eurocris.org/simple-search?query={searchTerms}\" /><Url type=\"application/atom+xml; charset=UTF-8\" template=\"http://dspacecris.eurocris.org/open-search/?query={searchTerms}&amp;start={startIndex?}&amp;rpp={count?}&amp;format=atom\" /><Url type=\"application/rss+xml; charset=UTF-8\" template=\"http://dspacecris.eurocris.org/open-search/?query={searchTerms}&amp;start={startIndex?}&amp;rpp={count?}&amp;format=rss\" /></OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1145076b85744ce9bd64b2914d0f7614", 
+    "source_url": "http://dspacecris.eurocris.org/open-search/description.xml"
+}

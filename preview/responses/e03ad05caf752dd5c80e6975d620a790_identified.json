@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.NOTE-urispace-20010215\"> <front> <title>URISpace 1.0</title>  <author initials=\"M\" surname=\"Nottingham\" fullname=\"Mark Nottingham\">     <organization /> </author>  <date month=\"February\" day=\"15\" year=\"2001\" /> </front>  <seriesInfo name=\"W3C NOTE\" value=\"NOTE-urispace-20010215\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/2001/NOTE-urispace-20010215\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e03ad05caf752dd5c80e6975d620a790", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-urispace-20010215.xml"
+}

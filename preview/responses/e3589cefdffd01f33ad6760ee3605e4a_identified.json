@@ -1,0 +1,15 @@
+{
+    "content": "<DescribeCoverage service=\"WCS\" version=\"1.0.0\">  <Coverage>EV_1KM_Emissive</Coverage> </DescribeCoverage>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e3589cefdffd01f33ad6760ee3605e4a", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/data/wcs_describecoverage_request.xml"
+}

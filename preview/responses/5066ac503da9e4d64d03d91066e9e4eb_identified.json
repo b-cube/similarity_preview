@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/subsets/al_Mali1\" ID=\"/opendap/hyrax/subsets/al_Mali1/\">             <thredds:catalogRef name=\"2000\" xlink:href=\"2000/catalog.xml\" xlink:title=\"2000\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/subsets/al_Mali1/2000/\"/>             <thredds:catalogRef name=\"2001\" xlink:href=\"2001/catalog.xml\" xlink:title=\"2001\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/subsets/al_Mali1/2001/\"/>             <thredds:catalogRef name=\"2002\" xlink:href=\"2002/catalog.xml\" xlink:title=\"2002\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/subsets/al_Mali1/2002/\"/>             <thredds:catalogRef name=\"2003\" xlink:href=\"2003/catalog.xml\" xlink:title=\"2003\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/subsets/al_Mali1/2003/\"/>             <thredds:catalogRef name=\"2012\" xlink:href=\"2012/catalog.xml\" xlink:title=\"2012\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/subsets/al_Mali1/2012/\"/>             <thredds:catalogRef name=\"2013\" xlink:href=\"2013/catalog.xml\" xlink:title=\"2013\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/subsets/al_Mali1/2013/\"/>             <thredds:catalogRef name=\"2014\" xlink:href=\"2014/catalog.xml\" xlink:title=\"2014\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/subsets/al_Mali1/2014/\"/>             <thredds:catalogRef name=\"2015\" xlink:href=\"2015/catalog.xml\" xlink:title=\"2015\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/subsets/al_Mali1/2015/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "5066ac503da9e4d64d03d91066e9e4eb", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/subsets/al_Mali1/catalog.xml"
+}

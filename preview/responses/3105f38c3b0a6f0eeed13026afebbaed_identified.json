@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"                        xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"> <ShortName>USGS Search</ShortName> <Description>Search the U.S. Geological Survey Web site.</Description> <Tags>science search usgs</Tags> <InputEncoding>UTF-8</InputEncoding> <Image width=\"16\" height=\"16\" type=\"image/png\">http://www.usgs.gov/images/icons/usgs.png</Image> <Url type=\"text/html\" method=\"get\" template=\"http://search.usgs.gov/results.html?cx=005083607223377578371%3Ab5ixbbpqpx0&amp;cof=FORID%3A11&amp;q={searchTerms}&amp;sa=Search\" /> <moz:SearchForm>http://search.usgs.gov/</moz:SearchForm> <AdultContent>false</AdultContent> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3105f38c3b0a6f0eeed13026afebbaed", 
+    "source_url": "http://www.usgs.gov/shell/usgssearch.xml"
+}

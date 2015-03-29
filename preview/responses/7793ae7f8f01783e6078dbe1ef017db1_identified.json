@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Schimpf, Uwe</a1>   <a2>Nagel, Leila</a2>   <a2>J\\ufffd\\ufffdhne, Bernd</a2>   <t1>The 2009 SOPRAN active thermography pilot experiment in the Baltic Sea</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Heat is used as a proxy tracer for gases to investigate the transport across&lt;br /&gt; the sea-surface microlayer. A further development of the active controlled flux&lt;br /&gt; technique (ACFT) is presented. A periodically varying heat flux density is forced onto a rectangle area at the water surface by a CO2 laser. The resulting variation in sea surface temperature is imaged with a calibrated IR-camera. The time constant of the transfer process is estimated by the amplitude damping of the temperature response in the Fourier domain. A pilot experiment in the Baltic Sea was conducted and heat transfer rates were determined. Applying Schmidt number scaling, the measured transfer rates are in good agreement with empirical gas transfer wind speed relationships for moderate wind speeds (4-6 m/s). At high wind speed (12 m/s), the ACFT transfer rates are lower, which might be explained by the fact that heat transport is insensitive to bubble-mediated gas transfer.&lt;/p&gt;</ab>   <la/>   <k1>active thermography;                 heat transfer velocity;                 Schmidt number scaling;                 air-sea interaction;                 </k1>   <pb/>   <pp/>   <yr>2011-07-04</yr>   <ed/>   <ul>http://www.fluid.me.kyoto-u.ac.jp/gtws2010/;  https://zenodo.org/record/14956/files/GTWS2010p358_Schimpf_2011.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7793ae7f8f01783e6078dbe1ef017db1", 
+    "source_url": "https://zenodo.org/record/14956/export/xw"
+}

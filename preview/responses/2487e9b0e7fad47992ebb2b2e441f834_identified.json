@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>AIC2007 </Local-number>  <Author>AIC </Author>  <Title>Resolution 18-2: Renew and strengthen support for the Local Action Strategy (LAS) Initiative </Title>  <Institution>U.S. All Islands Coral Reef Committee (AIC), U.S. Coral Reef Task Force (USCRTF) </Institution>  <Publication-Date><caldate>2007 </caldate></Publication-Date>  <Extent>3 </Extent>  <Type-Period-Note>AIC Resolution </Type-Period-Note>  <Abstract>Resolution approved at the U.S. Coral Reef Task Force Meeting in Pago Pago, American Samoa, August 23, 2007. Several key resolutions, adopted by the AIC and the U.S. Coral Reef Task Force, have guided the activities of the AIC. This resolution re-affirms and strengthens support from the U.S. Coral Reef Task Force (USCRTF) for the continued implementation of existing LAS and the development of new LAS. </Abstract>  <Keywords>U.S. All Islands Coral Reef Committee (AIC), U.S. Coral Reef Task Force (USCRTF) </Keywords>  <Date-Time-Last-Modified>20140328000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/other_crcp_publications/USCRTF/las_samoa_2007_key_resolution18_2.pdf </URL>  <Region>AmSam </Region>  <Bounding>  <Eastbc>-167.551612 </Eastbc>  <Westbc>-171.541907 </Westbc>  <Southbc>-15.25183 </Southbc>  <Northbc>-10.207203 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2487e9b0e7fad47992ebb2b2e441f834", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BE59A55B6-4C57-411B-A966-225F2DFD6897%7D"
+}

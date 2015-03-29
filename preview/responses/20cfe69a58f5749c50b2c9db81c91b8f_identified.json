@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"2098\"><idinfo><citation><citeinfo><origin role=\"Author\">National Water Quality Assessment Program</origin><title>National Water Quality Assessment urban studies portal</title><pubinfo><publish>U.S. Geological Survey</publish></pubinfo><onlink>http://co.water.usgs.gov/nawqa/urbanPortal/</onlink></citeinfo></citation><descript><abstract>Multiple studies addressing urban water-quality issues, to describe biological, chemical, and physical characteristics of urban water resources over time, and relate those characteristics to natural processes and human activities</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><theme><themekt>Alexandria Digital Library Feature Type Thesaurus</themekt><themekey>cities</themekey></theme><place><placekt>Common geographic areas</placekt><placekey>fUS = United States</placekey></place><theme><themekt>USGS Thesaurus</themekt><themekey>contamination and pollution</themekey><themekey>ecotoxicology</themekey><themekey>environmental health (human)</themekey><themekey>hydrology</themekey><themekey>terrestrial ecosystems</themekey><themekey>water chemistry</themekey><themekey>water quality</themekey></theme><theme><themekt>none</themekt><themekey>urban ecosystems</themekey></theme></keywords><ptcontac><cntinfo><cntemail>nawqa_whq</cntemail></cntinfo></ptcontac></idinfo><metainfo><metd>20120905</metd><metc><cntinfo><cntperp><cntper>Schweitzer, Peter N</cntper><cntorg>ER Mineral Resources</cntorg></cntperp><cntaddr><addrtype>mailing address</addrtype><address>12201 Sunrise Valley Drive Mail Stop 954</address><city>Reston</city><state>VA</state><postal>20192</postal><country>USA</country></cntaddr><cntvoice>703-648-6533</cntvoice><cntemail>pschweitzer@usgs.gov</cntemail></cntinfo></metc><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "20cfe69a58f5749c50b2c9db81c91b8f", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=2098"
+}

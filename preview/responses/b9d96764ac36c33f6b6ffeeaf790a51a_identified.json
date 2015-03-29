@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <schema xmlns=\"http://www.w3.org/2001/XMLSchema\"   targetNamespace=\"http://xfire.codehaus.org/aegis/1.0\"   xmlns:tns=\"http://xfire.codehaus.org/aegis/1.0\"   elementFormDefault=\"unqualified\"    attributeFormDefault=\"unqualified\" >    <element name=\"mappings\">     <complexType>       <sequence>         <element name=\"mapping\" minOccurs=\"0\" maxOccurs=\"unbounded\" type=\"tns:mappingType\" />       </sequence>     </complexType>   </element>    <complexType name=\"mappingType\">     <sequence>       <element minOccurs=\"0\" maxOccurs=\"unbounded\" ref=\"tns:property\" />     </sequence>     <attribute name=\"uri\" type=\"string\"/>     <attribute name=\"name\" type=\"string\"/>   </complexType>    <element name=\"property\">     <complexType>       <attributeGroup ref=\"tns:mappedType\"/>       <anyAttribute namespace='##other' processContents='lax'/>     </complexType>   </element>      <element name=\"return-type\">     <complexType>       <attributeGroup ref=\"tns:mappedType\"/>       <anyAttribute namespace='##other' processContents='lax'/>     </complexType>   </element>      <element name=\"parameter\">     <complexType>       <attribute name=\"index\" type=\"int\"/>       <attribute name=\"class\" type=\"string\"/>       <attributeGroup ref=\"tns:mappedType\"/>       <anyAttribute namespace='##other' processContents='lax'/>     </complexType>   </element>    <attributeGroup name=\"mappedType\">     <attribute name=\"name\" type=\"string\" />     <attribute name=\"type\" type=\"string\" />     <attribute name=\"typeName\" type=\"string\" />     <attribute name=\"mappedName\" type=\"string\" />     <attribute name=\"nillable\" type=\"boolean\" />     <attribute name=\"ignore\" type=\"boolean\" />     <attribute name=\"componentType\" type=\"string\" />     <attribute name=\"keyType\" type=\"string\" />     <attribute name=\"minOccurs\" type=\"int\"/>     <attribute name=\"style\">       <simpleType>         <restriction base=\"string\">           <enumeration value=\"attribute\"/>           <enumeration value=\"element\"/>         </restriction>       </simpleType>     </attribute>     <anyAttribute namespace='##other' processContents='lax'/>   </attributeGroup>   </schema>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b9d96764ac36c33f6b6ffeeaf790a51a", 
+    "source_url": "http://xfire.codehaus.org/schemas/1.0/mapping.xsd"
+}

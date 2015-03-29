@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><o:nodeList xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:o=\"http://www.w3.org/2005/11/its/testoutputformat\" xsi:schemaLocation=\"http://www.w3.org/2005/11/its/testoutputformat/ ../itsoutput.xsd\">    <o:nodeList datacat=\"translate\">       <o:node path=\"/{}myDoc\" outputType=\"default-value\">          <o:output o:translate=\"yes\"/>       </o:node>       <o:node path=\"/{}myDoc/{}head[1]\" outputType=\"default-value\">          <o:output o:translate=\"yes\"/>       </o:node>       <o:node path=\"/{}myDoc/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]\" outputType=\"default-value\">          <o:output o:translate=\"yes\"/>       </o:node>       <o:node path=\"/{}myDoc/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/@{}version\" outputType=\"default-value\">          <o:output o:translate=\"no\"/>       </o:node>       <o:node path=\"/{}myDoc/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/@{http://www.w3.org/1999/xlink}type\" outputType=\"default-value\">          <o:output o:translate=\"no\"/>       </o:node>       <o:node path=\"/{}myDoc/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/@{http://www.w3.org/1999/xlink}href\" outputType=\"default-value\">          <o:output o:translate=\"no\"/>       </o:node>       <o:node path=\"/{}myDoc/{}body[1]\" outputType=\"default-value\">          <o:output o:translate=\"yes\"/>       </o:node>       <o:node path=\"/{}myDoc/{}body[1]/{}par[1]\" outputType=\"default-value\">          <o:output o:translate=\"yes\"/>       </o:node>       <o:node path=\"/{}myDoc/{}body[1]/{}par[1]/@{}id\" outputType=\"default-value\">          <o:output o:translate=\"no\"/>       </o:node>       <o:node path=\"/{}myDoc/{}body[1]/{}par[1]/@{}title\" outputType=\"new-value-global\">          <o:output o:translate=\"yes\"/>       </o:node>       <o:node path=\"/{}myDoc/{}body[1]/{}par[1]/{}code[1]\" outputType=\"new-value-global\">          <o:output o:translate=\"no\"/>       </o:node>    </o:nodeList> </o:nodeList>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7f253c9ee826306654358b29e72ef192", 
+    "source_url": "http://www.w3.org/International/its/tests/test3/Translate2-result.xml"
+}

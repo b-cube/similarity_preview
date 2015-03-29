@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><Response status=\"OK\" responseTime=\"10\"><Results><columnName>geographyType</columnName><columnType>Varchar(12)</columnType><columnDescription>The geography type of the searched geography (County, Congressional District, etc.)</columnDescription></Results><Results><columnName>fips</columnName><columnType>Varchar(15)</columnType><columnDescription>The FIPS code of the geography.  For identification purposes, each geography is assigned a FIPS code (Federal Information Processing Standard code) by the U.S. Census Bureau </columnDescription></Results><Results><columnName>name</columnName><columnType>Varchar(100)</columnType><columnDescription>The name of the geography</columnDescription></Results><Results><columnName>stateCode</columnName><columnType>Varchar(2)</columnType><columnDescription>The state code of the searched geography</columnDescription></Results><Results><columnName>envelope.minx</columnName><columnType>Numeric(10,5)</columnType><columnDescription>The longitude of the lower left corner of the minimum bounding rectangle of the geography</columnDescription></Results><Results><columnName>envelope.maxx</columnName><columnType>Numeric(10,5)</columnType><columnDescription>The longitude of the upper right corner of the minimum bounding rectangle of the geography</columnDescription></Results><Results><columnName>envelope.miny</columnName><columnType>Numeric(10,5)</columnType><columnDescription>The latitude of the lower left corner of the minimum bounding rectangle of the geography</columnDescription></Results><Results><columnName>envelope.maxy</columnName><columnType>Numeric(10,5)</columnType><columnDescription>The latitude of the upper right corner of the minimum bounding rectangle of the geography</columnDescription></Results></Response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b7d5b74e4320e0da85dbdb93c210e322", 
+    "source_url": "http://www.broadbandmap.gov/broadbandmap/api/dictionary/v1/census?format=xml"
+}

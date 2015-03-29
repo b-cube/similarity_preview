@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123072</identifier><identifier type=\"pwpk\">70038609</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3072</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Landsat-A Global Land-Imaging Mission</title></titleInfo><originInfo><dateOther>Wed, 6 Jun 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>U.S. Geological Survey</namePart><role>Author</role></name><abstract>Across four decades since 1972, Landsat satellites have continuously acquired space-based images of the Earth's land surface, coastal shallows, and coral reefs. The Landsat Program, a joint effort of the U.S. Geological Survey (USGS) and the National Aeronautics and Space Administration (NASA), was established to routinely gather land imagery from space. NASA develops remote-sensing instruments and spacecraft, then launches and validates the performance of the instruments and satellites. The USGS then assumes ownership and operation of the satellites, in addition to managing all ground reception, data archiving, product generation, and distribution. The result of this program is a long-term record of natural and human induced changes on the global landscape.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3072.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3072/</url></location><note type=\"citation/reference\">Landsat-A Global Land-Imaging Mission; 2012; FS; 2012-3072; Fact Sheet; U.S. Geological Survey</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "60f6499cf2623bf973297bfa67be9731", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123072"
+}

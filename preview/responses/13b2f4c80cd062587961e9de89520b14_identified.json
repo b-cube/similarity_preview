@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xsl11-req-20031217'            target='http://www.w3.org/TR/2003/WD-xsl11-req-20031217'> <front> <title>Extensible Stylesheet Language (XSL) Version 1.1 Requirements</title>  <author initials='P.' surname='Grosso' fullname='Paul Grosso'>     <organization /> </author>  <date month='December' day='17' year='2003' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-xsl11-req-20031217' /> <format type='HTML' target='http://www.w3.org/TR/2003/WD-xsl11-req-20031217' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "13b2f4c80cd062587961e9de89520b14", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xsl11-req-20031217.xml"
+}

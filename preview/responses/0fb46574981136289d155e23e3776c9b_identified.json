@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?> <rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xml:lang=\"fr\">  <dcat:Dataset rdf:about=\"http://data.angers.fr/?eID=smile_od_rdf&amp;id=168\">   <dct:identifier/>   <dct:title>Limite des communes d'Angers Loire M\\ufffd\\ufffdtropole</dct:title>   <dct:description>Limite de territoire des trente-trois communes d'Angers Loire M\\ufffd\\ufffdtropole.</dct:description>   <dcat:landingPage>http://data.angers.fr/donnees/limite-des-communes-dangers-loire-metropole/</dcat:landingPage>   <dcat:theme>Territoires</dcat:theme>   <dcat:keywords/>   <dct:licence>Licence ODbL</dct:licence>   <dct:issued>1391468400</dct:issued>   <dct:modified>1391554800</dct:modified>   <lastModificationDescription/>   <dct:temporal>variable</dct:temporal>   <dct:created>1390297334</dct:created>   <dct:creator>Angers Loire M\\ufffd\\ufffdtropole</dct:creator>   <dct:contributor>Angers Loire M\\ufffd\\ufffdtropole</dct:contributor>   <dct:publisher>Angers Loire M\\ufffd\\ufffdtropole</dct:publisher>   <dct:spatial/>   <dct:language/>   <dcat:dataQuality/>   <dcat:granularity/>   <dct:references/>   <dcat:themeTaxonomy/>   <dcat:distribution>    <dcat:Distribution>     <dcat:Download>fileadmin/datastore/data/infos_geographiques/ALM_DSIC_SIG_ADM_COM_WGS84_KML.zip</dcat:Download>     <dct:format>KML</dct:format>     <dcat:accessURL>http://data.angers.fr/fileadmin/datastore/data/infos_geographiques/ALM_DSIC_SIG_ADM_COM_WGS84_KML.zip</dcat:accessURL>    </dcat:Distribution>    <dcat:Distribution>     <dcat:Download>fileadmin/datastore/data/infos_geographiques/ALM_DSIC_SIG_ADM_COM_CC47_SHAPE.zip</dcat:Download>     <dct:format>SHP CC47</dct:format>     <dcat:accessURL>http://data.angers.fr/fileadmin/datastore/data/infos_geographiques/ALM_DSIC_SIG_ADM_COM_CC47_SHAPE.zip</dcat:accessURL>    </dcat:Distribution>    <dcat:Distribution>     <dcat:Download>fileadmin/datastore/data/infos_geographiques/ALM_DSIC_SIG_ADM_COM_L93_SHAPE.zip</dcat:Download>     <dct:format>SHP L93</dct:format>     <dcat:accessURL>http://data.angers.fr/fileadmin/datastore/data/infos_geographiques/ALM_DSIC_SIG_ADM_COM_L93_SHAPE.zip</dcat:accessURL>    </dcat:Distribution>    <dcat:Distribution>     <dcat:Download>fileadmin/datastore/data/infos_geographiques/ALM_DSIC_SIG_ADM_COM_WGS84_SHAPE.zip</dcat:Download>     <dct:format>SHP wgs84</dct:format>     <dcat:accessURL>http://data.angers.fr/fileadmin/datastore/data/infos_geographiques/ALM_DSIC_SIG_ADM_COM_WGS84_SHAPE.zip</dcat:accessURL>    </dcat:Distribution>   </dcat:distribution>  </dcat:Dataset> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "fr", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "0fb46574981136289d155e23e3776c9b", 
+    "source_url": "http://data.angers.fr/?eID=smile_od_rdf&id=168"
+}

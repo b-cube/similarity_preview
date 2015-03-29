@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2014-11-28 09:45:06</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a19cdd4-48ec-4551-9e5f-7be860891f94\"    xml:base=\"http://gcmdservices.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/locations\"/>    <skos:prefLabel xml:lang=\"en\">CROATIA</skos:prefLabel>    <skos:broader rdf:resource=\"10b324f6-0541-42c2-938d-e2acec0de8ed\"/> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5a05640018beb45486c94108cc4e3bf3", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a19cdd4-48ec-4551-9e5f-7be860891f94.rdf"
+}

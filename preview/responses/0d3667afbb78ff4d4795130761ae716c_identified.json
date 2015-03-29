@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>INTERNATIONAL HYDROGRAPHIC ORGANIZATION</ShortName><Description>The International Hydrographic Organization is an intergovernmental consultative and technical organization that was established in 1921 to support safety of navigation and the protection of the marine environment.</Description><InputEncoding>UTF-8</InputEncoding><Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.iho.int/srv1/templates/PrimeBlue/favicon.ico</Image><Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.iho.int/srv1/index.php?option=com_search&amp;format=opensearch&amp;lang=en\"/><Url type=\"text/html\" template=\"http://www.iho.int/srv1/index.php?option=com_search&amp;searchword={searchTerms}\"/></OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0d3667afbb78ff4d4795130761ae716c", 
+    "source_url": "http://www.iho.int/srv1/index.php?option=com_search&format=opensearch&lang=en"
+}

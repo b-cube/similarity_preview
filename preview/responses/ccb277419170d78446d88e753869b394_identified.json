@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123103</identifier><identifier type=\"pwpk\">70039199</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3103</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Integrated monitoring of ecological conditions in wetland-upland landscapes</title></titleInfo><originInfo><dateOther>Wed, 25 Jul 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Gallant, Alisa; Sadinski, Walt</namePart><role>Author</role></name><abstract>Landscapes of interwoven wetlands and uplands offer a rich set of ecosystem goods and services. Managing lands to maximize ecosystem services requires information that distinguishes change caused by local actions from broader-scale shifts in climate, land use, and other forms of global change. Satellite and airborne sensors collect valuable data for this purpose, especially when the data are analyzed along with data collected from ground-based sensors. The U.S. Geological Survey (USGS) is using remote sensing technology in this way as part of the Terrestrial Wetland Global Change Research Network to assess effects of climate change interacting with land-use change and other potential stressors along environmental gradients of wetland-upland landscapes in the United States and Canada.</abstract><physicalDescription><form>2 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3103.JPG</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3103/</url><url displayLabel=\"pdf\" note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2012/3103/fs12-3103.pdf</url></location><note type=\"citation/reference\">Integrated monitoring of ecological conditions in wetland-upland landscapes; 2012; FS; 2012-3103; Fact Sheet; Gallant, Alisa; Sadinski, Walt</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ccb277419170d78446d88e753869b394", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123103"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xslt20-20030502'> <front> <title>XSL Transformations (XSLT) Version 2.0</title>  <author initials='M' surname='Kay' fullname='Michael Kay'>     <organization /> </author>  <date month='May' day='2' year='2003' /> </front>  <seriesInfo name='W3C WD' value='WD-xslt20-20030502' /> <format type='HTML' target='http://www.w3.org/TR/2003/WD-xslt20-20030502' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4d0db9850e8e0f31c48022ab4b55ac79", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xslt20-20030502.xml"
+}

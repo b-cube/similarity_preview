@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <?oxygen RNGSchema=\"http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rnc\" type=\"compact\"?> <TEI xmlns=\"http://www.tei-c.org/ns/1.0\">          <teiHeader>         <fileDesc>                          <titleStmt>                                  <title>TEI Board Conference Call: 19 December 2007</title>                              </titleStmt>                          <publicationStmt>                 <availability>                     <p>Licensed under <ptr                         target=\"http://creativecommons.org/licenses/by-sa/2.0/uk/\"/>                     </p>                 </availability>             </publicationStmt>                          <sourceDesc>                                  <p>None</p>                              </sourceDesc>                      </fileDesc>         <revisionDesc>             <change when=\"2007-12-19\" who=\"editor\">                 <date>19 December 2007</date>                 <label>Chris Ruotolo</label> First draft </change>         </revisionDesc>     </teiHeader>          <text>                  <front>                          <titlePage>                                  <docTitle>                                          <titlePart type=\"main\">TEI Board Conference Call: 19 Dec 2007</titlePart>                                                           </docTitle>                                  <docAuthor>Chris Ruotolo</docAuthor>                                               </titlePage>                      </front>                  <body>             <p>The Board discussed nominations and candidates for Council Chair.  The decision was deferred until 16 January 2008.</p>         </body>     </text> </TEI> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e3872e6200384da3087410f558889c61", 
+    "source_url": "http://www.tei-c.org/Board/bm24.xml?style=raw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Kubilius, Jonas</a1>   <a2>Wagemans, Johan</a2>   <a2>Op de Beeck, Hans P.</a2>   <t1>Emergence of perceptual Gestalts in the human visual cortex: The case of the configural superiority effect</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Many Gestalt phenomena have been described in terms of perception of a whole being not equal to the mere sum of its parts. It is unclear how these phenomena emerge in the brain. We used functional magnetic resonance imaging (fMRI) to study the neural basis of the behavioral configural superiority effect, where a visual search task for the odd element in a display of four line segments (parts) is facilitated by adding an irrelevant corner to each of the line segments (whole shapes). To assess part-whole encoding in early and higher visual areas, we compared multi-voxel pattern analysis performance on detection of the odd element. Our analysis revealed a neural configural superiority effect in shape-selective regions but not in low-level retinotopic areas, where decoding of parts was more pronounced. Moreover, training pattern classifiers to the whole shape and attempting to decode parts failed in the most anterior region of these shape-selective regions, suggesting a complete absence of part information in the pattern of response. These results show how at least some Gestalt phenomena in vision emerge only at the higher stages of the visual information processing and suggest that feedforward processing might be sufficient to produce them.&lt;/p&gt;</ab>   <la/>   <k1/>   <pb/>   <pp/>   <yr>2011-08-29</yr>   <ed/>   <ul>https://zenodo.org/record/15100/files/kubilius_ecvp2011_small_upd.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3fad539ecc196f4d4c3c2b50fea7a668", 
+    "source_url": "https://zenodo.org/record/15100/export/xw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20113037</identifier><identifier type=\"pwpk\">99249</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2011-3037</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Enhancement of USGS scientific investigations in Texas by using geophysical techniques, 2005-10</title></titleInfo><originInfo><dateOther>Mon, 9 May 2011 00:00 -0500</dateOther><dateIssued>2011</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Stanton, Gregory P.; Payne, Jason D.; Teeple, Andrew P.; Thomas, Jonathan V.</namePart><role>Author</role></name><abstract>Geophysical techniques are an increasingly important tool for scientific investigations, environmental planning, and resource management. During 2005-10 the U.S. Geological Survey Texas Water Science Center greatly expanded its capabilities of using surface and borehole geophysical techniques to gain insights into how groundwater systems work and the occurrence and distribution of certain contaminants. Geophysical techniques provide a relatively quick and inexpensive means to characterize the subsurface hydrology and lithology.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2011_3037.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2011/3037/</url></location><note type=\"citation/reference\">Enhancement of USGS scientific investigations in Texas by using geophysical techniques, 2005-10; 2011; FS; 2011-3037; Fact Sheet; Stanton, Gregory P.; Payne, Jason D.; Teeple, Andrew P.; Thomas, Jonathan V.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1863b12a3357348c62b93887875d0cee", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20113037"
+}

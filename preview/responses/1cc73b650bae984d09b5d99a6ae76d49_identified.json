@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xframes-20020806'> <front> <title>XFrames</title>  <author initials='S' surname='Pemberton' fullname='Steven Pemberton'>     <organization /> </author>  <date month='August' day='6' year='2002' /> </front>  <seriesInfo name='W3C WD' value='WD-xframes-20020806' /> <format type='HTML' target='http://www.w3.org/TR/2002/WD-xframes-20020806' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1cc73b650bae984d09b5d99a6ae76d49", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xframes-20020806.xml"
+}

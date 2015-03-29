@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../ilm.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f8f52ed8ce908aae6953904add823b5b", 
+    "source_url": "http://www.erh.noaa.gov/er/hq/ersd/ilm_files/filelist.xml"
+}

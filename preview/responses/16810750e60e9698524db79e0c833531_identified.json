@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><pam:message xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:pam = \"http://prismstandard.org/namespaces/pam/2.0/\" xmlns:pim = \"http://prismstandard.org/namespaces/pim/2.0/\" xmlns:prl = \"http://prismstandard.org/namespaces/prl/2.0/\" xmlns:prism = \"http://prismstandard.org/namespaces/basic/2.0/\">   <pam:article xml:lang=\"en-US\">     <head>     <dc:indentifier>       12807    </dc:indentifier>     <pam:status>U</pam:status>     <dc:creator>       Pew Research Center&#039;s Internet &#38; American Life Project    </dc:creator>             <dc:contributor>Michael Suh</dc:contributor>       <prism:originPlatform prism:platform=\"web\" />     <dc:title>       Trends in Views About Climate Change    </dc:title>     <dc:publisher>Pew Research Center</dc:publisher>     <prism:publicationDate>2015-01-28 20:09:25 +0000</prism:publicationDate>     <prism:url>       http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/pi_2015-01-29_science-and-society-03-15/    </prism:url>             <prism:copyright>Copyright       2015      Pew Research Center</prism:copyright>     </head>     <body>     <![CDATA[ ]]>     </body>   </pam:article>   </pam:message>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "16810750e60e9698524db79e0c833531", 
+    "source_url": "http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/pi_2015-01-29_science-and-society-03-15/feed/prism/"
+}

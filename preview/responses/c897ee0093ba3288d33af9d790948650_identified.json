@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Greenlights</ShortName>   <Description>Greenlights</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.greenlights.org/templates/greenlights/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.greenlights.org/component/search/?format=opensearch\"/>   <Url type=\"text/html\" template=\"http://www.greenlights.org/index.php?option=com_search&amp;searchword={searchTerms}&amp;Itemid=125\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c897ee0093ba3288d33af9d790948650", 
+    "source_url": "http://www.greenlights.org/component/search/?format=opensearch"
+}

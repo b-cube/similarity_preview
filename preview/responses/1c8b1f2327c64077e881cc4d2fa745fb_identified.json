@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <event_data eventid=\"60070727\" source=\"us\" network=\"nm\" region=\"cus\" process_timestamp=\"2015-03-03 18:26:07\" ciim_version=\"35\" code_version=\"1.3\" event_version=\"15\">   <event magnitude=\"3.1\" latitude=\"36.536\" longitude=\"-89.6391667\" depth=\"13.44\" event_timestamp=\"2015-02-28 23:08:44\" localtime=\"Feb 28 2015 05:08:44 PM local\" locationtext=\"SOUTHEASTERN MISSOURI\" />   <cdi_summary nresponses=\"41\" max_intensity=\"3.4\" citydb=\"city_2009\" />   <products>     <category name=\"Maps\">       <product name=\"City map\">         <description><![CDATA[Map of responses by city or ZIP code]]></description>         <format type=\"image/jpeg\" file=\"nm60070727_ciim.jpg\" />         <format type=\"application/pdf\" file=\"nm60070727_ciim.pdf\" />         <format type=\"application/postscript\" file=\"nm60070727_ciim.ps\" />         <format type=\"text/html\" file=\"nm60070727_ciim_imap.html\" />       </product>     </category>     <category name=\"Plots\">       <product name=\"Intensity vs. Distance\">         <description><![CDATA[Plot of Attenuation (fall-off) with distance for each intensity versus its distance from the epicenter]]></description>         <format type=\"image/jpeg\" file=\"nm60070727_plot_atten.jpg\" />         <format type=\"application/postscript\" file=\"nm60070727_plot_atten.ps\" />       </product>       <product name=\"Responses vs. Time\">         <description><![CDATA[Plot of total number of responses since the event]]></description>         <format type=\"image/jpeg\" file=\"nm60070727_plot_numresp.jpg\" />         <format type=\"application/postscript\" file=\"nm60070727_plot_numresp.ps\" />       </product>     </category>     <category name=\"Data\">       <product name=\"Product List\">         <description><![CDATA[List of available DYFI maps and data for this event]]></description>         <format type=\"text/xml\" file=\"event_data.xml\" />       </product>       <product name=\"Intensity Summary\">         <description><![CDATA[Table of intensities aggregated by city or ZIP code]]></description>         <format type=\"text/plain\" file=\"cdi_zip.txt\" />         <format type=\"text/xml\" file=\"cdi_zip.xml\" />       </product>     </category>   </products> </event_data> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1c8b1f2327c64077e881cc4d2fa745fb", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/nm/60070727/us/event_data.xml"
+}

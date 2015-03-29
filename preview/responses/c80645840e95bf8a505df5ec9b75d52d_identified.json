@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Khan, Amin M</a1>   <a2>Buyuksahin, Umit C</a2>   <a2>Freitag, Felix</a2>   <t1>Distributed Architecture for Cloud System tailored for Wireless Community Networks</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;In community networks, individuals and local organizations from a geographic area team up to create and run a community-owned IP network to satisfy the community&amp;#39;s demand for ICT, such as facilitating Internet access and providing services of local interest. Most current community networks use wireless links for the node interconnection, applying off-the-shelf wireless equipment. While IP connectivity over the shared network infrastructure is successfully achieved, the deployment of applications in community networks is surprisingly low. To address the solution of this problem, we propose in this paper an architecture for building a cloud system that will provide Infrastructure-as-a-Service (Iaas) using resources from the community network. Our focus is also to incentivize the contribution of computing and storage as cloud resources to community networks, in order to stimulate the deployment of services and applications. Our final goal is the vision that in the long term, the users of community networks will not need to consume applications from the Internet, but find them within the wireless community network.&lt;/p&gt;</ab>   <la/>   <k1>wireless mesh networks;                 community networks;                 cloud computing;                 incentive mechanisms;                 </k1>   <pb/>   <pp/>   <yr>2013-05-22</yr>   <ed/>   <ul>https://zenodo.org/record/13483/files/Khan2013DistributedArchitecture.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c80645840e95bf8a505df5ec9b75d52d", 
+    "source_url": "https://zenodo.org/record/13483/export/xw"
+}

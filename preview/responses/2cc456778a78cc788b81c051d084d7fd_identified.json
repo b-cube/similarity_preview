@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0099\">   <front>     <title>IQ Query Action Protocol</title>     <author initials=\"I.\" surname=\"Shigeoka\" fullname=\"Iain Shigeoka\">       <organization/>       <address>         <email>iain@jivesoftware.com</email>       </address>     </author>     <date day=\"25\" month=\"June\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0099\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0099.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2cc456778a78cc788b81c051d084d7fd", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0099.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-csv2rdf-20150108'            target='http://www.w3.org/TR/2015/WD-csv2rdf-20150108'> <front> <title>Generating RDF from Tabular Data on the Web</title>  <author initials='J.' surname='Tandy' fullname='Jeremy Tandy'>     <organization /> </author>  <author initials='I.' surname='Herman' fullname='Ivan Herman'>     <organization /> </author>  <date month='January' day='8' year='2015' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-csv2rdf-20150108' /> <format type='HTML' target='http://www.w3.org/TR/2015/WD-csv2rdf-20150108' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0c07bdf4890b0b3d199594c623c76f3d", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-csv2rdf-20150108.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.03.42'> <front> <title>SMS Compression</title> <author><organization>3GPP</organization></author> <date day='17' month='October' year='1997' /> </front>  <seriesInfo name='3GPP TS' value='03.42 5.2.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0342.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a0822696af43a77978af22a6d1e5f50c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.03.42.xml"
+}

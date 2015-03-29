@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Pellizzon, Antonio Cassio Assis</author>           <author>Fogaroli, Ricardo Cesar</author>         </authors>       </contributors>       <titles>         <title>Outcomes of Patients with Unfavorable Prostate Cancer Treated with High-Dose Rate Brachytherapy and External Beam Radiotherapy</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.8062</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>Prostate cancer;</keyword>         <keyword>radiotherapy;</keyword>         <keyword>brachytherapy.</keyword>       </keywords>       <dates>         <year>2013</year>         <pub-dates>           <date>2013-08-28</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Aims: Literature is calling the attention to several risks for developing prostate cancer (Pca), and race is one of them. We performed an analysis of data of the charts of all unfavorable PCa (uPCa) treated with the combination of high-dose-rate brachytherapy (HDR) and external beam radiotherapy (EBRT). Study Design: Retrospective study. Place and Duration of Study: Department of Radiation Oncology (AC Camargo Vancer Center), S&amp;atilde;o Paulo, Brazil, between 1997 and 2010. Methodology: The data of all uPCa treated between 1997 and 2010 were evaluated. Ethnicity definition was based on 3 categorizations: Black, White and Asiatic. We included 229 patients (age range 47-83 years). The median follow-up was 70.3 months (range, 36 &amp;ndash;155 months). There were 7.4% (17) Asiatic, 79.0% (181) Whiten and 13.6% (31) Black patients. Results: EBRT and HDR doses ranged from 40 to 54 Gy and 16 to 30 Gy given in 4 fractions, respectively. Actuarial 5- and 10-year overall and disease free survical (DFS) rates were 87.6%, 61.3%, 90.9% and 54.2%, respectively. On univariate analysis prognostic factors related to improved DFS were White/Asiatic race (p&amp;lt;0.001), initial clinical stage p=0.004, HDR&amp;gt;20Gy (p&amp;lt;0.001) and Gleason-Score&amp;lt;7 (p&amp;lt;0.001). On multivariate analysis race (p=0.037), late clinical satge (p=0.038) and HDR&amp;lt;20Gy (p&amp;lt;0.001) were associated with biochemical failure. Conclusion: An association with aggressive PCa was observed in Black when compared to White/Asiatic patients. Already known predictive factors of biochemical failure were confirmed in our analysis. Improved DFS was related to HDR dose escalation. Further studies are still necessary to provide more information about clinical and genetic predictive factors of aggressiveness that can be used to guide a personalized treatment.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1d2bed18e54f2ef0e761eafab04adc57", 
+    "source_url": "https://zenodo.org/record/8062/export/xe"
+}

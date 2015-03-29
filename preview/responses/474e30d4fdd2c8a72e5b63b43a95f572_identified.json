@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_BiodiversityConservation/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_CleanAir/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_CleanPlentifulWater/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_ClimateStabilization/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_FoodFuelMaterials/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_NaturalHazardMitigation/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_RecreationCultureAesthetics/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "474e30d4fdd2c8a72e5b63b43a95f572", 
+    "source_url": "http://enviroatlas.epa.gov/arcgis/rest/services/National?f=geositemap"
+}

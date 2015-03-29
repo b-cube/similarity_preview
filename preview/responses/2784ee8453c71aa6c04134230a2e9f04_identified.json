@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Utilities/PrintingTools/GPServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2784ee8453c71aa6c04134230a2e9f04", 
+    "source_url": "http://www.ncddc.noaa.gov/arcgis/rest/services/Utilities?f=sitemap"
+}

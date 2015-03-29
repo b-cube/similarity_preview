@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../geologic_prov_qk_ref.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "213ce26e2fcd540eb6cb06c527dd2bec", 
+    "source_url": "http://webgis.wr.usgs.gov/globalgis/metadata_qr/geologic_prov_qk_ref_files/filelist.xml"
+}

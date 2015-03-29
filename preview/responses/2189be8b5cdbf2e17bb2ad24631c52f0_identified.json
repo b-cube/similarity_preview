@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\">   <foaf:PersonalProfileDocument rdf:about=\"\">     <rdfs:label>Advogato FOAF profile for Alvaro Herrera</rdfs:label>     <foaf:maker rdf:resource=\"#me\"/>     <foaf:primaryTopic rdf:resource=\"#me\"/>   </foaf:PersonalProfileDocument>   <foaf:Group rdf:about=\"http://www.advogato.org/ns/trust#Master\">     <foaf:member rdf:resource=\"#me\"/>   </foaf:Group>   <foaf:Person rdf:about=\"#me\">     <foaf:name>Alvaro Herrera</foaf:name>     <foaf:nick>alvherre</foaf:nick>     <foaf:mbox_sha1sum>2a942ef2230fe308eae0b86321dc54dec27a00e8</foaf:mbox_sha1sum>     <foaf:homepage rdf:resource=\"http://alvherre.cl\"/>     <foaf:weblog rdf:resource=\"http://www.advogato.org/person/alvherre/diary.html\"/>     <foaf:knows>       <foaf:Person rdf:about=\"http://www.advogato.org/person/alvherre/foaf.rdf#me\">         <foaf:nick>alvherre</foaf:nick>         <rdfs:seeAlso rdf:resource=\"http://www.advogato.org/person/alvherre/foaf.rdf\"/>       </foaf:Person>     </foaf:knows>     <foaf:knows>       <foaf:Person rdf:about=\"http://www.advogato.org/person/nconway/foaf.rdf#me\">         <foaf:nick>nconway</foaf:nick>         <rdfs:seeAlso rdf:resource=\"http://www.advogato.org/person/nconway/foaf.rdf\"/>       </foaf:Person>     </foaf:knows>     <foaf:knows>       <foaf:Person rdf:about=\"http://www.advogato.org/person/gpoo/foaf.rdf#me\">         <foaf:nick>gpoo</foaf:nick>         <rdfs:seeAlso rdf:resource=\"http://www.advogato.org/person/gpoo/foaf.rdf\"/>       </foaf:Person>     </foaf:knows>     <foaf:knows>       <foaf:Person rdf:about=\"http://www.advogato.org/person/olea/foaf.rdf#me\">         <foaf:nick>olea</foaf:nick>         <rdfs:seeAlso rdf:resource=\"http://www.advogato.org/person/olea/foaf.rdf\"/>       </foaf:Person>     </foaf:knows>     <foaf:knows>       <foaf:Person rdf:about=\"http://www.advogato.org/person/mgonzalez/foaf.rdf#me\">         <foaf:nick>mgonzalez</foaf:nick>         <rdfs:seeAlso rdf:resource=\"http://www.advogato.org/person/mgonzalez/foaf.rdf\"/>       </foaf:Person>     </foaf:knows>   </foaf:Person> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2189be8b5cdbf2e17bb2ad24631c52f0", 
+    "source_url": "http://www.advogato.org/person/alvherre/foaf.rdf"
+}

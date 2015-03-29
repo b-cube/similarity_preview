@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>2011 </Local-number>  <Author>Sotomayor, A. O. </Author>  <Title>Local Action Strategies (LAS) for Coral Reef Conservation 2011-2015, Puerto Rico </Title>  <Institution>NOAA CRCP Puerto Rico DRNA (Departamento de Recursos Naturales y Ambientales) Universidad Metropolitana </Institution>  <Publication-Date><caldate>2011 </caldate></Publication-Date>  <Type-Period-Note>Workshop Report </Type-Period-Note>  <URL-Cover>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/other_crcp_publications/LAS_Report_2011_English_Cover_Page_01.jpg </URL-Cover>  <Abstract>\"The results from the 2011 Local Action Strategies Workshop for the following four priority areas in Puerto Rico: Calubra, North East Reserves, Cabo Rojo, and Guanica.\" </Abstract>  <Date-Time-Last-Modified>20120402000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/other_crcp_publications/LAS_Report_2011_English.pdf </URL>  <Region>PR </Region>  <Bounding>  <Eastbc>-65.248715 </Eastbc>  <Westbc>-67.399870 </Westbc>  <Southbc>17.784130 </Southbc>  <Northbc>18.645740 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c09ca8c42f625acdf9ad49b2b0409ea9", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BF746D776-1B57-40D7-9B2F-47ECDD73F3C9%7D"
+}

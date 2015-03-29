@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"                        xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">    <ShortName>WebLearn: Conference of Colleges</ShortName>    <Description>Sakai Search Engine for Site: Conference of Colleges</Description>    <Image height=\"16\" width=\"16\" type=\"image/x-icon\">/access/content/group/test1-conf-coll/hidden/visible/images/confcoll.jpg</Image>    <Query role=\"example\" searchTerms=\"sakai\" />    <Developer>sakaiproject.org Development Team</Developer>    <Attribution></Attribution>    <SyndicationRight>private</SyndicationRight>    <AdultContent>false</AdultContent>    <Language>en-us</Language>    <OutputEncoding>UTF-8</OutputEncoding>    <InputEncoding>UTF-8</InputEncoding>       <Url type=\"text/html\" method=\"GET\"       template=\"https://weblearn.ox.ac.uk/portal/tool/8c2d6a6e-f977-42c4-8423-7728ba28e6f9/index?panel=Main&amp;scope=SITE&amp;search={searchTerms}\" >    </Url>      <Url type=\"application/rss+xml\"      template=\"https://weblearn.ox.ac.uk/portal/tool/8c2d6a6e-f977-42c4-8423-7728ba28e6f9/rss20?panel=Main&amp;search={searchTerms}\" >    </Url> <!--    <Url type=\"application/x-suggestions+json\" template=\"suggestionURL\"/> -->    <moz:SearchForm>https://weblearn.ox.ac.uk/portal/tool/8c2d6a6e-f977-42c4-8423-7728ba28e6f9/index</moz:SearchForm> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en-us", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8108bc3fb09e3af8b6f33e22ce3fa40a", 
+    "source_url": "https://weblearn.ox.ac.uk/portal/tool/8c2d6a6e-f977-42c4-8423-7728ba28e6f9/opensearch"
+}

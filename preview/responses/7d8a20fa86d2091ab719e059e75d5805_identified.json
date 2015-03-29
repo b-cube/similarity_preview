@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.zxd-rtgwg-ordered-metric-adjustment'> <front> <title>Algorithm for Ordered Metric Adjustment</title>  <author initials='X' surname='Zhang' fullname='Xudong Zhang'>     <organization /> </author>  <author initials='G' surname='Yan' fullname='Gang Yan'>     <organization /> </author>  <date month='October' day='18' year='2013' />  <abstract><t>Upon link down event or link up event, each device in network individually schedules route calculation.  Because of different hardware capabilities and internal/external environments, the time to update forwarding entries on these devices are disordered which can cause a transient forwarding loop.  This document introduces a method to prevent forwarding loop by adjusting link metric gradually for several times.</t></abstract>  </front>  <seriesInfo name='Internet-Draft' value='draft-zxd-rtgwg-ordered-metric-adjustment-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-zxd-rtgwg-ordered-metric-adjustment-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7d8a20fa86d2091ab719e059e75d5805", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.zxd-rtgwg-ordered-metric-adjustment.xml"
+}

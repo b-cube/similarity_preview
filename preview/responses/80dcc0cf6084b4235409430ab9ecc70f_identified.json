@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <urlset xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <url>     <loc>http://epamap5.epa.gov/ArcGIS/rest/services/IGD/StateAndCounty/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url> </urlset>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "80dcc0cf6084b4235409430ab9ecc70f", 
+    "source_url": "http://epamap5.epa.gov/ArcGIS/rest/services/IGD?f=geositemap"
+}

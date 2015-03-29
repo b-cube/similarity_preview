@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Recreational Fisheries Statistics</dc:title>    <dcterms:alternative>Recreational Statistics</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dcterms:abstract>The receational fisheries statstics team of the Fisheries Statistics Division of the Office of Science and Technology collect data on recreationally-caught species from marine and estuarine waters.  The programs cover inland and ocean fisheries from shore and boat, including for-hire.  Recreational data are generated through statistics methods to procedures, rather than census.</dcterms:abstract>    <dc:publisher>NMFS Office of Science and Technology</dc:publisher>    <dc:creator>NMFS Office of Science and Technology</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/3482</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/3092</dcterms:isPartOf>    <dcterms:temporal xsi:type=\"dcterms:Period\">                           start=1981;                         </dcterms:temporal> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "092878176bb2e9c257aeefe5635bfa63", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/3482/dublin-core"
+}

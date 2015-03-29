@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0010\">   <front>     <title>Whiteboarding SIG</title>     <author initials=\"N.\" surname=\"Gustavsson\" fullname=\"Niklas Gustavsson\">       <organization/>       <address>         <email>niklas@protocol7.com</email>       </address>     </author>     <date day=\"08\" month=\"May\" year=\"2002\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0010\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0010.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7b07e876dd79bcb3fe07b7f46f496dd5", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0010.xml"
+}

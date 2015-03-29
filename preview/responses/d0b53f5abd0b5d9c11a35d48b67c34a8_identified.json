@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/gilpin-county-commissionerdistricts\" rel=\"alternate\"></link><id>/revision/gilpin-county-commissionerdistricts</id><updated>2015-03-18T21:19:14Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d0b53f5abd0b5d9c11a35d48b67c34a8", 
+    "source_url": "http://data.opencolorado.org/dataset/history/gilpin-county-commissionerdistricts?days=7&format=atom"
+}

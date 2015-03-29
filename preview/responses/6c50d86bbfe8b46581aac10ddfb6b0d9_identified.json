@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Kortmann, Bernd</author>           <author>Lunkenheimer, Kerstin</author>           <author>Forkel, Robert</author>         </authors>       </contributors>       <titles>         <title>eWAVE 2.0</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.11169</doi>       <pages/>       <volume/>       <number>url</number>       <keywords>         <keyword>linguistics</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-08-05</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Kortmann, Bernd &amp;amp; Lunkenheimer, Kerstin (eds.) 2013. The Electronic World Atlas of Varieties of English. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://ewave-atlas.org)&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6c50d86bbfe8b46581aac10ddfb6b0d9", 
+    "source_url": "https://zenodo.org/record/11169/export/xe"
+}

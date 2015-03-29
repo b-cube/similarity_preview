@@ -1,0 +1,15 @@
+{
+    "content": "<foo xmlns:a=\"http://z3\" xmlns:b=\"http://z2\" a:att1=\"val1\" b:att2=\"val2\">   <bar xmlns=\"http://z0\" xmlns:a=\"http://z2\" a:att1=\"val1\" b:att2=\"val2\" xmlns:b=\"http://z3\" /> </foo> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4ef9076565564a964a077d14c5663ac6", 
+    "source_url": "http://www.w3.org/2008/xmlsec/Drafts/c14n-20/test-cases/FPWD-2011-12/files/inNsRedecl.xml"
+}

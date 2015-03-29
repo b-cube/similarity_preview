@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0050'>  <front> <title>Comments on the Meyer Proposal</title> <author initials='E.' surname='Harslen' fullname='E. Harslen'> <organization>RAND Corporation</organization></author> <author initials='J.' surname='Heafner' fullname='J. Heafner'> <organization>RAND Corporation</organization></author> <date year='1970' day='30' month='April' /> <abstract> <t>We find the Meyer proposal (Note #46) to be the most acceptable to dare, for exactly the reasons that he enumerates; viz., simple, suffices for most planned uses of the Network, easy to implement, can be extended.</t></abstract></front>  <seriesInfo name='RFC' value='50' /> <format type='TXT' octets='4070' target='http://www.rfc-editor.org/rfc/rfc50.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8677fbb1987aaf38e4a4a284739ca0cf", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0050.xml"
+}

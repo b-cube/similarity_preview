@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <service xml:base=\"http://live.ineta.org/InetaLiveService.svc/\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:app=\"http://www.w3.org/2007/app\" xmlns=\"http://www.w3.org/2007/app\">   <workspace>     <atom:title>Default</atom:title>     <collection href=\"LivePresentations\">       <atom:title>LivePresentations</atom:title>     </collection>     <collection href=\"LiveVideos\">       <atom:title>LiveVideos</atom:title>     </collection>     <collection href=\"LiveAuthors\">       <atom:title>LiveAuthors</atom:title>     </collection>     <collection href=\"LiveGroups\">       <atom:title>LiveGroups</atom:title>     </collection>     <collection href=\"LiveTags\">       <atom:title>LiveTags</atom:title>     </collection>   </workspace> </service>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "65008c7df977a99b93e78db3c13123b4", 
+    "source_url": "http://live.ineta.org/InetaLiveService.svc/"
+}

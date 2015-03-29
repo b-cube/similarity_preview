@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>Understanding Faculty to Improve Content Recruitment for Institutional Repositories</title> <creator>Nancy Fried Foster</creator> <creator>Susan Gibbons</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">January 2005</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/january2005-foster</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/january05/foster/01foster.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>11</volume> <issue>1</issue> </relation> <rights>Copyright Nancy Fried Foster and Susan Gibbons</rights> </dlib-meta0.1>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "24be420f7b286b4947d550672a1fe300", 
+    "source_url": "http://www.dlib.org/dlib/january05/foster/01foster.meta.xml"
+}

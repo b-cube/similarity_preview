@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-2dcontext-20130806'            target='http://www.w3.org/TR/2013/CR-2dcontext-20130806'> <front> <title>HTML Canvas 2D Context</title>  <author initials='R.' surname='Cabanier' fullname='Rik Cabanier'>     <organization /> </author>  <author initials='E.' surname='Graff' fullname='Eliot Graff'>     <organization /> </author>  <author initials='J.' surname='Munro' fullname='Jay Munro'>     <organization /> </author>  <author initials='T.' surname='Wiltzius' fullname='Tom Wiltzius'>     <organization /> </author>  <author initials='I.' surname='Hickson' fullname='Ian Hickson'>     <organization /> </author>  <date month='August' day='6' year='2013' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-2dcontext-20130806' /> <format type='HTML' target='http://www.w3.org/TR/2013/CR-2dcontext-20130806' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9761997e4fb946f5bdeb138ba2643e5c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-w3c/reference.W3C.CR-2dcontext-20130806.xml"
+}

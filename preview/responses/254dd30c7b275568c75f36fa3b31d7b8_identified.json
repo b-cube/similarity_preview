@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"NIST.500-183.1990\"> <front> <title>Stable Agreements for Open Systems Interconnection Protocols</title> <author> <organization>National Institute of Standards and Technology</organization> </author> <date month=\"December\" year=\"1990\" /> </front>  <seriesInfo name=\"NIST\" value=\"500-183\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "254dd30c7b275568c75f36fa3b31d7b8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.NIST.500-183.1990.xml"
+}

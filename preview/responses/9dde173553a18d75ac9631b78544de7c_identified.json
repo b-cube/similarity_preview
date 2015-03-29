@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.52.402'> <front> <title>Telecommunication management; Performance Management (PM); Performance measurements - GSM</title> <author><organization>3GPP</organization></author> <date day='06' month='April' year='2011' /> </front>  <seriesInfo name='3GPP TS' value='52.402 10.0.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/52402.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9dde173553a18d75ac9631b78544de7c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.52.402.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>History</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/131675\" rel=\"alternate\"/> <subtitle>LLCC - History</subtitle> <id>http://www.repository.cam.ac.uk:80/handle/1810/131675</id> <updated>2015-03-12T22:18:23Z</updated> <dc:date>2015-03-12T22:18:23Z</dc:date> <entry> <title>London Gazette</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/131694\" rel=\"alternate\"/> <author> <name>Ries, Paul</name> </author> <id>http://www.repository.cam.ac.uk:80/handle/1810/131694</id> <updated>2013-07-25T12:26:22Z</updated> <published>2006-04-03T15:48:44Z</published> <summary type=\"text\">London Gazette Ries, Paul French edition of the London Gazette for 1669 UFT-8 encoding </summary> <dc:date>2006-04-03T15:48:44Z</dc:date> </entry> <entry> <title>Gazette d'Amsterdam</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/131693\" rel=\"alternate\"/> <author> <name>Ries, Paul</name> </author> <id>http://www.repository.cam.ac.uk:80/handle/1810/131693</id> <updated>2013-07-25T12:25:35Z</updated> <published>2006-04-03T15:20:48Z</published> <summary type=\"text\">Gazette d'Amsterdam Ries, Paul Gazette d'Amsterdam 1669 UTF-8 encoding </summary> <dc:date>2006-04-03T15:20:48Z</dc:date> </entry> <entry> <title>Gazette d'Amsterdam</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/131692\" rel=\"alternate\"/> <author> <name>Ries, Paul</name> </author> <id>http://www.repository.cam.ac.uk:80/handle/1810/131692</id> <updated>2013-07-25T13:02:17Z</updated> <published>2006-04-03T15:07:48Z</published> <summary type=\"text\">Gazette d'Amsterdam Ries, Paul Gazette d'Amsterdam (french edition) for 1669 </summary> <dc:date>2006-04-03T15:07:48Z</dc:date> </entry> <entry> <title>London Gazette</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/131691\" rel=\"alternate\"/> <author> <name>Ries, Paul</name> </author> <id>http://www.repository.cam.ac.uk:80/handle/1810/131691</id> <updated>2013-07-25T12:04:09Z</updated> <published>2006-04-03T14:34:20Z</published> <summary type=\"text\">London Gazette Ries, Paul London Gazette, 1669. French and English versions </summary> <dc:date>2006-04-03T14:34:20Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e555ebd53f81eb2ffc6a2ccd20b0e86b", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/atom_1.0/1810/131675"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <?xml-stylesheet href=\"mmab.xsl\" type=\"text/xsl\" ?>  <person> <name> Bin Li</name> <title> Scientific Programmer </title> <extension>3671</extension> <email>bin.li@noaa.gov</email> <employer> NCEP/EMC/Marine Modeling and Analysis Branch</employer> <site>College Park, MD</site> <blurb> Ocean modeling with the HYCOM model and ocean wave modeling with the NOAA WAVEWATCH III model. </blurb> </person> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3ea26a7182d40c3ee658c099e263a9ac", 
+    "source_url": "http://polar.ncep.noaa.gov/mmab/people/binli.xml"
+}

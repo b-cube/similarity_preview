@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.6749</dc:identifier><dc:creator>Rishan, TS</dc:creator><dc:title>QUALITY AND ADOPTION TO FAMILY LIFE IN CERVICAL CANCER SURVIVORS AFTER RADIOTHERAPY</dc:title><dc:subject>cc-zero</dc:subject><dc:description>QUALITY AND ADOPTION TO FAMILY LIFE IN CERVICAL CANCER SURVIVORS AFTER RADIOTHERAPY</dc:description><dc:publisher/><dc:date>2013-05-12</dc:date><dc:source>http://zenodo.org/record/6749</dc:source><dc:doi>10.5281/zenodo.6749</dc:doi><dc:identifier>http://zenodo.org/record/6749</dc:identifier><dc:identifier>oai:zenodo.org:6749</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cf6a38a85e780989cadb56fd5a2eee53", 
+    "source_url": "http://zenodo.org/record/6749/export/xd"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi w=\"-124.14165\" e=\"-123.12495\" n=\"39.32505\" utm_span=\"1000\" zone=\"10S\" type=\"geo\" s=\"38.53335\">     <location name=\"UTM:(10S 0441 4308 1000)\">       <cdi>2.2372</cdi>       <nresp>1</nresp>       <dist>4</dist>       <lat>38.9235</lat>       <lon>-123.6748</lon>       <name>UTM:(10S 0441 4308 1000)</name>     </location>     <location name=\"UTM:(10S 0441 4319 1000)\">       <cdi>3.0916</cdi>       <nresp>1</nresp>       <dist>10</dist>       <lat>39.0225</lat>       <lon>-123.6758</lon>       <name>UTM:(10S 0441 4319 1000)</name>     </location>     <location name=\"UTM:(10S 0443 4312 1000)\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>4</dist>       <lat>38.9596</lat>       <lon>-123.6521</lon>       <name>UTM:(10S 0443 4312 1000)</name>     </location>     <location name=\"UTM:(10S 0445 4306 1000)\">       <cdi>2.6912</cdi>       <nresp>1</nresp>       <dist>4</dist>       <lat>38.9057</lat>       <lon>-123.6285</lon>       <name>UTM:(10S 0445 4306 1000)</name>     </location>     <location name=\"UTM:(10S 0530 4231 1000)\">       <cdi>3.0916</cdi>       <nresp>1</nresp>       <dist>115</dist>       <lat>38.2310</lat>       <lon>-122.6515</lon>       <name>UTM:(10S 0530 4231 1000)</name>     </location>     <location name=\"UTM:(10S 0558 4239 1000)\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>133</dist>       <lat>38.3017</lat>       <lon>-122.3310</lon>       <name>UTM:(10S 0558 4239 1000)</name>     </location>     <location name=\"UTM:(10S 0560 4197 1000)\">       <cdi>2.2372</cdi>       <nresp>1</nresp>       <dist>160</dist>       <lat>37.9231</lat>       <lon>-122.3117</lon>       <name>UTM:(10S 0560 4197 1000)</name>     </location>     <location name=\"UTM:(10S 0587 4248 1000)\">       <cdi>2.2372</cdi>       <nresp>1</nresp>       <dist>155</dist>       <lat>38.3804</lat>       <lon>-121.9982</lon>       <name>UTM:(10S 0587 4248 1000)</name>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "80f5fdc634c49b7a28a9f99fa964101d", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/nc/72410860/us/cdi_geo.xml"
+}

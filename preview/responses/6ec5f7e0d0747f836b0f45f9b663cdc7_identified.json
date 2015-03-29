@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!--  Firefox 2.0 and Internet Explorer 7 use  simplistic feed sniffing to override desired  presentation behavior for this feed, and thus we are  obliged to insert this comment, a  bit of a waste of bandwidth, unfortunately. This should ensure  that the following stylesheet processing instruction is honored by  these new browser versions. For some more background you might want  to visit the following bug report:  https://bugzilla.mozilla.org/show_bug.cgi?id=338621  --> <?xml-stylesheet type=\"text/xsl\" href=\"/WebResource.axd?d=OG6ICBS3XdykvyL_wBngEtwfPZ1xqVL3SJbFznhjfEgbO7QCYjHbDfgdgnO_5IYl31FcIeZ2u_qHqs8zCgU_y6DDpKxLyAV4MxNJVxfxbqAA9wnJHfwytgbvEYfRnFp2CKySbJEfaqzaXNpSNK6oTGhGshY1&amp;t=635319500310794128\" media=\"screen\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:media=\"http://search.yahoo.com/mrss/\">   <title>Welcome to CeDEx</title>   <link href=\"http://www.nottingham.ac.uk/CEDEX/index.aspx?schoolHomepageEvents2_StandardList_SyndicationType=2\" />   <generator>Contensis: http://www.contentmanagement.co.uk</generator>   <id>http://www.nottingham.ac.uk/CEDEX/index.aspx?SyndicationType=2</id>   <updated>2015-03-12T19:34:10Z</updated>   <link href=\"http://www.nottingham.ac.uk/CEDEX/index.aspx?SyndicationType=2\" rel=\"self\" type=\"application/atom+xml\" />   <entry>     <title>CeDEx Brown Bag - Valeria Burdea</title>     <link href=\"http://www.nottingham.ac.uk/cedex/events/brownbag/valeria-burdea-12-03-15.aspx\" />     <author>       <name>Suzanne Robey</name>     </author>     <summary>An experimental study of persuasion (A45 Sir Clive Granger)</summary>     <published>2015-03-03T15:22:00Z</published>     <updated>2015-03-03T15:08:00Z</updated>     <id>http://www.nottingham.ac.uk/cedex/events/brownbag/valeria-burdea-12-03-15.aspx</id>   </entry>   <entry>     <title>CeDEx Brown Bag - Ozan Isler</title>     <link href=\"http://www.nottingham.ac.uk/cedex/events/brownbag/ozan-isler-19-03-15.aspx\" />     <author>       <name>Suzanne Robey</name>     </author>     <summary>Is There a \"Neutral\" Frame? Using Framing Designs to Study Task Construal in Experimental Economics (C43 Sir Clive Granger)</summary>     <published>2014-12-10T16:38:00Z</published>     <updated>2015-03-03T15:25:00Z</updated>     <id>http://www.nottingham.ac.uk/cedex/events/brownbag/ozan-isler-19-03-15.aspx</id>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6ec5f7e0d0747f836b0f45f9b663cdc7", 
+    "source_url": "http://www.nottingham.ac.uk/CEDEX/index.aspx?schoolHomepageEvents2_StandardList_SyndicationType=2"
+}

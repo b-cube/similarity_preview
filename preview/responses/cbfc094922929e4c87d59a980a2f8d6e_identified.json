@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>EnvironmentalEducators2011d </Local-number>  <Type-Period-Note>Handout for more information about VINE </Type-Period-Note>  <Author>Virgin Islands Network of Environmental Educators </Author>  <Title>Leave Paradise in Its Place: Handout for more information about VINE </Title>  <Publication-Date><caldate>2011 </caldate></Publication-Date>  <Extent>1 </Extent>  <Institution>Virgin Islands Network of Environmental Educators (VINE); Virgin Islands Resource Conservation and Development Council, Inc. </Institution>  <Publication-Place>St. Croix, VI </Publication-Place>  <Notes>NOAA grant NA09NMF4630115 </Notes>  <grantid>  <id>NA09NMF4630115 </id>  </grantid>  <Abstract>\"The Leave Paradise in Its Place (LPIP) campaign is an integrated public outreach campaign to raise awareness about Virgin Islands regulations and the importance and value of coral reef resources. The main message of the campaign is that residents and visitors should not remove natural artifacts, namely shells, coral, skeletons, etc., from the sea and/or seashores. These artifacts are resources for the habitat. By encouraging appropriate behavior in and around sensitive coastal ecosystems, the LPIP campaign promotes long term stewardship of our reefs and associated habitats. The campaign was used to explain the U.S. Virgin Islands Indigenous Species Act of 1991. This handout was created to advertise and promote the message of the LPIP campaign and provides information about the VINE organization and its purpose.\" </Abstract>  <Date-Time-Last-Modified>20140917000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/grants/Domestic_FMC_CoRIS_Products/NA09NMF4630115_VINE_STX_1-6-1.pdf </URL>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>media </CoRIS-Record-Type>  <Local-subject-index>outreach </Local-subject-index>  <Local-subject-index>Grants </Local-subject-index>  <Local-subject-index>media </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cbfc094922929e4c87d59a980a2f8d6e", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B424F267E-DD05-47F7-9713-98C06FE6C15D%7D"
+}

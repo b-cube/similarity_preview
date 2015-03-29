@@ -1,0 +1,15 @@
+{
+    "content": "<CoverPageProperties xmlns=\"http://schemas.microsoft.com/office/2006/coverPageProps\"><PublishDate>2010-10-24T00:00:00</PublishDate><Abstract/><CompanyAddress/><CompanyPhone/><CompanyFax/><CompanyEmail/></CoverPageProperties>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "535ea7b9a76ddff62ceac2151266f56b", 
+    "source_url": "https://www.ndsu.edu/pubweb/~akhmedov/trevor_files/item0001.xml"
+}

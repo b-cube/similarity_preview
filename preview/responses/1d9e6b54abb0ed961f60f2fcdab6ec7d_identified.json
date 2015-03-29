@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">SEPA 130410, North Uist Fisheries Ltd, Bagh Clann Neill Fin Fish Farm, visual sea bed monitoring</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:061eedf561682d18afdd6293f47de1b8</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Visual monitoring of the sea bed adjacent to the fish farm.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2013-08-06</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1d9e6b54abb0ed961f60f2fcdab6ec7d", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__061eedf561682d18afdd6293f47de1b8.xml/DC"
+}

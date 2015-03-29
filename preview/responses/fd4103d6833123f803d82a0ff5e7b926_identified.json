@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20103060</identifier><identifier type=\"pwpk\">98669</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2010-3060</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Groundwater quality in the North San Francisco Bay groundwater basins, California</title></titleInfo><originInfo><dateOther>Sat, 4 Sep 2010 00:00 -0500</dateOther><dateIssued>2010</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Kulongoski, Justin T.; Belitz, Kenneth</namePart><role>Author</role></name><abstract>Groundwater provides more than 40 percent of California's drinking water. To protect this vital resource, the State of California created the Groundwater Ambient Monitoring and Assessment (GAMA) Program. The Priority Basin Project of the GAMA Program provides a comprehensive assessment of the State's groundwater quality and increases public access to groundwater-quality information. The basins north of San Francisco constitute one of the study units being evaluated. </abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2010_3060.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2010/3060/</url></location><note type=\"citation/reference\">Groundwater quality in the North San Francisco Bay groundwater basins, California; 2010; FS; 2010-3060; Fact Sheet; Kulongoski, Justin T.; Belitz, Kenneth</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fd4103d6833123f803d82a0ff5e7b926", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20103060"
+}

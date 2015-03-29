@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Interpeace.org</ShortName>   <Description>Joomla! - the dynamic portal engine and content management system</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.interpeace.org/templates/interpeacev02/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.interpeace.org/index.php/component/search/?ctrl=archive&amp;task=view&amp;listid=2-job-applicants&amp;mailid=30-jobs-12-february-2013&amp;format=opensearch\"/>   <Url type=\"text/html\" template=\"http://www.interpeace.org/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "842bf8065f9eeaa282a9ed366a023dc6", 
+    "source_url": "http://www.interpeace.org/index.php/component/search/?ctrl=archive&task=view&listid=2-job-applicants&mailid=30-jobs-12-february-2013&format=opensearch"
+}

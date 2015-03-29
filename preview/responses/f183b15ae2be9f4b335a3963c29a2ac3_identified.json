@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/drcog-2010-census-data-occupancy-status-metadata\" rel=\"alternate\"></link><id>/revision/drcog-2010-census-data-occupancy-status-metadata</id><updated>2015-03-18T23:23:45Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f183b15ae2be9f4b335a3963c29a2ac3", 
+    "source_url": "http://data.opencolorado.org/dataset/history/drcog-2010-census-data-occupancy-status-metadata?days=7&format=atom"
+}

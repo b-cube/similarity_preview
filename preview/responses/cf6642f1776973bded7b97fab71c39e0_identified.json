@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>San Mateo County Open Data</ShortName>   <Description>Open Data | San Mateo County</Description>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://data.smcgov.org/assets/A102BE76-7ACA-4160-9FAF-8F17BF69266C</Image>   <Url type=\"text/html\" method=\"get\" template=\"http://data.smcgov.org/browse?q={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cf6642f1776973bded7b97fab71c39e0", 
+    "source_url": "https://data.smcgov.org/opensearch.xml"
+}

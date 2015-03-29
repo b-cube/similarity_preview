@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/drcog-2010-census-data-urban-rural-metadata\" rel=\"alternate\"></link><id>/revision/drcog-2010-census-data-urban-rural-metadata</id><updated>2015-03-18T23:22:37Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "17e8e7d871560fd2f85431cd76d8d47c", 
+    "source_url": "http://data.opencolorado.org/dataset/history/drcog-2010-census-data-urban-rural-metadata?days=7&format=atom"
+}

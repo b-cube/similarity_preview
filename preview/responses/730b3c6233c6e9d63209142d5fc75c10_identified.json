@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <jnlp codebase=\"http://jogamp.org/deployment/archive/rc/v2.3.0/jogl-demos\"       href=\"VertexBufferObject.jnlp\">   <information>     <title>JOGL Vertex Buffer Object Demo</title>     <vendor>JogAmp Community</vendor>     <homepage href=\"http://jogamp.org/jogl-demos/\"/>     <description>VertexBufferObject Demo</description>     <description kind=\"short\">NVidia's vertex_array_range demo ported to Java, JOGL, and ARB_vertex_buffer_object.</description>     <offline-allowed/>   </information>   <update check=\"background\" policy=\"always\"/>      <resources>       <j2se href=\"http://java.sun.com/products/autodl/j2se\" version=\"1.4+\"/>       <jar href=\"jar/jogl-demos.jar\" main=\"true\"/>       <jar href=\"jar/jogl-demos-util.jar\" />       <extension name=\"jogl-all-awt\" href=\"http://jogamp.org/deployment/archive/rc/v2.3.0/jogl-all-awt.jnlp\" />     </resources>    <application-desc main-class=\"demos.vertexBufferObject.VertexBufferObject\">   </application-desc> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "730b3c6233c6e9d63209142d5fc75c10", 
+    "source_url": "http://jogamp.org/deployment/jogamp-current/jogl-demos/VertexBufferObject.jnlp"
+}

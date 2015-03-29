@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "http://repo.continuum.io/pkgs/free/osx-64/", 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "lib/python2.7/site-packages/MarkupSafe-0.23-py2.7-macosx-10.5-x86_64.egg-info", 
+    "lib/python2.7/site-packages/markupsafe/__init__.py", 
+    "lib/python2.7/site-packages/markupsafe/__init__.pyc", 
+    "lib/python2.7/site-packages/markupsafe/_compat.py", 
+    "lib/python2.7/site-packages/markupsafe/_compat.pyc", 
+    "lib/python2.7/site-packages/markupsafe/_constants.py", 
+    "lib/python2.7/site-packages/markupsafe/_constants.pyc", 
+    "lib/python2.7/site-packages/markupsafe/_native.py", 
+    "lib/python2.7/site-packages/markupsafe/_native.pyc", 
+    "lib/python2.7/site-packages/markupsafe/_speedups.c", 
+    "lib/python2.7/site-packages/markupsafe/_speedups.so", 
+    "lib/python2.7/site-packages/markupsafe/tests.py", 
+    "lib/python2.7/site-packages/markupsafe/tests.pyc"
+  ], 
+  "license": "BSD", 
+  "link": {
+    "source": "//anaconda/pkgs/markupsafe-0.23-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "20601139b1162d33c0a3cc58c8e80039", 
+  "name": "markupsafe", 
+  "org_name": "MarkupSafe", 
+  "platform": "osx", 
+  "requires": [], 
+  "size": 22170, 
+  "url": null, 
+  "version": "0.23"
+}

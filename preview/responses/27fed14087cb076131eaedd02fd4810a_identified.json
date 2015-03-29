@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-animal-care-and-control-division-boundaries\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-animal-care-and-control-division-boundaries</id><updated>2015-03-15T16:32:21Z</updated><entry><title>REST API: Update object city-and-county-of-denver-animal-care-and-control-division-boundaries</title><link href=\"/revision/2ef92ba9-0f36-4b1d-aafe-5a770745b654\" rel=\"alternate\"></link><updated>2015-03-15T16:32:21Z</updated><published>2015-03-15T16:32:21Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/2ef92ba9-0f36-4b1d-aafe-5a770745b654</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-animal-care-and-control-division-boundaries</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-animal-care-and-control-division-boundaries</title><link href=\"/revision/4f2c4384-8994-4820-ab43-903a7d2dc987\" rel=\"alternate\"></link><updated>2015-03-15T16:31:47Z</updated><published>2015-03-15T16:31:47Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/4f2c4384-8994-4820-ab43-903a7d2dc987</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-animal-care-and-control-division-boundaries</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-animal-care-and-control-division-boundaries</title><link href=\"/revision/f3c10e41-7c79-4279-9a11-3686aba22588\" rel=\"alternate\"></link><updated>2015-03-08T16:31:55Z</updated><published>2015-03-08T16:31:55Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/f3c10e41-7c79-4279-9a11-3686aba22588</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-animal-care-and-control-division-boundaries</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-animal-care-and-control-division-boundaries</title><link href=\"/revision/6b93fc8f-2253-4e7a-92f6-b5d046124c13\" rel=\"alternate\"></link><updated>2015-03-08T16:31:45Z</updated><published>2015-03-08T16:31:45Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/6b93fc8f-2253-4e7a-92f6-b5d046124c13</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-animal-care-and-control-division-boundaries</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "27fed14087cb076131eaedd02fd4810a", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-animal-care-and-control-division-boundaries?days=14&format=atom"
+}

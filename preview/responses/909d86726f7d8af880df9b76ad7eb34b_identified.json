@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0492'>  <front> <title>Response to RFC 467</title> <author initials='E.' surname='Meyer' fullname='E. Meyer'> <organization /></author> <date year='1973' month='April' /></front>  <seriesInfo name='RFC' value='492' /> <format type='TXT' octets='18791' target='http://www.rfc-editor.org/rfc/rfc492.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "909d86726f7d8af880df9b76ad7eb34b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0492.xml"
+}

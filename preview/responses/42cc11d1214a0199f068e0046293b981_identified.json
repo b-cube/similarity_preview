@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <opml version=\"1.1\"> <head> <title>Scripps Institution of Oceanography, UC San Diego</title> <dateModified>Thu, 12 Mar 2015 19:38:40 +0000</dateModified> </head> <body> <outline text=\"Birch Aquarium\" xmlUrl=\"http://scrippsblogs.ucsd.edu/onboard/feed/\" /> <outline text=\"California Nevada Climate Applications Program\" xmlUrl=\"http://cnaprisa.wordpress.com/feed/\" /> <outline text=\"Coral Reef Ecology\" xmlUrl=\"http://coralreefecology.ucsd.edu/feed/\" /> <outline text=\"Geoscience Society\" xmlUrl=\"http://geosciencesocietysio.wordpress.com/feed/\" /> <outline text=\"Keeling Curve\" xmlUrl=\"https://scripps.ucsd.edu/programs/keelingcurve/feed/\" /> <outline text=\"Network Status\" xmlUrl=\"http://status.ucsd.edu/#rss-feeds\" /> <outline text=\"Scripps Institution of Oceanography Facebook Wall\" xmlUrl=\"https://www.facebook.com/feeds/page.php?format=rss20&amp;id=7076151710\" /> <outline text=\"Scripps Institution of Oceanography: Flickr Group \" xmlUrl=\"http://api.flickr.com/services/feeds/groups_pool.gne?id=395468@N23&amp;lang=en-us&amp;format=rss_200\" /> </body> </opml> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "42cc11d1214a0199f068e0046293b981", 
+    "source_url": "https://scripps.ucsd.edu/aggregator/opml"
+}

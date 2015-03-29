@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>2013u </Local-number>  <Title>St. Thomas East End Reserves: Implementation of management plan early action steps </Title>  <Institution>The Nature Conservancy </Institution>  <Publication-Place>Christiansted, VI </Publication-Place>  <Publication-Date><caldate>2013 </caldate></Publication-Date>  <Extent>7 </Extent>  <Type-Period-Note>Final Report, 7/1/2010 - 12/31/2012 </Type-Period-Note>  <Issue-ID>TNC Reference 1710053824 </Issue-ID>  <Notes>NOAA CRCP grant NA10NMF4410063 </Notes>  <grantid>  <id>NA10NMF4410063 </id>  </grantid>  <Abstract>\"This project, St. Thomas East End Reserves: Implementation of Management Plan Early Action Steps, successfully enabled two years of implementation of the St. Thomas East End Reserves (STEER) management plan; thereby meeting project objectives to increase resources protection, conduct baseline monitoring and assessments, promote effective management and coordination amongst agencies, and establish education and outreach. The hiring and dedicated presence of the on-the-ground STEER Implementation Specialist to coordinate STEER efforts truly raised the visibility and priority of STEER among the community and local and federal agencies, facilitating and bolstering efforts to protect valuable coral reef, mangrove, seagrass and fisheries resources. In coordination with the local coral reef resource managers in the Virgin Islands Department of Planning and Natural Resources (DPNR) Division of Coastal Zone Management (CZM), TNC has supported the implementation of critical management strategies in STEER. Out of this grant, the following significant milestones for site-level MPA management within USVI were reached: Finalization and implementation of the STEER management plan; Coordination of the STEER core team; Consistent stakeholder meetings; Increased monitoring and research within STEER; and Education and outreach efforts resulting in increased visibility of STEER.\" </Abstract>  <Date-Time-Last-Modified>20140919000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/grants/Domestic_FMC_CoRIS_Products/NA10NMF4630063_FinalReport.pdf </URL>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>Grants </Local-subject-index>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2158266923d9505ad5c48515a51b982a", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BF08013AB-0CCF-4CBE-B30F-BDD3C67F207A%7D"
+}

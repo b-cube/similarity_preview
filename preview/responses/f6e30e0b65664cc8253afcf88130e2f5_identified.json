@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.chen-bgp-identifier'> <front> <title>AS-wide Unique BGP Identifier for BGP-4</title>  <author initials='E' surname='Chen' fullname='Ed Chen'>     <organization /> </author>  <author initials='J' surname='Yuan' fullname='Jenny Yuan'>     <organization /> </author>  <date month='January' day='11' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-chen-bgp-identifier-01' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-chen-bgp-identifier-01.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f6e30e0b65664cc8253afcf88130e2f5", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.chen-bgp-identifier.xml"
+}

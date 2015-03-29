@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/6227\"> <title>Technical Outputs</title> <link>http://hdl.handle.net/2160/6227</link> <description>Technical Outputs</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6244\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6243\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6242\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6241\"/> </rdf:Seq> </items> <dc:date>2015-03-19T09:04:43Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/6244\"> <title>How to enable e-theses Harvesting using OAI-PMH with DSpace 1.5 and EPrints3</title> <link>http://hdl.handle.net/2160/6244</link> <description>How to enable e-theses Harvesting using OAI-PMH with DSpace 1.5 and EPrints3 Corfield, Antony </description> <dc:date>2011-03-28T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/6243\"> <title>Browse your Repository - How to add a stylesheet to an OAI-PMH response with DSpace</title> <link>http://hdl.handle.net/2160/6243</link> <description>Browse your Repository - How to add a stylesheet to an OAI-PMH response with DSpace Corfield, Antony </description> <dc:date>2011-03-28T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/6242\"> <title>Custom Google search for Welsh repositories</title> <link>http://hdl.handle.net/2160/6242</link> <description>Custom Google search for Welsh repositories Corfield, Antony </description> <dc:date>2011-03-28T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/6241\"> <title>Utility to check and view DSpace SIPs prior to import</title> <link>http://hdl.handle.net/2160/6241</link> <description>Utility to check and view DSpace SIPs prior to import Corfield, Antony </description> <dc:date>2011-03-28T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "51000a27810a25b5c4dbd9315d3069e4", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/6227"
+}

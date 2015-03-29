@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ANSI.X3-124.1985\"> <front> <title>Draft Proposal: Graphical Kernel System</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1985\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X3.124\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3f3e6098adf40b6feea2c76f1c5aa57f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ANSI.X3-124.1985.xml"
+}

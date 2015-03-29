@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>BIN3 is a novel 8p21 tumor suppressor gene that regulates the attachment checkpoint in epithelial cells</dc:title><dc:creator>Marshall, Netonia</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Genetics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D88P5XN0</dc:identifier><dc:description>An important characteristic of multicellular organisms is the control that the tissue architecture exerts on the fate of individual cells. Epithelial cells sense their location through interactions with the extracellular matrix (ECM) and remove themselves by programmed cell death (anoikis) when those interactions are disturbed. Importantly, anoikis is a line of defense that has to be circumvented by cancerous epithelial cells to be able to leave their home environment and establish long distance metastases. Here, by combining a genome-wide RNAi screen and a novel algorithm to study copy number alterations (ISAR-DEL), we identify the BridgingIntegrator3 (BIN3) as a novel 8p21 tumor suppressor gene whose inactivation promotes escape from anoikis in epithelial cancers. Mechanistically, we link the tumor suppression function of BIN3 to its ability to relocate to the cell membrane after cell detachment and to induce a proapoptotic cascade. This death signaling is mediated by CDC42 activation of the P38\\ufffd\\ufffd stress pathway and the consequent accumulation of the apoptotic facilitator BimEL. Our results identify BIN3 as a novel epithelial tumor suppressor gene, provide novel insights on the mechanisms of attachment tumor suppressor checkpoint and highlight the importance of anoikis escape in driving cell transformation and metastasis in human cancer.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "646801c2f58f9476f1b6c6964986e78c", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A175439.dc_xml"
+}

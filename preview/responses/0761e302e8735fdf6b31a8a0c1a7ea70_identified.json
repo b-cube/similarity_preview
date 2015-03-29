@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF     xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"     xmlns:vcard=\"http://www.w3.org/2001/vcard-rdf/3.0#\"     xmlns:db=\"http://linked.seabedsamples.org/resource/\"     xmlns:meta=\"http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/metadata#\"     xmlns:gn=\"http://www.geonames.org/ontology#\"     xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"     xmlns:map=\"http://linked.seabedsamples.org/resource/#\"     xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"     xmlns:d2r=\"http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/config.rdf#\"     xmlns:owl=\"http://www.w3.org/2002/07/owl#\"     xmlns:dcterms=\"http://purl.org/dc/terms/\"     xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\"     xmlns:vocab=\"http://linked.seabedsamples.org/resource/vocab/\"     xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"     xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\">   <rdf:Description rdf:about=\"http://linked.seabedsamples.org/all/storage_methods\">     <rdfs:label>List of all instances: storage_methods</rdfs:label>     <rdfs:seeAlso>       <rdf:Description rdf:about=\"http://linked.seabedsamples.org/all\">         <rdfs:label>D2R Server contents</rdfs:label>       </rdf:Description>     </rdfs:seeAlso>   </rdf:Description>   <vocab:storage_methods rdf:about=\"http://linked.seabedsamples.org/resource/imlgs/storage/refrigerated\">     <rdfs:label>refrigerated</rdfs:label>   </vocab:storage_methods>   <vocab:storage_methods rdf:about=\"http://linked.seabedsamples.org/resource/imlgs/storage/room_temperature%2C_moisture_sealed\">     <rdfs:label>room temperature, moisture sealed</rdfs:label>   </vocab:storage_methods>   <vocab:storage_methods rdf:about=\"http://linked.seabedsamples.org/resource/imlgs/storage/room_temperature%2C_dry\">     <rdfs:label>room temperature, dry</rdfs:label>   </vocab:storage_methods>   <vocab:storage_methods rdf:about=\"http://linked.seabedsamples.org/resource/imlgs/storage/frozen\">     <rdfs:label>frozen</rdfs:label>   </vocab:storage_methods> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0761e302e8735fdf6b31a8a0c1a7ea70", 
+    "source_url": "http://linked.seabedsamples.org/all/storage_methods?output=rdfxml"
+}

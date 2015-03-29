@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2014 NERC Marine Renewable Energy Knowledge Exchange Project. Ecosystem services mapping in the Severn estuary and inner Bristol Channel</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:ab95e1ed604325580f924f9ed97886ba</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">The study aimed to assess and map the delivery of key ecosystem services (ES) within the greater Severn estuary and Bristol Channel. The project aimed to provide a tool for stakeholders, regulators and the marine renewable industry to support decision making in the region. Identification of hotspots for key ES was intended to provide developers with an insight into locations with a high consenting risk.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2014-12-01</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "059bc54c3dfee258362241c01de9ab2a", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__ab95e1ed604325580f924f9ed97886ba.xml/DC"
+}

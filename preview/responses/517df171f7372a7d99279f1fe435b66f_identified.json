@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>\"Telling a Story\": Louis Armstrong and Coherence in Early Jazz</dc:title><dc:creator>Harker, Brian</dc:creator><dc:date>1997</dc:date><dc:type>text</dc:type><dc:subject>Music</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8TM78W9</dc:identifier><dc:description>Brian Harker discusses the value and rarity of Louis Armstrong's composition in Jazz in a time of improvisation.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "517df171f7372a7d99279f1fe435b66f", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A181001.dc_xml"
+}

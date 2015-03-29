@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc = \"http://purl.org/dc/elements/1.1/\">    <rdf:Description about=\"http://dublincore.org/usage/documents/approval/\">     <dc:title>Procedure for approval of proposals by DCMI</dc:title>     <dc:description>This document lists the step-by-step process for the approval of five types of proposals:  1. Proposed changes to DCMI metadata terms  2. Proposals for DCMI Recommendations  3. Proposals for DCMI Recommended Resources  4. Proposals for Application Profiles as DCMI Recommended Resources  5. Proposals for DCMI Process Documents </dc:description>     <dc:format>text/html</dc:format>      <dc:language>en</dc:language>      <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>    </rdf:Description>  </rdf:RDF>  ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c348f9d374e884b283a5b550dcce82bb", 
+    "source_url": "http://dublincore.org/documents/approval/index.shtml.rdf"
+}

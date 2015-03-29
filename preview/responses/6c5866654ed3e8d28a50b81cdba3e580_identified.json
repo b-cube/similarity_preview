@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.REC-DOM-Level-2-Views-20001113'            target='http://www.w3.org/TR/2000/REC-DOM-Level-2-Views-20001113'> <front> <title>Document Object Model (DOM) Level 2 Views Specification</title>  <author initials='A.' surname='Hors' fullname='Arnaud Le Hors'>     <organization /> </author>  <author initials='L.' surname='Cable' fullname='Laurence Cable'>     <organization /> </author>  <date month='November' day='13' year='2000' /> </front>  <seriesInfo name='World Wide Web Consortium Recommendation' value='REC-DOM-Level-2-Views-20001113' /> <format type='HTML' target='http://www.w3.org/TR/2000/REC-DOM-Level-2-Views-20001113' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6c5866654ed3e8d28a50b81cdba3e580", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.REC-DOM-Level-2-Views-20001113.xml"
+}

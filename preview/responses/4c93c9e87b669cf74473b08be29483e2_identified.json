@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <csw:GetRecordByIdResponse xmlns:csw=\"http://www.opengis.net/cat/csw/2.0.2\"/>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "OGC:CSW", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4c93c9e87b669cf74473b08be29483e2", 
+    "source_url": "https://gateway.ceh.ac.uk/soapServices/CSWStartup?Service=CSW&Request=GetRecordById&Version=2.0.2&outputSchema=http:/www.isotc211.org/2005/gmd&elementSetname=full&id=0c5c5e20-246e-11e4-8c21-0800200c9a66"
+}

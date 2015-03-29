@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../index.html\"/>  <o:File HRef=\"image001.wmz\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"oledata.mso\"/>  <o:File HRef=\"image003.png\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"image005.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3601086e1862212270c6056777f68c19", 
+    "source_url": "http://www2.mmm.ucar.edu/wrf/WG2/software_2.0/index_files/filelist.xml"
+}

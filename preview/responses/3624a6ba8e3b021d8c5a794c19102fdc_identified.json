@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.03.34'> <front> <title>High Speed Circuit Switched Data (HSCSD); Stage 2</title> <author><organization>3GPP</organization></author> <date day='12' month='February' year='1999' /> </front>  <seriesInfo name='3GPP TS' value='03.34 5.2.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0334.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3624a6ba8e3b021d8c5a794c19102fdc", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.03.34.xml"
+}

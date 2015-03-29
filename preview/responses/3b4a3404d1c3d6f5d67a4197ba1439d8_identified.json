@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/cmgp_FldActivity/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/coastal_vulnerability_index/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/cvi_WFS/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/gloria/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/InlandWaters/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/SedMobility/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/slc_Bayes_WFS/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/slc_HistoricShoreline/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/slc_LongTerm/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/slc_OffshoreBaseline/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/slc_ShortTerm/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/UnderSeaFeatures/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/US_CZMPcounties2009/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/usSEABED/MapServer</loc> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/whsc_sed_archive/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3b4a3404d1c3d6f5d67a4197ba1439d8", 
+    "source_url": "http://coastalmap.marine.usgs.gov/cmgp/rest/services/National?f=sitemap"
+}

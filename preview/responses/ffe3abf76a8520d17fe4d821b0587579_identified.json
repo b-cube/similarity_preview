@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.goland-sso-human\"> <front> <title>Zero Install Single Sign On Solution for a HTTP Browser</title>  <author initials=\"G\" surname=\"Clemm\" fullname=\"G Clemm\">     <organization /> </author>  <date month=\"November\" day=\"21\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-goland-sso-human-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ffe3abf76a8520d17fe4d821b0587579", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.goland-sso-human.xml"
+}

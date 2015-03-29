@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>2015</title> <link href=\"http://hdl.handle.net/2160/26923\" rel=\"alternate\"/> <subtitle>Cylchlythyr y Gadwrfa Mynediad Agored / OA Repository Newsletter</subtitle> <id>http://hdl.handle.net/2160/26923</id> <updated>2015-03-19T08:58:12Z</updated> <dc:date>2015-03-19T08:58:12Z</dc:date> <entry> <title>OA Repository Newsletter \\ufffd\\ufffd February 2015</title> <link href=\"http://hdl.handle.net/2160/27253\" rel=\"alternate\"/> <author> <name>Institutional Repository &amp; Metadata Team</name> </author> <id>http://hdl.handle.net/2160/27253</id> <updated>2015-03-09T09:56:41Z</updated> <published>2015-02-01T00:00:00Z</published> <summary type=\"text\">OA Repository Newsletter \\ufffd\\ufffd February 2015 Institutional Repository &amp; Metadata Team </summary> <dc:date>2015-02-01T00:00:00Z</dc:date> </entry> <entry> <title>Cylchlythyr y Gadwrfa Mynediad Agored \\ufffd\\ufffd  Chwefror 2015</title> <link href=\"http://hdl.handle.net/2160/27252\" rel=\"alternate\"/> <author> <name>Institutional Repository &amp; Metadata Team</name> </author> <id>http://hdl.handle.net/2160/27252</id> <updated>2015-03-09T09:53:31Z</updated> <published>2015-02-01T00:00:00Z</published> <summary type=\"text\">Cylchlythyr y Gadwrfa Mynediad Agored \\ufffd\\ufffd  Chwefror 2015 Institutional Repository &amp; Metadata Team </summary> <dc:date>2015-02-01T00:00:00Z</dc:date> </entry> <entry> <title>Cylchlythyr y Gadwrfa Mynediad Agored \\ufffd\\ufffd Ionawr 2015</title> <link href=\"http://hdl.handle.net/2160/26925\" rel=\"alternate\"/> <author> <name>Institutional Repository &amp; Metadata Team</name> </author> <id>http://hdl.handle.net/2160/26925</id> <updated>2015-03-09T09:49:32Z</updated> <published>2015-01-01T00:00:00Z</published> <summary type=\"text\">Cylchlythyr y Gadwrfa Mynediad Agored \\ufffd\\ufffd Ionawr 2015 Institutional Repository &amp; Metadata Team </summary> <dc:date>2015-01-01T00:00:00Z</dc:date> </entry> <entry> <title>OA Repository Newsletter \\ufffd\\ufffd January 2015</title> <link href=\"http://hdl.handle.net/2160/26924\" rel=\"alternate\"/> <author> <name>Institutional Repository &amp; Metadata Team</name> </author> <id>http://hdl.handle.net/2160/26924</id> <updated>2015-02-09T09:44:28Z</updated> <published>2015-01-01T00:00:00Z</published> <summary type=\"text\">OA Repository Newsletter \\ufffd\\ufffd January 2015 Institutional Repository &amp; Metadata Team </summary> <dc:date>2015-01-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8f5007635514102b64a72072a47014c0", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/26923"
+}

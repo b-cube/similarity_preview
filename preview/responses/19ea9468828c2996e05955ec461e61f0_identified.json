@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.NOTE-jsml-20000605\"> <front> <title>JSpeech Markup Language</title>  <author initials=\"A\" surname=\"Hunt\" fullname=\"Andrew Hunt\">     <organization /> </author>  <date month=\"June\" day=\"5\" year=\"2000\" /> </front>  <seriesInfo name=\"W3C NOTE\" value=\"NOTE-jsml-20000605\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/2000/NOTE-jsml-20000605\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "19ea9468828c2996e05955ec461e61f0", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-jsml-20000605.xml"
+}

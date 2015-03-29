@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../handseis.htm\"/>  <o:File HRef=\"image001.png\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"image005.png\"/>  <o:File HRef=\"image006.jpg\"/>  <o:File HRef=\"image007.png\"/>  <o:File HRef=\"image008.jpg\"/>  <o:File HRef=\"image009.png\"/>  <o:File HRef=\"image010.jpg\"/>  <o:File HRef=\"image011.png\"/>  <o:File HRef=\"image012.jpg\"/>  <o:File HRef=\"image013.png\"/>  <o:File HRef=\"image014.jpg\"/>  <o:File HRef=\"image015.wmz\"/>  <o:File HRef=\"image016.gif\"/>  <o:File HRef=\"image017.wmz\"/>  <o:File HRef=\"image018.gif\"/>  <o:File HRef=\"image019.png\"/>  <o:File HRef=\"image020.jpg\"/>  <o:File HRef=\"image021.png\"/>  <o:File HRef=\"image022.jpg\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c149af8dc2dae61fc41ccbba5876974d", 
+    "source_url": "http://web.ics.purdue.edu/~braile/edumod/handseis/handseis_files/filelist.xml"
+}

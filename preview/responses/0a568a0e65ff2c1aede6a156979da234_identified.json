@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns:atom=\"http://www.w3.org/2005/Atom\"   xmlns=\"http://purl.org/rss/1.0/\" >  <channel rdf:about=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=HASSET-THESAURUS&amp;v=1.0\">  <dc:identifier>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=HASSET-THESAURUS&amp;v=1.0</dc:identifier>  <title>HASSET-THESAURUS List</title>  <link>https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=HASSET-THESAURUS</link>  <description>HASSET-THESAURUS List Archives</description>  <dc:date>2015-02-11T13:32:21Z</dc:date>  <image rdf:resource=\"http://www.lsoft.com/images/listserv_small.gif\"/>    <items>   <rdf:Seq>     <rdf:li resource=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=HASSET-THESAURUS;5d72864b.1502\"/>     </rdf:Seq>  </items>   </channel>  <image rdf:about=\"http://www.lsoft.com/images/listserv_small.gif\">     <title>Powered by L-Soft's LISTSERV mailing list manager</title>     <link>http://www.lsoft.com/products/listserv-powered.asp</link>     <url>http://www.lsoft.com/images/listserv_small.gif</url> </image>   <item rdf:about=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=HASSET-THESAURUS;5d72864b.1502\">   <title>launch of new thesaurus management system </title>   <link>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=HASSET-THESAURUS;5d72864b.1502</link>   <description> Dear all,&lt;br&gt;We are pleased to announce the launch of our new thesaurus management system. Read more about it on the CESSDA-ELSST project blog:&lt;br&gt;https://elsst.wordpress.com/2015/02/05/launch-of-new-thesaurus-management-system/&lt;br&gt;&lt;br&gt;Best wishes&lt;br&gt;Lorna   </description>   <dc:date>2015-02-11T13:32:16+00:00</dc:date>   <dc:creator>Balkan, Lorna</dc:creator>   <dc:identifier>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=HASSET-THESAURUS;5d72864b.1502</dc:identifier> </item>   </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0a568a0e65ff2c1aede6a156979da234", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=HASSET-THESAURUS&v=1.0"
+}

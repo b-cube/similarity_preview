@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../index.html\"/>  <o:File HRef=\"image522.gif\"/>  <o:File HRef=\"image453.png\"/>  <o:File HRef=\"image454.png\"/>  <o:File HRef=\"image456.png\"/>  <o:File HRef=\"image457.png\"/>  <o:File HRef=\"image465.png\"/>  <o:File HRef=\"image473.png\"/>  <o:File HRef=\"image492.png\"/>  <o:File HRef=\"image494.png\"/>  <o:File HRef=\"image450.png\"/>  <o:File HRef=\"image447.png\"/>  <o:File HRef=\"image529.png\"/>  <o:File HRef=\"image530.png\"/>  <o:File HRef=\"image531.png\"/>  <o:File HRef=\"image388.jpg\"/>  <o:File HRef=\"image3881.jpg\"/>  <o:File HRef=\"image316.jpg\"/>  <o:File HRef=\"image314.gif\"/>  <o:File HRef=\"image3141.jpg\"/>  <o:File HRef=\"Page293.html\"/>  <o:File HRef=\"image297.png\"/>  <o:File HRef=\"image361.png\"/>  <o:File HRef=\"image383.jpg\"/>  <o:File HRef=\"image3831.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "860d979917937c6f8de5ff2613541ae1", 
+    "source_url": "http://www.eobdesigns.org/index_files/filelist.xml"
+}

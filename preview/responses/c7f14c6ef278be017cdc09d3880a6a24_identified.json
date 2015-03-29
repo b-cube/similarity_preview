@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:socrata=\"http://www.socrata.com/rdf/terms#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:ods=\"http://open-data-standards.github.com/2012/01/open-data-standards#\" xmlns:dcterm=\"http://purl.org/dc/terms/\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dsbase=\"http://datacatalog.cookcountyil.gov/resource/\" xmlns:ds=\"http://datacatalog.cookcountyil.gov/resource/nax4-xa7j/\"> <dsbase:nax4-xa7j rdf:about=\"http://datacatalog.cookcountyil.gov/resource/nax4-xa7j/1\">     <socrata:rowID>1</socrata:rowID>     <rdfs:member rdf:resource=\"http://datacatalog.cookcountyil.gov/resource/nax4-xa7j\"/>     <ds:year>2010</ds:year>     <ds:cat>86723</ds:cat>     <ds:cow>1</ds:cow>     <ds:dog>248707</ds:dog>     <ds:ferret>241</ds:ferret>     <ds:guard_dog>241</ds:guard_dog>     <ds:rabbit>1</ds:rabbit>     <ds:unknown>8059</ds:unknown>     <ds:totals>343973</ds:totals></dsbase:nax4-xa7j> <dsbase:nax4-xa7j rdf:about=\"http://datacatalog.cookcountyil.gov/resource/nax4-xa7j/2\">     <socrata:rowID>2</socrata:rowID>     <rdfs:member rdf:resource=\"http://datacatalog.cookcountyil.gov/resource/nax4-xa7j\"/>     <ds:year>2011</ds:year>     <ds:cat>39134</ds:cat>     <ds:cow>0</ds:cow>     <ds:dog>114911</ds:dog>     <ds:ferret>72</ds:ferret>     <ds:guard_dog>141</ds:guard_dog>     <ds:rabbit>0</ds:rabbit>     <ds:unknown>4202</ds:unknown>     <ds:totals>158460</ds:totals></dsbase:nax4-xa7j></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c7f14c6ef278be017cdc09d3880a6a24", 
+    "source_url": "https://datacatalog.cookcountyil.gov/api/views/nax4-xa7j/rows.rdf?accessType=DOWNLOAD"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.1016/j.ecolind.2014.08.022</dc:identifier><dc:creator>Fleming-Lehtinen, Vivi </dc:creator><dc:creator>Andersen, Jesper H. </dc:creator><dc:creator>Carstensen, Jacob </dc:creator><dc:creator>\\ufffd\\ufffdysiak-Pastuszak, El\\ufffd\\ufffdbieta </dc:creator><dc:creator>Murray, Ciar\\ufffd\\ufffdn </dc:creator><dc:creator> Pyh\\ufffd\\ufffdl\\ufffd\\ufffd, Minna</dc:creator><dc:creator>Laamanen, Maria </dc:creator><dc:title>Recent developments in assessment methodology reveal that the Baltic Sea eutrophication problem is expanding</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;This study follows up on a previous assessment of eutrophication status in the Baltic Sea, which covered the period 2001&amp;ndash;2006. The updated assessment is based on new eutrophication targets, an improved eutrophication assessment tool (HEAT 3.0) as well as monitoring data for the period 2007&amp;ndash;2011. Based on classifications of eutrophication status in all Baltic Sea sub-basins, we reveal that during the assessment period 2007&amp;ndash;2011, the entire open Baltic Sea was affected by eutrophication. This is a different conclusion compared to earlier assessments and studies. Whilst the confidence of the assessment was high or moderate in most basins, there were indications of declining confidence in some assessment units and improved confidence in others. The problems in confidence were mainly related to scarcity of in situ monitoring data on chlorophyll-&lt;em&gt;a&lt;/em&gt; and Secchi depth. The potential implications of our results, e.g. the expansion of the eutrophic zone and declining confidence in the classifications of eutrophication status, are discussed in relation to the existing Baltic Sea-wide nutrient management strategy as well as future assessment activities.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2015-01-01</dc:date><dc:source>http://zenodo.org/record/14726</dc:source><dc:doi>10.1016/j.ecolind.2014.08.022</dc:doi><dc:identifier>http://zenodo.org/record/14726</dc:identifier><dc:identifier>oai:zenodo.org:14726</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "94233cb2ce81db5152df94a1516bf3f3", 
+    "source_url": "https://zenodo.org/record/14726/export/xd"
+}

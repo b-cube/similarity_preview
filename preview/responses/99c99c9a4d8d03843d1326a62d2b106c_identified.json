@@ -1,0 +1,15 @@
+{
+    "content": "<doc>    <text>First line&#xD; Second line</text>    <value>2</value>    <compute>value&gt;\"0\" &amp;&amp; value&lt;\"10\" ?\"valid\":\"error\"</compute>    <compute expr=\"value>&quot;0&quot; &amp;&amp; value&lt;&quot;10&quot; ?&quot;valid&quot;:&quot;error&quot;\">valid</compute>    <norm attr=\" '    &#xD;&#xA;&#x9;   ' \"></norm>    <normNames attr=\"A &#xD;&#xA;&#x9; B\"></normNames>    <normId id=\"' &#xD;&#xA;&#x9; '\"></normId> </doc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "99c99c9a4d8d03843d1326a62d2b106c", 
+    "source_url": "http://www.w3.org/2008/xmlsec/Drafts/c14n-20/test-cases/FPWD-2011-12/files/out_inC14N4_c14nDefault.xml"
+}

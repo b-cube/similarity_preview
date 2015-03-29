@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:oo=\"http://purl.org/openorg/\" xmlns:dc=\"http://purl.org/dc/terms/\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:org=\"http://www.w3.org/ns/org#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:vcard=\"http://www.w3.org/2006/vcard/ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:sy=\"http://web.resource.org/rss/1.0/modules/syndication/\"> <oo:OrganizationProfileDocument rdf:about=\"https://read.dur.ac.uk/readshare/durham_institution.xml\"> <foaf:primaryTopic rdf:resource=\"http://www.durham.ac.uk/\"/> </oo:OrganizationProfileDocument> <org:FormalOrganization rdf:about=\"http://www.durham.ac.uk/\"> <skos:prefLabel>Durham University</skos:prefLabel> <skos:hiddenLabel>Durham</skos:hiddenLabel> <skos:sortLabel>Durham, University of</skos:sortLabel> <foaf:logo rdf:resource=\"https://www.dur.ac.uk/images/template/logounidurham-new.png\"/> <owl:sameAs rdf:resource=\"http://dbpedia.org/page/Durham_University\"/> <owl:sameAs rdf:resource=\"http://id.learning-provider.data.ac.uk/ukprn/10007143\"/> <vcard:tel> <vcard:Voice rdf:about=\"tel:+44-191-334-2000\"> <rdf:value>tel:+44-191-334-2000</rdf:value> <rdf:label>0191 334 2000</rdf:label> </vcard:Voice> </vcard:tel> <vcard:tel> <vcard:Fax rdf:about=\"https://www.dur.ac.uk/about/location/contacts/\"> <rdf:value></rdf:value> <rdf:label></rdf:label> </vcard:Fax> </vcard:tel> <foaf:homepage rdf:resource=\"http://www.durham.ac.uk/\"/> </org:FormalOrganization> <dcat:Download rdf:about=\"https://read.dur.ac.uk/readshare/durham_equipment.xml\"> <oo:organization rdf:resource=\"http://www.durham.ac.uk/\"/> <oo:contact rdf:resource=\"mailto:read.support@durham.ac.uk\" /> <oo:corrections rdf:resource=\"mailto:read.support@durham.ac.uk\" /> <dc:subject rdf:resource=\"http://purl.org/openorg/theme/equipment\"/> <dc:conformsTo rdf:resource=\"http://equipment.n8research.org.uk/research-equipment.html\"/> <dc:license rdf:resource=\"http://reference.data.gov.uk/id/open-government-licence\"/> <dc:license rdf:resource=\"http://creativecommons.org/publicdomain/zero/1.0\"/> <dc:created>2015-02-05 09:47:34</dc:created> <sy:updateFrequency>freq:daily</sy:updateFrequency> </dcat:Download> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8dedcf640bece44a78b40df388e13c94", 
+    "source_url": "https://read.dur.ac.uk/readshare/durham_institution.xml"
+}

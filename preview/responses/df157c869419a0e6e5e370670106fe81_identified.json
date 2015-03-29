@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <results id=\"\" name=\"Apus\" total_number_of_results=\"1\" number_of_results_returned=\"1\" start=\"0\" error_message=\"\" version=\"1.8.1 rev 1397\">   <result>     <id>17120626</id>     <name>Apus</name>     <rank>Genus</rank>     <name_status>accepted name</name_status>     <name_html><i>Apus</i></name_html>     <url>http://www.catalogueoflife.org/annual-checklist/2014/browse/tree/id/17120626</url>   </result> </results> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "df157c869419a0e6e5e370670106fe81", 
+    "source_url": "http://www.catalogueoflife.org/annual-checklist/2014/webservice?name=Apus"
+}

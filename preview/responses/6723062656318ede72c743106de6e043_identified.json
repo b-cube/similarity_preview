@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"::ROSES-05 AIST NRA Section 1.html\"/>  <o:File HRef=\"image001.png\"/>  <o:File HRef=\"image002.png\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6723062656318ede72c743106de6e043", 
+    "source_url": "http://esto.nasa.gov/sensorwebmeeting/files/ROSES-05%20AIST%20NRA%20Section%201_files/filelist.xml"
+}

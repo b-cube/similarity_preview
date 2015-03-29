@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">British Geological Survey (BGS) Geophysical Survey 1970/1: Irish Sea west of Anglesey (28/01/1970 to 23/02/1970)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-5474-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Report: Day, GA. 1970. RRS John Murray Cruise 1/70. (IGS Report No 3; 19) Positioning: It is assumed that Main Chain Decca was used athough it is not specifically mentioned in the Cruise Report Echo Sounding: Not mentioned in the cruise report Sonar Systems: Aberystwyth geological sonar and the IGS transit sonar. Poor quality records. Seismic Systems: EG&amp;G sparker system: Mostly operated at 1kJ Gravitymeter: RVU LaCoste and Romberg gravity meter. Magnetometer: Varian magnetometer</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">1970-02-23</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c3b39e7b2ccee84b6aec9d0fad5db361", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-5474-0f38-e044-0003ba9b0d98.xml/DC"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../fishIDandnaturalhistory.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"image003.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4b462628b2ceb997d54896f6f915f001", 
+    "source_url": "http://www.luresext.edu/aquaculture/fishIDandnaturalhistory_files/filelist.xml"
+}

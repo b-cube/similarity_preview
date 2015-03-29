@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../Danube_DetailedStructure_all.html\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a25607a696b22d1d2259cf96de431b62", 
+    "source_url": "http://eusoils.jrc.ec.europa.eu/projects/danubesis/Danube_DetailedStructure_all_files/filelist.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Date-Time-Last-Modified>20030418084758 </Date-Time-Last-Modified>  <Personal-Name>Schlanger, Seymour O. (Seymour Oscar), 1927-1990 </Personal-Name>  <Title>Subsurface geology of Eniwetok Atoll : Bikini and nearby atolls, Marshall Islands : a study of limestone and dolomite recovered during deep drilling on Eniwetok / by Seymour O. Schlanger and others. </Title>  <Imprint>Washington : G.P.O., 1963. </Imprint>  <Physical-Description>iv, p. 991-1066 p., [7] leaves of plates : ill., map ; 29 cm. </Physical-Description>  <Series-Statement-Added-Entry>Geological Survey professional paper ; 260-BB </Series-Statement-Added-Entry>  <Bibliography-Note>Includes bibliographical references (p. 1065-1066). </Bibliography-Note>  <Formatted-Contents-Note>Carbonate mineralogy / Donald L. Graf and Julian R. Goldsmith -- Petrography of the basalt beneath the limestones / Gordon A. MacDonald -- Dating of carbonate rocks by ionium-uranium ratios / William M. Sackett and Herbert A. Potratz. </Formatted-Contents-Note>  <Subject-Added-Topical-Term>Carbonate minerals Marshall Islands Enewetak Atoll. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Petrology Marshall Islands Enewetak Atoll. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Limestone Marshall Islands Enewetak Atoll. </Subject-Added-Topical-Term>  <Subject-Added-Geographic-Name>Enewetak Atoll (Marshall Islands) Environmental conditions. </Subject-Added-Geographic-Name>  <Added-Entry-Corporate-Name>Geological Survey (U.S.) </Added-Entry-Corporate-Name>  <Access-Information>NOAA Central Library, Silver Spring, MD|STACKS|QE75 .P9 no.260-BB|BOOK|1 </Access-Information>  <Access-Information>NEFSC Woods Hole Laboratory Library, Woods Hole, MA|JOURNAL|GEOL. SURVEY PROF. PAPER 260-BB|JOURNAL|1 </Access-Information>  <Access-Information>Auke Bay Laboratory Library|STACKS|QE565 .U5 1963|BOOK|1 </Access-Information>  <Region>RMI </Region>  <Bounding>  <Eastbc>169.97 </Eastbc>  <Westbc>162.302 </Westbc>  <Southbc>5.573 </Southbc>  <Northbc>14.71 </Northbc>  </Bounding>  <Local-number>OCoLC-ocm12031838 </Local-number>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c0d96141e4df6490d05b8080218f7250", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B888CEF9A-D231-4F91-AC60-541C00BFE468%7D"
+}

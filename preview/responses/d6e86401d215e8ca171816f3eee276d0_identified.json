@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\">    <rdf:Description rdf:about=\"https://www.insight-centre.org/users/grainne-faller\">     <rdf:type rdf:resource=\"http://xmlns.com/foaf/0.1/Person\"/>     <foaf:name>Grainne Faller</foaf:name>     <foaf:firstName>Grainne</foaf:firstName>     <foaf:surname>Faller</foaf:surname>     <foaf:workplaceHomepage>https://www.insight-centre.org</foaf:workplaceHomepage>     <foaf:mbox_sha1sum>9976e4dc6701b0fadfbb1dc8a0f524ce45b67672</foaf:mbox_sha1sum>   </rdf:Description>  </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d6e86401d215e8ca171816f3eee276d0", 
+    "source_url": "https://www.insight-centre.org/user/1375/foaf.xml"
+}

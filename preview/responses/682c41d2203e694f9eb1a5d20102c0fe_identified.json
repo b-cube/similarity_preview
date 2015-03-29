@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>2009a </Local-number>  <Type-Period-Note>Maps </Type-Period-Note>  <Title>Larval reef fish distribution maps by year, depth, and family across the USVI </Title>  <Publication-Date><caldate>2009 </caldate></Publication-Date>  <Extent>5 </Extent>  <Notes>FY2009 CRCP Project ID 10233; Project Title: US Virgin Islands Larval Reef Fish Distribution and Supply: Connectivity Science, MPAs, and Fisheries Management; Principal Investigator: Trika Gerard </Notes>  <Abstract>Map 1: Final list of stations completed on the cruise NF0903 that took place in April 7-20, 2009 aboard the NOAA Ship Nancy Foster in the US Virgin Islands, Puerto Rico, Anegada Passage, Leeward Islands and Saba Bank. Map 2: Larval fish family abundances plotted by year for three common reef fish families in the Virgin Islands: Labridae (wrasses), Lutjanidae (Snappers) and Serranidae (Groupers). Map 3: Map of larval fish abundance for Labrids (Wrasses) plotted by depth for cruise 2008 (#NF0805) during the Virgin Islands cruise portion. Map 4: Map of larval fish abundance for Scarids (parrotfish) plotted by depth for cruise 2008 (#NF0805) during the Virgin Islands cruise portion. Map 5: Map of larval fish abundance for Lutjanids (snapper) plotted by depth for cruise 2008 (#NF0805) during the Virgin Islands cruise portion. </Abstract>  <Date-Time-Last-Modified>20110124000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/10233/10233_2009_CORIS_MapsFishData.pdf </URL>  <project>  <ID>10233 </ID>  <title>US Virgin Islands Larval Reef Fish Distribution and Supply: Connectivity Science, MPAs, and Fisheries Management </title>  <PI>Trika Gerard </PI>  </project>  <Region>PR </Region>  <Bounding>  <Eastbc>-65.248715 </Eastbc>  <Westbc>-67.399870 </Westbc>  <Southbc>17.784130 </Southbc>  <Northbc>18.645740 </Northbc>  </Bounding>  <CoRIS-Record-Type>misc </CoRIS-Record-Type>  <Local-subject-index>misc </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "682c41d2203e694f9eb1a5d20102c0fe", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BD75C269B-5B80-4370-86F5-25ABEB53C214%7D"
+}

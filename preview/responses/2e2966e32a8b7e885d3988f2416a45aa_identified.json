@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/demoss\">     <owl:sameAs rdf:resource=\"urn:uuid:0e3a7ee9-260e-412c-9d2d-123cf5bcd9a8\"></owl:sameAs>     <dct:description>esperimento</dct:description>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/demoss\"></foaf:homepage>     <rdfs:label>demoss</rdfs:label>     <dct:identifier>demoss</dct:identifier>     <dct:title>demo</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://demo.ckan.org/it/dataset/0e3a7ee9-260e-412c-9d2d-123cf5bcd9a8/resource/5a00963a-6869-463f-a9e6-1bacb2862b8e/download/testckan1.xls\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>XLS</rdf:value>                             <rdfs:label>XLS</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>testuniss</dct:title>             </dcat:Distribution>         </dcat:distribution>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://demo.ckan.org/it/dataset/0e3a7ee9-260e-412c-9d2d-123cf5bcd9a8/resource/9f1eb949-ebc6-4519-986e-9fc6c00498f3/download/testckan1.csv\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>testuniss</dct:title>             </dcat:Distribution>         </dcat:distribution>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "2e2966e32a8b7e885d3988f2416a45aa", 
+    "source_url": "http://demo.ckan.org/dataset/0e3a7ee9-260e-412c-9d2d-123cf5bcd9a8.rdf"
+}

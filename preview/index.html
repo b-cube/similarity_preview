@@ -1,0 +1,245 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+        <script src="js/highlight.pack.js"></script>
+
+        <link rel="stylesheet" href="css/styles/default.css">
+        
+        <style type="text/css">
+            code {
+                font-size: 0.85em;
+            }
+
+            h2 {
+                margin:0;
+                padding:0;
+
+            }
+
+            .cosim {
+                 background-color: #c4c4c4;
+                 height: 40px;
+                 width: 40px;
+                 text-align: center;
+
+                 -webkit-border-bottom-left-radius: 20px;
+                -webkit-border-top-left-radius: 20px;
+                -moz-border-radius-topleft: 20px;
+                -moz-border-radius-bottomleft: 20px;
+                border-top-left-radius: 20px;
+                border-bottom-left-radius: 20px;
+            }
+
+            .cosim-high {
+                color:#236a28;
+                font-weight:bold;
+            }
+            .cosim-medium {
+                color:#f80e1d;
+            }
+            .cosim-low {
+                color:#919191;
+            }
+
+            .simlist {
+                list-style: none;
+            }
+            .simlist::after {
+                clear: left;
+            }
+            .simlist li {
+                clear:left;
+                padding: 10px 0px;
+            }
+            .simlist li div {
+                float:left;
+                line-height:40px;
+                font-size: 10pt;
+                display: inline-block;    
+                position: relative;  
+            }
+            .simlist li div.identity {
+                width: 300px;
+                -webkit-border-bottom-right-radius: 20px;
+                -webkit-border-top-right-radius: 20px;
+                -moz-border-radius-topright: 20px;
+                -moz-border-radius-bottomright: 20px;
+                border-top-right-radius: 20px;
+                border-bottom-right-radius: 20px;
+                padding-left:20px;
+            }
+
+    
+            .xml-box {
+                float:left;
+                margin:20px;
+                width:500px;
+                height:800px;
+                overflow-y:scroll;
+                border:1px solid #ccc;
+            }
+
+            .unidata {
+                background-color: #ceddc6;
+            }
+            .iso {
+                background-color: #e8c6e8;
+            }
+            .opensearch {
+                background-color: #eda9ae;
+            }
+            .ogc {
+                background-color: #a8b6f2;
+            }
+            .oaipmh {
+                background-color: #f2c9a9;
+            }
+            .rdf {
+                background-color: #c9eaec;
+            }
+            .others {
+                background-color: #d2cdca;
+            }
+        </style>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        <h1>Similarity Viewer</h1>
+        <div class="">
+            
+            <div class="">
+                <h2>Responses</h2>
+                <ul class="simlist">
+                    <li>
+                        <div class="cosim cosim-high">0.89</div>
+                        <div class="identity oaipmh">some digest value: UNIDATA</div>
+                    </li>
+                    <li>
+                        <div class="cosim cosim-medium">0.33</div>
+                        <div class="identity unidata">some digest value: UNIDATA</div>
+                    </li>
+                    <li>
+                        <div class="cosim cosim-low">0.11</div>
+                        <div class="identity ogc">some digest value: UNIDATA</div>
+                    </li>
+                </ul>
+            </div>
+            <div style="clear:both;">
+                <a href="#">View Response</a>
+                <a href="#">View Diff</a>
+            </div>
+            <div>
+                <div class="xml-box">
+                    <h2>Source</h2>
+                    <pre><code class="language-html">
+    &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+    &lt;catalog xmlns=&quot;http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; version=&quot;1.0.1&quot;&gt;
+      &lt;service name=&quot;allServices&quot; serviceType=&quot;Compound&quot; base=&quot;&quot;&gt;
+        &lt;service name=&quot;ncdods&quot; serviceType=&quot;OPENDAP&quot; base=&quot;/thredds/dodsC/&quot; /&gt;
+        &lt;service name=&quot;HTTPServer&quot; serviceType=&quot;HTTPServer&quot; base=&quot;/thredds/fileServer/&quot; /&gt;
+        &lt;service name=&quot;wcs&quot; serviceType=&quot;WCS&quot; base=&quot;/thredds/wcs/&quot; /&gt;
+        &lt;service name=&quot;ncss&quot; serviceType=&quot;NetcdfSubset&quot; base=&quot;/thredds/ncss/grid/&quot; /&gt;
+        &lt;service name=&quot;wms&quot; serviceType=&quot;WMS&quot; base=&quot;/thredds/wms/&quot; /&gt;
+        &lt;service name=&quot;iso&quot; serviceType=&quot;ISO&quot; base=&quot;/thredds/iso/&quot; /&gt;
+        &lt;service name=&quot;ncml&quot; serviceType=&quot;NCML&quot; base=&quot;/thredds/ncml/&quot; /&gt;
+        &lt;service name=&quot;uddc&quot; serviceType=&quot;UDDC&quot; base=&quot;/thredds/uddc/&quot; /&gt;
+      &lt;/service&gt;
+      &lt;dataset name=&quot;PV_SHELF&quot; ID=&quot;TSdata/PV_SHELF&quot;&gt;
+        &lt;metadata inherited=&quot;true&quot;&gt;
+          &lt;serviceName&gt;allServices&lt;/serviceName&gt;
+          &lt;publisher&gt;
+            &lt;name vocabulary=&quot;DIF&quot;&gt;USGS/ER/WHCMSC/Ellyn Montgomery&lt;/name&gt;
+            &lt;contact url=&quot;http://www.usgs.gov/&quot; email=&quot;emontgomery@usgs.gov&quot; /&gt;
+          &lt;/publisher&gt;
+        &lt;/metadata&gt;
+        &lt;dataset name=&quot;3981-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3981-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3981-a.nc&quot;&gt;
+          &lt;dataSize units=&quot;Mbytes&quot;&gt;1.051&lt;/dataSize&gt;
+          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
+        &lt;/dataset&gt;
+        &lt;dataset name=&quot;3982-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3982-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3982-a.nc&quot;&gt;
+          &lt;dataSize units=&quot;Mbytes&quot;&gt;1.350&lt;/dataSize&gt;
+          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
+        &lt;/dataset&gt;
+        &lt;dataset name=&quot;3982cs-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3982cs-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3982cs-a.nc&quot;&gt;
+          &lt;dataSize units=&quot;Kbytes&quot;&gt;600.8&lt;/dataSize&gt;
+          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
+        &lt;/dataset&gt;
+      &lt;/dataset&gt;
+    &lt;/catalog&gt;
+                    </code></pre>
+                </div>
+                <div class="xml-box">
+                    <h2>Compared to</h2>
+                    <pre><code class="language-xml">
+    &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+    &lt;catalog xmlns=&quot;http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; version=&quot;1.0.1&quot;&gt;
+      &lt;service name=&quot;allServices&quot; serviceType=&quot;Compound&quot; base=&quot;&quot;&gt;
+        &lt;service name=&quot;ncdods&quot; serviceType=&quot;OPENDAP&quot; base=&quot;/thredds/dodsC/&quot; /&gt;
+        &lt;service name=&quot;HTTPServer&quot; serviceType=&quot;HTTPServer&quot; base=&quot;/thredds/fileServer/&quot; /&gt;
+        &lt;service name=&quot;wcs&quot; serviceType=&quot;WCS&quot; base=&quot;/thredds/wcs/&quot; /&gt;
+        &lt;service name=&quot;ncss&quot; serviceType=&quot;NetcdfSubset&quot; base=&quot;/thredds/ncss/grid/&quot; /&gt;
+        &lt;service name=&quot;wms&quot; serviceType=&quot;WMS&quot; base=&quot;/thredds/wms/&quot; /&gt;
+        &lt;service name=&quot;iso&quot; serviceType=&quot;ISO&quot; base=&quot;/thredds/iso/&quot; /&gt;
+        &lt;service name=&quot;ncml&quot; serviceType=&quot;NCML&quot; base=&quot;/thredds/ncml/&quot; /&gt;
+        &lt;service name=&quot;uddc&quot; serviceType=&quot;UDDC&quot; base=&quot;/thredds/uddc/&quot; /&gt;
+      &lt;/service&gt;
+      &lt;dataset name=&quot;PV_SHELF&quot; ID=&quot;TSdata/PV_SHELF&quot;&gt;
+        &lt;metadata inherited=&quot;true&quot;&gt;
+          &lt;serviceName&gt;allServices&lt;/serviceName&gt;
+          &lt;publisher&gt;
+            &lt;name vocabulary=&quot;DIF&quot;&gt;USGS/ER/WHCMSC/Ellyn Montgomery&lt;/name&gt;
+            &lt;contact url=&quot;http://www.usgs.gov/&quot; email=&quot;emontgomery@usgs.gov&quot; /&gt;
+          &lt;/publisher&gt;
+        &lt;/metadata&gt;
+        &lt;dataset name=&quot;3981-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3981-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3981-a.nc&quot;&gt;
+          &lt;dataSize units=&quot;Mbytes&quot;&gt;1.051&lt;/dataSize&gt;
+          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
+        &lt;/dataset&gt;
+        &lt;dataset name=&quot;3982-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3982-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3982-a.nc&quot;&gt;
+          &lt;dataSize units=&quot;Mbytes&quot;&gt;1.350&lt;/dataSize&gt;
+          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
+        &lt;/dataset&gt;
+        &lt;dataset name=&quot;3982cs-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3982cs-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3982cs-a.nc&quot;&gt;
+          &lt;dataSize units=&quot;Kbytes&quot;&gt;600.8&lt;/dataSize&gt;
+          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
+        &lt;/dataset&gt;
+      &lt;/dataset&gt;
+    &lt;/catalog&gt;
+                    </code></pre>
+                </div>
+
+
+            </div>
+            
+        </div>
+
+        <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+          <script>window.jQuery || document.write('<script src="../js/vendor/jquery-1.11.2.min.js"><\/script>')</script> -->
+
+        <script src="js/vendor/jquery-1.11.2.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+
+        <script>hljs.initHighlightingOnLoad();</script>
+
+        
+
+    </body>
+</html>

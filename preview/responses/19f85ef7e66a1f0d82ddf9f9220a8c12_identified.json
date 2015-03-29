@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xslfo20-20090929'            target='http://www.w3.org/TR/2009/WD-xslfo20-20090929'> <front> <title>Design Notes for Extensible Stylesheet Language (XSL) 2.0</title>  <author initials='L.' surname='Quin' fullname='Liam R E Quin'>     <organization /> </author>  <date month='September' day='29' year='2009' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-xslfo20-20090929' /> <format type='HTML' target='http://www.w3.org/TR/2009/WD-xslfo20-20090929' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "19f85ef7e66a1f0d82ddf9f9220a8c12", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xslfo20-20090929.xml"
+}

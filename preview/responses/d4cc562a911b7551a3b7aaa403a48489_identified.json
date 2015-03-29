@@ -1,0 +1,15 @@
+{
+    "content": "<datafed_catalog xmlns=\"http://datafed.net/xs/catalog_metadata\"><dataset><dataset_abbr>AIRNOW</dataset_abbr><dataset_name>AIRNOW - Realtime PM</dataset_name><dataset_desc>AIRNOW is an EPA project to gather and distribute near-realtime data from several hundred continuous PM2.5 and ozone monitors. From the point of view of the FASTNET project the AIRNOW system establishes the spatial and temporal patterns of the key pollutants PM2.5 and ozone.</dataset_desc><dataset_access_url>http://airnow.gov/</dataset_access_url><citation_url>http://airnow.gov/</citation_url><icon_small>http://capita.wustl.edu/DVoy/Icons/PM25Icon15050.gif</icon_small><icon_big>http://webapps.datafed.net/icon.aspx?width=100&amp;height=100&amp;draw=text&amp;value=big dataset icon&amp;font_size=10</icon_big><provider_abbr>EPA</provider_abbr><provider_name>EPA</provider_name><provider_desc>EPA</provider_desc><provider_url>http://epa.gov</provider_url><provider_icon_url>http://www.datafed.net/icons/EPAIcon50.gif</provider_icon_url><data_domain_abbr>Aerosol</data_domain_abbr><data_domain_name>Aerosol</data_domain_name><data_domain_desc /><sample_platform_abbr>Network</sample_platform_abbr><sample_platform_name>Monitoring Network</sample_platform_name><sample_platform_desc>Monitoring Network</sample_platform_desc><sample_method_abbr>FilterSmp</sample_method_abbr><sample_method_name>Filter Sample</sample_method_name><sample_method_desc>Filter Sample</sample_method_desc><retrieved_data_type>POINT</retrieved_data_type><time_min>2002-07-01</time_min><time_max>now</time_max><sample_periodicity_multiplier>1</sample_periodicity_multiplier><sample_periodicity_unit>hour</sample_periodicity_unit><lat_min>24</lat_min><lat_max>52</lat_max><lon_min>-130</lon_min><lon_max>-65</lon_max><timestamp>2008-06-11T17:12:32</timestamp></dataset><parameter><dataset_abbr>AIRNOW</dataset_abbr><param_abbr>pm10</param_abbr><param_name>Particulate Matter</param_name><param_unit>ug/cm^3</param_unit></parameter><parameter><dataset_abbr>AIRNOW</dataset_abbr><param_abbr>pmfine</param_abbr><param_name>Particulate Matter 2.5</param_name><param_unit>ug/cm^3</param_unit></parameter><parameter><dataset_abbr>AIRNOW</dataset_abbr><param_abbr>super</param_abbr><param_name>Ozone Concentration</param_name><param_unit>ppb</param_unit></parameter></datafed_catalog>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d4cc562a911b7551a3b7aaa403a48489", 
+    "source_url": "http://capita.wustl.edu/CAPITA/XSL/dataset.xml"
+}

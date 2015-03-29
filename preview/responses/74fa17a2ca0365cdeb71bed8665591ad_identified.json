@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <urlset xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/USTransMapServices/USTransMap/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url> </urlset>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "74fa17a2ca0365cdeb71bed8665591ad", 
+    "source_url": "http://gis.rita.dot.gov/ArcGIS/rest/services/USTransMapServices?f=geositemap"
+}

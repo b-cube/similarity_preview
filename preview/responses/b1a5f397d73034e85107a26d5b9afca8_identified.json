@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"FIPS.180-1.1994\"> <front> <title>Secure Hash Standard</title> <author> <organization>National Institute of Standards and Technology</organization> </author> <date month=\"May\" year=\"1994\" /> </front>  <seriesInfo name=\"FIPS\" value=\"PUB 180-1\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b1a5f397d73034e85107a26d5b9afca8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.FIPS.180-1.1994.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/BrownCounty_2010LandUse/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/BrownCounty_2025LandUse/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/BrownCounty_ConservationAreas/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/OzaukeeCounty_ProtectWetlands/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/OzaukeeCounty_RestoreWetland/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/OzaukeeCounty_WetlandBenefits/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes/SheboyganCounty_AOCs/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e31d6cccb8a5d4100b8fcdd6b06fe3b4", 
+    "source_url": "http://coast.noaa.gov/arcgis/rest/services/CSCGreatLakes?f=sitemap"
+}

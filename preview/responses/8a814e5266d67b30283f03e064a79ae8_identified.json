@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <reference anchor=\"XEP-0045\">   <front>     <title>Multi-User Chat</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>peter@andyet.net</email>       </address>     </author>     <date day=\"08\" month=\"February\" year=\"2012\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0045\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0045.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8a814e5266d67b30283f03e064a79ae8", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0045.xml"
+}

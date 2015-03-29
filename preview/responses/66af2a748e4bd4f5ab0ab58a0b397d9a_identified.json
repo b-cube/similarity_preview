@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>\\ufffd\\ufffd\\ufffdWe'll Kill Bin Laden Today\\ufffd\\ufffd\\ufffd: Middle Eastern Americans and Violence</dc:title><dc:creator>Sinozich, Sofi Li Rejman</dc:creator><dc:creator>Smith, Raymond Arthur</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Political science</dc:subject><dc:subject>Middle Eastern studies</dc:subject><dc:subject>American studies</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D81R6PCD</dc:identifier><dc:description>This brief focuses on the wave of violence against Middle Eastern Americans, particularly after 9/11, as well as discussing pre-9/11 violence against Middle Easterners and their associated institutions in the United States. Attacks against those perceived to be Middle Eastern American are also discussed, and motivations for this violence described.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "66af2a748e4bd4f5ab0ab58a0b397d9a", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A183440.dc_xml"
+}

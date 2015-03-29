@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.03.20'> <front> <title>Security-related network functions</title> <author><organization>3GPP</organization></author> <date day='01' month='January' year='1995' /> </front>  <seriesInfo name='3GPP TS' value='03.20 3.3.2' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0320.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "20ab175efbec9159751ea8a4d750e6a6", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.03.20.xml"
+}

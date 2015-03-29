@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <?xml-stylesheet href=\"figure2d.xsl\" type=\"text/xsl\" ?>  <figure2d>   <title>MMAB Sea Ice Concentration -- Southern Hemisphere high resolution</title>   <topic>sea ice concentration, coverage</topic>   <status>Operational</status>   <contact>Robert.Grumbine@noaa.gov</contact>   <date>     <constructed cycle=\"00\">18 March 2015  </constructed>    <valid time=\"00\">18 March 2015  </valid>  </date>   <parameters>     <parm>Sea Ice Concentration</parm>   </parameters>   <depth>Surface</depth>   <graphic source=\"sh12.gif\"/>   <full>sh12.html</full>   <return>     <page>Analyses.html</page>     <text>Main Ice Analysis Page</text>   </return>   <return>     <page>index.html</page>     <text>Main Sea Ice Page</text>   </return>    <domain2d>     <title>Definition of Global Display Grids</title>     <topic>Display, domains, grids</topic>     <status>Operational</status>     <date>10 March 2004</date>     <contact>Robert.Grumbine@noaa.gov</contact>      <name>Southern Hemisphere</name>     <projection>Polar Stereographic</projection>     <area>76.9e6 km^2</area>     <resolution>12.7 km</resolution>     <bounds>       <loc lat=\"-36.90\" lon=\"-220.19\"/>       <loc lat=\"-37.80\" lon=\"-120.76\"/>       <loc lat=\"-31.09\" lon=\"-307.14\"/>       <loc lat=\"-31.85\" lon=\"-31.88\"/>     </bounds>   </domain2d>  </figure2d> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c88cd1faeb815ba764d32967f469ec42", 
+    "source_url": "http://polar.ncep.noaa.gov/seaice/analysis/sh.xml"
+}

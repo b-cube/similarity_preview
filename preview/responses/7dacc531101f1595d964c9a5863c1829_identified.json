@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <esri:ArcGISExplorerDocument xmlns:esri='http://www.esri.com/schemas/ArcGIS/9.2' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema'> <E2Layers xsi:type=\"esri:ArrayOfE2Layer\">  <E2Layer xsi:type=\"esri:E2ServerLayer\">   <DisplayName>SageGrouseConservationAssessment2004_ConservationAssessmentData</DisplayName>   <Visible>true</Visible>   <LODTileFetch>true</LODTileFetch>   <HideFromContents>false</HideFromContents>   <Transparency>0</Transparency>   <ServerType>2</ServerType>   <GlobeLayerType>0</GlobeLayerType>   <Url>http://srfs.wr.usgs.gov/arcgis/services</Url>   <ServiceName>SageGrouseConservationAssessment2004/ConservationAssessmentData</ServiceName>   <SubServiceName>SageGrouseConservationAssessment2004_ConservationAssessmentData</SubServiceName>   <E2GlobeLayerProperties xsi:type=\"esri:E2ServerLayerProperties\">    <MinimumVisibleDistance>0</MinimumVisibleDistance>    <MaximumVisibleDistance>0</MaximumVisibleDistance>    <MinimumCellSize>1</MinimumCellSize>    <CacheName>ESRI_ServerLyrLocalGlobeCache_http___srfs.wr.usgs.gov_arcgis_services_Conservation_Assessment_SageGrouseConservationAssessment2004_ConservationAssessmentData</CacheName>    <CacheType>0</CacheType>    <CacheUpdateInterval>0</CacheUpdateInterval>   </E2GlobeLayerProperties>  </E2Layer> </E2Layers> </esri:ArcGISExplorerDocument> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7dacc531101f1595d964c9a5863c1829", 
+    "source_url": "http://srfs.wr.usgs.gov/ArcGIS/rest/services/SageGrouseConservationAssessment2004/ConservationAssessmentData/MapServer?f=nmf"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Erickson, Kristofer</author>         </authors>       </contributors>       <titles>         <title>User illusion: ideological construction of \\ufffd\\ufffd\\ufffduser-generated content\\ufffd\\ufffd\\ufffd in the EC consultation on copyright</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12436</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>User-generated content</keyword>         <keyword>Copyright</keyword>         <keyword>Online creativity</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-10-27</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Recent policy consultations by the UK Intellectual Property Office, the US Patent and Trademark Office and the European Commission (EC) have highlighted the importance of user-generated content in debates to reform copyright. User-generated content (UGC) &amp;ndash; often combining existing copyright material with transformative creativity &amp;ndash; remains a contested terrain, with no clear or widely accepted definition. This paper examines how various stakeholders in the 2014 EC consultation on copyright attempted to shape the definition of UGC in order to suit their interests, sometimes aligning or conflicting with other stakeholder groups. Data from 203 written responses by registered stakeholders (authors, platform intermediaries and users) were subjected to a discourse analysis methodology. Key arguments and policy preferences from each stakeholder group are identified and discussed.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7e0a6eec6594f91704e6c32c7016472d", 
+    "source_url": "https://zenodo.org/record/12436/export/xe"
+}

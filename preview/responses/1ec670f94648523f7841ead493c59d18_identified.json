@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <jnlp spec=\"1.0+\" codebase=\"http://www.jalview.org/old/v2_5\">  <information>   <title>Jalview</title>   <vendor>The Barton Group</vendor>   <homepage href=\"http://www.jalview.org\"/>   <description>Jalview Multiple Alignment Editor</description>   <description kind=\"short\">Jalview</description>   <icon href=\"logo_big.gif\"/>   <offline-allowed/>  </information>  <security>   <all-permissions/>  </security>  <resources>   <j2se version=\"1.4+\"/>   <jar href=\"jalview.jar\"/>   <jar href=\"JGoogleAnalytics-0.2.1-SNAPSHOT.jar\"/>   <jar href=\"Jmol-11.0.2.jar\"/>   <jar href=\"activation.jar\"/>   <jar href=\"axis.jar\"/>   <jar href=\"castor-1.1-cycle-xml.jar\"/>   <jar href=\"commons-discovery.jar\"/>   <jar href=\"commons-logging.jar\"/>   <jar href=\"jaxrpc.jar\"/>   <jar href=\"jhall.jar\"/>   <jar href=\"log4j-1.2.8.jar\"/>   <jar href=\"mail.jar\"/>   <jar href=\"regex.jar\"/>   <jar href=\"saaj.jar\"/>   <jar href=\"vamsas-client.jar\"/>   <jar href=\"wsdl4j.jar\"/>   <jar href=\"xercesImpl.jar\"/>   <jar href=\"xml-apis.jar\"/>   <property name=\"jalview.version\" value=\"2.5\"/>  </resources>  <application-desc main-class=\"jalview.bin.Jalview\"/> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1ec670f94648523f7841ead493c59d18", 
+    "source_url": "http://www.jalview.org/old/v2_5/jalview.jnlp"
+}

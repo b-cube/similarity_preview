@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?> <metadata xml:lang=\"en\"> <Esri> <CreaDate>20130124</CreaDate> <CreaTime>16055000</CreaTime> <ArcGISFormat>1.0</ArcGISFormat> <SyncOnce>TRUE</SyncOnce> </Esri> <dataIdInfo> <idAbs>Shipping Lanes based information obtained from NOAA Electronic NAvigational Charts at the Habour, Approach, and Coastal scale bands</idAbs> <idPurp>Shipping Lanes from NOAA Nautical Charts</idPurp> <idCredit>NOAA/NOS/Office of Coast Survey</idCredit> <resConst> <Consts> <useLimit/> </Consts> </resConst> <idCitation> <resTitle>Bands 4 and 5</resTitle> </idCitation> <searchKeys> <keyword>NOAA</keyword> </searchKeys> </dataIdInfo> <Binary> <Thumbnail> <Data EsriPropertyType=\"PictureX\">/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACg8AnGfaiigBASRyCOe9LRVTUJ7y2iiktLaK4/eASq8pQhOclcK25s4+U4zzyKBpXdkW6KAc0UCCiolmBl8soyt74qO81Cz0+1a5vLqGCBRuaSRwAB65oHZlmiiigQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAU2RWaNlVyjEYDAAkfnTqKAI4GleIGaPy35BXduH1BpZZY4YzJLIsaDqzHAH40+mvGkhQuoJRty57HBH9TQPS5SfUdOktzOJoZ1ViBtIYlumB75IH41WOgWeoeXPq9rFdzx3AuIvO+cQspOzaOgIB7d/XitO5gS5gaF/utwalpluSUbRCiiikZhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/9k=</Data> </Thumbnail> </Binary> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7b3b6644c9edbf6a6a32815759753157", 
+    "source_url": "http://encdirect.noaa.gov/arcgis/rest/services/cmsp/shipping_lanes/MapServer/info/metadata"
+}

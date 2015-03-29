@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi type=\"zip\">     <location name=\"94588\">       <cdi>3.4498</cdi>       <nresp>1</nresp>       <dist>17</dist>       <lat>37.6895558211</lat>       <lon>-121.896794754</lon>       <name>Pleasanton</name>       <state>CA</state>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "de7615ce5a7dd18173aec51c900bd552", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/nc/72405880/us/cdi_zip.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:socrata=\"http://www.socrata.com/rdf/terms#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:ods=\"http://open-data-standards.github.com/2012/01/open-data-standards#\" xmlns:dcterm=\"http://purl.org/dc/terms/\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dsbase=\"http://data.lacity.org/resource/\" xmlns:ds=\"http://data.lacity.org/resource/_3gwn-arjr/\"> <dsbase:_3gwn-arjr rdf:about=\"http://data.lacity.org/resource/_3gwn-arjr/1\">     <socrata:rowID>1</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.lacity.org/resource/_3gwn-arjr\"/>     <ds:fiscal_year>2012-13</ds:fiscal_year>     <ds:attendance>1506274</ds:attendance></dsbase:_3gwn-arjr> <dsbase:_3gwn-arjr rdf:about=\"http://data.lacity.org/resource/_3gwn-arjr/2\">     <socrata:rowID>2</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.lacity.org/resource/_3gwn-arjr\"/>     <ds:fiscal_year>2011-12</ds:fiscal_year>     <ds:attendance>1660450</ds:attendance></dsbase:_3gwn-arjr> <dsbase:_3gwn-arjr rdf:about=\"http://data.lacity.org/resource/_3gwn-arjr/3\">     <socrata:rowID>3</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.lacity.org/resource/_3gwn-arjr\"/>     <ds:fiscal_year>2010-11</ds:fiscal_year>     <ds:attendance>1543232</ds:attendance></dsbase:_3gwn-arjr> <dsbase:_3gwn-arjr rdf:about=\"http://data.lacity.org/resource/_3gwn-arjr/4\">     <socrata:rowID>4</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.lacity.org/resource/_3gwn-arjr\"/>     <ds:fiscal_year>2009-10</ds:fiscal_year>     <ds:attendance>1459080</ds:attendance></dsbase:_3gwn-arjr> <dsbase:_3gwn-arjr rdf:about=\"http://data.lacity.org/resource/_3gwn-arjr/5\">     <socrata:rowID>5</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.lacity.org/resource/_3gwn-arjr\"/>     <ds:fiscal_year>2008-09</ds:fiscal_year>     <ds:attendance>1556162</ds:attendance></dsbase:_3gwn-arjr></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5e86a6d34e07f0b2ac7afd01236ae5ca", 
+    "source_url": "https://data.lacity.org/api/views/3gwn-arjr/rows.rdf?accessType=DOWNLOAD"
+}

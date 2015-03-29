@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20113072</identifier><identifier type=\"pwpk\">70004870</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2011-3072</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A climate trend analysis of Sudan</title></titleInfo><originInfo><dateOther>Tue, 12 Jul 2011 00:00 -0500</dateOther><dateIssued>2011</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, V.A.</placeTerm></originInfo><name><namePart>Funk, Chris; Eilerts, Gary; Verdin, Jim; Rowland, Jim; Marshall, Michael</namePart><role>Author</role></name><abstract>Summer rains in western and southern Sudan have declined by 10-20 percent since the mid-1970s. Observed warming of more than 1 degree Celsius is equivalent to another 10-20 percent reduction in rainfall for crops. The warming and drying have impacted southern Darfur and areas around Juba. Rainfall declines west of Juba threaten southern Sudan's future food production prospects. In many cases, areas with changing climate are coincident with zones of substantial conflict, suggesting some degree of association; however, the contribution of climate change to these conflicts is not currently understood. Rapid population growth and the expansion of farming and pastoralism under a more variable climate regime could dramatically increase the number of at-risk people in Sudan over the next 20 years.</abstract><physicalDescription><form>6 p.</form><form>U.S. Geological Survey</form><form>Reston, V.A.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2011_3072.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2011/3072/</url></location><note type=\"citation/reference\">A climate trend analysis of Sudan; 2011; FS; 2011-3072; Fact Sheet; Funk, Chris; Eilerts, Gary; Verdin, Jim; Rowland, Jim; Marshall, Michael</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9895ff031566cd5c3967b432ea6eb762", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20113072"
+}

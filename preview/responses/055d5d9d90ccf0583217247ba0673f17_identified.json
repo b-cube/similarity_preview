@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <status>Successful connection, 1 record(s) found.</status>   <species>   <genus>Upeneus</genus>   <speciesfb>australiae</speciesfb>   <speccode>59750</speccode>    </species>   <comnames>    <comname></comname>      <country>Australia</country>     <language>English</language>     <type>Vernacular</type>    </comnames>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "055d5d9d90ccf0583217247ba0673f17", 
+    "source_url": "http://www.fishbase.org/webservice/ComNames/comnamesxml.php?Genus=Upeneus&Species=australiae"
+}

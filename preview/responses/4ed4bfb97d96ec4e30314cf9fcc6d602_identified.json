@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">British Geological Survey (BGS) Geophysical Survey 1983/5: Irish Sea &amp; English Channel (12/08/1983 to 30/08/1983)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-53b2-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Report: Brett, CP. 1984. Operations Report on Project 83/05. Gravity and Magnetic Survey along WINCH and SWAT Lines and Regional Geophysical Survey in the Western English Channel. (IGS Report No 138). The primary objectives were to acquire gravity and magnetics data along the WINCH and SWAT seismic lines of the British Institutions' Reflection Profiling Syndicate (BIRPS), and to survey over suspected thrusts in the basement of the English Channel close to the South Cornish Coast. A secondary objective was to run infill gravity lines in the English Channel.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">1983-08-30</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4ed4bfb97d96ec4e30314cf9fcc6d602", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-53b2-0f38-e044-0003ba9b0d98.xml/DC"
+}

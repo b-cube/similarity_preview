@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0460'>  <front> <title>NCP survey</title> <author initials='C.' surname='Kline' fullname='C. Kline'> <organization /></author> <date year='1973' month='February' /></front>  <seriesInfo name='RFC' value='460' /> <format type='TXT' octets='10324' target='http://www.rfc-editor.org/rfc/rfc460.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a6d6226000c9e8769bfe686bacd40eac", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0460.xml"
+}

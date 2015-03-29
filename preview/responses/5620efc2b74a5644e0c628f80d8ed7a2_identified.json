@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Highly Migratory Species Open Access Vessel Permits</dc:title>    <dcterms:alternative>Highly Migratory Species Open Access Vessel Permits</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>Atlantic Ocean, Gulf of Mexico, Caribbean Sea, Highly migratory species, vessel permits, fishing permits, tuna, swordfish, billfish, sharks</dc:subject>    <dcterms:abstract>This database identifies the universe of (permitted) vessels participating in open access commercial and recreational Atlantic highly migratory species (HMS) fisheries, including fisheries for bluefin tuna, swordfish, billfish, sharks, and BAYS (bigeye, albacore, yellowfin, and skipjack) tunas.  Open access commercial vessel permits include permits to fish for BAYS and bluefin tuna and swordfish, and include charter/headboat permits.  The data elements collected include identifying owner information, vessel description, vessel permit number, and home port.</dcterms:abstract>    <dc:publisher>NMFS Office Of Sustainable Fisheries</dc:publisher>    <dc:creator>NMFS Office Of Sustainable Fisheries</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/22029</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/3416</dcterms:isPartOf>    <dcterms:spatial>                         name=Permitholders are located throughout the United States, primarily along the Atlantic and Gulf of Mexico coasts.  Permits are required for fishing for Atlantic HMS, and most fishing is in the EEZ along the Atlantic and Gulf coast from Maine through Texas.;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:Period\">                           start=1994;                         </dcterms:temporal> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5620efc2b74a5644e0c628f80d8ed7a2", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/22029/dublin-core"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.Q920.1984\"> <front> <title>ISDN User-network Interface Data Link Layer - General Aspects</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"\" year=\"1984\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation Q.920\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8e822da0ad27a9ae8a7ef879e275ba10", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.CCITT.Q920.1984.xml"
+}

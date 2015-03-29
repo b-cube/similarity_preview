@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.15667</dc:identifier><dc:creator>Matentzoglu, Nicolas</dc:creator><dc:creator>Parsia, Bijan</dc:creator><dc:title>BioPortal Snapshot 27.01.2015</dc:title><dc:subject>cc-zero</dc:subject><dc:description>&lt;p&gt;This is a BioPortal snapshot from late January 2015. It contains the original files as downloaded by the BioPortal webservices, the OWL/XML serialised version with save repair, and a version where all axioms are annotated with axiom identifiers.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2015-02-26</dc:date><dc:source>http://zenodo.org/record/15667</dc:source><dc:doi>10.5281/zenodo.15667</dc:doi><dc:identifier>http://zenodo.org/record/15667</dc:identifier><dc:identifier>oai:zenodo.org:15667</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "817cf50795016929a40e3ddf3490506e", 
+    "source_url": "https://zenodo.org/record/15667/export/xd"
+}

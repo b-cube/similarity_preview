@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../Dailylog.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"image005.jpg\"/>  <o:File HRef=\"image006.jpg\"/>  <o:File HRef=\"image007.jpg\"/>  <o:File HRef=\"image008.jpg\"/>  <o:File HRef=\"image009.jpg\"/>  <o:File HRef=\"image010.jpg\"/>  <o:File HRef=\"image011.jpg\"/>  <o:File HRef=\"image012.jpg\"/>  <o:File HRef=\"image013.jpg\"/>  <o:File HRef=\"image014.jpg\"/>  <o:File HRef=\"image015.jpg\"/>  <o:File HRef=\"image016.jpg\"/>  <o:File HRef=\"image017.jpg\"/>  <o:File HRef=\"image018.jpg\"/>  <o:File HRef=\"image019.gif\"/>  <o:File HRef=\"image020.jpg\"/>  <o:File HRef=\"image021.jpg\"/>  <o:File HRef=\"image022.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8aabedb79effea06853469761f77d85e", 
+    "source_url": "http://www.ametsoc.org/amschaps/Dailylog_files/filelist.xml"
+}

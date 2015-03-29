@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>Get Lucky Twin Cities</ShortName><Description>The Get Lucky 7K and half marathon races are a fun, irish themed race which cover both Minneapolis and St. Paul.</Description><InputEncoding>UTF-8</InputEncoding><Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.getluckytc.org/templates/getluckytc/favicon.ico</Image><Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.getluckytc.org/Search.html?format=opensearch&amp;id=28\"/><Url type=\"text/html\" template=\"http://www.getluckytc.org/index.php?option=com_search&amp;searchword={searchTerms}\"/></OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dce0ad760471b8c487a8e0d4c503048d", 
+    "source_url": "http://www.getluckytc.org/Search.html?format=opensearch&id=28"
+}

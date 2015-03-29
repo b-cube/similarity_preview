@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/NELP/LakesPonds/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "42ceb6a0bd1b9c5ed34581def48783bd", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/NELP?f=sitemap"
+}

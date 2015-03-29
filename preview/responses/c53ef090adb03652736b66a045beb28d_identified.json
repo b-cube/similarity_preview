@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>UNdata</ShortName>  <Description>Search all of the databases contained in UNdata.</Description>  <Url type=\"text/html\" method=\"get\" template=\"http://data.un.org/Search.aspx?q={searchTerms}\"/>  <Image width=\"16\" height=\"16\">http://data.un.org/_Images/favicon.ico</Image>  <InputEncoding>UTF-8</InputEncoding>  <SearchForm>http://data.un.org/</SearchForm> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c53ef090adb03652736b66a045beb28d", 
+    "source_url": "http://data.un.org/OpenSearch.xml"
+}

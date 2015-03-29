@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/gilpin-county-addresspoints\" rel=\"alternate\"></link><id>/revision/gilpin-county-addresspoints</id><updated>2015-03-20T01:17:35Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5c0bd2533ed5b211074a177dea2c6655", 
+    "source_url": "http://data.opencolorado.org/dataset/history/gilpin-county-addresspoints?days=7&format=atom"
+}

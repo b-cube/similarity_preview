@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/bathy_hillshade/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/clipping_donut/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/graticule/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/gshhs/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/ibcao_contours/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/multibeam/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/sample_index/MapServer</loc> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/world_reference_map/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "99e623861570d4a1f03de847caf3a67e", 
+    "source_url": "http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic?f=sitemap"
+}

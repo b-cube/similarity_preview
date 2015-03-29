@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <gml:Ellipsoid xmlns:gml=\"http://www.opengis.net/gml/3.2\" gml:id=\"ogp-ellipsoid-7008\">    <gml:metaDataProperty>       <epsg:CommonMetaData xmlns:epsg=\"urn:x-ogp:spec:schema-xsd:EPSG:1.0:dataset\">          <epsg:informationSource>US Army Map Service Technical Manual No. 7; 1943.</epsg:informationSource>          <epsg:revisionDate>2013-01-17</epsg:revisionDate>          <epsg:changes>             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::1998.340\" />             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::2012.095\" />          </epsg:changes>          <epsg:show>true</epsg:show>          <epsg:isDeprecated>false</epsg:isDeprecated>       </epsg:CommonMetaData>    </gml:metaDataProperty>    <gml:identifier codeSpace=\"OGP\">urn:ogc:def:ellipsoid:EPSG::7008</gml:identifier>    <gml:name>Clarke 1866</gml:name>    <gml:remarks>Original definition a=20926062 and b=20855121 (British) feet. Uses Clarke's 1865 inch-metre ratio of 39.370432 to obtain metres. (Metric value then converted to US survey feet for use in the US and international feet for use in Cayman Islands).</gml:remarks>    <gml:semiMajorAxis uom=\"urn:ogc:def:uom:EPSG::9001\">6378206.4</gml:semiMajorAxis>    <gml:secondDefiningParameter>       <gml:SecondDefiningParameter>          <gml:semiMinorAxis uom=\"urn:ogc:def:uom:EPSG::9001\">6356583.8</gml:semiMinorAxis>       </gml:SecondDefiningParameter>    </gml:secondDefiningParameter> </gml:Ellipsoid> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f3d8f31f1d7aa074e85594bcd740c8d4", 
+    "source_url": "http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:ellipsoid:EPSG::7008"
+}

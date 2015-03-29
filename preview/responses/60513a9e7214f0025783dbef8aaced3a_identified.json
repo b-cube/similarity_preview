@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Arias, \\ufffd\\ufffdlvaro</author>         </authors>       </contributors>       <titles>         <title>Los componentes del archifonema. A prop\\ufffd\\ufffdsito de la inflexi\\ufffd\\ufffdn de \\ufffd\\ufffd en el habla de Los Ancares (Le\\ufffd\\ufffdn)</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.13049</doi>       <pages>1999</pages>       <volume/>       <number/>       <keywords>         <keyword>Linguistics</keyword>         <keyword>Phonology</keyword>         <keyword>Galician language</keyword>         <keyword>Phonology of Galician language</keyword>         <keyword>Vowel harmony</keyword>         <keyword>Umlaut</keyword>         <keyword>Dialectology of Galician language</keyword>       </keywords>       <dates>         <year>1999</year>         <pub-dates>           <date>1999-12-03</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;&amp;Aacute;lvaro Arias. &amp;laquo;Los componentes del archifonema. A prop&amp;oacute;sito de la inflexi&amp;oacute;n de &lt;em&gt;&amp;aacute;&lt;/em&gt; en el habla de Los Ancares (Le&amp;oacute;n)&amp;raquo;, &lt;em&gt;Actas do V Congreso Internacional de Estudios Galegos (Universidade de Tr&amp;eacute;veris, 8-11 de outubro de 1997), &lt;/em&gt;vol. II, &lt;em&gt;Ling&amp;uuml;&amp;iacute;stica. Literatura, &lt;/em&gt;ed. de Dieter Kremer, [Sada] &amp;amp; Trier, Edici&amp;oacute;s do Castro &amp;amp; Centro de Documentaci&amp;oacute;n de Galicia da Universidade de Trier, 1999, p&amp;aacute;gs. 637-681. ISBN: 84-7-492-940-7.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "60513a9e7214f0025783dbef8aaced3a", 
+    "source_url": "https://zenodo.org/record/13049/export/xe"
+}

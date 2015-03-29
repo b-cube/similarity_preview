@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.25.887'> <front> <title>Beamforming enhancements</title> <author><organization>3GPP</organization></author> <date day='02' month='April' year='2004' /> </front>  <seriesInfo name='3GPP TR' value='25.887 6.0.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/25887.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c495d67fbd6e61dd5d9b4236392e4e90", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.25.887.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS/1997NAAQS_NAA2013conditions/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS/1997NAAQS_nonattainment_areas/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS/2013DesignValues/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS/2025BaselineDesignValues/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS/CleanPowerPlan_111d_StatesSummary/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS/CleanPowerPlan_Tribes/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS/Facilities_Covered_by_Rule/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS/PM25NAA/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS/States/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9059f4d65fa96e67e219a536699fd55e", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS?f=sitemap"
+}

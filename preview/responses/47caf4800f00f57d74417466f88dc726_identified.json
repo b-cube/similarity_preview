@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../mathclub.htm\"/>  <o:File HRef=\"item0001.xml\"/>  <o:File HRef=\"props0002.xml\"/>  <o:File HRef=\"item0003.xml\"/>  <o:File HRef=\"props0004.xml\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"image003.gif\"/>  <o:File HRef=\"image004.gif\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "47caf4800f00f57d74417466f88dc726", 
+    "source_url": "https://www.ndsu.edu/pubweb/~akhmedov/mathclub_files/filelist.xml"
+}

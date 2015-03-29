@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><solr sharedLib=\"lib\" persistent=\"true\"> <cores><!--disabled; re-enable to administer cores online adminPath=\"/admin/cores\"-->   <core name=\"welshVoices\" instanceDir=\"multicore/welshVoices/\"/>   <!--core name=\"manchesterCityArchives\" instanceDir=\"multicore/manchesterCityArchives/\"/-->   <core name=\"BLIndiaOffice\" instanceDir=\"multicore/BLIndiaOffice/\"/>   <core name=\"britishPostalMuseum\" instanceDir=\"multicore/britishPostalMuseum/\"/> </cores> </solr> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c3f84528fe9f45c4f75d266374254a6c", 
+    "source_url": "http://data.archiveshub.ac.uk/solrdocs/solr.xml"
+}

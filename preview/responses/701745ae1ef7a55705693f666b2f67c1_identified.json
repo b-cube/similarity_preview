@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>EBTC</ShortName>   <Description></Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://ebtc.eu/templates/beez_20/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://ebtc.eu/index.php/component/search/?format=opensearch\"/>   <Url type=\"text/html\" template=\"http://ebtc.eu/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "701745ae1ef7a55705693f666b2f67c1", 
+    "source_url": "http://ebtc.eu/index.php/component/search/?format=opensearch"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <ShortName>www.intcent.org</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Url type=\"text/html\" method=\"get\" template=\"http://www.intcent.org/sys/search?q={searchTerms}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8cfdbcf17075133b0fcb9e3e8f9c3eef", 
+    "source_url": "http://www.intcent.org/opensearch.ashx"
+}

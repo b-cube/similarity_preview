@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?> <response xmlns=\"http://xml.opendap.org/ns/bes/1.0#\" reqID=\"[ajp-bio-10009-exec-1269:1307:bes_request]\">     <getDDX>         <BESError>             <Type>5</Type>             <Message>Unable to access node /Aqua_AIRS_Level3/AIRS3ST8.005/2015/AIRS.2015.02.01.L3.RetStd_IR008.v5.0.14.0.G15040133942.hdf: No such file or directory</Message>             <Administrator>admin.email.address@your.domain.name</Administrator>         </BESError>     </getDDX> </response> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f0a93cb32cc14620dd29be205d5d0dd3", 
+    "source_url": "http://acdisc.sci.gsfc.nasa.gov/opendap/ncml/Aqua_AIRS_Level3/AIRS3ST8.005/2015/AIRS.2015.02.01.L3.RetStd_IR008.v5.0.14.0.G15040133942.hdf.ncml.ddx"
+}

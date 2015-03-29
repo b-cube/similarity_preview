@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123105</identifier><identifier type=\"pwpk\">70039801</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3105</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A climate trend analysis of Mali</title></titleInfo><originInfo><dateOther>Sat, 1 Sep 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Funk, Chris; Rowland, Jim; Adoum, Alkhalil; Eilerts, Gary; White, Libby</namePart><role>Author</role></name><abstract>This brief report, drawing from a multi-year effort by the U.S. Agency for International Development (USAID) Famine Early Warning Systems Network (FEWS NET), identifies modest declines in rainfall, accompanied by increases in air temperatures. These analyses are based on quality-controlled station observations. Conclusions: * Summer rains have remained relatively steady for the past 20 years, but are 12 percent below the 1920-1969 average. * Temperatures have increased by 0.8&amp;deg; Celsius since 1975, amplifying the effect of droughts. * Cereal yields are low but have been improving. * Current population and agricultural trends indicate that increased yields have offset population expansion, keeping per capita cereal production steady.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3105.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3105/</url><url displayLabel=\"pdf\" note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2012/3105/fs2012-3105.pdf</url></location><note type=\"citation/reference\">A climate trend analysis of Mali; 2012; FS; 2012-3105; Fact Sheet; Funk, Chris; Rowland, Jim; Adoum, Alkhalil; Eilerts, Gary; White, Libby</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "56779dae8a2c9bfb6df4965b584341dc", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123105"
+}

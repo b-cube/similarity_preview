@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">    <title>Alan Dearle</title>   <generator uri=\"https://github.com/jekyll/jekyll\">Jekyll v2.5.3</generator>     <icon>/apple-touch-icon-precomposed.png</icon>   <subtitle>Home page for Professor Alan Dearle</subtitle>   <link href=\"/atom.xml\" rel=\"self\"/>   <link href=\"/\" rel=\"alternate\" type=\"text/html\"/>   <updated>2015-03-06T11:39:57+00:00</updated>   <id>/</id>   <author>     <name></name>     <uri>/</uri>        </author>        </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e88883fe0fcde69db6160e27e0ece106", 
+    "source_url": "http://al.host.cs.st-andrews.ac.uk/atom.xml"
+}

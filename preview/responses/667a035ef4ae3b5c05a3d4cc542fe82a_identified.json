@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns:atom=\"http://www.w3.org/2005/Atom\"   xmlns=\"http://purl.org/rss/1.0/\" >  <channel rdf:about=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CUTS-DISCUSS&amp;v=1.0\">  <dc:identifier>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CUTS-DISCUSS&amp;v=1.0</dc:identifier>  <title>CUTS-DISCUSS List</title>  <link>https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CUTS-DISCUSS</link>  <description>CUTS-DISCUSS List Archives</description>  <dc:date>2015-03-12T22:18:43Z</dc:date>  <image rdf:resource=\"http://www.lsoft.com/images/listserv_small.gif\"/>    <items>   <rdf:Seq>     <rdf:li resource=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CUTS-DISCUSS&amp;v=1.0\"/>    </rdf:Seq>  </items>   </channel>  <image rdf:about=\"http://www.lsoft.com/images/listserv_small.gif\">     <title>Powered by L-Soft's LISTSERV mailing list manager</title>     <link>http://www.lsoft.com/products/listserv-powered.asp</link>     <url>http://www.lsoft.com/images/listserv_small.gif</url> </image>  <item rdf:about=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CUTS-DISCUSS&amp;v=1.0\">     <title>No entries available for CUTS-DISCUSS List</title>     <link href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CUTS-DISCUSS\"/>   <dc:creator>CUTS-DISCUSS (mailto:cuts-discuss-request@WWW.JISCMAIL.AC.UK)  </dc:creator>   <dc:date>2015-03-12T22:18:43Z</dc:date>   <dc:identifier>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CUTS-DISCUSS&amp;v=1.0</dc:identifier> </item>  </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "667a035ef4ae3b5c05a3d4cc542fe82a", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=CUTS-DISCUSS&v=1.0"
+}

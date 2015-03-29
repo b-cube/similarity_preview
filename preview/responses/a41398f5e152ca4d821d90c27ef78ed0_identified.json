@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Date-Time-Last-Modified>20030418082641 </Date-Time-Last-Modified>  <Personal-Name>Cole, W. Storrs (William Storrs), 1902-1989 </Personal-Name>  <Title>Larger Foraminifera from Eniwetok Atoll drill holes : Bikini and nearby atolls, Marshall Islands / by W. Storrs Cole. </Title>  <Imprint>Washington : U.S. Govt. Print. Off., 1957. </Imprint>  <Physical-Description>p. 743-784, [19] p. of plates : ill., maps ; 29 cm. </Physical-Description>  <Series-Statement-Added-Entry>Geological Survey professional paper ; 260-V </Series-Statement-Added-Entry>  <General-Note>\"Sixty-two species and one variety of larger Foraminifera from Eniwetok Atoll drill holes are identified; 11 are new.\" </General-Note>  <General-Note>Part of illustrative matter folded in pocket. </General-Note>  <Bibliography-Note>Includes bibliographical references (p. 780-781) and index. </Bibliography-Note>  <Subject-Added-Topical-Term>Foraminifera Marshall Islands Enewetak Atoll Geographical distriubtion. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Foraminifera Size Marshall Islands Enewetak Atoll. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Foraminifera Marshall Islands Enewetak Atoll Classification. </Subject-Added-Topical-Term>  <Added-Entry-Corporate-Name>Geological Survey (U.S.) </Added-Entry-Corporate-Name>  <Access-Information>NOAA Central Library, Silver Spring, MD|STACKS|QE75 .P9 no.260-V|BOOK|1 </Access-Information>  <Region>RMI </Region>  <Bounding>  <Eastbc>169.97 </Eastbc>  <Westbc>162.302 </Westbc>  <Southbc>5.573 </Southbc>  <Northbc>14.71 </Northbc>  </Bounding>  <Local-number>OCoLC-ocm07495303 </Local-number>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a41398f5e152ca4d821d90c27ef78ed0", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B1AE72BB8-1963-4FDF-B2AB-7987C8F4099E%7D"
+}

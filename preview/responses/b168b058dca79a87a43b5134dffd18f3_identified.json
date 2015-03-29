@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0088'>  <front> <title>NETRJS: A third level protocol for Remote Job Entry</title> <author initials='R.T.' surname='Braden' fullname='R.T. Braden'> <organization /></author> <author initials='S.M.' surname='Wolfe' fullname='S.M. Wolfe'> <organization /></author> <date year='1971' month='January' /></front>  <seriesInfo name='RFC' value='88' /> <format type='TXT' octets='19691' target='http://www.rfc-editor.org/rfc/rfc88.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b168b058dca79a87a43b5134dffd18f3", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0088.xml"
+}

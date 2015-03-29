@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0563'>  <front> <title>Comments on the RCTE Telnet option</title> <author initials='J.' surname='Davidson' fullname='J. Davidson'> <organization /></author> <date year='1973' month='August' /></front>  <seriesInfo name='RFC' value='563' /> <format type='TXT' octets='10788' target='http://www.rfc-editor.org/rfc/rfc563.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1cdc47b025112f881a3823d460a4cffa", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0563.xml"
+}

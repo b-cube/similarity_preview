@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.NOTE-link-970826\"> <front> <title>Navigation through LINK elements in HTML</title>  <author initials=\"D\" surname=\"Glazman\" fullname=\"Daniel Glazman\">     <organization /> </author>  <date month=\"June\" day=\"15\" year=\"1997\" /> </front>  <seriesInfo name=\"W3C NOTE\" value=\"NOTE-link-970826\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/NOTE-link-970826\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "760aa0c116ea8c0f10156dde86f33029", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-link-970826.xml"
+}

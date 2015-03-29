@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/r7/westlake_overview/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2694c8d6ebdcbe084d67c2fe9e81e29c", 
+    "source_url": "http://gispub.epa.gov/arcgis/rest/services/r7?f=sitemap"
+}

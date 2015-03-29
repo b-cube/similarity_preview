@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <?xml-stylesheet href=\"http://www.atomenabled.org/css/atom.css\" type=\"text/css\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">  <icon>http://www.lsoft.com/images/listserv-community.gif</icon> <logo>http://www.lsoft.com/images/listserv_small.gif</logo> <link rel=\"related\" href=\"http://www.lsoft.com/products/listserv-powered.asp\" title=\"Powered by L-Soft's LISTSERV mailing list manager\"/>  <title>CILIPSTAYSIDE List</title> <subtitle>CILIPSTAYSIDE List Archives</subtitle> <link rel=\"alternate\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CILIPSTAYSIDE\"/> <link rel=\"self\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CILIPSTAYSIDE&amp;v=ATOM1.0\"/> <id>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CILIPSTAYSIDE&amp;v=ATOM1.0</id> <div class=\"info\" xmlns=\"http://www.w3.org/1999/xhtml\">This is an Atom formatted XML site feed. It is intended to be viewed in a Newsreader. Alternatively you can view the HTML archives at https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CILIPSTAYSIDE. </div> <generator uri=\"/cgi-bin/webadmin?DEBUG-SHOW-VERSION\">LISTSERV Web Interface 2.4.1</generator> <updated>2014-06-18T12:57:56Z</updated>   <entry xmlns='http://www.w3.org/2005/Atom'>   <link rel='alternate' href='https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CILIPSTAYSIDE;b4850154.1406' title='&lt;No subject&gt; '/>   <author>      <name>Ailsa Caldwell</name>   </author>   <published>2014-06-18T14:57:55+01:00</published>   <updated>2014-06-18T14:57:55+01:00</updated>   <title>&lt;No subject&gt; </title>   <id>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CILIPSTAYSIDE;b4850154.1406</id>   <content type='html'>Full message available at: &lt;a href=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CILIPSTAYSIDE;b4850154.1406\"&gt;&lt;No subject&gt; &lt;/a&gt;</content> </entry>  <entry xmlns='http://www.w3.org/2005/Atom'>   <link rel='alternate' href='https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CILIPSTAYSIDE;f451b6d5.1404' title='Test Message '/>   <author>      <name>Abi Mawhirt</name>   </author>   <published>2014-04-10T10:17:22+01:00</published>   <updated>2014-04-10T10:17:22+01:00</updated>   <title>Test Message </title>   <id>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CILIPSTAYSIDE;f451b6d5.1404</id>   <content type='html'>Test 10th April 2014&lt;br&gt;&lt;br&gt;Dundee and Angus College is a charity registered in Scotland: No. SC021188 </content> </entry>  </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b15b896748ca4ea2814647867b76c1c6", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=CILIPSTAYSIDE&v=ATOM1.0"
+}

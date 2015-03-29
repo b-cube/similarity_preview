@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.NOTE-imagemap'            target='http://www.w3.org/TR/NOTE-imagemap'> <front> <title>Imagemapped Images and Image-Incapable User Agents</title>  <author initials='R.' surname='Ishida' fullname='Richard Ishida'>     <organization /> </author>  <date month='November' day='27' year='1996' /> </front>  <seriesInfo name='World Wide Web Consortium NOTE' value='NOTE-imagemap' /> <format type='HTML' target='http://www.w3.org/TR/NOTE-imagemap' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2b73b68ef165fcce69f2ef98cf44209a", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-imagemap.xml"
+}

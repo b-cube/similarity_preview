@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../Joe%20Sienkiewicz.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"image003.gif\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"image005.jpg\"/>  <o:File HRef=\"image006.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e5334cc487877ea7e2efd2483cdba213", 
+    "source_url": "http://www.opc.ncep.noaa.gov/OAB/Sienkiewicz_info/Joe%20Sienkiewicz_files/filelist.xml"
+}

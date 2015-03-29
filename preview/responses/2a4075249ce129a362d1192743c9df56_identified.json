@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF      xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"     xmlns=\"http://purl.org/rss/1.0/\"     xmlns:dc=\"http://purl.org/dc/elements/1.1/\"     xmlns:content=\"http://purl.org/rss/1.0/modules/content/\">     <channel rdf:about=\"http://www.w3.org/2001/sw/sweo/public/UseCases/Overview.rdf\">         <title>Semantic Web Case Studies and Use Cases</title>         <link>http://www.w3.org/2001/sw/sweo/public/UseCases/</link>         <description>Case studies include descriptions of systems that have been deployed within an organization,        and are now being used within a production environment. Use cases include examples where an        organization has built a prototype system, but it is not currently being used by business        functions.</description>         <dc:source>http://www.w3.org/2001/sw/sweo/public/UseCases/</dc:source>         <dc:date>2012-11-18</dc:date>         <items>             <rdf:Seq>                 <rdf:li rdf:resource=\"http://www.w3.org/2001/sw/sweo/public/UseCases/LJMU/\"/>                 <rdf:li rdf:resource=\"http://www.w3.org/2001/sw/sweo/public/UseCases/IBM/\"/>             </rdf:Seq>         </items>     </channel>         <item rdf:about=\"http://www.w3.org/2001/sw/sweo/public/UseCases/LJMU/\">             <title>Using the Semantic Web to Enhance the Teaching of Dance (Case study)</title>             <link>http://www.w3.org/2001/sw/sweo/public/UseCases/LJMU/</link>             <dc:date>2012-11-18T00:00+00:00</dc:date>             <dc:rights>\\ufffd\\ufffd Copyright Liverpool John Moores University</dc:rights>             <dc:subject>content discovery</dc:subject>             <dc:creator>Simon Morris</dc:creator>         </item>         <item rdf:about=\"http://www.w3.org/2001/sw/sweo/public/UseCases/IBM/\">             <title>Open Services Lifecycle Collaboration framework based on Linked Data (Case study)</title>             <link>http://www.w3.org/2001/sw/sweo/public/UseCases/IBM/</link>             <dc:date>2012-11-15T00:00+00:00</dc:date>             <dc:rights>\\ufffd\\ufffd Copyright IBM</dc:rights>             <dc:subject>lifecycle management, data integration, service integration</dc:subject>             <dc:creator>Arnaud Le Hors and Steve Speicher</dc:creator>         </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2a4075249ce129a362d1192743c9df56", 
+    "source_url": "http://www.w3.org/2001/sw/sweo/public/UseCases/Overview.rdf"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/1853/10892\"> <title>Office of the President</title> <link>http://hdl.handle.net/1853/10892</link> <description>Speeches, publications, and documents from the Office of the President of the Georgia Institute of Technology.</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/52742\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/52709\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/52708\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/51247\"/> </rdf:Seq> </items> <dc:date>2015-03-12T19:41:17Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/1853/52742\"> <title>President's Update Spring 2014</title> <link>http://hdl.handle.net/1853/52742</link> <description>President's Update Spring 2014 </description> <dc:date>2014-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/1853/52709\"> <title>Georgia Institute of Technology Annual Report, 2013</title> <link>http://hdl.handle.net/1853/52709</link> <description>Georgia Institute of Technology Annual Report, 2013 </description> <dc:date>2013-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/1853/52708\"> <title>Georgia Institute of Technology Annual Report, 2014</title> <link>http://hdl.handle.net/1853/52708</link> <description>Georgia Institute of Technology Annual Report, 2014 </description> <dc:date>2014-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/1853/51247\"> <title>Letters and Bulletins: An Update on Georgia Tech Savannah</title> <link>http://hdl.handle.net/1853/51247</link> <description>Letters and Bulletins: An Update on Georgia Tech Savannah </description> <dc:date>2011-04-07T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "649d0de970b9913497f4dddd3b92c4ac", 
+    "source_url": "https://smartech.gatech.edu/feed/rss_1.0/1853/10892"
+}

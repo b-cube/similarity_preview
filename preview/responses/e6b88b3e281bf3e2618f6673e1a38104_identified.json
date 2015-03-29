@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Patel, Rahul</a1>   <a2>Metchev, Stanimir</a2>   <a2>Heinze, Aren</a2>   <t1>Finding Warm Debris Disks with WISE Around Bright Stars</t1>   <t2/>   <sn/>   <op/>   <vo>212</vo>   <ab>&lt;p&gt;We present a sensitive search for&amp;nbsp;&lt;em&gt;WISE&lt;/em&gt;&amp;nbsp;&lt;em&gt;W&lt;/em&gt;3 (12 &amp;mu;m) and&amp;nbsp;&lt;em&gt;W&lt;/em&gt;4 (22 &amp;mu;m) excesses from warm optically thin dust around&amp;nbsp;&lt;em&gt;Hipparcos&lt;/em&gt;&amp;nbsp;main sequence stars within 75 pc from the Sun. We use contemporaneously measured photometry from&amp;nbsp;&lt;em&gt;WISE&lt;/em&gt;, remove sources of contamination, and derive and apply corrections to saturated fluxes to attain optimal sensitivity to &amp;gt;10 &amp;mu;m excesses. We use data from the&amp;nbsp;&lt;em&gt;WISE&lt;/em&gt;&amp;nbsp;All-Sky Survey Catalog rather than the AllWISE release because we find that its saturated photometry is better behaved, allowing us to detect small excesses even around saturated stars in&amp;nbsp;&lt;em&gt;WISE&lt;/em&gt;. Our new discoveries increase by 45% the number of stars with warm dusty excesses and expand the number of known debris disks (with excess at any wavelength) within 75 pc by 29%. We identify 220&amp;nbsp;&lt;em&gt;Hipparcos&lt;/em&gt;&amp;nbsp;debris disk host stars, 108 of which are new detections at any wavelength. We present the first measurement of a 12&amp;nbsp;&amp;mu;m and/or 22&amp;nbsp;&amp;mu;m excess for 10 stars with previously known cold (50-100 K) disks. We also find five new stars with small but significant&amp;nbsp;&lt;em&gt;W&lt;/em&gt;3 excesses, adding to the small population of known exozodi, and we detect evidence for a&amp;nbsp;&lt;em&gt;W&lt;/em&gt;2 excess around HIP&amp;nbsp;96562 (F2V), indicative of tenuous hot (780 K) dust. As a result of our&amp;nbsp;&lt;em&gt;WISE&lt;/em&gt;&amp;nbsp;study, the number of debris disks with known 10-30&amp;nbsp;&amp;mu;m excesses within 75 pc (379) has now surpassed the number of disks with known &amp;gt;30 &amp;mu;m excesses (289, with 171 in common), even if the latter have been found to have a higher occurrence rate in unbiased samples.&lt;/p&gt;</ab>   <la/>   <k1>debris disks;                 WISE;                 planetary systems;                 protoplanetary disks;                 zodiacal dust;                 statistics;                 </k1>   <pb/>   <pp/>   <yr>2014-06-18</yr>   <ed/>   <ul>http://zenodo.org/record/10592/files/RahulPatel_CS18_WISE.png;  http://zenodo.org/record/10592/files/RahulPatel_CS18_WISE.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e6b88b3e281bf3e2618f6673e1a38104", 
+    "source_url": "https://zenodo.org/record/10592/export/xw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">             <channel rdf:about=\"https://www2.le.ac.uk/offices/catering/Outlets/embrace-arts/outlets-in-the-david-wilson-building/RSS\">   <title>Outlets at Embrace Arts</title>   <link>https://www2.le.ac.uk</link>    <description>                    </description>                     <syn:updatePeriod>daily</syn:updatePeriod>             <syn:updateFrequency>1</syn:updateFrequency>             <syn:updateBase>2006-02-14T08:00:00Z</syn:updateBase>             <image rdf:resource=\"https://www2.le.ac.uk/logo.png\"/>    <items>     <rdf:Seq>                <rdf:li rdf:resource=\"https://www2.le.ac.uk/offices/catering/Outlets/embrace-arts/the-arts-bar\"/>            </rdf:Seq>   </items>  </channel>     <item rdf:about=\"https://www2.le.ac.uk/offices/catering/Outlets/embrace-arts/the-arts-bar\">     <title>The Arts Bar</title>     <link>https://www2.le.ac.uk/offices/catering/Outlets/embrace-arts/the-arts-bar</link>     <description></description>     <content:encoded xmlns:content=\"http://purl.org/rss/1.0/modules/content/\"><![CDATA[<p><strong>Monday \\ufffd\\ufffd\\ufffd Friday</strong></p> <p><strong>10.00am ~ 4.30pm</strong></p> <p><strong><a class=\"external-link\" href=\"http://www.le.ac.uk/embracearts/\">Event Hours</a> (weekends and evenings) </strong></p> <p>The Arts Bar is a contemporary caf\\ufffd\\ufffd bar which offers a range of speciality coffees and teas, freshly-made paninis, sandwiches, jacket potatoes, soup, light snacks, cakes and confectionery, as well as alcoholic drinks. A modern and vibrant seating area, friendly staff and a welcoming atmosphere make The Arts Bar the place to be.</p>]]></content:encoded>     <dc:publisher>No publisher</dc:publisher>     <dc:creator>jm391</dc:creator>     <dc:rights></dc:rights>            <dc:subject>Catering - Outlets - RAC</dc:subject>          <dc:date>2011-12-22T16:55:00Z</dc:date>     <dc:type>Blog Entry</dc:type>   </item>      </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e79801fc94c68a8cb3506623c7c11623", 
+    "source_url": "https://www2.le.ac.uk/offices/catering/Outlets/embrace-arts/outlets-in-the-david-wilson-building/RSS"
+}

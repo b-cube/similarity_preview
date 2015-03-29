@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Deposit Plait Project</title> <link href=\"http://hdl.handle.net/2160/582\" rel=\"alternate\"/> <subtitle>Items relating to the Deposit Plait project</subtitle> <id>http://hdl.handle.net/2160/582</id> <updated>2015-03-06T13:23:42Z</updated> <dc:date>2015-03-06T13:23:42Z</dc:date> <entry> <title>Deposit Plait Project Overview presentation</title> <link href=\"http://hdl.handle.net/2160/583\" rel=\"alternate\"/> <author> <name>Lewis, Stuart</name> </author> <id>http://hdl.handle.net/2160/583</id> <updated>2008-06-13T01:00:08Z</updated> <published>2008-06-12T10:47:03Z</published> <summary type=\"text\">Deposit Plait Project Overview presentation Lewis, Stuart A presentation given at the CRIG DRY (Don't Repeat Yourself) workshop at Bath University on the 6th June 2007. </summary> <dc:date>2008-06-12T10:47:03Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fd7f84870ac6efef635b62cee07d65f7", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/582"
+}

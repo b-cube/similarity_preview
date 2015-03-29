@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <oembed><author_url>http://www.youtube.com/user/Hanglands</author_url><version>1.0</version><type>video</type><thumbnail_width>480</thumbnail_width><thumbnail_height>360</thumbnail_height><provider_url>http://www.youtube.com/</provider_url><thumbnail_url>http://i.ytimg.com/vi/YwxmsNwOf6w/hqdefault.jpg</thumbnail_url><html>&lt;iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/YwxmsNwOf6w?feature=oembed\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</html><provider_name>YouTube</provider_name><height>270</height><width>480</width><title>Weather Satellite Reception</title><author_name>Steven Hanglands</author_name></oembed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9d04e34ee9e8aeb5653fdb36023b8aa1", 
+    "source_url": "http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYwxmsNwOf6w&format=xml"
+}

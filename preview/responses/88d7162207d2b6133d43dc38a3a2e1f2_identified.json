@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <discovery xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns=\"http://schemas.xmlsoap.org/disco/\">   <contractRef ref=\"http://sdmdataaccess.nrcs.usda.gov/tabular/SDMTabularService.asmx?wsdl\" docRef=\"http://sdmdataaccess.nrcs.usda.gov/tabular/SDMTabularService.asmx\" xmlns=\"http://schemas.xmlsoap.org/disco/scl/\" />   <soap address=\"http://sdmdataaccess.dev.sc.egov.usda.gov/tabular/SDMTabularService.asmx\" xmlns:q1=\"http://SDMDataAccess.nrcs.usda.gov/Tabular/SDMTabularService.asmx\" binding=\"q1:SDMTabularServiceSoap\" xmlns=\"http://schemas.xmlsoap.org/disco/soap/\" />   <soap address=\"http://sdmdataaccess.dev.sc.egov.usda.gov/tabular/SDMTabularService.asmx\" xmlns:q2=\"http://SDMDataAccess.nrcs.usda.gov/Tabular/SDMTabularService.asmx\" binding=\"q2:SDMTabularServiceSoap12\" xmlns=\"http://schemas.xmlsoap.org/disco/soap/\" /> </discovery>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "88d7162207d2b6133d43dc38a3a2e1f2", 
+    "source_url": "http://sdmdataaccess.nrcs.usda.gov/Tabular/SDMTabularService.asmx?disco"
+}

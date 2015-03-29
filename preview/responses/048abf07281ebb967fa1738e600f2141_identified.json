@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">   <title>Gentoo Packages /package/dev-libs/ding-libs</title>   <icon>http://www.gentoo.org/favicon.ico</icon>   <id>http://packages.gentoo.org/feed/package/dev-libs/ding-libs</id>   <generator uri=\"http://packages.gentoo.org/\">Gentoo Packages2</generator>   <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/dev-libs/ding-libs\" type=\"text/html\"/>   <link rel=\"self\" href=\"http://packages.gentoo.org/feed/package/dev-libs/ding-libs\" type=\"application/atom+xml\"/>   <updated>2015-03-04T02:40:51Z</updated>   <entry>  <title xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\">    <div>         <span class=\"cpvstr\">dev-libs/ding-libs</span>: <span class=\"description\">Library set needed for build sssd</span>       </div>     </title>     <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/dev-libs/ding-libs\" type=\"text/html\"/>     <id>http://packages.gentoo.org/package/dev-libs/ding-libs?ts=2015-03-03T22:31:06Z</id>     <author>       <name>Markus Meier (maekke)</name>       <uri>http://cia.vc/stats/author/maekke</uri>     </author>     <updated>2015-03-03T22:31:06Z</updated>     <summary xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\"><div>03 Mar 2015; Markus Meier (<a href=\"http://cia.vc/stats/author/maekke\">maekke</a>) <a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-libs/ding-libs/ding-libs-0.4.0.ebuild?view=markup\">ding-libs-0.4.0.ebuild</a>:<br/>add ~arm, bug #<a href=\"https://bugs.gentoo.org/show_bug.cgi?id=540540\">540540</a></div></summary>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "048abf07281ebb967fa1738e600f2141", 
+    "source_url": "http://packages.gentoo.org/feed/package/dev-libs/ding-libs"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Canonical Metrics in Sasakian Geometry</dc:title><dc:creator>Collins, Tristan</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Mathematics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D86Q1VCS</dc:identifier><dc:description>The aim of this thesis is to study the existence problem for canonical Sasakian metrics, primarily Sasaki-Einstein metrics. We are interested in providing both necessary conditions, as well as sufficient conditions for the existence of such metrics. We establish several sufficient conditions for the existence of Sasaki-Einstein metrics by studying the Sasaki-Ricci flow. In the process, we extend some fundamental results from the study of the Kahler-Ricci flow to the Sasakian setting. This includes finding Sasakian analogues of Perelman's energy and entropy functionals which are monotonic along the Sasaki-Ricci flow. Using these functionals we extend Perelman's deep estimates for the Kahler-Ricci flow to the Sasaki-Ricci flow. Namely, we prove uniform scalar curvature, diameter and non-collapsing estimates along the Sasaki-Ricci flow. We show that these estimates imply a uniform transverse Sobolev inequality. Furthermore, we introduce the sheaf of transverse foliate vector fields, and show that it has a natural, transverse complex structure. We show that the convergence of the flow is intimately related to the space of global transversely holomorphic sections of this sheaf. We introduce an algebraic obstruction to the existence of constant scalar curvature Sasakian metrics, extending the notion of K-stability for projective varieties. Finally, we show that, for regular Sasakian manifolds whose quotients are Kahler-Einstein Fano manifolds, the Sasaki-Ricci flow, or equivalently, the Kahler-Ricci flow, converges exponentially fast to a (transversely) Kahler-Einstein metric.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6dca860dac6c9c0b03a32eb6a399cf17", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A175504.dc_xml"
+}

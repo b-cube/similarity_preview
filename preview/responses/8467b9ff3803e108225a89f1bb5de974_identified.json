@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://data.opencolorado.org/dataset/2012-avondale-tapestry-segmetation-profile\">     <owl:sameAs rdf:resource=\"urn:uuid:ae8de91d-3bc6-4175-b443-dbcc6761a1c2\"></owl:sameAs>     <dct:description>Tapestry segmentation profile for Avondale, Pueblo County</dct:description>         <dcat:keyword>Avondale</dcat:keyword>         <dcat:keyword>Pueblo County</dcat:keyword>         <dcat:keyword>demographic</dcat:keyword>         <dcat:keyword>economic</dcat:keyword>         <dcat:keyword>population</dcat:keyword>         <dcat:keyword>pueblo</dcat:keyword>         <dcat:keyword>segmentation</dcat:keyword>         <dcat:keyword>tapestry</dcat:keyword>     <foaf:homepage rdf:resource=\"http://data.opencolorado.org/dataset/2012-avondale-tapestry-segmetation-profile\"></foaf:homepage>     <rdfs:label>2012-avondale-tapestry-segmetation-profile</rdfs:label>     <dct:identifier>2012-avondale-tapestry-segmetation-profile</dct:identifier>     <dct:title>2012 Avondale Tapestry Segmetation Profile</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://data.opencolorado.org/storage/f/2013-03-26T231823/TapestrySegmentationAreaProfile-0.pdf\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>pdf</rdf:value>                             <rdfs:label>pdf</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>2013-03-26T231823/TapestrySegmentationAreaProfile-0.pdf</dct:title>             </dcat:Distribution>         </dcat:distribution>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "8467b9ff3803e108225a89f1bb5de974", 
+    "source_url": "http://data.opencolorado.org/dataset/ae8de91d-3bc6-4175-b443-dbcc6761a1c2.rdf"
+}

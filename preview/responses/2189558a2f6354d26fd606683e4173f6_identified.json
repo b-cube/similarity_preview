@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/drcog-2010-census-data-hispanic-latino-origin-race-metadata\" rel=\"alternate\"></link><id>/revision/drcog-2010-census-data-hispanic-latino-origin-race-metadata</id><updated>2015-03-20T01:17:03Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2189558a2f6354d26fd606683e4173f6", 
+    "source_url": "http://data.opencolorado.org/dataset/history/drcog-2010-census-data-hispanic-latino-origin-race-metadata?days=7&format=atom"
+}

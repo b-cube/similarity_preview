@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Whale watch contacts</dc:title>    <dcterms:alternative>Whale Watch Industry Contact List- 2012</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>whale watch</dc:subject>    <dcterms:abstract>Marine mammal viewing in the Northeast Region is managed through voluntary whale watching guidelines.  Industry may include commercial whale watching vessels, charter whale watches, dolphin and/or seal watches.</dcterms:abstract>    <dc:publisher>Greater Atlantic Regional Fisheries Office</dc:publisher>    <dc:creator>Greater Atlantic Regional Fisheries Office</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/16736</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/11254</dcterms:isPartOf>    <dcterms:accessRights>None.</dcterms:accessRights>    <dc:format>computer program</dc:format> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9cf7d49abc83697246d6302243774090", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/16736/dublin-core"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.1109/P2P.2013.6688732</dc:identifier><dc:creator>Estrich, Pau</dc:creator><dc:creator>Baig, Roger</dc:creator><dc:creator>Vilalta, Ivan</dc:creator><dc:creator>Neumann, Axel</dc:creator><dc:creator>Aymerich, Marc</dc:creator><dc:creator>Lopez, Ester</dc:creator><dc:creator>Vega, Davide</dc:creator><dc:creator>Meseguer, Roc</dc:creator><dc:creator>Freitag, Felix</dc:creator><dc:creator>Navarro, Leandro</dc:creator><dc:title>Community Home Gateways for P2P Clouds</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;P2P based clouds built with low-end devices and voluntarily contributed resources have been proposed by several authors. While some work was published on architectures and decentralized P2P-based mechanisms for such clouds, yet no complete system has been presented which implements such cloud systems without important limitations. We present the community home gateway, a computer system attached to a wireless community network router, able to host platform and application services. Different to current home gateways and other low-end systems, the community home gateway offers resource virtualization, and can thus be used as cloud resource. The community home gateway removes the lack of a system open for service contributions and therefore constitutes an important step towards building P2P clouds with low-end devices. While we present the community home gateway as being part of a P2P community cloud, the applications scenarios of the system that can be imagined go beyond community networks.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2013-09-11</dc:date><dc:source>http://zenodo.org/record/8461</dc:source><dc:doi>10.1109/P2P.2013.6688732</dc:doi><dc:identifier>http://zenodo.org/record/8461</dc:identifier><dc:identifier>oai:zenodo.org:8461</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bebd1e1ebdc494395d113a8c6850df33", 
+    "source_url": "https://zenodo.org/record/8461/export/xd"
+}

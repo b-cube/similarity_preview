@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"823\"><idinfo><citation><citeinfo><origin role=\"Sponsor\">Illinois Water Science Center</origin><title>Hydrologic conditions for Illinois: Drought perceptions, effects, and assessment</title><pubinfo><publish>U.S. Geological Survey</publish></pubinfo><onlink>http://il.water.usgs.gov/drought/</onlink></citeinfo></citation><descript><abstract>Map of stream conditions and links to precipitation data, drought statistics, and information on floods and droughts in Illinois.</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><place><placekt>Common geographic areas</placekt><placekey>fUS17 = Illinois</placekey></place><theme><themekt>USGS Thesaurus</themekt><themekey>datasets</themekey><themekey>droughts</themekey><themekey>hydrology</themekey><themekey>precipitation (atmospheric)</themekey><themekey>real-time monitoring and reporting</themekey><themekey>stream-gage measurement</themekey><themekey>water resources</themekey></theme></keywords><ptcontac><cntinfo><cntemail>jbsharpe</cntemail></cntinfo></ptcontac></idinfo><metainfo><metd>20120905</metd><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d3e46cfc0ad6b114d4f6a537f7094d81", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=823"
+}

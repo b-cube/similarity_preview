@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Quantifying Sentiment for the Japanese Economy as Predictors of Stock Prices</dc:title><dc:creator>Ishijima, Hiroshi </dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Economics, Commerce-Business</dc:subject><dc:subject>Business</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8H993VN</dc:identifier><dc:description>This paper quantifies market sentiment as four indexes and examines whether they can help predict stock prices in Japanese markets. Sentiment analysis is gaining increasing interest in both academia and business. Previously, Ishijima et al. (2014) created a sentiment index that quantifies the positive or negative emotions that might appear in the Nikkei, which is the most popular business newspaper in Japan. They concluded that the sentiment index significantly predicts stock prices three days in advance. We re-examine their recent 5-year-worth results by extending in two dimensions; that is, we extend the coverage of the Nikkei to 29 years and create variations of their original sentiment index. On the basis of 29-year-worth daily sentiment indexes, we thoroughly examine the predictability of Japanese stock prices. The findings of our year-by-year analysis are two-fold: (1) sentiment indexes created from all of Nikkei\\ufffd\\ufffd\\ufffds articles persistently predict the Nikkei 225 stock prices, in both in-sample and out-of-sample bases, and (2) these periods can be interpreted using business cycles defined by Japan\\ufffd\\ufffd\\ufffds Cabinet Office.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "98a7f5f804d6656f9f177bcd47ca2271", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A179337.xml"
+}

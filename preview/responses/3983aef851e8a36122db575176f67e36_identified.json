@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/documents/2008/08/04/dc-html/\">    <dc:title>Expressing Dublin Core metadata using HTML/XHTML meta and link elements</dc:title>    <dc:description>This document describes how a Dublin Core metadata description set can be encoded in HTML/XHTML &lt;meta&gt; and &lt;link&gt; elements. It is an HTML meta data profile, as defined by the HTML specification.</dc:description>    <dc:date>2010-05-17</dc:date>    <dc:format>text/html</dc:format>    <dc:language>en</dc:language>    <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>    <dc:creator>Pete Johnston</dc:creator>    <dc:creator>Andy Powell</dc:creator> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3983aef851e8a36122db575176f67e36", 
+    "source_url": "http://dublincore.org/documents/2008/08/04/dc-html/index.shtml.rdf"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.12165</dc:identifier><dc:creator>Powell, Diana K.</dc:creator><dc:creator>Soderberg, Alicia</dc:creator><dc:creator>Margutti, Raffaella</dc:creator><dc:title>Explosion Parameters of SN 2013df and Properties of Its Progenitor Star</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Type IIb supernovae have only recently been identified as a distinct flavor of core-collapse stellar explosions. These supernovae represent a transitional type between Type II and Type Ib supernovae. Here I present a multi-wavelength (UV-optical) analysis of Type IIb SN 2013df, with the primary goals to (i) constrain the radius of the progenitor star and (ii) determine properties of the stellar explosion. From the analysis of the cooling envelope emission from SN 2013df I constrain the progenitor radius to be R &amp;lt; 7.8X10&lt;sup&gt;14&lt;/sup&gt; cm. I then analyze the main supernova peak that is powered by freshly synthesized &lt;sup&gt;56&lt;/sup&gt;Ni and find that the total ejecta mass is M&lt;sub&gt;ej&lt;/sub&gt; = 5.0 M&lt;sub&gt;\\ufffd\\ufffd&lt;/sub&gt; and the explosion kinetic energy is E&lt;sub&gt;k&lt;/sub&gt; = 3 X 10&lt;sup&gt;51&lt;/sup&gt; erg. Finally, I compare my findings with the explosion and progenitor properties of the currently known and studied sample of Type IIb supernovae from the literature.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-04-01</dc:date><dc:source>http://zenodo.org/record/12165</dc:source><dc:doi>10.5281/zenodo.12165</dc:doi><dc:identifier>http://zenodo.org/record/12165</dc:identifier><dc:identifier>oai:zenodo.org:12165</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7de61077450cf786502ccd2232812a06", 
+    "source_url": "https://zenodo.org/record/12165/export/xd"
+}

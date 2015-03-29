@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0029\">   <front>     <title>Definition of Jabber Identifiers (JIDs)</title>     <author initials=\"C.\" surname=\"Kaes\" fullname=\"Craig Kaes\">       <organization/>       <address>         <email>craigk@jabber.com</email>       </address>     </author>     <date day=\"03\" month=\"October\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0029\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0029.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b0bef19e25def5cb1d712c918d600254", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0029.xml"
+}

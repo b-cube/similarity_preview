@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://data.opencolorado.org/dataset/drcog-2011-acs-5-year-survey-family-income-past-12-months-2010-inflation-adjusted-dollars-metadata\">     <owl:sameAs rdf:resource=\"urn:uuid:b057299d-3a58-4032-b8c2-8d2b4752d4c9\"></owl:sameAs>     <dct:description>2011 ACS 5 Year Survey Table (b 19101) - Description of Attributes. NOTE:  When importing the .csv files into a Database,  the software may try to turn the geoid field into a number field, which will drop the first 0 from the census code and will make the table not linkable to the geographies.   Whatever software you import the table with, you will want to make sure that field gets imported as a string or text field.</dct:description>     <foaf:homepage rdf:resource=\"http://data.opencolorado.org/dataset/drcog-2011-acs-5-year-survey-family-income-past-12-months-2010-inflation-adjusted-dollars-metadata\"></foaf:homepage>     <rdfs:label>drcog-2011-acs-5-year-survey-family-income-past-12-months-2010-inflation-adjusted-dollars-metadata</rdfs:label>     <dct:identifier>drcog-2011-acs-5-year-survey-family-income-past-12-months-2010-inflation-adjusted-dollars-metadata</dct:identifier>     <dct:title>DRCOG:           2011 ACS 5 Year Survey - Family Income In The Past 12 Months (In 2010 Inflation-Adjusted Dollars) -METADATA        </dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://gis.drcog.org/datacatalog/sites/default/files/acs2011_b19101_metadata.csv\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>acs2011_b19101_metadata.csv</dct:title>             </dcat:Distribution>         </dcat:distribution>     <dct:creator>       <rdf:Description>         <foaf:name>DRCOG</foaf:name>         <foaf:mbox rdf:resource=\"mailto:\"></foaf:mbox>       </rdf:Description>     </dct:creator>     <dct:contributor>       <rdf:Description>         <foaf:name>DRCOG Geospatial Team</foaf:name>         <foaf:mbox rdf:resource=\"mailto:geospatial@drcog.org\"></foaf:mbox>       </rdf:Description>     </dct:contributor>     <dct:rights rdf:resource=\"http://www.opendefinition.org/licenses/cc-by\"></dct:rights>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "804e3c09ec2b86189c334352101d243a", 
+    "source_url": "http://data.opencolorado.org/dataset/b057299d-3a58-4032-b8c2-8d2b4752d4c9.rdf"
+}

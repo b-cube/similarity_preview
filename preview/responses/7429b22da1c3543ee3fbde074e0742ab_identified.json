@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"2\" _uuid=\"B0951562-2879-4B67-8B1F-EEEE6330DE8B\" _position=\"2\" _address=\"http://data.sfgov.org/resource/zpxx-ap9z/2\"><race>African-American</race><_1>33.96</_1><_2>30.43</_2><_3>33.76</_3><_4>25.82</_4><_5>27.72</_5><_6>28.45</_6></row><row _id=\"3\" _uuid=\"15DF5151-DDCA-4030-A43F-575079863606\" _position=\"3\" _address=\"http://data.sfgov.org/resource/zpxx-ap9z/3\"><race>Asian-American</race><_1>4.60</_1><_2>6.26</_2><_3>6.96</_3><_4>6.85</_4><_5>5.52</_5><_6>6.13</_6></row><row _id=\"4\" _uuid=\"47F8F718-E4CF-4F5E-A2A7-14287024D68F\" _position=\"4\" _address=\"http://data.sfgov.org/resource/zpxx-ap9z/4\"><race>Blank or Declined to State</race><_1>16.51</_1><_2>19.09</_2><_3>19.26</_3><_4>28.40</_4><_5>21.73</_5><_6>15.37</_6></row><row _id=\"5\" _uuid=\"ADE0B696-F798-41FC-A7F2-981DADB0DA52\" _position=\"5\" _address=\"http://data.sfgov.org/resource/zpxx-ap9z/5\"><race>Caucasian/White</race><_1>32.31</_1><_2>30.33</_2><_3>26.33</_3><_4>25.12</_4><_5>27.99</_5><_6>32.30</_6></row><row _id=\"6\" _uuid=\"C0A6F1E9-A597-465F-B5B1-2FBB7F16E49B\" _position=\"6\" _address=\"http://data.sfgov.org/resource/zpxx-ap9z/6\"><race>Latino/a/Hispanic</race><_1>9.91</_1><_2>10.18</_2><_3>9.98</_3><_4>9.43</_4><_5>11.88</_5><_6>12.17</_6></row><row _id=\"7\" _uuid=\"78619603-97BD-4F8F-A14E-038B85520BC6\" _position=\"7\" _address=\"http://data.sfgov.org/resource/zpxx-ap9z/7\"><race>Native American/Pacific Islander</race><_1>0.83</_1><_2>0.85</_2><_3>1.39</_3><_4>1.09</_4><_5>1.84</_5><_6>1.56</_6></row><row _id=\"8\" _uuid=\"9A5F663D-B49E-438E-8728-6B7CC7A033D9\" _position=\"8\" _address=\"http://data.sfgov.org/resource/zpxx-ap9z/8\"><race>Other</race><_1>1.89</_1><_2>2.86</_2><_3>2.32</_3><_4>3.28</_4><_5>3.31</_5><_6>4.03</_6></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7429b22da1c3543ee3fbde074e0742ab", 
+    "source_url": "https://data.sfgov.org/api/views/zpxx-ap9z/rows.xml?accessType=DOWNLOAD"
+}

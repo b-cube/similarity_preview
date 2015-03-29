@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>Chemistry Wor...</ShortName>  <Description>Search jobs on Chemistry World Jobs</Description>  <SearchForm>http://jobs.rsc.org/searchjobs/</SearchForm>  <Url type=\"text/html\" method=\"get\" template=\"http://jobs.rsc.org/searchjobs/?Keywords=%7bsearchTerms%7d\"/>  <Query role=\"example\" searchTerms=\"London\"/>  <Image width=\"16\" height=\"16\" type=\"image/vnd.microsoft.icon\">//df8wioaoqnkgs.cloudfront.net/favicon.ico;v=365</Image>   </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "64c241b4b9161b105046b78c41cf9c51", 
+    "source_url": "http://jobs.rsc.org/opensearch/"
+}

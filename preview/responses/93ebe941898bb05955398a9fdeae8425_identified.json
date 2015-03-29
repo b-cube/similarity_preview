@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>             <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/cwqdr_main/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/ecosys_Africa/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/ecosys_SA/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/ecosys_US/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/firehistory/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/geomac_dynamic_IRWIN/FeatureServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/geomac_dynamic_IRWIN/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/geomac_dyn/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/geomac_fires/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/geomac_perims/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/geomacAK_dynamic_IRWIN/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/geomacAK_dyn/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/GeomacBnds/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/geomacKML/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/geomacMap/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/GeoMACPerims_IRWIN/FeatureServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/GeoMACPerims_IRWIN/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/GeoPerimKML/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/igems_haz/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/igems_info/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/nfp_wm/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/NLCD2006/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/rdds_haz/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/rdds/MapServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/SelectExtractTool/GPServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/Utilities/Geometry/GeometryServer</loc> </url>  <url> <loc>http://rmgsc.cr.usgs.gov/arcgis/rest/services/Utilities/PrintingTools/GPServer</loc> </url>  </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "93ebe941898bb05955398a9fdeae8425", 
+    "source_url": "http://rmgsc.cr.usgs.gov/arcgis/rest/services/?f=sitemap"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <oembed><version>1.0</version><thumbnail_height>360</thumbnail_height><height>270</height><type>video</type><provider_url>http://www.youtube.com/</provider_url><author_url>http://www.youtube.com/user/djxatlanta</author_url><title>Evolution of European Weather Satellites</title><author_name>djxatlanta</author_name><html>&lt;iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/SwQPB8M81TE?feature=oembed\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</html><provider_name>YouTube</provider_name><width>480</width><thumbnail_width>480</thumbnail_width><thumbnail_url>http://i.ytimg.com/vi/SwQPB8M81TE/hqdefault.jpg</thumbnail_url></oembed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "41aa6cf02e48ec63e43e6ff36096aca9", 
+    "source_url": "http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSwQPB8M81TE&format=xml"
+}

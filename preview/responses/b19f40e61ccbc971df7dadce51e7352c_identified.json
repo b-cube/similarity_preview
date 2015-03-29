@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>Conf&#233;d&#233;ration Syndicale Internationale</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>Primer plano de Carlos Mamani Condori (ONU - Cuestiones Ind&#237;genas)</title>  <author_name>Vicente Cepedal</author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/primer-plano-de-carlos-mamani</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/primer-plano-de-carlos-mamani'&gt;Primer plano de Carlos Mamani Condori (ONU - Cuestiones Ind&#237;genas)&lt;/a&gt;&lt;/h4&gt;&lt;blockquote class='spip'&gt; &lt;p&gt;Chaco : &#8220;La alianza entre los pueblos aut&#243;ctonos y los sindicatos es muy importante&#8221;.&lt;br class='autobr' /&gt; Profesor de historia y activista ind&#237;gena en La Paz (Bolivia), Carlos Mamani, que cumple su mandato de cuatro a&#241;os como Presidente del Foro Permanente de las Naciones Unidas para Cuestiones Ind&#237;genas, denuncia la situaci&#243;n &#8220;extremadamente alarmante&#8221; que viven los pueblos ind&#237;genas guaran&#237;es en el Chaco, y explica c&#243;mo la alianza entre los sindicatos y los pueblos ind&#237;genas puede ser de ayuda para la lucha por los (...)&lt;/p&gt; &lt;/blockquote&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b19f40e61ccbc971df7dadce51e7352c", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Fprimer-plano-de-carlos-mamani"
+}

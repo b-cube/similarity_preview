@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <!-- generator=\"FeedCreator 1.7.2-ppt DokuWiki\" --> <?xml-stylesheet href=\"http://softlibre.gloobe.org/lib/exe/css.php?s=feed\" type=\"text/css\"?> <rdf:RDF     xmlns=\"http://purl.org/rss/1.0/\"     xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"     xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\"     xmlns:dc=\"http://purl.org/dc/elements/1.1/\">     <channel rdf:about=\"http://softlibre.gloobe.org/feed.php\">         <title>Softlibre gdal_ogr:couteau_suisse</title>         <description></description>         <link>http://softlibre.gloobe.org/</link>         <image rdf:resource=\"http://softlibre.gloobe.org/ttp://softlibre.gloobe.org/lib/tpl/softlibre/images/favicon.ico\" />        <dc:date>2015-03-20T02:50:05+01:00</dc:date>         <items>             <rdf:Seq>             </rdf:Seq>         </items>     </channel>     <image rdf:about=\"http://softlibre.gloobe.org/ttp://softlibre.gloobe.org/lib/tpl/softlibre/images/favicon.ico\">         <title>Softlibre</title>         <link>http://softlibre.gloobe.org/</link>         <url>http://softlibre.gloobe.org/ttp://softlibre.gloobe.org/lib/tpl/softlibre/images/favicon.ico</url>     </image> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6bc7ff002f5d4f9f2c8b5022b15732f9", 
+    "source_url": "http://softlibre.gloobe.org/feed.php?mode=list&ns=gdal_ogr:couteau_suisse"
+}

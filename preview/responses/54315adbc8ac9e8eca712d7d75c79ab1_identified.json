@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"                        xmlns:opensearchgeo=\"http://a9.com/-/opensearch/extensions/geo/1.0/\">    <ShortName>GeoNames</ShortName>    <Description>geographical search engine</Description>    <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://www.geonames.org/geonames.ico</Image>    <Url type=\"text/html\" template=\"http://www.geonames.org/search.html?q={searchTerms}&amp;BBOX={opensearchgeo:box?}\"></Url>    <Query role=\"example\" searchTerms=\"London\" />    <AdultContent>false</AdultContent>    <Language>en</Language>    <OutputEncoding>UTF-8</OutputEncoding>    <InputEncoding>UTF-8</InputEncoding> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "54315adbc8ac9e8eca712d7d75c79ab1", 
+    "source_url": "http://www.geonames.org/opensearch-description.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Relating habitat characteristics to brown shrimp production in the northern Gulf of Mexico</dc:title>    <dcterms:alternative>Relating habitat characteristics to brown shrimp production in the northern Gulf of Mexico</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>habitat assessment improvement plan, brown shrimp, farfantepenaeus aztecus, systems model, spartina, stella</dc:subject>    <dcterms:abstract>Although estuarine nurseries along the norther GoM are dominated by Spartina vegetation, production from these estuaries can vary greatly.  Studies in Texas and Louisiana marshes have demonstrated that production is related to temperature, salinity, and access to emergent marsh vegetation.  We are currently developing a systems model that will simulate recruitment, growth, and emigration of brown shrimp.</dcterms:abstract>    <dc:publisher>Southeast Fisheries Science Center</dc:publisher>    <dc:creator>Leo, Jennifer </dc:creator>    <dc:creator>Galveston Laboratory</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/16983</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/16967</dcterms:isPartOf>    <dcterms:spatial xsi:type=\"dcterms:Box\">                         northlimit=31.16581;                         eastlimit=-82.492677;                         southlimit=28.497661;                         westlimit=-98.620606;                                              name=Northern Gulf of Mexico estuarine marshes;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:Period\">                           start=2011-04-06;                         </dcterms:temporal>    <dcterms:accessRights>no access contraints</dcterms:accessRights> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1b1cda4f536f617c229ce80cafde8411", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/16983/dublin-core"
+}

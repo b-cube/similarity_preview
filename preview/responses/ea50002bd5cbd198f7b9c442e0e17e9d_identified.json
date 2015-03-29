@@ -1,0 +1,15 @@
+{
+    "content": "<tilemap>  <horizontal>10</horizontal>  <vertical>04</vertical>  <line_YDim>1919.50</line_YDim>  <sample_XDim>1364.02</sample_XDim> </tilemap> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ea50002bd5cbd198f7b9c442e0e17e9d", 
+    "source_url": "http://lpdaacsvc.cr.usgs.gov/services/tilemap?product=MOD09A1&latitude=42.0&longitude=-100.0"
+}

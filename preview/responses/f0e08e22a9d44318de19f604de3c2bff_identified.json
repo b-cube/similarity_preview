@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">gip5</identifier><identifier type=\"pwpk\">70958</identifier><identifier type=\"series\">General Information Product</identifier><identifier type=\"seriesNumber\">5</identifier><identifier type=\"seriesCode\">GIP</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Ground-shaking hazard from earthquakes</title></titleInfo><originInfo><dateOther>Sun, 31 Jul 2005 00:00 -0500</dateOther><dateIssued>2005</dateIssued></originInfo><name><namePart>U.S. Geological Survey</namePart><role>Author</role></name><physicalDescription><form>2 p. (postcard)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/gip_5.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/gip/2005/05/</url></location><note type=\"citation/reference\">Ground-shaking hazard from earthquakes; 2005; GIP; 5; General Information Product; U.S. Geological Survey</note><edition>Version 1.0</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>General Information Product</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f0e08e22a9d44318de19f604de3c2bff", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=gip5"
+}

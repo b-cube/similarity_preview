@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.X3-297.1996\"> <front> <title>Information Technology - Fibre Channel - Physical and Signalling Interface-2 (FC-PH-2)</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1996\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X3.297\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0ffc2fc11a7e8f3fadb6dee094a8e9cd", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.ANSI.X3-297.1996.xml"
+}

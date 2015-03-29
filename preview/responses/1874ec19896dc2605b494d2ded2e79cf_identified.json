@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0031\">   <front>     <title>A Framework For Securing Jabber Conversations</title>     <author initals=\"\" surname=\"&#10;Lloyd&#10;\" fullname=\"&#10;Paul&#10; &#10;Lloyd&#10;\">       <organization/>       <address>         <email> paul_lloyd@hp.com </email>       </address>     </author>     <date day=\"09\" month=\"July\" year=\"2002\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0031\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0031.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1874ec19896dc2605b494d2ded2e79cf", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0031.xml"
+}

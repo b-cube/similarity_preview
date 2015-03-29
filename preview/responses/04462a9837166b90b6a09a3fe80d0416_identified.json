@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../index.html\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image016.gif\"/>  <o:File HRef=\"image008.jpg\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"image013.gif\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image015.gif\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"image005.gif\"/>  <o:File HRef=\"image017.gif\"/>  <o:File HRef=\"image024.gif\"/>  <o:File HRef=\"image018.jpg\"/>  <o:File HRef=\"image006.jpg\"/>  <o:File HRef=\"image020.gif\"/>  <o:File HRef=\"image007.gif\"/>  <o:File HRef=\"image021.jpg\"/>  <o:File HRef=\"image009.jpg\"/>  <o:File HRef=\"image027.png\"/>  <o:File HRef=\"image010.jpg\"/>  <o:File HRef=\"image014.gif\"/>  <o:File HRef=\"image011.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "04462a9837166b90b6a09a3fe80d0416", 
+    "source_url": "http://www.ldeo.columbia.edu/~legrande/index_files/filelist.xml"
+}

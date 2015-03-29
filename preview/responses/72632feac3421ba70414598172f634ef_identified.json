@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <oembed>     <version>1.0</version>     <type>rich</type>     <author_name>admin</author_name>     <author_url>http://www.geog.ucl.ac.uk/author/admin</author_url>     <provider_name>UCL Department of Geography</provider_name>     <provider_url>http://www.geog.ucl.ac.uk</provider_url>    </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "72632feac3421ba70414598172f634ef", 
+    "source_url": "http://www.geog.ucl.ac.uk/@@oembed?url=http%3A%2F%2Fwww.geog.ucl.ac.uk%2Fresearch%2Fenvironmental-modelling-and-observation%2Fenvironmental-modelling-and-observation&format=xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../isw.htm\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"image003.gif\"/>  <o:File HRef=\"image004.gif\"/>  <o:File HRef=\"image005.gif\"/>  <o:File HRef=\"image006.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f2b639a45009e53bd74b0a63799da86b", 
+    "source_url": "http://web.ics.purdue.edu/~braile/isw/isw_files/filelist.xml"
+}

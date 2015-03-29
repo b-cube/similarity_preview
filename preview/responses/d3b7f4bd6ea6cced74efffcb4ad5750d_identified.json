@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123104</identifier><identifier type=\"pwpk\">70039970</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3104</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Mauna Loa--history, hazards and risk of living with the world's largest volcano</title></titleInfo><originInfo><dateOther>Wed, 19 Sep 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Trusdell, Frank A.</namePart><role>Author</role></name><abstract>Mauna Loa on the Island Hawai&amp;#699;i is the world&amp;rsquo;s largest volcano. People residing on its flanks face many hazards that come with living on or near an active volcano, including lava flows, explosive eruptions, volcanic smog, damaging earthquakes, and local tsunami (giant seawaves). The County of Hawai&amp;#699;i (Island of Hawai&amp;#699;i) is the fastest growing County in the State of Hawaii. Its expanding population and increasing development mean that risk from volcano hazards will continue to grow. U.S. Geological Survey (USGS) scientists at the Hawaiian Volcano Observatory (HVO) closely monitor and study Mauna Loa Volcano to enable timely warning of hazardous activity and help protect lives and property.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3104.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3104/</url><url displayLabel=\"pdf\" note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2012/3104/fs2012-3104.pdf</url></location><note type=\"citation/reference\">Mauna Loa--history, hazards and risk of living with the world's largest volcano; 2012; FS; 2012-3104; Fact Sheet; Trusdell, Frank A.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d3b7f4bd6ea6cced74efffcb4ad5750d", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123104"
+}

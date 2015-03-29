@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20113063</identifier><identifier type=\"pwpk\">70004748</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2011-3063</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Assessment of in-place oil shale resources of the Green River Formation, Greater Green River Basin in Wyoming, Colorado, and Utah</title></titleInfo><originInfo><dateOther>Tue, 12 Jul 2011 00:00 -0500</dateOther><dateIssued>2011</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Johnson, R.C.; Mercier, T.J.; Brownfield, M.E.</namePart><role>Author</role></name><abstract>The U.S. Geological Survey (USGS) recently (2011) completed an assessment of in-place oil shale resources, regardless of grade, in the Eocene Green River Formation of the Greater Green River Basin in southwestern Wyoming, northwestern Colorado, and northeastern Utah. Green River Formation oil shale also is present in the Piceance Basin of western Colorado and in the Uinta Basin of eastern Utah and western Colorado, and the results of these assessments are published separately. No attempt was made to estimate the amount of oil that is economically recoverable because there has not yet been an economic method developed to recover the oil from Green River Formation oil shale.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2011_3063.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2011/3063/</url></location><note type=\"citation/reference\">Assessment of in-place oil shale resources of the Green River Formation, Greater Green River Basin in Wyoming, Colorado, and Utah; 2011; FS; 2011-3063; Fact Sheet; Johnson, R.C.; Mercier, T.J.; Brownfield, M.E.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4f9808e8ae13ecaf7e39c8dfa60352ae", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20113063"
+}

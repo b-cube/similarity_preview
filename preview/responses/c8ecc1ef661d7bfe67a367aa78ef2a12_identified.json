@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for States of Matter -->  <jnlp spec=\"1.0+\" codebase=\"http://phet.colorado.edu/sims/states-of-matter\" href=\"states-of-matter_en.jnlp\">      <information>          <title>States of Matter</title>          <vendor>University of Colorado, Department of Physics</vendor>          <description>@PROJECT.DESCRIPTION@</description>          <description kind=\"short\">The States of Matter Simulation</description>          <offline-allowed/>      </information>      <resources>          <j2se version=\"1.4+\"/>          <property name=\"javaws.phet.locale\" value=\"en\" /> <property name=\"javaws.user.language\" value=\"en\" />          <jar href=\"states-of-matter_all.jar\"/>      </resources>            <application-desc main-class=\"edu.colorado.phet.statesofmatter.StatesOfMatterApplication\">                </application-desc>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c8ecc1ef661d7bfe67a367aa78ef2a12", 
+    "source_url": "http://phet.colorado.edu/sims/states-of-matter/states-of-matter_en.jnlp"
+}

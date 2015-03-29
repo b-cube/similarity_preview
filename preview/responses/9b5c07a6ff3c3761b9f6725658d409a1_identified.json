@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"> <ShortName>DSpace</ShortName> <LongName>DSpace for DigLib at CGV</LongName> <Description>DSpace for DigLib at CGV DSpace repository</Description> <InputEncoding>UTF-8</InputEncoding> <OutputEncoding>UTF-8</OutputEncoding> <Query role=\"example\" searchTerms=\"photosynthesis\"/> <Tags>IR DSpace</Tags> <Contact>dspace-help@cgv.tugraz.at</Contact> <Image height=\"16\" type=\"image/vnd.microsoft.icon\" width=\"16\">http://www.dspace.org/images/favicon.ico</Image> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9b5c07a6ff3c3761b9f6725658d409a1", 
+    "source_url": "http://diglib.eg.org/open-search/description.xml"
+}

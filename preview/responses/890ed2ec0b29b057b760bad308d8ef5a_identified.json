@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">SEPA 110815, Scottish Sea Farms Ltd, Creran B Fin Fish Farm, visual sea bed monitoring</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:ba16b46682e7433a4decc6f8a200772b</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Visual monitoring of the sea bed adjacent to the fish farm.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2012-04-10</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "890ed2ec0b29b057b760bad308d8ef5a", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__ba16b46682e7433a4decc6f8a200772b.xml/DC"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Cumulus Microphysics and Climate Sensitivity</dc:title><dc:creator>Del Genio, Anthony D.</dc:creator><dc:creator>Kovari, William</dc:creator><dc:creator>Yao, Mao-Sung</dc:creator><dc:creator>Jonas, Jeffrey</dc:creator><dc:date>2005</dc:date><dc:type>text</dc:type><dc:subject>Climate change</dc:subject><dc:subject>Physics</dc:subject><dc:subject>Environmental studies</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8KS6QC4</dc:identifier><dc:description>Precipitation processes in convective storms are potentially a major regulator of cloud feedback. An unresolved issue is how the partitioning of convective condensate between precipitation-size particles that fall out of updrafts and smaller particles that are detrained to form anvil clouds will change as the climate warms. Tropical Rainfall Measuring Mission (TRMM) observations of tropical oceanic convective storms indicate higher precipitation efficiency at warmer sea surface temperature (SST) but also suggest that cumulus anvil sizes, albedos, and ice water paths become insensitive to warming at high temperatures. International Satellite Cloud Climatology Project (ISCCP) data show that instantaneous cirrus and deep convective cloud fractions are positively correlated and increase with SST except at the highest temperatures, but are sensitive to variations in large-scale vertical velocity. A simple conceptual model based on a Marshall\\ufffd\\ufffd\\ufffdPalmer drop size distribution, empirical terminal velocity\\ufffd\\ufffd\\ufffdparticle size relationships, and assumed cumulus updraft speeds reproduces the observed tendency for detrained condensate to approach a limiting value at high SST. These results suggest that the climatic behavior of observed tropical convective clouds is intermediate between the extremes required to support the thermostat and adaptive iris hypotheses.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "87e82e0dc0fcb049df252217bdff3ed2", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A183320.dc_xml"
+}

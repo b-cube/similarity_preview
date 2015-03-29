@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <AdultContent>false</AdultContent>  <Attribution>Copyright 2013 Ford Foundation. All Rights Reserved</Attribution>  <Language>en-us</Language>  <ShortName>Ford Foundation</ShortName>  <Description>2012 Annual Report / Ford Foundation</Description>  <Contact>office-of-communications@fordfoundation.org</Contact>  <!-- <Developer></Developer> -->  <InputEncoding>utf-8</InputEncoding>  <moz:SearchForm>http://www.fordfoundation.org/2012-annual/</moz:SearchForm>  <moz:UpdateInterval>7</moz:UpdateInterval> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en-us", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "02d392e20872bc62341c9998ad96602e", 
+    "source_url": "http://www.fordfoundation.org/2012-annual/opensearchdescription.xml"
+}

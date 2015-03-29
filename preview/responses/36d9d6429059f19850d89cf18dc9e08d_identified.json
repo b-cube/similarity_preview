@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Billen, Thomas</a1>   <a2>J\\ufffd\\ufffdhne, Bernd</a2>   <t1>Entwicklung einer LDA-Miniatursonde zur Messung der Str\\ufffd\\ufffdmungsgeschwindigkeit und ihrer Fluktuationen in Wasser</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Diploma thesis on the development of a miniatur LDA probe to measure the flow of water and its fluctuations in a wind/water facility.&lt;/p&gt;</ab>   <la/>   <k1>LDA;                 flow measurements;                 wind/wave facility;                 </k1>   <pb/>   <pp/>   <yr>1988-01-01</yr>   <ed/>   <ul>https://zenodo.org/record/15529/files/Billen_Diplom1988a.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "36d9d6429059f19850d89cf18dc9e08d", 
+    "source_url": "https://zenodo.org/record/15529/export/xw"
+}

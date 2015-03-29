@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xquery-update-30-20130108'            target='http://www.w3.org/TR/2013/WD-xquery-update-30-20130108'> <front> <title>XQuery Update Facility 3.0</title>  <author initials='J.' surname='Snelson' fullname='John Snelson'>     <organization /> </author>  <author initials='J.' surname='Melton' fullname='Jim Melton'>     <organization /> </author>  <date month='January' day='8' year='2013' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-xquery-update-30-20130108' /> <format type='HTML' target='http://www.w3.org/TR/2013/WD-xquery-update-30-20130108' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0d112feb49873217d3f0fe0aa10085bc", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xquery-update-30-20130108.xml"
+}

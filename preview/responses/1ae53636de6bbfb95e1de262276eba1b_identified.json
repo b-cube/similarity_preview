@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?> <timestamp>  <layerid>RAS_RIDGE_NEXRAD</layerid>  <timelabel>Wed Mar 18 3:16 PM EDT</timelabel> </timestamp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1ae53636de6bbfb95e1de262276eba1b", 
+    "source_url": "http://nowcoast.noaa.gov/LayerInfo?layer=RAS_RIDGE_NEXRAD&data=timestamp&output=xml"
+}

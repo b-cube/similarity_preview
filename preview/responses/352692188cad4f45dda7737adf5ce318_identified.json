@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>IEAGHG - Carbon Capture and Storage</ShortName>   <Description>Carbon capture and storage (CCS) is one of the technologies that has the potential to mitigate the effects of climate change. In simple terms, CO<sub>2</sub> can be captured from power stations or other large emission sources, transported via pipelines or ships and injected very deep underground into suitable geological storage formations where it will remain safe and secure and not contribute to global warming and climate change.</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.ieaghg.org/templates/yoo_nano3/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.ieaghg.org/component/search/?format=opensearch\"/>   <Url type=\"text/html\" template=\"http://www.ieaghg.org/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "352692188cad4f45dda7737adf5ce318", 
+    "source_url": "http://www.ieaghg.org/component/search/?format=opensearch"
+}

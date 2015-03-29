@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.NOTE-EGIX-20021220\"> <front> <title>Embedding Glyph Identifiers in XML Documents</title>  <author initials=\"K\" surname=\"Akira\" fullname=\"KAWAMATA Akira\">     <organization /> </author>  <date month=\"December\" day=\"20\" year=\"2002\" /> </front>  <seriesInfo name=\"W3C NOTE\" value=\"NOTE-EGIX-20021220\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/2002/NOTE-EGIX-20021220\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8d3fc93a7df20b7c6d8ee5f362e19387", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-EGIX-20021220.xml"
+}

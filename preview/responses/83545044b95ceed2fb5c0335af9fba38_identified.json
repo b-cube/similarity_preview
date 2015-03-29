@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Search My Project</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">http://qutecom.org/chrome/common/trac.ico</Image>   <Url type=\"text/html\" template=\"http://qutecom.org/search?q={searchTerms}&amp;page={startPage}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "83545044b95ceed2fb5c0335af9fba38", 
+    "source_url": "http://qutecom.org/search/opensearch"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2249.1/56864\"> <title>2008 Texas Conference on Digital Libraries</title> <link>http://hdl.handle.net/2249.1/56864</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2249.1/5591\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2249.1/5590\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2249.1/5589\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2249.1/5588\"/> </rdf:Seq> </items> <dc:date>2015-03-03T18:03:45Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2249.1/5591\"> <title>ETD Management in the Texas Digital Library</title> <link>http://hdl.handle.net/2249.1/5591</link> <description>ETD Management in the Texas Digital Library Brace, Tim; Mikeal, Adam; Paz, Jay; Phillips, Scott; McFarland, Mark; Leggett, John Demonstration given by John Leggett at TCDL 2008 (June 4-6: Austin, TX, USA) while Adam Mikeal presented at ETD 2008 (June 4-7, Aberdeen, Scotland, UK). </description> <dc:date>2008-06-09T16:37:20Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2249.1/5590\"> <title>Embedding A Digital Repository within the Texas A&amp;M University Library Web Services</title> <link>http://hdl.handle.net/2249.1/5590</link> <description>Embedding A Digital Repository within the Texas A&amp;M University Library Web Services Leggett, John; Tarpley, Jeremy; Ponsford, Bennett; Phillips, Scott; Mikeal, Adam; Maslov, Alexey; Messinger, Tina; Armstrong, Tommy; Creel, James </description> <dc:date>2008-06-09T16:04:33Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2249.1/5589\"> <title>Energy Systems Laboratory:Building a Repository Collection and Planning for the Future</title> <link>http://hdl.handle.net/2249.1/5589</link> <description>Energy Systems Laboratory:Building a Repository Collection and Planning for the Future </description> <dc:date>2008-06-09T15:55:23Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2249.1/5588\"> <title>Supporting a Research Agenda: Using Library Funds for Access to Datasets in Management and the Social Sciences</title> <link>http://hdl.handle.net/2249.1/5588</link> <description>Supporting a Research Agenda: Using Library Funds for Access to Datasets in Management and the Social Sciences Safley, Ellen; Venetis, Mary Jo </description> <dc:date>2008-06-09T15:52:44Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "61072df82a9045592a18e7985e522573", 
+    "source_url": "https://tdl-ir.tdl.org/tdl-ir/feed/rss_1.0/2249.1/56864"
+}

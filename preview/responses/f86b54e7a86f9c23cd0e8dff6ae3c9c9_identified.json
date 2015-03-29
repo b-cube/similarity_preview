@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"NIST.500-162.1990\"> <front> <title>NIST Stable Implementers Agreements</title> <author> <organization>National Institute of Standards and Technology</organization> </author> <date month=\"June\" year=\"1990\" /> </front>  <seriesInfo name=\"NIST\" value=\"500-162\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f86b54e7a86f9c23cd0e8dff6ae3c9c9", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.NIST.500-162.1990.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <response><lst name=\"responseHeader\"><int name=\"status\">0</int><int name=\"Qtime\">157</int><str name=\"version\">1.0 </str><lst name=\"params\"><str name=\"q\">bread</str><str name=\"facet\">true</str><str name=\"facet.fields\">dc.subject</str></lst><lst name=\"sources_available\"/></lst><result name=\"response\" numFound=\"0\" start=\"0\"/><lst name=\"facet_counts\"><lst name=\"facet_queries\"/><lst name=\"facet_fields\"><lst name=\"dc.subject\"/></lst><lst name=\"facet_dates\"/></lst></response> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "70e6e99174b911d6d11be452d64d1a84", 
+    "source_url": "http://discovery.ac.uk/ww1/api/?q=bread&facet=true&facet.fields=dc.subject"
+}

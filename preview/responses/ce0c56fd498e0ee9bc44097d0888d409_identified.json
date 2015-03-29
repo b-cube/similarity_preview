@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Lattice Subdivisions and Tropical Oriented Matroids, Featuring Products of Simplices</dc:title><dc:creator>Piechnik, Lindsay C.</dc:creator><dc:date>2011</dc:date><dc:type>text</dc:type><dc:subject>Mathematics</dc:subject><dc:identifier>http://hdl.handle.net/10022/AC:P:10240</dc:identifier><dc:description>Subdivisions of products of simplices, and their applications, appear across mathematics. In this thesis, they are the tie between two branches of my research: polytopal lattice subdivisions and tropical oriented matroid theory. The first chapter describes desirable combinatorial properties of subdivisions of lattice polytopes, and how they can be used to address algebraic questions. Chapter two discusses tropical hyperplane arrangements and the tropical oriented matroid theory they inspire, paying particular attention to the previously uninvestigated distinction between the generic and non-generic cases. The focus of chapter three is products of simplices, and their connections and applications to ideas covered in the first two chapters.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ce0c56fd498e0ee9bc44097d0888d409", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A131450.oai_dc_xml"
+}

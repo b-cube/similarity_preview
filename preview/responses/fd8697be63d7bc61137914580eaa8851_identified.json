@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.aboulmagd-ccamp-crldp-ason-ext'> <front> <title>CR-LDP Extensions for ASON</title>  <author initials='O' surname='Aboul-Magd' fullname='Osama Aboul-Magd'>     <organization /> </author>  <date month='June' day='25' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-aboulmagd-ccamp-crldp-ason-ext-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-aboulmagd-ccamp-crldp-ason-ext-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fd8697be63d7bc61137914580eaa8851", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-ids/reference.I-D.aboulmagd-ccamp-crldp-ason-ext.xml"
+}

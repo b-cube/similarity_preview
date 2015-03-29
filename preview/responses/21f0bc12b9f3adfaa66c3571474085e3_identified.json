@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xhtml-prof-req-19990906'            target='http://www.w3.org/TR/1999/WD-xhtml-prof-req-19990906'> <front> <title>XHTML\\ufffd\\ufffd\\ufffd Document Profile Requirements</title>  <author initials='P.' surname='Stark' fullname='Peter Stark'>     <organization /> </author>  <author initials='D.' surname='Raggett' fullname='David Raggett'>     <organization /> </author>  <author initials='T.' surname='Wugofski' fullname='Ted Wugofski'>     <organization /> </author>  <date month='September' day='6' year='1999' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-xhtml-prof-req-19990906' /> <format type='HTML' target='http://www.w3.org/TR/1999/WD-xhtml-prof-req-19990906' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "21f0bc12b9f3adfaa66c3571474085e3", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xhtml-prof-req-19990906.xml"
+}

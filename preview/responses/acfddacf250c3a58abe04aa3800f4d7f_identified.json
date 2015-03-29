@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Ettrich, R\\ufffd\\ufffddiger</a1>   <a2>Thanos, Dimitris</a2>   <a2>Butcher, Sarah</a2>   <a2>Kotrcova, Marcela</a2>   <a2>Stanford, Natalie</a2>   <a2>Goble, Carole</a2>   <a2>Oberthuer, Angela</a2>   <a2>Hoefer, Thomas</a2>   <t1>ISBE continuous technology forecasting reports \\ufffd\\ufffd\\ufffd report 2.</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;This second continuous technology report is the outcome of the joint effort of the WP9 members and the Technology and Science Watch committee appointed by the steering committee appointed in April 2014. While the first report was designed to serve as a guide for building up the infrastructure, this second report takes into account the recommendations of the SAB that sees the possible role of the future infrastructure in fostering systems biology research by using existing experimental facilities to participate in systems biology experiments guided by the modelling canters. This report shall guide the interaction/discussion with the RI&amp;#39;s that potentially could provide the required experimental methodologies or technologies that the modelling and data stewardship canters should be able to utilise for designing systems biology experiments. Additionally to highlighting technologies or science demands coming from the scientific community, we also provide a fine-grained view of the appointed experts within the Science and Technology watch committee for their relevant fields. Thus the current report gives a first global overview of the existing state-of-the-art of molecular systems biology with respect to technology or methodology and possible near future directions.&lt;/p&gt;</ab>   <la/>   <k1>ISBE, systems biology, technologies;                 </k1>   <pb/>   <pp/>   <yr>2014-05-01</yr>   <ed/>   <ul>https://zenodo.org/record/15831/files/D9.2_WP9_REPORT_May_2014_update.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "acfddacf250c3a58abe04aa3800f4d7f", 
+    "source_url": "https://zenodo.org/record/15831/export/xw"
+}

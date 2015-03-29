@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>DSpace at twdl</title> <link href=\"https://twdl-ir.tdl.org:443/twdl-ir\" rel=\"alternate\"/> <subtitle>The DSpace digital repository system captures, stores, indexes, preserves, and distributes digital research material.</subtitle> <id xmlns=\"http://apache.org/cocoon/i18n/2.1\">https://twdl-ir.tdl.org:443/twdl-ir</id> <updated>2015-02-17T18:06:19Z</updated> <dc:date>2015-02-17T18:06:19Z</dc:date> <entry> <title>2012 TSJ BBASC Work Plan for Adaptive Management</title> <link href=\"http://hdl.handle.net/10850/1459\" rel=\"alternate\"/> <author> <name>TSJ BBASC</name> </author> <id>http://hdl.handle.net/10850/1459</id> <updated>2014-11-24T22:02:40Z</updated> <published>2012-05-04T00:00:00Z</published> <summary type=\"text\">2012 TSJ BBASC Work Plan for Adaptive Management TSJ BBASC </summary> <dc:date>2012-05-04T00:00:00Z</dc:date> </entry> <entry> <title>2010 TSJ BBASC Environmental Flows Recommendations Report</title> <link href=\"http://hdl.handle.net/10850/1458\" rel=\"alternate\"/> <author> <name>TSJ BBASC</name> </author> <id>http://hdl.handle.net/10850/1458</id> <updated>2014-11-24T22:02:32Z</updated> <published>2010-05-31T00:00:00Z</published> <summary type=\"text\">2010 TSJ BBASC Environmental Flows Recommendations Report TSJ BBASC </summary> <dc:date>2010-05-31T00:00:00Z</dc:date> </entry> <entry> <title>2009 TSJ BBEST Environmental Flows Recommendations Report</title> <link href=\"http://hdl.handle.net/10850/1457\" rel=\"alternate\"/> <author> <name>TSJ BBEST</name> </author> <id>http://hdl.handle.net/10850/1457</id> <updated>2014-07-17T19:07:02Z</updated> <published>2009-11-30T00:00:00Z</published> <summary type=\"text\">2009 TSJ BBEST Environmental Flows Recommendations Report TSJ BBEST </summary> <dc:date>2009-11-30T00:00:00Z</dc:date> </entry> <entry> <title>2010 SN BBASC Work Plan for Adaptive Management and 2011 Addendum</title> <link href=\"http://hdl.handle.net/10850/1456\" rel=\"alternate\"/> <author> <name>SN BBASC</name> </author> <id>http://hdl.handle.net/10850/1456</id> <updated>2014-11-24T22:06:24Z</updated> <published>2010-12-06T00:00:00Z</published> <summary type=\"text\">2010 SN BBASC Work Plan for Adaptive Management and 2011 Addendum SN BBASC </summary> <dc:date>2010-12-06T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "494185df448d345108508fab63cf26f6", 
+    "source_url": "http://repositories.tdl.org/twdl-ir/feed/atom_1.0/site"
+}

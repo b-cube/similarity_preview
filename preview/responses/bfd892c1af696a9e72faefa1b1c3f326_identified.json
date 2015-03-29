@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/563\"> <title>DSpace 'Live CD'</title> <link>http://hdl.handle.net/2160/563</link> <description>A collection to house the DSpace 'Live CD' files</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/641\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/565\"/> </rdf:Seq> </items> <dc:date>2015-03-19T06:19:42Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/641\"> <title>DSpace Live CD (version 1.5.1 beta)</title> <link>http://hdl.handle.net/2160/641</link> <description>DSpace Live CD (version 1.5.1 beta) Yates, Chris; Lewis, Stuart THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </description> <dc:date>2008-08-22T12:54:04Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/565\"> <title>DSpace Live CD (version 1.5)</title> <link>http://hdl.handle.net/2160/565</link> <description>DSpace Live CD (version 1.5) Yates, Chris; Lewis, Stuart Burn this .iso file to a DVD, and boot your computer using it. The latest version of the Live CD is 'DSpace Live CD - 1-5-0 v2.iso' Log in using the username 'dspace' and the password 'dspace'. </description> <dc:date>2008-05-06T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bfd892c1af696a9e72faefa1b1c3f326", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/563"
+}

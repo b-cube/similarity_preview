@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">cir1248</identifier><identifier type=\"pwpk\">53142</identifier><identifier type=\"series\">Circular</identifier><identifier type=\"seriesNumber\">1248</identifier><identifier type=\"seriesCode\">CIR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Geologic studies of mercury by the U.S. Geological Survey</title></titleInfo><originInfo><dateOther>Mon, 1 Dec 2003 00:00 -0600</dateOther><dateIssued>2003</dateIssued></originInfo><name><namePart>Gray, John E.</namePart><role>Author</role></name><physicalDescription><form>vi, 41 p. : ill. (chiefly col.), col. maps ; 28 cm.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/usgs_thumb.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/circ/2003/c1248/ </url></location><note type=\"citation/reference\">Geologic studies of mercury by the U.S. Geological Survey; 2003; CIR; 1248; Circular; Gray, John E.</note><edition>Version 1.0</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Circular</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a9eadaac1f4b38a425885e3f21975731", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=cir1248"
+}

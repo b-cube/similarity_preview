@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/198276\"> <title>Magdalene College</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/198276</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/198285\"/> </rdf:Seq> </items> <dc:date>2015-03-20T04:13:12Z</dc:date> </channel> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/198285\"> <title>Investigating the Site of Newton's Laboratory in Trinity College, Cambridge</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/198285</link> <description>Investigating the Site of Newton's Laboratory in Trinity College, Cambridge Spargo, P E It is not generally known that over the &#13; course of some thirty years, Isaac Newton&#13; carried out around four hundred chemical&#13; experiments in a private laboratory located in&#13; the walled garden immediately below his&#13; rooms in Trinity College, Cambridge. The&#13; exact location of his laboratory has long been a&#13; source of conjecture and this article describes&#13; a survey undertaken to determine both the&#13; possible site of the laboratory as well as that of&#13; the rubbish pit in which Newton would have&#13; disposed of the waste materials generated in&#13; his chemical experiments. The results are&#13; believed to be of sufficient interest to justify&#13; continuation of the investigation. </description> <dc:date>2005-07-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1b9e0f9d8df3ca4e7439708967ff9e0f", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/rss_1.0/1810/198276"
+}

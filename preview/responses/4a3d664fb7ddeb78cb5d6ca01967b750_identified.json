@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Georgia Tech Alumni Association Annual Reports</title> <link href=\"http://hdl.handle.net/1853/49630\" rel=\"alternate\"/> <subtitle>These are the annual reports for the Alumni Association.</subtitle> <id>http://hdl.handle.net/1853/49630</id> <updated>2015-03-12T19:32:58Z</updated> <dc:date>2015-03-12T19:32:58Z</dc:date> <entry> <title>Alumni Association Annual Report, 2013</title> <link href=\"http://hdl.handle.net/1853/50977\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/50977</id> <updated>2014-02-19T08:34:19Z</updated> <published>2013-01-01T00:00:00Z</published> <summary type=\"text\">Alumni Association Annual Report, 2013 </summary> <dc:date>2013-01-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4a3d664fb7ddeb78cb5d6ca01967b750", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/49630"
+}

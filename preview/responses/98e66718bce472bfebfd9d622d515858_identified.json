@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <gridDataset location=\"dist2coast_4deg_ocean\" path=\"path\">   <axis name=\"lat\" shape=\"4500\" type=\"double\" axisType=\"Lat\">     <attribute name=\"standard_name\" value=\"latitude\" />     <attribute name=\"long_name\" value=\"latitude\" />     <attribute name=\"units\" value=\"degrees_north\" />     <attribute name=\"_CoordinateAxisType\" value=\"Lat\" />     <values start=\"-89.98\" increment=\"0.04000000000000625\" npts=\"4500\" />   </axis>   <axis name=\"lon\" shape=\"9000\" type=\"double\" axisType=\"Lon\">     <attribute name=\"standard_name\" value=\"longitude\" />     <attribute name=\"long_name\" value=\"longitude\" />     <attribute name=\"units\" value=\"degrees_east\" />     <attribute name=\"_CoordinateAxisType\" value=\"Lon\" />     <values start=\"-179.98\" increment=\"0.03999999999999204\" npts=\"9000\" />   </axis>   <gridSet name=\"lat lon\">     <projectionBox>       <minx>-180.0</minx>       <maxx>180.0</maxx>       <miny>-90.0</miny>       <maxy>90.0</maxy>     </projectionBox>     <axisRef name=\"lat\" />     <axisRef name=\"lon\" />     <grid name=\"dist\" desc=\"distance to nearest coastline\" shape=\"lat lon\" type=\"float\">       <attribute name=\"_FillValue\" type=\"float\" value=\"-1.0E10\" />       <attribute name=\"long_name\" value=\"distance to nearest coastline\" />       <attribute name=\"units\" value=\"km\" />     </grid>   </gridSet>   <LatLonBox>     <west>-179.9800</west>     <east>179.9800</east>     <south>-89.9800</south>     <north>89.9799</north>   </LatLonBox>   <AcceptList>     <GridAsPoint>       <accept>xml</accept>       <accept>csv</accept>       <accept>netcdf</accept>     </GridAsPoint>     <Grid>       <accept>netcdf</accept>     </Grid>   </AcceptList> </gridDataset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "98e66718bce472bfebfd9d622d515858", 
+    "source_url": "http://oos.soest.hawaii.edu/thredds/ncss/grid/dist2coast_4deg_ocean/dataset.xml"
+}

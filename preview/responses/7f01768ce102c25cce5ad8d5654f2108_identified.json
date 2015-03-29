@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/2501\"> <title>Phrosiect Cychwyn RhCC/ WRN Start- Up Project</title> <link>http://hdl.handle.net/2160/2501</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/1882\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/1881\"/> </rdf:Seq> </items> <dc:date>2015-03-20T01:28:16Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/1882\"> <title>How the West was won: Providing repositories across the principality of Wales</title> <link>http://hdl.handle.net/2160/1882</link> <description>How the West was won: Providing repositories across the principality of Wales Lewis, Stuart; Payne, Hannah Within Wales there exists a close-knit community of twelve higher education institutions. We have our own funding body, the Higher Funding Council for Wales, our own library and IT forums: Wales Higher Education Libraries Forum (WHELF) and Higher Education Wales Information Technology (HEWIT), and our own National Library. Like the rest of the UK though, three years ago the number of institutions with repositories was very low, and those that existed contained very little in the way of content.&#13; In contrast, today there is full coverage, with each of the institutions running a repository. Some are maturing, some are still just starting out, but the essential building blocks of repositories are in place. With the assistance of the dedicated Welsh arm of the JISC-funded Repositories Support Project (RSP) the repositories are now in place and growing. </description> <dc:date>2009-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/1881\"> <title>Repository Hardware Case Studies</title> <link>http://hdl.handle.net/2160/1881</link> <description>Repository Hardware Case Studies Staff, Welsh Repository Network The JISC funded Welsh Repository Network project has worked in association with the Wales Higher Education Libraries Forum (WHELF) to create a network of twelve repositories across Wales. Every Welsh Higher Education Institution, ranging from small teaching based institutions, to large research intensive institutions now has its own open access repository. This document contains a case study for each of the repositories, detailing the repository hardware purchased, and the reasons behind the purchasing decisions made. </description> <dc:date>2009-02-23T09:49:44Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7f01768ce102c25cce5ad8d5654f2108", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/2501"
+}

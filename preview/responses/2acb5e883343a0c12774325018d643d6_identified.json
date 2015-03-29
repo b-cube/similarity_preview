@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>W&amp;M Libraries Catalog</ShortName>   <Description>Library Catalog Search</Description>   <Image height=\"16\" width=\"16\" type=\"image/png\">http://catalog.libraries.wm.edu/themes/root/images/vufind-favicon.png</Image>   <Contact>libsys@wm.edu</Contact>   <Url type=\"text/html\" method=\"get\" template=\"http://catalog.libraries.wm.edu/Search/Results?lookfor={searchTerms}&amp;page={startPage?}\"/>   <Url type=\"application/rss+xml\" method=\"get\" template=\"http://catalog.libraries.wm.edu/Search/Results?lookfor={searchTerms}&amp;view=rss\"/>   <Url type=\"application/x-suggestions+json\" method=\"get\" template=\"http://catalog.libraries.wm.edu/Search/Suggest?lookfor={searchTerms}&amp;format=JSON\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2acb5e883343a0c12774325018d643d6", 
+    "source_url": "https://catalog.libraries.wm.edu/Search/OpenSearch?method=describe"
+}

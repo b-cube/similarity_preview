@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/en/revision/gilpin-county-plsstownships\" rel=\"alternate\"></link><id>/en/revision/gilpin-county-plsstownships</id><updated>2015-03-20T04:10:29Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f18f0d1ca638e9fac1c638cc2f66679f", 
+    "source_url": "http://data.opencolorado.org/en/dataset/history/gilpin-county-plsstownships?days=7&format=atom"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:File HRef=\"v3_document.htm\"/>  <o:File HRef=\"preview.wmf\"/>  <o:File HRef=\"v3_next_active.gif\"/>  <o:File HRef=\"v3_next_disabled.gif\"/>  <o:File HRef=\"v3_prev_active.gif\"/>  <o:File HRef=\"v3_prev_disabled.gif\"/>  <o:File HRef=\"v3_outline_collapse.gif\"/>  <o:File HRef=\"v3_outline_expand.gif\"/>  <o:File HRef=\"v3_space.gif\"/>  <o:File HRef=\"v3_endshow.htm\"/>  <o:File HRef=\"v3_navigation_bar.htm\"/>  <o:File HRef=\"v3_outline_navigation_bar.htm\"/>  <o:File HRef=\"v3_outline_collapsed.htm\"/>  <o:File HRef=\"v3_outline_expanded.htm\"/>  <o:File HRef=\"v3_blank_notes.htm\"/>  <o:File HRef=\"master03.htm\"/>  <o:File HRef=\"master03.xml\"/>  <o:File HRef=\"pres.xml\"/>  <o:File HRef=\"editdata.mso\"/>  <o:File HRef=\"v3_slide0008.htm\"/>  <o:File HRef=\"v3_slide0005.htm\"/>  <o:File HRef=\"v3_slide0005_image001.gif\"/>  <o:File HRef=\"v3_slide0007.htm\"/>  <o:File HRef=\"v3_slide0009.htm\"/>  <o:File HRef=\"slide0008.htm\"/>  <o:File HRef=\"slide0005.htm\"/>  <o:File HRef=\"slide0007.htm\"/>  <o:File HRef=\"slide0009.htm\"/>  <o:File HRef=\"master01.htm\"/>  <o:File HRef=\"master03_stylesheet.css\"/>  <o:File HRef=\"script.js\"/>  <o:MainFile HRef=\"../tictoc-3.htm\"/>  <o:File HRef=\"fullscreen.htm\"/>  <o:File HRef=\"buttons.gif\"/>  <o:File HRef=\"frame.htm\"/>  <o:File HRef=\"outline.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0d2b4536ecc35bbceffeab1477e36935", 
+    "source_url": "http://www.ietf.org/proceedings/75/slides/tictoc-3/tictoc-3_files/filelist.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"   xmlns:owl=\"http://www.w3.org/2002/07/owl#\"   xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dcat=\"http://www.w3.org/ns/dcat#\"   xmlns:dct=\"http://purl.org/dc/terms/\" >   <dcat:Dataset rdf:about=\"http://beta.ckan.org/en/dataset/production-figures\">     <owl:sameAs rdf:resource=\"urn:uuid:514561a0-e97a-48fa-ada3-e09e15795c30\"/>     <dct:description>excel file</dct:description>              <dcat:keyword>Ecology</dcat:keyword>              <dcat:keyword>Water regulation</dcat:keyword>          <foaf:homepage rdf:resource=\"http://beta.ckan.org/en/dataset/production-figures\"/>     <rdfs:label>production-figures</rdfs:label>      <dct:identifier>production-figures</dct:identifier>     <dct:title>Production figures</dct:title>              <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://beta.ckan.org/dataset/514561a0-e97a-48fa-ada3-e09e15795c30/resource/700b5bee-ad24-4086-b3be-311f65454e93/download/bep-annual-production-figures-1980-2012.xls\"/>                                          <dct:format>                         <dct:IMT>                             <rdf:value>XLS</rdf:value>                             <rdfs:label>XLS</rdfs:label>                         </dct:IMT>                     </dct:format>                                     <dct:title>bep figs</dct:title>             </dcat:Distribution>         </dcat:distribution>                              </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "c05bedf42e54d5eec2ed9a460b39455e", 
+    "source_url": "http://beta.ckan.org/en/dataset/514561a0-e97a-48fa-ada3-e09e15795c30.rdf"
+}

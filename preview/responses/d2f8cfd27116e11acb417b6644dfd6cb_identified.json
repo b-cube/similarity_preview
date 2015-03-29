@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi w=\"-97.30835\" e=\"-96.29165\" n=\"36.375\" utm_span=\"1000\" zone=\"14S\" type=\"geo\" s=\"35.55\">     <location name=\"UTM:(14S 0682 3996 1000)\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>21</dist>       <lat>36.0960</lat>       <lon>-96.9727</lon>       <name>UTM:(14S 0682 3996 1000)</name>     </location>     <location name=\"UTM:(14S 0697 3982 1000)\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>3</dist>       <lat>35.9669</lat>       <lon>-96.8098</lon>       <name>UTM:(14S 0697 3982 1000)</name>     </location>     <location name=\"UTM:(14S 0700 3983 1000)\">       <cdi>4.2757</cdi>       <nresp>2</nresp>       <dist>3</dist>       <lat>35.9753</lat>       <lon>-96.7763</lon>       <name>UTM:(14S 0700 3983 1000)</name>     </location>     <location name=\"UTM:(14S 0701 3984 1000)\">       <cdi>2.5168</cdi>       <nresp>1</nresp>       <dist>4</dist>       <lat>35.9841</lat>       <lon>-96.7649</lon>       <name>UTM:(14S 0701 3984 1000)</name>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d2f8cfd27116e11acb417b6644dfd6cb", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/c000tv5d/us/cdi_geo.xml"
+}

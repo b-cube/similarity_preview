@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>International Primacy: Is the Game Worth the Candle?</dc:title><dc:creator>Jervis, Robert</dc:creator><dc:date>1993</dc:date><dc:type>text</dc:type><dc:subject>Political science</dc:subject><dc:subject>International relations</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8K64GXS</dc:identifier><dc:description>Does international primacy matter? In the past, this question was not worth asking. The great powers-and the term is suggestive-always struggled for position, and the top two or three of them, with the glaring exception of the Untied States in the 1920s and 1930s, sought to be the leading state. Jervis goes on to discuss the game of international hegemony and how the game has changed throughout history, specifically the balance of power theory.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b830eef0198de1e8a0d1983c9d4845b2", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A183988.dc_xml"
+}

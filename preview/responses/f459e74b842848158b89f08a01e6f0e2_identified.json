@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi type=\"zip\">     <location name=\"74074\">       <cdi>3.3278</cdi>       <nresp>15</nresp>       <dist>12</dist>       <lat>36.0759277283</lat>       <lon>-97.0995974939</lon>       <name>Stillwater</name>       <state>OK</state>     </location>     <location name=\"74075\">       <cdi>3.1577</cdi>       <nresp>26</nresp>       <dist>5</dist>       <lat>36.175402583</lat>       <lon>-97.0633810292</lon>       <name>Stillwater</name>       <state>OK</state>     </location>     <location name=\"74077\">       <cdi>3.7738</cdi>       <nresp>3</nresp>       <dist>7</dist>       <lat>36.1228033078</lat>       <lon>-97.0706479473</lon>       <name>Stillwater</name>       <state>OK</state>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f459e74b842848158b89f08a01e6f0e2", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/c000tuu0/us/cdi_zip.xml"
+}

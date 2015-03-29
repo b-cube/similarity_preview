@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>DSpace</ShortName><LongName>Abertay Research Collections</LongName><Description>Abertay Research Collections DSpace repository</Description><InputEncoding>UTF-8</InputEncoding><OutputEncoding>UTF-8</OutputEncoding><Query role=\"example\" searchTerms=\"photosynthesis\" /><Tags>IR DSpace</Tags><Contact>helpdesk@abertay.ac.uk</Contact><Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://www.dspace.org/images/favicon.ico</Image></OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5cd5a34a29aed999dcd693aa98cef9e3", 
+    "source_url": "https://repository.abertay.ac.uk/jspui/open-search/description.xml"
+}

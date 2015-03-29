@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <!--Generated: 2015-03-18T03:53:51--> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <url>     <loc>http://www.naphsis.org:80/Pages/news-and-events.aspx</loc>     <lastmod>2015-03-16T16:48:32Z</lastmod>   </url>   <url>     <loc>http://www.naphsis.org:80/</loc>     <lastmod>2014-12-13T19:39:49Z</lastmod>   </url>   <url>     <loc>http://www.naphsis.org:80/programs/ephtn</loc>     <lastmod>2015-03-16T18:15:26Z</lastmod>   </url>   <url>     <loc>http://www.naphsis.org:80/programs/vital-statistics-data-research-request-process</loc>     <lastmod>2015-03-16T18:15:26Z</lastmod>   </url>   <url>     <loc>http://www.naphsis.org:80/blog/archives</loc>     <lastmod>2015-03-16T18:15:26Z</lastmod>   </url>   <url>     <loc>http://www.naphsis.org:80/blog/post</loc>     <lastmod>2015-03-16T18:15:26Z</lastmod>   </url>   <url>     <loc>http://www.naphsis.org:80/about-naphsis/corporate-partnerships</loc>     <lastmod>2015-03-16T18:15:26Z</lastmod>   </url>   <url>     <loc>http://www.naphsis.org:80/systems</loc>     <lastmod>2015-03-16T18:15:26Z</lastmod>   </url>   <url>     <loc>http://www.naphsis.org:80/programs</loc>     <lastmod>2015-03-16T18:15:26Z</lastmod>   </url>   <url>     <loc>http://www.naphsis.org:80/about-evve</loc>     <lastmod>2015-03-16T18:15:26Z</lastmod>   </url>   <url>     <loc>http://www.naphsis.org:80/blog</loc>     <lastmod>2015-03-16T18:15:26Z</lastmod>   </url>   <url>     <loc>http://www.naphsis.org:80/about-naphsis</loc>     <lastmod>2015-03-16T18:15:26Z</lastmod>   </url> </urlset>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8db37fbcd40766f70247f32510d727f9", 
+    "source_url": "http://www.naphsis.org/sitemap0.xml"
+}

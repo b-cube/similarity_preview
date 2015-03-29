@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <schema xmlns=\"http://www.w3.org/2001/XMLSchema\" xmlns:er=\"http://xmlns.earthresourceml.org/EarthResource/2.0\" xmlns:gsml=\"http://xmlns.geosciml.org/GeoSciML-Core/3.2\" xmlns:gsmlem=\"http://xmlns.geosciml.org/EarthMaterial/3.2\" xmlns:gsmlu=\"http://xmlns.geosciml.org/Utilities/3.2\" xmlns:swe=\"http://www.opengis.net/swe/2.0\" elementFormDefault=\"qualified\" targetNamespace=\"http://xmlns.earthresourceml.org/EarthResource/2.0\" version=\"2.0.0\">   <include schemaLocation=\"mine.xsd\"/>   <include schemaLocation=\"mineralOccurrence.xsd\"/>   <import namespace=\"http://www.opengis.net/swe/2.0\" schemaLocation=\"http://schemas.opengis.net/sweCommon/2.0/swe.xsd\"/>   <import namespace=\"http://xmlns.geosciml.org/EarthMaterial/3.2\" schemaLocation=\"earthMaterial.xsd\"/>   <import namespace=\"http://xmlns.geosciml.org/GeoSciML-Core/3.2\" schemaLocation=\"geosciml-core.xsd\"/>   <import namespace=\"http://xmlns.geosciml.org/Utilities/3.2\" schemaLocation=\"cgiUtilities.xsd\"/>   <!--XML Schema document created by ShapeChange - http://shapechange.net/--> </schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b5e3cf56dcf39dae2daf0c2eeb9cabe8", 
+    "source_url": "http://schemas.earthresourceml.org/2.0/earthresourceml.xsd"
+}

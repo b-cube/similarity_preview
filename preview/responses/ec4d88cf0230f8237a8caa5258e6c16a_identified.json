@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Rocholz, Roland</a1>   <a2>Wanner, Sven</a2>   <a2>Schimpf, Uwe</a2>   <a2>J\\ufffd\\ufffdhne, Bernd</a2>   <t1>Combined visualization of wind waves and water surface temperature</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;A combined visualization of wind waves and water surface temperature is gained from synchronized and co-located active thermography and wave slope imaging at a high frame rate (312 Hz). An interactive rendering tool, WaveVis, was developed in order facilitate a direct comparison of the space-time evolution of the waves and the surface temperature distribution. For this the water surface elevation is reconstructed from the wave slope and rendered in perspective with OpenGL. The temperature images are mapped in false color onto that virtual surface. Shading, based on the surface slope, is additionally exploited to make the tiny capillary waves visible even though their amplitudes are much smaller than those of the dominating short-gravity waves. WaveVis enables to interactively study many mechanisms of air-sea gas exchange, for instance raindrop impacts, microscale breaking waves, and micro Langmuir circulations.&lt;/p&gt;</ab>   <la/>   <k1>water wave imaging;                 infrared imaging;                 microscale breaking;                 visualization;                 </k1>   <pb/>   <pp/>   <yr>2011-07-04</yr>   <ed/>   <ul>http://www.fluid.me.kyoto-u.ac.jp/gtws2010/;  https://zenodo.org/record/14957/files/GTWS2010p496_Rocholz_2011a.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ec4d88cf0230f8237a8caa5258e6c16a", 
+    "source_url": "https://zenodo.org/record/14957/export/xw"
+}

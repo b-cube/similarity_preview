@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">UK EEZ</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">ukho.ac.uk:DC:3413bbc3-33a9-34ab-97e7-9933da171fb6</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">The UK EEZ</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2014-03-31</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5c08dac47e3beb62d3b06ce9bce16736", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/ukho.ac.uk__MEDIN_2.3__3413bbc3-33a9-34ab-97e7-9933da171fb6.xml/DC"
+}

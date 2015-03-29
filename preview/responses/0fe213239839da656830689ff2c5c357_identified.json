@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Date-Time-Last-Modified>19981022145142 </Date-Time-Last-Modified>  <Title>Bikini and nearby atolls : part 2 oceanography (biologic) </Title>  <Imprint>Washington, D.C. : U.S. G.P.O., 1954. </Imprint>  <Physical-Description>iii, 293-318 p., [2] p. of plates : ill., charts ; 29 cm. </Physical-Description>  <Series-Statement-Added-Entry>Geological Survey professional paper ; no. 260-E, F, G </Series-Statement-Added-Entry>  <Formatted-Contents-Note>no. 260-E. Biologic economy of coral reefs -- no. 260-F. Plankton of northern Marshall Islands -- no. 260-G. Recent brachiopods. </Formatted-Contents-Note>  <Subject-Added-Topical-Term>Oceanography Marshall Islands Area. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Coral reef ecology. </Subject-Added-Topical-Term>  <Subject-Added-Geographic-Name>Marshall Islands. </Subject-Added-Geographic-Name>  <Access-Information>NOAA Miami Regional Library, Miami, FL|STACKS|QE75.P9 no.260- E-G|BOOK|1 </Access-Information>  <Region>RMI </Region>  <Bounding>  <Eastbc>169.97 </Eastbc>  <Westbc>162.302 </Westbc>  <Southbc>5.573 </Southbc>  <Northbc>14.71 </Northbc>  </Bounding>  <Local-number>OCoLC-ocm11055752 </Local-number>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0fe213239839da656830689ff2c5c357", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B3A83FC42-E603-4350-A30C-A06CDADB851D%7D"
+}

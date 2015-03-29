@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ITU.V18.1998\"> <front> <title>Operational and Interworking Requirements for DCEs Operating in Text Telephone Mode</title> <author> <organization></organization> </author> <date month=\"February\" year=\"1998\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation V.18\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a1eaf36e87f7cefeae9069e6e97df9dd", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ITU.V18.1998.xml"
+}

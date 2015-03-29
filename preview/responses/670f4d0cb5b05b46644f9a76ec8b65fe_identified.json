@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.02.11dcs'> <front> <title>Service accessibility (DCS 1800)</title> <author><organization>3GPP</organization></author> <date day='01' month='January' year='1995' /> </front>  <seriesInfo name='3GPP TS' value='02.11dcs 3.1.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0211dcs.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "670f4d0cb5b05b46644f9a76ec8b65fe", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.02.11dcs.xml"
+}

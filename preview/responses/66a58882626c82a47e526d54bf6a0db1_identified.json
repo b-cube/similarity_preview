@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.aboba-radius-iana\"> <front> <title>IANA Considerations for RADIUS</title>  <author initials=\"B\" surname=\"Aboba\" fullname=\"Bernard Aboba\">     <organization /> </author>  <date month=\"April\" day=\"24\" year=\"2003\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-aboba-radius-iana-07\" /> <format type=\"TXT\"         target=\"http://www.ietf.org/internet-drafts/draft-aboba-radius-iana-07.txt\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "66a58882626c82a47e526d54bf6a0db1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-ids/reference.I-D.aboba-radius-iana.xml"
+}

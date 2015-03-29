@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <ows:ExceptionReport xmlns:ows=\"http://www.opengis.net/ows\" version=\"1.0.0\"><ows:Exception exceptionCode=\"InvalidParameterValue\"><ows:ExceptionText>bad service type: null</ows:ExceptionText></ows:Exception></ows:ExceptionReport>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0.0", 
+        "protocol": "OGC:error", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "93c2f32ab31bc2dd4af0adc24c0c6b57", 
+    "source_url": "http://gateway.ceh.ac.uk/soapServices/CSWStartup"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi type=\"zip\">     <location name=\"73059\">       <cdi>3.6479</cdi>       <nresp>6</nresp>       <dist>8</dist>       <lat>35.2877801967</lat>       <lon>-97.988356579</lon>       <name>Minco</name>       <state>OK</state>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "867aeef25c475366125009eed3038520", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/c000tu7f/us/cdi_zip.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>4,000+ Tweets Later: Looking Back at the Seventh International Conference on Open Repositories</title> <creator>Carol Minton Morris</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">September/October 2012</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/september2012-morris</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/september12/morris/09morris.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>18</volume> <issue>9/10</issue> </relation> <rights>Copyright 2012 Carol Minton Morris</rights> </dlib-meta0.1>   ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "13d2a001dc88c44f7de2e1cab870c19d", 
+    "source_url": "http://www.dlib.org/dlib/september12/morris/09morris.meta.xml"
+}

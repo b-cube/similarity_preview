@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <netcdf location=\"http://opendap.jpl.nasa.gov/opendap/allData/aquarius/L3/mapped/V2/7day/SCI/2013/141/Q20131412013147.L3m_7D_SCI_V2.0_SSS_1deg.bz2\"           xmlns=\"http://www.unidata.ucar.edu/namespaces/netcdf/ncml-2.2\">   <dimension name=\"Latitude\" length=\"180\"/>          <dimension name=\"Longitude\" length=\"360\"/>          <variable name=\"l3m_data\" shape=\"Latitude Longitude\" orgName=\"_l3m_data\" type=\"float\">     <attribute type=\"string\" name=\"units\" value=\"psu\" />     <attribute type=\"string\" name=\"long_name\" value=\"Sea Surface Salinity\" />   </variable>   <variable name=\"Latitude\" shape=\"Latitude\" type=\"float\">     <values start=\"89.5\" increment=\"-1\"/>     <attribute type=\"string\"  name=\"units\" value=\"degrees_north\" />   </variable>   <variable name=\"Longitude\" shape=\"Longitude\" type=\"float\">     <values start=\"-179.5\" increment=\"1\"/>     <attribute type=\"string\"  name=\"units\" value=\"degrees_east\" />   </variable> </netcdf> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "UNIDATA:NCML", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "03297de6a0967195f176be04d5842555", 
+    "source_url": "http://www.hdfeos.org/examples/code/ncml/Q20131412013147.L3m_7D_SCI_V2.0_SSS_1deg.ncml"
+}

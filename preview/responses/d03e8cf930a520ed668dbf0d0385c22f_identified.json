@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>SAGrid-2.0 - Tooling up for African Collaboration</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname/>             <given-names/>           </name>           <aff>             <institution>Council for Scientific and Industrial Research</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/10026\"/>       <self-uri xlink:href=\"http://cf2014.egi.eu\"/>       <self-uri xlink:href=\"http://zenodo.org/record/10026/files/SAGrid_-_2.0.pdf\"/>       <self-uri xlink:href=\"http://zenodo.org/record/10026/files/SAGrid_-_2.0.png?subformat=icon-90\"/>     </article-meta>     <abstract>&lt;p&gt;The South African National Grid (SAGrid) is a federation of universities, national laboratories and research groups which operates a distributed computing infrastructure. Starting in 2009 and initially based on gLite-3.2 middleware,&amp;nbsp;SAGrid&amp;nbsp;allowed better participation to WLCG and other large distributed e-Infrastructures. However, a long tail of individual researchers in South Africa and the rest of the region were excluded or poorly-served. With the evolution of grid and maturity of cloud middleware, the potential of the infrastructure has increased. With the support of the CHAIN-REDS project, a signature of a Resource Infrastructure Provider MoU with EGI.eu has also improved interoperation, collaboration and reliability of the infrastructure. In this contribution, we report on how we further improve the usability and sustainability of the infrastructure by adopting new methodologies and technologies &amp;nbsp;to support technical and user communities. While still offering a &amp;amp;#34;grid&amp;amp;#34; infrastructure,&amp;nbsp;SAGrid&amp;nbsp;is now also offers user- and developer-friendly interfaces to new services, while the adoption of executable infrastructure improves reliability and scalability of operations.&lt;/p&gt;</abstract>   </front>   <article-type>user-sa-einfra-commons</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d03e8cf930a520ed668dbf0d0385c22f", 
+    "source_url": "http://zenodo.org/record/10026/export/xn"
+}

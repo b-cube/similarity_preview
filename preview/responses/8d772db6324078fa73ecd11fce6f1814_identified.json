@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/TRMM_GV_L2/TRMM_2A53_CSI_MELB/2003\"                     ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A53_CSI_MELB/2003/\">             <thredds:catalogRef name=\"032\" xlink:href=\"032/catalog.xml\" xlink:title=\"032\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A53_CSI_MELB/2003/032/\"/>             <thredds:catalogRef name=\"033\" xlink:href=\"033/catalog.xml\" xlink:title=\"033\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A53_CSI_MELB/2003/033/\"/>             <thredds:catalogRef name=\"034\" xlink:href=\"034/catalog.xml\" xlink:title=\"034\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A53_CSI_MELB/2003/034/\"/>             <thredds:catalogRef name=\"035\" xlink:href=\"035/catalog.xml\" xlink:title=\"035\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A53_CSI_MELB/2003/035/\"/>             <thredds:catalogRef name=\"036\" xlink:href=\"036/catalog.xml\" xlink:title=\"036\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A53_CSI_MELB/2003/036/\"/>             <thredds:catalogRef name=\"037\" xlink:href=\"037/catalog.xml\" xlink:title=\"037\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A53_CSI_MELB/2003/037/\"/>             <thredds:catalogRef name=\"038\" xlink:href=\"038/catalog.xml\" xlink:title=\"038\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A53_CSI_MELB/2003/038/\"/>             <thredds:catalogRef name=\"039\" xlink:href=\"039/catalog.xml\" xlink:title=\"039\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A53_CSI_MELB/2003/039/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "8d772db6324078fa73ecd11fce6f1814", 
+    "source_url": "http://disc2.nascom.nasa.gov/opendap/TRMM_GV_L2/TRMM_2A53_CSI_MELB/2003/catalog.xml"
+}

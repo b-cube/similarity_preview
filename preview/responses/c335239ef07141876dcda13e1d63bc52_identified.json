@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-land-corners\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-land-corners</id><updated>2015-03-15T16:24:56Z</updated><entry><title>REST API: Update object city-and-county-of-denver-land-corners</title><link href=\"/revision/42757362-b0c3-4baa-a301-867c8ee241e9\" rel=\"alternate\"></link><updated>2015-03-15T16:24:56Z</updated><published>2015-03-15T16:24:56Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/42757362-b0c3-4baa-a301-867c8ee241e9</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-land-corners</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-land-corners</title><link href=\"/revision/bde4fd42-0e49-48eb-963a-c57cb3473a92\" rel=\"alternate\"></link><updated>2015-03-15T16:24:42Z</updated><published>2015-03-15T16:24:42Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/bde4fd42-0e49-48eb-963a-c57cb3473a92</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-land-corners</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-land-corners</title><link href=\"/revision/242641a7-9b12-4989-8769-99e0c850354f\" rel=\"alternate\"></link><updated>2015-03-08T16:24:14Z</updated><published>2015-03-08T16:24:14Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/242641a7-9b12-4989-8769-99e0c850354f</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-land-corners</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-land-corners</title><link href=\"/revision/8e6a4fc5-0449-4a68-beeb-ed150de3ff0e\" rel=\"alternate\"></link><updated>2015-03-08T16:24:02Z</updated><published>2015-03-08T16:24:02Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/8e6a4fc5-0449-4a68-beeb-ed150de3ff0e</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-land-corners</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c335239ef07141876dcda13e1d63bc52", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-land-corners?days=14&format=atom"
+}

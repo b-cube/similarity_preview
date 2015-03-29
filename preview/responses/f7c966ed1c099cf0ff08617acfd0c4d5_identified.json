@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <licenseClass id=\"pic_cc_zero\"><field id=\"attribution_url\"><label>Your URL</label><description>The URL of the work</description></field><field id=\"territory\"><label>Territory</label><description>The country code</description></field><field id=\"creator\"><label>Publisher</label><description>The name of the creator of the work</description></field><field id=\"outputType\"><description>The format of the output</description><label>License Output format</label><label>XML having License HTML and RDF</label><label>License HTML ONLY</label></field><field id=\"title\"><label>Title of Work</label><description>The title of the work</description></field></licenseClass>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f7c966ed1c099cf0ff08617acfd0c4d5", 
+    "source_url": "http://nsidc.org/api/picbadge/licenses/pic_cc_zero/"
+}

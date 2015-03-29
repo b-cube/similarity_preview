@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <urlset xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/Bridges/cd113/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/Bridges/fgdbNBI/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/Bridges/nbi_DeficientBridges_WMAS/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/Bridges/nbi_NHS_WMAS/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/Bridges/nbi_WMAS/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url> </urlset>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d1f63aa4ae7b12c1094554d3def8eb88", 
+    "source_url": "http://gis.rita.dot.gov/ArcGIS/rest/services/Bridges?f=geositemap"
+}

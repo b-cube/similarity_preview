@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.ietf-rohc-tcp-taroc\"> <front> <title>TCP-Aware RObust Header Compression (TAROC)</title>  <author initials=\"H\" surname=\"Liao\" fullname=\"HongBin Liao\">     <organization /> </author>  <date month=\"November\" day=\"28\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-ietf-rohc-tcp-taroc-04\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5cef1ca009e1120684fa2ccaa311aa8b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-rohc-tcp-taroc.xml"
+}

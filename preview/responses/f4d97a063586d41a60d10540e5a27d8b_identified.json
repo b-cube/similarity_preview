@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/test-0g\">     <owl:sameAs rdf:resource=\"urn:uuid:7f1fc1de-e278-4a15-b67a-19bc0f6c962d\"></owl:sameAs>     <dct:description></dct:description>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/test-0g\"></foaf:homepage>     <rdfs:label>test-0g</rdfs:label>     <dct:identifier>test-0g</dct:identifier>     <dct:title>Test 0G</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://jon.li/dghk/test/badminton.csv\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>B</dct:title>             </dcat:Distribution>         </dcat:distribution>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://www.mardep.gov.hk/en/pub_services/RP04005.XML\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>XML</rdf:value>                             <rdfs:label>XML</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>X</dct:title>             </dcat:Distribution>         </dcat:distribution>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "f4d97a063586d41a60d10540e5a27d8b", 
+    "source_url": "http://demo.ckan.org/dataset/7f1fc1de-e278-4a15-b67a-19bc0f6c962d.rdf"
+}

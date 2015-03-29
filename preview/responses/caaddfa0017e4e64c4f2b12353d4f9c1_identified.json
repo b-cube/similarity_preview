@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.1016/j.marpolbul.2015.01.008</dc:identifier><dc:creator>Zaiko, Anastasija </dc:creator><dc:creator>Martinez, Jose L. </dc:creator><dc:creator>Schmidt-Petersen, Julia </dc:creator><dc:creator>Ribicic, Deni </dc:creator><dc:creator>Samuiloviene, Aurelija </dc:creator><dc:creator>Garcia-Vazquez, Eva </dc:creator><dc:title>Metabarcoding approach for the ballast water surveillance \\ufffd\\ufffd\\ufffd an advantageous solution or an awkward challenge?</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Transfer of organisms with ships&amp;rsquo; ballast water is recognized as a major pathway of non-indigenous species introduction and addressed in a few recent legislative initiatives. Among other they imply scientific and technical research and monitoring to be conducted in a efficient and reliable way. The recent development of DNA barcoding and metabarcoding technologies opens new opportunities for biodiversity and biosecurity surveillance. In the current study, the performance of metabarcoding approach was assessed in comparison to the conventional (visual) observations, during the&amp;nbsp;&lt;em&gt;en route&lt;/em&gt;&amp;nbsp;experimental ballast water survey. Opportunities and limitations of the molecular method were identified from taxonomical datasets rendered by two molecular markers of different degree of universality &amp;ndash; the universal cytochrome oxydase sub-unit I gene and a fragment of RuBisCO gene. The cost-efficacy and possible improvements of these methods are discussed for the further successful development and implementation of the approach in ballast water control and NIS surveillance.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2015-01-24</dc:date><dc:source>http://zenodo.org/record/15845</dc:source><dc:doi>10.1016/j.marpolbul.2015.01.008</dc:doi><dc:identifier>http://zenodo.org/record/15845</dc:identifier><dc:identifier>oai:zenodo.org:15845</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "caaddfa0017e4e64c4f2b12353d4f9c1", 
+    "source_url": "https://zenodo.org/record/15845/export/xd"
+}

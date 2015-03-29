@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <Map srs=\"+proj=utm +zone=16 +ellps=WGS84 +datum=WGS84 +units=m +no_defs\">  <Layer srs=\"+proj=utm +zone=16 +ellps=WGS84 +datum=WGS84 +units=m +no_defs\">  </Layer> </Map>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1adc88f43ecbd5013d9d788b8ff9b132", 
+    "source_url": "http://spatialreference.org/ref/epsg/32616/mapnik/"
+}

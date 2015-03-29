@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0208'>  <front> <title>Address tables</title> <author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'> <organization /></author> <date year='1971' month='August' /></front>  <seriesInfo name='RFC' value='208' /> <format type='TXT' octets='5858' target='http://www.rfc-editor.org/rfc/rfc208.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "83b0143a1a0cd2a9fbf90d53bb7bded4", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0208.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>NanoPhotonics</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/198345\" rel=\"alternate\"/> <subtitle/> <id>http://www.repository.cam.ac.uk:80/handle/1810/198345</id> <updated>2015-03-13T04:47:51Z</updated> <dc:date>2015-03-13T04:47:51Z</dc:date> <entry> <title>Molecules in the mirror: how SERS backgrounds arise from the quantum method of images</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/245262\" rel=\"alternate\"/> <author> <name>Baumberg, Jeremy</name> </author> <author> <name>Barnett, Stephen</name> </author> <author> <name>Harris, Nadine</name> </author> <id>http://www.repository.cam.ac.uk:80/handle/1810/245262</id> <updated>2014-04-30T11:40:47Z</updated> <published>2014-02-20T00:00:00Z</published> <summary type=\"text\">Molecules in the mirror: how SERS backgrounds arise from the quantum method of images Baumberg, Jeremy; Barnett, Stephen; Harris, Nadine The Raman coupling of light to molecular vibrations is strongly modified when they are placed near a plasmonic metal surface, with the appearance of a strong broad continuum background in addition to the normal surface-enhanced Raman scattering (SERS) peaks. Using a quantum method of images approach, we produce a simple but quantitative explanation of the inevitable presence of the background, due to the resistive damping of the image molecule. This model thus suggests new strategies for enhancing the SERS peak to background ratio. </summary> <dc:date>2014-02-20T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e22f4ab78f1f6ff346e5b73470345b50", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/atom_1.0/1810/198345"
+}

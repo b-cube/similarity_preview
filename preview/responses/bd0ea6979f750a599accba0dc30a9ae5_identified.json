@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">gip116</identifier><identifier type=\"pwpk\">98881</identifier><identifier type=\"series\">General Information Product</identifier><identifier type=\"seriesNumber\">116</identifier><identifier type=\"seriesCode\">GIP</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Mount St. Helens lidar</title></titleInfo><originInfo><dateOther>Sat, 13 Nov 2010 00:00 -0600</dateOther><dateIssued>2010</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Queija, Vivian R.</namePart><role>Author</role></name><physicalDescription><form>Poster of Mount St. Helens lidar; 17 inches x 22 inches</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/gip_116.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/gip/116/</url></location><note type=\"citation/reference\">Mount St. Helens lidar; 2010; GIP; 116; General Information Product; Queija, Vivian R.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>General Information Product</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bd0ea6979f750a599accba0dc30a9ae5", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=gip116"
+}

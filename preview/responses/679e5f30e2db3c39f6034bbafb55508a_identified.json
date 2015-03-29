@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <q:quakeml xmlns=\"http://quakeml.org/xmlns/bed/1.2\" xmlns:catalog=\"http://anss.org/xmlns/catalog/0.1\" xmlns:q=\"http://quakeml.org/xmlns/quakeml/1.2\"> <eventParameters publicID=\"quakeml:earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.quakeml\"> <event catalog:datasource=\"us\" catalog:eventsource=\"us\" catalog:eventid=\"10001nj1\" publicID=\"quakeml:earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us10001nj1.quakeml\"><description><type>earthquake name</type><text>82km NNW of Talcahuano, Chile</text></description><origin catalog:datasource=\"us\" catalog:dataid=\"us10001nj1\" catalog:eventsource=\"us\" catalog:eventid=\"10001nj1\" publicID=\"quakeml:earthquake.usgs.gov/realtime/product/origin/us10001nj1/us/1426704582040/product.xml\"><time><value>2015-03-18T18:27:28.120Z</value></time><longitude><value>-73.6259</value></longitude><latitude><value>-36.0967</value></latitude><depth><value>10000</value><uncertainty>1700</uncertainty></depth><originUncertainty><horizontalUncertainty>5900</horizontalUncertainty><preferredDescription>horizontal uncertainty</preferredDescription></originUncertainty><quality><usedPhaseCount>109</usedPhaseCount><standardError>1.85</standardError><azimuthalGap>34</azimuthalGap><minimumDistance>0.888</minimumDistance></quality><evaluationMode>manual</evaluationMode><creationInfo><agencyID>us</agencyID><creationTime>2015-03-18T18:49:42.040Z</creationTime></creationInfo></origin><magnitude catalog:datasource=\"us\" catalog:dataid=\"us10001nj1\" catalog:eventsource=\"us\" catalog:eventid=\"10001nj1\" publicID=\"quakeml:earthquake.usgs.gov/realtime/product/origin/us10001nj1/us/1426704582040/product.xml#magnitude\"><mag><value>6.2</value><uncertainty>0.045</uncertainty></mag><type>mwb</type><stationCount>48</stationCount><originID>quakeml:earthquake.usgs.gov/realtime/product/origin/us10001nj1/us/1426704582040/product.xml</originID><evaluationMode>manual</evaluationMode><creationInfo><agencyID>us</agencyID><creationTime>2015-03-18T18:49:42.040Z</creationTime></creationInfo></magnitude><preferredOriginID>quakeml:earthquake.usgs.gov/realtime/product/origin/us10001nj1/us/1426704582040/product.xml</preferredOriginID><preferredMagnitudeID>quakeml:earthquake.usgs.gov/realtime/product/origin/us10001nj1/us/1426704582040/product.xml#magnitude</preferredMagnitudeID><type>earthquake</type><creationInfo><agencyID>us</agencyID><creationTime>2015-03-19T03:24:49.722Z</creationTime></creationInfo></event> <creationInfo><creationTime>2015-03-19T11:40:21.000Z</creationTime></creationInfo> </eventParameters></q:quakeml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "679e5f30e2db3c39f6034bbafb55508a", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.quakeml"
+}

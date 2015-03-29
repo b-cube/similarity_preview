@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.X520.2001\"> <front> <title>Information Technology - Open Systems Interconnection - The Directory: Selected attribute types</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"February\" year=\"2001\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation X.520\" /> <seriesInfo name=\"ISO\" value=\"Standard 9594-6\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8896f356b6fa67545227daa966a170de", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.X520.2001.xml"
+}

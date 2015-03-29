@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>Science Careers</ShortName>  <Description>Search jobs on Science Careers</Description>  <SearchForm>http://jobs.sciencecareers.org/searchjobs/</SearchForm>  <Url type=\"text/html\" method=\"get\" template=\"http://jobs.sciencecareers.org/searchjobs/?Keywords=%7bsearchTerms%7d\"/>  <Query role=\"example\" searchTerms=\"London\"/>  <Image width=\"16\" height=\"16\" type=\"image/vnd.microsoft.icon\">//d2rcr8uvbmzcrw.cloudfront.net/favicon.ico;v=42</Image>   </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e638e2ff7a8e1953d52ee3b6b8a1dab6", 
+    "source_url": "http://jobs.sciencecareers.org/opensearch/"
+}

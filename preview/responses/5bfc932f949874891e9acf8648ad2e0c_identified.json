@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Status of U.S. Fisheries</dc:title>    <dcterms:alternative>Status of U.S. Fisheries</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>Fisheries, MSA, stock status, overfishing, overfished, report to congress</dc:subject>    <dcterms:abstract>These data inform the public of the most recent stock status (overfishing, overfished, and approaching overfished, FSSI score, and B/Bmsy estimate).  The FSSI is a performance measure for the sustainability of 230 US fish stocks selected for their importance to commercial and recreational fisheries.  The FSSI will increase as stock status becomes known, overfishing has ended, and stocks increase to a level that provides maximum sustainable yield.  B/Bmsy is a measure of current stock biomass relative to the target biomass level (the biomass that produces maximum sustainable yield, or MSY).  FSSI scores are updated quarterly and are available from 2005 to present.  Data are derived from data posted on the SIS database, hosted by the Office of Science and Technology. </dcterms:abstract>    <dc:publisher>NMFS Office Of Sustainable Fisheries</dc:publisher>    <dc:creator>NMFS Office Of Sustainable Fisheries</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/12801</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/12799</dcterms:isPartOf>    <dcterms:spatial>                         name=US National, EEZ;                     </dcterms:spatial> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5bfc932f949874891e9acf8648ad2e0c", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/12801/dublin-core"
+}

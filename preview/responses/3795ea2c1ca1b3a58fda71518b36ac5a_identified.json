@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><?xml-stylesheet type=\"text/xsl\" href=\"/myCrossref/missingmd.xsl\"?> <mmd_results>   <datadate>2015-03-08 21:21:34.0</datadate>   <sources>    <source>     <title>The British Journal of Diabetes &amp; Vascular Disease</title>     <jciteid>77220</jciteid>     <bciteid></bciteid>     <lastmoddate>2015-03-08 21:21:34.0</lastmoddate>     <vcolor>white</vcolor>     <miss_vol>0</miss_vol>     <icolor>white</icolor>     <miss_iss>0</miss_iss>     <pcolor>white</pcolor>     <miss_page>0</miss_page>     <acolor>white</acolor>     <miss_auth>0</miss_auth>     <scolor>red</scolor>     <single_auth>27</single_auth>     <vicolor>white</vicolor>     <miss_vi>0</miss_vi>     <vipcolor>white</vipcolor>     <miss_vip>0</miss_vip>     <vipacolor>white</vipacolor>     <miss_vipa>0</miss_vipa>     <pacolor>white</pacolor>     <miss_pa>0</miss_pa>     <atcolor>white</atcolor>     <miss_atitle>0</miss_atitle>     <ncolor>white</ncolor>     <miss_fname>0</miss_fname>     <fcolor>white</fcolor>     <SingleCharFname>0</SingleCharFname>     <doi_total>59</doi_total>     <codes>none</codes>   </source>    </sources> </mmd_results>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3795ea2c1ca1b3a58fda71518b36ac5a", 
+    "source_url": "http://www.crossref.org/missingmd?datatype=j&prefix=10.15277"
+}

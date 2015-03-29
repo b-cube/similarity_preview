@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/continent/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/dataset_grid_locations/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/obis_query/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/OBIS_USA_All_Marine_Biogeographic_Records/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/OBIS_USA_Fish_Samples/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/RegionIndexing/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7425051e15a51c2c2485b57725143d3c", 
+    "source_url": "http://gis1.usgs.gov/arcgis/rest/services/OBISUSA?f=geositemap"
+}

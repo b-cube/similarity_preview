@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Hitzler, Matthias</a1>   <a2>Recke, Marco</a2>   <t1>Robot List OA-Statistics</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;&lt;strong&gt;Standard Robot Exclusion List&lt;/strong&gt;&lt;br /&gt; used by OA-Statistics. Compilation of some popular black-list.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Status of this document &lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;This document represents a consensus of the german project OA-Statistik. It is not an official standard backed by a standards body, or owned by any commercial organisation. It is not enforced by anybody, and there no guarantee that all current and future robots will use it. It has also been open for discussion.&lt;/p&gt;</ab>   <la/>   <k1>OA-Statistics;                 Robot;                 Exclusion ;                 Verbundzentrale;                 standard;                 </k1>   <pb/>   <pp/>   <yr>2014-04-03</yr>   <ed/>   <ul>http://zenodo.org/record/8573/files/OA-Statistics_Robot_List_2014.md;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9f58ca5fbb459b0e8c1eb4f77743c74b", 
+    "source_url": "https://zenodo.org/record/8573/export/xw"
+}

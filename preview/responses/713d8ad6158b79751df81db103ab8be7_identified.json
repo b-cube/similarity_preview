@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Agriculture/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Bare/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Developed/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Forest/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Grass/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/ScrubShrub/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Water/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Wetlands/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "713d8ad6158b79751df81db103ab8be7", 
+    "source_url": "http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison?f=sitemap"
+}

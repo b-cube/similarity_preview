@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"><ShortName>OWASP (en)</ShortName><Description>OWASP (en)</Description><Image height=\"16\" width=\"16\" type=\"image/x-icon\">https://www.owasp.org/favicon.ico</Image><Url type=\"text/html\" method=\"get\" template=\"https://www.owasp.org/index.php?title=Special:Search&amp;search={searchTerms}\" /><Url type=\"application/x-suggestions+json\" method=\"get\" template=\"https://www.owasp.org/api.php?action=opensearch&amp;search={searchTerms}&amp;namespace=0\" /><moz:SearchForm>https://www.owasp.org/index.php/Special:Search</moz:SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7b492491f9af7990cc5bdd0482415cc0", 
+    "source_url": "https://www.owasp.org/opensearch_desc.php"
+}

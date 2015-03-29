@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0086\">   <front>     <title>Error Condition Mappings</title>     <author initials=\"R.\" surname=\"Norris\" fullname=\"Robert Norris\">       <organization/>       <address>         <email>rob@cataclysm.cx</email>       </address>     </author>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"17\" month=\"February\" year=\"2004\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0086\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0086.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a2ac30f38db8bc46711ff484749db5ad", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0086.xml"
+}

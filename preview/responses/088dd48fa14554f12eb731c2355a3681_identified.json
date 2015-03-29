@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-crime-marijuana\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-crime-marijuana</id><updated>2015-03-12T13:53:06Z</updated><entry><title>REST API: Update object city-and-county-of-denver-crime-marijuana</title><link href=\"/revision/f0d9ecfd-08de-4015-b9f0-e31ff15f3ada\" rel=\"alternate\"></link><updated>2015-03-12T13:53:06Z</updated><published>2015-03-12T13:53:06Z</published><author><name>denver</name></author><id>tag:,2015-03-12:/revision/f0d9ecfd-08de-4015-b9f0-e31ff15f3ada</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-crime-marijuana</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-crime-marijuana</title><link href=\"/revision/585390a2-416a-4dc1-a23f-21478f1f63c7\" rel=\"alternate\"></link><updated>2015-03-12T13:52:38Z</updated><published>2015-03-12T13:52:38Z</published><author><name>denver</name></author><id>tag:,2015-03-12:/revision/585390a2-416a-4dc1-a23f-21478f1f63c7</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-crime-marijuana</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-crime-marijuana</title><link href=\"/revision/a59843ee-e8b4-4270-98e9-fc876ff7a11a\" rel=\"alternate\"></link><updated>2015-03-05T13:38:31Z</updated><published>2015-03-05T13:38:31Z</published><author><name>denver</name></author><id>tag:,2015-03-05:/revision/a59843ee-e8b4-4270-98e9-fc876ff7a11a</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-crime-marijuana</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-crime-marijuana</title><link href=\"/revision/092126be-d4fb-4fc8-9460-e43a8f3e9c47\" rel=\"alternate\"></link><updated>2015-03-05T13:38:25Z</updated><published>2015-03-05T13:38:25Z</published><author><name>denver</name></author><id>tag:,2015-03-05:/revision/092126be-d4fb-4fc8-9460-e43a8f3e9c47</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-crime-marijuana</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "088dd48fa14554f12eb731c2355a3681", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-crime-marijuana?days=14&format=atom"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Identity Theft Resource Center</ShortName>   <Description></Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.idtheftcenter.org/templates/jsn_epic_pro/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.idtheftcenter.org/Search.html?catid=95&amp;format=opensearch&amp;id=478\"/>   <Url type=\"text/html\" template=\"http://www.idtheftcenter.org/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "41851b2d2e17133325a0c93831fe07ca", 
+    "source_url": "http://www.idtheftcenter.org/Search.html?catid=95&format=opensearch&id=478"
+}

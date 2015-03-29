@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/Meteor3_TOMS_Level3\" ID=\"/opendap/hyrax/Meteor3_TOMS_Level3/\">             <thredds:catalogRef name=\"TOMSM3L3.008\" xlink:href=\"TOMSM3L3.008/catalog.xml\"                           xlink:title=\"TOMSM3L3.008\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Meteor3_TOMS_Level3/TOMSM3L3.008/\"/>             <thredds:catalogRef name=\"TOMSM3L3dref.008\" xlink:href=\"TOMSM3L3dref.008/catalog.xml\"                           xlink:title=\"TOMSM3L3dref.008\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Meteor3_TOMS_Level3/TOMSM3L3dref.008/\"/>             <thredds:catalogRef name=\"TOMSM3L3dtoz.008\" xlink:href=\"TOMSM3L3dtoz.008/catalog.xml\"                           xlink:title=\"TOMSM3L3dtoz.008\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Meteor3_TOMS_Level3/TOMSM3L3dtoz.008/\"/>             <thredds:catalogRef name=\"TOMSM3OVP.008\" xlink:href=\"TOMSM3OVP.008/catalog.xml\"                           xlink:title=\"TOMSM3OVP.008\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Meteor3_TOMS_Level3/TOMSM3OVP.008/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "912930ce19c2c98931530115b37536c9", 
+    "source_url": "http://acdisc.gsfc.nasa.gov/opendap/Meteor3_TOMS_Level3/catalog.xml"
+}

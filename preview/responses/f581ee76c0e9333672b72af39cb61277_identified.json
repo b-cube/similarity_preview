@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Robin Andeer</author>           <author>Kenny Billiau</author>           <author>henrikstranneheim</author>         </authors>       </contributors>       <titles>         <title>MIP v2.2.0</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.15852</doi>       <pages/>       <volume/>       <number>url</number>       <dates>         <year>2015</year>         <pub-dates>           <date>2015-03-05</date>         </pub-dates>       </dates>       <abstract>Mutation Identification Pipeline. Read the latest documentation:</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f581ee76c0e9333672b72af39cb61277", 
+    "source_url": "https://zenodo.org/record/15852/export/xe"
+}

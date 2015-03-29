@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.irtf-gsec-smrac\"> <front> <title>Simple Multicast Receiver Access Control</title>  <author initials=\"H\" surname=\"He\" fullname=\"Haixiang He\">     <organization /> </author>  <date month=\"November\" day=\"13\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-irtf-gsec-smrac-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3a98e0cf2db2922ea71c4372f3ca5869", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.irtf-gsec-smrac.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>Confederaci&#243;n Sindical Internacional</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>La juventud trabajadora pide a los Ministros de Trabajo del G20 que combata el desempleo juvenil</title>  <author_name>Philippe Gousenbourger</author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/la-juventud-trabajadora-pide-a-los</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/la-juventud-trabajadora-pide-a-los'&gt;La juventud trabajadora pide a los Ministros de Trabajo del G20 que combata el desempleo juvenil&lt;/a&gt;&lt;/h4&gt;&lt;blockquote class='spip'&gt; &lt;p&gt;Desde que estallara la crisis econ&#243;mica, el incremento del desempleo ha afectado de forma especialmente importante a la juventud, y amenaza el potencial de crecimiento a largo plazo. Es necesario romper el c&#237;rculo particularmente perjudicial de un desempleo juvenil elevado y en alza a fin de &#8220;comprar tiempo&#8221; para la gente joven hasta que unas medidas m&#225;s amplias puedan conseguir impulsar el crecimiento del empleo en la econom&#237;a global.&lt;br class='autobr' /&gt; Los d&#237;as 14 y 15 de mayo, j&#243;venes sindicalistas de todo el (...)&lt;/p&gt; &lt;/blockquote&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "115e70a257cd6a050d7b83da78a30814", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Fla-juventud-trabajadora-pide-a-los"
+}

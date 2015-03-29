@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Bormontov Evgeny Nikolaevich</author>           <author>Klukin Vladimir Ivanovich</author>           <author>Turikov Dmitry Aleksandrovich</author>           <author>Yakubovsky Dmitry</author>         </authors>       </contributors>       <titles>         <title>OPTIMIZATION OF ANN-TRAINING GEOMETRIC ALGORITHM IN INDEPENDENT COMPONENT ANALYSIS (ICA)</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.10136</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>artificial neural networks, ANN-training algorithms, mixed signal processing, geometric algorythms</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-05-01</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;One of the most actual tasks of information processing today is the problem of separating a mixture of several sources of signals. Moreover, the solution requires the on-line processing mode. With this task successfully cope artificial neural networks (ANN). But for stable operation of the system, the ANN require training on specific algorithms. This article discusses a modification one of ANN-training geometric algorithms - histGEO.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8ee362e977dffb22c358732d086333a7", 
+    "source_url": "https://zenodo.org/record/10136/export/xe"
+}

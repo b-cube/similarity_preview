@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/allData/3002/NPP_DAWIP_L2G\"                     ID=\"/opendap/hyrax/allData/3002/NPP_DAWIP_L2G/\">             <thredds:catalogRef name=\"2012\" xlink:href=\"2012/catalog.xml\" xlink:title=\"2012\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/3002/NPP_DAWIP_L2G/2012/\"/>             <thredds:catalogRef name=\"2013\" xlink:href=\"2013/catalog.xml\" xlink:title=\"2013\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/3002/NPP_DAWIP_L2G/2013/\"/>             <thredds:catalogRef name=\"2014\" xlink:href=\"2014/catalog.xml\" xlink:title=\"2014\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/3002/NPP_DAWIP_L2G/2014/\"/>             <thredds:catalogRef name=\"2015\" xlink:href=\"2015/catalog.xml\" xlink:title=\"2015\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/3002/NPP_DAWIP_L2G/2015/\"/>             <thredds:dataset name=\"NOTICE\" ID=\"/opendap/hyrax/allData/3002/NPP_DAWIP_L2G/NOTICE\">          <thredds:dataSize units=\"bytes\">1409</thredds:dataSize>          <thredds:date type=\"modified\">2014-08-04T15:22:14</thredds:date>          <thredds:access serviceName=\"file\" urlPath=\"/allData/3002/NPP_DAWIP_L2G/NOTICE\"/>       </thredds:dataset>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "194fdda82682d9f7f804dcec494c40e3", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/allData/3002/NPP_DAWIP_L2G/catalog.xml"
+}

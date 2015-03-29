@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.ietf-ldapext-ldapudp'> <front> <title>Lightweight Directory Access Protocol over UDP/IP</title>  <author initials='L' surname='Johansson' fullname='Leif Johansson'>     <organization /> </author>  <author initials='R' surname='Hedberg' fullname='Roland  Hedberg'>     <organization /> </author>  <date month='May' day='11' year='2001' /> </front>  <seriesInfo name='Internet-Draft' value='draft-ietf-ldapext-ldapudp-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-ietf-ldapext-ldapudp-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b77009faadaa02baff68d88885326f0c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-ldapext-ldapudp.xml"
+}

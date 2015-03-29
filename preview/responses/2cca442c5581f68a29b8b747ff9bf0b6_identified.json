@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"FIPS.4.1968\"> <front> <title>Calendar Date</title> <author> <organization>National Institute of Standards and Technology</organization> </author> <date month=\"November\" year=\"1968\" /> </front>  <seriesInfo name=\"FIPS\" value=\"PUB 4\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2cca442c5581f68a29b8b747ff9bf0b6", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.FIPS.4.1968.xml"
+}

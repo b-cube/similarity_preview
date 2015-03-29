@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.15643</dc:identifier><dc:creator>Reznicek, Marc</dc:creator><dc:creator>Krummes, Cedric</dc:creator><dc:creator>Hirschmann, Hagen</dc:creator><dc:creator>L\\ufffd\\ufffddeling, Anke</dc:creator><dc:creator>Ensslin, Astrid</dc:creator><dc:creator>Chan, Jia Wei </dc:creator><dc:creator>Zeldes, Amir</dc:creator><dc:creator>Krause, Thomas</dc:creator><dc:creator>Zipser, Florian</dc:creator><dc:title>\\ufffd\\ufffd\\ufffdDass wenn man etwas will, muss man daf\\ufffd\\ufffdr arbeiten\\ufffd\\ufffd\\ufffd - Zielhypothesen im Lernerkorpus Falko.</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Fehlerannotationen in &amp;ouml;ffentlich zug&amp;auml;nglichen Lernerkorpora (z.B. ICLE) basieren auf einer impliziten Zielhypothese. Zu jeder Lerner&amp;auml;u&amp;szlig;erung k&amp;ouml;nnen jedoch gleichberechtigte, konkurrierende Zielhypothesen formuliert werden. (vgl. L&amp;uuml;deling 2008)&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2010-02-25</dc:date><dc:source>http://zenodo.org/record/15643</dc:source><dc:doi>10.5281/zenodo.15643</dc:doi><dc:identifier>http://zenodo.org/record/15643</dc:identifier><dc:identifier>oai:zenodo.org:15643</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bb2548d880928f9e3a1c88df33114a2d", 
+    "source_url": "https://zenodo.org/record/15643/export/xd"
+}

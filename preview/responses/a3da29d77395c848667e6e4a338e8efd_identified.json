@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.le-mobileip-dh'> <front> <title>Dynamic Diffie Hellman based Key Distribution for Mobile IPv6</title>  <author initials='S' surname='Faccin' fullname='Stefano  Faccin'>     <organization /> </author>  <author initials='F' surname='Le' fullname='Franck Le'>     <organization /> </author>  <date month='January' day='4' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-le-mobileip-dh-01' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-le-mobileip-dh-01.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a3da29d77395c848667e6e4a338e8efd", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.le-mobileip-dh.xml"
+}

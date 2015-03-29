@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ANSI.X3-66.1979\"> <front> <title>Advanced Data Communication Procedures (ADCCP)</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1979\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X3.66\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b0b714071f3948fefacb55b1273f0ec4", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-misc/reference.ANSI.X3-66.1979.xml"
+}

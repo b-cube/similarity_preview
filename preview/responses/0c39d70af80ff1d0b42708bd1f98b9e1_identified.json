@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-bike-racks\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-bike-racks</id><updated>2015-03-19T01:44:47Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0c39d70af80ff1d0b42708bd1f98b9e1", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-bike-racks?days=14&format=atom"
+}

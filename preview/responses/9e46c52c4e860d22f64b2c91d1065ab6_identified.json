@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <xsd:schema targetNamespace=\"http://hes.lbl.gov/scoring_tool/session\" elementFormDefault=\"qualified\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:tns=\"http://hes.lbl.gov/scoring_tool/session\">     <xsd:element name=\"retrieveSessionHistoryByUserDesc\">  <xsd:complexType>      <xsd:sequence>   <xsd:element name=\"client_guid\" type=\"xsd:string\"/>   <xsd:element name=\"ca_number\" type=\"xsd:string\"/>   <xsd:element name=\"page_number\" type=\"xsd:int\"/>   <xsd:element name=\"rows_per_page\" type=\"xsd:int\"/>   <xsd:element name=\"archived\" type=\"xsd:int\"/>      </xsd:sequence>  </xsd:complexType>     </xsd:element> </xsd:schema>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9e46c52c4e860d22f64b2c91d1065ab6", 
+    "source_url": "http://tool-sb-api.hescloud.net/public/xsd/session/input/retrieveSessionHistoryByUserDesc.xsd"
+}

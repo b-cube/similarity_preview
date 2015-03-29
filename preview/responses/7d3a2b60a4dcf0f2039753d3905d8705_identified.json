@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Issa, Iyad A</a1>   <a2>Eid, Ali</a2>   <t1>Listeria Meningitis After Infliximab in Ulcerative Colitis: Does the Risk of Treatment Outweigh the Benefit</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Biologic agents have become important treatment options for the management of inflammatory bowel disease (IBD). With more than 10 years of experience behind us these agents have changed the natural history of the disease and have established themselves as a valid choice in the repertoire used in treating not only advanced patients but also newly diagnosed ones. We report two cases of ulcerative colitis who developed listeria meningitis after a single dose of infliximab therapy. We also examined the significance of the infection and the known details and morbidity about it. We assessed the close link between the use of biologics and the risk of serious infections in patients with IBD, as well as the published cases in the literature so far. Therefore, despite the excitement and hype surrounding their use we should not forget that these are agents that carry a substantial toll of side effects and this should be kept in mind when the choice of therapy is made.&lt;/p&gt;</ab>   <la/>   <k1>Listeria monocytogenes;;                 meningitis;;                 ulcerative colitis;;                 infliximab;;                 biologic agents.;                 </k1>   <pb/>   <pp/>   <yr>2013-06-28</yr>   <ed/>   <ul>http://zenodo.org/record/8051/files/1372659255-Issa342013BJMMR4691.pdf;  http://zenodo.org/record/8051/files/1372659255-Issa342013BJMMR4691.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7d3a2b60a4dcf0f2039753d3905d8705", 
+    "source_url": "https://zenodo.org/record/8051/export/xw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/testpackage123\">     <owl:sameAs rdf:resource=\"urn:uuid:ab9b9684-b7a9-4562-8b3b-70157159dac5\"></owl:sameAs>     <dct:description></dct:description>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/testpackage123\"></foaf:homepage>     <rdfs:label>testpackage123</rdfs:label>     <dct:identifier>testpackage123</dct:identifier>     <dct:title>ohya123</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://demo.ckan.org/dataset/ab9b9684-b7a9-4562-8b3b-70157159dac5/resource/fb2f3480-4bc0-4e60-b333-4d6b94dd3bac/download/test\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd123.csv</dct:title>             </dcat:Distribution>         </dcat:distribution>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "41b3c5c7ffa709b3a3efae00e5563c88", 
+    "source_url": "http://demo.ckan.org/dataset/ab9b9684-b7a9-4562-8b3b-70157159dac5.rdf"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">   <title>Gentoo Packages /package/xfce-base/libxfce4util</title>   <icon>http://www.gentoo.org/favicon.ico</icon>   <id>http://packages.gentoo.org/feed/package/xfce-base/libxfce4util</id>   <generator uri=\"http://packages.gentoo.org/\">Gentoo Packages2</generator>   <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/xfce-base/libxfce4util\" type=\"text/html\"/>   <link rel=\"self\" href=\"http://packages.gentoo.org/feed/package/xfce-base/libxfce4util\" type=\"application/atom+xml\"/>   <updated>2015-03-04T04:27:35Z</updated>   <entry>  <title xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\">    <div>         <span class=\"cpvstr\">xfce-base/libxfce4util</span>: <span class=\"description\">A basic utility library for the Xfce desktop environment</span>       </div>     </title>     <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/xfce-base/libxfce4util\" type=\"text/html\"/>     <id>http://packages.gentoo.org/package/xfce-base/libxfce4util?ts=2015-03-03T13:31:20Z</id>     <author>       <name>Yixun Lan (dlan)</name>       <uri>http://cia.vc/stats/author/dlan</uri>     </author>     <updated>2015-03-03T13:31:20Z</updated>     <summary xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\"><div>03 Mar 2015; Yixun Lan (<a href=\"http://cia.vc/stats/author/dlan\">dlan</a>) <a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/xfce-base/libxfce4util/libxfce4util-4.11.0.ebuild?view=markup\">libxfce4util-4.11.0.ebuild</a>:<br/>add arm64 support, tested on A53 board</div></summary>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "50dd3ec126f00a5b5b6de93972d299a3", 
+    "source_url": "http://packages.gentoo.org/feed/package/xfce-base/libxfce4util"
+}

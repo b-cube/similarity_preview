@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/10283/613\"> <title>Institute for Computing Systems Architecture</title> <link>http://hdl.handle.net/10283/613</link> <description/> <dc:date>2015-03-19T12:11:10Z</dc:date> </channel> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bd0a2a88505fef7d46dd02d19479a3c9", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/rss_1.0/10283/613"
+}

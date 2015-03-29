@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Colon,Knicole</author>         </authors>       </contributors>       <titles>         <title>Characterizing Hot Jupiter Atmospheres with Large Ground-Based Telescopes</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12661</doi>       <pages/>       <volume/>       <number/>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-11-11</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;It has recently become possible to characterize the atmospheres of some extrasolar planets via transit spectroscopy, which is a crucial stepping stone towards future studies of Earth-like planets.&amp;nbsp; For hot Jupiters in particular,&amp;nbsp;potassium has been predicted to be one of the strongest sources of opacity at optical wavelengths. &amp;nbsp;Indeed, it&amp;nbsp;has been previously detected in the atmospheres of one of my planets of interest (XO-2b).&amp;nbsp; I presented narrow-band spectrophotometric observations of XO-2b as well as TrES-2b made with the 10.4-meter Gran Telescopio Canarias to confirm/search for absorption due to potassium in their atmospheres. &amp;nbsp;I&amp;nbsp;discussed the results from my search for potassium absorption in these planetary atmospheres as well as recent progress made in characterizing the atmospheres of hot Jupiters with other large ground-based telescopes.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f4f5db6b0b11936c454365d8a7f3a4fe", 
+    "source_url": "https://zenodo.org/record/12661/export/xe"
+}

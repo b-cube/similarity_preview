@@ -1,0 +1,15 @@
+{
+    "content": "<variablesResponse xmlns:gml=\"http://www.opengis.net/gml\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:wtr=\"http://www.cuahsi.org/waterML/\" xmlns=\"http://www.cuahsi.org/waterML/1.0/\"><variables><variable><variableCode vocabulary=\"LBR\" default=\"true\" variableID=\"27\">USU27</variableCode><variableName>Temperature</variableName><valueType>Field Observation</valueType><dataType>Average</dataType><generalCategory>Climate</generalCategory><sampleMedium>Air</sampleMedium><units unitsAbbreviation=\"degC\" unitsCode=\"96\" unitsType=\"Temperature\">degree celcius</units><NoDataValue>-9999</NoDataValue><timeSupport isRegular=\"true\"><unit UnitID=\"104\"><UnitDescription>day</UnitDescription><UnitType>Time</UnitType><UnitAbbreviation>d</UnitAbbreviation></unit><timeInterval>1</timeInterval></timeSupport></variable></variables></variablesResponse> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "64757bfe313c4e1c5682fc536fc56c09", 
+    "source_url": "http://his.cuahsi.org/documents/GetVariableInfo_v=LBR_USU27.xml"
+}

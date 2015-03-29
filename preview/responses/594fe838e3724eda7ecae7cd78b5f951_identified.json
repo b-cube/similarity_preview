@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0985'>  <front> <title>Requirements for Internet gateways - draft</title> <author> <organization>National Science Foundation</organization></author> <date year='1986' day='1' month='May' /></front>  <seriesInfo name='RFC' value='985' /> <format type='TXT' octets='59221' target='http://www.rfc-editor.org/rfc/rfc985.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "594fe838e3724eda7ecae7cd78b5f951", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0985.xml"
+}

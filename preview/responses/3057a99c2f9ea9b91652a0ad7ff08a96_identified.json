@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/HSD_Web_Services/HSD_SurveyForecast_Report/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/HSD_Web_Services/HSD_Surveys_EstimatedtoMCD/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/HSD_Web_Services/SURDEX_SurveyTracker_Status/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3057a99c2f9ea9b91652a0ad7ff08a96", 
+    "source_url": "http://encdirect.noaa.gov/arcgis/rest/services/HSD_Web_Services?f=sitemap"
+}

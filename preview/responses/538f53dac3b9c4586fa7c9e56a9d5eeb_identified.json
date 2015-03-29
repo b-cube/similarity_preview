@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <seismicMetadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://ngdc.noaa.gov/mgg/ecs/metadata/seismic/xml/seismicMetadata.xsd\">  <datasetInformation>   <datasetID/>   <datasetTitle/>   <datasetStartDate>    <date/>    <dateTypeCode/>   </datasetStartDate>   <datasetDescription/>   <dataClass/>   <dataType/>   <seismicDataProvenance/>   <dataMedia/>   <datasetQualityDescription/>   <datasetProcessing>    <processingParameters>     <processingScope/>     <processingStep/>    </processingParameters>   </datasetProcessing>   <boundingCoordinates>    <northLat/>    <southLat/>    <eastLong/>    <westLong/>   </boundingCoordinates>   <resourceProvider>    <contactInformation>     <organization/>     <name/>     <email/>     <role/>    </contactInformation>   </resourceProvider>   <dataContact>    <contactInformation>     <organization/>     <name/>     <email/>     <role/>    </contactInformation>   </dataContact>   <datasetAccessControl>    <accessControl>     <accessState/>     <accessPerson>      <contactInformation>       <organization/>       <name/>       <email/>       <role/>      </contactInformation>     </accessPerson>    </accessControl>   </datasetAccessControl>  </datasetInformation>  <metadataInformation>   <metadataDate/>   <metadataContact>    <contactInformation>     <organization/>     <name/>     <email/>     <role/>    </contactInformation>   </metadataContact>   <metadataStandard/>   <dateOfSubmission/>  </metadataInformation> </seismicMetadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "538f53dac3b9c4586fa7c9e56a9d5eeb", 
+    "source_url": "http://www.ngdc.noaa.gov/mgg/ecs/metadata/seismic/xml/mandatorynocontent.xml"
+}

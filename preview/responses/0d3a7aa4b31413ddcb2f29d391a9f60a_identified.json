@@ -1,0 +1,15 @@
+{
+    "content": "<opt>   <message>     <content>       <code>2</code>       <count>0</count>       <text>Research papers (preprints only)</text>     </content>     <content>       <code>14</code>       <count>509</count>       <text>Other special item types</text>     </content>     <content>       <code>6</code>       <count>1605</count>       <text>Theses and dissertations</text>     </content>     <content>       <code>12</code>       <count>46</count>       <text>Software</text>     </content>     <content>       <code>13</code>       <count>88</count>       <text>Patents</text>     </content>     <content>       <code>5</code>       <count>1021</count>       <text>Conference and workshop papers</text>     </content>     <content>       <code>3</code>       <count>0</count>       <text>Research papers (postprints only)</text>     </content>     <content>       <code>4</code>       <count>443</count>       <text>Bibliographic references</text>     </content>     <content>       <code>10</code>       <count>477</count>       <text>Learning Objects</text>     </content>     <content>       <code>11</code>       <count>691</count>       <text>Multimedia and audio-visual materials</text>     </content>     <content>       <code>7</code>       <count>1074</count>       <text>Unpublished reports and working papers</text>     </content>     <content>       <code>1</code>       <count>1979</count>       <text>Research papers (pre- and postprints)</text>     </content>     <content>       <code>9</code>       <count>140</count>       <text>Datasets</text>     </content>     <content>       <code>8</code>       <count>1072</count>       <text>Books &amp; Chapters and Sections</text>     </content>   </message>   <status>ok</status>   <to>http://ori.edina.ac.uk/cgi-bin/list/content?format=xml</to> </opt> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0d3a7aa4b31413ddcb2f29d391a9f60a", 
+    "source_url": "http://ori.edina.ac.uk/cgi-bin/list/content?format=xml"
+}

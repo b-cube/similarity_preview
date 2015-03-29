@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"> <ShortName>CGSpace</ShortName> <LongName>CGSpace</LongName> <Description>CGSpace DSpace repository</Description> <InputEncoding>UTF-8</InputEncoding> <OutputEncoding>UTF-8</OutputEncoding> <Query role=\"example\" searchTerms=\"photosynthesis\"/> <Tags>IR DSpace</Tags> <Contact>s.webshet@cgiar.org</Contact> <Image height=\"16\" type=\"image/vnd.microsoft.icon\" width=\"16\">http://www.dspace.org/images/favicon.ico</Image> <Url template=\"https://cgspace.cgiar.org/discover?query={searchTerms}\" type=\"text/html\"/> <Url template=\"https://cgspace.cgiar.org/open-search/discover?query={searchTerms}&amp;start={startIndex?}&amp;rpp={count?}&amp;format=atom\" type=\"application/atom+xml; charset=UTF-8\"/> <Url template=\"https://cgspace.cgiar.org/open-search/discover?query={searchTerms}&amp;start={startIndex?}&amp;rpp={count?}&amp;format=rss\" type=\"application/rss+xml; charset=UTF-8\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d4ba6a3e3c8d364ca5083d2b5c490b25", 
+    "source_url": "https://cgspace.cgiar.org/open-search/description.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<opt>   <message>     <type>       <code>12</code>       <count>84</count>       <text>Governmental (Repositories for governmental data)</text>     </type>     <type>       <code>1</code>       <count>201</count>       <text>Subject (Research Cross-Institutional)</text>     </type>     <type>       <code>7</code>       <count>2810</count>       <text>Institutional (Institutional or departmental repositories)</text>     </type>     <type>       <code>3</code>       <count>322</count>       <text>Disciplinary (Cross-institutional subject repositories)</text>     </type>     <type>       <code>15</code>       <count>6</count>       <text>Researchdata</text>     </type>     <type>       <code>14</code>       <count>17</count>       <text>Multi</text>     </type>     <type>       <code>6</code>       <count>23</count>       <text>Demonstration</text>     </type>     <type>       <code>8</code>       <count>0</count>       <text>Thesis</text>     </type>     <type>       <code>13</code>       <count>191</count>       <text>Theses</text>     </type>     <type>       <code>4</code>       <count>118</count>       <text>Journal (e-Journal/Publication)</text>     </type>     <type>       <code>11</code>       <count>37</count>       <text>Learning (Learning and Teaching Objects)</text>     </type>     <type>       <code>16</code>       <count>15</count>       <text>Opendata</text>     </type>     <type>       <code>9</code>       <count>0</count>       <text>Undetermined - Repositories whose type has not yet been assessed</text>     </type>     <type>       <code>10</code>       <count>108</count>       <text>Aggregating (Archives aggregating data from several subsidiary repositories)</text>     </type>     <type>       <code>2</code>       <count>299</count>       <text>Other</text>     </type>     <type>       <code>5</code>       <count>48</count>       <text>Database (Database/A&amp;I Index)</text>     </type>   </message>   <status>ok</status>   <to>http://ori.edina.ac.uk/cgi-bin/list/type?format=xml</to> </opt> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "785555beb264f0da00e798681fcc636d", 
+    "source_url": "http://ori.edina.ac.uk/cgi-bin/list/type?format=xml"
+}

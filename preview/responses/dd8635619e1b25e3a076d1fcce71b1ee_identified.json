@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <esri:ArcGISExplorerDocument xmlns:esri='http://www.esri.com/schemas/ArcGIS/9.2' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema'> <E2Layers xsi:type=\"esri:ArrayOfE2Layer\">  <E2Layer xsi:type=\"esri:E2ServerLayer\">   <DisplayName>NTAD_ipcd</DisplayName>   <Visible>true</Visible>   <LODTileFetch>true</LODTileFetch>   <HideFromContents>false</HideFromContents>   <Transparency>0</Transparency>   <ServerType>2</ServerType>   <GlobeLayerType>0</GlobeLayerType>   <Url>http://RITHQNWWS019/arcgis/services</Url>   <ServiceName>NTAD/ipcd</ServiceName>   <SubServiceName>NTAD_ipcd</SubServiceName>   <E2GlobeLayerProperties xsi:type=\"esri:E2ServerLayerProperties\">    <MinimumVisibleDistance>0</MinimumVisibleDistance>    <MaximumVisibleDistance>0</MaximumVisibleDistance>    <MinimumCellSize>1</MinimumCellSize>    <CacheName>ESRI_ServerLyrLocalGlobeCache_http___RITHQNWWS019_arcgis_services_Layers_NTAD_ipcd</CacheName>    <CacheType>0</CacheType>    <CacheUpdateInterval>0</CacheUpdateInterval>   </E2GlobeLayerProperties>  </E2Layer> </E2Layers> </esri:ArcGISExplorerDocument> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dd8635619e1b25e3a076d1fcce71b1ee", 
+    "source_url": "http://gis.rita.dot.gov/ArcGIS/rest/services/NTAD/ipcd/MapServer?f=nmf"
+}

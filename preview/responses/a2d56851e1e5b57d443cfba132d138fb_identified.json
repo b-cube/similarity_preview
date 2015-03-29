@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>sumasacolumbia</ShortName>  <Description>Search SUMASA COLUMBIA UNIVERSITY - Sustainability Management Student Association</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://sumasa.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://sumasa.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://sumasa.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>SUMASA COLUMBIA UNIVERSITY</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://0.gravatar.com/blavatar/c707b682aff8c2e248804ae510881a23?s=16&#038;d=http%3A%2F%2Fsumasa.org%2Ffavicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/jpeg\">http://1.gravatar.com/blavatar/d236c25ef4f8e4658a17dca19f106f0a?s=64&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>columbia-university sumasa sustainability-management columbia student-association earth-institute omega-center election employment featured-events</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://sumasa.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a2d56851e1e5b57d443cfba132d138fb", 
+    "source_url": "http://sumasa.org/osd.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/Amphibian_Distribution_Model_Collection/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/Bird_Distribution_Model_Collection/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/GAP_Land_Cover_Ecological_Systems_Landuse/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/GAP_Land_Cover_National_Boundaries_LCC/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/GAP_Land_Cover_National_Boundaries_MRLC/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/GAP_Land_Cover_NVC_Class_Landuse/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/GAP_Land_Cover_NVC_Division_Landuse/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/GAP_Land_Cover_NVC_Formation_Landuse/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/GAP_Land_Cover_NVC_Macrogroup_Landuse/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/GAP_Land_Cover_NVC_Subclass_Landuse/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/Mammal_Distribution_Model_Collection/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/padus_ancillary/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/PADUS_Owner/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/PADUS_Status/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/gap/Reptile_Distribution_Model_Collection/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ca0836e531572f356aa1753bd354671b", 
+    "source_url": "http://gis1.usgs.gov/arcgis/rest/services/gap?f=geositemap"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">     <ShortName>NRDC</ShortName>     <Description>NRDC provider</Description>     <InputEncoding>UTF-8</InputEncoding>  <Url type=\"text/html\" template=\"http://search.nrdc.org/search?q={searchTerms}&amp;site=default_collection&amp;entqr=0&amp;ud=1&amp;sort=date%3AD%3AL%3Ad1&amp;output=xml_no_dtd&amp;oe=UTF-8&amp;ie=UTF-8&amp;client=default_frontend&amp;proxystylesheet=default_frontend\"/>  <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://www.nrdc.org/favicon.ico</Image>  </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "581b517c356e3692dbca1fce9aa8161b", 
+    "source_url": "http://www.nrdc.org/opensearch.xml"
+}

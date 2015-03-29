@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' />", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "61826bdd9307ff8d905712d3fbce7d29", 
+    "source_url": "http://www.w3.org/2007/11/Talks/y2016.rdf"
+}

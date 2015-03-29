@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:v=\"urn:schemas-microsoft-com:vml\"  xmlns:o=\"urn:schemas-microsoft-com:office:office\"  xmlns:p=\"urn:schemas-microsoft-com:office:powerpoint\">  <p:presentation>   <p:master id=\"3\" type=\"main\" href=\"master03.htm\" xmlhref=\"master03.xml\"    template=\"Radar\" layout=\"title_body\"    slots=\"title,body,dateTime,footer,slideNumber\">    <p:schemes>     <p:colorscheme      colors=\"#000066,#EAEAEA,#000000,#FFFFFF,#003399,#99CCFF,#CC9900,#996600\"/>     <p:colorscheme      colors=\"#CCCCFF,#666699,#A4A4C2,#000040,#003399,#0099FF,#B68600,#8A5C00\"/>     <p:colorscheme      colors=\"#EAEAEA,#000000,#B2B2B2,#000000,#777777,#B2B2B2,#808080,#5F5F5F\"/>     <p:colorscheme      colors=\"#000000,#FFFF66,#333333,#CC3300,#5F5F5F,#3399FF,#008000,#CCECFF\"/>     <p:colorscheme      colors=\"#006600,#FFFFCC,#003300,#FFFF00,#008000,#3399FF,#6666FF,#CCECFF\"/>    </p:schemes>   </p:master>   <p:master id=\"4\" type=\"title\" href=\"master04.htm\" xmlhref=\"master04.xml\"    layout=\"title_subtitle\"    slots=\"centerTitle,subTitle,dateTime,footer,slideNumber\"/>   <p:master id=\"1\" type=\"notes\" href=\"master01.htm\" layout=\"notes\"    slots=\"header,dateTime,slideImage,body,footer,slideNumber\"/>   <p:slide id=\"1\" href=\"slide0001.htm\"/>   <p:slide id=\"2\" href=\"slide0002.htm\"/>   <p:slide id=\"4\" href=\"slide0004.htm\"/>   <p:slide id=\"3\" href=\"slide0003.htm\"/>   <p:slide id=\"6\" href=\"slide0006.htm\"/>   <p:slide id=\"7\" href=\"slide0007.htm\"/>   <p:slide id=\"5\" href=\"slide0005.htm\"/>   <p:viewstate type=\"slideView\" scale=\"75\" restoredleft=\"107\"    manualadjustleft=\"t\"/>   <p:font name=\"Times New Roman\" charset=\"0\" type=\"4\" family=\"18\"/>   <p:headersfooters slidenumber=\"t\" userdatestr=\"Sienkiewicz - MPC Training #2\"    footerstr=\"Shultz - Wernli, Cyclone Structure and Upper-Level Flow\"    noheader=\"t\"/>   <p:headersfooters notes=\"t\" slidenumber=\"t\"/>   <p:pptdocumentsettings framecolors=\"WhiteTextOnBlack\" hideslideanimation=\"t\"/>  </p:presentation>  <o:shapedefaults v:ext=\"edit\" spidmax=\"29698\" style='mso-wrap-style:none'   fill=\"f\" strokecolor=\"red\">   <v:fill on=\"f\"/>   <v:stroke endarrow=\"open\" color=\"red\" weight=\"6pt\"/>   <o:colormru v:ext=\"edit\" colors=\"red\"/>  </o:shapedefaults></xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "71e702b76e58ced72e7b96f580326727", 
+    "source_url": "http://www.opc.ncep.noaa.gov/OAB/Surface_analysis_training/Schultz-Wernli_files/pres.xml"
+}

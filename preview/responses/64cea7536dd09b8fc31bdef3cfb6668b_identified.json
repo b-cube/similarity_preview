@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/10283/728\"> <title>Institute of Immunology and Infection Research</title> <link>http://hdl.handle.net/10283/728</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/729\"/> </rdf:Seq> </items> <dc:date>2015-03-19T04:17:35Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/10283/729\"> <title>Infectious Diseases of East African Livestock (IDEAL) project dataset: Theileria parva infection outcome data</title> <link>http://hdl.handle.net/10283/729</link> <description>Infectious Diseases of East African Livestock (IDEAL) project dataset: Theileria parva infection outcome data The Infectious Diseases of East African Livestock (IDEAL) project was an epidemiological study of cattle health in western Kenya with the aim of providing baseline epidemiological data, investigating the impact of different infections on key responses such as growth, mortality and morbidity, the additive and/or multiplicative effects of co-infections, and the influence of management and genetic factors. A longitudinal cohort study of newborn calves was conducted in western Kenya between 2007 and 2009. Calves were randomly selected from all those reported in a 2 stage clustered sampling strategy. Calves were recruited between 3 and 7 days old. A team of veterinarians and animal health assistants carried out routine 5-weekly visits, plus clinical examinations when the calves were reported ill and post-mortem visits. Blood and tissue samples were collected in association with all visits and screened using a range of laboratory based diagnostic methods for over 100 different pathogens or infectious exposures. The study followed 548 calves over the first 51 weeks of life or until death. Full details are given in Bronsvoort et al. (2013), www.biomedcentral.com/1746-6148/9/171. </description> <dc:date>2015-03-18T11:26:27Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "64cea7536dd09b8fc31bdef3cfb6668b", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/rss_1.0/10283/728"
+}

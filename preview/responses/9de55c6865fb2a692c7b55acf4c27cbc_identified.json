@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Drayton2002 </Local-number>  <Author>Drayton, N., Martinez, G. </Author>  <Title>Assessment of nearshore juvenile grouper habitats using traditional knowledge of fishermen </Title>  <Institution>The Ocean Conservancy </Institution>  <Publication-Date><caldate>2002 </caldate></Publication-Date>  <Notes>FY2002 CRCP Project ID 1226; Project Title: Projects to Improve or Amend Coral Reef Fishery Management Plan; Principal Investigator: Andy Bruckner </Notes>  <Abstract>Local fishermen and outside scientists worked together to conduct underwater surveys assessing nearshore habitats of juvenile grouper on the South and North sides of St. Croix. This report details the metholology and results of these surveys. </Abstract>  <Date-Time-Last-Modified>20100806000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/1226/NA16FZ2959_%20Fishermans_Data.pdf </URL>  <project>  <ID>1226 </ID>  <title>Projects to Improve or Amend Coral Reef Fishery Management Plan </title>  <PI>Andy Bruckner </PI>  </project>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>Grants </Local-subject-index>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9de55c6865fb2a692c7b55acf4c27cbc", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B7C688D5B-E219-41A1-A30D-0A1FBD96B2EB%7D"
+}

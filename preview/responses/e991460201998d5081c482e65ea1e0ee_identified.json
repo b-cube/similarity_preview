@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"C58DB9CA-514C-47B8-BA01-4F33C7A67862\" _position=\"1\" _address=\"http://data.ok.gov/resource/ur9t-5iqd/1\"><years>2011</years><historical_data>55.8</historical_data></row><row _id=\"2\" _uuid=\"863C644F-20AB-43B8-9B7C-94EF7A63C75C\" _position=\"2\" _address=\"http://data.ok.gov/resource/ur9t-5iqd/2\"><years>2012</years><historical_data>58.8</historical_data></row><row _id=\"3\" _uuid=\"7EE5B6EC-6DB1-4520-9393-A916D729BF41\" _position=\"3\" _address=\"http://data.ok.gov/resource/ur9t-5iqd/3\"><years>2013</years><historical_data>60</historical_data></row><row _id=\"4\" _uuid=\"3ED87700-3977-461C-ABAE-4B8B79F84743\" _position=\"4\" _address=\"http://data.ok.gov/resource/ur9t-5iqd/4\"><years>2014</years></row><row _id=\"5\" _uuid=\"3880D91A-8CA7-4DC3-BF04-F8B76239EB30\" _position=\"5\" _address=\"http://data.ok.gov/resource/ur9t-5iqd/5\"><years>2015</years></row><row _id=\"6\" _uuid=\"FC2495A1-30A2-4E3C-A709-703DB0717482\" _position=\"6\" _address=\"http://data.ok.gov/resource/ur9t-5iqd/6\"><years>2016</years></row><row _id=\"7\" _uuid=\"8341127C-6589-49FD-96EE-F7D35AD60843\" _position=\"7\" _address=\"http://data.ok.gov/resource/ur9t-5iqd/7\"><years>2017</years><target>51</target></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e991460201998d5081c482e65ea1e0ee", 
+    "source_url": "https://data.ok.gov/api/views/ur9t-5iqd/rows.xml?accessType=DOWNLOAD"
+}

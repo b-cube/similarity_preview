@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ds69HH</identifier><identifier type=\"pwpk\">70121436</identifier><identifier type=\"series\">Data Series</identifier><identifier type=\"seriesNumber\">69-HH</identifier><identifier type=\"seriesCode\">DS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Map of assessed tight-gas resources in the United States</title></titleInfo><originInfo><dateOther>Wed, 24 Sep 2014 10:10 -0500</dateOther><dateIssued>2014</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Biewick, Laura R. H., (compiler); USGS National Assessment of Oil and Gas Resources Team</namePart><role>Author</role></name><abstract>This report presents a digital map of tight-gas resource assessments in the United States as part of the U.S. Geological Survey\\ufffd\\ufffd\\ufffds (USGS) National Assessment of Oil and Gas Project. Using a geology-based assessment methodology, the USGS quantitatively estimated potential volumes of undiscovered, technically recoverable natural gas resources within tight-gas assessment units (AUs). This is the second digital map product in a series of USGS unconventional oil and gas resource maps. The map plate included in this report can be printed in hard-copy form or downloaded in a Geographic Information System (GIS) data package, including an ArcGIS ArcMap document (.mxd), geodatabase (.gdb), and published map file (.pmf). In addition, the publication access table contains hyperlinks to current USGS tight-gas assessment publications and web pages.</abstract><physicalDescription><form>Report: iv, 6 p.; 1 Map: 17 x 131 in; Table; Downloads Directory</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/ds69hh.jpg</url><url note=\"DOCUMENT\">http://pubs.usgs.gov/dds/dds-069/dds-069-hh/pdf/dds69hh.pdf</url><url note=\"COMPANION FILES\">http://pubs.usgs.gov/dds/dds-069/dds-069-hh/downloads</url><url note=\"ADDITIONAL REPORT PIECE\">http://pubs.usgs.gov/dds/dds-069/dds-069-hh/downloads/table_1.pdf</url><url note=\"PLATE\">http://pubs.usgs.gov/dds/dds-069/dds-069-hh/downloads/DDS69-HH_plate1.pdf</url><url note=\"INDEX PAGE\">http://pubs.usgs.gov/dds/dds-069/dds-069-hh/</url></location><note type=\"citation/reference\">Map of assessed tight-gas resources in the United States; 2014; DS; 69-HH; Data Series; Biewick, Laura R. H., (compiler); USGS National Assessment of Oil and Gas Resources Team</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Data Series</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "adf1bd30e01416e352d041ab55690d4a", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ds69HH"
+}

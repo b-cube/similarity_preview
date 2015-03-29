@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding=\"ISO-8859-1\" standalone=\"no\" ?> <!DOCTYPE ServiceExceptionReport SYSTEM \"http://schemas.opengis.net/wms/1.1.1/exception_1_1_1.dtd\"> <ServiceExceptionReport version=\"1.1.1\"> <ServiceException code=\"LayerNotDefined\"> msWMSLoadGetMapParams(): WMS server error. Invalid layer(s) given in the LAYERS parameter. A layer might be disabled for this request. Check wms/ows_enable_request settings. </ServiceException> </ServiceExceptionReport> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1.1", 
+        "protocol": "OGC:error", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4821800eb3abe29629ffd61e059c70c1", 
+    "source_url": "http://disc1.sci.gsfc.nasa.gov/daac-bin/wms_trmm?VERSION=1.1.1&request=GetMap&BBOX=-180,-90,180,90&WIDTH=1500&HEIGHT=800&LAYERS=bluemarble,TRMM_3B42_V6_DAILY&TIME=2006-09-11&FORMAT=PNG&srs=epsg:4326"
+}

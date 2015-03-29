@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.ping-rsvp-fastreroute\"> <front> <title>Fast Reroute Techniques in RSVP-TE</title>  <author initials=\"P\" surname=\"Pan\" fullname=\"Ping Pan\">     <organization /> </author>  <date month=\"November\" day=\"20\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-ping-rsvp-fastreroute-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "03de994a5206e179366a224d4f24479b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ping-rsvp-fastreroute.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Khan, Amin M.</author>           <author>B\\ufffd\\ufffdy\\ufffd\\ufffdk\\ufffd\\ufffdahin,  \\ufffd\\ufffdmit C. </author>           <author>Freitag, Felix</author>         </authors>       </contributors>       <titles>         <title>Prototyping Incentive-based Resource Assignment for Clouds in Community Networks</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.8404</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>cloud computing</keyword>         <keyword>community networks</keyword>         <keyword>incentive mechanisms</keyword>         <keyword>resource allocation</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-05-13</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Wireless community networks are a successful example of a collective where communities operate ICT infrastructure and provide IP connectivity based on the principle of reciprocal resource sharing of network bandwidth. This sharing, however, has not extended to computing and storage resources, resulting in very few applications and services which are currently deployed within community networks. Cloud computing, as in today&amp;#39;s Internet, has made it common to consume resources provided by public clouds providers, but such cloud infrastructures have not materialized within community networks. We analyse in this paper socio-technical characteristics of community networks in order to derive scenarios for community clouds. Based on an architecture for such a community cloud, we implement a prototype for the incentive-driven resource assignment component, deploy it in a testbed of community network nodes, and evaluate its behaviour experimentally. Our evaluation gives insight into how the deployed prototype components regulate the consumption of cloud resources taking into account the users&amp;#39; contributions, and how this regulation affects the system usage. Our results suggest a further integration of this regulation component into current cloud management platforms in order to open them up for the operation of an ecosystem of community cloud.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2cf48892ba5654565935d6111b9220bd", 
+    "source_url": "https://zenodo.org/record/8404/export/xe"
+}

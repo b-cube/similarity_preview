@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Bathymetric Survey - 2007-05-22 - </dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">ukho.ac.uk:DC:0c881a32-4574-3af1-a2c2-aa76d8e10462</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">IPR Holder: Agri-Food and Biosciences Institute (AFBI); Purpose: Spoil Ground Monitoring; IHO Sea: Irish Sea and the St; Survey Start: 2007-05-21; Survey End: 2007-05-22; Primary Instrument Type: Echosounder - multibeam; Primary Navigation Type: Not Known</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2010-05-18</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "06af0e590ed04aefc6c816b321f676fb", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/ukho.ac.uk__MEDIN_2.3__0c881a32-4574-3af1-a2c2-aa76d8e10462.xml/DC"
+}

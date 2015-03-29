@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0015\">   <front>     <title>Account Transfer</title>     <author initials=\"C.\" surname=\"Crabb\" fullname=\"Casey Crabb\">       <organization/>       <address>         <email>crabbkw@nafai.dyndns.org</email>       </address>     </author>     <date day=\"18\" month=\"April\" year=\"2002\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0015\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0015.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1665e210450d7d75239ae8ef677a0991", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0015.xml"
+}

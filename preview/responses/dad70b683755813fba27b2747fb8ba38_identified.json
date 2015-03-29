@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='ISO-8859-1'?><martif type=\"MSC\" lang=\"en\"><martifHeader><fileDesc><sourceDesc><p>OECD Glossary of Statistical Terms</p></sourceDesc></fileDesc><publicationStmt><p type=\"resultCount\">46</p><p type=\"resultsPerPage\">10</p><p type=\"currentPage\">1</p></publicationStmt></martifHeader><text><body><termEntry id=\"1156\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Gross</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Brut</term></termGrp></ntig></langSet></termEntry><termEntry id=\"5765\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Gross accumulation</term></termGrp></ntig></langSet></termEntry><termEntry id=\"1157\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Gross adjusted disposable income</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Revenu disponible ajust&#233; brut</term></termGrp></ntig></langSet></termEntry><termEntry id=\"6466\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Gross annual increment (in forest accounts)</term></termGrp></ntig></langSet></termEntry><termEntry id=\"1158\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Gross capital formation</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Formation brute de capital</term></termGrp></ntig></langSet></termEntry><termEntry id=\"1160\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Gross capital stock &#8211; OECD</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Stock brute de capital - OCDE</term></termGrp></ntig></langSet></termEntry><termEntry id=\"1159\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Gross capital stock - SNA</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Stock brut de capital - SCN</term></termGrp></ntig></langSet></termEntry><termEntry id=\"6467\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Gross catch (in acquatic resources accounts)</term></termGrp></ntig></langSet></termEntry><termEntry id=\"7300\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Gross debt</term></termGrp></ntig></langSet></termEntry><termEntry id=\"1162\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Gross domestic expenditure on research and development (GERD)</term></termGrp></ntig></langSet></termEntry></body></text></martif>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dad70b683755813fba27b2747fb8ba38", 
+    "source_url": "http://stats.oecd.org/glossary/filter.asp?vET=ON&cET=B&tET=Gross&format=martif"
+}

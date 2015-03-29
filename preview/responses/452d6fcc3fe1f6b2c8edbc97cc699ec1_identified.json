@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.1007/978-3-319-07593-8_32</dc:identifier><dc:creator>Khan, Amin M</dc:creator><dc:creator>Freitag, Felix</dc:creator><dc:title>Exploring the Role of Macroeconomic Mechanisms in Voluntary Resource Provisioning in Community Network Clouds</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Internet and communication technologies have lowered the costs of enabling individuals and communities to collaborate together. This collaboration has provided new services like user-generated content and social computing, as evident from success stories like Wikipedia. Through collaboration, collectively built infrastructures like community wireless mesh networks where users provide the communication network, have also emerged. Community networks have demonstrated successful bandwidth sharing, but have not been able to extend their collective effort to other computing resources like storage and processing. The success of cloud computing has been enabled by economies of scale and the need for elastic, flexible and on-demand provisioning of computing services. The consolidation of today&amp;#39;s cloud technologies offers now the possibility of collectively built community clouds, building upon user-generated content and user-provided networks towards an ecosystem of cloud services. We explore in this paper how macroeconomic mechanisms can play a role in overcoming the barriers of voluntary resource provisioning in such community clouds, by analysing the costs involved in building these services and how they give value to the participants. We indicate macroeconomic policies and how they can be implemented in community networks, to ease the uptake and ensure the sustainability of community clouds.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-06-04</dc:date><dc:source>http://zenodo.org/record/8575</dc:source><dc:doi>10.1007/978-3-319-07593-8_32</dc:doi><dc:identifier>http://zenodo.org/record/8575</dc:identifier><dc:identifier>oai:zenodo.org:8575</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "452d6fcc3fe1f6b2c8edbc97cc699ec1", 
+    "source_url": "https://zenodo.org/record/8575/export/xd"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs14200</identifier><identifier type=\"pwpk\">5463</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">142-00</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Seabed Observation and Sampling System</title></titleInfo><originInfo><dateOther>Mon, 1 Jan 2001 00:00 -0600</dateOther><dateIssued>2000</dateIssued><publisher>U.S. Geological Survey,</publisher></originInfo><name><namePart>Valentine, Page C.; Blackwood, Dann; Parolski, Kenneth F.</namePart><role>Author</role></name><physicalDescription><form>2 p.</form><form>U.S. Geological Survey,</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_142_00.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/factsheet/fs142-00/</url></location><note type=\"citation/reference\">Seabed Observation and Sampling System; 2000; FS; 142-00; Fact Sheet; Valentine, Page C.; Blackwood, Dann; Parolski, Kenneth F.</note><edition>Version 1.0.</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "181a658f2951f3e7d99d7712c4ff21f1", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs14200"
+}

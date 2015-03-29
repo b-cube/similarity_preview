@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"es\"><title>Historial de revisi\\ufffd\\ufffdn del conjunto de datos CKAN</title><link href=\"/es/revision/drcog-2010-census-data-occupancy-status-census-tract-colorado\" rel=\"alternate\"></link><id>/es/revision/drcog-2010-census-data-occupancy-status-census-tract-colorado</id><updated>2015-03-19T14:55:38Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "25ceeb525c7237a0013876dedf8e8a3e", 
+    "source_url": "http://data.opencolorado.org/es/dataset/history/drcog-2010-census-data-occupancy-status-census-tract-colorado?days=7&format=atom"
+}

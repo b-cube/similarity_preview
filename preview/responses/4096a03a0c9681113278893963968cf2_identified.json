@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Bergs, Johan</author>           <author>Avonts, Jeroen</author>           <author>Blondia, Chris</author>           <author>Braem, Bart</author>         </authors>       </contributors>       <titles>         <title>Mapping a Community Network</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.11817</doi>       <pages/>       <volume/>       <number>doi</number>       <keywords>         <keyword>community networks</keyword>         <keyword>network mapping</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-09-21</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Community networks are self-organized networks which exist all around the world. For a large number of users, they are the only form of communication in the community itself and with the Internet. All community networks maintain some database where all information about the nodes in the community network is stored. The database information is manually inserted in the database, which commonly leads to a mismatch between the documentation and reality. In this paper we present a dynamic community network mapper, complementary to the node database. We explain the goals of this approach, show the challenges and steps we took to realize such a mapper, and give initial results.&amp;nbsp;&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4096a03a0c9681113278893963968cf2", 
+    "source_url": "https://zenodo.org/record/11817/export/xe"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Elb\\ufffd\\ufffdk, Mikael K.</author>         </authors>       </contributors>       <titles>         <title>Get recognised: ORCID at DTU</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.13274</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>ORCID</keyword>         <keyword>Technical University of Denmark</keyword>         <keyword>Marketing</keyword>         <keyword>Research Infrastructure</keyword>         <keyword>CRIS</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-12-16</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;How to get your ORCID at DTU (Technical University of Denmark) presented at the Sustain DTU conference 17. December 2014. More information found here:&amp;nbsp;www.sustain.dtu.dk.&amp;nbsp;&amp;nbsp;&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ca3dd385f490fa45b5951b163fae46e4", 
+    "source_url": "https://zenodo.org/record/13274/export/xe"
+}

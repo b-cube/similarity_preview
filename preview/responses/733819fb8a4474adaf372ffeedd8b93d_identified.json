@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <formats> <format name=\"hx\" type=\"text/html\" /> <format name=\"nlm\" type=\"application/xml\" docs=\"http://www.nlm.nih.gov/databases/dtd/\" /> <format name=\"mods\" type=\"application/xml\" docs=\"http://www.loc.gov/standards/mods/v3/mods-3-3.xsd\" /> <format name=\"marcxml\" type=\"application/xml\" docs=\"http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd\" /> <format name=\"mobb\" type=\"text/html\" /> <format name=\"untld\" type=\"text/html\" /> <format name=\"mobd\" type=\"text/html\" /> <format name=\"endnote\" type=\"application/xml\" docs=\"http://www.endnote.com/support/\" /> <format name=\"dc\" type=\"application/xml\" docs=\"http://dublincore.org/schemas/\" /> <format name=\"ttl\" type=\"text/html\" /> <format name=\"hb\" type=\"text/html\" /> <format name=\"hc\" type=\"text/html\" /> <format name=\"hp\" type=\"text/html\" /> <format name=\"hd\" type=\"text/html\" /> <format name=\"xw\" type=\"application/xml\" docs=\"http://www.refworks.com/RefWorks/help/RefWorks_Tagged_Format.htm\" /> </formats>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "733819fb8a4474adaf372ffeedd8b93d", 
+    "source_url": "http://lib.icimod.org/unapi"
+}

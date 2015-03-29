@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <jnlp spec=\"1.0+\" codebase=\"http://www.jalview.org/builds/develop/webstart\">  <information>   <title>Jalview</title>   <vendor>The Barton Group</vendor>   <homepage href=\"http://www.jalview.org\"/>   <description>Jalview Multiple Alignment Editor</description>   <description kind=\"short\">Jalview</description>   <icon href=\"JalviewLogo_big.png\"/>   <offline-allowed/>  </information>  <security>   <all-permissions/>  </security>  <resources>   <j2se version=\"1.7+\" initial-heap-size=\"10M\" max-heap-size=\"256M\"/>   <jar href=\"jalview.jar\"/>   <jar href=\"JGoogleAnalytics_0.3.jar\"/>   <jar href=\"Jmol-12.2.4.jar\"/>   <jar href=\"VARNAv3-91.jar\"/>   <jar href=\"activation.jar\"/>   <jar href=\"apache-mime4j-0.6.jar\"/>   <jar href=\"axis.jar\"/>   <jar href=\"castor-1.1-cycle-xml.jar\"/>   <jar href=\"commons-codec-1.3.jar\"/>   <jar href=\"commons-discovery.jar\"/>   <jar href=\"commons-logging-1.1.1.jar\"/>   <jar href=\"groovy-all-1.8.2.jar\"/>   <jar href=\"httpclient-4.0.3.jar\"/>   <jar href=\"httpcore-4.0.1.jar\"/>   <jar href=\"httpmime-4.0.3.jar\"/>   <jar href=\"jalview_jnlp_vm.jar\"/>   <jar href=\"jaxrpc.jar\"/>   <jar href=\"jdas-1.0.4.jar\"/>   <jar href=\"jfreesvg-2.1.jar\"/>   <jar href=\"jhall.jar\"/>   <jar href=\"json_simple-1.1.jar\"/>   <jar href=\"jsoup-1.8.1.jar\"/>   <jar href=\"jswingreader-0.3.jar\"/>   <jar href=\"log4j-to-slf4j-2.0-rc2.jar\"/>   <jar href=\"mail.jar\"/>   <jar href=\"miglayout-4.0-swing.jar\"/>   <jar href=\"min-jabaws-client-2.1.0.jar\"/>   <jar href=\"quaqua-filechooser-only-8.0.jar\"/>   <jar href=\"regex.jar\"/>   <jar href=\"saaj.jar\"/>   <jar href=\"slf4j-api-1.7.7.jar\"/>   <jar href=\"slf4j-log4j12-1.7.7.jar\"/>   <jar href=\"spring-core-3.0.5.RELEASE.jar\"/>   <jar href=\"spring-web-3.0.5.RELEASE.jar\"/>   <jar href=\"vamsas-client.jar\"/>   <jar href=\"wsdl4j.jar\"/>   <jar href=\"xercesImpl.jar\"/>   <jar href=\"xml-apis.jar\"/>  </resources>  <resources os=\"Mac OS X\">   <jar href=\"libquaqua-8.0.jnilib.jar\"/>   <jar href=\"libquaqua64-8.0.jnilib.jar\"/>   <property name=\"jalview.version\" value=\"Development Branch Build\"/>  </resources>  <application-desc main-class=\"jalview.bin.Jalview\"/> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "265b8e0c02a9d9e9169d3a4b2df39a66", 
+    "source_url": "http://www.jalview.org/builds/develop/webstart/jalview.jnlp"
+}

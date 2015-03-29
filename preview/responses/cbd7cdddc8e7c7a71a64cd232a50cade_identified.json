@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>Berlin 7: Open Access Reaching Diverse Communities</title> <creator>Elena Giglia</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">March/April 2010</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/march2010-giglia</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/march10/giglia/03giglia.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>16</volume> <issue>3/4</issue> </relation> <rights>Copyright 2010 Elena Giglia</rights> </dlib-meta0.1> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cbd7cdddc8e7c7a71a64cd232a50cade", 
+    "source_url": "http://www.dlib.org/dlib/march10/giglia/03giglia.meta.xml"
+}

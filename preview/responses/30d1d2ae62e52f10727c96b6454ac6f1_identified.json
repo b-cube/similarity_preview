@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Richter, Kerstin</author>           <author>Mesarchaki, Evridiki</author>           <author>Williams, Jonathan</author>           <author>J\\ufffd\\ufffdhne, Bernd</author>           <author>Kr\\ufffd\\ufffduter, Christine </author>         </authors>       </contributors>       <titles>         <title>A Comparative Lab Study of Transfer Velocities of Volatile Tracers with Widely Varying Solubilities</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12327</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>air-water gas exchange</keyword>         <keyword>solubility</keyword>       </keywords>       <dates>         <year>2011</year>         <pub-dates>           <date>2011-03-15</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;The solubility of volatile tracers in water has an important impact on the gas transfer rates between the atmosphere and the ocean. The velocity of the transport processes of highly soluble tracers is limited by diffusion in the air sided boundary layer, while the water side boundary layer affects the tracers with a very low solubility. Many important environmental trace gases (e.g. acetone, acetaldehyde, acetonitrile) are driven by both processes. The combination of these processes has not yet been investigated and the model that exists is very basic.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "30d1d2ae62e52f10727c96b6454ac6f1", 
+    "source_url": "https://zenodo.org/record/12327/export/xe"
+}

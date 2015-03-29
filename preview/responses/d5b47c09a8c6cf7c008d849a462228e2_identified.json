@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><anncXML>   <announcement> <Announcement_Id>5031</Announcement_Id> <Program_Id>0</Program_Id> <Headline>Scholarship Opportunities!</Headline> <Blurb>IPI has scholarships from $1,000-$2,500 per semester available!</Blurb> <Event_Date></Event_Date> <Article_Length>1495</Article_Length> </announcement></anncXML>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d5b47c09a8c6cf7c008d849a462228e2", 
+    "source_url": "https://studyabroad.uaf.edu/index.cfm?FuseAction=Announcements.XML&Program_ID=46563"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20143056</identifier><identifier type=\"pwpk\">70119242</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2014-3056</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>California's restless giant: the Long Valley Caldera</title></titleInfo><originInfo><dateOther>Tue, 19 Aug 2014 12:35 -0500</dateOther><dateIssued>2014</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Hill, David P.; Bailey, Roy A.; Hendley, James W., II; Stauffer, Peter H.; Marcaida, Mae</namePart><role>Author</role></name><abstract>Scientists have monitored geologic unrest in the Long Valley, California, area since 1980. In that year, following a swarm of strong earthquakes, they discovered that the central part of the Long Valley Caldera had begun actively rising. Unrest in the area persists today. The U.S. Geological Survey (USGS) continues to provide the public and civil authorities with current information on the volcanic hazard at Long Valley and is prepared to give timely warnings of any impending eruption.</abstract><physicalDescription><form>2 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs20143056.jpg</url><url note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2014/3056/</url><url note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2014/3056/pdf/fs2014-3056.pdf</url></location><note type=\"citation/reference\">California's restless giant: the Long Valley Caldera; 2014; FS; 2014-3056; Fact Sheet; Hill, David P.; Bailey, Roy A.; Hendley, James W., II; Stauffer, Peter H.; Marcaida, Mae</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9a0e7bd57de07884f27f51dfacda06f9", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20143056"
+}

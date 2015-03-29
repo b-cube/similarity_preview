@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>leon.bottou.org</ShortName>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">http://leon.bottou.org/lib/tpl/arctic/images/favicon.ico</Image>   <Url type=\"text/html\" template=\"http://leon.bottou.org/doku.php?do=search&amp;id={searchTerms}\" />   <Url type=\"application/x-suggestions+json\" template=\"http://leon.bottou.org/lib/exe/ajax.php?call=suggestions&amp;q={searchTerms}\" /> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "764699609b88796b1b6a1202aeab2dd8", 
+    "source_url": "http://leon.bottou.org/lib/exe/opensearch.php"
+}

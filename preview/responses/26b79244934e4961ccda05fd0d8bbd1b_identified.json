@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/AMSEAS_SeaSurfaceHeight_Hindcasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/AMSEAS_SeaSurfaceSalinity_Hindcasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/AMSEAS_SurfaceCurrent_Hindcasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/AMSEAS_WaterTemp_Hindcasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/IASNFS_SeaSurfaceHeightForecasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/IASNFS_SeaSurfaceSalinityForecasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/IASNFS_SurfaceCurrentForecasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/IASNFS_WaterTempForecasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/NAM12_SurfaceWindForecasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/NWS_AirTempForecasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/NWS_PercentPrecipitationForecasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/NWS_PrecipitationAmountForecasts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "26b79244934e4961ccda05fd0d8bbd1b", 
+    "source_url": "http://www.ncddc.noaa.gov/arcgis/rest/services/Models?f=geositemap"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.NOTE-cgm-970618'            target='http://www.w3.org/TR/NOTE-cgm-970618'> <front> <title>Use of CGM as a Scalable Graphics Format</title>  <author initials='C.' surname='Lilley' fullname='Chris Lilley'>     <organization /> </author>  <date month='June' day='18' year='1997' /> </front>  <seriesInfo name='World Wide Web Consortium NOTE' value='NOTE-cgm-970618' /> <format type='HTML' target='http://www.w3.org/TR/NOTE-cgm-970618' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6f814fee05947f139a88964892732ca1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-cgm-970618.xml"
+}

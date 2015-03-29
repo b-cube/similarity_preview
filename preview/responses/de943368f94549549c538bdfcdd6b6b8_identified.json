@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../DODS_Technical_TEM.htm\"/>  <o:File HRef=\"next_active.gif\"/>  <o:File HRef=\"next_disabled.gif\"/>  <o:File HRef=\"prev_active.gif\"/>  <o:File HRef=\"prev_disabled.gif\"/>  <o:File HRef=\"outline_collapse.gif\"/>  <o:File HRef=\"outline_expand.gif\"/>  <o:File HRef=\"space.gif\"/>  <o:File HRef=\"endshow.htm\"/>  <o:File HRef=\"navigation_bar.htm\"/>  <o:File HRef=\"outline_navigation_bar.htm\"/>  <o:File HRef=\"outline_collapsed.htm\"/>  <o:File HRef=\"outline_expanded.htm\"/>  <o:File HRef=\"blank_notes.htm\"/>  <o:File HRef=\"slide0001.htm\"/>  <o:File HRef=\"slide0002.htm\"/>  <o:File HRef=\"slide0003.htm\"/>  <o:File HRef=\"slide0003_background.gif\"/>  <o:File HRef=\"slide0004.htm\"/>  <o:File HRef=\"slide0004_background.gif\"/>  <o:File HRef=\"slide0004_image001.gif\"/>  <o:File HRef=\"slide0004_image002.gif\"/>  <o:File HRef=\"slide0005.htm\"/>  <o:File HRef=\"slide0005_background.gif\"/>  <o:File HRef=\"slide0006.htm\"/>  <o:File HRef=\"slide0006_background.gif\"/>  <o:File HRef=\"slide0007.htm\"/>  <o:File HRef=\"slide0007_background.gif\"/>  <o:File HRef=\"slide0007_image003.gif\"/>  <o:File HRef=\"slide0007_image004.gif\"/>  <o:File HRef=\"slide0007_image005.gif\"/>  <o:File HRef=\"slide0008.htm\"/>  <o:File HRef=\"slide0009.htm\"/>  <o:File HRef=\"slide0010.htm\"/>  <o:File HRef=\"slide0011.htm\"/>  <o:File HRef=\"slide0012.htm\"/>  <o:File HRef=\"slide0013.htm\"/>  <o:File HRef=\"slide0013_background.gif\"/>  <o:File HRef=\"slide0014.htm\"/>  <o:File HRef=\"slide0014_background.gif\"/>  <o:File HRef=\"slide0014_image006.gif\"/>  <o:File HRef=\"slide0015.htm\"/>  <o:File HRef=\"slide0015_background.gif\"/>  <o:File HRef=\"slide0016.htm\"/>  <o:File HRef=\"slide0017.htm\"/>  <o:File HRef=\"slide0018.htm\"/>  <o:File HRef=\"slide0019.htm\"/>  <o:File HRef=\"slide0020.htm\"/>  <o:File HRef=\"slide0021.htm\"/>  <o:File HRef=\"slide0022.htm\"/>  <o:File HRef=\"slide0023.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "de943368f94549549c538bdfcdd6b6b8", 
+    "source_url": "http://www.opendap.org/papers/jgallagher/DODS_Technical_TEM_files/filelist.xml"
+}

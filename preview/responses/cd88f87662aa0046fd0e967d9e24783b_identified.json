@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <opml version=\"1.1\"> <head> <title>GNUnet</title> <dateModified>Wed, 04 Mar 2015 05:15:08 +0000</dateModified> </head> <body> <outline text=\"Bug reports\" xmlUrl=\"https://gnunet.org/bugs/issues_rss.php?username=anonymous&amp;key=4c1288eab746620ae7ee4b372fea2a75\" /> </body> </opml> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cd88f87662aa0046fd0e967d9e24783b", 
+    "source_url": "https://gnunet.org/aggregator/opml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>harwin-fp7.eu</ShortName><Description></Description><InputEncoding>UTF-8</InputEncoding><Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.harwin-fp7.eu/templates/harwin/favicon.ico</Image><Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.harwin-fp7.eu/component/search/?format=opensearch\"/><Url type=\"text/html\" template=\"http://www.harwin-fp7.eu/index.php?option=com_search&amp;searchword={searchTerms}\"/></OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7e6c09f1ebc122c941c8d18376ceada0", 
+    "source_url": "http://www.harwin-fp7.eu/component/search/?format=opensearch"
+}

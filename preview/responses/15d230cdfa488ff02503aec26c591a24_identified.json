@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Amy2005 </Local-number>  <Author>Hall, Amy, Asher, Jake, Balwani, Seema, Stephenson, Jennifer </Author>  <Title>Northwestern Hawaiian Islands and main Hawaiian Islands marine debris removal program </Title>  <Proceedings-Title>2005 Sustainable Beaches Conference </Proceedings-Title>  <Publication-Date><caldate>2005 </caldate></Publication-Date>  <Publication-Place>Renaissance Vinoy Resort St. Petersburg, Florida </Publication-Place>  <Notes>FY2004 CRCP Project ID 1224; Project Title: Marine Debris Removal from NWHI; Principal Investigator: Rusty Brainard </Notes>  <Date-Time-Last-Modified>20071119000000 </Date-Time-Last-Modified>  <project>  <ID>1224 </ID>  <title>Marine Debris Removal from NWHI </title>  <PI>Rusty Brainard </PI>  </project>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>inproceedings </CoRIS-Record-Type>  <Local-subject-index>inproceedings </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "15d230cdfa488ff02503aec26c591a24", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B0B7BDDCC-BD51-43AD-9BEA-9348DDB02A59%7D"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.25.411'> <front> <title>UTRAN Iu interface layer 1</title> <author><organization>3GPP</organization></author> <date day='06' month='July' year='2001' /> </front>  <seriesInfo name='3GPP TS' value='25.411 3.5.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/25411.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3511f313d56c966968e3320770323c7f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.25.411.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"784\"><idinfo><citation><citeinfo><origin role=\"Sponsor\">Wyoming Water Science Center</origin><title>Wyoming drought watch</title><pubinfo><publish>U.S. Geological Survey</publish></pubinfo><onlink>http://wy.water.usgs.gov/projects/drought/</onlink></citeinfo></citation><descript><abstract>Gives map of streamflow conditions in Wyoming with access to streamflow data, real-time, daily and historic, plus information on drought analysis and management.</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><place><placekt>Common geographic areas</placekt><placekey>fUS56 = Wyoming</placekey></place><theme><themekt>USGS Thesaurus</themekt><themekey>droughts</themekey><themekey>hydrographic datasets</themekey><themekey>hydrology</themekey><themekey>natural resource management</themekey><themekey>stream-gage measurement</themekey></theme></keywords><ptcontac><cntinfo><cntemail>scrobert</cntemail></cntinfo></ptcontac></idinfo><metainfo><metd>20120905</metd><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "212fafff4144d43bc351d7d7aeddd76c", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=784"
+}

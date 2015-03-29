@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:dcterms=\"http://purl.org/dc/terms/\"   xmlns:documentcontainer=\"http://eidchub.ceh.ac.uk/portal_types/documentContainer#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" >   <documentcontainer:documentContainer rdf:about=\"http://eidchub.ceh.ac.uk/metadata/28eb9005-7154-4207-b086-e3bdcd61de4a\">     <dcterms:created rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-01-24T11:53:00Z</dcterms:created>     <dcterms:creator>clamw</dcterms:creator>     <documentcontainer:fileIdentifier xml:lang=\"en\">28eb9005-7154-4207-b086-e3bdcd61de4a</documentcontainer:fileIdentifier>     <dcterms:description xml:lang=\"en\">A range of data has been gathered under the Countryside Survey project including habitat areas, vegetation species, soil data, linear feature data and freshwater habitats. Data in this series were gathered in the 2007 survey in Great Britain. Countryside Survey is a unique study or 'audit' of the natural resources of the UK's countryside. The countryside is sampled and surveyed using rigorous scientific methods, allowing us to compare new results with those from previous surveys. In this way we can detect the gradual and subtle changes that occur in the UK's countryside over time. The 1km square sample sites are chosen from a stratified random sample, based on a 15 by 15 km grid of Britain. Surveys have been carried out in 1978, 1984, 1990, 1998 and 2007 with repeated visits to the majority of survey squares.</dcterms:description>     <dcterms:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-01-31T10:16:38Z</dcterms:issued>     <dcterms:subject>Environmental monitoring facilities</dcterms:subject>     <dcterms:subject>vegetation</dcterms:subject>     <dcterms:subject>Great Britain</dcterms:subject>     <dcterms:subject>habitats</dcterms:subject>     <dcterms:subject>long-term monitoring</dcterms:subject>     <dcterms:title xml:lang=\"en\">Countryside Survey 2007</dcterms:title>     <dcterms:isPartOf rdf:resource=\"http://eidchub.ceh.ac.uk/metadata\"/>     <documentcontainer:id xml:lang=\"en\">28eb9005-7154-4207-b086-e3bdcd61de4a</documentcontainer:id>     <documentcontainer:catalogLink>http://data.ceh.ac.uk/metadata/28eb9005-7154-4207-b086-e3bdcd61de4a</documentcontainer:catalogLink>     <dcterms:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-01-31T13:45:54Z</dcterms:modified>   </documentcontainer:documentContainer> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9edcef075600ca5e6bb0edb011dc4fb0", 
+    "source_url": "http://eidchub.ceh.ac.uk/metadata/28eb9005-7154-4207-b086-e3bdcd61de4a/@@rdf"
+}

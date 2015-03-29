@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.8489</dc:identifier><dc:creator>Ernesto Priego</dc:creator><dc:title>#scholarAfrica: Enhancing the Visibility of Research. Tools and Strategies</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;his deck of slides is shared online with a CC-BY license in .pptx format to encourage easier reuse, adaptation, augmentation, remixing, etc.&amp;nbsp; As a consequence of uploading as a .pptx file some of the formatting and layout&amp;nbsp; is likely to have been affected.&lt;/p&gt;  &lt;p&gt;The OpenUCT Initiative, in collaboration with the Carnegie Corporation, hosted a two-day workshop in Nairobi on 10-11 March 2014 to address practical strategies for increasing the discoverability of African scholarship.&lt;/p&gt;  &lt;p&gt;This resource is based on the deck of slides Ernesto Priego (City University London) presented on 10 March 2014. Some of the slides have been slightly modified for open online sharing.&lt;/p&gt;  &lt;p&gt;&amp;nbsp;Research agencies represented amongst the delegates included the Regional Universities Forum for Capacity Building in Agriculture (RUFORUM), TrustAfrica, the African Population and Health Research Center (APHRC), the African Leadership Center (ALC), the Council for the Development of Social Science Research in Africa (CODESRIA) and the International Livestock Research Institute (ILRI).&lt;/p&gt;  &lt;p&gt;&amp;nbsp; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-03-10</dc:date><dc:source>http://zenodo.org/record/8489</dc:source><dc:doi>10.5281/zenodo.8489</dc:doi><dc:identifier>http://zenodo.org/record/8489</dc:identifier><dc:identifier>oai:zenodo.org:8489</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d8b90ec411fd1cd982ed76b198fd7d34", 
+    "source_url": "https://zenodo.org/record/8489/export/xd"
+}

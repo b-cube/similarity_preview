@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rsd version=\"1.0\">   <service>     <engineName>BlogEngine.NET 2.5.0.6</engineName>     <engineLink>http://dotnetblogengine.com</engineLink>     <homePageLink>http://www.bahainyc.org/</homePageLink>     <apis>       <api name=\"MetaWeblog\" preferred=\"true\" apiLink=\"http://www.bahainyc.org/metaweblog.axd\" blogID=\"http://www.bahainyc.org/\" />       <api name=\"BlogML\" preferred=\"false\" apiLink=\"http://www.bahainyc.org/api/BlogImporter.asmx\" blogID=\"http://www.bahainyc.org/\" />     </apis>   </service> </rsd>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cf863f9b6ecef8a38ee53eb66998359b", 
+    "source_url": "http://www.bahainyc.org/rsd.axd"
+}

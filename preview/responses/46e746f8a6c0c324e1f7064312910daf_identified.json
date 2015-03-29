@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <ows:ExceptionReport xmlns:ows=\"http://www.opengis.net/ows/1.1\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xsi:schemaLocation=\"http://www.opengis.net/ows/1.1 http://schemas.opengis.net/ows/1.1.0/owsExceptionReport.xsd\" xml:lang=\"en-US\" version=\"1.1.0\">   <ows:Exception exceptionCode=\"NoApplicableCode\">     <ows:ExceptionText>TRACE : &lt;Fault 404: 'Wiki page \"trac\" does not exist'&gt; &lt;class 'xmlrpclib.Fault'&gt; Unable to run your python process properly. Please check the following messages : ['  File \"/var/www/localhost/cgi-bin/templates/wservice.py\", line 176, in display\\     toto=str(Template(tpage,searchList={\"conf\":conf,\"content\":page,\"inputs\":inputs,\"server\":server}))\\ ', '  File \"/usr/lib/python2.7/site-packages/Cheetah/Template.py\", line 1005, in __str__\\     rc = getattr(self, mainMethName)()\\ ', '  File \"DynamicallyCompiledCheetahTemplate.py\", line 231, in respond\\ ', '  File \"/var/www/localhost/cgi-bin/templates/wservice.py\", line 14, in parseHTML\\     content1=server.wiki.getPageHTML(content).encode(\\\\'utf-8\\\\')\\ ', '  File \"/usr/lib/python2.7/xmlrpclib.py\", line 1224, in __call__\\     return self.__send(self.__name, args)\\ ', '  File \"/usr/lib/python2.7/xmlrpclib.py\", line 1575, in __request\\     verbose=self.__verbose\\ ', '  File \"/usr/lib/python2.7/xmlrpclib.py\", line 1264, in request\\     return self.single_request(host, handler, request_body, verbose)\\ ', '  File \"/usr/lib/python2.7/xmlrpclib.py\", line 1297, in single_request\\     return self.parse_response(response)\\ ', '  File \"/usr/lib/python2.7/xmlrpclib.py\", line 1473, in parse_response\\     return u.close()\\ ', '  File \"/usr/lib/python2.7/xmlrpclib.py\", line 793, in close\\     raise Fault(**self._stack[0])\\ ']</ows:ExceptionText>   </ows:Exception> </ows:ExceptionReport> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1.0", 
+        "protocol": "OGC:error", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "46e746f8a6c0c324e1f7064312910daf", 
+    "source_url": "http://zoo-project.org/site/trac"
+}

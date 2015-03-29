@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns=\"http://xmlns.com/foaf/0.1/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:gml=\"http://www.opengis.net/gml\"  xmlns:geo=\"http://www.w3.org/2005/Incubator/geo/XGR-geo-owl-2007#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">  <Person>   <name>Josh Lieberman</name>   <based_near>    <gml:Point>     <gml:pos>42.34 -71.21</gml:pos>    </gml:Point>   </based_near>  </Person> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5790ea8265fbbf1f62df71b11d20a492", 
+    "source_url": "http://www.w3.org/2005/Incubator/geo/XGR-geo-20071023/W3C_XGR_Geo_files/example2.rdf"
+}

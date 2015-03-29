@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <oembed>     <version>1.0</version>     <type>rich</type>     <author_name>sdc</author_name>     <author_url>http://www.iowadatacenter.org/author/sdc</author_url>     <provider_name>State Data Center</provider_name>     <provider_url>http://www.iowadatacenter.org</provider_url>    </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "86827196ddc07d03797d505c37013c40", 
+    "source_url": "http://www.iowadatacenter.org/@@oembed?url=http%3A%2F%2Fwww.iowadatacenter.org%2Findex&format=xml"
+}

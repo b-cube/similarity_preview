@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"1876\"><idinfo><citation><citeinfo><origin role=\"Author\">Missouri Water Science Center</origin><title>The Great Flood of 1993</title><pubinfo><publish>U.S. Geological Survey</publish></pubinfo><onlink>http://mo.water.usgs.gov/Reports/1993-Flood/</onlink></citeinfo></citation><descript><abstract>Photos, publicatons and recordbreaking flood peaks from the flood that included 9 states, the Mississippi and Missouri Rivers, and completely inundated 75 towns.</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><place><placekt>Common geographic areas</placekt><placekey>fUS17 = Illinois</placekey><placekey>fUS18 = Indiana</placekey><placekey>fUS19 = Iowa</placekey><placekey>fUS20 = Kansas</placekey><placekey>fUS27 = Minnesota</placekey><placekey>fUS29 = Missouri</placekey><placekey>fUS31 = Nebraska</placekey><placekey>fUS46 = South Dakota</placekey><placekey>fUS55 = Wisconsin</placekey></place><theme><themekt>USGS Thesaurus</themekt><themekey>environmental health (human)</themekey><themekey>floods</themekey><themekey>meteorology</themekey><themekey>precipitation (atmospheric)</themekey><themekey>real-time monitoring and reporting</themekey><themekey>river systems</themekey><themekey>streamflow</themekey></theme></keywords></idinfo><metainfo><metd>20120905</metd><metc><cntinfo><cntperp><cntper>Schweitzer, Peter N</cntper><cntorg>ER Mineral Resources</cntorg></cntperp><cntaddr><addrtype>mailing address</addrtype><address>12201 Sunrise Valley Drive Mail Stop 954</address><city>Reston</city><state>VA</state><postal>20192</postal><country>USA</country></cntaddr><cntvoice>703-648-6533</cntvoice><cntemail>pschweitzer@usgs.gov</cntemail></cntinfo></metc><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6b8c50e21eb76acf10718e90392ee627", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=1876"
+}

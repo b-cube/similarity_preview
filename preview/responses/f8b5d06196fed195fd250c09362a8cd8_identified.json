@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr00358</identifier><identifier type=\"pwpk\">22246</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2000-358</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>USGS east-coast sediment analysis; procedures, database, and georeferenced displays</title></titleInfo><originInfo><dateOther>Sat, 1 Sep 2001 00:00 -0500</dateOther><dateIssued>2000</dateIssued><publisher>United States Geological Survey, Coastal and Marine Geology Program, Woods Hole Field Center,</publisher></originInfo><name><namePart>Poppe, Lawrence J.; Polloni, C.F.</namePart><role>Author</role></name><physicalDescription><form>1 computer optical disc :col. ill. ;4 3/4 in.</form><form>United States Geological Survey, Coastal and Marine Geology Program, Woods Hole Field Center,</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/usgs_thumb.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/of00-358/</url></location><note type=\"citation/reference\">USGS east-coast sediment analysis; procedures, database, and georeferenced displays; 2000; OFR; 2000-358; Open-File Report; Poppe, Lawrence J.; Polloni, C.F.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo><identifier type=\"pw\">ofr20051001</identifier><titleInfo><title>U.S. Geological Survey East-coast sediment analysis:procedures, database, and GIS data</title></titleInfo><originInfo><dateIssued>2005</dateIssued></originInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f8b5d06196fed195fd250c09362a8cd8", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr00358"
+}

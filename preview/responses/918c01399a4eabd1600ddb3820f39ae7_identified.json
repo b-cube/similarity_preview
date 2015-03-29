@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>AFSC/REFM: fish otolith and vertebra measurements from ageing specimens by the Age and Growth Program</dc:title>    <dcterms:alternative>AFSC/REFM: fish otolith and vertebra measurements from ageing specimens by the Age and Growth Program</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>photo, age, juvenile, growth, migration, otolith</dc:subject>    <dc:subject>Biota, Oceans</dc:subject>    <dcterms:abstract>The Otolith Metrics database is a collection of fish otolith and vertebra dimension and weight measurements from adult and juvenile species of the North Pacific.  Otoliths from a variety of species have been measured using digital imaging, calipers, and digital balances. Fish specimens such as walleye pollock, rockfish, sculpins, skates, and forage fish were collected as early as 1990 and otolith measurement data was generated from 2000 to present.</dcterms:abstract>    <dc:publisher>Alaska Fisheries Science Center</dc:publisher>    <dc:creator>Alaska Fisheries Science Center</dc:creator>    <dc:creator>Age and Growth</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/21677</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/22252</dcterms:isPartOf>    <dcterms:spatial xsi:type=\"dcterms:Box\">                         northlimit=63;                         eastlimit=-130;                         southlimit=50;                         westlimit=170;                                              name=Eastern Bering Sea, Aleutian Islands, Gulf of Alaska;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:Period\">                             start=1990;                             end=2012;                         </dcterms:temporal>    <dcterms:accessRights>The data set is still being analyzed and will not be available for distribution until it has been finalized and all QA/QC practices have been performed.  Contact the Point Of Contact for estimated time of release.</dcterms:accessRights> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "918c01399a4eabd1600ddb3820f39ae7", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/21677/dublin-core"
+}

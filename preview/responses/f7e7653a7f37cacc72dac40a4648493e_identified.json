@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>   <formats>     <format name=\"rdf_bibliontology\" type=\"application/xml\" docs=\"http://bibliontology.com/specification\"/> </formats>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f7e7653a7f37cacc72dac40a4648493e", 
+    "source_url": "http://pubs.er.usgs.gov/unapi"
+}

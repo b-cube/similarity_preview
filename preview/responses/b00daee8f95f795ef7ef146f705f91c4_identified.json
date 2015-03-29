@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Michaelis, Susanne Maria</author>           <author>Maurer, Philippe</author>           <author>Haspelmath, Martin</author>           <author>Huber, Magnus</author>           <author>Forkel, Robert</author>         </authors>       </contributors>       <titles>         <title>APiCS Online 2013</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.11135</doi>       <pages/>       <volume/>       <number>url</number>       <keywords>         <keyword>linguistics</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-08-04</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Michaelis, Susanne Maria &amp;amp; Maurer, Philippe &amp;amp; Haspelmath, Martin &amp;amp; Huber, Magnus (eds.) 2013. Atlas of Pidgin and Creole Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://apics-online.info)&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b00daee8f95f795ef7ef146f705f91c4", 
+    "source_url": "https://zenodo.org/record/11135/export/xe"
+}

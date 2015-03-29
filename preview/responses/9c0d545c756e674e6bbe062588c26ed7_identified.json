@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/tuesdays-training-example\">     <owl:sameAs rdf:resource=\"urn:uuid:12f10471-856d-4922-aee9-900c68a0db37\"></owl:sameAs>     <dct:description>Newly Created data on products </dct:description>         <dcat:keyword>Traffic Cones</dcat:keyword>         <dcat:keyword>bollards</dcat:keyword>         <dcat:keyword>street lights</dcat:keyword>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/tuesdays-training-example\"></foaf:homepage>     <rdfs:label>tuesdays-training-example</rdfs:label>     <dct:identifier>tuesdays-training-example</dct:identifier>     <dct:title>Tuesdays Training Example</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://demo.ckan.org/dataset/12f10471-856d-4922-aee9-900c68a0db37/resource/393b1218-1a70-46c0-8d32-256cac4f30cb/download/training2.csv\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>Trees file</dct:title>             </dcat:Distribution>         </dcat:distribution>     <dct:creator>       <rdf:Description>         <foaf:name>Us</foaf:name>         <foaf:mbox rdf:resource=\"mailto:Then from there\"></foaf:mbox>       </rdf:Description>     </dct:creator>     <dct:contributor>       <rdf:Description>         <foaf:name>Those two again</foaf:name>         <foaf:mbox rdf:resource=\"mailto:You.don'tcare\"></foaf:mbox>       </rdf:Description>     </dct:contributor>     <dct:rights rdf:resource=\"http://www.opendefinition.org/licenses/cc-by-sa\"></dct:rights>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "9c0d545c756e674e6bbe062588c26ed7", 
+    "source_url": "http://demo.ckan.org/dataset/12f10471-856d-4922-aee9-900c68a0db37.rdf"
+}

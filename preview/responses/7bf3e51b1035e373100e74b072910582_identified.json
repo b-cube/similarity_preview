@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>AACAP Search</ShortName><Description>Search AACAP</Description><Url type=\"text/html\" method=\"get\" template=\"http://www.aacap.org/AACAP/Home/AACAP/copy_of_home.aspx?hkey=f100857b-fb1c-42fa-8aad-5b7b15027acdiMIS/ContentManagement/Search.aspx?SearchTerms={searchTerms}\"/><Image>http://www.aacap.org/AACAP/Home/AACAP/copy_of_home.aspx?hkey=f100857b-fb1c-42fa-8aad-5b7b15027acdfavicon.ico</Image><InputEncoding>UTF-8</InputEncoding><SearchForm>http://www.aacap.org/AACAP/Home/AACAP/copy_of_home.aspx?hkey=f100857b-fb1c-42fa-8aad-5b7b15027acd</SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7bf3e51b1035e373100e74b072910582", 
+    "source_url": "http://www.aacap.org/OpenSearch.aspx"
+}

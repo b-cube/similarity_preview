@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!-- filename=ims_lip_goalv1p0.xsd --> <!-- Copyright (c) 2001 IMS Global Learning Consortium --> <!-- 2001-03-15 edited by Thomas Wason --> <!-- Conforms to w3c http://www.w3.org/2000/10/XMLSchema--> <xsd:schema xmlns:xsd=\"http://www.w3.org/2000/10/XMLSchema\" elementFormDefault=\"qualified\" version=\"LIP 1.0 Schema 1.0\">  <xsd:include schemaLocation=\"ims_lip_commonv1p0.xsd\"/>  <xsd:element name=\"ext_goal\" type=\"extensionType\">   <xsd:annotation>    <xsd:documentation>extension</xsd:documentation>   </xsd:annotation>  </xsd:element>  <xsd:element name=\"goal\" type=\"goalType\">   <xsd:annotation>    <xsd:documentation>Learner's goals</xsd:documentation>   </xsd:annotation>  </xsd:element>  <xsd:element name=\"priority\" type=\"priorityType\">   <xsd:annotation>    <xsd:documentation/>   </xsd:annotation>  </xsd:element>  <xsd:complexType name=\"goalType\">   <xsd:sequence>    <xsd:element ref=\"typename\" minOccurs=\"0\"/>    <xsd:element ref=\"comment\" minOccurs=\"0\"/>    <xsd:element ref=\"contentype\" minOccurs=\"0\"/>    <xsd:element ref=\"date\" minOccurs=\"0\" maxOccurs=\"unbounded\"/>    <xsd:element ref=\"priority\" minOccurs=\"0\"/>    <xsd:element ref=\"status\" minOccurs=\"0\"/>    <xsd:element ref=\"description\" minOccurs=\"0\"/>    <xsd:element ref=\"goal\" minOccurs=\"0\" maxOccurs=\"unbounded\"/>    <xsd:element ref=\"ext_goal\" minOccurs=\"0\"/>   </xsd:sequence>  </xsd:complexType>  <xsd:complexType name=\"priorityType\">   <xsd:simpleContent>    <xsd:extension base=\"xsd:string\">     <xsd:attributeGroup ref=\"attr.lang\"/>    </xsd:extension>   </xsd:simpleContent>  </xsd:complexType> </xsd:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3e6d002adfb82084bf89c9aec0aa6c71", 
+    "source_url": "http://www.imsglobal.org/xsd/ims_lip_goalv1p0.xsd"
+}

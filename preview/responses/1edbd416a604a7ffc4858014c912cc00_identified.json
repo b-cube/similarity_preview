@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?>  <rdf:RDF    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"    xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"   xmlns=\"http://purl.org/rss/1.0/\" > <channel rdf:about=\"http://www.ltg.ed.ac.uk/projects/SQUAD\">   <title>SQUAD</title>   <link>http://www.ltg.ed.ac.uk</link>   <description>        </description>    <image rdf:resource=\"logo.png\" /> <sy:updatePeriod>daily</sy:updatePeriod> <sy:updateFrequency>1</sy:updateFrequency> <sy:updateBase>2005-11-20T02:27:13Z</sy:updateBase>    <items>     <rdf:Seq>  <rdf:li resource=\"http://www.ltg.ed.ac.uk/projects/SQUAD/University_of_Edinburgh\" />    <rdf:li resource=\"http://www.ltg.ed.ac.uk/projects/SQUAD/University_of_Essex\" />    <rdf:li resource=\"http://www.ltg.ed.ac.uk/projects/SQUAD/link.2006-07-19.0357783117\" />    <rdf:li resource=\"http://www.ltg.ed.ac.uk/projects/SQUAD/squadbib\" />      </rdf:Seq>   </items> </channel>   <item rdf:about=\"http://www.ltg.ed.ac.uk/projects/SQUAD/University_of_Edinburgh\">  <title>University of Edinburgh</title>  <link>http://www.ltg.ed.ac.uk/projects/SQUAD/University_of_Edinburgh</link>  <description>    </description>  <dc:publisher>No publisher</dc:publisher>  <dc:creator>ewan</dc:creator>  <dc:rights></dc:rights>  <dc:date>2006-07-19 18:35:24</dc:date>  </item>   <item rdf:about=\"http://www.ltg.ed.ac.uk/projects/SQUAD/University_of_Essex\">  <title>University of Essex</title>  <link>http://www.ltg.ed.ac.uk/projects/SQUAD/University_of_Essex</link>  <description>    </description>  <dc:publisher>No publisher</dc:publisher>  <dc:creator>ewan</dc:creator>  <dc:rights></dc:rights>  <dc:date>2007-05-08 23:36:29</dc:date>  </item>   <item rdf:about=\"http://www.ltg.ed.ac.uk/projects/SQUAD/link.2006-07-19.0357783117\">  <title>SQUAD Home Page</title>  <link>http://www.ltg.ed.ac.uk/projects/SQUAD/link.2006-07-19.0357783117</link>  <description>    </description>  <dc:publisher></dc:publisher>  <dc:creator>ewan</dc:creator>  <dc:rights></dc:rights>  <dc:date>2006-07-19 18:28:31</dc:date>  </item>   <item rdf:about=\"http://www.ltg.ed.ac.uk/projects/SQUAD/squadbib\">  <title>SQUAD Publications</title>  <link>http://www.ltg.ed.ac.uk/projects/SQUAD/squadbib</link>  <description>  Publications by Ediburgh participants in the SQUAD Project.  </description>  <dc:publisher></dc:publisher>  <dc:creator>ewan</dc:creator>  <dc:rights></dc:rights>  <dc:date>2007-05-08 23:35:09</dc:date>  </item>  </rdf:RDF>  ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1edbd416a604a7ffc4858014c912cc00", 
+    "source_url": "http://www.ltg.ed.ac.uk/projects/SQUAD/RSS"
+}

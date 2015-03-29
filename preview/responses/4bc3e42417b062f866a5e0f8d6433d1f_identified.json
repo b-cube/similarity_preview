@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ISO.3166.1981\"> <front> <title>Codes for the Representation of Names of Countries</title> <author> <organization>International Organization for Standardization</organization> </author> <date month=\"\" year=\"1981\" /> </front>  <seriesInfo name=\"ISO\" value=\"Standard 3166\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4bc3e42417b062f866a5e0f8d6433d1f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ISO.3166.1981.xml"
+}

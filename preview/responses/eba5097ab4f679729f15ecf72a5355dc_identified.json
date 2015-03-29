@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.X9-9.1986\"> <front> <title>Financial Institution Message Authentication (Wholesale)</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1986\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X9.9\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "eba5097ab4f679729f15ecf72a5355dc", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ANSI.X9-9.1986.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.10250</dc:identifier><dc:creator>Becker, Hans-Georg</dc:creator><dc:title>Datens\\ufffd\\ufffdtze aus der British National Bibliography</dc:title><dc:subject>cc-zero</dc:subject><dc:description>&lt;p&gt;Dieses Paket enth&amp;auml;lt weiterverarbeitete Daten aus der British National Bibliography in den Formaten MODS, RDF/XML und im Apache-Solr-Add-Format. Die Quelldaten aus der&amp;nbsp;British National Bibliography sind als Open Data verf&amp;uuml;gbar.&lt;/p&gt;  &lt;p&gt;Die Daten wurden zum Test des im Projekt aufgebauten Systems erzeugt und haben den Stand vom Februar 2012.&lt;/p&gt;  &lt;p&gt;Die Daten wurden mit den im Projekt ArcheoInf entwickelten Werkzeugen bearbeitet. Die Werkzeuge sind auf GitHub unter https://github.com/ArcheoInf/bibdata abgelegt.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-06-01</dc:date><dc:source>http://zenodo.org/record/10250</dc:source><dc:doi>10.5281/zenodo.10250</dc:doi><dc:identifier>http://zenodo.org/record/10250</dc:identifier><dc:identifier>oai:zenodo.org:10250</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "de106f55eab43103e9cfc8b1b1e8e187", 
+    "source_url": "https://zenodo.org/record/10250/export/xd"
+}

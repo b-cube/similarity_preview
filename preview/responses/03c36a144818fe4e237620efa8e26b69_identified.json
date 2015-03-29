@@ -1,0 +1,15 @@
+{
+    "content": "<!-- $Id: po-ex.xsd,v 1.13 2004/12/07 23:18:24 connolly Exp $ --> <xs:schema xmlns:xs=\"http://www.w3.org/2001/XMLSchema\"         xmlns:po=\"http://www.w3.org/2003/g/po-ex\"         targetNamespace=\"http://www.w3.org/2003/g/po-ex\"         elementFormDefault=\"qualified\"         attributeFormDefault=\"unqualified\"     xmlns:data-view=\"http://www.w3.org/2003/g/data-view#\"     data-view:transformation=\"http://www.w3.org/2003/g/embeddedRDF.xsl\"   >    <xs:annotation>     <xs:appinfo>       <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">  <rdf:Description rdf:about=\"http://www.w3.org/2003/g/po-ex\">    <data-view:namespaceTransformation        rdf:resource=\"grokPO.xsl\" />  </rdf:Description>       </rdf:RDF>     </xs:appinfo>   </xs:annotation>    <xs:element name=\"purchaseOrder\" type=\"po:PurchaseOrderType\"/>   <xs:element name=\"comment\"       type=\"xs:string\"/>    <xs:complexType name=\"PurchaseOrderType\">     <xs:sequence>       <xs:element name=\"shipTo\"    type=\"po:USAddress\"/>       <xs:element name=\"billTo\"    type=\"po:USAddress\"/>       <xs:element ref=\"po:comment\" minOccurs=\"0\"/>       <!-- etc. -->     </xs:sequence>     <xs:attribute name=\"orderDate\" type=\"xs:date\"/>   </xs:complexType>    <xs:complexType name=\"USAddress\">     <xs:sequence>       <xs:element name=\"name\"   type=\"xs:string\"/>       <xs:element name=\"street\" type=\"xs:string\"/>       <xs:element name=\"city\" type=\"xs:string\"/>       <xs:element name=\"state\" type=\"xs:string\"/>       <xs:element name=\"zip\" type=\"xs:string\"/>     </xs:sequence>     <xs:attribute name=\"country\" type=\"xs:NMTOKEN\"      fixed=\"US\"/>   </xs:complexType>    <!-- etc. -->  </xs:schema>  <!-- $Log: po-ex.xsd,v $ Revision 1.13  2004/12/07 23:18:24  connolly interpreter got renamed to transformation  Revision 1.12  2004/12/07 23:12:14  connolly absolute ref to interp  Revision 1.11  2004/12/07 23:03:07  connolly xs:  Revision 1.10  2004/12/07 23:02:32  connolly remaining address parts  Revision 1.9  2004/12/07 22:57:24  connolly qualify xs:string  Revision 1.8  2004/12/07 22:55:58  connolly fixed names in name= to be unqualified  Revision 1.7  2004/12/07 22:54:10  connolly added missing xs: prefixes in a couple places  Revision 1.6  2004/12/07 22:53:18  connolly fix po-ex ns  Revision 1.5  2004/12/07 22:49:28  connolly remove default prefix  Revision 1.4  2004/12/07 22:46:07  connolly qualify element names  Revision 1.3  2004/12/07 22:44:36  connolly appinfo around RDF  Revision 1.2  2004/12/07 22:42:42  connolly elementFormDefault qualified  Revision 1.1  2004/12/07 22:39:12  connolly exporting po examples to try validation  --> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "03c36a144818fe4e237620efa8e26b69", 
+    "source_url": "http://www.w3.org/2003/g/po-ex.xsd"
+}

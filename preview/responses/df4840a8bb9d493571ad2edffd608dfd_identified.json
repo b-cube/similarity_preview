@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-css-tv-20030514'            target='http://www.w3.org/TR/2003/CR-css-tv-20030514'> <front> <title>CSS TV Profile 1.0</title>  <author initials='S.' surname='Hayes' fullname='Sean Hayes'>     <organization /> </author>  <author initials='G.' surname='Adams' fullname='Glenn Adams'>     <organization /> </author>  <author initials='T.' surname='\\ufffd\\ufffd\\ufffd\\ufffdelik' fullname='Tantek \\ufffd\\ufffd\\ufffd\\ufffdelik'>     <organization /> </author>  <author initials='H.' surname='Lie' fullname='H\\ufffd\\ufffd\\ufffd\\ufffdkon Wium Lie'>     <organization /> </author>  <date month='May' day='14' year='2003' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-css-tv-20030514' /> <format type='HTML' target='http://www.w3.org/TR/2003/CR-css-tv-20030514' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "df4840a8bb9d493571ad2edffd608dfd", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-w3c/reference.W3C.CR-css-tv-20030514.xml"
+}

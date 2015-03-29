@@ -1,0 +1,15 @@
+{
+    "content": "<its:rules xmlns:its=\"http://www.w3.org/2005/11/its\" version=\"1.0\">  <its:locNoteRule selector=\"//@alt\" locNoteType=\"description\">   <its:locNote>This text will be displayed over the image.</its:locNote>  </its:locNoteRule>  <its:locNoteRule locNoteType=\"alert\" selector=\"//msg[@id='DisableInfo']\">   <its:locNote>The variable <code>{0}</code> has three possible values: 'printer',    'stacker' and 'stapler options'.</its:locNote>  </its:locNoteRule> </its:rules><!-- timestamp $Id: LocNote2_LinkedRules.xml,v 1.3 2007/02/02 16:55:05 srahtz3 Exp $ -->", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "382f1ec90847bd7696eef683fa05f479", 
+    "source_url": "http://www.w3.org/International/its/tests/inputdata/LocNote2_LinkedRules.xml"
+}

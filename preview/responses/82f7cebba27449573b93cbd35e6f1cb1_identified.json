@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>MEDIN Catalogue</ShortName>   <LongName>Marine Environmental Data Initiative Metadata (MEDIN) Catalogue Search</LongName>   <Description>Search the MEDIN metadata catalogue using the light interface</Description>   <Tags>medin portal metadata marine</Tags>   <Contact>&#x65;&#x6e;&#x71;&#x75;&#x69;&#x72;&#x69;&#x65;&#x73;&#x40;&#x6f;&#x63;&#x65;&#x61;&#x6e;&#x6e;&#x65;&#x74;&#x2e;&#x6f;&#x72;&#x67;</Contact>   <Url type=\"application/vnd.google-earth.kml+xml\"        template=\"http://portal.oceannet.org/search/light/catalogue.kml?q={searchTerms}&amp;c={count}&amp;i={startIndex}\"/>   <Url type=\"application/atom+xml\"        template=\"http://portal.oceannet.org/search/light/catalogue.atom?q={searchTerms}&amp;c={count}&amp;i={startIndex}\"/>   <Url type=\"application/rss+xml\"        template=\"http://portal.oceannet.org/search/light/catalogue.rss?q={searchTerms}&amp;c={count}&amp;i={startIndex}\"/>   <Url type=\"text/html\"         template=\"http://portal.oceannet.org/search/light/catalogue?q={searchTerms}&amp;c={count}&amp;i={startIndex}\"/>   <Image height=\"64\" width=\"64\" type=\"image/png\">http://portal.oceannet.org/images/medin-icon-large.png</Image>   <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://portal.oceannet.org/favicon.ico</Image>   <Query role=\"example\" searchTerms=\"cat\" />   <Developer>GeoData Institute</Developer>   <Attribution>     Search data Copyright 2010, MEDIN Partnership, All Rights Reserved   </Attribution>   <SyndicationRight>open</SyndicationRight>   <AdultContent>false</AdultContent>   <Language>en-gb</Language>   <OutputEncoding>UTF-8</OutputEncoding>   <InputEncoding>UTF-8</InputEncoding> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en-gb", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "82f7cebba27449573b93cbd35e6f1cb1", 
+    "source_url": "http://portal.oceannet.org/search/opensearch/catalogue/light.xml"
+}

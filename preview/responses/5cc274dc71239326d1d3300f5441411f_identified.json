@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/lolasd\">     <owl:sameAs rdf:resource=\"urn:uuid:53c0cdf7-f1a2-4b3c-ba34-256aa6f03dbf\"></owl:sameAs>     <dct:description></dct:description>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/lolasd\"></foaf:homepage>     <rdfs:label>lolasd</rdfs:label>     <dct:identifier>lolasd</dct:identifier>     <dct:title>lolasd</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://www.example.org\"></dcat:accessURL>                <dct:title>Empty</dct:title>             </dcat:Distribution>         </dcat:distribution>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "5cc274dc71239326d1d3300f5441411f", 
+    "source_url": "http://demo.ckan.org/dataset/53c0cdf7-f1a2-4b3c-ba34-256aa6f03dbf.rdf"
+}

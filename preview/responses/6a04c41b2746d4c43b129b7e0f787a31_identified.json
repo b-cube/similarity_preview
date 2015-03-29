@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Pro-p-Iwahori-Hecke Algebras in the mod-p Local Langlands Program</dc:title><dc:creator>Koziol, Karol</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Mathematics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D89C6VKV</dc:identifier><dc:description>Let p be a prime number, and F a nonarchimedean local field of residual characteristic p. This thesis is dedicated to the study of the pro-p-Iwahori-Hecke algebra H_{F_p}(G, I(1)) in the mod-p Local Langlands Program, where G is the group of F-points of a connected, reductive group, and I(1) is a pro-p-Iwahori subgroup of G. When G = U(2,1)(E/F) is an unramified unitary group in three variables, we first describe the structure and simple modules of the algebra H_{F_p}(G, I(1)). We then adapt methods of Schneider-Stuhler and Paskunas to construct, for each supersingular H_{F_p}(G, I(1))-module, a supersingular representation of G. These are exactly the representations which are expected to correspond to irreducible Galois parameters. When G = U(1,1)(Q_{p^2} /Q_p) is an unramified unitary group in two variables, we use the pro-p-Iwahori-Hecke algebra H_{F_p}(G_S , I_S(1)) of the derived subgroup G_S to classify the supersingular representations of G. Combining this with previous results, we obtain a classification of all irreducible representations of G, and then construct a correspondence between representations of G and Galois parameters. Finally, when G = GL_n(F) and G_S = SL_n(F), we show how to relate the two algebras H_{F_p}(G, I(1)) and H_{F_p}(G_S, I_S(1)). Using this interplay, we prove a numerical correspondence between L-packets of supersingular H_{F_p}(G_S , I_S(1))-modules and irreducible projective n-dimensional Galois representations, and prove that this correspondence is induced by a functor when F = Q_p.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6a04c41b2746d4c43b129b7e0f787a31", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A175711.xml"
+}

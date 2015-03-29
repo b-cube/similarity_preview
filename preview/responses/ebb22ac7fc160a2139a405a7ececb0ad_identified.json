@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123042</identifier><identifier type=\"pwpk\">70038130</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3042</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>An estimate of undiscovered conventional oil and gas resources of the world, 2012</title></titleInfo><originInfo><dateOther>Wed, 18 Apr 2012 10:53 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Schenk, Christopher J.</namePart><role>Author</role></name><abstract>Using a geology-based assessment methodology, the U.S. Geological Survey estimated means of 565 billion barrels of conventional oil and 5,606 trillion cubic feet of undiscovered conventional natural gas in 171 priority geologic provinces of the world, exclusive of the United States.</abstract><physicalDescription><form>6 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3042.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3042/</url></location><note type=\"citation/reference\">An estimate of undiscovered conventional oil and gas resources of the world, 2012; 2012; FS; 2012-3042; Fact Sheet; Schenk, Christopher J.</note><edition>Supersedes FS 062-03</edition><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ebb22ac7fc160a2139a405a7ececb0ad", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123042"
+}

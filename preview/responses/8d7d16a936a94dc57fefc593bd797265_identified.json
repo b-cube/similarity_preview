@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Beaker</ShortName>   <Description>Search Beaker 1.6.5 documentation</Description>   <InputEncoding>utf-8</InputEncoding>   <Url type=\"text/html\" method=\"get\"        template=\"http://beaker.rtfd.org//search.html?q={searchTerms}&amp;check_keywords=yes&amp;area=default\"/>   <LongName>Beaker 1.6.5 documentation</LongName>    </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8d7d16a936a94dc57fefc593bd797265", 
+    "source_url": "http://beaker.readthedocs.org/en/latest/_static/opensearch.xml"
+}

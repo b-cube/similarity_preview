@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"><ShortName>Codex (en)</ShortName><Description>Codex (en)</Description><Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://codex.wordpress.org/favicon.ico</Image><Url type=\"text/html\" method=\"get\" template=\"http://codex.wordpress.org/index.php?title=Special:Search&amp;search={searchTerms}\" /><Url type=\"application/x-suggestions+json\" method=\"get\" template=\"http://codex.wordpress.org/api.php?action=opensearch&amp;search={searchTerms}&amp;namespace=0\" /><moz:SearchForm>http://codex.wordpress.org/Special:Search</moz:SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a6b47b3aa4a0a68e96f881c8c8a6b410", 
+    "source_url": "https://codex.wordpress.org/opensearch_desc.php"
+}

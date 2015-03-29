@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <jnlp codebase=\"http://www.aoml.noaa.gov/phod/goos/tools/xbtcvt/\" href=\"xbtcvt.jnlp\" spec=\"1.0+\">     <information>         <title>XBTCVT</title>         <vendor>NOAA/AOML/PhOD</vendor>         <homepage href=\"http://www.aoml.noaa.gov/phod/goos/xbt_network/index.php\"/>         <description>XBTCVT</description>         <description kind=\"short\">XBTCVT</description>  <offline-allowed/>            </information>      <update check=\"background\" />   <security>   <all-permissions/>  </security>      <resources>         <j2se href=\"http://java.sun.com/products/autodl/j2se\" version=\"1.7+\"/>   <property name=\"sun.java2d.noddraw\" value=\"true\"/>                 <jar href=\"XBTCVT.jar\" main=\"true\"/>   <jar href=\"lib/XBTUtils.jar\"/>   <jar href=\"lib/XBTGraphics.jar\"/>   <jar href=\"lib/postgresql-9.1-902.jdbc4.jar\"/>   <jar href=\"lib/LightWorldWind.jar\"/>   <jar href=\"lib/gluegen-rt.jar\"/>   <jar href=\"lib/jogl.jar\"/>   <jar href=\"lib/IXDBExplorer.jar\"/>    <extension name=\"jogl\" href=\"http://www.aoml.noaa.gov/phod/JavaWebstart/JOGL/jogl-1.0/jogl.jnlp\" />     </resources>      <application-desc main-class=\"noaa.aoml.xbtcvt.gui.XBTCVT\">             </application-desc> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f4d52437e97dffcc4f7c743ea07243aa", 
+    "source_url": "http://www.aoml.noaa.gov/phod/goos/tools/xbtcvt/xbtcvt.jnlp"
+}

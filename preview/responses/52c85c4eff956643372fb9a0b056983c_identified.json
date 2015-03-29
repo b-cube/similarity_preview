@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <netcdf location=\"T20000322000060.L3m_MO_NSST_4.nc\"  xmlns=\"http://www.unidata.ucar.edu/namespaces/netcdf/ncml-2.2\">   <variable name=\"l3m_data\" type=\"int\">     <attribute type=\"string\"  name=\"units\" value=\"deg-C\" />     <attribute type=\"int\"  name=\"_FillValue\" value=\"65535\" />   </variable> </netcdf> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "UNIDATA:NCML", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "52c85c4eff956643372fb9a0b056983c", 
+    "source_url": "http://hdfeos.org/examples/images/h4cflib/T20000322000060.L3m_MO_NSST_4.nc.ncml"
+}

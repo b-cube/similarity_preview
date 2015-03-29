@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <source_library title=\"source library\"> <source name=\"iso_P7v15R_Source\" type=\"DiffuseSource\">     <spectrum file=\"$(GLAST_EXT)/diffuseModels/v4r1/iso_source_v05_rev1.txt\" type=\"FileFunction\">       <parameter free=\"1\" max=\"1000\" min=\"0.001\" name=\"Normalization\" scale=\"1\" value=\"1\"/>     </spectrum>     <spatialModel type=\"ConstantValue\">       <parameter free=\"0\" max=\"10\" min=\"0\" name=\"Value\" scale=\"1\" value=\"1\"/>     </spatialModel>   </source> <source name=\"gal_4yearP7v15_v3\" type=\"DiffuseSource\">     <spectrum type=\"PowerLaw\">       <parameter free=\"1\" max=\"100\" min=\"1e-05\" name=\"Prefactor\" scale=\"1\" value=\"1.\"/>       <parameter free=\"1\" max=\"1\" min=\"-1\" name=\"Index\" scale=\"1\" value=\"0.\"/>       <parameter free=\"0\" max=\"2000\" min=\"50\" name=\"Scale\" scale=\"1\" value=\"500\"/>     </spectrum>     <spatialModel file=\"$(GLAST_EXT)/diffuseModels/v4r1/gll_iem_v05_rev1.fit\" type=\"MapCubeFunction\">       <parameter free=\"0\" max=\"1000\" min=\"0.001\" name=\"Normalization\" scale=\"1\" value=\"1\"/>     </spatialModel>   </source> <source name=\"SunMoon\" type=\"DiffuseSource\">     <spectrum type=\"ConstantValue\">       <parameter free=\"0\" max=\"100\" min=\"1e-05\" name=\"Value\" scale=\"1\" value=\"1.\"/>     </spectrum>     <spatialModel file=\"$(GLAST_EXT)/catalogProducts/v2r1/3FGL/template_SunMoon_4years_zmax100.fits\" type=\"MapCubeFunction\">       <parameter free=\"0\" max=\"1000\" min=\"0.001\" name=\"Normalization\" scale=\"1\" value=\"1\"/>     </spatialModel>   </source> <source name=\"limb_4years_v0\" type=\"DiffuseSource\">     <spectrum file=\"$(GLAST_EXT)/catalogProducts/v2r1/3FGL/limb_4years.txt\" type=\"FileFunction\">       <parameter free=\"0\" max=\"1000\" min=\"0.001\" name=\"Normalization\" scale=\"1\" value=\"1.5\"/>     </spectrum>     <spatialModel file=\"$(GLAST_EXT)/catalogProducts/v2r1/3FGL/limb_4years.fits\" type=\"SpatialMap\">       <parameter free=\"0\" max=\"1000\" min=\"0.001\" name=\"Prefactor\" scale=\"1\" value=\"1\"/>     </spatialModel>   </source> </source_library> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "30174dfa29799e64f4a249b435a48552", 
+    "source_url": "http://fermi.gsfc.nasa.gov/ssc/data/access/lat/4yr_catalog/SunMoon_4years_P7v15_Source.xml"
+}

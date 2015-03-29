@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <Response_getSuggestions>   <Item>     <isbn>041508881x</isbn>     <citation>Dawson, Graham. - Soldier heroes : British adventure, Empire and the imagining of masculinity 1994</citation>     <workID>838073</workID>     <ranking>1</ranking>   </Item> </Response_getSuggestions> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "80a9ef7ef7ad171d8323c1b0f41db15a", 
+    "source_url": "http://vm-salt.mimas.ac.uk/getSuggestions.api?isbn=0552153575&threshold=6"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"C1DE8DCD-55E4-48D8-AD39-DAB1727F91B0\" _position=\"1\" _address=\"http://datacatalog.cookcountyil.gov/resource/nnih-e5uj/1\"><race_>WHITE          </race_><count_>2965</count_><percent_>56.65</percent_></row><row _id=\"2\" _uuid=\"5DC90C84-A1BF-4A39-AB5A-CDD1FEA824FB\" _position=\"2\" _address=\"http://datacatalog.cookcountyil.gov/resource/nnih-e5uj/2\"><race_>BLACK          </race_><count_>2169</count_><percent_>41.44</percent_></row><row _id=\"3\" _uuid=\"2C4922C6-AA24-4CEC-B84F-9756518D71C6\" _position=\"3\" _address=\"http://datacatalog.cookcountyil.gov/resource/nnih-e5uj/3\"><race_>OTHER          </race_><count_>100</count_><percent_>1.91</percent_></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "eba57c28efa7d2e37f7b6a6d107ae91d", 
+    "source_url": "https://datacatalog.cookcountyil.gov/api/views/nnih-e5uj/rows.xml?accessType=DOWNLOAD"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>Libraries and the Long Tail: Some Thoughts about Libraries in a Network Age</title> <creator>Lorcan Dempsey</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">April 2006</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/april2006-dempsey</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/april06/dempsey/04dempsey.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>12</volume> <issue>4</issue> </relation> <rights>Copyright OCLC Online Computer Library Center</rights> </dlib-meta0.1>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ded056f459a2a62e5ffd697bf4228836", 
+    "source_url": "http://www.dlib.org/dlib/april06/dempsey/04dempsey.meta.xml"
+}

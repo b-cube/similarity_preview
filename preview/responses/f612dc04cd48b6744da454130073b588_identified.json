@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Center2006a </Local-number>  <Author>Vroom, P. S. </Author>  <Title>PIFSC Cruise Report CR-06-008 (Cruise 06-01) </Title>  <Institution>Pacific Islands Fisheries Science Center </Institution>  <Publication-Place>Honolulu, HI </Publication-Place>  <Publication-Date><caldate>2006 </caldate></Publication-Date>  <Extent>97 </Extent>  <Type-Period-Note>Vessel: Hi'ialakai, Cruise 06-01, Period: 15 January-6 February 2006, Area of Operation: Johnston Atoll, Howland and Baker Islands (U.S. Phoenix Islands) </Type-Period-Note>  <Notes>FY2006 CRCP Project ID 1221; Project Title: Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls; Principal Investigator: Rusty Brainard </Notes>  <Abstract>Personnel from the Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center, National Marine Fisheries Service (NMFS), NOAA, conducted reef assessment/monitoring and mapping studies in waters surrounding Johnston Atoll and the U.S. Phoenix Islands. </Abstract>  <Date-Time-Last-Modified>20091112000000 </Date-Time-Last-Modified>  <URL>http://www.pifsc.noaa.gov/library/pubs/cruise/Hiialakai/CRHI0601b-PSV.pdf </URL>  <project>  <ID>1221 </ID>  <title>Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls </title>  <PI>Rusty Brainard </PI>  </project>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f612dc04cd48b6744da454130073b588", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BC62C41B0-AACB-4F27-9E63-4AF4AF33D0CD%7D"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>SAGrid Supported Software Build Scripts</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname/>             <given-names/>           </name>           <aff>             <institution>Meraka Institute, CSIR</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/10233\"/>       <self-uri xlink:href=\"http://zenodo.org/record/10233/files/SoftwareInstallation-v0.0.1.zip\"/>     </article-meta>     <abstract>&lt;p&gt;These are the build scripts for the SAGrid Support Software&lt;/p&gt;</abstract>   </front>   <article-type>provisional-user-zenodo</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "09edb330ded27c8d5aa5951f7cb09673", 
+    "source_url": "http://zenodo.org/record/10233/export/xn"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.sparks-sip-refer-split\"> <front> <title>The Refer Method</title>  <author initials=\"R\" surname=\"Sparks\" fullname=\"Robert Sparks\">     <organization /> </author>  <date month=\"April\" day=\"26\" year=\"2002\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-sparks-sip-refer-split-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "628355b65a24d353cc52cbb78262e50e", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.sparks-sip-refer-split.xml"
+}

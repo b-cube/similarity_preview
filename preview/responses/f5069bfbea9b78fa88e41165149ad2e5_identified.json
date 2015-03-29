@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>DSpace</ShortName><LongName>Central and Eastern European Marine Repository (CEEMaR)</LongName><Description>Central and Eastern European Marine Repository (CEEMaR) DSpace repository</Description><InputEncoding>UTF-8</InputEncoding><OutputEncoding>UTF-8</OutputEncoding><Query role=\"example\" searchTerms=\"photosynthesis\" /><Tags>IR DSpace</Tags><Contact>webmaster@ceemar.org</Contact><Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://www.dspace.org/images/favicon.ico</Image></OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f5069bfbea9b78fa88e41165149ad2e5", 
+    "source_url": "http://www.ceemar.org/ceemar/open-search/description.xml"
+}

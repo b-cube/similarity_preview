@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Zaiko, Anastasija </a1>   <a2>Daunys, Darius</a2>   <t1>Invasive ecosystem engineers and biotic indices: giving a wrong impression of water quality improvement?</t1>   <t2/>   <sn/>   <op>292-299</op>   <vo>52</vo>   <ab>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;Benthic component of an ecosystem is considered in ecological status assessment of the key European Directives. Most of the metrics proposed for the benthic quality assessment are biodiversity based. Their robustness and applicability are widely discussed in many recent studies. However an impact of invasive alien species on biotic indices and environmental quality assessments has been largely overlooked by researchers so far. In the current study we assessed Benthic Quality Index (BQI) in a coastal ecosystem, highly affected by the invasive zebra mussel &lt;em&gt;Dreissena polymorpha&lt;/em&gt;. Zebra mussel is able of modifying benthic habitats and enhancing local biodiversity. In the analyzed ecosystem it affected benthic species richness, abundance and community structure. As a result the calculated BQI values were significantly higher in the presence of zebra mussel with evident outliers in samples with particularly high zebra mussel abundances. Therefore we found that BQI determined in our study was artificially elevated providing false signal of the ecological status improvement. Based on the results presented, we suggested data correction framework that has been tested on the current dataset and proved to be effective minimizing zebra mussel impact on BQI assessment. Our experience could be applied for other coastal ecosystems invaded by the zebra mussel or any other aquatic invasive species with resembling biological traits and bioinvasion impacts.&lt;/p&gt;</ab>   <la/>   <k1>invasive species;                 bioassessment;                 BQI;                 Dreissena polymorpha;                 zebra mussel;                 Baltic Sea;                 Curonian Lagoon;                 </k1>   <pb/>   <pp/>   <yr>2015-01-09</yr>   <ed/>   <ul>https://zenodo.org/record/15844/files/BQI_Ecol_Ind_Zaiko_Daunys_2015.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aec710ee58a42d22f94f58e25d788295", 
+    "source_url": "https://zenodo.org/record/15844/export/xw"
+}

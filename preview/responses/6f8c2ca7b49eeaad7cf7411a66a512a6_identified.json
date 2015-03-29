@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <ows:ExceptionReport version=\"2.0.0\"   xsi:schemaLocation=\"http://www.opengis.net/ows/1.1 http://ecp.iedadata.org:80/wfs/schemas/ows/1.1.0/owsAll.xsd\"   xmlns:ows=\"http://www.opengis.net/ows/1.1\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">   <ows:Exception exceptionCode=\"MissingParameterValue\" locator=\"request\">     <ows:ExceptionText>Could not determine geoserver request from http request org.geoserver.platform.AdvancedDispatchFilter$AdvancedDispatchHttpRequest@2f6e011f</ows:ExceptionText>   </ows:Exception> </ows:ExceptionReport> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "2.0.0", 
+        "protocol": "OGC:error", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6f8c2ca7b49eeaad7cf7411a66a512a6", 
+    "source_url": "http://ecp.iedadata.org/wfs/wfs"
+}

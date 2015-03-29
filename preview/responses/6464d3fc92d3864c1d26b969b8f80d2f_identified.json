@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/TRMM_L3/TRMM_3B43/2010/305\"                     ID=\"/opendap/hyrax/TRMM_L3/TRMM_3B43/2010/305/\">             <thredds:dataset name=\"3B43.20101101.7.HDF\"                        ID=\"/opendap/hyrax/TRMM_L3/TRMM_3B43/2010/305/3B43.20101101.7.HDF\">          <thredds:dataSize units=\"bytes\">5188163</thredds:dataSize>          <thredds:date type=\"modified\">2012-05-24T14:44:28</thredds:date>          <thredds:access serviceName=\"dap\" urlPath=\"/TRMM_L3/TRMM_3B43/2010/305/3B43.20101101.7.HDF\"/>          <thredds:access serviceName=\"file\" urlPath=\"/TRMM_L3/TRMM_3B43/2010/305/3B43.20101101.7.HDF\"/>       </thredds:dataset>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "6464d3fc92d3864c1d26b969b8f80d2f", 
+    "source_url": "http://disc2.nascom.nasa.gov/opendap/TRMM_L3/TRMM_3B43/2010/305/catalog.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><AirportStatus>       <Delay>false</Delay>           <IATA>SFO</IATA>           <State>California</State>           <Name>San Francisco International</Name>           <Weather><Visibility>10.00</Visibility>           <Weather>Fair</Weather>           <Meta><Credit>NOAA&apos;s National Weather Service</Credit>           <Updated>12:56 AM Local</Updated>           <Url>http://weather.gov/</Url></Meta>           <Temp>54.0 F (12.2 C)</Temp>           <Wind>West at 5.8mph</Wind></Weather>           <ICAO>KSFO</ICAO>           <City>San Francisco</City>           <Status><Reason>No known delays for this airport.</Reason>           <ClosureBegin></ClosureBegin>           <EndTime></EndTime>           <MinDelay></MinDelay>           <AvgDelay></AvgDelay>           <MaxDelay></MaxDelay>           <ClosureEnd></ClosureEnd>           <Trend></Trend>           <Type></Type></Status>     </AirportStatus> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "61e87c08cb219794a86af4a9a5ceb5bd", 
+    "source_url": "http://services.faa.gov/airport/status/SFO?format=application/xml"
+}

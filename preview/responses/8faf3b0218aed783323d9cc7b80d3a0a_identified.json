@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.NOTE-chips-20030128\"> <front> <title>Common HTTP Implementation Problems</title>  <author initials=\"O\" surname=\"Th\\ufffd\\ufffdreaux\" fullname=\"Olivier Th\\ufffd\\ufffdreaux\">     <organization /> </author>  <date month=\"January\" day=\"28\" year=\"2003\" /> </front>  <seriesInfo name=\"W3C NOTE\" value=\"NOTE-chips-20030128\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/2003/NOTE-chips-20030128\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8faf3b0218aed783323d9cc7b80d3a0a", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-chips-20030128.xml"
+}

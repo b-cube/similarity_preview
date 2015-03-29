@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"iso-8859-15\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"  xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:doap=\"http://usefulinc.com/ns/doap#\"  xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:admin=\"http://webns.net/mvcb/\" xml:lang=\"en\">   <rdf:Description rdf:about=\"\">     <admin:generatorAgent rdf:resource=\"http://www.bonjourlesmouettes.org/doap-a-matic.php\"/>   </rdf:Description>   <doap:Project>     <doap:name>W3C Open Source Software</doap:name>     <doap:homepage rdf:resource=\"http://www.w3.org/Status\"/>     <doap:description>The natural complement to W3C specifications is running code. Implementation  and testing is an essential part of specification development and releasing the code promotes  exchange of ideas in the developer community. All W3C software is Open Source/ Free Software, and GPL  compatible.</doap:description>     <doap:wiki rdf:resource=\"http://esw.w3.org/topic/FrontPage\"/>     <doap:bug-database rdf:resource=\"http://www.w3.org/Bugs/\"/>     <doap:mailing-list rdf:resource=\"http://lists.w3.org/Archives/Public/\"/>     <doap:programming-language>C</doap:programming-language>     <doap:programming-language>Java</doap:programming-language>     <doap:programming-language>Perl</doap:programming-language>     <doap:programming-language>Python</doap:programming-language>     <doap:programming-language>XSLT</doap:programming-language>     <doap:repository>       <doap:CVSRepository>         <doap:browse rdf:resource=\"http://dev.w3.org/cvsweb/\"/>       </doap:CVSRepository>     </doap:repository>   </doap:Project> </rdf:RDF>  ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "en", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c15b68b683fbbab9baa4fbc798a17003", 
+    "source_url": "http://www.w3.org/2001/sw/Europe/200407/w3c-doap.rdf"
+}

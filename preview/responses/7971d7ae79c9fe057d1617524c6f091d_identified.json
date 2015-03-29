@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><anncXML>   <announcement> <Announcement_Id>3104</Announcement_Id> <Program_Id>0</Program_Id> <Headline>Studying Abroad in Australia: A Life Down Under</Headline> <Blurb>Come to an information session to hear about the student experience of studying abroad in Australia.</Blurb> <Event_Date>03/24/2015</Event_Date> <Article_Length>100</Article_Length> </announcement>   <announcement> <Announcement_Id>3160</Announcement_Id> <Program_Id>0</Program_Id> <Headline>LGBTQ Abroad</Headline> <Blurb>Come to this information session to hear about Columbia student's experiences of the LGBTQ experience abroad. Questions welcome.</Blurb> <Event_Date>03/27/2015</Event_Date> <Article_Length>76820</Article_Length> </announcement>   <announcement> <Announcement_Id>3132</Announcement_Id> <Program_Id>0</Program_Id> <Headline>Middlebury in Italy</Headline> <Blurb>You are invited to an information session to meet the Resident Director from the Middlebury in Florence program.</Blurb> <Event_Date>03/31/2015</Event_Date> <Article_Length>21952</Article_Length> </announcement>   <announcement> <Announcement_Id>3092</Announcement_Id> <Program_Id>0</Program_Id> <Headline>Aquincum Institute of Technology, Budapest</Headline> <Blurb>Come to this information session to learn about studying math or computer science in Budapest (in English!)</Blurb> <Event_Date>04/01/2015</Event_Date> <Article_Length>20865</Article_Length> </announcement>   <announcement> <Announcement_Id>3089</Announcement_Id> <Program_Id>0</Program_Id> <Headline>MIddlebury in Spain</Headline> <Blurb>Interested in studying abroad in Madrid?</Blurb> <Event_Date>04/16/2015</Event_Date> <Article_Length>468</Article_Length> </announcement></anncXML>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7971d7ae79c9fe057d1617524c6f091d", 
+    "source_url": "http://www.ogp.columbia.edu/index.cfm?FuseAction=Announcements.XML&Program_ID=0"
+}

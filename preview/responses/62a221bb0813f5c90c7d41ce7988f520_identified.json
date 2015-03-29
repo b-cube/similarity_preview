@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.zorn-radius-pkmv1'> <front> <title>RADIUS Attributes for IEEE 802.16 Privacy Key Management Version 1 (PKMv1) Protocol Support</title>  <author initials='G' surname='Zorn' fullname='Glen Zorn'>     <organization /> </author>  <date month='March' day='26' year='2010' />  <abstract><t>This document defines a set of RADIUS Attributes which are designed to provide RADIUS support for IEEE 802.16 Privacy Key Management Version 1.</t></abstract>  </front>  <seriesInfo name='Internet-Draft' value='draft-zorn-radius-pkmv1-12' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-zorn-radius-pkmv1-12.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "62a221bb0813f5c90c7d41ce7988f520", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.zorn-radius-pkmv1.xml"
+}

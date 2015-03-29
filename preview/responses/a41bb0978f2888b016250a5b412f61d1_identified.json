@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../Internet%20Explorer%20-%20Compatibility%20View.htm\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"image005.jpg\"/>  <o:File HRef=\"image006.jpg\"/>  <o:File HRef=\"image007.jpg\"/>  <o:File HRef=\"image008.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a41bb0978f2888b016250a5b412f61d1", 
+    "source_url": "https://www.bb.reading.ac.uk/bbcswebdav/institution/Services/BB_SYSTEM_ADMIN/Internet%20Explorer%20-%20Compatibility%20View_files/filelist.xml"
+}

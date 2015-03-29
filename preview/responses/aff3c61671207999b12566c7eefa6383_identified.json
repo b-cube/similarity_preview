@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Egloff, Willi</a1>   <t1>Das Urheberrecht und der Zugang zu wissenschaftlichen Publikationen</t1>   <t2/>   <sn/>   <op>205-217</op>   <vo>10</vo>   <ab>&lt;p&gt;uploaded by Plazi&lt;/p&gt;</ab>   <la/>   <k1>legal issues;                 science;                 copyright;                 open access;                 scientific publications;                 </k1>   <pb/>   <pp/>   <yr>2007-10-31</yr>   <ed/>   <ul>http://zenodo.org/record/10880/files/SICx2007x705_717.pdf;  http://zenodo.org/record/10880/files/SICx2007x705_717.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aff3c61671207999b12566c7eefa6383", 
+    "source_url": "https://zenodo.org/record/10880/export/xw"
+}

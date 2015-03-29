@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"None\"><title>CKAN Group Revision History</title><link href=\"/group/gilpin-county\" rel=\"alternate\"></link><id>/group/gilpin-county</id><updated>2015-03-19T06:26:42Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b51ed263c02793814816da46f56686cf", 
+    "source_url": "http://data.opencolorado.org/group/history/gilpin-county?days=7&format=atom"
+}

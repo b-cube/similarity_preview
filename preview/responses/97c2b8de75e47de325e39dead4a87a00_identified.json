@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <jnlp spec=\"1.0+\" codebase=\"http://mw2.concord.org/public/\"> <information> <title>Molecular Workbench</title> <vendor>Concord Consortium, Inc.</vendor> <homepage href=\"index.html\"/> <description>The Advanced Educational Modeling Laboratory</description> <icon href=\"mwlogo.gif\"/> <offline-allowed/> </information> <resources> <j2se version=\"1.5+\"/> <jar href=\"lib/workbench.jar\"/> <property name=\"apple.awt.brushMetalLook\" value=\"true\"/> <property name=\"apple.laf.useScreenMenuBar\" value=\"true\"/> </resources> <security> <all-permissions/> </security> <application-desc main-class=\"org.concord.modeler.ModelerLauncher\"> <argument>remote</argument> <argument>http://mw2.concord.org/http:/mw2.concord.org/public/part1/selfassembly/index.cml</argument> </application-desc> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "97c2b8de75e47de325e39dead4a87a00", 
+    "source_url": "http://mw2.concord.org/tmp.jnlp?address=http:/mw2.concord.org/public/part1/selfassembly/index.cml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"::agenda.htm\"/>  <o:File HRef=\"themedata.xml\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image004.gif\"/>  <o:File HRef=\"image005.png\"/>  <o:File HRef=\"image006.gif\"/>  <o:File HRef=\"image007.emz\"/>  <o:File HRef=\"image008.gif\"/>  <o:File HRef=\"image009.jpg\"/>  <o:File HRef=\"image010.gif\"/>  <o:File HRef=\"image011.jpg\"/>  <o:File HRef=\"image012.gif\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8d8efb95877747c42971fb9b0c10e0d9", 
+    "source_url": "http://www.cbrfc.noaa.gov/present/crfs/2012spring/agenda_files/filelist.xml"
+}

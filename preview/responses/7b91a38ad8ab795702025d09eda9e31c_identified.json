@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>  <mods xmlns=\"http://www.loc.gov/mods/v3\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd\">    <titleInfo>       <title>Source codes for GLMLE algorithm</title>    </titleInfo>    <name type=\"personal\" ID=\"rh2528\">       <namePart type=\"family\">He</namePart>       <namePart type=\"given\">Ran</namePart>       <role>          <roleTerm type=\"text\">author</roleTerm>       </role>       <affiliation>Columbia University. Statistics</affiliation>    </name>    <name type=\"corporate\">       <namePart>Columbia University. Statistics</namePart>       <role>          <roleTerm type=\"text\">originator</roleTerm>       </role>    </name>    <typeOfResource>software, multimedia</typeOfResource>    <genre>Computer software</genre>    <originInfo>       <dateIssued encoding=\"w3cdtf\" keyDate=\"yes\">2014</dateIssued>    </originInfo>    <abstract>These are the R source codes for the algorithm proposed for fitting exponential random graph models (ERGMs) on large social networks in our paper \"Estimation of exponential random graph models for large social networks via graph limits\". Specifically, the ERGM model we implement is the one that consider homomorphism densities of edges, two-stars and triangles, the one we examine in the above paper.</abstract>    <subject>       <topic>Statistics</topic>    </subject>    <subject>       <topic>Computer science</topic>    </subject>    <relatedItem type=\"series\">       <titleInfo>          <title/>       </titleInfo>    </relatedItem>    <relatedItem>       <location>          <url/>       </location>    </relatedItem>    <identifier type=\"CDRS doi\">http://dx.doi.org/10.7916/D8HH6HQR</identifier>    <relatedItem type=\"otherVersion\">     </relatedItem>    <language>       <languageTerm type=\"text\">English</languageTerm>    </language>    <location>       <physicalLocation authority=\"marcorg\">NNC</physicalLocation>    </location>    <recordInfo>       <recordContentSource authority=\"marcorg\">NNC</recordContentSource>       <recordCreationDate encoding=\"w3cdtf\">2014-10-24 16:03:53 -0400</recordCreationDate>       <recordChangeDate encoding=\"w3cdtf\">2014-10-24 16:13:00 -0400</recordChangeDate>       <recordIdentifier>18417</recordIdentifier>       <languageOfCataloging>          <languageTerm authority=\"iso639-2b\">eng</languageTerm>       </languageOfCataloging>    </recordInfo> </mods> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7b91a38ad8ab795702025d09eda9e31c", 
+    "source_url": "http://academiccommons.columbia.edu/download/fedora_content/show_pretty/ac:178968/CONTENT/ac178968_description.xml?data=meta"
+}

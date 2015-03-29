@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Himpe, Christian</author>         </authors>       </contributors>       <titles>         <title>emgr - Empirical Gramian Framework (2.2)</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.10275</doi>       <pages/>       <volume/>       <number>url</number>       <keywords>         <keyword>math</keyword>         <keyword>controllability</keyword>         <keyword>observability</keyword>         <keyword>model reduction</keyword>         <keyword>model order reduction</keyword>         <keyword>empirical gramian</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-06-03</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;emgr - &lt;strong&gt;Em&lt;/strong&gt;pirical &lt;strong&gt;Gr&lt;/strong&gt;amian framework for model reduction and system identification. More information at: http://gramian.de&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3cff1724fa33139d98ddb485a69114e6", 
+    "source_url": "https://zenodo.org/record/10275/export/xe"
+}

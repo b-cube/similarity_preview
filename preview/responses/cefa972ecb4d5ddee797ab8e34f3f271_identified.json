@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0044'>  <front> <title>Comments on NWG/RFC 33 and 36</title> <author initials='A.' surname='Shoshani' fullname='A. Shoshani'> <organization /></author> <author initials='R.' surname='Long' fullname='R. Long'> <organization /></author> <author initials='A.' surname='Landsberg' fullname='A. Landsberg'> <organization /></author> <date year='1970' month='April' /></front>  <seriesInfo name='RFC' value='44' /> <format type='TXT' octets='7381' target='http://www.rfc-editor.org/rfc/rfc44.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cefa972ecb4d5ddee797ab8e34f3f271", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0044.xml"
+}

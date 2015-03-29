@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <formats> <format name=\"nlm\" type=\"application/xml\" docs=\"http://www.nlm.nih.gov/databases/dtd/\" /> <format name=\"mods\" type=\"application/xml\" docs=\"http://www.loc.gov/standards/mods/v3/mods-3-3.xsd\" /> <format name=\"marcxml\" type=\"application/xml\" docs=\"http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd\" /> <format name=\"jsonld\" type=\"\" /> <format name=\"dc\" type=\"application/xml\" docs=\"http://dublincore.org/schemas/\" /> <format name=\"endnote\" type=\"application/xml\" docs=\"http://www.endnote.com/support/\" /> <format name=\"hs2\" type=\"\" /> <format name=\"xoaimarc\" type=\"\" /> <format name=\"hdshar\" type=\"\" /> <format name=\"xw\" type=\"application/xml\" docs=\"http://www.refworks.com/RefWorks/help/RefWorks_Tagged_Format.htm\" /> <format name=\"xe8x\" type=\"\" /> <format name=\"wapaff\" type=\"\" /> <format name=\"hdinfo\" type=\"\" /> <format name=\"tm\" type=\"\" /> <format name=\"hx\" type=\"text/html\" /> <format name=\"dcite\" type=\"text/xml\" /> <format name=\"hp\" type=\"text/html\" /> <format name=\"bsr\" type=\"\" /> <format name=\"hm\" type=\"text/html\" /> <format name=\"hb\" type=\"text/html\" /> <format name=\"hc\" type=\"text/html\" /> <format name=\"ha\" type=\"\" /> <format name=\"hd\" type=\"text/html\" /> <format name=\"mobb\" type=\"\" /> <format name=\"untld\" type=\"\" /> <format name=\"mobd\" type=\"\" /> <format name=\"hdexp\" type=\"\" /> <format name=\"hdm\" type=\"\" /> </formats>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c0e22721eb68a212c33a07a99a3924ba", 
+    "source_url": "https://zenodo.org/unapi"
+}

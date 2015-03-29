@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.mcgrew-saag-ust\"> <front> <title>The Universal Security Transform</title>  <author initials=\"D\" surname=\"McGrew\" fullname=\"David McGrew\">     <organization /> </author>  <date month=\"November\" day=\"15\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-mcgrew-saag-ust-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "10313b30700f9907dd6ed3fde8570995", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.mcgrew-saag-ust.xml"
+}

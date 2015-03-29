@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20103114</identifier><identifier type=\"pwpk\">98911</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2010-3114</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Drought Monitoring with VegDRI</title></titleInfo><originInfo><dateOther>Fri, 3 Dec 2010 00:00 -0600</dateOther><dateIssued>2010</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Brown, Jesslyn F.</namePart><role>Author</role></name><abstract>Drought strikes somewhere in the United States every year, turning green landscapes brown as precipitation falls below normal levels and water supplies dwindle. Drought is typically a temporary climatic aberration, but it is also an insidious natural hazard. It might last for weeks, months, or years and may have many negative effects. Drought can threaten crops, livestock, and livelihoods, stress wildlife and habitats, and increase wildfire risks and threats to human health.&#xd; &#xd; Drought conditions can vary tremendously from place to place and week to week. Accurate drought monitoring is essential to understand a drought's progression and potential effects, and to provide information necessary to support drought mitigation decisions. It is also crucial in light of climate change where droughts could become more frequent, severe, and persistent.</abstract><physicalDescription><form>2 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2010_3114.bmp</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2010/3114/</url></location><note type=\"citation/reference\">Drought Monitoring with VegDRI; 2010; FS; 2010-3114; Fact Sheet; Brown, Jesslyn F.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8128fd76b4576ab39329452cc6079ff7", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20103114"
+}

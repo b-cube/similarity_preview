@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"IEEE.1003-1G.1997\"> <front> <title>Protocol Independent Interfaces</title> <author> <organization>Institute of Electrical and Electronics Engineers</organization> </author> <date month=\"March\" year=\"1997\" /> </front>  <seriesInfo name=\"IEEE\" value=\"Standard 1003.1G\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fa96275cd8a142e0a20f6e103d02e397", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.IEEE.1003-1G.1997.xml"
+}

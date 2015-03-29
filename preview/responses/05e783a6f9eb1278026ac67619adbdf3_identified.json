@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xqueryx-31-20140424'            target='http://www.w3.org/TR/2014/WD-xqueryx-31-20140424'> <front> <title>XQueryX 3.1</title>  <author initials='J.' surname='Melton' fullname='Jim Melton'>     <organization /> </author>  <date month='April' day='24' year='2014' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-xqueryx-31-20140424' /> <format type='HTML' target='http://www.w3.org/TR/2014/WD-xqueryx-31-20140424' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "05e783a6f9eb1278026ac67619adbdf3", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xqueryx-31-20140424.xml"
+}

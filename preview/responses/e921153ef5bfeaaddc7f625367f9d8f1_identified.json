@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <o:nodeList xmlns:o=\"http://www.w3.org/2005/11/its/testoutputformat\">   <o:nodeList datacat=\"localizationnote\">     <o:node path=\"/{}myRes\" outputType=\"default-value\">       <o:output />     </o:node>     <o:node path=\"/{}myRes/{}head[1]\" outputType=\"default-value\">       <o:output />     </o:node>     <o:node path=\"/{}myRes/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/@{}version\" outputType=\"default-value\">       <o:output />     </o:node>     <o:node path=\"/{}myRes/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/@{http://www.w3.org/2005/11/its}translate\" outputType=\"default-value\">       <o:output />     </o:node>     <o:node path=\"/{}myRes/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/{http://www.w3.org/2005/11/its}locNoteRule[1]\" outputType=\"default-value\">       <o:output />     </o:node>     <o:node path=\"/{}myRes/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/{http://www.w3.org/2005/11/its}locNoteRule[1]/@{}locNoteType\" outputType=\"default-value\">       <o:output />     </o:node>     <o:node path=\"/{}myRes/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/{http://www.w3.org/2005/11/its}locNoteRule[1]/@{}selector\" outputType=\"default-value\">       <o:output />     </o:node>     <o:node path=\"/{}myRes/{}head[1]/{http://www.w3.org/2005/11/its}rules[1]/{http://www.w3.org/2005/11/its}locNoteRule[1]/{http://www.w3.org/2005/11/its}locNote[1]\" outputType=\"default-value\">       <o:output />     </o:node>     <o:node path=\"/{}myRes/{}body[1]\" outputType=\"default-value\">       <o:output />     </o:node>     <o:node path=\"/{}myRes/{}body[1]/{}msg[1]\" outputType=\"new-value-global\">       <o:output o:locNoteType=\"alert\">         <o:locNoteText>The variable {0} has three possible values: 'printer',      'stacker' and 'stapler options'.</o:locNoteText>       </o:output>     </o:node>     <o:node path=\"/{}myRes/{}body[1]/{}msg[1]/@{}id\" outputType=\"default-value\">       <o:output />     </o:node>   </o:nodeList> </o:nodeList>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e921153ef5bfeaaddc7f625367f9d8f1", 
+    "source_url": "http://www.w3.org/International/its/tests/test2/EX-locNote-element-1-result.xml"
+}

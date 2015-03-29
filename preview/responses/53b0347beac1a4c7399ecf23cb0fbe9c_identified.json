@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0042'>  <front> <title>Message Data Types</title> <author initials='E.' surname='Ancona' fullname='E. I. Ancona'> <organization>Massachusetts Institute of Technology (MIT), Lincoln Laboratory</organization></author> <date year='1970' day='31' month='March' /></front>  <seriesInfo name='RFC' value='42' /> <format type='TXT' octets='5247' target='http://www.rfc-editor.org/rfc/rfc42.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "53b0347beac1a4c7399ecf23cb0fbe9c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-rfcs/reference.RFC.0042.xml"
+}

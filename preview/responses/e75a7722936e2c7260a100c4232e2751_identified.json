@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?>  <!DOCTYPE TEI.2 PUBLIC \"-//TEI P4//DTD Main DTD Driver File//EN\" \"/dev/null\" [ <!ENTITY % Demos PUBLIC \"-//Stoa//DTD Demos TEI mainline//EN\" \"/dev/null\"> %Demos; ]> <TEI.2>  <teiHeader>   <fileDesc>    <titleStmt>     <title>To Do List</title>     <author>Christopher W. Blackwell</author>    </titleStmt>    <extent>under 1Mb</extent>    <publicationStmt>     <publisher>      <orgName>The Stoa: a consortium for electronic publication in the humanities</orgName>      <xref type=\"url\" n=\"http://www.stoa.org\">www.stoa.org</xref>     </publisher>     <authority><name>A. Mahoney and R. Scaife, edd.</name></authority>    </publicationStmt>    <seriesStmt>     <title>D&#275;mos: Classical Athenian Democracy</title>     <respStmt>      <resp>       <persName>C.W. Blackwell, ed.</persName>      </resp>     </respStmt>    </seriesStmt>    <sourceDesc>     <p>File created electronically.</p>    </sourceDesc>   </fileDesc>  <encodingDesc>   <refsDecl>   <p></p>   </refsDecl> </encodingDesc>  <profileDesc> <langUsage> <language id=\"en\">English</language> <language id=\"la\">Latin</language> <language id=\"grc\">Greek</language> </langUsage> </profileDesc>  <revisionDesc>  <change>   <date>May 16, 2003</date>   <respStmt>    <name>Christopher W. Blackwell</name>    <resp>Added items</resp>   </respStmt>   <item>Many Changes</item>  </change>  <change>   <date>January 17, 2003</date>   <respStmt>    <name>Christopher W. Blackwell</name>    <resp>Added items</resp>   </respStmt>   <item>Initial XML Markup</item>  </change>  <change>   <date>February 9, 2003</date>   <respStmt>    <name>Christopher W. Blackwell</name>    <resp>xml markup</resp>   </respStmt>   <item>Initial XML Markup</item>  </change> </revisionDesc> </teiHeader>  <text lang=\"en\"> <body>  <div0 type=\"Section\" id=\"toDo\" n=\"toDo\"> <head>Things Planned for the Project</head>  <p>Better (i.e. more thorough) tagging of secondary sources.</p>  <p>An explicit article on the status of women in Athens.</p>  <p>Other big articles: Archons and Military come to mind. Thirty Tyrants would be nice, too.</p>  <p>Other Biographies: Draco, Solon, Cleisthenes, Themistocles, Pericles, Theramenes, Alcibiades, and Lycurgus.</p>  <p>Re-doing the whole citation scheme, including all &#60;bibl&#62; tags, to take advantage of Neel Smith&#8217;s proposed centralized registry of ancient sources.</p>  <p>Better normalization of place-name and personal-names. Hook up with John Trail for Athenian people, and the Registry of Ancient Geographic Entities for place-names.</p>   </div0>  </body> </text> </TEI.2> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e75a7722936e2c7260a100c4232e2751", 
+    "source_url": "http://www.stoa.org/projects/demos/xml_to_do?greekEncoding=UnicodeC"
+}

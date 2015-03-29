@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0203'>  <front> <title>Achieving reliable communication</title> <author initials='R.B.' surname='Kalin' fullname='R.B. Kalin'> <organization /></author> <date year='1971' month='August' /></front>  <seriesInfo name='RFC' value='203' /> <format type='TXT' octets='9253' target='http://www.rfc-editor.org/rfc/rfc203.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "69732e2d9e8dcf4c41573ad62a780443", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0203.xml"
+}

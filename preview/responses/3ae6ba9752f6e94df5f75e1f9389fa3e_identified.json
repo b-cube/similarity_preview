@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"FIPS.186.1994\"> <front> <title>Digital Signature Standard</title> <author> <organization>National Institute of Standards and Technology</organization> </author> <date month=\"May\" year=\"1994\" /> </front>  <seriesInfo name=\"FIPS\" value=\"PUB 186\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3ae6ba9752f6e94df5f75e1f9389fa3e", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.FIPS.186.1994.xml"
+}

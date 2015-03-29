@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/HDF-EOS5/ncml\" ID=\"/opendap/hyrax/HDF-EOS5/ncml/\">             <thredds:catalogRef name=\"Aura_HIRDLS_Level2\" xlink:href=\"Aura_HIRDLS_Level2/catalog.xml\"                           xlink:title=\"Aura_HIRDLS_Level2\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/HDF-EOS5/ncml/Aura_HIRDLS_Level2/\"/>             <thredds:catalogRef name=\"Aura_OMI_Level3\" xlink:href=\"Aura_OMI_Level3/catalog.xml\"                           xlink:title=\"Aura_OMI_Level3\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/HDF-EOS5/ncml/Aura_OMI_Level3/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "858f44184fd1924c4e032830da45bccb", 
+    "source_url": "http://acdisc.gsfc.nasa.gov/opendap/HDF-EOS5/ncml/catalog.xml"
+}

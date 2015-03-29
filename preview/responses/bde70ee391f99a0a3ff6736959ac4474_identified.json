@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../lectures_eg3220.htm\"/>  <o:File HRef=\"image001.wmz\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"oledata.mso\"/>  <o:File HRef=\"image003.wmz\"/>  <o:File HRef=\"image004.gif\"/>  <o:File HRef=\"image005.wmz\"/>  <o:File HRef=\"image006.gif\"/>  <o:File HRef=\"image007.wmz\"/>  <o:File HRef=\"image008.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bde70ee391f99a0a3ff6736959ac4474", 
+    "source_url": "http://www.le.ac.uk/eg/fss1/lectures_eg3220_files/filelist.xml"
+}

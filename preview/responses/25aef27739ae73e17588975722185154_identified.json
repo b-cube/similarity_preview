@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>University of Salford</ShortName>   <Description>Search for University of Salford web content</Description>   <Tags>salford university courses programmes undergraduate postgraduate business research education uk</Tags>   <Image width=\"16\" height=\"16\" type=\"image/png\">http://www.salford.ac.uk/images/common/favicon.png</Image>   <Contact>webmaster@salford.ac.uk</Contact>   <Url type=\"text/html\"         template=\"http://search.salford.ac.uk/search?q={searchTerms}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "25aef27739ae73e17588975722185154", 
+    "source_url": "http://webhost.salford.ac.uk/search.salford.ac.uk/search.xml"
+}

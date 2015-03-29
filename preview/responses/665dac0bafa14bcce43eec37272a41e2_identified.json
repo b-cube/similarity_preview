@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Mineral Science</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/225128\" rel=\"alternate\"/> <subtitle/> <id>http://www.repository.cam.ac.uk:80/handle/1810/225128</id> <updated>2015-03-12T22:02:49Z</updated> <dc:date>2015-03-12T22:02:49Z</dc:date> <entry> <title>FORTRAN routines for the new SQW and PDF modules of GULP and TOBYFIT</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/225173\" rel=\"alternate\"/> <author> <name>Cope, Elizabeth Ruth</name> </author> <id>http://www.repository.cam.ac.uk:80/handle/1810/225173</id> <updated>2011-03-23T11:17:32Z</updated> <published>2010-05-20T00:00:00Z</published> <summary type=\"text\">FORTRAN routines for the new SQW and PDF modules of GULP and TOBYFIT Cope, Elizabeth Ruth A detailed understanding of fundamental material properties can be obtained through the study of atomic vibrations, performed experimentally with neutron scattering techniques and coupled with the two powerful new computational methodologies I have developed. The first approach involves phonon-based simulations of the pair distribution function -- a histogram of localised atomic positions generated experimentally from total scattering data. &#13; Inelastic neutron spectroscopy (INS) allows \\\\emph{direct} study of vibrational modes through their interaction with the neutron beam, and is the experimental basis for the second strand of the new methodology. I have developed new simulation and refinement tools based on the next generation of spectrometers currently being commissioned at the ISIS pulsed neutron source. &#13; &#13; The new methodology also encompasses refinement of interatomic models against powder INS data, and simulated one-phonon coherent INS spectra for the single crystal and powder (the later including approximations to multi-phonon and multiple scatter) fully convolved with experimental resolution functions.  &#13; &#13; The new modules are written in FORTRAN, and represent additions to the current version of GULP (v.3.4) and of TOBYFIT (v.2). Minor modifications (discussed in my thesis) are also necessary to make these two pre-exisiting codes interact properly. This contains the source code for new modules for GULP and TOBYFIT, and is to be used in conjunction with these pre-exisiting codes. </summary> <dc:date>2010-05-20T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "665dac0bafa14bcce43eec37272a41e2", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/atom_1.0/1810/225128"
+}

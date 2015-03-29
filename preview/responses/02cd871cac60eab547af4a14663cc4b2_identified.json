@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>OSF Metadata Library</dc:title>    <dcterms:alternative>OSF Metadata Library</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dcterms:abstract>Office Of Sustainable Fisheries Metadata Library</dcterms:abstract>    <dc:publisher>NMFS Office Of Sustainable Fisheries</dc:publisher>    <dc:creator>NMFS Office Of Sustainable Fisheries</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/10752</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/10752</dcterms:isPartOf> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "02cd871cac60eab547af4a14663cc4b2", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/10752/dublin-core"
+}

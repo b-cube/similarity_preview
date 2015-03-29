@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:owl =\"http://www.w3.org/2002/07/owl#\" xml:base=\"http://gcmdservices.gsfc.nasa.gov/kms/concept/\">    <gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse>    <gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion>    <gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2013-03-19 10:35:29</gcmd:schemeVersion>    <owl:Ontology rdf:about=\"http://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/horizontalresolutionrange?format=owl\">       <owl:imports rdf:resource=\"1499785c-8b74-45f4-bbf7-19d2d4e43b2f\" />       <owl:imports rdf:resource=\"75c9d806-9e29-40f5-b479-4c63c90f77a9\" />       <owl:imports rdf:resource=\"9e5ebee1-3ba2-4522-8d90-7ddf47987581\" />       <owl:imports rdf:resource=\"3b36beea-9637-4213-bdbe-42e878ca14df\" />       <owl:imports rdf:resource=\"6dd8224f-944e-4798-ac48-44c23a567eeb\" />       <owl:imports rdf:resource=\"e2d588c7-76a5-4655-bfaf-bf66874b61c4\" />       <owl:imports rdf:resource=\"abf43d91-a65d-4b3b-a6dd-593e211b2c7b\" />       <owl:imports rdf:resource=\"8d520e8b-e1c6-4c18-bf8a-7a41b006f66f\" />       <owl:imports rdf:resource=\"08e4b31c-0be3-49cd-9374-caac345e7402\" />       <owl:imports rdf:resource=\"437daa1f-f584-4afc-9104-b245f3a3d26d\" />       <owl:imports rdf:resource=\"2207b375-113b-4499-a5a6-0ae6edc2aae8\" />       <owl:imports rdf:resource=\"8d197170-3639-4850-b012-0cae4a288e2b\" />       <owl:imports rdf:resource=\"35a7a6f2-69fe-4ba7-a2b5-91f83f52afb3\" />       <owl:imports rdf:resource=\"c19001e4-dfbf-491b-b6d5-c4d0cee8f2fe\" />       <owl:imports rdf:resource=\"e5c4876e-47b7-4d53-90a2-081a6b150140\" />    </owl:Ontology> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "578feb2ee3217375ee017f43a6579c60", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/horizontalresolutionrange/horizontalresolutionrange.owl"
+}

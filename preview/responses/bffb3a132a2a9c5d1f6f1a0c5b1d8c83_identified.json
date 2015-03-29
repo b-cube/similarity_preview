@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Bathymetric Survey - 1998-06-30 - Milford Haven Approaches to Pembroke Dock</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">ukho.ac.uk:DC:00a4662b-492f-3682-b03d-09c235e2bee6</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">IPR Holder: Milford Haven Port Authority Trust; Purpose: Safety of navigation; IHO Sea: Celtic Sea - 21a; Survey Start: 1998-06-01; Survey End: 1998-06-30; Primary Instrument Type: Echosounder - single beam; Primary Navigation Type: Not Known;</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2010-05-13</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bffb3a132a2a9c5d1f6f1a0c5b1d8c83", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/ukho.ac.uk__MEDIN_2.3__00a4662b-492f-3682-b03d-09c235e2bee6.xml/DC"
+}

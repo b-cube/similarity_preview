@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0378'>  <front> <title>Traffic statistics (July 1972)</title> <author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'> <organization /></author> <date year='1972' month='August' /></front>  <seriesInfo name='RFC' value='378' /> <format type='TXT' octets='5730' target='http://www.rfc-editor.org/rfc/rfc378.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5cd5cec46ce948e00ba928f33277b9c6", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0378.xml"
+}

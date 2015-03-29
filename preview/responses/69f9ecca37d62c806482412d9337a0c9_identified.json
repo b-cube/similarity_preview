@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns:atom=\"http://www.w3.org/2005/Atom\"   xmlns=\"http://purl.org/rss/1.0/\" >  <channel rdf:about=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=BGS-TRAINING&amp;v=1.0\">  <dc:identifier>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=BGS-TRAINING&amp;v=1.0</dc:identifier>  <title>BGS-TRAINING List</title>  <link>https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=BGS-TRAINING</link>  <description>BGS-TRAINING List Archives</description>  <dc:date>2014-09-03T15:20:29Z</dc:date>  <image rdf:resource=\"http://www.lsoft.com/images/listserv_small.gif\"/>    <items>   <rdf:Seq>     <rdf:li resource=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=BGS-TRAINING;34f97fc5.1409\"/>     </rdf:Seq>  </items>   </channel>  <image rdf:about=\"http://www.lsoft.com/images/listserv_small.gif\">     <title>Powered by L-Soft's LISTSERV mailing list manager</title>     <link>http://www.lsoft.com/products/listserv-powered.asp</link>     <url>http://www.lsoft.com/images/listserv_small.gif</url> </image>   <item rdf:about=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=BGS-TRAINING;34f97fc5.1409\">   <title>CALL FOR AUTHORS: The SAGE Encyclopedia on Aging </title>   <link>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=BGS-TRAINING;34f97fc5.1409</link>   <description> CALL FOR AUTHORS: *The SAGE Encyclopedia of Aging: Multidisciplinary&lt;br&gt;Perspectives*&lt;br&gt;&lt;br&gt;We are inviting academic editorial contributors to *The SAGE Encyclopedia&lt;br&gt;of Aging*, a new multivolume reference to be published in 2016. *The SAGE&lt;br&gt;Encyclopedia of Aging* includes approximately 1,700 articles organized A-Z&lt;br&gt;in the following categories:&lt;br&gt;&lt;br&gt;Abuse and Crimes&lt;br&gt;&lt;br&gt;Biological Theories and Processes&lt;br&gt;&lt;br&gt;Biomedical Aspects of Aging&lt;br&gt;&lt;br&gt;Comparisons: International [...]   </description>   <dc:date>2014-09-03T12:08:43-04:00</dc:date>   <dc:creator>Kara Ward</dc:creator>   <dc:identifier>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=BGS-TRAINING;34f97fc5.1409</dc:identifier> </item>   </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "69f9ecca37d62c806482412d9337a0c9", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=BGS-TRAINING&v=1.0"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/EarthProbe_TOMS_Level3/TOMSEPL3zref.008\"                     ID=\"/opendap/hyrax/EarthProbe_TOMS_Level3/TOMSEPL3zref.008/\">             <thredds:dataset name=\"TOMSEPL3zref_19960725_20051213.tar.gz\"                        ID=\"/opendap/hyrax/EarthProbe_TOMS_Level3/TOMSEPL3zref.008/TOMSEPL3zref_19960725_20051213.tar.gz\">          <thredds:dataSize units=\"bytes\">402082</thredds:dataSize>          <thredds:date type=\"modified\">2011-02-24T20:58:02</thredds:date>          <thredds:access serviceName=\"file\"                          urlPath=\"/EarthProbe_TOMS_Level3/TOMSEPL3zref.008/TOMSEPL3zref_19960725_20051213.tar.gz\"/>       </thredds:dataset>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "185dc5524042f45e1782694f440c6d8c", 
+    "source_url": "http://acdisc.gsfc.nasa.gov/opendap/EarthProbe_TOMS_Level3/TOMSEPL3zref.008/catalog.xml"
+}

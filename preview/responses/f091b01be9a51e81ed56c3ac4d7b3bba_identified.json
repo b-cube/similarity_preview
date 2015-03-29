@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"                        xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"> <ShortName>Zenodo</ShortName> <LongName>Zenodo</LongName> <Description>Search on Zenodo</Description> <InputEncoding>UTF-8</InputEncoding> <OutputEncoding>UTF-8</OutputEncoding> <Language>*</Language> <Contact>zenodo-admin@cern.ch</Contact> <Query role=\"example\" searchTerms=\"a\" /> <Developer>Powered by Invenio</Developer> <Url type=\"text/html\" indexOffset=\"1\" rel=\"results\" template=\"/search?p={searchTerms}&amp;jrec={startIndex}&amp;rg={count}&amp;ln={language}\" /> <Url type=\"application/rss+xml\" indexOffset=\"1\" rel=\"results\" template=\"/rss?p={searchTerms}&amp;jrec={startIndex}&amp;rg={count}&amp;ln={language}\" /> <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/opensearchdescription\" /> <moz:SearchForm></moz:SearchForm> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "*", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f091b01be9a51e81ed56c3ac4d7b3bba", 
+    "source_url": "https://zenodo.org/opensearchdescription"
+}

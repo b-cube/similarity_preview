@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.ietf-sip-events\"> <front> <title>SIP-Specific Event Notification</title>  <author initials=\"A\" surname=\"Roach\" fullname=\"Adam Roach\">     <organization /> </author>  <date month=\"March\" day=\"5\" year=\"2002\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-ietf-sip-events-05\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0c381a93f22949b91b4533c1c69a326d", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-sip-events.xml"
+}

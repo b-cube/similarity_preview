@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!-- filename=ims_lip_organisationv1p0.xsd --> <!-- Copyright (c) 2001 IMS Global Learning Consortium --> <!-- 2001-03-15 edited by Thomas Wason --> <!-- Conforms to w3c http://www.w3.org/2000/10/XMLSchema--> <xsd:schema xmlns:xsd=\"http://www.w3.org/2000/10/XMLSchema\" elementFormDefault=\"qualified\" version=\"LIP 1.0 Schema 1.0\">  <xsd:include schemaLocation=\"ims_lip_commonv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_mediav1p0.xsd\"/>  <xsd:element name=\"organization\" type=\"organizationType\">   <xsd:annotation>    <xsd:documentation>The type of the organisation.</xsd:documentation>   </xsd:annotation>  </xsd:element>  <xsd:complexType name=\"organizationType\">   <xsd:sequence>    <xsd:element ref=\"typename\" minOccurs=\"0\"/>    <xsd:element ref=\"description\" minOccurs=\"0\"/>   </xsd:sequence>  </xsd:complexType> </xsd:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d6b3a66c8b835428248185cb7cf46b8b", 
+    "source_url": "http://www.imsglobal.org/xsd/ims_lip_organisationv1p0.xsd"
+}

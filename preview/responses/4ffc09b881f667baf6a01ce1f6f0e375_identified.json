@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-XSLReq-19980511'            target='http://www.w3.org/TR/1998/WD-XSLReq-19980511'> <front> <title>XSL Requirements Summary</title>  <author initials='N.' surname='Walsh' fullname='Norman Walsh'>     <organization /> </author>  <date month='May' day='11' year='1998' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-XSLReq-19980511' /> <format type='HTML' target='http://www.w3.org/TR/1998/WD-XSLReq-19980511' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4ffc09b881f667baf6a01ce1f6f0e375", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-XSLReq-19980511.xml"
+}

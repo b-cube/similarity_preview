@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <?xml-stylesheet href=\"\" type=\"text/css\"?>  <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\" xmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns:rss=\"http://purl.org/rss/1.0/\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\">      <rss:channel rdf:about=\"http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station\">          <rss:title>NDAES </rss:title>         <rss:link>http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station</rss:link>                   <rss:description>NDAES  RSS 1.0 feed.</rss:description>          <rss:image rdf:resource=\"http://www.ag.ndsu.edu/research/logo.png\"/>          <sy:updatePeriod>hourly</sy:updatePeriod>         <sy:updateFrequency>1</sy:updateFrequency>          <rss:items>             <rdf:Seq>                                  <rdf:li rdf:resource=\"http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station/ResearchProfileAndersonVernCREC2013abbreviatedjq2.docx/view\"/>                              </rdf:Seq>         </rss:items>     </rss:channel>      <rss:image rdf:about=\"http://www.ag.ndsu.edu/research/logo.png\">         <rss:title>NDAES </rss:title>         <rss:link>http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station</rss:link>         <rss:url>http://www.ag.ndsu.edu/research/logo.png</rss:url>     </rss:image>            <rss:item rdf:about=\"http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station/ResearchProfileAndersonVernCREC2013abbreviatedjq2.docx/view\">          <rss:title></rss:title>          <rss:link>http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station/ResearchProfileAndersonVernCREC2013abbreviatedjq2.docx/view</rss:link>                                             <dc:date>2013-04-30T13:59:46-05:00</dc:date>          <dcterms:modified>2013-04-30T13:59:46-05:00</dcterms:modified>          <dc:creator>Alisha Nord</dc:creator>                 </rss:item>        </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9cb11e7b7a17db5e17fbd1e7072f7c98", 
+    "source_url": "http://www.ag.ndsu.edu/research/nd-agricultural-experiment-station/feed.rdf"
+}

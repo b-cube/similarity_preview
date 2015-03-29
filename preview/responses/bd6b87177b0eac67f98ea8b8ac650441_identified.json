@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><!DOCTYPE ServiceExceptionReport SYSTEM \"http://www.dassh.ac.uk:80/geoserver/schemas/wms/1.1.1/WMS_exception_1_1_1.dtd\"> <ServiceExceptionReport version=\"1.1.1\" >   <ServiceException>       The requested Style can not be used with this layer.  The style specifies an attribute of supply_lev and the layer is: dassh:shipping_distribution </ServiceException></ServiceExceptionReport>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1.1", 
+        "protocol": "OGC:error", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bd6b87177b0eac67f98ea8b8ac650441", 
+    "source_url": "http://www.dassh.ac.uk/geoserver/dassh/wms?service=WMS&version=1.1.0&request=GetMap&layers=dassh:shipping_distribution&styles=&bbox=-4.424,50.97,-2.323,51.847&width=790&height=330&srs=EPSG:4326&format=application%2Fvnd.google-earth.kmz+xml"
+}

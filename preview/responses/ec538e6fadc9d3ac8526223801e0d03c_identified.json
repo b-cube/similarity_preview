@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/wb8eaaec6b6b02\">     <owl:sameAs rdf:resource=\"urn:uuid:1bb69746-84b4-45c4-8630-fe030e7cda5b\"></owl:sameAs>     <dct:description></dct:description>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/wb8eaaec6b6b02\"></foaf:homepage>     <rdfs:label>wb8eaaec6b6b02</rdfs:label>     <dct:identifier>wb8eaaec6b6b02</dct:identifier>     <dct:title>w\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd2</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://demo.ckan.org/dataset/1bb69746-84b4-45c4-8630-fe030e7cda5b/resource/0c9f707f-7f18-4ab9-a9ee-d2813d631cbc/download/wfilename.csv\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>wfilename.csv</dct:title>             </dcat:Distribution>         </dcat:distribution>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "ec538e6fadc9d3ac8526223801e0d03c", 
+    "source_url": "http://demo.ckan.org/dataset/1bb69746-84b4-45c4-8630-fe030e7cda5b.rdf"
+}

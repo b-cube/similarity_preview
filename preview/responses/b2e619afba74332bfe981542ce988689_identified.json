@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">   <title>Gentoo Packages /package/app-emulation/virtualbox-additions</title>   <icon>http://www.gentoo.org/favicon.ico</icon>   <id>http://packages.gentoo.org/feed/package/app-emulation/virtualbox-additions</id>   <generator uri=\"http://packages.gentoo.org/\">Gentoo Packages2</generator>   <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/app-emulation/virtualbox-additions\" type=\"text/html\"/>   <link rel=\"self\" href=\"http://packages.gentoo.org/feed/package/app-emulation/virtualbox-additions\" type=\"application/atom+xml\"/>   <updated>2015-03-04T23:21:13Z</updated>   <entry>  <title xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\">    <div>         <span class=\"cpvstr\">app-emulation/virtualbox-additions</span>: <span class=\"description\">CD image containing guest additions for VirtualBox</span>       </div>     </title>     <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/app-emulation/virtualbox-additions\" type=\"text/html\"/>     <id>http://packages.gentoo.org/package/app-emulation/virtualbox-additions?ts=2015-03-04T07:07:45Z</id>     <author>       <name>Lars Wendler (polynomial-c)</name>       <uri>http://cia.vc/stats/author/polynomial-c</uri>     </author>     <updated>2015-03-04T07:07:45Z</updated>     <summary xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\"><div>*virtualbox-additions-4.3.24 (04 Mar 2015)<br/>04 Mar 2015; Lars Wendler (<a href=\"http://cia.vc/stats/author/polynomial-c\">polynomial-c</a>) <br/>-<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/app-emulation/virtualbox-additions/virtualbox-additions-4.2.24.ebuild?view=markup\">virtualbox-additions-4.2.24.ebuild</a>, -<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/app-emulation/virtualbox-additions/virtualbox-additions-4.2.26.ebuild?view=markup\">virtualbox-additions-4.2.26.ebuild</a>,<br/>+<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/app-emulation/virtualbox-additions/virtualbox-additions-4.3.24.ebuild?view=markup\">virtualbox-additions-4.3.24.ebuild</a>:<br/>Version bump (bug #<a href=\"https://bugs.gentoo.org/show_bug.cgi?id=540128\">540128</a>). Removed old.</div></summary>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b2e619afba74332bfe981542ce988689", 
+    "source_url": "http://packages.gentoo.org/feed/package/app-emulation/virtualbox-additions"
+}

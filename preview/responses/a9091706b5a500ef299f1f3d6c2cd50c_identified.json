@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns:atom=\"http://www.w3.org/2005/Atom\"   xmlns=\"http://purl.org/rss/1.0/\" >  <channel rdf:about=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=EDINBURGHBELTANE-HUMANITIES&amp;v=1.0\">  <dc:identifier>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=EDINBURGHBELTANE-HUMANITIES&amp;v=1.0</dc:identifier>  <title>EDINBURGHBELTANE-HUMANITIES List</title>  <link>https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=EDINBURGHBELTANE-HUMANITIES</link>  <description>EDINBURGHBELTANE-HUMANITIES List Archives</description>  <dc:date>2015-02-11T15:29:47Z</dc:date>  <image rdf:resource=\"http://www.lsoft.com/images/listserv_small.gif\"/>    <items>   <rdf:Seq>     <rdf:li resource=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=EDINBURGHBELTANE-HUMANITIES;c6672452.1502\"/>     </rdf:Seq>  </items>   </channel>  <image rdf:about=\"http://www.lsoft.com/images/listserv_small.gif\">     <title>Powered by L-Soft's LISTSERV mailing list manager</title>     <link>http://www.lsoft.com/products/listserv-powered.asp</link>     <url>http://www.lsoft.com/images/listserv_small.gif</url> </image>   <item rdf:about=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=EDINBURGHBELTANE-HUMANITIES;c6672452.1502\">   <title>Beltane Network News: February 2015 </title>   <link>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=EDINBURGHBELTANE-HUMANITIES;c6672452.1502</link>   <description> The University of Edinburgh is a charitable body, registered in&lt;br&gt;Scotland, with registration number SC005336.    </description>   <dc:date>2015-02-11T15:08:10+00:00</dc:date>   <dc:creator>REA Heather</dc:creator>   <dc:identifier>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=EDINBURGHBELTANE-HUMANITIES;c6672452.1502</dc:identifier> </item>   </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a9091706b5a500ef299f1f3d6c2cd50c", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=EDINBURGHBELTANE-HUMANITIES&v=1.0"
+}

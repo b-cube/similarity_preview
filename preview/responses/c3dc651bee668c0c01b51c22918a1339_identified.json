@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <jnlp spec=\"1.6+\"   codebase=\"http://app.geomapapp.org/\"   href=\"gma_webstart/GeoMapApp.jnlp\">    <information>       <title>GeoMapApp</title>       <vendor>Lamont-Doherty Earth Observatory of Columbia University</vendor>       <homepage href=\"http://www.geomapapp.org/\"/>       <description>GeoMapApp</description>        <icon href=\"gma_webstart/GMAicon_32x32.png\" width=\"32\" height=\"32\"/>        <icon href=\"gma_webstart/GMAicon_64x64.png\" width=\"64\" height=\"64\"/>        <icon kind=\"splash\" href=\"gma_webstart/GeoMapAppSplash.jpg\"/>       <offline-allowed/>        <shortcut online=\"true\">         <desktop/>       </shortcut>     </information>    <!--    Requests a trusted application enviornment. Virtual Ocean files are signed with a digital signtaure    associated with Columbia University.   -->     <security>       <all-permissions/>    </security>    <update check=\"timeout\" policy=\"always\"/>   <resources>     <j2se href=\"http://java.sun.com/products/autodl/j2se\" version=\"1.6+\" initial-heap-size=\"512m\"               max-heap-size=\"1024m\"/>         <jar href=\"gma_webstart/GeoMapApp.jar\" main=\"true\"/>  <property name=\"sun.java2d.noddraw\" value=\"true\"/>  <!-- <extension name=\"jogl\"                   href=\"http://worldwind.arc.nasa.gov/java/jogl/webstart/jogl.jnlp\"/> -->   </resources>    <application-desc name=\"GeoMapApp\" main-class=\"haxby.map.MapApp\">   </application-desc>      </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c3dc651bee668c0c01b51c22918a1339", 
+    "source_url": "http://app.geomapapp.org/gma_webstart/GeoMapApp.jnlp"
+}

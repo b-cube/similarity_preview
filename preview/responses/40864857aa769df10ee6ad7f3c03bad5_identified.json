@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>The Emergence of the Randomized Controlled Trial: Origins to 1980</dc:title><dc:creator>Bothwell, Laura</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>History of science</dc:subject><dc:subject>Ethics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8K072V0</dc:identifier><dc:description>In received biomedical research wisdom, randomized controlled trials (RCTs) revolutionized post-World War II health research. By blending statistical analysis with the testing of new procedures and interventions, RCTs have enabled investigators to circumvent the influence of a variety of biases on research outcomes so that the effectiveness of interventions can be ascertained with high levels of confidence. While extant literature addresses the epistemological history of RCTs from the scientific community's perspective, the history of public health would be significantly enhanced by a broader, more detailed consideration of social dimensions of RCTs. Similarly, while a plethora of bioethical literature has been written on RCTs and human subject research, we currently lack a historical analysis that considers ethical shifts over time as they relate to RCTs. This dissertation describes the key political, economic, intellectual, and cultural events in the history of RCTs from their origins to 1980 and analyzes how these events influenced RCT norms. I describe the barriers to the implementation of RCTs throughout the late nineteenth and early twentieth centuries--namely the dominance of individualistic ideologies in clinical research and an absence of governmental regulatory or funding structures to require or support RCTs. I then describe how large, multi-site RCTs grew out of a Cold War political environment that supported public investment in scientific structures; how post-WWII research regulations influenced the proliferation of RCTS in the US; how politics and regulations influenced shifts in the demographics of RCT research subjects; and how ethical norms changed over time through interaction with broader ethical shifts and governmental regulations.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "40864857aa769df10ee6ad7f3c03bad5", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A178246.dc_xml"
+}

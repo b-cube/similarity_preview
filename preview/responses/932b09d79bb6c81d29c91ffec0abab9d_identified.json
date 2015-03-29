@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='iso-8859-1'?> <?xml-stylesheet href=\"/mmab/images/paper.xsl\" type=\"text/xsl\" ?>  <document> <number>320</number> <authors> <author>Vladimir M. Krasnopolsky</author> <affiliation>EMC</affiliation> <email>vladimir.krasnopolsky@noaa.gov</email> </authors> <title>NN-TVS, NCEP Neural Network Training and Validation System</title> <additional>NCEP Office Note, 61 pp.</additional> <mmab_note>320</mmab_note> <year>2014</year> <keywords>Neural network, mapping, training</keywords> <status>submitted</status> <abstract>This Note describes neural network (NN) training and validation system (TVS) or NN-TVS developed at NCEP (EMC). Section 1 of this Note is an introductory section.  Section 2 presents a brief NN tutorial containing limited discussion of basic ideas of NN technique and NN features implemented in the NN-TVS system.  Some of the NN features discussed in Section 2 have not yet been implemented in the NN-TVS system and are expected to be implemented in following versions of the system.  Section 3 contains a description of the NN-TVS structure and functional relationships between blocks.  It also describes scripts necessary for running the system on NCEP computers.  Section 4 contains a description of FORTRAN module neural.f90 that can be used to run the trained NN in applications.  Section 5 contains appendixes with information about the data files used in NN-TVS (Appendix 1); also the functions and subroutines constituting the NN-TVS system are listed in Appendix 2.  The text of the FORTRAN module neural.f90 is presented in Appendix 3.  Appendix 4 explains the evaluation statistics that are used in the NN-TVS evaluations of NN training results.</abstract> <link>/mmab/papers/tn320/</link> </document>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "932b09d79bb6c81d29c91ffec0abab9d", 
+    "source_url": "http://polar.ncep.noaa.gov/mmab/papers/tn320/paper.xml"
+}

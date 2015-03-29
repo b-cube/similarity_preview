@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Technology\\ufffd\\ufffd\\ufffds Role In The Nonprofit Sector: Increasing Organizational Effectiveness And Efficiency Through Technology Innovations</dc:title><dc:creator>Boles, Brianna</dc:creator><dc:date>2013</dc:date><dc:type>text</dc:type><dc:subject>Social work</dc:subject><dc:subject>Management</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D88P5Z1B</dc:identifier><dc:description>Increasing technology uptake in the nonprofit sector will allow nonprofit organizations and social workers to provide more effective services through improved work processes. The following paper will discuss how these processes (service delivery, fundraising, and outreach) are carried out in the nonprofit sector given the current technology landscape in nonprofits. I will provide background information about innovations such as cloud computing systems, social media, and mobile technologies that should be incorporated into the nonprofit sector in order to improve the quality of services and work processes. An overview of the barriers that nonprofits face, such as lack of knowledge, lack of resources, and demands by funders, will explain the challenges accompanying increased technology uptake. The final section provides a method to overcome obstacles, allowing the optimal integration of technology into the nonprofit sector.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "98f0e125ca2b0b8b998b5bcbaaafde0b", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A177298.oai_dc_xml"
+}

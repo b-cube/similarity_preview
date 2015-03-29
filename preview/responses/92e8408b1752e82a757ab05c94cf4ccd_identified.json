@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <?xml-stylesheet type=\"text/xsl\" href=\"/software/tools/trunk/svn/repos-web/view/repos.xsl\"?> <!DOCTYPE svn [   <!ELEMENT svn   (index)>   <!ATTLIST svn   version CDATA #REQUIRED                   href    CDATA #REQUIRED>   <!ELEMENT index (updir?, (file | dir)*)>   <!ATTLIST index name    CDATA #IMPLIED                   path    CDATA #IMPLIED                   rev     CDATA #IMPLIED                   base    CDATA #IMPLIED>   <!ELEMENT updir EMPTY>   <!ELEMENT file  EMPTY>   <!ATTLIST file  name    CDATA #REQUIRED                   href    CDATA #REQUIRED>   <!ELEMENT dir   EMPTY>   <!ATTLIST dir   name    CDATA #REQUIRED                   href    CDATA #REQUIRED> ]> <svn version=\"1.6.6 (r40053)\"      href=\"http://subversion.tigris.org/\">   <index rev=\"15356\" path=\"/\" base=\"/\">     <dir name=\"EAB-private\" href=\"EAB-private/\" />     <dir name=\"LT-private\" href=\"LT-private/\" />     <file name=\"README.html\" href=\"README.html\" />     <file name=\"README.txt\" href=\"README.txt\" />     <dir name=\"documents\" href=\"documents/\" />     <file name=\"robots.txt\" href=\"robots.txt\" />     <file name=\"search.html\" href=\"search.html\" />     <file name=\"sitemap.xml\" href=\"sitemap.xml\" />     <dir name=\"software\" href=\"software/\" />     <dir name=\"sysadmin\" href=\"sysadmin/\" />   </index> </svn> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "92e8408b1752e82a757ab05c94cf4ccd", 
+    "source_url": "https://repository.dataone.org/"
+}

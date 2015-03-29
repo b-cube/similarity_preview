@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>2012 </Local-number>  <Title>Fagaloa coastal uses mapping - American Samoa 2012 - Aggregated fishing uses. Aggregated Recreation uses </Title>  <Publication-Date><caldate>2012 </caldate></Publication-Date>  <Extent>2 </Extent>  <Notes>American Samoa Coastal Use Mapping Project. This effort was undertaken as a partnership between multiple agencies including NOAA Pacific Islands Regional Office (PIRO), NOAA Pacific Services Center (PSC), American Samoa Department of Commerce Coastal Management Program (ASCMP), the American Samoa Department of Marine and Wildlife Resources (DMWR) and American Samoa Environmental Protection Agency (ASEPA). FY2011 CRCP Project ID 632, Product ID 329, Old Project 20754; Project Title: AS225 Coastal Use Mapping for MPA Sites; Principal Investigator: Arielle Levine. </Notes>  <Abstract>\"These maps contain cartographic products derived from the American Samoa Coastal Use Mapping project conducted in Pago Pago, American Samoa in July 2012. Data was obtained through a participatory GIS workshop designed to gather spatial data on human uses of the coastal and near shore marine environment in the greater Pago Pago Harbor region known as Fagaloa.\" </Abstract>  <Line-Office>NOAA </Line-Office>  <Date-Time-Last-Modified>20131217000000 </Date-Time-Last-Modified>  <URL>http://www.coris.noaa.gov/activities/projects/asamoa_coastal_map/documents/Aggregated_Maps_11_17.pdf </URL>  <project>  <ID>632 </ID>  <title>AS225 Coastal Use Mapping for MPA Site </title>  <PI>Arielle Levine </PI>  </project>  <Region>AmSam </Region>  <Bounding>  <Eastbc>-167.551612 </Eastbc>  <Westbc>-171.541907 </Westbc>  <Southbc>-15.25183 </Southbc>  <Northbc>-10.207203 </Northbc>  </Bounding>  <CoRIS-Record-Type>misc </CoRIS-Record-Type>  <Local-subject-index>DeepCoral </Local-subject-index>  <Local-subject-index>misc </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "911a5bcbeee40e1806aacad7f5b0769e", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B3F333AC0-89DE-45A7-ACD4-23196E0599C5%7D"
+}

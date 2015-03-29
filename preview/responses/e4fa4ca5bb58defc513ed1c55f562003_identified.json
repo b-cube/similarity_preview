@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0079\">   <front>     <title>Advanced Message Processing</title>     <author initials=\"M.\" surname=\"Miller\" fullname=\"Matthew Miller\">       <organization/>       <address>         <email>linuxwolf@outer-planes.net</email>       </address>     </author>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"30\" month=\"November\" year=\"2005\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0079\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0079.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e4fa4ca5bb58defc513ed1c55f562003", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0079.xml"
+}

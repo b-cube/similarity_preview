@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\">   <service>     <engineName>WordPress</engineName>     <engineLink>http://wordpress.org/</engineLink>     <homePageLink>http://sbe.umaine.edu</homePageLink>     <apis>       <api name=\"WordPress\" blogID=\"1\" preferred=\"true\" apiLink=\"http://sbe.umaine.edu/sbewp/xmlrpc.php\" />       <api name=\"Movable Type\" blogID=\"1\" preferred=\"false\" apiLink=\"http://sbe.umaine.edu/sbewp/xmlrpc.php\" />       <api name=\"MetaWeblog\" blogID=\"1\" preferred=\"false\" apiLink=\"http://sbe.umaine.edu/sbewp/xmlrpc.php\" />       <api name=\"Blogger\" blogID=\"1\" preferred=\"false\" apiLink=\"http://sbe.umaine.edu/sbewp/xmlrpc.php\" />       <api name=\"Atom\" blogID=\"\" preferred=\"false\" apiLink=\"http://sbe.umaine.edu/sbewp/wp-app.php/service\" />     </apis>   </service> </rsd> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d4d08777a1b99e8d0c0cce357f4f43f8", 
+    "source_url": "http://sbe.umaine.edu/sbewp/xmlrpc.php?rsd"
+}

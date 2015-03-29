@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/ahps_gauges/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/atStorms/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/AtStormViewer/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/cpc_weather_hazards/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/epStorms/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/EpStormViewer/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/FOP/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/NDFDTemps/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/QPF/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/RIDGERadar/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/SPC_Outlooks/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/wxmap/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "689d94332ff03f062cefd512fc7ed566", 
+    "source_url": "http://gis.srh.noaa.gov/arcgis/rest/services/?f=geositemap"
+}

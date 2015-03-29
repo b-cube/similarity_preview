@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/10283/722\"> <title>MRC Centre for Inflammation Research</title> <link>http://hdl.handle.net/10283/722</link> <description>A multidisciplinary centre in which clinical and non-clinical scientists prosecute internationally competitive research to identify targets and deliver translational benefits.</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/724\"/> </rdf:Seq> </items> <dc:date>2015-03-19T06:38:30Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/10283/724\"> <title>IgM antibodies exhibit preferential binding to apoptotic and non-apoptotic nucleated cells</title> <link>http://hdl.handle.net/10283/724</link> <description>IgM antibodies exhibit preferential binding to apoptotic and non-apoptotic nucleated cells Data set characterising IgM antibody binding to non-apoptotic, apoptotic and permeable murine/human thymocytes and murine erythrocytes. Methodology used consisted of flow cytometry, confocal and electron microscopy. With the exception of the 'Images.zip' file, the other zip files contain FCS files which are the standard file type used in flow cytometry. Software used in flow cytometry such as FlowJo can be used to open these files (or FCStrans for conversion). </description> <dc:date>2015-03-05T15:12:15Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f01e3f8f79613411423a3b7480f0b671", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/rss_1.0/10283/722"
+}

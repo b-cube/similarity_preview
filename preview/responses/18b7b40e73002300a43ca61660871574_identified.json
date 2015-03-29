@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2014-01-08 12:10:03</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a4a7d30-32af-4e91-bbf5-a6381a6e8d22\"    xml:base=\"http://gcmdstage.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdstage.gsfc.nasa.gov/kms/concepts/concept_scheme/projects\"/>    <skos:prefLabel xml:lang=\"en\">SWAMP</skos:prefLabel>    <skos:altLabel xml:lang=\"en\">Southwest Area Monsoon Project</skos:altLabel>    <skos:definition xml:lang=\"en\"> South-West Area Monsoon Project (SWAMP) focuses on: -measurements of the central Arizona thunderstorm environments -examination of the monsoon structures and moistures fluxes -study of Mexican convective systems  For more information, link to \"http://geography.asu.edu/aztc/swamp.html\"  [Summary provided by Arizona University]   </skos:definition>    <skos:broader rdf:resource=\"4eb1894b-35b4-406b-8864-944a42bc7702\"/> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "18b7b40e73002300a43ca61660871574", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a4a7d30-32af-4e91-bbf5-a6381a6e8d22.rdf.last"
+}

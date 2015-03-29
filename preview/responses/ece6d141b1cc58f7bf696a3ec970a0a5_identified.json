@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/195230\"> <title>Freeze Frame</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/195230</link> <description>Historic polar images</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/221900\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/197543\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/197493\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/197508\"/> </rdf:Seq> </items> <dc:date>2015-03-12T22:05:54Z</dc:date> </channel> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/221900\"> <title>Sir John Franklin</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/221900</link> <description>Sir John Franklin Three-quarter length portrait of Sir John Franklin, seated and holding a                 telescope. </description> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/197543\"> <title>'Alert' Sledge Party making a push for the North Pole</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/197543</link> <description>'Alert' Sledge Party making a push for the North Pole Eight men man hauling a sledge. </description> <dc:date>1876-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/197493\"> <title>Parhelia</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/197493</link> <description>Parhelia Stylised drawing of a parhelia over icebergs.  Whale in sea in foreground. </description> <dc:date>1875-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/197508\"> <title>Finding a coal mine</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/197508</link> <description>Finding a coal mine White, George The lower portion of a cliff standing above a small mountain stream.  The lower twenty five feet is formed of coal and huge blocks of coal strew the bed of the stream. </description> <dc:date>1876-01-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ece6d141b1cc58f7bf696a3ec970a0a5", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/rss_1.0/1810/195230"
+}

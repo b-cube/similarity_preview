@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../roads.htm\"/>  <o:File HRef=\"image001.png\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"image003.png\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"image005.png\"/>  <o:File HRef=\"image006.gif\"/>  <o:File HRef=\"image007.png\"/>  <o:File HRef=\"image008.jpg\"/>  <o:File HRef=\"image009.png\"/>  <o:File HRef=\"image010.jpg\"/>  <o:File HRef=\"image011.png\"/>  <o:File HRef=\"image012.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c442009604b596da93b4a456b575006a", 
+    "source_url": "http://grads.iges.org/ellfb/Mar04/roads/roads_files/filelist.xml"
+}

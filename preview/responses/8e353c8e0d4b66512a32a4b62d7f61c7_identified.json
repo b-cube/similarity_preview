@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <rdf:RDF xmlns=\"http://usefulinc.com/ns/doap#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"><Project><name>backports.lzma</name> <shortdesc>Backport of Python 3.3's 'lzma' module for XZ/LZMA compressed files.</shortdesc> <description>This is a backport of the 'lzma' module included in Python 3.3 or later by Nadeem Vawda and Per Oyvind Karlsen, which provides a Python wrapper for XZ Utils (aka LZMA Utils v2) by Igor Pavlov.  In order to compile this, you will need to install XZ Utils from http://tukaani.org/xz/</description> <homepage rdf:resource=\"https://github.com/peterjc/backports.lzma\" /> <maintainer><foaf:Person><foaf:name>Peter Cock, based on work by Nadeem Vawda and Per Oyvind Karlsen</foaf:name> <foaf:mbox_sha1sum>25e648ee0f550ca12c7254f4b2ab01eb7d68c8e7</foaf:mbox_sha1sum></foaf:Person></maintainer> <release><Version><revision>0.0.3</revision></Version></release> </Project></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8e353c8e0d4b66512a32a4b62d7f61c7", 
+    "source_url": "https://pypi.python.org/pypi?:action=doap&name=backports.lzma&version=0.0.3"
+}

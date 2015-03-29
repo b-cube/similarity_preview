@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>ACA_Member Search</ShortName><Description>Search ACA_Member</Description><Url type=\"text/html\" method=\"get\" template=\"http://www.aca.org/ACA_Prod_IMIS/ACA_Member/Home/ACA_Member/Home.aspx?hkey=08837e63-47fc-4a7a-b9c1-b803481ec936iMIS/ContentManagement/Search.aspx?SearchTerms={searchTerms}\"/><Image>http://www.aca.org/ACA_Prod_IMIS/ACA_Member/Home/ACA_Member/Home.aspx?hkey=08837e63-47fc-4a7a-b9c1-b803481ec936favicon.ico</Image><InputEncoding>UTF-8</InputEncoding><SearchForm>http://www.aca.org/ACA_Prod_IMIS/ACA_Member/Home/ACA_Member/Home.aspx?hkey=08837e63-47fc-4a7a-b9c1-b803481ec936</SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9892ab1fe457ee57726e52fbc06b9e32", 
+    "source_url": "http://www.aca.org/ACA_PROD_IMIS/OpenSearch.aspx"
+}

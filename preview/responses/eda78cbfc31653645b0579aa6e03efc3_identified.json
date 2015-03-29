@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/Dasymetric_WMerc/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_DNC_Landcover/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_MWI_Landcover/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_PAZ_Landcover/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_PitPA_Landcover/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_PME_Landcover/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_TFL_Landcover/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESN_Rare_Ecosystems/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/NHDFlowlines_nolabels/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/PRW_WMerc/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/Reference_BiophysicalData/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/Reference_Boundaries/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "eda78cbfc31653645b0579aa6e03efc3", 
+    "source_url": "http://enviroatlas.epa.gov/arcgis/rest/services/Supplemental?f=geositemap"
+}

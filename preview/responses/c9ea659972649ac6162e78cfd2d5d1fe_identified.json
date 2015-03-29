@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>MYC is a critical target of FBXW7</dc:title><dc:creator>Sato, Mai</dc:creator><dc:creator>Rodriguez-Barrueco, Ruth</dc:creator><dc:creator>Yu, Jiyang</dc:creator><dc:creator>Do, Catherine</dc:creator><dc:creator>Silva, Jose M.</dc:creator><dc:creator>Gautier, Jean</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Biology</dc:subject><dc:subject>Pathology</dc:subject><dc:subject>Genetics</dc:subject><dc:subject>Oncology</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8R21072</dc:identifier><dc:description>MYC deregulation is a driver of many human cancers. Altering the balance of MYC protein levels at the level of transcription, protein stability, or turnover is sufficient to transform cells to a tumorigenic phenotype. While direct targeting of MYC is difficult, specific genetic vulnerabilities of MYC-deregulated cells could be exploited to selectively inhibit their growth. Using a genome-wide shRNA screen, we identified 78 candidate genes, which are required for survival of human mammary epithelial cells with elevated MYC levels. Among the candidates, we validated and characterized FBXW7, a component of the SCF-like ubiquitin ligase complex that targets MYC for proteasomal degradation. Down-regulation of FBXW7 leads to synergistic accumulation of cellular and active chromatin-bound MYC, while protein levels of other FBXW7 targets appear unaffected. Over a four-week time course, continuous FBXW7 down-regulation and MYC activation together cause an accumulation of cells in S-phase and G2/M-phase of the cell cycle. Under these conditions, we also observe elevated chromatin-bound levels of CDC45, suggesting increased DNA replication stress. Consistent with these results, FBXW7 down-regulation alone decreases the survival of T47D breast cancer cells. These results establish that FBXW7 downregulation is synthetic lethal with MYC, and that MYC is a critical target of FBXW7 in breast epithelial cells.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c9ea659972649ac6162e78cfd2d5d1fe", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A183916.dc_xml"
+}

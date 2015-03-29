@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.1016/j.ocecoaman.2014.11.013</dc:identifier><dc:creator>Gari, Sirak Robele </dc:creator><dc:creator>Newton, Alice</dc:creator><dc:creator>Icely, John D. </dc:creator><dc:title>A review of the application and evolution of the DPSIR framework with an emphasis on coastal social-ecological systems</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;  &lt;p&gt;The applications of the Driver-Pressure-State-Impact-Response (DPSIR) framework were reviewed for several Social-Ecological Systems (SES), with an emphasis on the coastal environment. The evolution of DPSIR was traced from the Stress-Response framework to its present form. Discrepancies in the definitions of the DPSIR&amp;#39;s information categories are presented. The application of the framework was explored both as a discrete tool and combined with other methods for different coastal and estuarine systems and biodiversity. The overall merits and limitations of the DPSIR framework are discussed in a critique. Several recommendations are suggested for refining the framework to overcome its limitations. Finally it is concluded that an updated DPSIR framework is a useful adaptive management tool for analyzing and identifying solutions to environmental problems.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-11-22</dc:date><dc:source>http://zenodo.org/record/14826</dc:source><dc:doi>10.1016/j.ocecoaman.2014.11.013</dc:doi><dc:identifier>http://zenodo.org/record/14826</dc:identifier><dc:identifier>oai:zenodo.org:14826</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "15cfc0d630560c2d08ee7cab03ede217", 
+    "source_url": "https://zenodo.org/record/14826/export/xd"
+}

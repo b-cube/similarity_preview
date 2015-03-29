@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Barabas, Michael</a1>   <a2>J\\ufffd\\ufffdhne, Bernd</a2>   <t1>Aufbau und Weiterentwicklung von optischen Verfahren zur Messung von Gasblasen in Wasser; Messungen von Blasendichtespektren in Wind/Wasser-Kan\\ufffd\\ufffdlen in Marseille und Heidelberg</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Diploma thesis on optical measurements of bubbles submerged by breaking waves in wind/wave facilities&lt;/p&gt;</ab>   <la/>   <k1>bubbles;                 wind-wave facility;                 optical measuring technique;                 </k1>   <pb/>   <pp/>   <yr>1985-01-01</yr>   <ed/>   <ul>https://zenodo.org/record/15577/files/Barabas_Diplom1985a.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f8e8518c9272227fd97f95aca41d9405", 
+    "source_url": "http://zenodo.org/record/15577/export/xw"
+}

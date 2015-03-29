@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/280\"> <title>User Group meeting 24th November 2006</title> <link>http://hdl.handle.net/2160/280</link> <description>Items relating to the User Group meeting 24th November 2006</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/290\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/281\"/> </rdf:Seq> </items> <dc:date>2015-03-20T01:25:50Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/290\"> <title>Videos of the DSpace UK&amp;I User Group meeting 24th November 2006</title> <link>http://hdl.handle.net/2160/290</link> <description>Videos of the DSpace UK&amp;I User Group meeting 24th November 2006 Lewis, Stuart; Rutherford, James; Jones, Richard; Brennan, Niamh; Merifield, Mark Presentations from the DSpace UK &amp; Ireland User Group meeting held by videoconference on the 24th November 2006. Presentations available at http://hdl.handle.net/2160/281 </description> <dc:date>2007-01-04T16:57:12Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/281\"> <title>DSpace UK&amp;I User Group meeting 24th November 2006</title> <link>http://hdl.handle.net/2160/281</link> <description>DSpace UK&amp;I User Group meeting 24th November 2006 Lewis, Stuart; Rutherford, James; Jones, Richard; Brennan, Niamh; Merifield, Mark; Lyons, Donal Presentations from the DSpace UK &amp; Ireland User Group meeting held by videoconference on the 24th November 2006. Videos from the event are available at http://cadair.aber.ac.uk/dspace/handle/2160/290 </description> <dc:date>2006-11-24T10:27:33Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "09979ce47293d90c139e9b210c250fa5", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/280"
+}

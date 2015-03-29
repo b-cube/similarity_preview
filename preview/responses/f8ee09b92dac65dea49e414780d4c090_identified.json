@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>Using Omeka to Build Digital Collections: The METRO Case Study</title> <creator>Jason Kucsma</creator> <creator>Kevin Reiss</creator> <creator>Angela Sidman</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">March/April 2010</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/march2010-kucsma</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/march10/kucsma/03kucsma.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>16</volume> <issue>3/4</issue> </relation> <rights>Copyright 2010 Jason Kucsma, Kevin Reiss, and Angela Sidman</rights> </dlib-meta0.1> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f8ee09b92dac65dea49e414780d4c090", 
+    "source_url": "http://www.dlib.org/dlib/march10/kucsma/03kucsma.meta.xml"
+}

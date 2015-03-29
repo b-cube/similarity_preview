@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.48.031'> <front> <title>Location Services (LCS); Serving Mobile Location Centre - Serving Mobile Location Centre (SMLC - SMLC); SMLCPP specification</title> <author><organization>3GPP</organization></author> <date day='01' month='April' year='2011' /> </front>  <seriesInfo name='3GPP TS' value='48.031 10.0.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/48031.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f3704fe38262d2d22952c74012037768", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.48.031.xml"
+}

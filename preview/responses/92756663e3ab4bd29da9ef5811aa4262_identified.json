@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"          xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"          xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"          xmlns:doap=\"http://usefulinc.com/ns/doap#\"          xmlns=\"http://usefulinc.com/ns/doap#\">    <Project rdf:about=\"http://mulgara.org/#project\">      <name>Mulgara</name>     <homepage rdf:resource=\"http://mulgara.org/\" />     <created>2006-05-12</created>     <shortdesc xml:lang=\"en\">       RDF store written in Java.     </shortdesc>     <description xml:lang=\"en\">       Mulgara is an RDF store written in Java.       It aims for flexibility with a plugin architecture for APIs, data handling, and storage.       The default storage tries to scale on a monolithic system, and guarantees data consistency.       The query engine supports federated queries, views, rule entailment, transactions, and efficient property paths.       APIs include Jena, JRDF, Sesame (via the Sesame project), SPARQL, and REST.     </description>      <mailing-list rdf:resource=\"http://mulgara.org/mailman/listinfo/mulgara-general\" />     <maintainer>       <foaf:Person rdf:about=\"http://purl.org/NET/gearon/paul.rdf#me\">         <foaf:name>Paul Gearon</foaf:name>         <foaf:homepage rdf:resource=\"http://gearon.org/\" />       </foaf:Person>     </maintainer>      <mailing-list rdf:resource=\"http://mulgara.org/mailman/listinfo/mulgara-dev\" />     <maintainer>       <foaf:Person>         <foaf:name>Paul Gearon</foaf:name>       </foaf:Person>     </maintainer>      <!-- currently supported versions -->     <release>       <Version>         <created>2009-06-10</created>         <revision>2.1.2</revision>       </Version>     </release>      <!-- Freshmeat tag: -->     <category rdf:resource=\"http://software.freshmeat.net/tags/rdf\" />     <category rdf:resource=\"http://software.freshmeat.net/tags/semantic\" />      <license rdf:resource=\"http://www.opensource.org/licenses/osl-3.0.php\" />      <repository>       <SVNRepository>         <location rdf:resource=\"http://mulgara.org/svn/mulgara/\" />         <browse rdf:resource=\"http://mulgara.org/svn/mulgara/\" />       </SVNRepository>     </repository>    </Project> </rdf:RDF>  ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "92756663e3ab4bd29da9ef5811aa4262", 
+    "source_url": "http://mulgara.org/mulgara.rdf"
+}

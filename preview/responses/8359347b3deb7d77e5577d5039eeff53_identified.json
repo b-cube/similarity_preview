@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.G707.1990\"> <front> <title>Synchronous Digital Hierarchy Bit Rates</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"\" year=\"1990\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation G.707\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8359347b3deb7d77e5577d5039eeff53", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.CCITT.G707.1990.xml"
+}

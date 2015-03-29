@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <?xml-stylesheet href=\"http://www.atomenabled.org/css/atom.css\" type=\"text/css\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">  <icon>http://www.lsoft.com/images/listserv-community.gif</icon> <logo>http://www.lsoft.com/images/listserv_small.gif</logo> <link rel=\"related\" href=\"http://www.lsoft.com/products/listserv-powered.asp\" title=\"Powered by L-Soft's LISTSERV mailing list manager\"/>  <title>MASS-DIGITIZATION List</title> <subtitle>MASS-DIGITIZATION List Archives</subtitle> <link rel=\"alternate\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=MASS-DIGITIZATION\"/> <link rel=\"self\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=MASS-DIGITIZATION&amp;v=ATOM1.0\"/> <id>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=MASS-DIGITIZATION&amp;v=ATOM1.0</id> <div class=\"info\" xmlns=\"http://www.w3.org/1999/xhtml\">This is an Atom formatted XML site feed. It is intended to be viewed in a Newsreader. Alternatively you can view the HTML archives at https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=MASS-DIGITIZATION. </div> <generator uri=\"/cgi-bin/webadmin?DEBUG-SHOW-VERSION\">LISTSERV Web Interface 2.4.1</generator> <updated>2014-06-25T09:35:30Z</updated>   <entry xmlns='http://www.w3.org/2005/Atom'>   <link rel='alternate' href='https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=MASS-DIGITIZATION;14f55396.1406' title='Survey on Budget and Costing of Digitization Projects '/>   <author>      <name>Melissa Terras</name>   </author>   <published>2014-06-25T11:25:06+01:00</published>   <updated>2014-06-25T11:25:06+01:00</updated>   <title>Survey on Budget and Costing of Digitization Projects </title>   <id>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=MASS-DIGITIZATION;14f55396.1406</id>   <content type='html'>Dear Mass Digitization List,&lt;br&gt;&lt;br&gt;I&apos;m undertaking some research into how Heritage organisations budget and&lt;br&gt;plan digitization projects, and in particular, I&apos;m looking for insights and&lt;br&gt;guidance on areas people tend to under-cost, or aspects of projects that&lt;br&gt;institutions should pay particular attention to when putting project plans&lt;br&gt;together.&lt;br&gt;&lt;br&gt;I&apos;ve put together a short survey to collect any advice you would have for&lt;br&gt;those about to plan and budget digitization projects, and I would&lt;br&gt;appreciate any input you had: https://opinio.ucl.ac.uk/s?s=31273 [...] </content> </entry>  </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ad3358dbe6aa8201d5972cae95566515", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=MASS-DIGITIZATION&v=ATOM1.0"
+}

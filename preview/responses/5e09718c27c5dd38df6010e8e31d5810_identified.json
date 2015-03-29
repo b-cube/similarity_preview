@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://maritimeboundaries.noaa.gov/arcgis/rest/services/StoryMap/Barataria_and_Terrebonne_Bays_Ship_Traffic/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://maritimeboundaries.noaa.gov/arcgis/rest/services/StoryMap/Barataria_Bay_1959/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://maritimeboundaries.noaa.gov/arcgis/rest/services/StoryMap/Barataria_Bay_2013/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5e09718c27c5dd38df6010e8e31d5810", 
+    "source_url": "http://maritimeboundaries.noaa.gov/arcgis/rest/services/StoryMap?f=geositemap"
+}

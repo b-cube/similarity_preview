@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"          xmlns:digest=\"http://www.wizards-toolkit.org/digest/1.0/\">   <digest:Content rdf:about=\"ImageMagick-6.9.0-10.src.rpm\">     <digest:timestamp>2015-03-06T20:42:08-05:00</digest:timestamp>     <digest:modify-date>2015-03-06T17:52:26-05:00</digest:modify-date>     <digest:create-date>2015-03-06T17:52:26-05:00</digest:create-date>     <digest:extent>10095089</digest:extent>     <digest:sha256>490af5774a40a5d2ebebd6b13ac4a4776f2cb60dd34221ebed7cbbc827737a2d</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"ImageMagick.src.rpm\">     <digest:timestamp>2015-03-06T20:42:08-05:00</digest:timestamp>     <digest:modify-date>2015-03-06T17:52:26-05:00</digest:modify-date>     <digest:create-date>2015-03-06T17:52:26-05:00</digest:create-date>     <digest:extent>10095089</digest:extent>     <digest:sha256>490af5774a40a5d2ebebd6b13ac4a4776f2cb60dd34221ebed7cbbc827737a2d</digest:sha256>   </digest:Content> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9395d69fed3f1d37ea9e6edc1a004cc5", 
+    "source_url": "http://www.imagemagick.org/download/linux/SRPMS/digest.rdf"
+}

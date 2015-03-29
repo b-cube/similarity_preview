@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Clobridge, Abby</author>           <author>Rodrigues, Eloy</author>         </authors>       </contributors>       <titles>         <title>El caso de Interoperabilidad para Repositorios de Acceso Abierto</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12563</doi>       <pages/>       <volume/>       <number>doi</number>       <keywords>         <keyword>Acceso Abierto</keyword>         <keyword>Interoperabilidad</keyword>         <keyword>Repositorios</keyword>       </keywords>       <dates>         <year>2011</year>         <pub-dates>           <date>2011-07-08</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Los Repositorios de Acceso Abierto, cuyo nombre ha ido en aumento, son un componente importante de la infraestructura de e-investigaci&amp;oacute;n. El valor real de los repositorios recae en el potencial de interconexi&amp;oacute;n para crear una red de repositorios, una red que puede proveer un acceso unificado a los resultados de la investigaci&amp;oacute;n y son (re-) utilizados por las m&amp;aacute;quinas y los investigadores.&lt;br /&gt;     Sin embargo, para lograr este potencial, necesitamos interoperabilidad. El prop&amp;oacute;sito de este documento es proporcionar un visi&amp;oacute;n general de alto nivel de interoperabilidad de los Repositorios de Acceso Abierto, identificar los principales problemas y retos que deben abordarse, estimular la participaci&amp;oacute;n de la comunidad repositorio y poner en marcha un proceso que dirija a la creaci&amp;oacute;n de una hoja de ruta para la interoperabilidad del repositorio.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "96e7846f6ea6d167cc0a008af841abad", 
+    "source_url": "https://zenodo.org/record/12563/export/xe"
+}

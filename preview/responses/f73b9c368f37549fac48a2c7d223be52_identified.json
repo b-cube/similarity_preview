@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.04.11'> <front> <title>Point-to-Point  (PP) Short Message Service (SMS) Support on Mobile Radio Interface</title> <author><organization>3GPP</organization></author> <date day='01' month='January' year='1995' /> </front>  <seriesInfo name='3GPP TS' value='04.11 3.3.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0411.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f73b9c368f37549fac48a2c7d223be52", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.04.11.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>SEG Search</ShortName><Description>Search SEG</Description><Url type=\"text/html\" method=\"get\" template=\"http://www.segweb.org/SEG/Home/SEG/default.aspx?hkey=321313be-a444-45de-aa3d-31e4d7e4aa0biMIS/ContentManagement/Search.aspx?SearchTerms={searchTerms}\"/><Image>http://www.segweb.org/SEG/Home/SEG/default.aspx?hkey=321313be-a444-45de-aa3d-31e4d7e4aa0bfavicon.ico</Image><InputEncoding>UTF-8</InputEncoding><SearchForm>http://www.segweb.org/SEG/Home/SEG/default.aspx?hkey=321313be-a444-45de-aa3d-31e4d7e4aa0b</SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b4b118ee5aefe0092e4fd1fbe9d94912", 
+    "source_url": "https://www.segweb.org/OpenSearch.aspx"
+}

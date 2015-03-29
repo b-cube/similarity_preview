@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?> <?xml-stylesheet type='text/xsl' href='/static/stylesheets/oai2.xsl'?><OAI-PMH xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd\"><responseDate>2015-03-19T22:52:24Z</responseDate><request>http://ezid.cdlib.org/oai</request><error code=\"badVerb\">no verb or multiple verbs</error></OAI-PMH>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": true, 
+        "version": "", 
+        "protocol": "OAI-PMH", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ee938c692a1dd54f62eed26899f16f70", 
+    "source_url": "http://ezid.cdlib.org/oai"
+}

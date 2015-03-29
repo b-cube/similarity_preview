@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi type=\"zip\">     <location name=\"73162\">       <cdi>1</cdi>       <nresp>1</nresp>       <dist>86</dist>       <lat>35.5808656078</lat>       <lon>-97.6415225426</lon>       <name>Oklahoma City</name>       <state>OK</state>     </location>     <location name=\"74023\">       <cdi>3.6008</cdi>       <nresp>18</nresp>       <dist>7</dist>       <lat>35.9970321702</lat>       <lon>-96.737107477</lon>       <name>Cushing</name>       <state>OK</state>     </location>     <location name=\"74074\">       <cdi>2.6912</cdi>       <nresp>1</nresp>       <dist>29</dist>       <lat>36.0759277283</lat>       <lon>-97.0995974939</lon>       <name>Stillwater</name>       <state>OK</state>     </location>     <location name=\"75230\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>339</dist>       <lat>32.9023498342</lat>       <lon>-96.7926991418</lon>       <name>Dallas</name>       <state>TX</state>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b0f7d0886817ce02328b815d6eaf7602", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/c000tu3p/us/cdi_zip.xml"
+}

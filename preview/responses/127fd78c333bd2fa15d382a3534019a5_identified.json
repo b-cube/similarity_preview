@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-county-boundary\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-county-boundary</id><updated>2015-03-19T09:00:27Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "127fd78c333bd2fa15d382a3534019a5", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-county-boundary?days=14&format=atom"
+}

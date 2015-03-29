@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Uncertainty in paleohydrologic reconstructions from molecular \\ufffd\\ufffdD values</dc:title><dc:creator>Polissar, Pratigya Jeremy</dc:creator><dc:creator>D'Andrea, William Joseph</dc:creator><dc:date>2013</dc:date><dc:type>text</dc:type><dc:subject>Paleoclimate science</dc:subject><dc:subject>Hydrologic sciences</dc:subject><dc:subject>Geochemistry</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8JW8C0J</dc:identifier><dc:description>Compound-specific \\ufffd\\ufffdD measurements can be used for quantitative estimation of source water \\ufffd\\ufffdD values, a useful tracer for paleohydrologic changes. Such estimates have quantifiable levels of uncertainty that are often miscalculated, resulting in inaccurate error reporting in the scientific literature that can impact paleohydrologic interpretations. Here, we summarize the uncertainties inherent to molecular \\ufffd\\ufffdD measurements and the quantification of source water \\ufffd\\ufffdD values, and discuss the assumptions involved when omitting various sources of uncertainty. Using standard protocols from measurement science, we derive the equations necessary to quantify these various sources of uncertainty. We show that analytical uncertainty is usually improperly estimated and that after apparent fractionation between \\ufffd\\ufffdD values of source water and molecule, normalization of data to the VSMOW scale introduces the largest amount of uncertainty. Lastly, to facilitate systematic error reporting we provide an Uncertainty Calculator spreadsheet to conveniently calculate uncertainty in \\ufffd\\ufffdD measurements.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "272b8f510cb75e86b257ff87e926e3ce", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A174886.xml"
+}

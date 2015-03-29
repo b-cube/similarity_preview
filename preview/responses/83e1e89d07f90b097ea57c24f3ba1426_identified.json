@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <?xml-stylesheet href=\"http://www.atomenabled.org/css/atom.css\" type=\"text/css\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">  <icon>http://www.lsoft.com/images/listserv-community.gif</icon> <logo>http://www.lsoft.com/images/listserv_small.gif</logo> <link rel=\"related\" href=\"http://www.lsoft.com/products/listserv-powered.asp\" title=\"Powered by L-Soft's LISTSERV mailing list manager\"/>  <title>DIGITISATION-HAGUE-2009 List</title> <subtitle>DIGITISATION-HAGUE-2009 List Archives</subtitle> <link rel=\"alternate\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=DIGITISATION-HAGUE-2009\"/> <link rel=\"self\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=DIGITISATION-HAGUE-2009&amp;v=ATOM1.0\"/> <id>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=DIGITISATION-HAGUE-2009&amp;v=ATOM1.0</id> <div class=\"info\" xmlns=\"http://www.w3.org/1999/xhtml\">This is an Atom formatted XML site feed. It is intended to be viewed in a Newsreader. Alternatively you can view the HTML archives at https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=DIGITISATION-HAGUE-2009. </div> <generator uri=\"/cgi-bin/webadmin?DEBUG-SHOW-VERSION\">LISTSERV Web Interface 2.4.1</generator> <updated>2014-06-11T15:52:47Z</updated>   <entry xmlns='http://www.w3.org/2005/Atom'>   <link rel='alternate' href='https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=DIGITISATION-HAGUE-2009;ca7564d9.1406' title='Important information about DIGITISATION-HAGUE-2009 mailing list '/>   <author>      <name>JiscMail Helpline</name>   </author>   <published>2014-06-11T17:51:54+01:00</published>   <updated>2014-06-11T17:51:54+01:00</updated>   <title>Important information about DIGITISATION-HAGUE-2009 mailing list </title>   <id>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=DIGITISATION-HAGUE-2009;ca7564d9.1406</id>   <content type='html'>This is a message from JiscMail Helpline to all subscribers of the DIGITISATION-HAGUE-2009 mailing list.&lt;br&gt;&lt;br&gt;The list has not been used for over 3 years. We have contacted the people who run the list (list owners) to decide on the future of the list, but have not received a response.&lt;br&gt;&lt;br&gt;We plan to close and RETAIN the list **w/c 7th July 2014** [...]</content> </entry>  </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "83e1e89d07f90b097ea57c24f3ba1426", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=DIGITISATION-HAGUE-2009&v=ATOM1.0"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/10283/617\"> <title>An N-body simulation of M4</title> <link>http://hdl.handle.net/10283/617</link> <description>This repository contains datasets from a large N-body simulation of the globular cluster M4.  Snapshots giving a full list of data for all particles (mass, position, velocity, stellar type, stellar radius, V magnitude, B-V colour) are given at almost 400 instants in the lifetime of the model.  The simulation is described in the paper \"Towards an N-body model of the globular cluster M4\", submitted to MNRAS.</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/618\"/> </rdf:Seq> </items> <dc:date>2015-03-19T23:01:26Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/10283/618\"> <title>Snapshots of an N-body model of M4</title> <link>http://hdl.handle.net/10283/618</link> <description>Snapshots of an N-body model of M4 326 snapshots of an N-body model of the Galactic globular cluster M4.  Each snapshot consists of a list of all the particles in the simulation at one time. </description> <dc:date>2014-09-04T09:28:57Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c69c7e5e8079c8c113b56909dee80f2a", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/rss_1.0/10283/617"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/bathy_hillshade/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/clipping_donut/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/graticule/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/gshhs/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/ibcao_contours/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/multibeam/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/sample_index/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic/world_reference_map/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "28d0fd774e51a70ca4b68f20e7723378", 
+    "source_url": "http://maps.ngdc.noaa.gov/arcgis/rest/services/arctic?f=geositemap"
+}

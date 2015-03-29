@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.X519.1993\"> <front> <title>Information Technology - Open Systems Interconnection - The Directory: Protocol Specifications</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"\" year=\"1993\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation X.519\" /> <seriesInfo name=\"ISO\" value=\"Standard 9594-5\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5d8a24ddf4ea1be1b46b14fc7ade84ea", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.X519.1993.xml"
+}

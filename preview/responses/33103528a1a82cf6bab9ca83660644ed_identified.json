@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0343'>  <front> <title>IMP System change notification</title> <author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'> <organization /></author> <date year='1972' month='May' /></front>  <seriesInfo name='RFC' value='343' /> <format type='TXT' octets='3370' target='http://www.rfc-editor.org/rfc/rfc343.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "33103528a1a82cf6bab9ca83660644ed", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0343.xml"
+}

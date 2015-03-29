@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>City of Boston</ShortName>   <Description>Data | City of Boston</Description>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://data.cityofboston.gov/stylesheets/images/common/favicon.ico</Image>   <Url type=\"text/html\" method=\"get\" template=\"http://data.cityofboston.gov/browse?q={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7c4777af139152205e392e3978bd9e6f", 
+    "source_url": "https://data.cityofboston.gov/opensearch.xml"
+}

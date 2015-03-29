@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0061\">   <front>     <title>Shared Notes</title>     <author initials=\"J.\" surname=\"Miller\" fullname=\"Jeremie Miller\">       <organization/>       <address>         <email>jer@jabber.org</email>       </address>     </author>     <date day=\"30\" month=\"September\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0061\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0061.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c507e0bac1c70100e5c5fac52dedb4c5", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0061.xml"
+}

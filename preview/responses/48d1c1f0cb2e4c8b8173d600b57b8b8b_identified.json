@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-blueprint-denver-concept-land-use\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-blueprint-denver-concept-land-use</id><updated>2015-03-08T13:29:21Z</updated><entry><title>REST API: Update object city-and-county-of-denver-blueprint-denver-concept-land-use</title><link href=\"/revision/52868d0f-da22-4ccc-b569-6761253688ad\" rel=\"alternate\"></link><updated>2015-03-08T13:29:21Z</updated><published>2015-03-08T13:29:21Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/52868d0f-da22-4ccc-b569-6761253688ad</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-blueprint-denver-concept-land-use</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-blueprint-denver-concept-land-use</title><link href=\"/revision/7ed03a88-e8cb-4bcd-972a-9cf93ce88fed\" rel=\"alternate\"></link><updated>2015-03-08T13:29:07Z</updated><published>2015-03-08T13:29:07Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/7ed03a88-e8cb-4bcd-972a-9cf93ce88fed</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-blueprint-denver-concept-land-use</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-blueprint-denver-concept-land-use</title><link href=\"/revision/8f57ec8c-081c-4e52-8e47-d49c76860f07\" rel=\"alternate\"></link><updated>2015-03-08T13:11:52Z</updated><published>2015-03-08T13:11:52Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/8f57ec8c-081c-4e52-8e47-d49c76860f07</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-blueprint-denver-concept-land-use</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-blueprint-denver-concept-land-use</title><link href=\"/revision/11a9e64e-02f1-4342-ac84-e0e87c9943b2\" rel=\"alternate\"></link><updated>2015-03-08T13:11:38Z</updated><published>2015-03-08T13:11:38Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/11a9e64e-02f1-4342-ac84-e0e87c9943b2</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-blueprint-denver-concept-land-use</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "48d1c1f0cb2e4c8b8173d600b57b8b8b", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-blueprint-denver-concept-land-use?days=14&format=atom"
+}

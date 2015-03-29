@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Campus Services</title> <link href=\"http://hdl.handle.net/1853/49636\" rel=\"alternate\"/> <subtitle>Georgia Tech Campus Services</subtitle> <id>http://hdl.handle.net/1853/49636</id> <updated>2015-03-06T08:31:38Z</updated> <dc:date>2015-03-06T08:31:38Z</dc:date> <entry> <title>Campus Services Executive Briefing 2012</title> <link href=\"http://hdl.handle.net/1853/49638\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/49638</id> <updated>2013-11-28T08:31:46Z</updated> <published>2013-01-01T00:00:00Z</published> <summary type=\"text\">Campus Services Executive Briefing 2012 </summary> <dc:date>2013-01-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d31b1069af1dec2d7d4a42bab46d1a09", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/49636"
+}

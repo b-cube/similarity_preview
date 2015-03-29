@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\" xmlns:burst=\"http://xmlns.com/burst/0.1/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:admin=\"http://webns.net/mvcb/\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns:swrc=\"http://swrc.ontoware.org/ontology#\" xmlns:cc=\"http://web.resource.org/cc/\"><channel rdf:about=\"http://www.bibsonomy.org/url/872bd1a185634bcbec7f6e04413d7c61/yish\"><title>BibSonomy publications for /url/872bd1a185634bcbec7f6e04413d7c61/yish</title><link>http://www.bibsonomy.org/url/872bd1a185634bcbec7f6e04413d7c61/yish</link><description>BibSonomy RSS feed for /url/872bd1a185634bcbec7f6e04413d7c61/yish</description><dc:date>2015-03-12T08:58:05+01:00</dc:date><items><rdf:Seq></rdf:Seq></items></channel></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "63badce49bc9df5c1372082acf99d743", 
+    "source_url": "http://www.bibsonomy.org/burst/url/872bd1a185634bcbec7f6e04413d7c61/yish?.entriesPerPage=10"
+}

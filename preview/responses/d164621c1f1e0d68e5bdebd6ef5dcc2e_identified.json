@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"><ShortName>XdmfWeb (en)</ShortName><Description>XdmfWeb (en)</Description><Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://www.xdmf.org/favicon.ico</Image><Url type=\"text/html\" method=\"get\" template=\"http://www.xdmf.org/index.php?title=Special:Search&amp;search={searchTerms}\" /><Url type=\"application/x-suggestions+json\" method=\"get\" template=\"http://www.xdmf.org/api.php?action=opensearch&amp;search={searchTerms}&amp;namespace=0\" /><moz:SearchForm>http://www.xdmf.org/index.php/Special:Search</moz:SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d164621c1f1e0d68e5bdebd6ef5dcc2e", 
+    "source_url": "http://www.xdmf.org/opensearch_desc.php"
+}

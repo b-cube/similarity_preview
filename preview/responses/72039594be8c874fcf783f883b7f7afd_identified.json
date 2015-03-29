@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <Map srs=\"+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs\">  <Layer srs=\"+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs\">  </Layer> </Map>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "72039594be8c874fcf783f883b7f7afd", 
+    "source_url": "http://spatialreference.org/ref/epsg/4326/mapnik/"
+}

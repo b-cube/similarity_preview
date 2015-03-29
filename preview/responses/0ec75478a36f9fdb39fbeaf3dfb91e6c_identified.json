@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.25.935'> <front> <title>RRM optimisation</title> <author><organization>3GPP</organization></author> <date day='25' month='March' year='2002' /> </front>  <seriesInfo name='3GPP TR' value='25.935 4.1.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/25935.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0ec75478a36f9fdb39fbeaf3dfb91e6c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.25.935.xml"
+}

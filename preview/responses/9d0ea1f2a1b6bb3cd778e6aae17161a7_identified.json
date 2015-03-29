@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/NAT_Species_Ancillary/Hucs_All/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/NAT_Species_Ancillary/NAT_Boundaries_LCC/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9d0ea1f2a1b6bb3cd778e6aae17161a7", 
+    "source_url": "http://gis1.usgs.gov/arcgis/rest/services/NAT_Species_Ancillary?f=geositemap"
+}

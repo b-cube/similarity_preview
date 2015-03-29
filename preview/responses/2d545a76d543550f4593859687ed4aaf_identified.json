@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.NOTE-TVWeb-URI-Requirements-19991021'            target='http://www.w3.org/TR/1999/NOTE-TVWeb-URI-Requirements-19991021'> <front> <title>TV Broadcast URI Schemes Requirements</title>  <author initials='W.' surname='Kate' fullname='Warner ten Kate'>     <organization /> </author>  <date month='October' day='21' year='1999' /> </front>  <seriesInfo name='World Wide Web Consortium NOTE' value='NOTE-TVWeb-URI-Requirements-19991021' /> <format type='HTML' target='http://www.w3.org/TR/1999/NOTE-TVWeb-URI-Requirements-19991021' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2d545a76d543550f4593859687ed4aaf", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-TVWeb-URI-Requirements-19991021.xml"
+}

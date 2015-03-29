@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Xhagjika, Vamis</a1>   <a2>Vlassov, Vladimir</a2>   <a2>Molin, Magnus</a2>   <a2>Toma, Simona</a2>   <t1>Structured Cloud Federation for Carrier and ISP Infrastructure</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Cloud Computing in recent years has seen enhanced growth and extensive support by the research community and industry. The advent of cloud computing realized the concept of commodity computing, in which infrastructure (resources) can be allocated on demand giving the illusion of infinite resource availability. The state-of-art Carrier and ISP infrastructure technology is composed of tightly coupled software services with the underlying customized hardware architecture. The fast growth of cloud computing as a vastly consolidated and stabilized technology is appealing to Carrier Providers in order to reduce Carrier deployment costs and enable a future of Carrier Clouds with easily accessible virtual carriers. For such migration to happen software services need to be generalized, to decouple hardware and software, and prepared to move into the Cloud. The network backbone is centrally managed and only provides network connectivity. We believe this presents an opportunity. The edges of such networks and the core are interconnected with high performance links. If services could be deployed in these edges they would benefit from enhanced locality to the user. In this position paper we propose a distributed cloud architecture (precisely a structured multi-cloud federated infrastructure), with minimal impact on existing infrastructure, as a first step to incorporate the Cloud into the network infrastructure of such providers, enabling and enhancing novel and existing applications.&lt;/p&gt;</ab>   <la/>   <k1>cloud computing;                 </k1>   <pb/>   <pp/>   <yr>2014-10-08</yr>   <ed/>   <ul>http://www.ieee-cloudnet.org/2014/;  https://zenodo.org/record/14986/files/paper_cloudnet_2014_vamis_xhagjika.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "336ac0c520f38460a9a903fc9cdad019", 
+    "source_url": "https://zenodo.org/record/14986/export/xw"
+}

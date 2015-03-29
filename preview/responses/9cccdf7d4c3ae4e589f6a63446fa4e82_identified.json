@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://maritimeboundaries.noaa.gov/arcgis/rest/services/public_wrecks/Wrecks_And_Obstructions/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9cccdf7d4c3ae4e589f6a63446fa4e82", 
+    "source_url": "http://maritimeboundaries.noaa.gov/arcgis/rest/services/public_wrecks?f=sitemap"
+}

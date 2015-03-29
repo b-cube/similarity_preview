@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <assessmentItem xmlns=\"http://www.imsglobal.org/xsd/imsqti_v2p1\"  xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"  xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imsqti_v2p1  http://www.imsglobal.org/xsd/qti/qtiv2p1/imsqti_v2p1.xsd\"  identifier=\"order\" title=\"Grand Prix of Bahrain\" adaptive=\"false\" timeDependent=\"false\">  <responseDeclaration identifier=\"RESPONSE\" cardinality=\"ordered\" baseType=\"identifier\">   <correctResponse>    <value>DriverC</value>    <value>DriverA</value>    <value>DriverB</value>   </correctResponse>  </responseDeclaration>  <outcomeDeclaration identifier=\"SCORE\" cardinality=\"single\" baseType=\"float\"/>  <itemBody>   <orderInteraction responseIdentifier=\"RESPONSE\" shuffle=\"true\">    <prompt>The following F1 drivers finished on the podium in the first ever Grand Prix of     Bahrain. Can you rearrange them into the correct finishing order?</prompt>    <simpleChoice identifier=\"DriverA\">Rubens Barrichello</simpleChoice>    <simpleChoice identifier=\"DriverB\">Jenson Button</simpleChoice>    <simpleChoice identifier=\"DriverC\" fixed=\"true\">Michael Schumacher</simpleChoice>   </orderInteraction>  </itemBody>  <responseProcessing   template=\"http://www.imsglobal.org/question/qti_v2p1/rptemplates/match_correct\"/> </assessmentItem> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5ed880a3ffc8f635e1d4182a10f4529e", 
+    "source_url": "http://www.imsglobal.org/question/qtiv2p1/examples/items/order.xml"
+}

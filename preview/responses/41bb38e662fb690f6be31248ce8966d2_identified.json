@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0128'>  <front> <title>Bytes</title> <author initials='J.' surname='Postel' fullname='J. Postel'> <organization /></author> <date year='1971' month='April' /></front>  <seriesInfo name='RFC' value='128' /> <format type='TXT' octets='2745' target='http://www.rfc-editor.org/rfc/rfc128.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "41bb38e662fb690f6be31248ce8966d2", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0128.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for Gene Masjien: Die Lak Operon -->  <jnlp spec=\"1.0+\" codebase=\"http://phet.colorado.edu/sims/gene-network\" href=\"gene-machine-lac-operon_af.jnlp\">      <information>          <title>Gene Masjien: Die Lak Operon</title>          <vendor>University of Colorado, Department of Physics</vendor>          <description>@PROJECT.DESCRIPTION@</description>          <description kind=\"short\">The Gene Masjien: Die Lak Operon Simulation</description>          <offline-allowed/>      </information>      <resources>          <j2se version=\"1.4+\"/>          <property name=\"javaws.phet.locale\" value=\"af\" /> <property name=\"javaws.user.language\" value=\"af\" />          <jar href=\"gene-network_all.jar\"/>      </resources>            <application-desc main-class=\"edu.colorado.phet.genenetwork.LacOperonApplication\">                </application-desc>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5e0539f4302930c81a609ccbae3a12a8", 
+    "source_url": "http://phet.colorado.edu/sims/gene-network/gene-machine-lac-operon_af.jnlp"
+}

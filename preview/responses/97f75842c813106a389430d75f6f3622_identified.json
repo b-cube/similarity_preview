@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Georgia Tech Foundation</title> <link href=\"http://hdl.handle.net/1853/36521\" rel=\"alternate\"/> <subtitle>The Georgia Tech Foundation of Georgia Institute of Technology</subtitle> <id>http://hdl.handle.net/1853/36521</id> <updated>2015-03-06T08:30:35Z</updated> <dc:date>2015-03-06T08:30:35Z</dc:date> <entry> <title>Georgia Tech Foundation Annual Report 2013</title> <link href=\"http://hdl.handle.net/1853/52719\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52719</id> <updated>2014-10-28T07:31:36Z</updated> <published>2013-01-01T00:00:00Z</published> <summary type=\"text\">Georgia Tech Foundation Annual Report 2013 </summary> <dc:date>2013-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Georgia Tech Foundation Annual Report 2012</title> <link href=\"http://hdl.handle.net/1853/45532\" rel=\"alternate\"/> <author> <name>Georgia Tech Foundation, Inc.</name> </author> <id>http://hdl.handle.net/1853/45532</id> <updated>2012-12-13T08:33:05Z</updated> <published>2012-01-01T00:00:00Z</published> <summary type=\"text\">Georgia Tech Foundation Annual Report 2012 Georgia Tech Foundation, Inc. </summary> <dc:date>2012-01-01T00:00:00Z</dc:date> <dc:creator>Georgia Tech Foundation, Inc.</dc:creator> </entry> <entry> <title>Georgia Tech Foundation Annual Report 2011</title> <link href=\"http://hdl.handle.net/1853/44667\" rel=\"alternate\"/> <author> <name>Georgia Tech Foundation, Inc.</name> </author> <id>http://hdl.handle.net/1853/44667</id> <updated>2012-09-18T07:32:48Z</updated> <published>2011-01-01T00:00:00Z</published> <summary type=\"text\">Georgia Tech Foundation Annual Report 2011 Georgia Tech Foundation, Inc. </summary> <dc:date>2011-01-01T00:00:00Z</dc:date> <dc:creator>Georgia Tech Foundation, Inc.</dc:creator> </entry> <entry> <title>Georgia Tech Foundation Annual Report 2010</title> <link href=\"http://hdl.handle.net/1853/44666\" rel=\"alternate\"/> <author> <name>Georgia Tech Foundation, Inc.</name> </author> <id>http://hdl.handle.net/1853/44666</id> <updated>2012-09-18T07:32:48Z</updated> <published>2010-01-01T00:00:00Z</published> <summary type=\"text\">Georgia Tech Foundation Annual Report 2010 Georgia Tech Foundation, Inc. </summary> <dc:date>2010-01-01T00:00:00Z</dc:date> <dc:creator>Georgia Tech Foundation, Inc.</dc:creator> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "97f75842c813106a389430d75f6f3622", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/36521"
+}

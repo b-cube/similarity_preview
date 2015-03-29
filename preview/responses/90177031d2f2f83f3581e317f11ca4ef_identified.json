@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <vocabulary id=\"content_type\"> <terms> <term> <id>animation</id> </term> <term> <id>collection</id> <description>a compilation of non-original data.</description> </term> <term> <id>data_set</id> </term> <term> <id>documentation</id> </term> <term> <id>model_output</id> </term> <term> <id>report</id> </term> <term> <id>software</id> </term> </terms> </vocabulary> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "90177031d2f2f83f3581e317f11ca4ef", 
+    "source_url": "http://www.marine-geo.org/services/getVocabulary/?id=content_type&fmt=xml"
+}

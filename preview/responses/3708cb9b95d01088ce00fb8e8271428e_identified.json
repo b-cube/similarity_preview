@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Date-Time-Last-Modified>20051019065207 </Date-Time-Last-Modified>  <Personal-Name>Work, Thierry M. </Personal-Name>  <Title>Johnston Atoll Reef health survey / Thierry M. Work, Steve L. Coles, Robert A. Rameyer. </Title>  <Imprint>[Honolulu, Hawaii : U.S. Geological Survey National Wildlife Health Center, 2001] </Imprint>  <Physical-Description>26 p. : col. ill., col. map ; 28 cm. </Physical-Description>  <General-Note>Title from cover. </General-Note>  <General-Note>\"In partial fulfillment of USFWS Interagency Agreement No.: 122000N004.\" </General-Note>  <General-Note>\"Submitted 4 September, 2001.\" </General-Note>  <Bibliography-Note>Includes bibliographical references (p. 17-19). </Bibliography-Note>  <Subject-Added-Topical-Term>Corals Health Johnston Island. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Corals Johnston Island Geographical distribution. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Coral reef ecology Health aspects Johnston Island. </Subject-Added-Topical-Term>  <Subject-Added-Geographic-Name>Johnston Island Environmental conditions. </Subject-Added-Geographic-Name>  <Added-Entry-Personal-Name>Coles, S. L. (Stephen Lee), 1944- </Added-Entry-Personal-Name>  <Added-Entry-Personal-Name>Rameyer, Robert A. </Added-Entry-Personal-Name>  <Added-Entry-Corporate-Name>National Wildlife Health Center (U.S.) </Added-Entry-Corporate-Name>  <Added-Entry-Corporate-Name>U.S. Fish and Wildlife Service. </Added-Entry-Corporate-Name>  <Access-Information>NOAA Central Library, Silver Spring, MD|STACKS|QH198.J64 W6 2001|BOOK|1 </Access-Information>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <Local-number>OCoLC-ocm62109623 </Local-number>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3708cb9b95d01088ce00fb8e8271428e", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BB66F7A23-CFEA-4582-B1CF-1312D0DB9AD4%7D"
+}

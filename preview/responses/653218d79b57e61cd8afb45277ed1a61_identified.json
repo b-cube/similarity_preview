@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"1039\"><idinfo><citation><citeinfo><origin role=\"Sponsor\">National Wildlife Health Center</origin><title>Emerging diseases in wildlife</title><pubinfo><publish>U.S. Geological Survey</publish></pubinfo><onlink>http://www.nwhc.usgs.gov/our_research/invasive_pathogens_and_emerging_diseases_of_wildlife_in_the_united_states.jsp</onlink></citeinfo></citation><descript><abstract>News releases on adenovirus, West Nile Virus, foot and mouth disease, iridovirus, chronic wasting disease, and other emerging health issues in wildlife.</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><theme><themekt>USGS Thesaurus</themekt><themekey>health and disease</themekey><themekey>pathology</themekey><themekey>virology</themekey><themekey>wildlife</themekey><themekey>wildlife biology</themekey></theme></keywords><ptcontac><cntinfo><cntemail>Kate_Cleary</cntemail></cntinfo></ptcontac></idinfo><metainfo><metd>20120905</metd><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "653218d79b57e61cd8afb45277ed1a61", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=1039"
+}

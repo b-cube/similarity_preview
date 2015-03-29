@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>J\\ufffd\\ufffdhne, Bernd</author>           <author>Billen, Thomas</author>         </authors>       </contributors>       <titles>         <title>Entwicklung einer LDA-Miniatursonde zur Messung der Str\\ufffd\\ufffdmungsgeschwindigkeit und ihrer Fluktuationen in Wasser</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.15529</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>LDA</keyword>         <keyword>flow measurements</keyword>         <keyword>wind/wave facility</keyword>       </keywords>       <dates>         <year>1988</year>         <pub-dates>           <date>1988-01-01</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Diploma thesis on the development of a miniatur LDA probe to measure the flow of water and its fluctuations in a wind/water facility.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "29417af35717c659dd15b00e1c213286", 
+    "source_url": "https://zenodo.org/record/15529/export/xe"
+}

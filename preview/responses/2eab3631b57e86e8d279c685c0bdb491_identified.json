@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Team2008 </Local-number>  <Author>Reimaan National Planning Team </Author>  <Title>Reimaanlok: Looking to the future. National Conservation Area Plan for the Marshall Islands, 2007-2012 </Title>  <Institution>Marshall Islands Marine Resource Authority, Republic of the Marshall islands Office of Environmental Planing an Policy Coordination, Marshall Islands Visitors Authority, College of the Marshall Islands, Marshal Islands Conservation Society, The Nature Conservancy, International Centre for Environmental management, Australia government AusAID, United Nations Development Program, and GEF </Institution>  <Publication-Place>Melbourne, Australia </Publication-Place>  <Publication-Date><caldate>2008 </caldate></Publication-Date>  <Extent>83 </Extent>  <Notes>Funded by the Australian Government Regional Natural Heritage Programme </Notes>  <URL-Cover>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/non_crcp_publications/Reimaanlok_Cover_Page_01.jpg </URL-Cover>  <fundingorganization>  <id>Australian Government Regional Natural Heritage Programme </id>  </fundingorganization>  <Abstract>The Micronesian Challenge is a commitment to effectively conserving 30% of nearshore marine and 20% of terrestrial resources by the year 2020. This document, Reimaanlok, presents a clear roadmap of the way forward. To achieve the ambitious targets of the Micronesia Challenge requires us to be strategic about what needs to be done, and to bring all resources to bear. The hard work and dedication of the Reimaanlok team, drawn from a number of government and non-government organizations in the Marshalls and utilizing the assistance of international expertise, demonstrates what can be achieved with cooperation by producing this National Conservation Area Plan. </Abstract>  <Date-Time-Last-Modified>20140403000000 </Date-Time-Last-Modified>  <URL>http://icem.com.au/documents/biodiversity/marshallisland/reimaanlok_national_conservation_area_plan_for_the_marshall_islands_final_may30.pdf </URL>  <Region>RMI </Region>  <Bounding>  <Eastbc>169.97 </Eastbc>  <Westbc>162.302 </Westbc>  <Southbc>5.573 </Southbc>  <Northbc>14.71 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2eab3631b57e86e8d279c685c0bdb491", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B69DD01B5-951E-4266-8D7E-8ACABF35931D%7D"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><xml>   <node>     <title>&lt;a href=\"/issue70/meehan-et-al\"&gt;SUSHI: Delivering Major Benefits to JUSP&lt;/a&gt;</title>     <articleSummary>Paul Meehan, Paul Needham and Ross MacIntyre explain the enormous time and cost benefits in using SUSHI to support rapid gathering of journal usage reports into the JUSP service.</articleSummary>     <issueNumber>&lt;a href=\"/issue70\"&gt;issue70&lt;/a&gt;</issueNumber>     <publishedDate>November 2012</publishedDate>     <articleType>&lt;a href=\"/category/article-type/feature-article\"&gt;feature article&lt;/a&gt;</articleType>     <authors>&lt;a href=\"/taxonomy/term/1108/author-info\"&gt;paul meehan&lt;/a&gt;, &lt;a href=\"/category/authors/paul-needham\"&gt;paul needham&lt;/a&gt;, &lt;a href=\"/category/authors/ross-macintyre\"&gt;ross macintyre&lt;/a&gt;</authors>   </node> </xml> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6646380c58fed335a5da3673bc61b493", 
+    "source_url": "http://www.ariadne.ac.uk/taxonomy/term/16100/feed/export.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml-stylesheet href=\"/2000/08/w3c-synd/style.css\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\"> <channel rdf:about=\"\"> <title>Cascading Style Sheets</title> <link>http://www.w3.org/Style/CSS/Overview.en.html</link> <dc:date>2015-05-18</dc:date> <items> <rdf:Seq> <rdf:li rdf:resource=\"#x4\" /> <rdf:li rdf:resource=\"#x3\" /> <rdf:li rdf:resource=\"#x2\" /> <rdf:li rdf:resource=\"#x1\" /> <rdf:li rdf:resource=\"#x0\" /> </rdf:Seq> </items> </channel>  <item rdf:ID=\"x4\"> <title>WWW\\ufffd\\ufffd2015, the 24th International World Wide Web Conference, &#x2026;</title> <description>WWW\\ufffd\\ufffd2015, the 24th International World Wide Web Conference, will be held in Florence, Italy, May 18\\ufffd\\ufffd\\ufffd22, 2015.</description> <link>http://www.w3.org/Style/CSS/Overview.en.html</link> <dc:date>2015-05-18</dc:date> </item>  <item rdf:ID=\"x3\"> <title>The CSS WG updated the Working Draft of CSS Basic User Inter&#x2026;</title> <description>The CSS WG updated the Working Draft of CSS Basic User Interface Module Level\\ufffd\\ufffd3 (CSS3 UI)</description> <link>http://www.w3.org/Style/CSS/Overview.en.html</link> <dc:date>2015-03-10</dc:date> </item>  <item rdf:ID=\"x2\"> <title>The CSS WG updated the Working Draft of CSS Basic User Inter&#x2026;</title> <description>The CSS WG updated the Working Draft of CSS Basic User Interface Module Level\\ufffd\\ufffd3 (CSS3 UI)</description> <link>http://www.w3.org/Style/CSS/Overview.en.html</link> <dc:date>2015-02-24</dc:date> </item>  <item rdf:ID=\"x1\"> <title>The I18N WG updated the Working Draft of Predefined Counter &#x2026;</title> <description>The I18N WG updated the Working Draft of Predefined Counter Styles</description> <link>http://www.w3.org/Style/CSS/Overview.en.html</link> <dc:date>2015-02-03</dc:date> </item>  <item rdf:ID=\"x0\"> <title>The CSS WG published a Candidate Recommendation of CSS Count&#x2026;</title> <description>The CSS WG published a Candidate Recommendation of CSS Counter Styles Level\\ufffd\\ufffd3 and updated the Working Draft of CSS Positioned Layout Module Level\\ufffd\\ufffd3</description> <link>http://www.w3.org/Style/CSS/Overview.en.html</link> <dc:date>2015-02-03</dc:date> </item>  </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e52ca493c23d139469ae284616fdb0e0", 
+    "source_url": "http://www.w3.org/Style/CSS/Overview.rss"
+}

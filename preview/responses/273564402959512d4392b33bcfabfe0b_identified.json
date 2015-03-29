@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>Confederaci&#243;n Sindical Internacional</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>Iraq: Grave Fears for Kidnapped Migrant Workers </title>  <author_name>Mathieu Debroux</author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/iraq-grave-fears-for-kidnapped</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/iraq-grave-fears-for-kidnapped'&gt;Iraq: Grave Fears for Kidnapped Migrant Workers &lt;/a&gt;&lt;/h4&gt;&lt;blockquote class='spip'&gt; &lt;p&gt;The ITUC has expressed grave fears for migrant workers trapped in the fighting in Iraq, with reports emerging that extremist group ISIS plans to use 39 kidnapped Indian workers as human shields.&lt;br class='autobr' /&gt; ISIS has shown no willingness to discuss release of the 39, whom it seized in Mosul. 46 Indian nurses are also said to be stranded in a Tikrit hospital.&lt;br class='autobr' /&gt; Iraqi workers and their unions have also been a focus for the extremists, with reports of Teachers' Union offices occupied by armed men and union (...)&lt;/p&gt; &lt;/blockquote&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "273564402959512d4392b33bcfabfe0b", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Firaq-grave-fears-for-kidnapped"
+}

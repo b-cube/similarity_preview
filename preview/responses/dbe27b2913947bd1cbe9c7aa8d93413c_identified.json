@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Dikow, Torsten</author>         </authors>       </contributors>       <titles>         <title>Natural-language descriptions of Anasillomos species</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.15790</doi>       <pages>e4652</pages>       <volume>3</volume>       <number>doi</number>       <keywords>         <keyword>taxonomy, natural-language species descriptions</keyword>       </keywords>       <dates>         <year>2015</year>         <pub-dates>           <date>2015-03-02</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Natural-language descriptions of &lt;em&gt;Anasillomos&lt;/em&gt; species as exported from Lucid Builder 3.5 in XML SDD format.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dbe27b2913947bd1cbe9c7aa8d93413c", 
+    "source_url": "http://zenodo.org/record/15790/export/xe"
+}

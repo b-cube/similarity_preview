@@ -1,0 +1,15 @@
+{
+    "content": "<mws:getFilePropertiesResponse xmlns:mws=\"http://modapsws.gsfc.nasa.gov/xsd\"><return mws:type=\"mws:FileProperties\"><mws:checksum>417201043</mws:checksum><mws:fileId>204846513</mws:fileId><mws:fileName>MOD021KM.A2008297.0140.005.2010252060312.hdf</mws:fileName><mws:fileSizeBytes>76976519</mws:fileSizeBytes><mws:fileType>MOD021KM</mws:fileType><mws:ingestTime>2010-09-09 06:09:22.463</mws:ingestTime><mws:online>true</mws:online><mws:startTime>2008-10-23 01:40:00.0</mws:startTime></return><return mws:type=\"mws:FileProperties\"><mws:checksum>3920302676</mws:checksum><mws:fileId>204718831</mws:fileId><mws:fileName>MOD021KM.A2008297.0315.005.2010252045119.hdf</mws:fileName><mws:fileSizeBytes>78566667</mws:fileSizeBytes><mws:fileType>MOD021KM</mws:fileType><mws:ingestTime>2010-09-09 04:57:05.246</mws:ingestTime><mws:online>true</mws:online><mws:startTime>2008-10-23 03:15:00.0</mws:startTime></return></mws:getFilePropertiesResponse>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a3d978aef38f72be710d417ee561672a", 
+    "source_url": "http://modwebsrv.modaps.eosdis.nasa.gov/axis2/services/MODAPSservices/getFileProperties?fileIds=204846513,204718831"
+}

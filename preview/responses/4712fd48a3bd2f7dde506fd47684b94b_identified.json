@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <?xml-stylesheet href=\"http://www.atomenabled.org/css/atom.css\" type=\"text/css\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">  <icon>http://www.lsoft.com/images/listserv-community.gif</icon> <logo>http://www.lsoft.com/images/listserv_small.gif</logo> <link rel=\"related\" href=\"http://www.lsoft.com/products/listserv-powered.asp\" title=\"Powered by L-Soft's LISTSERV mailing list manager\"/>  <title>ACB-CLINICAL-PRACTICE List</title> <subtitle>ACB-CLINICAL-PRACTICE List Archives</subtitle> <link rel=\"alternate\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ACB-CLINICAL-PRACTICE\"/> <link rel=\"self\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=ACB-CLINICAL-PRACTICE&amp;v=ATOM1.0\"/> <id>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=ACB-CLINICAL-PRACTICE&amp;v=ATOM1.0</id> <div class=\"info\" xmlns=\"http://www.w3.org/1999/xhtml\">This is an Atom formatted XML site feed. It is intended to be viewed in a Newsreader. Alternatively you can view the HTML archives at https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ACB-CLINICAL-PRACTICE. </div> <generator uri=\"/cgi-bin/webadmin?DEBUG-SHOW-VERSION\">LISTSERV Web Interface 2.4.1</generator> <updated>2015-03-12T01:24:26Z</updated>  <entry>     <title>No entries available for ACB-CLINICAL-PRACTICE List</title>     <link href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ACB-CLINICAL-PRACTICE\"/>     <author><name>ACB-CLINICAL-PRACTICE</name>             <email>acb-clinical-practice-request@WWW.JISCMAIL.AC.UK</email>     </author>     <id>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=ACB-CLINICAL-PRACTICE&amp;v=ATOM1.0</id>     <updated>2015-03-12T01:24:26Z</updated> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4712fd48a3bd2f7dde506fd47684b94b", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=ACB-CLINICAL-PRACTICE&v=ATOM1.0"
+}

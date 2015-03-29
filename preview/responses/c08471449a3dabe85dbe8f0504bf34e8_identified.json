@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://catalog.data.gov/dataset/observedforecast-river-conditions\">     <owl:sameAs rdf:resource=\"urn:uuid:DOC-60\"></owl:sameAs>     <dct:description>Provides access to currently observed river conditions and current forecasts for rivers</dct:description>     <foaf:homepage rdf:resource=\"http://catalog.data.gov/dataset/observedforecast-river-conditions\"></foaf:homepage>     <rdfs:label>observedforecast-river-conditions</rdfs:label>     <dct:identifier>observedforecast-river-conditions</dct:identifier>     <dct:title>Observed/Forecast River Conditions</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://www.weather.gov/ahps/rss/observed.php\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>XML</rdf:value>                             <rdfs:label>XML</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>XML File</dct:title>             </dcat:Distribution>         </dcat:distribution>         <dct:relation>           <rdf:Description>             <rdfs:label>__category_tag_872991f6-ef6d-40e1-8bdc-fbbcede1463d</rdfs:label>             <rdf:value>[\"Natural Hazards\"]</rdf:value>           </rdf:Description>         </dct:relation>         <dct:relation>           <rdf:Description>             <rdfs:label>__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9</rdfs:label>             <rdf:value>[\"Extreme Weather\"]</rdf:value>           </rdf:Description>         </dct:relation>         <dct:relation>           <rdf:Description>             <rdfs:label>__category_tag_008741df-42eb-48ba-9e87-f69eb6e7d321</rdfs:label>             <rdf:value>[\"Natural Resources and Environment\"]</rdf:value>           </rdf:Description>         </dct:relation>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "c08471449a3dabe85dbe8f0504bf34e8", 
+    "source_url": "http://catalog.data.gov/dataset/DOC-60.rdf"
+}

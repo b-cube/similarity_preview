@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Aeby2013 </Local-number>  <Author>Aeby, G. </Author>  <Title>Pathogenesis, associated morbidity and potential control of Acropora growth anomalies in American Samoa </Title>  <Publication-Date><caldate>2013 </caldate></Publication-Date>  <Extent>14 </Extent>  <Type-Period-Note>Final Report, 7/1/2011 - 6/30/2013 </Type-Period-Note>  <Notes>NOAA CRCP grant NA11NOS4820018 </Notes>  <grantid>  <id>NA11NOS4820018 </id>  </grantid>  <Abstract>\"Project objectives: 1. Conduct quantitative surveys to determine the prevalence (proportion of colonies affected) and incidence (change in disease through time) of Acropora growth anomalies in American Samoa. 2. Determine the effect of growth anomalies on the health (growth, mortality, reproduction) of Acropora colonies. 3. Determine the rate of disease progression of Acropora growth anomalies. 4. Determine whether surgical removal can be used to manage Acropora growth anomalies on reefs. 5. Examine the microscopic morphology of lesions (Acropora growth anomalies) at the light and electron microscopy levels.\" </Abstract>  <Date-Time-Last-Modified>20140919000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/grants/Domestic_FMC_CoRIS_Products/NA11NOS4820018_FinalReport.pdf </URL>  <Region>AmSam </Region>  <Bounding>  <Eastbc>-167.551612 </Eastbc>  <Westbc>-171.541907 </Westbc>  <Southbc>-15.25183 </Southbc>  <Northbc>-10.207203 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>Grants </Local-subject-index>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3dce605426a40d3d1b5953b3ba232324", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B80F69A05-692D-4EF7-9832-F3B31E7812F2%7D"
+}

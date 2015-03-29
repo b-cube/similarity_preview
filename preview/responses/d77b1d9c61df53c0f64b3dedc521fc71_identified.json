@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <response><responseHeader type=\"lst\"><status type=\"int\">0</status><Qtime type=\"int\">166</Qtime><version type=\"str\">1.0 </version><params type=\"lst\"><q type=\"str\">bread</q><wt type=\"str\">swapNameAndType</wt></params><sources_available type=\"lst\"/></responseHeader><response type=\"result\"/></response> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d77b1d9c61df53c0f64b3dedc521fc71", 
+    "source_url": "http://discovery.ac.uk/ww1/api/?q=bread&wt=swapNameAndType"
+}

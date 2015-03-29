@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile   HRef=\"../Procurement%20Workforce%20FAITAS%20Registration%20by%20November%2030%202012.htm\"/>  <o:File HRef=\"themedata.thmx\"/>  <o:File HRef=\"colorschememapping.xml\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9207e73641d7042f9bbdd7d1b7ff4b44", 
+    "source_url": "http://code210.gsfc.nasa.gov/Procurement%20Workforce%20FAITAS%20Registration%20by%20November%2030%202012_files/filelist.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Williams, Alan</a1>   <a2>Pawlik, Aleksandra</a2>   <a2>Goble, Carole</a2>   <t1>Running Taverna Workflows within IPython Notebook</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;&lt;strong&gt;IPython Notebook&lt;/strong&gt;, originally developed by Fernando Perez of University of Berkeley (where the core development team is currently based) is a browser-based environment for interactive computing.&lt;/p&gt;  &lt;p&gt;Users can write, edit and re-run Python scripts. IPython Notebook has support for interactive data visualization and report presentation. A notebook can be saved and shared. The code saved in notebooks can be modified and re-run using the same or different data. The record of a notebook &amp;ldquo;run&amp;rdquo; can be saved and displayed in a static Notebook Viewer.&lt;/p&gt;  &lt;p&gt;IPython Notebooks with embedded workflows can be saved and shared; their static version can be viewed in the &lt;strong&gt;IPython Notebook Viewer&lt;/strong&gt;.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Taverna&lt;/strong&gt; is a suite of open source tools that allow the design and execution of scientific workflows. The running of Taverna Workflows within IPython Notebook allows users to include existing workflows as part of their interactive computing. This provides IPython users with access to functionality that has been developed for a significant&lt;br /&gt; amount of time and to the large number of shared workflows. In addition, use of workflows provides access to functionality within workflows that may not be readily available within the Python environment.&lt;/p&gt;  &lt;p&gt;For workflow developers, calling the workflows from IPython Notebook allows: pre-processing of input data, the chaining of workflow executions with data transformations in Python, and the presentation of results and report generation using IPython&amp;rsquo;s extensive capabilities.&lt;/p&gt;</ab>   <la/>   <k1>taverna;                 iPython;                 python;                 notebook;                 </k1>   <pb/>   <pp/>   <yr>2014-07-04</yr>   <ed/>   <ul>http://www.open-bio.org/wiki/BOSC_2014;  https://zenodo.org/record/11360/files/IPythonBOSC_2014_07_04.png?subformat=icon-90;  https://zenodo.org/record/11360/files/IPythonBOSC_2014_07_04.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6417a5068006b3c33e1375965a68fa11", 
+    "source_url": "https://zenodo.org/record/11360/export/xw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0515'>  <front> <title>Specifications for Datalanguage, Version 0/9</title> <author initials='R.' surname='Winter' fullname='R. Winter'> <organization /></author> <date year='1973' month='June' /></front>  <seriesInfo name='RFC' value='515' /> <format type='TXT' octets='60557' target='http://www.rfc-editor.org/rfc/rfc515.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7e5b6c55bf9545365de1faf6bfdd5d7b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0515.xml"
+}

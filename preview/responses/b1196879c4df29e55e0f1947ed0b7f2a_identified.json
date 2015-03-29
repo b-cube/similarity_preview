@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/medicare\">     <owl:sameAs rdf:resource=\"urn:uuid:2e3e5a7e-84ac-4d27-8b7e-27e17691e015\"></owl:sameAs>     <dct:description>locations</dct:description>         <dcat:keyword>australia</dcat:keyword>         <dcat:keyword>geospatial</dcat:keyword>         <dcat:keyword>medicare</dcat:keyword>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/medicare\"></foaf:homepage>     <rdfs:label>medicare</rdfs:label>     <dct:identifier>medicare</dct:identifier>     <dct:title>Medicare</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://data.gov.au/dataset/70f76a9e-d450-4567-9760-290dea54229c/resource/7eb30338-768e-436c-9dde-dc7a1066c9c9/download/medicareofficelocationsasat19november14.csv\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>             </dcat:Distribution>         </dcat:distribution>     <dct:rights rdf:resource=\"http://www.opendefinition.org/licenses/cc-by-sa\"></dct:rights>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "b1196879c4df29e55e0f1947ed0b7f2a", 
+    "source_url": "http://demo.ckan.org/dataset/2e3e5a7e-84ac-4d27-8b7e-27e17691e015.rdf"
+}

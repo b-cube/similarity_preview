@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../Holbrook.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "643312539f3a0ea05e9609d5694c3e7d", 
+    "source_url": "http://grads.iges.org/ellfb/Dec05/holbrook/Holbrook_files/filelist.xml"
+}

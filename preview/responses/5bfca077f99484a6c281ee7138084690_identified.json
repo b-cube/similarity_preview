@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0532'>  <front> <title>UCSD-CC Server-FTP facility</title> <author initials='R.G.' surname='Merryman' fullname='R.G. Merryman'> <organization /></author> <date year='1973' month='July' /></front>  <seriesInfo name='RFC' value='532' /> <format type='TXT' octets='7298' target='http://www.rfc-editor.org/rfc/rfc532.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5bfca077f99484a6c281ee7138084690", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0532.xml"
+}

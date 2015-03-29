@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <?xml-stylesheet href=\"http://www.atomenabled.org/css/atom.css\" type=\"text/css\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">  <icon>http://www.lsoft.com/images/listserv-community.gif</icon> <logo>http://www.lsoft.com/images/listserv_small.gif</logo> <link rel=\"related\" href=\"http://www.lsoft.com/products/listserv-powered.asp\" title=\"Powered by L-Soft's LISTSERV mailing list manager\"/>  <title>EVEN List</title> <subtitle>EVEN List Archives</subtitle> <link rel=\"alternate\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=EVEN\"/> <link rel=\"self\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=EVEN&amp;v=ATOM1.0\"/> <id>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=EVEN&amp;v=ATOM1.0</id> <div class=\"info\" xmlns=\"http://www.w3.org/1999/xhtml\">This is an Atom formatted XML site feed. It is intended to be viewed in a Newsreader. Alternatively you can view the HTML archives at https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=EVEN. </div> <generator uri=\"/cgi-bin/webadmin?DEBUG-SHOW-VERSION\">LISTSERV Web Interface 2.4.1</generator> <updated>2015-01-12T15:13:37Z</updated>   <entry xmlns='http://www.w3.org/2005/Atom'>   <link rel='alternate' href='https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=EVEN;ce5e36a9.1501' title='Invitation to join the JamToday Fair 2015 in Brussels on 11 February 2015 '/>   <author>      <name>Mersch Pierre</name>   </author>   <published>2015-01-12T14:53:02+00:00</published>   <updated>2015-01-12T14:53:02+00:00</updated>   <title>Invitation to join the JamToday Fair 2015 in Brussels on 11 February 2015 </title>   <id>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=EVEN;ce5e36a9.1501</id>   <content type='html'>You are invited to the following event:&lt;br&gt;&lt;br&gt;JAMTODAY FAIR 2015&lt;br&gt;&lt;br&gt;Register At: https://www.eventbrite.co.uk/e/jamtoday-fair-2015-tickets-13178865341&lt;br&gt;&lt;br&gt;Event to be held at the following time, date and location:&lt;br&gt;&lt;br&gt;Wednesday, 11 February 2015 from 10:00 to 17:00 (CET)&lt;br&gt;&lt;br&gt;Unioncamere Piemonte&lt;br&gt;Rue du Tr\\ufffd\\ufffdne, 62&lt;br&gt;1050 Brussels&lt;br&gt;Belgium&lt;br&gt;&lt;br&gt;The JamToday network (ww.jamtoday.eu) will hold its annual event in Brussels on 11th February 2015 and we would like to invite you to come along for a practical and informative day. The Fair is kindly hosted by the Unioncamere Piemonte. [...]</content> </entry>  </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "082cecff8a029cb20c665f2e57d98c40", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=EVEN&v=ATOM1.0"
+}

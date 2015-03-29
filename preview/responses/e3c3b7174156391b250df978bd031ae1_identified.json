@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Reply to Vigderhous</dc:title><dc:creator>Spilerman, Seymour</dc:creator><dc:date>1978</dc:date><dc:type>text</dc:type><dc:subject>Sociology</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8WW7GGS</dc:identifier><dc:description>Spilerman responds to Vigderhous's critique of his article \"\"Development Towns in Israel: The Role of Community in Creating Ethnic Disparities in Labor Force Characteristics\". According to Spilerman, Vigderhous's comments are simply restatements of the arguments. He maintains that Vinderhous ignores the analytical results, and instead of understanding the reasoning disregards the argument.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e3c3b7174156391b250df978bd031ae1", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A183502.xml"
+}

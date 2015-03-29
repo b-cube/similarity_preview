@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">    <channel rdf:about=\"http://chicagojustice.org/research/research/RSS\">   <title>Research</title>   <link>http://chicagojustice.org/research/research</link>   <description></description>   <image rdf:resource=\"http://chicagojustice.org/logo.png\"/>    <items>     <rdf:Seq>                <rdf:li rdf:resource=\"http://chicagojustice.org/research/long-form-reports\"/>                       <rdf:li rdf:resource=\"http://chicagojustice.org/research/issue-briefs\"/>            </rdf:Seq>   </items>  </channel>     <item rdf:about=\"http://chicagojustice.org/research/long-form-reports\">     <title>Long form Reports</title>     <link>http://chicagojustice.org/research/long-form-reports</link>     <description>Here you can access long form reports that CJP authored.</description>          <dc:publisher>No publisher</dc:publisher>     <dc:creator></dc:creator>     <dc:rights></dc:rights>     <dc:date>2012-01-19T01:50:00Z</dc:date>     <dc:type>Folder</dc:type>   </item>     <item rdf:about=\"http://chicagojustice.org/research/issue-briefs\">     <title>Issue Briefs</title>     <link>http://chicagojustice.org/research/issue-briefs</link>     <description>Here you can access the issue briefs CJP has authored.</description>          <dc:publisher>No publisher</dc:publisher>     <dc:creator></dc:creator>     <dc:rights></dc:rights>     <dc:date>2012-01-19T01:50:00Z</dc:date>     <dc:type>Folder</dc:type>   </item>    </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "16195e46c5e64fae533266ae202995e8", 
+    "source_url": "http://chicagojustice.org/research/research/RSS"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Alicea2008 </Local-number>  <Author>Alicea, E., Wusinich-Mendez, D., Pizzini, M. V. </Author>  <Title>The process of developing a management plan for the Luis Pena Channel No-Take Natural Reserve in Culebra, Puerto Rico: Lessons learned </Title>  <Institution>NOAA Coral Reef Conservation Program </Institution>  <Publication-Date><caldate>2008 </caldate></Publication-Date>  <Notes>FY2003 CRCP Project ID 1167; Project Title: Strengthening Puerto Rico's Coral Reef Management; Principal Investigator: Eileen Alicea </Notes>  <Abstract>The Canal Luis Pena Marine Reserve management plan writing process was the first process in Puerto Rico led by an external entity (a NFWF grantee) that attempted to involve all sectors of the public that were interested in the resources of the reserve. It was a challenging situation that brought many lessons learned from the beginning for all sectors involved. Many practices can now be revised and adapted to future management plan writing efforts. However, as challenging as the Culebra experience was, all participants agreed on the main concept: it is essential to involve the public at some level during the development of a management plan if the authorities expect the public to comply with the plan after its implementation. </Abstract>  <Date-Time-Last-Modified>20090811000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/1167/CulebraMgmtPlan_LessonsLearned_2008.pdf </URL>  <project>  <ID>1167 </ID>  <title>Strengthening Puerto Rico's Coral Reef Management </title>  <PI>Eileen Alicea </PI>  </project>  <Region>PR </Region>  <Bounding>  <Eastbc>-65.248715 </Eastbc>  <Westbc>-67.399870 </Westbc>  <Southbc>17.784130 </Southbc>  <Northbc>18.645740 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8fe174917b434797e78171f2b6e024e8", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B15D466B7-B89E-4032-BF15-DC572FADF1D8%7D"
+}

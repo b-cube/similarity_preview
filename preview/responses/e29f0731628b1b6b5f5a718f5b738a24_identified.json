@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../smaller_rivers_qk_ref.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e29f0731628b1b6b5f5a718f5b738a24", 
+    "source_url": "http://webgis.wr.usgs.gov/globalgis/metadata_qr/smaller_rivers_qk_ref_files/filelist.xml"
+}

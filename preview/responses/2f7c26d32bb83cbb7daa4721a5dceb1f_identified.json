@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>gianlucadellaved</ShortName>  <Description>Search Gianluca Della Vedova - </Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://gianluca.dellavedova.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://gianluca.dellavedova.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://gianluca.dellavedova.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>Gianluca Della Vedova</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://1.gravatar.com/blavatar/d6ebd4674b0a1e954c607dbeee7ec0be?s=16&#038;d=http%3A%2F%2Fgianluca.dellavedova.org%2Ffavicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/png\">http://1.gravatar.com/blavatar/3246bc198dc06e573a4a46dac8998939?s=64&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>emacs free-software licenses unity ubuntu latex ita-latex</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://gianluca.dellavedova.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2f7c26d32bb83cbb7daa4721a5dceb1f", 
+    "source_url": "http://gianluca.dellavedova.org/osd.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/documents/2008/01/14/dcmi-terms/\"> <dc:title>Dublin Core Metadata Terms</dc:title> <dc:description>This document is an up-to-date specification of all metadata terms maintained by the Dublin Core Metadata Initiative, including elements, element refinements, encoding schemes, and vocabulary terms (the DCMI Type Vocabulary).</dc:description> <dc:date>2008-01-14</dc:date> <dc:publisher>Dublin Core Metadata Initiative</dc:publisher> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3276d1d3d7bbdcc74dfa1a0264f467d8", 
+    "source_url": "http://dublincore.org/documents/2008/01/14/dcmi-terms/index.shtml.rdf"
+}

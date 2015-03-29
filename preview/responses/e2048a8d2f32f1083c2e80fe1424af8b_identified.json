@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Novel computational analysis of protein binding array data identifies direct targets of Nkx2.2 in the pancreas</dc:title><dc:creator>Hill, Jonathon</dc:creator><dc:creator>Anderson, Keith</dc:creator><dc:creator>Mastracci, Teresa</dc:creator><dc:creator>Kaestner, Klaus</dc:creator><dc:creator>Sussel, Lori</dc:creator><dc:date>2011</dc:date><dc:type>text</dc:type><dc:subject>Genetics</dc:subject><dc:subject>Bioinformatics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8XD101C</dc:identifier><dc:description>The creation of a complete genome-wide map of transcription factor binding sites is essential for understanding gene regulatory networks in vivo. However, current prediction methods generally rely on statistical models that imperfectly model transcription factor binding. Generation of new prediction methods that are based on protein binding data, but do not rely on these models may improve prediction sensitivity and specificity. We propose a method for predicting transcription factor binding sites in the genome by directly mapping data generated from protein binding microarrays (PBM) to the genome and calculating a moving average of several overlapping octamers. Using this unique algorithm, we predicted binding sites for the essential pancreatic islet transcription factor Nkx2.2 in the mouse genome and confirmed &gt;90% of the tested sites by EMSA and ChIP. Scores generated from this method more accurately predicted relative binding affinity than PWM based methods. We have also identified an alternative core sequence recognized by the Nkx2.2 homeodomain. Furthermore, we have shown that this method correctly identified binding sites in the promoters of two critical pancreatic islet \\ufffd\\ufffd-cell genes, NeuroD1 and insulin2, that were not predicted by traditional methods. Finally, we show evidence that the algorithm can also be applied to predict binding sites for the nuclear receptor Hnf4\\ufffd\\ufffd. PBM-mapping is an accurate method for predicting Nkx2.2 binding sites and may be widely applicable for the creation of genome-wide maps of transcription factor binding sites.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e2048a8d2f32f1083c2e80fe1424af8b", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A183304.dc_xml"
+}

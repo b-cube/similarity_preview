@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Miralles, Mari Paz</author>           <author>Raymond, John</author>           <author>Turner, Andrew</author>         </authors>       </contributors>       <titles>         <title>A Study of the Properties of Polar Coronal Jets</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12517</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>Solar physics</keyword>         <keyword>Polar jets</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-10-30</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Final presentations of the Center for Astrophysics HEA/SSP REU Solar Summer Intern Program.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "89bac786ba331da1563a5592ad1cb703", 
+    "source_url": "https://zenodo.org/record/12517/export/xe"
+}

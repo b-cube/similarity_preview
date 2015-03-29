@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>is4oa</ShortName>  <Description>Search Infrastructure Services for Open Access - </Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://is4oa.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://is4oa.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://is4oa.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>Infrastructure Services for Open Access</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://1.gravatar.com/blavatar/59e785577bafd7cc4633a9d94c305218?s=16&#038;d=http%3A%2F%2Fis4oa.org%2Ffavicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/png\">http://0.gravatar.com/blavatar/8de4e796f82ca0794f96003a039a4633?s=64&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>doaj alma-swan lars-bjornshauge lund-university-libraries sparc-europe open-access oaspa caroline-sutton jette-guldborg-petersen open-access-publishing</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://is4oa.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f3a3880e450cc3ac1d3a7cfcabac5fee", 
+    "source_url": "http://is4oa.org/osd.xml"
+}

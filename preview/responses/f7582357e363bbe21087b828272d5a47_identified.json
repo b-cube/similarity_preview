@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"  xmlns:n=\"http://www.google.com/schemas/sitemap-news/0.9\"></urlset>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f7582357e363bbe21087b828272d5a47", 
+    "source_url": "http://trinityriver.audubon.org/feeds/magazine.xml"
+}

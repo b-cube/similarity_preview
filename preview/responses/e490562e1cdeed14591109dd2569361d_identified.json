@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>5836</id>   <unit>480.4</unit>   <dept_name>Facilities Services</dept_name>   <sub_name>Keys/Lock Shop</sub_name>   <main_number>5397</main_number>   <location>CSB 111A</location>   <comments>     <comment></comment>   </comments>   <employees> <employee>   <id>25992</id>   <name>Dobbins, Terry</name>   <phone>5397</phone>   <title>Locksmith/Structural Trades II</title>   <department>Facilities Services</department>   <sub_unit>Keys/Lock Shop</sub_unit>   <location>CSB 111A</location>   <email>tdobbins@uccs.edu</email>   <extra></extra>   <ntname>tdobbins</ntname>   <unit>480.4</unit>   <order>1</order> </employee>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e490562e1cdeed14591109dd2569361d", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=480.4&type=details_by_unit"
+}

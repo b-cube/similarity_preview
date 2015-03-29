@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>GROOM-FP7 EU project</ShortName>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">http://www.groom-fp7.eu/lib/tpl/default/images/favicon.ico</Image>   <Url type=\"text/html\" template=\"http://www.groom-fp7.eu/doku.php?do=search&amp;id={searchTerms}\" />   <Url type=\"application/x-suggestions+json\" template=\"http://www.groom-fp7.eu/lib/exe/ajax.php?call=suggestions&amp;q={searchTerms}\" /> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a8b18cfd1e92591c82ad3d042efe651d", 
+    "source_url": "http://www.groom-fp7.eu/lib/exe/opensearch.php"
+}

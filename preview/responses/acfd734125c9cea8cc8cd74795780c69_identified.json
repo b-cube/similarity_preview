@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../5700-micro-batt.html\"/>  <o:File HRef=\"g_4000SSE-choke_13108_image001.gif\"   PublicationID=\"g_4000SSE-choke_13108\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "acfd734125c9cea8cc8cd74795780c69", 
+    "source_url": "http://www.unavco.org/projects/project-support/development-testing/power/power_graphs/5700-micro-batt_files/filelist.xml"
+}

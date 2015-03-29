@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"   xmlns:owl=\"http://www.w3.org/2002/07/owl#\"   xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dcat=\"http://www.w3.org/ns/dcat#\"   xmlns:dct=\"http://purl.org/dc/terms/\" >   <dcat:Dataset rdf:about=\"http://beta.ckan.org/dataset/aszasd\">     <owl:sameAs rdf:resource=\"urn:uuid:791e2587-1e06-4c39-ae99-937442b38f92\"/>     <dct:description></dct:description>          <foaf:homepage rdf:resource=\"http://beta.ckan.org/dataset/aszasd\"/>     <rdfs:label>aszasd</rdfs:label>      <dct:identifier>aszasd</dct:identifier>     <dct:title>aszasd</dct:title>              <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://beta.ckan.org/dataset/791e2587-1e06-4c39-ae99-937442b38f92/resource/c7225131-7ab7-4d78-bc27-a30e593aea56/download/Copy-spreadsheet.xls\"/>                                          <dct:format>                         <dct:IMT>                             <rdf:value>XLS</rdf:value>                             <rdfs:label>XLS</rdfs:label>                         </dct:IMT>                     </dct:format>                                                  </dcat:Distribution>         </dcat:distribution>                              </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "f80fcd135b506771d2a7b56b691acfae", 
+    "source_url": "http://beta.ckan.org/dataset/791e2587-1e06-4c39-ae99-937442b38f92.rdf"
+}

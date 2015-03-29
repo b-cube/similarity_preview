@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Borek, Luise</a1>   <a2>Dombrowski, Quinn</a2>   <a2>Perkins, Jody</a2>   <a2>Sch\\ufffd\\ufffdch, Christof</a2>   <t1>Scholarly Primitives Revisited: Towards a Practical Taxonomy of Digital Humanities Research Activities and Objects</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Today we have more information at our fingertips than at any other time in human history. The problem is no longer finding information, the problem is being overwhelmed with the amount of information. This is no different in the realm of the digital humanities. &amp;nbsp;Information on people, projects, resources, methods, and tools exists in quantity everywhere we look, and yet we still have difficulty finding what we need. This paper describes a transatlantic effort on the part of DiRT in the United States and DARIAH in Europe to construct a taxonomy of scholarly methods, called TaDiRAH or Taxonomy of Digital Research Activities in the Humanities, that can be used not only to organize single collections of DH information and resources but also to allow these collections to interface with each other, creating a web of linked data that can be effectively searched for information across distributed collections. DiRT and DARIAH are not trying to impose a restrictive, monolithic scheme on DH; rather, our goal is to construct a lightweight, basic taxonomy of higher order goals and first-order methods that can be easily expanded in all directions by linking lower order techniques to multiple goals and/or methods to create machine-readable paths among the various resources. In building this taxonomy, we heavily rely on input and feedback from the digital humanities community. Still, at least for the intended use cases, we believe a stable taxonomy has advantages over more open, folksonomy-based solutions.&lt;/p&gt;</ab>   <la/>   <k1>humanities;                 digital humanities;                 digital research tools;                 digital research methods;                 taxonomy;                 keywords;                 definitions;                 DiRT;                 DARIAH;                 </k1>   <pb/>   <pp/>   <yr>2014-07-14</yr>   <ed/>   <ul>http://dh2014.org;  https://zenodo.org/record/10866/files/Borek-Dombrowski-Perkins-Schoech_2014_Scholarly-Primitives-TaDirAH.png?subformat=icon-90;  https://zenodo.org/record/10866/files/Borek-Dombrowski-Perkins-Schoech_2014_Scholarly-Primitives-TaDirAH.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "754216f9124b915fee0b8da3b5a09c18", 
+    "source_url": "http://zenodo.org/record/10866/export/xw"
+}

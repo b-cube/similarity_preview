@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <Folder ID=\"x8593\" Name=\"2005\" SiteBaseUrl=\"\" Locale=\"\" XPowerPath=\"/Site Folder/Home/Business and Policy Areas/Grants Management/Grants Management News/2005\">   <IGX_Categories Count=\"0\" CategoryIds=\"\" /> </Folder>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ac973ce94d00f121e5a92fc5b7fa720d", 
+    "source_url": "http://www.nacubo.org/x8593.xml"
+}

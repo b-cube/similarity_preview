@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Consortium Newid Hinsawdd Cymru / Climate Change Consortium of Wales</title> <link href=\"http://hdl.handle.net/2160/7145\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/2160/7145</id> <updated>2015-03-19T22:41:50Z</updated> <dc:date>2015-03-19T22:41:50Z</dc:date> <entry> <title>Ice Age in Wales</title> <link href=\"http://hdl.handle.net/2160/7528\" rel=\"alternate\"/> <author> <name>Hambrey, Michael J.</name> </author> <id>http://hdl.handle.net/2160/7528</id> <updated>2014-10-23T02:56:47Z</updated> <published>2011-04-28T00:00:00Z</published> <summary type=\"text\">Ice Age in Wales Hambrey, Michael J. The late glacial events in Wales are known as the Devensian Glaciation that peaked about 20Ka. </summary> <dc:date>2011-04-28T00:00:00Z</dc:date> </entry> <entry> <title>Vulnerability and adaptive capacity of biodiversity in Wales</title> <link href=\"http://hdl.handle.net/2160/7184\" rel=\"alternate\"/> <author> <name>Walmsley, Clive</name> </author> <id>http://hdl.handle.net/2160/7184</id> <updated>2014-10-23T02:52:04Z</updated> <published>2011-04-27T00:00:00Z</published> <summary type=\"text\">Vulnerability and adaptive capacity of biodiversity in Wales Walmsley, Clive Presented at C3W climate change research review and workshop event on 27th April 2011, Aberystwyth University. </summary> <dc:date>2011-04-27T00:00:00Z</dc:date> </entry> <entry> <title>Climate Modelling Research and Applications in Wales</title> <link href=\"http://hdl.handle.net/2160/7164\" rel=\"alternate\"/> <author> <name>Houghton, John</name> </author> <id>http://hdl.handle.net/2160/7164</id> <updated>2014-10-23T02:52:00Z</updated> <published>2011-04-26T00:00:00Z</published> <summary type=\"text\">Climate Modelling Research and Applications in Wales Houghton, John Computer modelling of the atmosphere and climate system has revolutionised weather forecasting and research and climate prediction. </summary> <dc:date>2011-04-26T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b46917d90804204c1577454d6b13508e", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/7145"
+}

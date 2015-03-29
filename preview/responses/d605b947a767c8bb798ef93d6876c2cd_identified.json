@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/DWH/DWHAtlas_CTDs/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/DWH/ERMA_CTDs/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/DWH/ERMA_GLIDERs/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/DWH/ERMA_WaterChemistry/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d605b947a767c8bb798ef93d6876c2cd", 
+    "source_url": "http://www.ncddc.noaa.gov/arcgis/rest/services/DWH?f=sitemap"
+}

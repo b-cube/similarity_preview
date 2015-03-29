@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20093068</identifier><identifier type=\"pwpk\">97730</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2009-3068</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>U.S. Geological Survey (USGS) Western Region: Coastal and Ocean Science</title></titleInfo><originInfo><dateOther>Wed, 5 Aug 2009 00:00 -0500</dateOther><dateIssued>2009</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Kinsinger, Anne E.</namePart><role>Author</role></name><abstract>USGS Western Region Coastal and Ocean Science is interdisciplinary, collaborative, and integrates expertise from all USGS Disciplines, and ten of its major Science Centers, in Alaska, Hawai'i, California, Washington, and Oregon. The scientific talent, laboratories, and research vessels in the Western Region and across the Nation, strategically position the USGS to address broad geographic and oceanographic research topics. USGS information products inform resource managers and policy makers who must balance conservation mandates with increasing demands for resources that sustain the Nation's economy.&#xd; &#xd; This fact sheet describes but a few examples of the breadth of USGS science conducted in coastal, nearshore, and ocean environments along our Nation's West Coast and Pacific Islands.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2009_3068.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2009/3068/</url></location><note type=\"citation/reference\">U.S. Geological Survey (USGS) Western Region: Coastal and Ocean Science; 2009; FS; 2009-3068; Fact Sheet; Kinsinger, Anne E.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f08e65ac8d7ab7e40a0375d68a837d30", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20093068"
+}

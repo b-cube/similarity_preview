@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.12163</dc:identifier><dc:creator>Ca\\ufffd\\ufffdas, Caleb</dc:creator><dc:creator>Latham, David W.</dc:creator><dc:title>Obliquity: A Probe for the Spin-Orbit Alignment and Formation History of Hot Jupiters</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Hot Jupiters are intriguing because of their close proximity to the host star. Current theories have tried to explain their formation. However, these theories require knowledge of the obliquity, or the projected angle between the stellar spin vector and the orbital spin vector, for validation. In this thesis, I explore what the obliquity can inform us about the alignment between the planetary orbit and host star. I analyze the Rossiter-McLaughlin effect to derive the obliquity for two Hot Jupiter systems: HAT-P-49 and KELT-7. I use photometric data from KeplerCam to estimate stellar and systemic parameters. I use spectra from TRES and SOPHIE to estimate radial velocities and derive orbital solutions. For these systems, I adopt a simple model for the Rossiter-McLaughlin signature derived from geometry. I constrain the obliquity with this model using the MCMC analysis method. HAT-P-49b is a 1.7 M&lt;sub&gt;J&lt;/sub&gt; planet orbiting a 6820 K 1.5 M&lt;sub&gt;\\ufffd\\ufffd&lt;/sub&gt; F-type star with a calculated obliquity of &amp;lambda; &amp;asymp; 90 &amp;plusmn;17&amp;deg;. KELT-7b is a hot Jupiter with a calculated obliquity of &amp;lambda; &amp;asymp; 8 &amp;plusmn; 17&amp;deg; orbiting a 6780 K F-type star. I explore the possibility of constraining the obliquity for these systems using the rotational period, the stellar radius, and the projected rotational velocity of the host star. The potential for this second method is limited by the accuracy of the stellar parameters used.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-04-11</dc:date><dc:source>http://zenodo.org/record/12163</dc:source><dc:doi>10.5281/zenodo.12163</dc:doi><dc:identifier>http://zenodo.org/record/12163</dc:identifier><dc:identifier>oai:zenodo.org:12163</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c65797046881e6957f52e5c6524839d7", 
+    "source_url": "https://zenodo.org/record/12163/export/xd"
+}

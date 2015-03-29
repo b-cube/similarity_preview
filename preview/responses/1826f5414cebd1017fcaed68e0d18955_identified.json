@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Cymraeg / Welsh</title> <link href=\"http://hdl.handle.net/2160/6\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/2160/6</id> <updated>2015-03-20T04:30:20Z</updated> <dc:date>2015-03-20T04:30:20Z</dc:date> <entry> <title>Arthur in Medieval Welsh Literature</title> <link href=\"http://hdl.handle.net/2160/27536\" rel=\"alternate\"/> <author> <name>Oliver</name> </author> <author> <name>Ian</name> </author> <id>http://hdl.handle.net/2160/27536</id> <updated>2015-03-18T22:02:35Z</updated> <published>2002-01-01T00:00:00Z</published> <summary type=\"text\">Arthur in Medieval Welsh Literature Oliver; Ian </summary> <dc:date>2002-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Ceinciau\\ufffd\\ufffd\\ufffdr Mabinogi</title> <link href=\"http://hdl.handle.net/2160/27535\" rel=\"alternate\"/> <author> <name>Ian</name> </author> <id>http://hdl.handle.net/2160/27535</id> <updated>2015-03-18T22:02:34Z</updated> <published>2002-01-01T00:00:00Z</published> <summary type=\"text\">Ceinciau\\ufffd\\ufffd\\ufffdr Mabinogi Ian </summary> <dc:date>2002-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Bob Owen y Blagardiwr</title> <link href=\"http://hdl.handle.net/2160/27534\" rel=\"alternate\"/> <author> <name>Bleddyn</name> </author> <id>http://hdl.handle.net/2160/27534</id> <updated>2015-03-18T22:02:32Z</updated> <published>2002-01-01T00:00:00Z</published> <summary type=\"text\">Bob Owen y Blagardiwr Bleddyn </summary> <dc:date>2002-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Defnydd hyd Ddydd Brawd</title> <link href=\"http://hdl.handle.net/2160/27477\" rel=\"alternate\"/> <author> <name>Marged</name> </author> <id>http://hdl.handle.net/2160/27477</id> <updated>2015-03-16T22:04:43Z</updated> <published>2001-01-01T00:00:00Z</published> <summary type=\"text\">Defnydd hyd Ddydd Brawd Marged Geraint </summary> <dc:date>2001-01-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1826f5414cebd1017fcaed68e0d18955", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/6"
+}

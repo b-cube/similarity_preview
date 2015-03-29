@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>High Energy Studies of Astrophysical Dust</dc:title><dc:creator>Corrales, Lia Racquel</dc:creator><dc:date>2015</dc:date><dc:type>text</dc:type><dc:subject>Astrophysics</dc:subject><dc:subject>Astronomy</dc:subject><dc:subject>Physics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D85T3J69</dc:identifier><dc:description>Astrophysical dust -- any condensed matter ranging from tens of atoms to micron sized grains -- accounts for about one third of the heavy elements produced in stars and disseminated into space. These tiny pollutants are responsible for producing the mottled appearance in the spray of light we call the \"Milky Way.\" However these seemingly inert particles play a strong role in the physics of the interstellar medium, aiding star and planet formation, and perhaps helping to guide galaxy evolution. Most dust grains are transparent to X-ray light, leaving a signature of atomic absorption, but also scattering the light over small angles. Bright X-ray objects serendipitously situated behind large columns of dust and gas provide a unique opportunity to study the dust along the line of sight. I focus primarily on X-ray scattering through dust, which produces a diffuse halo image around a central point source. Such objects have been observed around X-ray bright Galactic binaries and extragalactic objects that happen to shine through the plane of the Milky Way. I use the Chandra X-ray Observatory, a space-based laboratory operated by NASA, which has imaging resolution ideal for studying X-ray scattering halos. I examine several bright X-ray objects with dust-free sight lines to test their viability as templates and develop a parametric model for the Chandra HETG point spread function (PSF).</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "17e3cf282ac1f06b6c3110dbba88cfb9", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A179736.dc_xml"
+}

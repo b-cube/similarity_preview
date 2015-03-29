@@ -1,0 +1,15 @@
+{
+    "content": "<foo xmlns=\"http://z0\" xmlns:a=\"http://z0\" xmlns:b=\"http://z0\" a:att1=\"val1\" b:att2=\"val2\">   <c:bar xmlns:c=\"http://z0\" c:att3=\"val3\"></c:bar>  <d:bar xmlns:d=\"http://z0\"></d:bar> </foo>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c921f3bdf2d73002d8b713c8bcfe4b2e", 
+    "source_url": "http://www.w3.org/TR/2013/NOTE-xml-c14n2-testcases-20130618/files/out_inNsSuperfluous_c14nDefault.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20083052</identifier><identifier type=\"pwpk\">85799</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2008-3052</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Advanced Remote Sensing Research</title></titleInfo><originInfo><dateOther>Fri, 27 Jun 2008 00:00 -0500</dateOther><dateIssued>2008</dateIssued><publisher>Geological Survey (U.S.)</publisher></originInfo><name><namePart>Slonecker, Terrence; Jones, John W.; Price, Susan D.; Hogan, Dianna</namePart><role>Author</role></name><abstract>'Remote sensing' is a generic term for monitoring techniques that collect information without being in physical contact with the object of study. Overhead imagery from aircraft and satellite sensors provides the most common form of remotely sensed data and records the interaction of electromagnetic energy (usually visible light) with matter, such as the Earth's surface.&#xd; &#xd; Remotely sensed data are fundamental to geographic science. The Eastern Geographic Science Center (EGSC) of the U.S. Geological Survey (USGS) is currently conducting and promoting the research and development of three different aspects of remote sensing science: spectral analysis, automated orthorectification of historical imagery, and long wave infrared (LWIR) polarimetric imagery (PI).</abstract><physicalDescription><form>4 p.</form><form>Geological Survey (U.S.)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2008_3052.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2008/3052/</url></location><note type=\"citation/reference\">Advanced Remote Sensing Research; 2008; FS; 2008-3052; Fact Sheet; Slonecker, Terrence; Jones, John W.; Price, Susan D.; Hogan, Dianna</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c9009b4a74c0c1d6b88a7e2393759b40", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20083052"
+}

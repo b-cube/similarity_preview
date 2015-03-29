@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2005 English Nature (EN) Isle of Thanet. Sublittoral monitoring</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:c3ea3c53d6d8806e9636deff6c8d0522</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">The Thanet Coast was nominated as a candidate Special Area of Conservation (cSAC) to the European Commission in 1996 in recognition of the importance of the chalk exposures and the communities they support. Under the terms of the Habitats Directive (Council of European Communities 1992) the UK is required to report at intervals on the condition of its marine Special Areas of Conservation (SAC).  This survey was designed to repeat previous work carried out by the Natural History Museum (NHM) in order to provide information on the condition of the SAC. Data for the survey was gathered using divers moving along a transect line making video recordings fo the biotopes. The dataset includes GIS biotope polygon data of the Thanet coast and a comparrison with previous data found in 1997 and 2004 by the NHM.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2005-01-01</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "431e01f3ef102c41922e3d67aea8a45c", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__c3ea3c53d6d8806e9636deff6c8d0522.xml/DC"
+}

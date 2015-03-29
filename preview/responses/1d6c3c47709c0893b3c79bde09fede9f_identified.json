@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>The 2009 SOPRAN active thermography pilot experiment in the Baltic Sea</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Nagel</surname>             <given-names>Leila</given-names>           </name>           <aff>             <institution>Institut f\\ufffd\\ufffdr Umweltphysik, Heidelberg University</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>J\\ufffd\\ufffdhne</surname>             <given-names>Bernd</given-names>           </name>           <aff>             <institution>Interdisciplinary Center for Scientifc Computing (IWR), Heidelberg University</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Schimpf</surname>             <given-names>Uwe</given-names>           </name>           <aff>             <institution>Institut f\\ufffd\\ufffdr Umweltphysik, Heidelberg University</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2011</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/14956\"/>       <self-uri xlink:href=\"http://www.fluid.me.kyoto-u.ac.jp/gtws2010/\"/>       <self-uri xlink:href=\"https://zenodo.org/record/14956/files/GTWS2010p358_Schimpf_2011.pdf\"/>     </article-meta>     <abstract>&lt;p&gt;Heat is used as a proxy tracer for gases to investigate the transport across&lt;br /&gt; the sea-surface microlayer. A further development of the active controlled flux&lt;br /&gt; technique (ACFT) is presented. A periodically varying heat flux density is forced onto a rectangle area at the water surface by a CO2 laser. The resulting variation in sea surface temperature is imaged with a calibrated IR-camera. The time constant of the transfer process is estimated by the amplitude damping of the temperature response in the Fourier domain. A pilot experiment in the Baltic Sea was conducted and heat transfer rates were determined. Applying Schmidt number scaling, the measured transfer rates are in good agreement with empirical gas transfer wind speed relationships for moderate wind speeds (4-6 m/s). At high wind speed (12 m/s), the ACFT transfer rates are lower, which might be explained by the fact that heat transport is insensitive to bubble-mediated gas transfer.&lt;/p&gt;</abstract>   </front>   <article-type>user-asi</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1d6c3c47709c0893b3c79bde09fede9f", 
+    "source_url": "https://zenodo.org/record/14956/export/xn"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <jnlp spec=\"1.5+\"      codebase=\"https://cdxnodengn.epa.gov/cdx-rmp-maintain/jsp/comp/standalone\"      href=\"jnlp/launch.jnlp\">     <information>         <title>RMP Comp</title>         <vendor>CGI Federal</vendor>         <homepage href=\"https://cdxnodengn.epa.gov/cdx-rmp-maintain/action/rmp-comp\" />         <description>RMP*Comp application</description>      <icon href=\"images/comp-app-icon.png\"/>     <icon kind=\"splash\" href=\"images/comp-splash.png\"/>     <offline-allowed/>        <shortcut install=\"true\">      <desktop/>       <menu submenu=\"RMP Comp\"/>  </shortcut>          </information>          <security>      <all-permissions/>     </security>          <resources>         <!-- Application Resources -->         <j2se version=\"1.5+\" href=\"http://java.sun.com/products/autodl/j2se\"/>            <jar href=\"RMPComp.jar\" main=\"true\" />       <jar href=\"RMPComp_lib/antlr-2.7.6rc1.jar\"/>         <jar href=\"RMPComp_lib/asm.jar\"/>         <jar href=\"RMPComp_lib/asm-attrs.jar\"/>         <jar href=\"RMPComp_lib/cglib-2.1_3.jar\"/>         <jar href=\"RMPComp_lib/commons-collections-2.1.1.jar\"/>         <jar href=\"RMPComp_lib/commons-logging-1.1.3.jar\"/>         <jar href=\"RMPComp_lib/dom4j-1.6.1.jar\"/>         <jar href=\"RMPComp_lib/ehcache-1.1.jar\"/>         <jar href=\"RMPComp_lib/hibernate3.jar\"/>         <jar href=\"RMPComp_lib/jaas.jar\"/>         <jar href=\"RMPComp_lib/jaxen-1.1-beta-7.jar\"/>         <jar href=\"RMPComp_lib/jdbc2_0-stdext.jar\"/>         <jar href=\"RMPComp_lib/jta.jar\"/>         <jar href=\"RMPComp_lib/log4j-1.2.11.jar\"/>         <jar href=\"RMPComp_lib/xercesImpl-2.6.2.jar\"/>         <jar href=\"RMPComp_lib/xml-apis.jar\"/>         <jar href=\"RMPComp_lib/sqlite-jdbc-3.7.2.jar\"/>         <jar href=\"RMPComp_lib/swing-layout-1.0.3.jar\"/>         <jar href=\"RMPComp_lib/AbsoluteLayout.jar\"/>         <jar href=\"RMPComp_lib/commons-lang-2.4.jar\"/>         <jar href=\"RMPComp_lib/beansbinding-1.2.1.jar\"/>      </resources>         <application-desc main-class=\"gov.epa.cdx.rmp.RMPComp\"/> </jnlp>                                    ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b953eeb39aec7d75a662464257d722fd", 
+    "source_url": "https://cdxnodengn.epa.gov/cdx-rmp-maintain/action/rmp-comp/launch"
+}

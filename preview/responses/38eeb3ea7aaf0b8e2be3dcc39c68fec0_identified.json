@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <access-policy>  <cross-domain-access>   <policy>    <allow-from http-request-headers=\"*\">     <domain uri=\"http://*\" />     <domain uri=\"https://*\" />    </allow-from>    <grant-to>     <resource path=\"/\" include-subpaths=\"true\" />    </grant-to>   </policy>  </cross-domain-access> </access-policy>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "38eeb3ea7aaf0b8e2be3dcc39c68fec0", 
+    "source_url": "http://nowcoast.noaa.gov/clientaccesspolicy.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/afghanistan-election-data\">     <owl:sameAs rdf:resource=\"urn:uuid:85db9067-2902-4ef7-b043-3008a309fdd6\"></owl:sameAs>     <dct:description>From website - Welcome to AfghanistanElectionData.org. This website, created by the National Democratic Institute (NDI) in partnership with Development Seed, a Washington, D.C.-based online communications consultancy, is designed to make data from the August 20, 2009, Afghanistan presidential election accessible and transparent. The reports below provide examples of the analysis that this website facilitates.We have provided one sample csv file as there is no download for the whole dataset. There are many more files on the website.</dct:description>         <dcat:keyword>country-afghanistan</dcat:keyword>         <dcat:keyword>election</dcat:keyword>         <dcat:keyword>politics</dcat:keyword>         <dcat:keyword>poll</dcat:keyword>         <dcat:keyword>transparency</dcat:keyword>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/afghanistan-election-data\"></foaf:homepage>     <rdfs:label>afghanistan-election-data</rdfs:label>     <dct:identifier>afghanistan-election-data</dct:identifier>     <dct:title>Afghanistan Election Districts</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://afghanistanelectiondata.org/sites/default/files/district_centerpoints.csv\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>             </dcat:Distribution>         </dcat:distribution>         <dct:relation>           <rdf:Description>             <rdfs:label>spatial</rdfs:label>             <rdf:value>{ \"type\": \"Polygon\", \"coordinates\": [ [ [74.898827, 29.394159],[74.898827, 38.453041], [60.50526, 38.453041], [60.50526, 29.394159], [74.898827, 29.394159] ] ] }</rdf:value>           </rdf:Description>         </dct:relation>         <dct:relation>           <rdf:Description>             <rdfs:label>spatial-text</rdfs:label>             <rdf:value>Afghanistan</rdf:value>           </rdf:Description>         </dct:relation>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "4e9f15797d609bcb0ef1edc3e135ef2a", 
+    "source_url": "http://demo.ckan.org/dataset/85db9067-2902-4ef7-b043-3008a309fdd6.rdf"
+}

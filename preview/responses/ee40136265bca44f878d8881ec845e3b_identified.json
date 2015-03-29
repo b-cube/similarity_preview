@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.ietf-aaa-diameter-framework'> <front> <title>Diameter Framework Document</title>  <author initials='P' surname='Calhoun' fullname='Pat Calhoun'>     <organization /> </author>  <date month='March' day='5' year='2001' /> </front>  <seriesInfo name='Internet-Draft' value='draft-ietf-aaa-diameter-framework-01' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-ietf-aaa-diameter-framework-01.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ee40136265bca44f878d8881ec845e3b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-aaa-diameter-framework.xml"
+}

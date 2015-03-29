@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OW/AquaticNuisanceSpeciesLocator/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OW/BestManagementPractices/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2f9bf8f87e6c01f36a1ddf598d2692d3", 
+    "source_url": "http://gispub.epa.gov/arcgis/rest/services/OW?f=sitemap"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>City of Culver City</ShortName>   <Description>Open Data | City of Culver City</Description>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://data.culvercity.org/stylesheets/images/common/favicon.ico</Image>   <Url type=\"text/html\" method=\"get\" template=\"http://data.culvercity.org/browse?q={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fbb55d9d2057b1d5a7c7faddb1f6e07a", 
+    "source_url": "https://data.culvercity.org/opensearch.xml"
+}

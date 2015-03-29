@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0027\">   <front>     <title>Current Jabber OpenPGP Usage</title>     <author initials=\"T.\" surname=\"Muldowney\" fullname=\"Thomas Muldowney\">       <organization/>       <address>         <email>temas@jabber.org</email>       </address>     </author>     <date day=\"14\" month=\"March\" year=\"2014\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0027\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0027.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fc5dc6076ac2b88ede6856c8ed11db80", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0027.xml"
+}

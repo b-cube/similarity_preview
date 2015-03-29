@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?> <rdf:RDF      xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"      xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"      xmlns:dc=\"http://purl.org/dc/elements/1.1/\"      xmlns:dcq=\"http://dublincore.org/2000/03/13/dcq#\"      xmlns:lom=\"http://www.imsproject.org/rdf/imsmd_rootv1p2#\"      xmlns:lom_cls=\"http://www.imsproject.org/rdf/imsmd_classificationv1p2#\">      <rdf:Property rdf:ID=\"classification\">     <rdfs:label>Classification</rdfs:label>     <rdfs:comment>This category describes where this learning object falls within a particular classification system.</rdfs:comment>   </rdf:Property>      <rdf:Description about=\"http://purl.org/dc/elements/1.1/subject\">     <rdfs:subPropertyOf rdf:resource=\"#classification\"/>   </rdf:Description>     <rdf:Property rdf:ID=\"prerequisite\">     <rdfs:subPropertyOf rdf:resource=\"#classification\"/>     <rdfs:label>Prerequisite</rdfs:label>   </rdf:Property>    <rdf:Property rdf:ID=\"educationalobjective\">     <rdfs:subPropertyOf rdf:resource=\"#classification\"/>     <rdfs:label>Educational Objective</rdfs:label>   </rdf:Property>    <rdf:Property rdf:ID=\"accessibilityrestrictions\">     <rdfs:subPropertyOf rdf:resource=\"#classification\"/>     <rdfs:label>Accessibility Restrictions</rdfs:label>   </rdf:Property>    <rdf:Property rdf:ID=\"educationallevel\">     <rdfs:subPropertyOf rdf:resource=\"#classification\"/>     <rdfs:label>Educational Level</rdfs:label>   </rdf:Property>    <rdf:Property rdf:ID=\"skilllevel\">     <rdfs:subPropertyOf rdf:resource=\"#classification\"/>     <rdfs:label>Skill Level</rdfs:label>   </rdf:Property>    <rdf:Property rdf:ID=\"securitylevel\">     <rdfs:subPropertyOf rdf:resource=\"#classification\"/>     <rdfs:label>Security Level</rdfs:label>   </rdf:Property>     <rdfs:Class rdf:ID=\"Taxonomy\">     <rdfs:label>Taxonomy</rdfs:label>     <rdfs:comment>A hierarchical taxonomy.</rdfs:comment>   </rdfs:Class>    <rdf:Property rdf:ID=\"taxon\">     <rdfs:label>Taxon</rdfs:label>     <rdfs:comment>This property describes a particular term within a taxonomy. A taxon is a node that has a defined label or term.</rdfs:comment>   </rdf:Property>   </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a7f503aa42747cf9adf4fe9aeaed7172", 
+    "source_url": "http://www.imsglobal.org/rdf/imsmd_classificationv1p2.xml"
+}

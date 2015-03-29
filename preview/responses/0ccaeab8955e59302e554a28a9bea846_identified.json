@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0184'>  <front> <title>Proposed graphic display modes</title> <author initials='K.C.' surname='Kelley' fullname='K.C. Kelley'> <organization /></author> <date year='1971' month='July' /></front>  <seriesInfo name='RFC' value='184' /> <format type='TXT' octets='18678' target='http://www.rfc-editor.org/rfc/rfc184.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0ccaeab8955e59302e554a28a9bea846", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0184.xml"
+}

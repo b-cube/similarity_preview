@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">    <channel rdf:about=\"https://verc.enes.org/models/software-tools/software-tools-1/RSS\">   <title>vERC</title>   <link>https://verc.enes.org</link>   <description>Virtual Earth System Modelling Resource Centre</description>   <image rdf:resource=\"https://verc.enes.org/logo.png\"/>    <items>     <rdf:Seq>                <rdf:li rdf:resource=\"https://verc.enes.org/models/software-tools/bfg\"/>                       <rdf:li rdf:resource=\"https://verc.enes.org/models/software-tools/cdo\"/>                       <rdf:li rdf:resource=\"https://verc.enes.org/models/software-tools/oasis\"/>            </rdf:Seq>   </items>  </channel>     <item rdf:about=\"https://verc.enes.org/models/software-tools/bfg\">     <title>BFG</title>     <link>https://verc.enes.org/models/software-tools/bfg</link>     <description>The Bespoke Framework Generator. It generates bespoke coupling frameworks.</description>     <dc:date>2012-06-13T10:00:27Z</dc:date>     <dc:type>Tool</dc:type>   </item>     <item rdf:about=\"https://verc.enes.org/models/software-tools/cdo\">     <title>CDO</title>     <link>https://verc.enes.org/models/software-tools/cdo</link>     <description>Climate Data Operators</description>     <dc:date>2014-10-31T08:53:50Z</dc:date>     <dc:type>Tool</dc:type>   </item>     <item rdf:about=\"https://verc.enes.org/models/software-tools/oasis\">     <title>OASIS</title>     <link>https://verc.enes.org/models/software-tools/oasis</link>     <description>OASIS</description>     <dc:date>2014-01-20T19:31:04Z</dc:date>     <dc:type>Tool</dc:type>   </item>    </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "27594d701b52a72984b640c8330029d8", 
+    "source_url": "https://verc.enes.org/models/software-tools/software-tools-1/RSS"
+}

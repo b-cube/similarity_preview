@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Howell, Owain W</a1>   <a2>Schulz-Triefglaff, Elena Katharina</a2>   <a2>Carassiti, Daniele</a2>   <a2>Gentleman, Steven M</a2>   <a2>Nicholas, Richard</a2>   <a2>Roncaroli, Federico</a2>   <a2>Reynolds, Richard</a2>   <t1>Extensive grey matter pathology in the cerebellum in multiple sclerosis is linked to inflammation in the subarachnoid space.</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;AIMS:&amp;nbsp;Multiple Sclerosis (MS) is a progressive inflammatory neurological disease affecting myelin, neurons and glia. Demyelination and neurodegeneration of cortical grey matter contributes to a more severe disease and inflammation of the forebrain meninges associates with pathology of the underlying neocortical grey matter, particularly in deep sulci. We assessed the extent of meningeal inflammation of the cerebellum, another structure with a deeply folded anatomy, to better understand the association between subarachnoid inflammation and grey matter pathology in progressive MS.&lt;/p&gt;  &lt;p&gt;METHODS:&amp;nbsp;We examined demyelinating and neuronal pathology in the context of meningeal inflammation in cerebellar tissue blocks from a cohort of 27 progressive MS cases previously characterized on the basis of the absence/ presence of lymphoid-like aggregates in the forebrain meninges, in comparison to 11 non-neurological controls.&lt;/p&gt;  &lt;p&gt;RESULTS:&amp;nbsp;Demyelination and meningeal inflammation of the cerebellum was greatest in those cases previously characterised as harbouring lymphoid-like structures in the forebrain regions. Meningeal inflammation was mild to moderate in cerebellar tissue blocks and no lymphoid-like structures were seen. Quantification of meningeal macrophages, CD4+, CD8+ T lymphocytes, B cells and plasma cells revealed that the density of meningeal macrophages associated with microglial activation in the grey matter, and the extent of grey matter demyelination correlated with the density of macrophages and plasma cells in the overlying meninges, and activated microglia of the parenchyma.&lt;/p&gt;  &lt;p&gt;CONCLUSIONS:&amp;nbsp;These data suggest that chronic inflammation is widespread throughout the subarachnoid space and contributes to a more severe subpial demyelinating pathology in the cerebellum.&lt;/p&gt;</ab>   <la/>   <k1>cerebellum;                 grey matter;                 meningeal inflammation;                 multiple sclerosis;                 demyelination;                 </k1>   <pb/>   <pp/>   <yr>2014-11-24</yr>   <ed/>   <ul>https://zenodo.org/record/15931/files/Howell_NeuropatholApplNeurobiol_2014-P18a-AAM.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a13bcca8e5702320aec3932b89af5fb8", 
+    "source_url": "https://zenodo.org/record/15931/export/xw"
+}

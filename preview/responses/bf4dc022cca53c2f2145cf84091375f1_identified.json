@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Equivariant Gromov-Witten Theory of GKM Orbifolds</dc:title><dc:creator>Zong, Zhengyu</dc:creator><dc:date>2015</dc:date><dc:type>text</dc:type><dc:subject>Mathematics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8513WZC</dc:identifier><dc:description>In this paper, we study the all genus Gromov-Witten theory for any GKM orbifold X. We generalize the Givental formula which is studied in the smooth case in [41] [42] [43] to the orbifold case. Specifically, we recover the higher genus Gromov-Witten invariants of a GKM orbifold X by its genus zero data. When X is toric, the genus zero Gromov-Witten invariants of X can be explicitly computed by the mirror theorem studied in [22] and our main theorem gives a closed formula for the all genus Gromov-Witten invariants of X. When X is a toric Calabi-Yau 3-orbifold, our formula leads to a proof of the remodeling conjecture in [38]. The remodeling conjecture can be viewed as an all genus mirror symmetry for toric Calabi-Yau 3-orbifolds. In this case, we apply our formula to the A-model higher genus potential and prove the remodeling conjecture by matching it to the B-model higher genus potential.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bf4dc022cca53c2f2145cf84091375f1", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A180940.dc_xml"
+}

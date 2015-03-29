@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.T1-231.1993\"> <front> <title>Telecommunications - Digital Hierarchy - Layer 1 In-Service Digital Transmission Performance Monitoring</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"September\" year=\"1993\" /> </front>  <seriesInfo name=\"ANSI\" value=\"T1.231\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "19c0ce607f541355dc27c2a375a97ca3", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ANSI.T1-231.1993.xml"
+}

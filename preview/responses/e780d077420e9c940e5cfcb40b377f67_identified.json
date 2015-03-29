@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0430'>  <front> <title>Comments on File Transfer Protocol</title> <author initials='R.T.' surname='Braden' fullname='R.T. Braden'> <organization /></author> <date year='1973' month='February' /></front>  <seriesInfo name='RFC' value='430' /> <format type='TXT' octets='18696' target='http://www.rfc-editor.org/rfc/rfc430.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e780d077420e9c940e5cfcb40b377f67", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0430.xml"
+}

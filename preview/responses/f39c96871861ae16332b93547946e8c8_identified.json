@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.H323.1998\"> <front> <title>PACKET-BASED MULTIMEDIA COMMUNICATIONS SYSTEM</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"\" year=\"1998\" /> </front>  <seriesInfo name=\"ITU\" value=\"Recommendation H.323\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f39c96871861ae16332b93547946e8c8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.H323.1998.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\">   <service>     <engineName>WordPress</engineName>     <engineLink>http://wordpress.org/</engineLink>     <homePageLink>https://gigaom2.wordpress.com</homePageLink>     <apis>       <api name=\"WordPress\" blogID=\"1\" preferred=\"true\" apiLink=\"https://gigaom2.wordpress.com/xmlrpc.php\" />       <api name=\"Movable Type\" blogID=\"1\" preferred=\"false\" apiLink=\"https://gigaom2.wordpress.com/xmlrpc.php\" />       <api name=\"MetaWeblog\" blogID=\"1\" preferred=\"false\" apiLink=\"https://gigaom2.wordpress.com/xmlrpc.php\" />       <api name=\"Blogger\" blogID=\"1\" preferred=\"false\" apiLink=\"https://gigaom2.wordpress.com/xmlrpc.php\" />       <api name=\"Twitter\" blogID=\"\" preferred=\"false\" apiLink=\"https://twitter-api.wordpress.com/\" />     </apis>   </service> </rsd> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a73426487a9ae4f66ef9fb3f1aa8fabf", 
+    "source_url": "https://gigaom2.wordpress.com/xmlrpc.php?rsd"
+}

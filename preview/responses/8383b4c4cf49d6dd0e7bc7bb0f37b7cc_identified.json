@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description about=\"http://dublincore.org/documents/2008/11/03/interoperability-levels/\"> <dc:title>Interoperability Levels for Dublin Core Metadata</dc:title> <dc:creator>Mikael Nilsson</dc:creator> <dc:creator>Thomas Baker</dc:creator> <dc:creator>Pete Johnston</dc:creator> <dc:description>This document discusses the design choices involved in designing applications for different types of interoperability.  At Level 1, applications use data components with shared natural- language definitions. At Level 2, data is based on the formal-semantic model of the W3C Resource Description Framework. At Level 3, data is structured as Description Sets (records). At Level 4, data content is subject to a shared set of constraints (described in a Description Set Profile).  Conformance tests and examples are provided for each level.  The Working Draft represents work in progress for which the authors seek feedback.</dc:description> <dc:date>2008-11-03</dc:date> <dc:format>text/html</dc:format> <dc:language>en</dc:language> <dc:publisher>Dublin Core Metadata Initiative</dc:publisher> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8383b4c4cf49d6dd0e7bc7bb0f37b7cc", 
+    "source_url": "http://dublincore.org/documents/2008/11/03/interoperability-levels/index.shtml.rdf"
+}

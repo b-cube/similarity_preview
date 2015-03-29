@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.12164</dc:identifier><dc:creator>Claus, Brian</dc:creator><dc:creator>Johnson, John Asher</dc:creator><dc:title>Where do Jupiters Live? Investigating the Correlation between Jupiter Occurrence Rate and Host Star Type</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;I investigate the observational biases inherent in exoplanet transit surveys and explain the methodology for calculating the planet occurrence rate from a transit survey. I present calculations of the Jupiter type planet occurrence rate around 3 subsets of the Kepler target stars 1)The M Dwarfs 2) The Solar Type (G,K) Stars 3)The High Mass (O,B,A,F) stars. We are unable to provide accurate occurrence rates for the M Dwarfs or the very high mass (O,B) stars due to a prohibitively low number of planet candidate host stars in these populations. However I am able to demonstrate that there is no strong correlation between Jupiter type planet occurrence rate and stellar mass when restricted to the analysis of the G,K stars vs. the A,F stars. If there is correlation between Jupiter type planet occurrence rate and stellar mass it occurs over larger mass ranges and cannot be discovered from the Kepler dataset. Radial velocity surveys as well as future TESS observations of very high mass and low mass stars may be necessary to investigate the existance of a correlation over greater mass ranges.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-04-01</dc:date><dc:source>http://zenodo.org/record/12164</dc:source><dc:doi>10.5281/zenodo.12164</dc:doi><dc:identifier>http://zenodo.org/record/12164</dc:identifier><dc:identifier>oai:zenodo.org:12164</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5591bdf145c96edbd6018461f5318261", 
+    "source_url": "http://zenodo.org/record/12164/export/xd"
+}

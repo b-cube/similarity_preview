@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <rdf:RDF    xmlns='http://purl.org/rss/1.0/'   xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'   xmlns:dc='http://purl.org/dc/elements/1.1/'>      <channel rdf:about='http://xml.resource.org/public/rfc/bibxml5/index.rdf'>         <title>Recent 3GPP publications</title>         <link>http://xml.resource.org/public/rfc/bibxml5/index.rdf</link>         <description>Automatically generated from </description>         <dc:language>en-us</dc:language>         <dc:date>2013-11-06T11:09:15-00:00</dc:date>          <items><rdf:Seq>             <rdf:li resource='http://www.3gpp.org/ftp/Specs/html-info/43033.htm' />             <rdf:li resource='http://www.3gpp.org/ftp/Specs/html-info/24408.htm' />             <rdf:li resource='http://www.3gpp.org/ftp/Specs/html-info/0333.htm' />         </rdf:Seq></items>     </channel>  <item rdf:about='http://www.3gpp.org/ftp/Specs/html-info/43033.htm'>     <title>3G security; LawfulInterception; Stage 2</title>     <link>http://www.3gpp.org/ftp/Specs/html-info/43033.htm</link>     <description />     <dc:date>2011-04-05T22:00:00-00:00</dc:date> </item>  <item rdf:about='http://www.3gpp.org/ftp/Specs/html-info/24408.htm'>     <title>TISPAN; PSTN/ISDN simulation services Terminating Identification Presentation (TIP) and Terminating Identification Restriction (TIR); Protocol specification</title>     <link>http://www.3gpp.org/ftp/Specs/html-info/24408.htm</link>     <description />     <dc:date>2008-03-19T23:00:00-00:00</dc:date> </item>  <item rdf:about='http://www.3gpp.org/ftp/Specs/html-info/0333.htm'>     <title>3G Security; Lawful Interception; Stage 2</title>     <link>http://www.3gpp.org/ftp/Specs/html-info/0333.htm</link>     <description />     <dc:date>2000-12-20T23:00:00-00:00</dc:date> </item>   </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "41772dd0cb7c96fb2252bb80d20d9e22", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/index.rdf"
+}

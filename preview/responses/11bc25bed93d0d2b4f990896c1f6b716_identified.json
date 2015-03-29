@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Estrich, Pau</a1>   <a2>Baig, Roger</a2>   <a2>Vilalta, Ivan</a2>   <a2>Neumann, Axel</a2>   <a2>Aymerich, Marc</a2>   <a2>Lopez, Ester</a2>   <a2>Vega, Davide</a2>   <a2>Meseguer, Roc</a2>   <a2>Freitag, Felix</a2>   <a2>Navarro, Leandro</a2>   <t1>Community Home Gateways for P2P Clouds</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;P2P based clouds built with low-end devices and voluntarily contributed resources have been proposed by several authors. While some work was published on architectures and decentralized P2P-based mechanisms for such clouds, yet no complete system has been presented which implements such cloud systems without important limitations. We present the community home gateway, a computer system attached to a wireless community network router, able to host platform and application services. Different to current home gateways and other low-end systems, the community home gateway offers resource virtualization, and can thus be used as cloud resource. The community home gateway removes the lack of a system open for service contributions and therefore constitutes an important step towards building P2P clouds with low-end devices. While we present the community home gateway as being part of a P2P community cloud, the applications scenarios of the system that can be imagined go beyond community networks.&lt;/p&gt;</ab>   <la/>   <k1>P2P services, home gateways, community networks;                 </k1>   <pb/>   <pp/>   <yr>2013-09-11</yr>   <ed/>   <ul>http://zenodo.org/record/8461/files/Demo_P2P_2013_v7.pdf;  http://zenodo.org/record/8461/files/Demo_P2P_2013_v7.png?subformat=icon-90;  http://www.p2p13.org/;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "11bc25bed93d0d2b4f990896c1f6b716", 
+    "source_url": "https://zenodo.org/record/8461/export/xw"
+}

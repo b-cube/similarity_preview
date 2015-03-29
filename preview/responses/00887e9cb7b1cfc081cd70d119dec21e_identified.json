@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"    xmlns:dc = \"http://purl.org/dc/elements/1.1/\">    <rdf:Description about=\"http://dublincore.org/usage/documents/2004/12/20/approval/\">     <dc:title>Procedure for approval of DCMI Metadata Terms and Recommendations</dc:title>      <dc:creator>Dekkers, Makx</dc:creator>     <dc:description>This document lists the step-by-step process for the approval of DCMI metadata terms and other recommendations.</dc:description>      <dc:date>2004-12-20</dc:date>      <dc:format>text/html</dc:format>      <dc:language>en</dc:language>      <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>    </rdf:Description>  </rdf:RDF>  ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "00887e9cb7b1cfc081cd70d119dec21e", 
+    "source_url": "http://dublincore.org/usage/documents/2004/12/20/approval/index.shtml.rdf"
+}

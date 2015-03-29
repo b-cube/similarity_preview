@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.7614</dc:identifier><dc:creator>Jimenez, Javi</dc:creator><dc:creator>Baig, Roger</dc:creator><dc:creator>Escrich, Pau</dc:creator><dc:creator>Khan, Amin M</dc:creator><dc:creator>Freitag, Felix</dc:creator><dc:creator>Navarro, Leandro</dc:creator><dc:creator>Pietrosemoli, Ermanno</dc:creator><dc:creator>Zennaro, Marco</dc:creator><dc:creator>Payberah, Amir H</dc:creator><dc:creator>Vlassov, Vladimir</dc:creator><dc:title>Supporting Cloud Deployment in the Guifi.net Community Network</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Community networking is an emerging model of a shared communication infrastructure in which communities of citizens build and own open networks. Community networks offer successfully IP-based networking to the user. Cloud computing infrastructures however, while common in today&amp;#39;s Internet, hardy exist in community networks. We explain our approach to bring clouds into the Guifi.net community network. For this we have started integrating part of our cloud prototype into the Guifi.net community network management tools. A proof-of-concept cloud infrastructure is currently under deployment in the Guifi.net community network. Our long term vision is that the users of community networks will not need to consume cloud applications from the Internet, but find them within the community network.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2013-10-30</dc:date><dc:source>http://zenodo.org/record/7614</dc:source><dc:doi>10.5281/zenodo.7614</dc:doi><dc:identifier>http://zenodo.org/record/7614</dc:identifier><dc:identifier>oai:zenodo.org:7614</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9a0d09e13e8427cbdbaf708e7758da33", 
+    "source_url": "https://zenodo.org/record/7614/export/xd"
+}

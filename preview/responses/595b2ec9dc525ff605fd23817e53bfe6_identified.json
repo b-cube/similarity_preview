@@ -1,0 +1,15 @@
+{
+    "content": "<rss version=\"2.0\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">   <channel>     <title>Ithaca Neighborhood Housing Services Content Feed</title>     <link>http://ithacanhs.org/</link>     <description>The latest content updates from the Ithaca Neighborhood Housing Services website.</description>     <language>en-us</language>     <pubDate>Fri, 13 Mar 2015 02:50:08 GMT</pubDate>     <docs>http://ithacanhs.org/rss</docs>     <generator>CakePHP</generator>     <webMaster>info@ancientwisdompro.com</webMaster>              <item>       <title>Content : Stone Quarry</title>       <link>http://ithacanhs.org/stone-quarry.html</link>       <description>Enjoy dynamic community living in the City of Ithaca, all within walking distance of shops, restaurants, banks, grocery stores, and professional services. </description>        <pubDate>Thu, 12 Mar 2015 08:55:20 -0500</pubDate>       <guid>http://ithacanhs.org/stone-quarry.html</guid>     </item>              <item>       <title>Content : 210 Hancock St</title>       <link>http://ithacanhs.org/210-hancock-st-old.html</link>       <description>INHS is redeveloping the old Neighborhood Pride site into apartments, homes and commercial spaces.</description>        <pubDate>Mon, 09 Mar 2015 11:19:19 -0500</pubDate>       <guid>http://ithacanhs.org/210-hancock-st-old.html</guid>     </item>              <item>       <title>Content : Energy Star</title>       <link>http://ithacanhs.org/energy-star.html</link>       <description>This national program is the Gold standard for efficient building.</description>        <pubDate>Thu, 10 Apr 2014 13:19:33 -0500</pubDate>       <guid>http://ithacanhs.org/energy-star.html</guid>     </item>       </channel> </rss> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "595b2ec9dc525ff605fd23817e53bfe6", 
+    "source_url": "http://ithacanhs.org/rss/feed/content"
+}

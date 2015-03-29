@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <ExceptionReport xmlns=\"http://www.opengis.net/ows\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.opengis.net/ows/owsCommon.xsd\" version=\"0.3.20\" language=\"en\">  <Exception exceptionCode=\"MissingParameterValue\" locator=\"ExecuteGDALWarp()\">   <ExceptionText>Can not read the source DEM files. The errors were caused by failed RAID connection or incorrect configration.</ExceptionText>  </Exception> </ExceptionReport>  ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "0.3.20", 
+        "protocol": "OGC:error", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "09ce500612ee5d2834722a1709ba7b31", 
+    "source_url": "http://geobrain.laits.gmu.edu/cgi-bin/gbwcs-dem?service=wcs&version=1.0.0&request=getcoverage&coverage=SRTM_90m_Global&bbox=-90,38,-89,39&crs=epsg:4326&format=image/geotiff&store=true"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../spi_info.htm\"/>  <o:File HRef=\"next_active.gif\"/>  <o:File HRef=\"next_disabled.gif\"/>  <o:File HRef=\"prev_active.gif\"/>  <o:File HRef=\"prev_disabled.gif\"/>  <o:File HRef=\"outline_collapse.gif\"/>  <o:File HRef=\"outline_expand.gif\"/>  <o:File HRef=\"space.gif\"/>  <o:File HRef=\"endshow.htm\"/>  <o:File HRef=\"navigation_bar.htm\"/>  <o:File HRef=\"outline_navigation_bar.htm\"/>  <o:File HRef=\"outline_collapsed.htm\"/>  <o:File HRef=\"outline_expanded.htm\"/>  <o:File HRef=\"blank_notes.htm\"/>  <o:File HRef=\"slide0001.htm\"/>  <o:File HRef=\"slide0001_image001.gif\"/>  <o:File HRef=\"slide0001_image002.gif\"/>  <o:File HRef=\"slide0003.htm\"/>  <o:File HRef=\"slide0003_image003.gif\"/>  <o:File HRef=\"slide0003_image004.gif\"/>  <o:File HRef=\"slide0011.htm\"/>  <o:File HRef=\"slide0011_image005.gif\"/>  <o:File HRef=\"slide0011_image006.gif\"/>  <o:File HRef=\"slide0002.htm\"/>  <o:File HRef=\"slide0002_image007.gif\"/>  <o:File HRef=\"slide0002_image008.gif\"/>  <o:File HRef=\"slide0005.htm\"/>  <o:File HRef=\"slide0005_image009.gif\"/>  <o:File HRef=\"slide0005_image010.gif\"/>  <o:File HRef=\"slide0006.htm\"/>  <o:File HRef=\"slide0006_image011.gif\"/>  <o:File HRef=\"slide0006_image012.gif\"/>  <o:File HRef=\"slide0009.htm\"/>  <o:File HRef=\"slide0009_background.jpg\"/>  <o:File HRef=\"slide0009_image013.gif\"/>  <o:File HRef=\"slide0009_image014.gif\"/>  <o:File HRef=\"slide0010.htm\"/>  <o:File HRef=\"slide0010_background.jpg\"/>  <o:File HRef=\"slide0010_image015.gif\"/>  <o:File HRef=\"slide0010_image016.gif\"/>  <o:File HRef=\"slide0016.htm\"/>  <o:File HRef=\"slide0016_background.jpg\"/>  <o:File HRef=\"slide0012.htm\"/>  <o:File HRef=\"slide0012_background.gif\"/>  <o:File HRef=\"slide0012_image017.gif\"/>  <o:File HRef=\"slide0012_image018.gif\"/>  <o:File HRef=\"slide0013.htm\"/>  <o:File HRef=\"slide0013_background.gif\"/>  <o:File HRef=\"slide0013_image019.gif\"/>  <o:File HRef=\"slide0013_image020.gif\"/>  <o:File HRef=\"slide0014.htm\"/>  <o:File HRef=\"slide0014_background.gif\"/>  <o:File HRef=\"slide0014_image021.gif\"/>  <o:File HRef=\"slide0014_image022.gif\"/>  <o:File HRef=\"slide0015.htm\"/>  <o:File HRef=\"slide0015_background.gif\"/>  <o:File HRef=\"slide0015_image023.gif\"/>  <o:File HRef=\"slide0015_image024.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fca90ab3d8ea51c510d3e95af0f24f18", 
+    "source_url": "http://www.prh.noaa.gov/hnl/hydro/pages/spi_info_files/filelist.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Biomechanical and Musculoskeletal Modelling of the hand</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Durand</surname>             <given-names>Sebastien</given-names>           </name>           <aff>             <institution>UMR 6600</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Vignais</surname>             <given-names>Nicolas</given-names>           </name>           <aff>             <institution>UMR 6600</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Marin</surname>             <given-names>Frederic</given-names>           </name>           <aff>             <institution>UMR 6600</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2010</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/26\"/>       <self-uri xlink:href=\"http://zenodo.cern.ch/record/26/files/Marin et al 2010.pdf\"/>       <self-uri xlink:href=\"http://zenodo.cern.ch/record/26/files/Marin et al 2010.png?subformat=icon-90\"/>       <self-uri xlink:href=\"http://zenodo.org/record/26/files/Marin et al 2010.pdf\"/>       <self-uri xlink:href=\"http://zenodo.org/record/26/files/Marin et al 2010.png?subformat=icon-90\"/>     </article-meta>     <abstract>Communications et posters du XLVIe congr\\ufffd\\ufffds annuel de la Soci\\ufffd\\ufffdt\\ufffd\\ufffd fran\\ufffd\\ufffdaise de chirurgie de la main (Palais des congr\\ufffd\\ufffds) de la Porte Maillot, Paris, du 16 au 18 de\\ufffd\\ufffdcembre 2010)</abstract>   </front>   <article-type>publication</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b471679599cc1aad34cf8aa28f16eee5", 
+    "source_url": "http://zenodo.org/record/26/export/xn"
+}

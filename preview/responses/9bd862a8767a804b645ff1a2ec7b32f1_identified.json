@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123044</identifier><identifier type=\"pwpk\">70037912</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3044</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Famous building stones of our Nation's capital</title></titleInfo><originInfo><dateOther>Thu, 29 Mar 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>U.S. Geological Survey</namePart><role>Author</role></name><abstract>The buildings of our Nation's Capital are constructed with rocks from quarries located throughout the United States and many distant lands. The earliest Government buildings, however, were constructed with stones from nearby sources because it was too difficult and expensive to move heavy materials such as stone any great distance without the aid of modern transportation methods, including large cargo ships, trains, and trucks. This fact sheet describes the source and appearance of three frequently used local stones employed in building Washington, D.C., and the geologic environment in which they were formed.</abstract><physicalDescription><form>2 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3044.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3044/</url><url note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2012/3044/pdf/fs2012-3044_rev432012.pdf</url></location><note type=\"citation/reference\">Famous building stones of our Nation's capital; 2012; FS; 2012-3044; Fact Sheet; U.S. Geological Survey</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9bd862a8767a804b645ff1a2ec7b32f1", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123044"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <catalog xmlns=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.0.1\">   <service name=\"all\" serviceType=\"Compound\" base=\"\">     <service name=\"odap\" serviceType=\"OPENDAP\" base=\"/thredds/dodsC/\" />     <service name=\"http\" serviceType=\"HTTPServer\" base=\"/thredds/fileServer/\" />     <service name=\"ncml\" serviceType=\"NCML\" base=\"/thredds/ncml/\" />     <service name=\"uddc\" serviceType=\"UDDC\" base=\"/thredds/uddc/\" />     <service name=\"iso\" serviceType=\"ISO\" base=\"/thredds/iso/\" />     <service name=\"wms\" serviceType=\"WMS\" base=\"/thredds/wms/\" />     <service name=\"subsetServer\" serviceType=\"NetcdfSubset\" base=\"/thredds/ncss/grid/\" />   </service>   <dataset name=\"IASNFS Archive\" ID=\"IASNFS_Archive\">     <metadata inherited=\"true\">       <serviceName>all</serviceName>       <dataType>GRID</dataType>     </metadata>     <catalogRef xlink:href=\"2009/catalog.xml\" xlink:title=\"2009\" ID=\"IASNFS_Archive/2009\" name=\"\" />     <catalogRef xlink:href=\"2008/catalog.xml\" xlink:title=\"2008\" ID=\"IASNFS_Archive/2008\" name=\"\" />     <catalogRef xlink:href=\"2007/catalog.xml\" xlink:title=\"2007\" ID=\"IASNFS_Archive/2007\" name=\"\" />     <catalogRef xlink:href=\"2006/catalog.xml\" xlink:title=\"2006\" ID=\"IASNFS_Archive/2006\" name=\"\" />     <catalogRef xlink:href=\"2005/catalog.xml\" xlink:title=\"2005\" ID=\"IASNFS_Archive/2005\" name=\"\" />     <catalogRef xlink:href=\"2004/catalog.xml\" xlink:title=\"2004\" ID=\"IASNFS_Archive/2004\" name=\"\" />   </dataset> </catalog>  ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0.1", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "f09847d26b69da8c6889c15edb7dbde7", 
+    "source_url": "http://edac-dap3.northerngulfinstitute.org/thredds/catalog/IASNFS_Archive/catalog.xml"
+}

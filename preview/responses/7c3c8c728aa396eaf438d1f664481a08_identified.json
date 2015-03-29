@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">     <ShortName>Lost Souls</ShortName>     <Description>Search the web through Lost Souls using Google.</Description>     <Contact>chaos@lostsouls.org</Contact>     <Image width=\"16\" height=\"16\" type=\"image/png\">http://lostsouls.org/images/logo16.png</Image>     <Url type=\"text/html\" method=\"get\" template=\"http://lostsouls.org/google_results?domains=lostsouls.org&amp;q={searchTerms}&amp;sa=Search&amp;sitesearch=&amp;client=pub-0120443619746507&amp;forid=1&amp;ie=ISO-8859-1&amp;oe=ISO-8859-1&amp;flav=0000&amp;sig=gfjMrOFPYWITr_tq&amp;cof=GALT%3A%237F7FFF%3BGL%3A1%3BDIV%3A%230000FF%3BVLC%3ADF66FF%3BAH%3Acenter%3BBGC%3A000000%3BLBGC%3A000033%3BALC%3A7744FF%3BLC%3A7744FF%3BT%3ACACAFF%3BGFNT%3A9999FF%3BGIMP%3A9999FF%3BFORID%3A11&amp;hl=en\" /> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7c3c8c728aa396eaf438d1f664481a08", 
+    "source_url": "http://lostsouls.org/search.xml"
+}

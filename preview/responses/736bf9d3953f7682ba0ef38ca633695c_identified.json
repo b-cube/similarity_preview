@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-forclosures\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-forclosures</id><updated>2015-03-19T04:02:04Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "736bf9d3953f7682ba0ef38ca633695c", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-forclosures?days=14&format=atom"
+}

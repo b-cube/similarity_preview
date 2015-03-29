@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">SEPA 120221, Marine Harvest (Scotland) Ltd, Eilean Raineach Fin Fish Farm, visual sea bed monitoring</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:38ee25430b76d5eeaa4a7f8ff5831614</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Visual monitoring of the sea bed adjacent to the fish farm.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2012-03-02</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "524df464c07d7cfe08b30d8d8aa257e0", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__38ee25430b76d5eeaa4a7f8ff5831614.xml/DC"
+}

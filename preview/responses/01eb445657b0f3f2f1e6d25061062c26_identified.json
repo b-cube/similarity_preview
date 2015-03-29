@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='ISO-8859-1'?><martif type=\"MSC\" lang=\"en\"><martifHeader><fileDesc><sourceDesc><p>OECD Glossary of Statistical Terms</p></sourceDesc></fileDesc><publicationStmt><p type=\"resultCount\">6935</p><p type=\"resultsPerPage\">10</p><p type=\"currentPage\">1</p></publicationStmt></martifHeader><text><body><termEntry id=\"4756\"><descrip type=\"Legacy\">False</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>A posteriori audit</term></termGrp></ntig></langSet></termEntry><termEntry id=\"4755\"><descrip type=\"Legacy\">False</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>A priori audit</term></termGrp></ntig></langSet></termEntry><termEntry id=\"4375\"><descrip type=\"Legacy\">False</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>A programme language (APL)</term></termGrp></ntig></langSet></termEntry><termEntry id=\"1\"><descrip type=\"Legacy\">False</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Abatement</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>R&#233;duction</term></termGrp></ntig></langSet></termEntry><termEntry id=\"6343\"><descrip type=\"Legacy\">False</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Abatement cost</term></termGrp></ntig></langSet></termEntry><termEntry id=\"8\"><descrip type=\"Legacy\">False</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Abnormal obsolescence</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Obsolescence anormal</term></termGrp></ntig></langSet></termEntry><termEntry id=\"5763\"><descrip type=\"Legacy\">False</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>ABO</term></termGrp></ntig></langSet></termEntry><termEntry id=\"2\"><descrip type=\"Legacy\">False</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Absence from work due to illness</term></termGrp></ntig></langSet></termEntry><termEntry id=\"3589\"><descrip type=\"Legacy\">False</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Absolute difference</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Diff&#233;rence absolue</term></termGrp></ntig></langSet></termEntry><termEntry id=\"3590\"><descrip type=\"Legacy\">False</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Absolute error</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Erreur absolue</term></termGrp></ntig></langSet></termEntry></body></text></martif>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "01eb445657b0f3f2f1e6d25061062c26", 
+    "source_url": "http://stats.oecd.org/glossary/filter.asp?vET=ON&vL=ON&format=martif"
+}

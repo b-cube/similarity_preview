@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/ncml\" ID=\"/opendap/hyrax/ncml/\">             <thredds:catalogRef name=\"Aqua_AIRS_Level3\" xlink:href=\"Aqua_AIRS_Level3/catalog.xml\"                           xlink:title=\"Aqua_AIRS_Level3\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/ncml/Aqua_AIRS_Level3/\"/>             <thredds:catalogRef name=\"aggregation\" xlink:href=\"aggregation/catalog.xml\"                           xlink:title=\"aggregation\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/ncml/aggregation/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "171b6b0efc772ec4f5f36ef54f011c34", 
+    "source_url": "http://acdisc.sci.gsfc.nasa.gov/opendap/ncml/catalog.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123031</identifier><identifier type=\"pwpk\">70037913</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3031</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Assessment of undiscovered oil and gas resources in the Paradox Basin Province, Utah, Colorado, New Mexico, and Arizona, 2011</title></titleInfo><originInfo><dateOther>Thu, 29 Mar 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Whidden, Katherine J.</namePart><role>Author</role></name><abstract>Using a geology-based assessment methodology, the U.S. Geological Survey estimated means of 560 million barrels of undiscovered oil, 12,701 billion cubic feet of undiscovered natural gas, and 490 million barrels of undiscovered natural gas liquids in the Paradox Basin of Utah, Colorado, New Mexico, and Arizona.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3031.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3031/</url></location><note type=\"citation/reference\">Assessment of undiscovered oil and gas resources in the Paradox Basin Province, Utah, Colorado, New Mexico, and Arizona, 2011; 2012; FS; 2012-3031; Fact Sheet; Whidden, Katherine J.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1c0034687b1b88e8a4c25442a1031db4", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123031"
+}

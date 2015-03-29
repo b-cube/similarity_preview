@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <species  status='valid'      totalpics='1'       total_adult='1'       total_stamps='0'       total_diseases='0'       total_larvae='0'       link='http://www.fishbase.us/photos/ThumbnailsSummary.php?id=67338'    >     <speccode>67338</speccode>     <genus>Vanderhorstia</genus>     <speciesfb>lepidobucca</speciesfb>    </species>    <pictures type='adult'>    <picname link='http://www.fishbase.org/photos/PicturesSummary.cfm?ID=67338&amp;what=species'>Valep_m0.jpg</picname>    <actual>http://www.fishbase.org/images/species/Valep_m0.jpg</actual>    <thumbnail>http://www.fishbase.org/images/thumbnails/jpg/tn_Valep_m0.jpg</thumbnail>   <author link='http://www.fishbase.org/Collaborators/CollaboratorSummary.cfm?ID=2095'>Erdmann, M.V.</author>   </pictures>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9138f364a0d75922fb2f5313750ddcab", 
+    "source_url": "http://www.fishbase.org/webservice/Photos/FishPicsList.php?Genus=Vanderhorstia&Species=lepidobucca&type="
+}

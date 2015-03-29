@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <ShortName>www.nabe.org</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Url type=\"text/html\" method=\"get\" template=\"http://www.nabe.org/sys/search?q={searchTerms}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "727be31836d4470cb86426bcd040ac7b", 
+    "source_url": "http://www.nabe.org/opensearch.ashx"
+}

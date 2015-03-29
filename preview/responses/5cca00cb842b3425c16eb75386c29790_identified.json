@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.E164.1991\"> <front> <title>Telephone Network and ISDN Operation, Numbering, Routing and Mobile Service - Numbering Plan for the ISDN Era</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"\" year=\"1991\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation E.164\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5cca00cb842b3425c16eb75386c29790", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.CCITT.E164.1991.xml"
+}

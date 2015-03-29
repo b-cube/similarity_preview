@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:socrata=\"http://www.socrata.com/rdf/terms#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:ods=\"http://open-data-standards.github.com/2012/01/open-data-standards#\" xmlns:dcterm=\"http://purl.org/dc/terms/\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dsbase=\"http://data.cityofnewyork.us/resource/\" xmlns:ds=\"http://data.cityofnewyork.us/resource/mgjt-zuui/\"> <dsbase:mgjt-zuui rdf:about=\"http://data.cityofnewyork.us/resource/mgjt-zuui/1\">     <socrata:rowID>1</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.cityofnewyork.us/resource/mgjt-zuui\"/>     <ds:year_built>Before 1983</ds:year_built>     <ds:inundation_area>84%</ds:inundation_area>     <ds:destroyed_by_storm>98%</ds:destroyed_by_storm>     <ds:red_tags>94%</ds:red_tags>     <ds:yellow_tags>67%</ds:yellow_tags></dsbase:mgjt-zuui> <dsbase:mgjt-zuui rdf:about=\"http://data.cityofnewyork.us/resource/mgjt-zuui/2\">     <socrata:rowID>2</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.cityofnewyork.us/resource/mgjt-zuui\"/>     <ds:year_built>1983-2001</ds:year_built>     <ds:inundation_area>9%</ds:inundation_area>     <ds:destroyed_by_storm>&lt; 1%</ds:destroyed_by_storm>     <ds:red_tags>4%</ds:red_tags>     <ds:yellow_tags>23%</ds:yellow_tags></dsbase:mgjt-zuui> <dsbase:mgjt-zuui rdf:about=\"http://data.cityofnewyork.us/resource/mgjt-zuui/3\">     <socrata:rowID>3</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.cityofnewyork.us/resource/mgjt-zuui\"/>     <ds:year_built>2002 or later</ds:year_built>     <ds:inundation_area>5%</ds:inundation_area>     <ds:destroyed_by_storm>&lt; 1%</ds:destroyed_by_storm>     <ds:red_tags>1%</ds:red_tags>     <ds:yellow_tags>9%</ds:yellow_tags></dsbase:mgjt-zuui> <dsbase:mgjt-zuui rdf:about=\"http://data.cityofnewyork.us/resource/mgjt-zuui/4\">     <socrata:rowID>4</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.cityofnewyork.us/resource/mgjt-zuui\"/>     <ds:year_built>No Data</ds:year_built>     <ds:inundation_area>2%</ds:inundation_area>     <ds:destroyed_by_storm>2%</ds:destroyed_by_storm>     <ds:red_tags>1%</ds:red_tags>     <ds:yellow_tags>1%</ds:yellow_tags></dsbase:mgjt-zuui></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "444a785abf383cb8fa5707be9710c9be", 
+    "source_url": "https://data.cityofnewyork.us/api/views/mgjt-zuui/rows.rdf?accessType=DOWNLOAD"
+}

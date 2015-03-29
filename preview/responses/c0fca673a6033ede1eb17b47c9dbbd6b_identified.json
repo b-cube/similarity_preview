@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Search Virtual Solar Observatory</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Url type=\"text/html\" template=\"http://docs.virtualsolar.org/search?q={searchTerms}&amp;page={startPage}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c0fca673a6033ede1eb17b47c9dbbd6b", 
+    "source_url": "http://docs.virtualsolar.org/search/opensearch"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Blue Hen Yearbooks</title> <link href=\"http://udspace.udel.edu/handle/19716/5673\" rel=\"alternate\"/> <subtitle/> <id>http://udspace.udel.edu/handle/19716/5673</id> <updated>2015-03-15T19:38:29Z</updated> <dc:date>2015-03-15T19:38:29Z</dc:date> <entry> <title>Blue Hen Yearbook 1975</title> <link href=\"http://udspace.udel.edu/handle/19716/9924\" rel=\"alternate\"/> <author> <name>University of Delaware</name> </author> <id>http://udspace.udel.edu/handle/19716/9924</id> <updated>2011-09-17T05:43:12Z</updated> <published>1975-01-01T00:00:00Z</published> <summary type=\"text\">Blue Hen Yearbook 1975 University of Delaware Student produced yearbook for the University of Delaware. Student address information has been redacted from this volume. </summary> <dc:date>1975-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Blue Hen Yearbook 1899</title> <link href=\"http://udspace.udel.edu/handle/19716/9923\" rel=\"alternate\"/> <author> <name>Delaware College</name> </author> <id>http://udspace.udel.edu/handle/19716/9923</id> <updated>2011-10-04T18:21:46Z</updated> <published>1898-01-01T00:00:00Z</published> <summary type=\"text\">Blue Hen Yearbook 1899 Delaware College Student produced yearbook for Delaware College. </summary> <dc:date>1898-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Blue Hen Yearbook 1999</title> <link href=\"http://udspace.udel.edu/handle/19716/9920\" rel=\"alternate\"/> <author> <name>University of Delaware</name> </author> <id>http://udspace.udel.edu/handle/19716/9920</id> <updated>2011-09-17T05:45:05Z</updated> <published>1999-01-01T00:00:00Z</published> <summary type=\"text\">Blue Hen Yearbook 1999 University of Delaware Student produced yearbook for the University of Delaware. </summary> <dc:date>1999-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Blue Hen Yearbook 1904</title> <link href=\"http://udspace.udel.edu/handle/19716/9919\" rel=\"alternate\"/> <author> <name>Delaware College</name> </author> <id>http://udspace.udel.edu/handle/19716/9919</id> <updated>2011-10-04T18:23:45Z</updated> <published>1903-01-01T00:00:00Z</published> <summary type=\"text\">Blue Hen Yearbook 1904 Delaware College Student produced yearbook for Delaware College. </summary> <dc:date>1903-01-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7567eced73b910aa4d7eda85ad8add71", 
+    "source_url": "http://udspace.udel.edu/feed/atom_1.0/19716/5673"
+}

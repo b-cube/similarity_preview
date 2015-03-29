@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/allData/4/MOD07_L2/2004\" ID=\"/opendap/hyrax/allData/4/MOD07_L2/2004/\">             <thredds:catalogRef name=\"330\" xlink:href=\"330/catalog.xml\" xlink:title=\"330\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/4/MOD07_L2/2004/330/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "92d276c63283a9f303f24f16497e284d", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/allData/4/MOD07_L2/2004/catalog.xml"
+}

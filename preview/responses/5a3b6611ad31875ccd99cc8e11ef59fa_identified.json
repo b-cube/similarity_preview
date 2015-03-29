@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"        xmlns:scast=\"http://sciflo.jpl.nasa.gov/serviceCasting/2009v1\">        <title>OpenSearch at nsidc.org</title>     <subtitle>OpenSearch services at nsidc.org</subtitle>        <link rel=\"self\" href=\"http://nsidc.org/feeds/services/opensearch/data_feed.xml\"/>        <updated>2009-07-17T22:17:03.721649Z</updated>        <author>              <name>Eric Holton</name>              <email>nsidc@nsidc.org</email>        </author>        <id>uri:http://nsidc.org/feeds/services/opensearch/data_feed.xml</id>          <entry>              <title>OpenSearch services for data sets</title>              <id>Dataset level searches</id>              <updated>2010-07-14T22:17:03.721649Z</updated>              <summary>Dataset level OpenSearch services for data sets</summary>              <scast:serviceType>OpenSearch</scast:serviceType>              <!-- Possible service types are: SOAP, REST, OGC.WXS, OpenSearch, GUI, or [yours].  -->              <category schema=\"scast\"                    term=\"data query services polygon geometry\"/>              <link type=\"application/opensearch_xml\" title=\"Service interface description\"                    href=\"http://nsidc.org/api/opensearch/1.0/dataset.xml\" />              <link rel=\"scast:interfaceDescription\" type=\"application/opensearch_xml\"                    title=\"Service interface description\"                    href=\"http://nsidc.org/api/opensearch/1.0/dataset.xml\"/>              <link rel=\"scast:serviceEndpoint\" type=\"application/XML\" title=\"Server endpoint\"                    href=\"http://nsidc.org/api/opensearch/1.0/dataset\" />              <link rel=\"scast:serviceDocumentation\" type=\"text/html\" xml:lang=\"en-us\"                    title=\"Service documentation\" href=\"http://nsidc.org/api/opensearch/index.html\"/>              <link rel=\"alternate\" type=\"text/html\" xml:lang=\"en-us\" title=\"Service documentation\"                    href=\"http://nsidc.org/api/opensearch/1.0/dataset.xml\"/>              <content type=\"xhtml\"> </content>        </entry>      </feed>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5a3b6611ad31875ccd99cc8e11ef59fa", 
+    "source_url": "http://nsidc.org/feeds/services/opensearch/data_feed.xml"
+}

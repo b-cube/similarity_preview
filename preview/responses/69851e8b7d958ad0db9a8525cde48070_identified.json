@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/EPA_AgSTAR_AD_Projects/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/EPA_AgSTAR_LMOP/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/EPA_AgSTAR_MarketOps_2011/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/EPA_AgSTAR_Related_Orgs/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/EPA_Composting/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/EPA_DSIRE_Incentives_State/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/EPA_DSIRE_RPS_State/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/EPA_MethaneEmmisons_State/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/EPA_WWTP/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/USDA_Investments_Energy_Type/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/USDA_Investments_EnergyType_State/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/USDA_Investments_Funding_Program/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/USDA_MarketPotential/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/AgSTAR/WBJ_Waste_Facilities/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "69851e8b7d958ad0db9a8525cde48070", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/AgSTAR?f=sitemap"
+}

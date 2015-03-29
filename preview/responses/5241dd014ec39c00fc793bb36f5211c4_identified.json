@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2013-14 Eastern Inshore Fisheries and Conservation Authority (EIFCA) River Deben estuarine fish survey </dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:35b5df0b40486c158ca83a454f753ba9</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">In October 2013 and July 2014, Eastern IFCA undertook surveys in the estuary of the River Deben, Suffolk. The surveys were aimed at assessing and quantifying the estuarine fish population. A Water Framework Directive compatible beach seine net, deployed from a RIB and hand hauled onto the beach, was used during the surveys in 2013 and 2014. This method is the Environment Agency standard, and therefore allows comparison with EA surveys conducted in adjacent estuaries. </dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2015-02-25 2015-02-25 2015-02-25</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5241dd014ec39c00fc793bb36f5211c4", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__35b5df0b40486c158ca83a454f753ba9.xml/DC"
+}

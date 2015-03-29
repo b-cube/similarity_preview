@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0016\">   <front>     <title>Privacy Lists</title>     <author initials=\"P.\" surname=\"Millard\" fullname=\"Peter Millard\">       <organization/>       <address>         <email/>       </address>     </author>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"15\" month=\"February\" year=\"2007\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0016\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0016.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d168bd4e01701dfea329cc8643343779", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0016.xml"
+}

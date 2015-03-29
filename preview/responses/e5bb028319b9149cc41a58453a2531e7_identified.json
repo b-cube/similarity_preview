@@ -1,0 +1,15 @@
+{
+    "content": "<b:Sources SelectedStyle=\"\\\\APA.XSL\" StyleName=\"APA\" xmlns:b=\"http://schemas.openxmlformats.org/officeDocument/2006/bibliography\" xmlns=\"http://schemas.openxmlformats.org/officeDocument/2006/bibliography\"></b:Sources> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e5bb028319b9149cc41a58453a2531e7", 
+    "source_url": "http://www.morris.umn.edu/committees/Curriculum/minutes11-12/12_Curr_02_13_12_files/item0001.xml"
+}

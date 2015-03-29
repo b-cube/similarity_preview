@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Utilities/Geometry/GeometryServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Utilities/PrintingTools/GPServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Utilities/Search_indexer/GPServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Utilities/Search/IndexGenerator</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Utilities/Search/IndexingLauncher</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Utilities/Search/SearchServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "31a28f15783b4e55e4bffa93e64ac745", 
+    "source_url": "http://coast.noaa.gov/arcgis/rest/services/Utilities?f=sitemap"
+}

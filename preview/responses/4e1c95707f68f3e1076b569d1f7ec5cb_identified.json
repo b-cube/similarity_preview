@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Date-Time-Last-Modified>20020131182240 </Date-Time-Last-Modified>  <Bounding>  <Eastbc>-162.05 </Eastbc>  <Westbc>-162.15 </Westbc>  <Southbc>5.85 </Southbc>  <Northbc>5.9 </Northbc>  </Bounding>  <Corporate-Name>United States Coast Survey. </Corporate-Name>  <Title>Pacific Ocean, United States possesion, Palmyra Atoll / Coast Survey. </Title>  <Edition-Statement>5th ed., Mar. 21/98. </Edition-Statement>  <Cartographic-Mathematical-Data>Scale 1:10,000 at lat. 5 ; Mercator proj. (W 162-- W 162/N 5--N 5) </Cartographic-Mathematical-Data>  <Imprint>Washington, D.C. : The Survey ; [Riverdale, Md. : NOAA Distribution Division, N/ACC3, National Ocean Service, distributor, 1998] </Imprint>  <Physical-Description>1 map : col. ; 65 x 111 cm. </Physical-Description>  <General-Note>Depths shown by isolines and soundings. </General-Note>  <General-Note>Shipping list no.: 98-0032-S. </General-Note>  <General-Note>\"Soundings in feet.\" </General-Note>  <General-Note>Inset: Approaches to Palmyra Atoll. Scale 1:47,750. </General-Note>  <General-Note>Includes tidal information. </General-Note>  <Subject-Added-Topical-Term>Coral reefs and islands South Pacific Ocean Maps. </Subject-Added-Topical-Term>  <Subject-Added-Geographic-Name>Palmyra Atoll (Line Islands) Maps. </Subject-Added-Geographic-Name>  <Subject-Added-Geographic-Name>South Pacific Ocean Navigation Maps. </Subject-Added-Geographic-Name>  <Access-Information>NOAA Central Library, Silver Spring, MD|MAP|C 55.418/7:83157/998|MAP|1 </Access-Information>  <Region>PRIA </Region>  <Local-number>OCoLC-ocm39294926 </Local-number>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4e1c95707f68f3e1076b569d1f7ec5cb", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B4102CD95-7373-41B0-A55C-3F3CCE4CBF9C%7D"
+}

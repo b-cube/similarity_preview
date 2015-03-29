@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.Z30-50.1992\"> <front> <title>Information Retrieval Service and Protocol: Information Retrieval Application Service Definition and Protocol Specification for Open Systems Interconnection</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1992\" /> </front>  <seriesInfo name=\"ANSI\" value=\"Z30.50\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6b671ad0060c1bf9c41d2d77e4186187", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.ANSI.Z30-50.1992.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>5868</id>   <unit>464</unit>   <dept_name>Excellence in Mathematics, Center for</dept_name>   <sub_name></sub_name>   <main_number>3687</main_number>   <location>ENGR 233</location>   <comments>     <comment>Fax . . . . . . . . . . . . . . . . . . . . 3605 </comment>     <comment>Computer Lab . . . . . . . . . . . ENGR 136</comment>   </comments>   <employees> <employee>   <id>25995</id>   <name>Dorrington, Jenny</name>   <phone>3129</phone>   <title>Director</title>   <department>Excellence in Mathematics, Center for</department>   <sub_unit></sub_unit>   <location>ENGR 233</location>   <email>jdorring@uccs.edu</email>   <extra></extra>   <ntname>jdorring</ntname>   <unit>464</unit>   <order>1</order> </employee> <employee>   <id>25969</id>   <name>Dean, Sean</name>   <phone>3148</phone>   <title>Program Coordinator</title>   <department>Excellence in Mathematics, Center for</department>   <sub_unit></sub_unit>   <location>ENGR 233A</location>   <email>sdean@uccs.edu</email>   <extra></extra>   <ntname>sdean</ntname>   <unit>464</unit>   <order>9</order> </employee>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9fd50d9755cdcb758a5d76567e17dc4f", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=464&type=details_by_unit"
+}

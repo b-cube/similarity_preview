@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/1360\"> <title>Repository presentations</title> <link>http://hdl.handle.net/2160/1360</link> <description>Presentations about repositories</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6711\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/1363\"/> </rdf:Seq> </items> <dc:date>2015-03-19T06:32:23Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/6711\"> <title>Searching in Bartrum</title> <link>http://hdl.handle.net/2160/6711</link> <description>Searching in Bartrum Spikes, Jo; Cashman, Nicky Here are some search hints:&#13; &#13; What is searched in the general keyword search. &#13; The word(s) you enter in the search box will be searched against the title, author, subject abstract, series, sponsor and identifier fields of each item's record. &#13; If your site is enabled for full-text searching, the text you entered will also be searched against the full text of all archived documents. For more information on full-text searching please contact your DSpace Administrator. &#13; What is not searched - Stop Words.&#13; The search engine ignores certain words that occur frequently in English, but do not add value to the search. These are.... </description> <dc:date>2011-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/1363\"> <title>Adding value through marketing</title> <link>http://hdl.handle.net/2160/1363</link> <description>Adding value through marketing Lewis, Stuart A presentation about adding value to your repository by increasing the number of visitors to your repository through the marketing of individual items. The presentation includes an overview of how search services such as Google interact with repositories. The presentation was given at the JISC funded 'Demonstrating and exploiting repository value' meeting held at Northampton University on the 3rd December 2008. </description> <dc:date>2008-12-04T15:41:10Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0ba5323f5a83304d1d9cd1364212d7fd", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/1360"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"2248\"><idinfo><citation><citeinfo><origin role=\"Author\">Sleeter, Rachel</origin><title>A New Method for Mapping Population Distribution</title><pubdate>2008</pubdate><serinfo><sername>Fact Sheet</sername><issue>2008-3010</issue></serinfo><pubinfo><publish>U.S. Geological Survey</publish></pubinfo><onlink>http://pubs.usgs.gov/fs/2008/3010/</onlink></citeinfo></citation><descript><abstract>With the addition of elevation and land use and land cover data, we can show population density on a map much more effectively than if we simply color census areas.  The resulting maps should allow better planning, especially in highly developed areas.</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><theme><themekt>USGS Thesaurus</themekt><themekey>cartography</themekey><themekey>culture and demographics</themekey><themekey>geographic information systems</themekey><themekey>geospatial analysis</themekey></theme></keywords></idinfo><metainfo><metd>20120904</metd><metc><cntinfo><cntperp><cntper>Schweitzer, Peter N</cntper><cntorg>ER Mineral Resources</cntorg></cntperp><cntaddr><addrtype>mailing address</addrtype><address>12201 Sunrise Valley Drive Mail Stop 954</address><city>Reston</city><state>VA</state><postal>20192</postal><country>USA</country></cntaddr><cntvoice>703-648-6533</cntvoice><cntemail>pschweitzer@usgs.gov</cntemail></cntinfo></metc><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d83b0d1f3b03d6a0e4cfad465af2de69", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=2248"
+}

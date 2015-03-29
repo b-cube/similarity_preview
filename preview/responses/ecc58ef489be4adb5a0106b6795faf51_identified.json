@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.12161</dc:identifier><dc:creator>Arteaga, Adri\\ufffd\\ufffdn</dc:creator><dc:creator>Moran, James M.</dc:creator><dc:creator>Miralles, Mari Paz</dc:creator><dc:creator>Miralles, Mari Paz</dc:creator><dc:title>Coronal Hole Properties in Solar Cycle 24</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Presentation for thesis: &amp;quot;Coronal Hole Properties in Solar Cycle 24: Plasma Behavior in the Weakest Period of Solar Activity Over the Last Half Century&amp;quot;&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-04-11</dc:date><dc:source>http://zenodo.org/record/12161</dc:source><dc:doi>10.5281/zenodo.12161</dc:doi><dc:identifier>http://zenodo.org/record/12161</dc:identifier><dc:identifier>oai:zenodo.org:12161</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ecc58ef489be4adb5a0106b6795faf51", 
+    "source_url": "https://zenodo.org/record/12161/export/xd"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.X3-4.1977\"> <front> <title>Code for Information Interchange</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1977\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X3.4\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "63f0e1b3a2804c77b6c9b2c5d5ee20a3", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.ANSI.X3-4.1977.xml"
+}

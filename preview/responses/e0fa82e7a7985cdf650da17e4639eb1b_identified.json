@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <oembed><width>480</width><version>1.0</version><author_name>NASA Goddard</author_name><thumbnail_width>480</thumbnail_width><thumbnail_height>360</thumbnail_height><provider_name>YouTube</provider_name><html>&lt;iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/ujBi9Ba8hqs?feature=oembed\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</html><thumbnail_url>http://i.ytimg.com/vi/ujBi9Ba8hqs/hqdefault.jpg</thumbnail_url><title>NASA | Dynamic Earth</title><height>270</height><provider_url>http://www.youtube.com/</provider_url><type>video</type><author_url>http://www.youtube.com/user/NASAexplorer</author_url></oembed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e0fa82e7a7985cdf650da17e4639eb1b", 
+    "source_url": "http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DujBi9Ba8hqs&format=xml"
+}

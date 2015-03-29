@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>International Trade Union Confederation</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>Women's Equality Campaign moves to campuses in the month of October </title>  <author_name>Erin Harrison-Taylor</author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/women-s-equality-campaign-moves-to</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/women-s-equality-campaign-moves-to'&gt;Women's Equality Campaign moves to campuses in the month of October &lt;/a&gt;&lt;/h4&gt;&lt;blockquote class='spip'&gt; &lt;p&gt;On March 8th, 2008 (International Women's Day) the Canadian Labour Congress started a much anticipated year long Women's Economic Equality Campaign that hosted a series of &#8220;teach-ins&#8221;across Canada at a wide variety of labour IWD events.&lt;br class='autobr' /&gt; Each month thereafter, issues pertaining to the inequalities women suffer in Canada were highlighted at various events and through numerous media releases. A highlight included Child Care rallies held in communities across Canada asking for more access to (...)&lt;/p&gt; &lt;/blockquote&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8b68a970fefc995f71cf16494bee8075", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Fwomen-s-equality-campaign-moves-to"
+}

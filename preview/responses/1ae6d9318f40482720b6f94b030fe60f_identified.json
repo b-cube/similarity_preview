@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.X521.1997\"> <front> <title>Information Technology - Open Systems Interconnection - The Directory: Selected Object Classes</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"\" year=\"1997\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation X.521\" /> <seriesInfo name=\"ISO\" value=\"Standard 9594-7\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1ae6d9318f40482720b6f94b030fe60f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.X521.1997.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <?xml-stylesheet href=\"mmab.xsl\" type=\"text/xsl\" ?>   <person>    <name>Hyun-Sook Kim </name>    <title>Physical Scientist</title>    <extension>3760</extension>    <email>hyun.sook.kim@noaa.gov</email>    <employer>NOAA/NWS/NCEP/EMC/Marine Modeling and Analysis Branch</employer>     <site>College Park, MD</site>    <blurb>     Development, validation, diagnosis and implementation of NCEP hurricane atmosphere-ocean forecast system, HWRF-HYCOM.     </blurb>  </person>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "70307121f88cde7d7de6b43c9d4520d2", 
+    "source_url": "http://polar.ncep.noaa.gov/mmab/people/hyunsook.xml"
+}

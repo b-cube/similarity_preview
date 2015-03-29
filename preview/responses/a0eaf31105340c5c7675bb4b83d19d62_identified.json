@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Explosion Parameters of SN 2013df and Properties of Its Progenitor Star</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Margutti</surname>             <given-names>Raffaella</given-names>           </name>           <aff>             <institution>Harvard Astronomy Department</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Soderberg</surname>             <given-names>Alicia</given-names>           </name>           <aff>             <institution>Harvard-Smithsonian Center for Astrophysics</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Powell</surname>             <given-names>Diana K.</given-names>           </name>           <aff>             <institution>Harvard University</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/12166\"/>       <self-uri xlink:href=\"https://zenodo.org/record/12166/files/powell_presentation.pdf\"/>       <self-uri xlink:href=\"https://zenodo.org/record/12166/files/powell_presentation.png?subformat=icon-90\"/>     </article-meta>     <abstract>&lt;p&gt;Presentation of thesis: &amp;quot;Explosion Parameters of SN 2013df and Properties of Its Progenitor Star&amp;quot;&lt;/p&gt;</abstract>   </front>   <article-type>user-cfa-theses</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a0eaf31105340c5c7675bb4b83d19d62", 
+    "source_url": "https://zenodo.org/record/12166/export/xn"
+}

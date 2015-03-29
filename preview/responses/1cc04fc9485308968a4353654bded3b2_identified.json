@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">1987 - Ongoing Met Office Marine Automatic Weather Station (MAWS) Meteorological Observations</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:909fac4039e6bd6f5516e0e815d3d642</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Meteorological observations originating from moored buoys, light vessels or remote island systems produced hourly for weather forecasting and as part of the long term climatological record. Measurements include mean sea level pressure, air temperature, humidity, wind speed, wind direction, max gust speed, sea surface temperature (SST), visibility, wave period and wave height.  On occasion there may be gaps within the dataset.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">1987-01-01</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1cc04fc9485308968a4353654bded3b2", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__909fac4039e6bd6f5516e0e815d3d642.xml/DC"
+}

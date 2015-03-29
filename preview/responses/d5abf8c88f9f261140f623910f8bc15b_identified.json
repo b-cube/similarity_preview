@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>AmouliResiliencyPlanningCommittee2012a </Local-number>  <Type-Period-Note>Video </Type-Period-Note>  <Author>Fletcher, C., Barbee, M. (Creators) </Author>  <Title>Amouli sea level rise vertical </Title>  <Publication-Date><caldate>2012 </caldate></Publication-Date>  <Institution>Amouli Resiliency Planning Committee; NOAA - Pacific Island Regional Office; American Samoa Coral Reef Advisory Group </Institution>  <Notes>FY2010 CRCP Project ID 20499; Project Title: Establishing Climate Resilient Communities in American Samoa; Principal Investigator: Arielle Levine </Notes>  <Abstract>\"Video (10 seconds) showing vertical projection of sea-level rise scenario on the coast of the village of Amouli on the southeast coast of Tutuila Island, American Samoa. This video does not contain audio.\" </Abstract>  <Date-Time-Last-Modified>20130401000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/20499/AmouliSLVertical.avi </URL>  <project>  <ID>20499 </ID>  <title>Establishing Climate Resilient Communities in American Samoa </title>  <PI>Arielle Levine </PI>  </project>  <Region>AmSam </Region>  <Bounding>  <Eastbc>-167.551612 </Eastbc>  <Westbc>-171.541907 </Westbc>  <Southbc>-15.25183 </Southbc>  <Northbc>-10.207203 </Northbc>  </Bounding>  <CoRIS-Record-Type>media </CoRIS-Record-Type>  <Local-subject-index>media </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d5abf8c88f9f261140f623910f8bc15b", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B045341AD-6863-44D3-89FD-153265D2DA51%7D"
+}

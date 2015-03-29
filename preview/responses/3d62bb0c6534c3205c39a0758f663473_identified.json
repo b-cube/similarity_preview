@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Purity of the stratification by Newton polygons and Frobenius-periodic vector bundles</dc:title><dc:creator>Yang, Yanhong</dc:creator><dc:date>2013</dc:date><dc:type>text</dc:type><dc:subject>Mathematics</dc:subject><dc:identifier>http://hdl.handle.net/10022/AC:P:20334</dc:identifier><dc:description>This thesis includes two parts. In the first part, we show a purity theorem for stratifications by Newton polygons coming from crystalline cohomology, which says that the family of Newton polygons over a noetherian scheme have a common break point if this is true outside a subscheme of codimension bigger than 1. The proof is similar to the proof of [dJO99, Theorem 4.1]. In the second part, we prove that for every ordinary genus-2 curve X over a finite field k of characteristic 2 with automorphism group Z/2Z \\ufffd\\ufffd S_3, there exist SL(2,k[[s]])-representations of \\ufffd\\ufffd_1(X) such that the image of \\ufffd\\ufffd_1(X^-) is infinite. This result produces a family of examples similar to Laszlo's counterexample [Las01] to a question regarding the finiteness of the geometric monodromy of representations of the fundamental group [dJ01].</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3d62bb0c6534c3205c39a0758f663473", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A161158.dc_xml"
+}

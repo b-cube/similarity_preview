@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0298'>  <front> <title>Network host status</title> <author initials='E.' surname='Westheimer' fullname='E. Westheimer'> <organization /></author> <date year='1972' month='February' /></front>  <seriesInfo name='RFC' value='298' /> <format type='TXT' octets='8770' target='http://www.rfc-editor.org/rfc/rfc298.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5f48b8bf9fceb00806d4bfe0e1b1556d", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0298.xml"
+}

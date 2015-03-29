@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2014-026 Teeside Geophysical Survey Charting and Reporting</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:6ad85d69ac36e752bc1e1b94d6f48255</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Teesside Offshore Wind Farm (OWF) is a 62 MW site comprised of 27 turbines, and is owned and operated by Teesside Windfarm Limited (TWL).  Osiris Projects were contracted to provide surveys in order to monitor the seabed state, specifically the identification of seabed debris and scour or sediment accretion within the wind farm area. The survey was completed under LOGIC Terms and Conditions.  The survey works were conducted by MV Lia and were carried out between 19th August and 3rd September 2014.       The aim of the survey was:      - To identify debris within the construction area;      - To identify changes to seabed morphology, to enable the evaluation of the effectiveness of installed scour protection and ratify the predictions for scour development;      - Inform the foundation and cable maintenance schedule;      - To satisfy the requirements of the Marine License, specifically the monitoring of Archaeological Exclusion Zones.     </dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2014-10-13</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ab820e2c92aa21e1d379c3c55b95279e", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__6ad85d69ac36e752bc1e1b94d6f48255.xml/DC"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><?xml-stylesheet type=\"text/xsl\" href=\"http://www.iskoseo.org/wp-content/plugins/google-sitemap-generator/sitemap.xsl\"?><!-- generator=\"wordpress/3.8.1\" --> <!-- sitemap-generator-url=\"http://www.arnebrachhold.de\" sitemap-generator-version=\"3.4\" --> <!-- generated-on=\"25 February 2014 19:58\" --> <!-- Debug: Total comment count: 0 --> <urlset xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url>   <loc>http://www.iskoseo.org/</loc>   <lastmod>2014-02-18T17:13:55+00:00</lastmod>   <changefreq>daily</changefreq>   <priority>1.0</priority>  </url> <!-- Debug: Start Postings --> <!-- Debug: Priority report of postID 24: Comments: 0 of 0 = 0 points -->  <url>   <loc>http://www.iskoseo.org/seo-nasil-yapilir/</loc>   <lastmod>2014-02-18T17:13:55+00:00</lastmod>   <changefreq>monthly</changefreq>   <priority>0.2</priority>  </url> <!-- Debug: Priority report of postID 20: Comments: 0 of 0 = 0 points -->  <url>   <loc>http://www.iskoseo.org/site-disi-seo/</loc>   <lastmod>2014-02-18T16:59:44+00:00</lastmod>   <changefreq>monthly</changefreq>   <priority>0.2</priority>  </url>  <url>   <loc>http://www.iskoseo.org/pagerank-sorgulama/</loc>   <lastmod>2014-02-18T16:47:46+00:00</lastmod>   <changefreq>weekly</changefreq>   <priority>0.6</priority>  </url>  <url>   <loc>http://www.iskoseo.org/iletisim/</loc>   <lastmod>2014-02-18T16:46:01+00:00</lastmod>   <changefreq>weekly</changefreq>   <priority>0.6</priority>  </url>  <url>   <loc>http://www.iskoseo.org/google-sira-bulucu/</loc>   <lastmod>2014-02-18T16:36:07+00:00</lastmod>   <changefreq>weekly</changefreq>   <priority>0.6</priority>  </url> <!-- Debug: End Postings --> <!-- Debug: Start Custom Pages --> <!-- Debug: End Custom Pages --> <!-- Debug: Start additional URLs --> <!-- Debug: End additional URLs --> </urlset>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a5917b24f449b8deceb213a844499cee", 
+    "source_url": "http://www.iskoseo.org/sitemap.xml"
+}

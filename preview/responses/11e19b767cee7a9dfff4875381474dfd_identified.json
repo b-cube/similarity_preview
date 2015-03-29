@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><Response status=\"OK\" responseTime=\"8\" message=\"\"><Results><facility><authAppId>668853</authAppId><band>UHF</band><callSign>WTVJ</callSign><communityCity>MIAMI</communityCity><communityState>FL</communityState><facilityType>CDT</facilityType><id>63154</id><licenseExpirationDate>02/01/2013</licenseExpirationDate><networkAfil>NBC</networkAfil><nielsenDma>MIAMI-FT. LAUDERDALE</nielsenDma><partyAddress1>300 NEW JERSEY AVE, N.W.</partyAddress1><partyAddress2>SUITE 700</partyAddress2><partyCity>WASHINGTON</partyCity><partyName>NBC TELEMUNDO LICENSE LLC</partyName><partyPhone>2025246401</partyPhone><partyState>DC</partyState><partyZip1>20001</partyZip1><partyZip2></partyZip2><postCardId>1017361</postCardId><rfChannel>31</rfChannel><service>Digital TV</service><status>LICENSED</status><statusDate>06/16/2009</statusDate><virtualChannel>6</virtualChannel></facility></Results></Response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "11e19b767cee7a9dfff4875381474dfd", 
+    "source_url": "https://data.fcc.gov/mediabureau/v01/tv/facility/id/63154.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Date-Time-Last-Modified>20060505074109 </Date-Time-Last-Modified>  <Personal-Name>Lobel, Phillip S. </Personal-Name>  <Title>Marine life of Johnston Atoll, central Pacific Ocean / Phillip S. Lobel. </Title>  <Imprint>[Vida, Or.?] : Natural World Press, c2003. </Imprint>  <Physical-Description>128 p. : col. ill. ; 23 cm. </Physical-Description>  <Bibliography-Note>Includes bibliographical references (p. 125-128) and index. </Bibliography-Note>  <Subject-Added-Topical-Term>Coral reef animals Johnston Island Identification. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Coral reef fishes Johnston Island Identification. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Marine organisms Johnston Island Identification. </Subject-Added-Topical-Term>  <Subject-Added-Geographic-Name>Johnston Island Guide-books. </Subject-Added-Geographic-Name>  <Access-Information>NOAA Central Library, Silver Spring, MD|STACKS|QL138 .L62 2003|BOOK|1 </Access-Information>  <Access-Information>SWFSC Honolulu Laboratory Library, Honolulu, HI|STACKS|QH541.5.S3L782 2003|BOOK|1 </Access-Information>  <Access-Information>SWFSC Honolulu Laboratory Library, Honolulu, HI|STACKS|QH541.5.S3L782 2003|BOOK|2 </Access-Information>  <Access-Information>SEFSC Panama City Laboratory Library, Panama City, FL|STACKS|QL138 .L62 2003|BOOK|1 </Access-Information>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <Local-number>OCoLC-ocm55533819 </Local-number>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1cc5fbf1d57e18531c7e05b3953692cc", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B44858E09-E80B-4F27-BCEE-3F88ACF963F7%7D"
+}

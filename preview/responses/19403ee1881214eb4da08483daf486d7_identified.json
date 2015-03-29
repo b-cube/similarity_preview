@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../foammod.htm\"/>  <o:File HRef=\"image001.wmz\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"image005.wmz\"/>  <o:File HRef=\"image006.gif\"/>  <o:File HRef=\"image007.wmz\"/>  <o:File HRef=\"image008.gif\"/>  <o:File HRef=\"image009.wmz\"/>  <o:File HRef=\"image010.gif\"/>  <o:File HRef=\"image011.wmz\"/>  <o:File HRef=\"image012.gif\"/>  <o:File HRef=\"image013.wmz\"/>  <o:File HRef=\"image014.gif\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "19403ee1881214eb4da08483daf486d7", 
+    "source_url": "http://web.ics.purdue.edu/~braile/edumod/foammod/foammod_files/filelist.xml"
+}

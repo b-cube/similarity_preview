@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Game Changer: The Topology of Creativity</dc:title><dc:creator>de Vaan, Mathijs</dc:creator><dc:creator>Stark, David C.</dc:creator><dc:creator>Vedres, Balazs</dc:creator><dc:date>2015</dc:date><dc:type>text</dc:type><dc:subject>Sociology</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D86Q1W3M</dc:identifier><dc:description>This article examines the sociological factors that explain why some creative teams are able to produce game changers\\ufffd\\ufffd\\ufffdcultural products that stand out as distinctive while also being critically recognized as outstanding. The authors build on work pointing to structural folding\\ufffd\\ufffd\\ufffdthe network property of a cohesive group whose membership overlaps with that of another cohesive group. They hypothesize that the effects of structural folding on game changing success are especially strong when overlapping groups are cognitively distant. Measuring social distance separately from cognitive distance and distinctiveness independently from critical acclaim, the authors test their hypothesis about structural folding and cognitive diversity by analyzing team reassembly for 12,422 video games and the career histories of 139,727 video game developers. When combined with cognitive distance, structural folding channels and mobilizes a productive tension of rules, roles, and codes that promotes successful innovation. In addition to serving as pipes and prisms, network ties are also the source of tools and tensions.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c55e057471e83e54e2ac80ac475d0c92", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A184020.xml"
+}

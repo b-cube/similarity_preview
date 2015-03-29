@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.36.523-2'> <front> <title>Evolved Universal Terrestrial Radio Access (E-UTRA) and Evolved Packet Core (EPC); User Equipment (UE) conformance specification; Part 2: Implementation Conformance Statement (ICS) proforma specification</title> <author><organization>3GPP</organization></author> <date day='18' month='December' year='2012' /> </front>  <seriesInfo name='3GPP TS' value='36.523-2 10.3.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/36523-2.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c34c7d60078aa7452b1b6da3bd779b49", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.36.523-2.xml"
+}

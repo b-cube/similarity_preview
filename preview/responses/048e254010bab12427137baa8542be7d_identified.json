@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/allData/1003/MOD09Q1/2005\"                     ID=\"/opendap/hyrax/allData/1003/MOD09Q1/2005/\">             <thredds:catalogRef name=\"089\" xlink:href=\"089/catalog.xml\" xlink:title=\"089\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/1003/MOD09Q1/2005/089/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "048e254010bab12427137baa8542be7d", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/allData/1003/MOD09Q1/2005/catalog.xml"
+}

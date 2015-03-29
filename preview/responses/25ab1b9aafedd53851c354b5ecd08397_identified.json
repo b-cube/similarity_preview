@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for Geleiras -->  <jnlp spec=\"1.0+\" codebase=\"http://phet.colorado.edu/sims/glaciers\" href=\"glaciers_pt_BR.jnlp\">      <information>          <title>Geleiras</title>          <vendor>University of Colorado, Department of Physics</vendor>          <description>@PROJECT.DESCRIPTION@</description>          <description kind=\"short\">The Geleiras Simulation</description>          <offline-allowed/>      </information>      <resources>          <j2se version=\"1.4+\"/>          <property name=\"javaws.phet.locale\" value=\"pt\" /> <property name=\"javaws.user.language\" value=\"pt\" /><property name=\"javaws.user.country\" value=\"BR\" />          <jar href=\"glaciers_all.jar\"/>      </resources>            <application-desc main-class=\"edu.colorado.phet.glaciers.GlaciersApplication\">                </application-desc>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "25ab1b9aafedd53851c354b5ecd08397", 
+    "source_url": "http://phet.colorado.edu/sims/glaciers/glaciers_pt_BR.jnlp"
+}

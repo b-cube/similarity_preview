@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:socrata=\"http://www.socrata.com/rdf/terms#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:ods=\"http://open-data-standards.github.com/2012/01/open-data-standards#\" xmlns:dcterm=\"http://purl.org/dc/terms/\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dsbase=\"http://data.montgomerycountymd.gov/resource/\" xmlns:ds=\"http://data.montgomerycountymd.gov/resource/qahs-fevu/\"> <rdf:Description rdf:about=\"http://data.montgomerycountymd.gov/resource/qahs-fevu/GAR 31\">     <socrata:rowID>907113</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.montgomerycountymd.gov/resource/qahs-fevu\"/>     <ds:facilitynumber>GAR 31</ds:facilitynumber>     <ds:space_count>566</ds:space_count>     <ds:total_spaces>956</ds:total_spaces>     <ds:asofdatetime>2015-03-18T09:28:18</ds:asofdatetime></rdf:Description> <rdf:Description rdf:about=\"http://data.montgomerycountymd.gov/resource/qahs-fevu/GAR 57\">     <socrata:rowID>907114</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.montgomerycountymd.gov/resource/qahs-fevu\"/>     <ds:facilitynumber>GAR 57</ds:facilitynumber>     <ds:space_count>453</ds:space_count>     <ds:total_spaces>926</ds:total_spaces>     <ds:asofdatetime>2015-03-18T09:28:18</ds:asofdatetime></rdf:Description> <rdf:Description rdf:about=\"http://data.montgomerycountymd.gov/resource/qahs-fevu/GAR 61\">     <socrata:rowID>907115</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.montgomerycountymd.gov/resource/qahs-fevu\"/>     <ds:facilitynumber>GAR 61</ds:facilitynumber>     <ds:space_count>801</ds:space_count>     <ds:total_spaces>1245</ds:total_spaces>     <ds:asofdatetime>2015-03-18T09:28:18</ds:asofdatetime></rdf:Description> <rdf:Description rdf:about=\"http://data.montgomerycountymd.gov/resource/qahs-fevu/GAR 60\">     <socrata:rowID>907116</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.montgomerycountymd.gov/resource/qahs-fevu\"/>     <ds:facilitynumber>GAR 60</ds:facilitynumber>     <ds:space_count>1013</ds:space_count>     <ds:total_spaces>1646</ds:total_spaces>     <ds:asofdatetime>2015-03-18T09:28:18</ds:asofdatetime></rdf:Description></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9e19b7c2a4bb7abeace71a4523dfe57b", 
+    "source_url": "https://data.montgomerycountymd.gov/api/views/qahs-fevu/rows.rdf?accessType=DOWNLOAD"
+}

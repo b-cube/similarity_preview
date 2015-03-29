@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr98805</identifier><identifier type=\"pwpk\">21906</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">98-805</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Lake Pontchartrain Basin, bottom sediments and regional scientific and educational resources</title></titleInfo><originInfo><dateOther>Sat, 1 Dec 2001 00:00 -0600</dateOther><dateIssued>1998</dateIssued><publisher>U.S. Dept. of the Interior, U.S. Geological Survey,</publisher></originInfo><name><namePart>Manheim, Frank T., (Edited By)</namePart><role>Author</role></name><physicalDescription><form>Online report; See also Professional Paper 1634</form><form>U.S. Dept. of the Interior, U.S. Geological Survey,</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/usgs_thumb.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/of98-805/</url></location><note type=\"citation/reference\">Lake Pontchartrain Basin, bottom sediments and regional scientific and educational resources; 1998; OFR; 98-805; Open-File Report; Manheim, Frank T., (Edited By)</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8ddc8a86efba4b4e6772401f840aebe9", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr98805"
+}

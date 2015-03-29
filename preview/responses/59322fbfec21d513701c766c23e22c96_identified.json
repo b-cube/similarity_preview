@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Agriculture/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Bare/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Developed/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Forest/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Grass/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/ScrubShrub/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Water/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison/Wetlands/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "59322fbfec21d513701c766c23e22c96", 
+    "source_url": "http://coast.noaa.gov/arcgis/rest/services/CCAP_County_Comparison?f=geositemap"
+}

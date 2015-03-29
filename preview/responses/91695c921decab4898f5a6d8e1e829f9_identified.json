@@ -1,0 +1,15 @@
+{
+    "content": "<ns:listMapProjectionsResponse xmlns:ns=\"http://laads.modapsws.gsfc.nasa.gov\" xmlns:ax21=\"http://datatypes.laads.modapsws.gsfc.nasa.gov/xsd\"><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>ALBERS</ax21:name><ax21:value>Albers Conical Equal Area</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>GEO</ax21:name><ax21:value>Geographic</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>LAMAZ</ax21:name><ax21:value>Lambert Azimuthal Equal Area</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>LAMCC</ax21:name><ax21:value>Lambert Conformal Conic</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>MERCAT</ax21:name><ax21:value>Mercator</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>PS</ax21:name><ax21:value>Polar Stereographic</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>ROBIN</ax21:name><ax21:value>Robinson</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>SNSOID</ax21:name><ax21:value>Sinusoidal</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>TM</ax21:name><ax21:value>Transverse Mercator</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>UTM</ax21:name><ax21:value>Universal Transverse Mercator (UTM)</ax21:value></ns:return></ns:listMapProjectionsResponse>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "91695c921decab4898f5a6d8e1e829f9", 
+    "source_url": "http://modwebsrv.modaps.eosdis.nasa.gov/axis2/services/MODAPSservices/listMapProjections"
+}

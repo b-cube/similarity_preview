@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/ncml/TRMM_RT\" ID=\"/opendap/hyrax/ncml/TRMM_RT/\">             <thredds:catalogRef name=\"TRMM_3B42RT.007\" xlink:href=\"TRMM_3B42RT.007/catalog.xml\"                           xlink:title=\"TRMM_3B42RT.007\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/ncml/TRMM_RT/TRMM_3B42RT.007/\"/>             <thredds:catalogRef name=\"TRMM_3B42RT_daily.007\" xlink:href=\"TRMM_3B42RT_daily.007/catalog.xml\"                           xlink:title=\"TRMM_3B42RT_daily.007\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/ncml/TRMM_RT/TRMM_3B42RT_daily.007/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "960c171bafd4c9e7560f3fcc56764b56", 
+    "source_url": "http://disc2.nascom.nasa.gov/opendap/ncml/TRMM_RT/catalog.xml"
+}

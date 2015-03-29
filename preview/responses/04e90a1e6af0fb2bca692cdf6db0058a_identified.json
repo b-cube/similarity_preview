@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/bag_bathymetry/ImageServer</loc> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/bag_hillshades_subsets/ImageServer</loc> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/bag_hillshades/ImageServer</loc> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/dem_hillshades/ImageServer</loc> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/dem_mhw_mosaic/ImageServer</loc> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/etopo1/ImageServer</loc> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/SampleWorldCities/MapServer</loc> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/test/random_points/MapServer</loc> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/Utilities/Geometry/GeometryServer</loc> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/Utilities/PrintingTools/GPServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "04e90a1e6af0fb2bca692cdf6db0058a", 
+    "source_url": "http://gis.ngdc.noaa.gov/arcgis/rest/services/?f=sitemap"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>School of Clinical Sciences</title> <link href=\"http://hdl.handle.net/10283/237\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/10283/237</id> <updated>2015-03-18T23:46:53Z</updated> <dc:date>2015-03-18T23:46:53Z</dc:date> <entry> <title>IgM antibodies exhibit preferential binding to apoptotic and non-apoptotic nucleated cells</title> <link href=\"http://hdl.handle.net/10283/724\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/10283/724</id> <updated>2015-03-10T16:20:23Z</updated> <published>2015-03-05T15:12:15Z</published> <summary type=\"text\">IgM antibodies exhibit preferential binding to apoptotic and non-apoptotic nucleated cells Data set characterising IgM antibody binding to non-apoptotic, apoptotic and permeable murine/human thymocytes and murine erythrocytes. Methodology used consisted of flow cytometry, confocal and electron microscopy. With the exception of the 'Images.zip' file, the other zip files contain FCS files which are the standard file type used in flow cytometry. Software used in flow cytometry such as FlowJo can be used to open these files (or FCStrans for conversion). </summary> <dc:date>2015-03-05T15:12:15Z</dc:date> </entry> <entry> <title>A test-retest fMRI dataset for motor, language and spatial attention functions.</title> <link href=\"http://hdl.handle.net/10283/691\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/10283/691</id> <updated>2015-02-23T10:53:34Z</updated> <published>2015-01-09T15:07:57Z</published> <summary type=\"text\">A test-retest fMRI dataset for motor, language and spatial attention functions. A test-retest dataset was acquired to validate fMRI tasks used in pre-surgical planning. In particular, five task-related fMRI time series (finger, foot and lip movement, overt verb generation, covert verb generation, overt word repetition, and landmark tasks) were used to investigate which protocols gave reliable single-subject results. Ten healthy participants in their fifties were scanned twice using an identical protocol 2-3 days apart. In addition to the fMRI sessions, high-angular resolution diffusion tensor MRI (DTI), and high-resolution 3D T1-weighted volume scans were acquired. Scanner type: GE Signa HDxt 1.5T. OpenFMRI accession no. ds000114. </summary> <dc:date>2015-01-09T15:07:57Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b117012f2957c8d24231dd263f056f2f", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/atom_1.0/10283/237"
+}

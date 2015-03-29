@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/muerte-costruccion-bogota\">     <owl:sameAs rdf:resource=\"urn:uuid:602cab2a-f681-490c-8263-647966ff56d2\"></owl:sameAs>     <dct:description>nzdfjknbldzfkmbkldfzbnkfmvlkfdzmb\\ufffd\\ufffdldfzb\\ufffd\\ufffdf</dct:description>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/muerte-costruccion-bogota\"></foaf:homepage>     <rdfs:label>muerte-costruccion-bogota</rdfs:label>     <dct:identifier>muerte-costruccion-bogota</dct:identifier>     <dct:title>muerte costrucci\\ufffd\\ufffdn bogota</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://demo.ckan.org/dataset/602cab2a-f681-490c-8263-647966ff56d2/resource/da8ac78d-a38f-42ad-8b87-863cfa139b51/download/formulacion14102014.xlsx\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>accidentes construcci\\ufffd\\ufffdn bog</dct:title>             </dcat:Distribution>         </dcat:distribution>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "62dcee259f56d3ce6a05c1cfaaece93b", 
+    "source_url": "http://demo.ckan.org/dataset/602cab2a-f681-490c-8263-647966ff56d2.rdf"
+}

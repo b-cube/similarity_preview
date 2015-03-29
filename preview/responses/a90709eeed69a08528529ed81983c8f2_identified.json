@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">On the Importance of Shipwrecks</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">ads.nerc.ac.uk:DC:a8f85f18-2aab-3adb-a476-c3e121ee9346</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">On the Importance of Shipwrecks is An Aggregates Levy Sustainability Project (ALSF) as rebursed by English Heritage. The project has developed a framework and methodology for evaluating the importance of physical remains of wrecks on the seabed in the context of the Environmental Impact Assessment. The project included as literature review, consultation with key practitioners and the development of a draft framework, trials of the framework on sub-sets of wreck records from the National Monuments record. The digital archive consists of the final reports on this process, as well as the Draft Framework.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2007-01-26</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a90709eeed69a08528529ed81983c8f2", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/ads.nerc.ac.uk__MEDIN_2.3__a8f85f18-2aab-3adb-a476-c3e121ee9346.xml/DC"
+}

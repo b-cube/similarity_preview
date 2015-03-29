@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>AmouliResiliencyPlanningCommittee2012b </Local-number>  <Author>Amouli Resiliency Planning Committee, American Samoa Coral Reef Advisory Group (colab), NOAA - Pacific Island Regional Office (colab) </Author>  <Title>Climate resiliency responses and actions: For Amouli Village, American Samoa </Title>  <Institution>NOAA - Pacific Island Regional Office </Institution>  <Publication-Date><caldate>2012 </caldate></Publication-Date>  <Extent>18 </Extent>  <Type-Period-Note>Technical Report, 2012 - 2015 </Type-Period-Note>  <Notes>FY2010 CRCP Project ID 20499; Project Title: Establishing Climate Resilient Communities in American Samoa; Principal Investigator: Arielle Levine </Notes>  <Abstract>\"Coastal communities are particularly vulnerable to climate change due to their proximity to and reliance on the ocean. In order to better prepare for potential climate impacts, communities must work to be resilient to the impacts derived from climate change. A climate resilient community can cope with and recover quickly from difficult conditions caused by the adverse effects of climate change, including climate related hazards and disasters. In order to be more resilient to climate impacts, a community can participate in advance planning for climate change, work to prevent predicted impacts when possible, and try to adapt and mitigate to climate change impacts.\" </Abstract>  <Date-Time-Last-Modified>20130401000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/20499/Amouli_Resiliency_Actions_and_Responses.pdf </URL>  <project>  <ID>20499 </ID>  <title>Establishing Climate Resilient Communities in American Samoa </title>  <PI>Arielle Levine </PI>  </project>  <Region>AmSam </Region>  <Bounding>  <Eastbc>-167.551612 </Eastbc>  <Westbc>-171.541907 </Westbc>  <Southbc>-15.25183 </Southbc>  <Northbc>-10.207203 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e5fc7858c745117d58184087be0213b7", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B433F11B9-F22B-4A94-84E2-27A809FDCF58%7D"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"          xmlns:digest=\"http://www.wizards-toolkit.org/digest/1.0/\">   <digest:Content rdf:about=\"rmagick-2.12.0-doc.tar.gz\">     <digest:timestamp>2014-08-16T09:24:06-04:00</digest:timestamp>     <digest:modify-date>2009-10-04T16:43:35-04:00</digest:modify-date>     <digest:create-date>2009-10-04T16:43:35-04:00</digest:create-date>     <digest:extent>6712042</digest:extent>     <digest:sha256>9ea85391530f18c5515f03f7291081901d717177480052ebc84a4e4316cba100</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"RMagick-2.13.2.tar.gz\">     <digest:timestamp>2014-08-16T09:24:06-04:00</digest:timestamp>     <digest:modify-date>2013-02-02T16:31:50-05:00</digest:modify-date>     <digest:create-date>2013-02-02T16:31:50-05:00</digest:create-date>     <digest:extent>1305290</digest:extent>     <digest:sha256>1bddcd52a0a30f12738b063246b1de690aa293f3355850836bab2baf869666b6</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"RMagick-2.13.2.tar.bz2\">     <digest:timestamp>2014-08-16T09:24:06-04:00</digest:timestamp>     <digest:modify-date>2013-02-02T16:30:56-05:00</digest:modify-date>     <digest:create-date>2013-02-02T16:30:56-05:00</digest:create-date>     <digest:extent>1208478</digest:extent>     <digest:sha256>a8c2df101549f74c66f687eceada6b703183234d7ce67dc84d85d16745a638e3</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"RMagick-2.13.2.tar.lzma\">     <digest:timestamp>2014-08-16T09:24:06-04:00</digest:timestamp>     <digest:modify-date>2013-02-02T16:32:14-05:00</digest:modify-date>     <digest:create-date>2013-02-02T16:32:14-05:00</digest:create-date>     <digest:extent>1091304</digest:extent>     <digest:sha256>b769a6c451ff5498b12a7ee959dc3bf01705bd8b5ff779c4477563add6e467af</digest:sha256>   </digest:Content> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7d68146a8ec46b71d47878bcd59618bf", 
+    "source_url": "http://www.imagemagick.org/download/ruby/digest.rdf"
+}

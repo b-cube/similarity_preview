@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-engineering-regulatory-and-analytics-materials-reviewer-areas\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-engineering-regulatory-and-analytics-materials-reviewer-areas</id><updated>2015-03-19T14:50:17Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ed58c70b1b4bb13e7248a0410416f092", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-engineering-regulatory-and-analytics-materials-reviewer-areas?days=14&format=atom"
+}

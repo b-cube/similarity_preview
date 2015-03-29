@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <status>Successful connection, 3 record(s) found.</status>   <species>   <genus>Nannocharax</genus>   <speciesfb>niloticus</speciesfb>   <speccode>11243</speccode>    </species>   <comnames>    <comname>&#23612;&#32599;&#27827;&#30702;&#33026;&#40100;</comname>      <country>China</country>     <language>Mandarin Chinese</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#23612;&#32645;&#27827;&#30702;&#33026;&#39881;</comname>      <country>China</country>     <language>Mandarin Chinese</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#78;&#105;&#105;&#108;&#105;&#110;&#110;&#117;&#111;&#108;&#105;&#97;&#105;&#115;&#116;&#101;&#116;&#114;&#97;</comname>      <country>Finland</country>     <language>Finnish</language>     <type>Vernacular</type>    </comnames>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b446245482643bfa85925dd7e94a886d", 
+    "source_url": "http://www.fishbase.org/webservice/ComNames/comnamesxml.php?Genus=Nannocharax&Species=niloticus"
+}

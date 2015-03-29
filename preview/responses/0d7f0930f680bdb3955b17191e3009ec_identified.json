@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <psh>   <responseDate>2015-03-19T23:07:45Z</responseDate>   <request>http://opendoar.org/demos/psh.php</request>   <error code=\"badVerb\">No verb was specified</error>   <error code=\"help\">Use verb=Help for correct usage.</error> </psh>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0d7f0930f680bdb3955b17191e3009ec", 
+    "source_url": "http://opendoar.org/demos/psh.php"
+}

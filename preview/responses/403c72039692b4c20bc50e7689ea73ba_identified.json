@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"> <ShortName>LocalHarvest.org</ShortName> <Description> Find locally grown produce anywhere in the country! Locate farmers markets, family farms, CSAs, farm stands, and u-pick produce in your neighborhood. </Description> <InputEncoding>UTF-8</InputEncoding> <Image width=\"16\" height=\"16\" type=\"image/x-icon\">/favicon.ico</Image> <Url type=\"text/html\" method=\"get\" template=\"http://www.localharvest.org/getmap.jsp?gl=1&amp;nm={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "403c72039692b4c20bc50e7689ea73ba", 
+    "source_url": "http://www.localharvest.org/opensearch.xml"
+}

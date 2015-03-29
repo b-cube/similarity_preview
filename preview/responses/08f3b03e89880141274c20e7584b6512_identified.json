@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.T1-607.1998\"> <front> <title>Telecommunications - Digital Subscriber Signaling System Number 1 (DSS1) - Layer 3 Signaling Specification for Circuit-Switched Bearer Services</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1998\" /> </front>  <seriesInfo name=\"ANSI\" value=\"T1.607\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "08f3b03e89880141274c20e7584b6512", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.ANSI.T1-607.1998.xml"
+}

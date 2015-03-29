@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/addmydataset\">     <owl:sameAs rdf:resource=\"urn:uuid:f9a2308d-e524-4550-a745-c6e42927cb27\"></owl:sameAs>     <dct:description></dct:description>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/addmydataset\"></foaf:homepage>     <rdfs:label>addmydataset</rdfs:label>     <dct:identifier>addmydataset</dct:identifier>     <dct:title>addmydataset</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"https://www.google.com.sg/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=0CAcQjRw&amp;url=http%3A%2F%2Fdocs.ckan.org%2Fen%2Flatest%2Ftheming%2Ftemplates.html&amp;ei=Su0IVaTMC9DguQSmuYHQAQ&amp;bvm=bv.88198703,d.c2E&amp;psig=AFQjCNGOIbhFAKr2XIV28xMYrKR-NQrHHg&amp;ust=1426734788514230\"></dcat:accessURL>             </dcat:Distribution>         </dcat:distribution>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "558d3b451b97bb6eac7c70783d9195eb", 
+    "source_url": "http://demo.ckan.org/dataset/f9a2308d-e524-4550-a745-c6e42927cb27.rdf"
+}

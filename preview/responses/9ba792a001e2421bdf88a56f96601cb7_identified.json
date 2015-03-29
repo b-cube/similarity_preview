@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>ARKive Search</ShortName>  <Description>Search for ARKive species and content</Description>  <InputEncoding>UTF-8</InputEncoding>  <Image width=\"16\" height=\"16\" type=\"image/x-icon\">http://www.arkive.org/favicon.ico</Image>  <Url type=\"text/html\" method=\"GET\" template=\"http://www.arkive.org/?quicksearch={searchTerms}&amp;OpenSearch=true\"></Url> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9ba792a001e2421bdf88a56f96601cb7", 
+    "source_url": "http://www.arkive.org/misc/search_plugin/arkivesearchplugin.xml"
+}

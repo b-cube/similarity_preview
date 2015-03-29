@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/ENOW_StoryMaps/OceanEmploy_Top10/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/ENOW_StoryMaps/OceanEmployment/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/ENOW_StoryMaps/TotalEmployment/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/ENOW_StoryMaps/TourismAndOffshoreMinerals/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "17158948376a86c9a63de9fff70d1d10", 
+    "source_url": "http://coast.noaa.gov/arcgis/rest/services/ENOW_StoryMaps?f=sitemap"
+}

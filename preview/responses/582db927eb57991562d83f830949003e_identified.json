@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/ncml/Aqua_AIRS_Level3/AIRX3STM.006/2015\"                     ID=\"/opendap/hyrax/ncml/Aqua_AIRS_Level3/AIRX3STM.006/2015/\">             <thredds:dataset name=\"AIRS.2015.01.01.L3.RetStd031.v6.0.11.0.G15041143604.hdf.ncml\"                        ID=\"/opendap/hyrax/ncml/Aqua_AIRS_Level3/AIRX3STM.006/2015/AIRS.2015.01.01.L3.RetStd031.v6.0.11.0.G15041143604.hdf.ncml\">          <thredds:dataSize units=\"bytes\">232765</thredds:dataSize>          <thredds:date type=\"modified\">2015-02-10T19:51:55</thredds:date>          <thredds:access serviceName=\"dap\"                          urlPath=\"/ncml/Aqua_AIRS_Level3/AIRX3STM.006/2015/AIRS.2015.01.01.L3.RetStd031.v6.0.11.0.G15041143604.hdf.ncml\"/>          <thredds:access serviceName=\"file\"                          urlPath=\"/ncml/Aqua_AIRS_Level3/AIRX3STM.006/2015/AIRS.2015.01.01.L3.RetStd031.v6.0.11.0.G15041143604.hdf.ncml\"/>       </thredds:dataset>             <thredds:dataset name=\"AIRS.2015.02.01.L3.RetStd028.v6.0.11.0.G15076164741.hdf.ncml\"                        ID=\"/opendap/hyrax/ncml/Aqua_AIRS_Level3/AIRX3STM.006/2015/AIRS.2015.02.01.L3.RetStd028.v6.0.11.0.G15076164741.hdf.ncml\">          <thredds:dataSize units=\"bytes\">232765</thredds:dataSize>          <thredds:date type=\"modified\">2015-03-17T20:52:39</thredds:date>          <thredds:access serviceName=\"dap\"                          urlPath=\"/ncml/Aqua_AIRS_Level3/AIRX3STM.006/2015/AIRS.2015.02.01.L3.RetStd028.v6.0.11.0.G15076164741.hdf.ncml\"/>          <thredds:access serviceName=\"file\"                          urlPath=\"/ncml/Aqua_AIRS_Level3/AIRX3STM.006/2015/AIRS.2015.02.01.L3.RetStd028.v6.0.11.0.G15076164741.hdf.ncml\"/>       </thredds:dataset>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "582db927eb57991562d83f830949003e", 
+    "source_url": "http://acdisc.sci.gsfc.nasa.gov/opendap/ncml/Aqua_AIRS_Level3/AIRX3STM.006/2015/catalog.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:xfn=\"http://gmpg.org/xfn/11#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:h=\"http://www.w3.org/1999/xhtml\">   <rdf:Description>     <foaf:homepage rdf:resource=\"\"/>     <friend xmlns=\"http://gmpg.org/xfn/11#\">       <rdf:Description>         <foaf:homepage rdf:resource=\"http://peter.example.org/\"/>       </rdf:Description>     </friend>     <met xmlns=\"http://gmpg.org/xfn/11#\">       <rdf:Description>         <foaf:homepage rdf:resource=\"http://peter.example.org/\"/>       </rdf:Description>     </met>     <met xmlns=\"http://gmpg.org/xfn/11#\">       <rdf:Description>         <foaf:homepage rdf:resource=\"http://john.example.org/\"/>       </rdf:Description>     </met>     <met xmlns=\"http://gmpg.org/xfn/11#\">       <rdf:Description>         <foaf:homepage rdf:resource=\"http://paul.example.org/\"/>       </rdf:Description>     </met>   </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f8154c473a5f1af5f22ec098769279f6", 
+    "source_url": "http://www.w3.org/2001/sw/grddl-wg/doc29/xfn.rdf"
+}

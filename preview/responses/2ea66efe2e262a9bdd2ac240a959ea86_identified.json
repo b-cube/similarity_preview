@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Whyte, Angus</a1>   <t1>Results of the Digital Curation Centre 2014 RDM Survey Pre-\\ufffd\\ufffd\\ufffd\\ufffd\\ufffdrelease Briefing 2,</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;The 2nd of 3 Briefing papers giving results of the DCC survey, originally released to survey respondents on 1st May 2014. The report outlines:&lt;/p&gt;  &lt;p&gt;How far have institutions progressed towards developing RDM policy?&lt;/p&gt;  &lt;p&gt;How far have institutions got in implementing their policies?&lt;/p&gt;  &lt;p&gt;When will institutions be able to provide for long-term access?&lt;/p&gt;  &lt;p&gt;What external guidance and support is needed now?&lt;/p&gt;  &lt;p&gt;What shared services are appropriate?&lt;/p&gt;</ab>   <la/>   <k1>Research data management, UK, universities, institutions;                 </k1>   <pb/>   <pp/>   <yr>2014-06-30</yr>   <ed/>   <ul>http://zenodo.org/record/10712/files/DCC_RDM2014_SurveyAnalysis_Pre2.pdf;  http://zenodo.org/record/10712/files/DCC_RDM2014_SurveyAnalysis_Pre2.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2ea66efe2e262a9bdd2ac240a959ea86", 
+    "source_url": "http://zenodo.org/record/10712/export/xw"
+}

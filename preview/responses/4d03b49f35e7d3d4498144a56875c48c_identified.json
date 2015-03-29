@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>A novel method for spatio-temporal analysis of flows within the water-side viscous boundary layer</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>J\\ufffd\\ufffdhne</surname>             <given-names>Bernd</given-names>           </name>           <aff>             <institution>Interdisciplinary Center for Scientific Computing (IWR), Heidelberg University</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Jehle</surname>             <given-names>Markus</given-names>           </name>           <aff>             <institution>Interdisciplinary Center for Scientific Computing (IWR), Heidelberg University</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2006</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/14845\"/>       <self-uri xlink:href=\"https://zenodo.org/record/14845/files/ISFV2006_Jehle.pdf\"/>     </article-meta>     <abstract>&lt;p&gt;A novel measurement technique is developed for 3D reconstruction of Eulerian velocity vector fields and Lagrangian trajectories at water-side viscous boundary layers in wavy free surfaces. The presented approach makes use of spatiotemporal image processing algorithms. The method is applied to a falling film with a known velocity profile.&lt;/p&gt;</abstract>   </front>   <article-type>user-asi</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4d03b49f35e7d3d4498144a56875c48c", 
+    "source_url": "https://zenodo.org/record/14845/export/xn"
+}

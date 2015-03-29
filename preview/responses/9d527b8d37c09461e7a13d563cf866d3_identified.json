@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>LEO Eng-Deu v2.0</ShortName>  <Description>Verwenden Sie LEOs Englisch-Deutsch Online W\\ufffd\\ufffdrterbuch um einzelne W\\ufffd\\ufffdrter oder Phrasen vom Englischen ins Deutsche (oder umgekehrt) zu \\ufffd\\ufffdbersetzen.</Description>  <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://dict.leo.org/img/favicons/ende.ico</Image>  <Url type=\"text/html\" method=\"get\" template=\"http://dict.leo.org/ende?lang=de&amp;search={searchTerms}\"/>  <Url type=\"application/x-suggestions+json\" method=\"get\" template=\"http://dict.leo.org/dictQuery/m-query/conf/ende/query.conf/strlist.json?q={searchTerms}&amp;sort=PLa&amp;shortQuery&amp;noDescription&amp;noQueryURLs\"/>  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://dict.leo.org/pages/helpers/shared/searches/opensearch_ende_de.xml\" />  <Contact>dict@leo.org</Contact>  <Tags>LEO dictionary w\\ufffd\\ufffdrterbuch online translate \\ufffd\\ufffdbersetzen translation \\ufffd\\ufffdbersetzung german english deutsch englisch</Tags>  <LongName>LEOs Englisch-Deutsch Online W\\ufffd\\ufffdrterbuch</LongName>  <Query role=\"example\" searchTerms=\"map\"/>  <Developer>LEO GmbH</Developer>  <Attribution>Copyright LEO GmbH</Attribution>  <SyndicationRight>private</SyndicationRight>  <AdultContent>false</AdultContent>  <InputEncoding>UTF-8</InputEncoding>  <OutputEncoding>UTF-8</OutputEncoding> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9d527b8d37c09461e7a13d563cf866d3", 
+    "source_url": "http://dict.leo.org/pages/helpers/shared/searches/opensearch_ende_de.xml"
+}

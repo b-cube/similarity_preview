@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0011'>  <front> <title>Implementation of the Host - Host Software Procedures in GORDO</title> <author initials='G.' surname='Deloche' fullname='G. Deloche'> <organization /></author> <date year='1969' month='August' /></front>  <seriesInfo name='RFC' value='11' /> <format type='TXT' octets='46971' target='http://www.rfc-editor.org/rfc/rfc11.txt' /> <format type='PDF' octets='2186431' target='http://www.rfc-editor.org/rfc/rfc11.pdf' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d1d18157998bb304e9b597b13229ba54", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0011.xml"
+}

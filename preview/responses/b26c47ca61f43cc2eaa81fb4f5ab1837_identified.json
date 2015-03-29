@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-rdf-mt-20030905'> <front> <title>RDF Semantics</title>  <author initials='P' surname='Hayes' fullname='Patrick Hayes'>     <organization /> </author>  <date month='September' day='5' year='2003' /> </front>  <seriesInfo name='W3C WD' value='WD-rdf-mt-20030905' /> <format type='HTML' target='http://www.w3.org/TR/2003/WD-rdf-mt-20030905' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b26c47ca61f43cc2eaa81fb4f5ab1837", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-rdf-mt-20030905.xml"
+}

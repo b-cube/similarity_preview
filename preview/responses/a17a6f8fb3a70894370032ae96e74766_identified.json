@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0065\">   <front>     <title>SOCKS5 Bytestreams</title>     <author initials=\"D.\" surname=\"Smith\" fullname=\"Dave Smith\">       <organization/>       <address>         <email>dizzyd@jabber.org</email>       </address>     </author>     <author initials=\"M.\" surname=\"Miller\" fullname=\"Matthew Miller\">       <organization/>       <address>         <email>linuxwolf@outer-planes.net</email>       </address>     </author>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <author initials=\"J.\" surname=\"Karneges\" fullname=\"Justin Karneges\">       <organization/>       <address>         <email>justin@affinix.com</email>       </address>     </author>     <date day=\"20\" month=\"April\" year=\"2011\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0065\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0065.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a17a6f8fb3a70894370032ae96e74766", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0065.xml"
+}

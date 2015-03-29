@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.X9-44.1993\"> <front> <title>Public Key Cryptography Using Reversible Algorithms for the Financial Services Industry: Transport of Symmetric Algorithm Keys Using RSA</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1993\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X9.44\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dd340e418e1e8ad6e24af9843d193749", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ANSI.X9-44.1993.xml"
+}

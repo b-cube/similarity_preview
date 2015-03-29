@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"   xmlns:owl=\"http://www.w3.org/2002/07/owl#\"   xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dcat=\"http://www.w3.org/ns/dcat#\"   xmlns:dct=\"http://purl.org/dc/terms/\" >   <dcat:Dataset rdf:about=\"http://beta.ckan.org/en/dataset/picture2\">     <owl:sameAs rdf:resource=\"urn:uuid:64e358e8-75c0-49f5-871c-8d1d3c744a07\"/>     <dct:description>sfasff</dct:description>          <foaf:homepage rdf:resource=\"http://beta.ckan.org/en/dataset/picture2\"/>     <rdfs:label>picture2</rdfs:label>      <dct:identifier>picture2</dct:identifier>     <dct:title>Picture2</dct:title>              <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://beta.ckan.org/dataset/64e358e8-75c0-49f5-871c-8d1d3c744a07/resource/a16dc256-036a-4d1f-b628-c57556b5b031/download/views2.png\"/>                                          <dct:format>                         <dct:IMT>                             <rdf:value>PNG</rdf:value>                             <rdfs:label>PNG</rdfs:label>                         </dct:IMT>                     </dct:format>                                                  </dcat:Distribution>         </dcat:distribution>                              </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "7b259f959ed3168d555a54067ca80e72", 
+    "source_url": "http://beta.ckan.org/en/dataset/64e358e8-75c0-49f5-871c-8d1d3c744a07.rdf"
+}

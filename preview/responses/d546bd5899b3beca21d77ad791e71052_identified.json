@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/315\"> <title>User Group meeting 3rd July 2007</title> <link>http://hdl.handle.net/2160/315</link> <description>Items relating to the User Group meeting 3rd July 2007</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/320\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/319\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/318\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/317\"/> </rdf:Seq> </items> <dc:date>2015-03-20T01:23:06Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/320\"> <title>The Repository Support Project: DSpace support</title> <link>http://hdl.handle.net/2160/320</link> <description>The Repository Support Project: DSpace support Yates, Chris Chris Yate's, Technical Repository Officer for the RSP presents the RSP and the DSpace support element. </description> <dc:date>2007-07-11T15:11:55Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/319\"> <title>Brunel University Research Archive: Mandate and RAE. An update</title> <link>http://hdl.handle.net/2160/319</link> <description>Brunel University Research Archive: Mandate and RAE. An update Murtagh, John Brunel University's Repository Manager John Murtagh gives an update on their repository, how it is used to support the RAE, and a mandate they have issued. </description> <dc:date>2007-07-11T15:07:01Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/318\"> <title>Open Repository, Open Source</title> <link>http://hdl.handle.net/2160/318</link> <description>Open Repository, Open Source Triggs, Graham A presentation by Graham Triggs of BioMed Central's 'Open Repository' team about their work and contribution to DSpace. </description> <dc:date>2007-07-11T14:57:51Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/317\"> <title>Persistent identification and storage abstraction in DSpace</title> <link>http://hdl.handle.net/2160/317</link> <description>Persistent identification and storage abstraction in DSpace Rutherford, James A presentation by James Rutherford of HP Labs exploring the issues of identification and storage abstraction in DSpace. </description> <dc:date>2007-07-11T14:38:22Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d546bd5899b3beca21d77ad791e71052", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/315"
+}

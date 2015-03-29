@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"2530\"><idinfo><citation><citeinfo><origin role=\"Author\">Houseknecht, David W.</origin><origin role=\"Author\">Bird, Kenneth J.</origin><origin role=\"Author\">Schuenemeyer, John H.</origin><origin role=\"Author\">Attanasi, Emil D.</origin><origin role=\"Author\">Garrity, Christopher P.</origin><origin role=\"Author\">Schenk, Christopher J.</origin><origin role=\"Author\">Charpentier, Ronald R.</origin><origin role=\"Author\">Pollastro, Richard M.</origin><origin role=\"Author\">Cook, Troy A.</origin><origin role=\"Author\">Klett, Timothy R.</origin><title>2010 updated assessment of undiscovered oil and gas resources of the National Petroleum Reserve in Alaska (NPRA)</title><pubdate>2010</pubdate><serinfo><sername>Fact Sheet</sername><issue>2010-3102</issue></serinfo><pubinfo><publish>U.S. Geological Survey</publish></pubinfo><onlink>http://pubs.usgs.gov/fs/2010/3102/</onlink></citeinfo></citation><descript><abstract>We estimate mean volumes of 896 million barrels of oil and about 53 trillion cubic feet of nonassociated natural gas in conventional, undiscovered accumulations within this area, a reduction of our 2002 estimate due to new geologic information.</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><theme><themekt>Alexandria Digital Library Feature Type Thesaurus</themekt><themekey>mineral deposit areas</themekey></theme><place><placekt>Common geographic areas</placekt><placekey>f02185 = North Slope</placekey></place><theme><themekt>USGS Thesaurus</themekt><themekey>economic geology</themekey><themekey>natural gas resources</themekey><themekey>natural resource assessment</themekey><themekey>oil resources</themekey><themekey>petroleum</themekey></theme></keywords></idinfo><metainfo><metd>20120904</metd><metc><cntinfo><cntperp><cntper>Schweitzer, Peter N</cntper><cntorg>ER Mineral Resources</cntorg></cntperp><cntaddr><addrtype>mailing address</addrtype><address>12201 Sunrise Valley Drive Mail Stop 954</address><city>Reston</city><state>VA</state><postal>20192</postal><country>USA</country></cntaddr><cntvoice>703-648-6533</cntvoice><cntemail>pschweitzer@usgs.gov</cntemail></cntinfo></metc><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f9c67e133c5c0f688baa3910cbe83630", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=2530"
+}

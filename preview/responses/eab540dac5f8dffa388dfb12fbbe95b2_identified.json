@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!-- filename=ims_lip_rootv1p0.xsd --> <!-- Copyright (c) 2001 IMS Global Learning Consortium --> <!-- 2001-03-15 edited by Thomas Wason --> <!-- Conforms to w3c http://www.w3.org/2000/10/XMLSchema--> <xsd:schema targetNamespace=\"http://www.imsproject.org/xsd/ims_lip_rootv1p0\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns=\"http://www.imsproject.org/xsd/ims_lip_rootv1p0\" elementFormDefault=\"qualified\" version=\"LIP 1.0 Schema 1.0\">  <xsd:include schemaLocation=\"ims_lip_commonv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_identificationv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_qclv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_goalv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_activityv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_competencyv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_transcriptv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_accessibilityv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_interestv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_affiliationv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_securitykeyv1p0.xsd\"/>  <xsd:include schemaLocation=\"ims_lip_relationshipv1p0.xsd\"/>  <xsd:element name=\"ext_learnerinfo\" type=\"extensionType\">   <xsd:annotation>    <xsd:documentation>extension</xsd:documentation>   </xsd:annotation>  </xsd:element>  <xsd:element name=\"learnerinformation\" type=\"learnerinformationType\">   <xsd:annotation>    <xsd:documentation>Learner Information Package root element that contains all of the information about the learner in this instance.</xsd:documentation>   </xsd:annotation>  </xsd:element>  <xsd:complexType name=\"learnerinformationType\">   <xsd:sequence>    <xsd:element ref=\"comment\" minOccurs=\"0\"/>    <xsd:element ref=\"contentype\" minOccurs=\"0\"/>    <xsd:choice minOccurs=\"0\" maxOccurs=\"unbounded\">     <xsd:element ref=\"identification\"/>     <xsd:element ref=\"goal\"/>     <xsd:element ref=\"qcl\"/>     <xsd:element ref=\"activity\"/>     <xsd:element ref=\"competency\"/>     <xsd:element ref=\"transcript\"/>     <xsd:element ref=\"accessibility\"/>     <xsd:element ref=\"interest\"/>     <xsd:element ref=\"affiliation\"/>     <xsd:element ref=\"securitykey\"/>     <xsd:element ref=\"relationship\"/>     <xsd:element ref=\"ext_learnerinfo\"/>    </xsd:choice>   </xsd:sequence>   <xsd:attributeGroup ref=\"attr.lang\"/>  </xsd:complexType> </xsd:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "eab540dac5f8dffa388dfb12fbbe95b2", 
+    "source_url": "http://www.imsglobal.org/xsd/ims_lip_rootv1p0.xsd"
+}

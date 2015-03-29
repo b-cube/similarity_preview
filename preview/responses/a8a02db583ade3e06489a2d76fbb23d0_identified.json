@@ -1,0 +1,15 @@
+{
+    "content": "<result> <rdf>     <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns=\"http://creativecommons.org/ns#\">   <Work xmlns:dc=\"http://purl.org/dc/elements/1.1/\" rdf:about=\"\"><license rdf:resource=\"http://creativecommons.org/licenses/by-nc-sa/2.0/uk/\" /></Work><License rdf:about=\"http://creativecommons.org/licenses/by-nc-sa/2.0/uk/\">     <permits rdf:resource=\"http://creativecommons.org/ns#DerivativeWorks\" />     <permits rdf:resource=\"http://creativecommons.org/ns#Distribution\" />     <permits rdf:resource=\"http://creativecommons.org/ns#Reproduction\" />     <requires rdf:resource=\"http://creativecommons.org/ns#Attribution\" />     <requires rdf:resource=\"http://creativecommons.org/ns#Notice\" />     <requires rdf:resource=\"http://creativecommons.org/ns#ShareAlike\" />   </License> </rdf:RDF>   </rdf> <licenserdf>     <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns=\"http://creativecommons.org/ns#\">   <License rdf:about=\"http://creativecommons.org/licenses/by-nc-sa/2.0/uk/\">     <permits rdf:resource=\"http://creativecommons.org/ns#DerivativeWorks\" />     <permits rdf:resource=\"http://creativecommons.org/ns#Distribution\" />     <permits rdf:resource=\"http://creativecommons.org/ns#Reproduction\" />     <requires rdf:resource=\"http://creativecommons.org/ns#Attribution\" />     <requires rdf:resource=\"http://creativecommons.org/ns#Notice\" />     <requires rdf:resource=\"http://creativecommons.org/ns#ShareAlike\" />   </License> </rdf:RDF>   </licenserdf> </result> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a8a02db583ade3e06489a2d76fbb23d0", 
+    "source_url": "https://www.repository.cam.ac.uk/bitstream/handle/1810/246841/license_rdf?sequence=3"
+}

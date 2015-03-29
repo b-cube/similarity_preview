@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <vocabulary id=\"event_type\"> <terms> <term> <id>Launch</id> </term> <term> <id>Line</id> </term> <term> <id>Station:Bottom</id> </term> <term> <id>Station:Bottom:Deployed</id> </term> <term> <id>Station:Bottom:Lowered</id> </term> <term> <id>Station:Bottom:Recovered</id> </term> <term> <id>Station:Bottom:Serviced</id> </term> <term> <id>Station:Bottom:Towed</id> </term> <term> <id>Station:Land</id> </term> <term> <id>Station:Land:Deployed</id> </term> <term> <id>Station:Surface</id> </term> <term> <id>Station:Surface:Deployed</id> </term> <term> <id>Station:Surface:Towed</id> </term> <term> <id>Station:WaterColumn</id> </term> <term> <id>Station:WaterColumn:Deployed</id> </term> <term> <id>Station:WaterColumn:Lowered</id> </term> <term> <id>Station:WaterColumn:Recovered</id> </term> <term> <id>Station:WaterColumn:Released</id> <description>Associated with expendable probes such as XBTs, XCTDs, XCPs.</description> </term> <term> <id>Station:WaterColumn:Towed</id> </term> </terms> </vocabulary> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bee682001e8a664e5a6d1c329b449968", 
+    "source_url": "http://www.marine-geo.org/services/getVocabulary/?id=event_type&fmt=xml"
+}

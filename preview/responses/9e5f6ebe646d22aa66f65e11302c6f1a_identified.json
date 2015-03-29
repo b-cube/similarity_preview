@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Observational Signposts of Brown Dwarf Formation Mechanisms</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Dodson-Robinson</surname>             <given-names>Sarah</given-names>           </name>           <aff>             <institution>University of Delaware</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/12736\"/>       <self-uri xlink:href=\"http://www.physics.udel.edu/gp/bdexocon/BDEXOCON.htm\"/>       <self-uri xlink:href=\"https://zenodo.org/record/12736/files/bdexocon.pdf\"/>     </article-meta>     <abstract>&lt;p&gt;The coldest known Y dwarfs have lower mass limits similar to the masses of exoplanets recently discovered by direct imaging, such as the companions to HR 8799 and beta Pictoris. Using proper motions and parallaxes inferred from new Spitzer and Keck observations,&amp;nbsp;Beichman et al. (2014) inferred a mass range of 10-30 Jupiter masses for 15 late T- and Y-type field dwarfs discovered by the WISE survey. For objects in this mass range, three formation mechanisms--starlike formation, disk instability and core accretion--are theoretically possible. Here I discuss observational signposts of brown dwarf formation mechanisms, focusing specifically on masses and velocities of the objects in the Beichman et al. (2014) sample. Most of the objects are too massive to be well represented in the exoplanet population synthesis models of Mordasini et al. (2012), suggesting that core accretion is an unlikely formation mechanism. Without radial velocities, computation of the sample&amp;#39;s true velocity distribution is not possible, but the tangential velocity distribution is not significantly different from that of field T dwarfs (Faherty et al. 2009). For the bulk of the sample, the starlike formation pathway seems most probable. However, there are two objects under 15 Jupiter masses that have tangential velocities over 70 km s&lt;sup&gt;-1&lt;/sup&gt; that may be promising candidates for planet-like formation, assuming they are not halo or thick-disk objects. Given that Pinfield et al. (2014) also noted the high velocity of the newly discovered Y-dwarf WISE J030449.03-270508.3, T- and Y-dwarf velocities may be a promising line of inquiry for future investigations of the brown dwarf-exoplanet connection.&lt;/p&gt;</abstract>   </front>   <article-type>user-bdexocon-oct2014</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9e5f6ebe646d22aa66f65e11302c6f1a", 
+    "source_url": "https://zenodo.org/record/12736/export/xn"
+}

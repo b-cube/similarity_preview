@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <q:quakeml xmlns=\"http://quakeml.org/xmlns/bed/1.2\" xmlns:catalog=\"http://anss.org/xmlns/catalog/0.1\" xmlns:q=\"http://quakeml.org/xmlns/quakeml/1.2\"> <eventParameters publicID=\"quakeml:earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_hour.quakeml\"> <event catalog:datasource=\"ak\" catalog:eventsource=\"ak\" catalog:eventid=\"11531527\" publicID=\"quakeml:earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak11531527.quakeml\"><description><type>earthquake name</type><text>28km SE of Redoubt Volcano, Alaska</text></description><origin catalog:datasource=\"ak\" catalog:dataid=\"ak11531527\" catalog:eventsource=\"ak\" catalog:eventid=\"11531527\" publicID=\"quakeml:earthquake.usgs.gov/realtime/product/origin/ak11531527/ak/1426712481796/product.xml\"><time><value>2015-03-18T20:36:57.000Z</value></time><longitude><value>-152.4339</value></longitude><latitude><value>60.2767</value></latitude><depth><value>93800</value><uncertainty>800</uncertainty></depth><originUncertainty><horizontalUncertainty>600</horizontalUncertainty><preferredDescription>horizontal uncertainty</preferredDescription></originUncertainty><quality><usedPhaseCount>43</usedPhaseCount><standardError>0.7</standardError></quality><evaluationMode>automatic</evaluationMode><creationInfo><creationTime>2015-03-18T21:01:21.796Z</creationTime><version>1</version></creationInfo></origin><magnitude catalog:datasource=\"ak\" catalog:dataid=\"ak11531527\" catalog:eventsource=\"ak\" catalog:eventid=\"11531527\" publicID=\"quakeml:earthquake.usgs.gov/realtime/product/origin/ak11531527/ak/1426712481796/product.xml#magnitude\"><mag><value>2.7</value></mag><type>ml</type><originID>quakeml:earthquake.usgs.gov/realtime/product/origin/ak11531527/ak/1426712481796/product.xml</originID><evaluationMode>automatic</evaluationMode><creationInfo><creationTime>2015-03-18T21:01:21.796Z</creationTime></creationInfo></magnitude><preferredOriginID>quakeml:earthquake.usgs.gov/realtime/product/origin/ak11531527/ak/1426712481796/product.xml</preferredOriginID><preferredMagnitudeID>quakeml:earthquake.usgs.gov/realtime/product/origin/ak11531527/ak/1426712481796/product.xml#magnitude</preferredMagnitudeID><type>earthquake</type><creationInfo><agencyID>ak</agencyID><creationTime>2015-03-18T21:01:48.891Z</creationTime><version>1</version></creationInfo></event> <creationInfo><creationTime>2015-03-18T21:18:36.000Z</creationTime></creationInfo> </eventParameters></q:quakeml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3a47d9de20e946e9c4689d5aa87d3789", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_hour.quakeml"
+}

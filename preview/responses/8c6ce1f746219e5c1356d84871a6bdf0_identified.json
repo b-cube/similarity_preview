@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>APHA Search</ShortName><Description>Search APHA</Description><Url type=\"text/html\" method=\"get\" template=\"https://secure.apha.org/imis/APHA/My_Account/APHA/Contacts/ContactLayouts/AccountPage.aspx?hkey=30e7b7ec-966d-4f1d-a7b4-df2956d30a20iMIS/ContentManagement/Search.aspx?SearchTerms={searchTerms}\"/><Image>https://secure.apha.org/imis/APHA/My_Account/APHA/Contacts/ContactLayouts/AccountPage.aspx?hkey=30e7b7ec-966d-4f1d-a7b4-df2956d30a20favicon.ico</Image><InputEncoding>UTF-8</InputEncoding><SearchForm>https://secure.apha.org/imis/APHA/My_Account/APHA/Contacts/ContactLayouts/AccountPage.aspx?hkey=30e7b7ec-966d-4f1d-a7b4-df2956d30a20</SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8c6ce1f746219e5c1356d84871a6bdf0", 
+    "source_url": "https://secure.apha.org/imis/OpenSearch.aspx"
+}

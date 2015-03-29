@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/416\"> <title>Library Studies</title> <link>http://hdl.handle.net/2160/416</link> <description>Library Studies by IS Library staff</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/548\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/547\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/546\"/> </rdf:Seq> </items> <dc:date>2015-03-20T04:11:01Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/548\"> <title>With a little HELP from my friends: developments in Welsh academic library collaboration</title> <link>http://hdl.handle.net/2160/548</link> <description>With a little HELP from my friends: developments in Welsh academic library collaboration Atkinson, Jeremy; Kensler, Elizabeth </description> <dc:date>2004-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/547\"> <title>WHELF: wherefore, whereto?</title> <link>http://hdl.handle.net/2160/547</link> <description>WHELF: wherefore, whereto? Kensler, Elizabeth; Green, Andrew </description> <dc:date>2005-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/546\"> <title>Help is at hand: Reviewing and developing Welsh Academic Library Collaboration</title> <link>http://hdl.handle.net/2160/546</link> <description>Help is at hand: Reviewing and developing Welsh Academic Library Collaboration Kensler, Elizabeth; Atkinson, Jeremy This paper describes the work undertaken for the HELP (Higher Education Libraries in Partnership) project by WHELF (Wales Higher Education Libraries Forum). The project received funding from HEFCW (Higher Education Funding Council for Wales) and was concerned with reviewing and developing Welsh academic library collaboration. The paper describes the various elements of the project \\ufffd\\ufffd\\ufffd Collaboration Review, E-Learning Feasibility Study, Journals Case Study, and the development of an Action Plan for future collaborative activity. </description> <dc:date>2004-11-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "192ebdb34300c5cd0fa941dd38063fea", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/416"
+}

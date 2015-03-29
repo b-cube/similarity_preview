@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\"   xmlns:dc=\"http://purl.org/dc/terms/\">    <rdf:Description rdf:about=\"http://vents-data.interridge.org/ventfield/aar-kr2\">     <rdf:type rdf:resource=\"http://rdfs.org/sioc/ns#Item\"/>     <rdf:type rdf:resource=\"http://xmlns.com/foaf/0.1/Document\"/>     <rdf:type rdf:resource=\"http://yago-knowledge.org/resource/HydrothermalVents\"/>     <rdf:type rdf:resource=\"http://www.opengis.net/rdf#Feature\"/>     <geo:lat rdf:datatype=\"http://www.w3.org/2001/XMLSchema#decimal\">-60.0000</geo:lat>     <geo:long rdf:datatype=\"http://www.w3.org/2001/XMLSchema#decimal\">152.5000</geo:long>     <dc:title>AAR KR2</dc:title>     <dc:date rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2012-08-08T09:15:04-04:00</dc:date>     <dc:created rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2012-08-08T09:15:04-04:00</dc:created>     <dc:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2013-08-17T18:53:39-04:00</dc:modified>   </rdf:Description>  </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b8cd860fcdea02b54cc69ba5ef492875", 
+    "source_url": "http://vents-data.interridge.org/node/634.rdf"
+}

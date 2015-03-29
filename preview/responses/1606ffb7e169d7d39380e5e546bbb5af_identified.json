@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://udspace.udel.edu/handle/19716/5673\"> <title>Blue Hen Yearbooks</title> <link>http://udspace.udel.edu/handle/19716/5673</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://udspace.udel.edu/handle/19716/9924\"/> <rdf:li rdf:resource=\"http://udspace.udel.edu/handle/19716/9923\"/> <rdf:li rdf:resource=\"http://udspace.udel.edu/handle/19716/9920\"/> <rdf:li rdf:resource=\"http://udspace.udel.edu/handle/19716/9919\"/> </rdf:Seq> </items> <dc:date>2014-12-04T20:22:35Z</dc:date> </channel> <item rdf:about=\"http://udspace.udel.edu/handle/19716/9924\"> <title>Blue Hen Yearbook 1975</title> <link>http://udspace.udel.edu/handle/19716/9924</link> <description>Blue Hen Yearbook 1975 University of Delaware Student produced yearbook for the University of Delaware. Student address information has been redacted from this volume. </description> <dc:date>1975-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://udspace.udel.edu/handle/19716/9923\"> <title>Blue Hen Yearbook 1899</title> <link>http://udspace.udel.edu/handle/19716/9923</link> <description>Blue Hen Yearbook 1899 Delaware College Student produced yearbook for Delaware College. </description> <dc:date>1898-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://udspace.udel.edu/handle/19716/9920\"> <title>Blue Hen Yearbook 1999</title> <link>http://udspace.udel.edu/handle/19716/9920</link> <description>Blue Hen Yearbook 1999 University of Delaware Student produced yearbook for the University of Delaware. </description> <dc:date>1999-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://udspace.udel.edu/handle/19716/9919\"> <title>Blue Hen Yearbook 1904</title> <link>http://udspace.udel.edu/handle/19716/9919</link> <description>Blue Hen Yearbook 1904 Delaware College Student produced yearbook for Delaware College. </description> <dc:date>1903-01-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1606ffb7e169d7d39380e5e546bbb5af", 
+    "source_url": "http://udspace.udel.edu/feed/rss_1.0/19716/5673"
+}

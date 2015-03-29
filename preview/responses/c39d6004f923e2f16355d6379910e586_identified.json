@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for &#1582;&#1608;&#1575;&#1589; &#1575;&#1604;&#1594;&#1575;&#1586; -->  <jnlp spec=\"1.0+\" codebase=\"http://phet.colorado.edu/sims/ideal-gas\" href=\"gas-properties_ar_SA.jnlp\">      <information>          <title>&#1582;&#1608;&#1575;&#1589; &#1575;&#1604;&#1594;&#1575;&#1586;</title>          <vendor>University of Colorado, Department of Physics</vendor>          <description>The &#1582;&#1608;&#1575;&#1589; &#1575;&#1604;&#1594;&#1575;&#1586; Simulation</description>          <offline-allowed/>      </information>      <resources>          <j2se version=\"1.4+\"/>          <property name=\"javaws.phet.locale\" value=\"ar\" /> <property name=\"javaws.user.language\" value=\"ar\" /><property name=\"javaws.user.country\" value=\"SA\" />          <jar href=\"ideal-gas_all.jar\"/>      </resources>            <application-desc main-class=\"edu.colorado.phet.idealgas.GasPropertiesApplication\">                </application-desc>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c39d6004f923e2f16355d6379910e586", 
+    "source_url": "http://phet.colorado.edu/sims/ideal-gas/gas-properties_ar_SA.jnlp"
+}

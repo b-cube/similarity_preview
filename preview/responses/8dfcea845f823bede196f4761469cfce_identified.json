@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <oembed>     <version>1.0</version>     <type>rich</type>     <author_name>ucfaac0</author_name>     <author_url>http://www.geog.ucl.ac.uk/author/ucfaac0</author_url>     <provider_name>UCL Department of Geography</provider_name>     <provider_url>http://www.geog.ucl.ac.uk</provider_url>    </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8dfcea845f823bede196f4761469cfce", 
+    "source_url": "http://www.geog.ucl.ac.uk/@@oembed?url=http%3A%2F%2Fwww.geog.ucl.ac.uk%2Fadmissions%2Fmasters%2Fmsc-aquatic-science%2Fmsc-aquatic-science&format=xml"
+}

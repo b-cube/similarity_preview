@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>University of Texas Digital Repository</title> <link href=\"http://repositories.lib.utexas.edu:80\" rel=\"alternate\"/> <subtitle>The University of Texas Digital Repository system  captures, stores, indexes, preserves, and distributes  digital research material.</subtitle> <id xmlns=\"http://apache.org/cocoon/i18n/2.1\">http://repositories.lib.utexas.edu:80</id> <updated>2015-03-06T03:57:18Z</updated> <dc:date>2015-03-06T03:57:18Z</dc:date> <entry> <title>Municipal Officials in Texas</title> <link href=\"http://hdl.handle.net/2152/28750\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2152/28750</id> <updated>2015-03-05T21:21:57Z</updated> <published>2015-03-05T00:00:00Z</published> <summary type=\"text\">Municipal Officials in Texas </summary> <dc:date>2015-03-05T00:00:00Z</dc:date> </entry> <entry> <title>Studies in English</title> <link href=\"http://hdl.handle.net/2152/28749\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2152/28749</id> <updated>2015-03-05T21:13:10Z</updated> <published>2015-03-05T00:00:00Z</published> <summary type=\"text\">Studies in English </summary> <dc:date>2015-03-05T00:00:00Z</dc:date> </entry> <entry> <title>A Study of the Financing of Public Junior Colleges in Texas</title> <link href=\"http://hdl.handle.net/2152/28748\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2152/28748</id> <updated>2015-03-05T21:08:12Z</updated> <published>2015-03-05T00:00:00Z</published> <summary type=\"text\">A Study of the Financing of Public Junior Colleges in Texas </summary> <dc:date>2015-03-05T00:00:00Z</dc:date> </entry> <entry> <title>Words for the Spelling and Plain Writing Contest of the Interscholastic League Bureau</title> <link href=\"http://hdl.handle.net/2152/28747\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2152/28747</id> <updated>2015-03-05T21:00:31Z</updated> <published>2015-03-05T00:00:00Z</published> <summary type=\"text\">Words for the Spelling and Plain Writing Contest of the Interscholastic League Bureau </summary> <dc:date>2015-03-05T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a2787514c9550e8a85387606325fbf88", 
+    "source_url": "http://repositories.lib.utexas.edu/feed/atom_1.0/site"
+}

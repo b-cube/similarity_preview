@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0082\">   <front>     <title>XMPP Date and Time Profiles</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <author initials=\"T.\" surname=\"Markmann\" fullname=\"Tobias Markmann\">       <organization/>       <address>         <email>tmarkmann@googlemail.com</email>       </address>     </author>     <date day=\"26\" month=\"September\" year=\"2013\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0082\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0082.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "323dbce6547ddfab40013bba2702c662", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0082.xml"
+}

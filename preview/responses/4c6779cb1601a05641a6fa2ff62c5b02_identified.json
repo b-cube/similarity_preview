@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <psh>   <responseDate>2015-03-19T22:59:46Z</responseDate>   <request verb=\"Count\">http://opendoar.org/demos/psh.php</request>   <Count>     <header>       <setType />       <setSpec />       <setName />       <datestamp />       <numItems>2825</numItems>     </header>   </Count> </psh>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4c6779cb1601a05641a6fa2ff62c5b02", 
+    "source_url": "http://opendoar.org/demos/psh.php?verb=Count"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.zseby-ipfix-applicability'> <front> <title>IPFIX Applicability</title>  <author initials='T' surname='Zseby' fullname='Tanja Zseby'>     <organization /> </author>  <date month='June' day='21' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-zseby-ipfix-applicability-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-zseby-ipfix-applicability-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4f24a09693340cf3910d4320e0499128", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.zseby-ipfix-applicability.xml"
+}

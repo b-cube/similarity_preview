@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_approach/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_berthing/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_coastal/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_coverage/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_general/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_gp_approach/GPServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_gp_berthing/GPServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_gp_general/GPServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_gp_harbour/GPServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_gp_overview/GPServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_harbour/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/enc_overview/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/encdirect/gp_enc_coastal2/GPServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1694a77bff3b3ee7045f579a747a7464", 
+    "source_url": "http://encdirect.noaa.gov/arcgis/rest/services/encdirect?f=sitemap"
+}

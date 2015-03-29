@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">     <x gwascentral='http://www.gwascentralorg'/>     <ShortName>GWAS Central Studies Search</ShortName>     <Description>Search for G2P studies through GWAS Central.</Description>     <Contact>help@gwascentral.org</Contact>     <Url type=\"application/json\"         template=\"http://www.gwascentral.org/studies?q={searchTerms}&amp;page={startPage?}&amp;page_size={count?}&amp;t={gwascentral:threshold?}&amp;format=json\"/>          <Url type=\"text/yaml\"         template=\"http://www.gwascentral.org/studies?q={searchTerms}&amp;page={startPage?}&amp;page_size={count?}&amp;t={gwascentral:threshold?}&amp;format=yaml\"/>      <Url type=\"application/atom+xml\"         template=\"http://www.gwascentral.org/studies?q={searchTerms}&amp;page={startPage?}&amp;page_size={count?}&amp;t={gwascentral:threshold?}&amp;format=atom\"/>      <Url type=\"application/rss+xml\"         template=\"http://www.gwascentral.org/studies?q={searchTerms}&amp;page={startPage?}&amp;page_size={count?}&amp;t={gwascentral:threshold?}&amp;format=rss\"/>     <Url type=\"text/plain\"         template=\"http://www.gwascentral.org/studies?q={searchTerms}&amp;page={startPage?}&amp;page_size={count?}&amp;t={gwascentral:threshold?}&amp;format=text\"/>     <Url type=\"text/html\"          template=\"http://www.gwascentral.org/studies?q={searchTerms}&amp;page={startPage?}&amp;page_size={count?}&amp;t={gwascentral:threshold?}\"/>     <LongName>GWAS Central Studies Web Search</LongName>     <Query role=\"example\" searchTerms=\"cancer\" />     <Developer>GWAS Central Development Team</Developer>     <Attribution>         GWAS Central Version 6.0     </Attribution>     <SyndicationRight>open</SyndicationRight>     <AdultContent>false</AdultContent>     <Language>en-uk</Language>     <OutputEncoding>UTF-8</OutputEncoding>     <InputEncoding>UTF-8</InputEncoding> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en-uk", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8a790f1efa68570ac9faa5788987145a", 
+    "source_url": "http://www.gwascentral.org/os/studies.xml"
+}

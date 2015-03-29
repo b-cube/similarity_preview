@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <oembed>     <version>1.0</version>     <type>link</type>     <author_name></author_name>     <author_url>http://www.iowacenterforthebook.org/author/rmartin</author_url>     <provider_name>Iowa Center for the Book</provider_name>     <provider_url>http://www.iowacenterforthebook.org</provider_url>    </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "98fb7591a364c3e0ade470fa3fe06dc0", 
+    "source_url": "http://www.iowacenterforthebook.org/@@oembed?url=http%3A%2F%2Fwww.iowacenterforthebook.org%2Farchive%2F2015%2Fdecember&format=xml"
+}

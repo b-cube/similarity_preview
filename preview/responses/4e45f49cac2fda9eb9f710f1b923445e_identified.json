@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.khan-gaur-secure-mpeg-syntax'> <front> <title>Cryptographic Message Syntax for MP3/MPEG I, II, and III Secure MPEG  (SMPEG)</title>  <author initials='J' surname='Khan' fullname='Javed Khan'>     <organization /> </author>  <author initials='M' surname='Gaur' fullname='Manish Gaur'>     <organization /> </author>  <date month='August' day='17' year='2001' /> </front>  <seriesInfo name='Internet-Draft' value='draft-khan-gaur-secure-mpeg-syntax-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-khan-gaur-secure-mpeg-syntax-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4e45f49cac2fda9eb9f710f1b923445e", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.khan-gaur-secure-mpeg-syntax.xml"
+}

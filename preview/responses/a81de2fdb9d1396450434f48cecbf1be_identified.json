@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0008'>  <front> <title>ARPA Network Functional Specifications</title> <author initials='G.' surname='Deloche' fullname='G. Deloche'> <organization /></author> <date year='1969' month='May' /></front>  <seriesInfo name='RFC' value='8' /> <format type='PDF' octets='750612' target='http://www.rfc-editor.org/rfc/rfc8.pdf' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a81de2fdb9d1396450434f48cecbf1be", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-rfcs/reference.RFC.0008.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/ACS_Demographics_by_Tract_2006_2010/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/EPA_Locations/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/Factle_Neighborhoods/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/FRS_PowerPlants/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/FRS_Subfacilities/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/FRS_Wastewater/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/ORNL_Education/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/Place_Holder/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/TRI_NationalAnalysis_2013/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OEI/USEPA_AIR/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ade3d753227262e6467c9e6f406f50be", 
+    "source_url": "http://gispub.epa.gov/arcgis/rest/services/OEI?f=sitemap"
+}

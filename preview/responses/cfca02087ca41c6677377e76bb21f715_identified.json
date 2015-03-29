@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns:atom=\"http://www.w3.org/2005/Atom\"   xmlns=\"http://purl.org/rss/1.0/\" >  <channel rdf:about=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=BRAILLE-UK&amp;v=1.0\">  <dc:identifier>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=BRAILLE-UK&amp;v=1.0</dc:identifier>  <title>BRAILLE-UK List</title>  <link>https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=BRAILLE-UK</link>  <description>BRAILLE-UK List Archives</description>  <dc:date>2014-06-11T13:57:05Z</dc:date>  <image rdf:resource=\"http://www.lsoft.com/images/listserv_small.gif\"/>    <items>   <rdf:Seq>     <rdf:li resource=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=BRAILLE-UK;692f8c53.1406\"/>     </rdf:Seq>  </items>   </channel>  <image rdf:about=\"http://www.lsoft.com/images/listserv_small.gif\">     <title>Powered by L-Soft's LISTSERV mailing list manager</title>     <link>http://www.lsoft.com/products/listserv-powered.asp</link>     <url>http://www.lsoft.com/images/listserv_small.gif</url> </image>   <item rdf:about=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=BRAILLE-UK;692f8c53.1406\">   <title>Important information about BRAILLE-UK mailing list </title>   <link>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=BRAILLE-UK;692f8c53.1406</link>   <description> This is a message from JiscMail Helpline to all subscribers of the BRAILLE-UK mailing list.&lt;br&gt;&lt;br&gt;The list has not been used for over 3 years. We have contacted the people who run the list (list owners) to decide on the future of the list, but have not received a response.&lt;br&gt;&lt;br&gt;We plan to close and RETAIN the list **w/c 7th July 2014** [...]   </description>   <dc:date>2014-06-11T15:56:40+01:00</dc:date>   <dc:creator>JiscMail Helpline</dc:creator>   <dc:identifier>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=BRAILLE-UK;692f8c53.1406</dc:identifier> </item>   </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cfca02087ca41c6677377e76bb21f715", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=BRAILLE-UK&v=1.0"
+}

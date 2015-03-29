@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?> <META xmlns=\"http://www.w3.org/2002/01/P3Pv1\">   <POLICY-REFERENCES>     <POLICY-REF about=\"/science/w3c/p3p-policy.xml#science-topics\">        <INCLUDE>/science/*</INCLUDE>     </POLICY-REF>   </POLICY-REFERENCES> </META> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d88853d0cff988074a7d1d32c40ddcfc", 
+    "source_url": "http://www.usgs.gov/science/w3c/p3p.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20073015</identifier><identifier type=\"pwpk\">79747</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2007-3015</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Divisions of Geologic Time - Major Chronostratigraphic and Geochronologic Units</title></titleInfo><originInfo><dateOther>Tue, 3 Apr 2007 00:00 -0500</dateOther><dateIssued>2007</dateIssued><publisher>Geological Survey (U.S.)</publisher></originInfo><name><namePart>U.S. Geological Survey Geologic Names Committee</namePart><role>Author</role></name><abstract>Introduction&#xd; &#xd; Effective communication in the geosciences requires consistent uses of stratigraphic nomenclature, especially divisions of geologic time. A geologic time scale is composed of standard stratigraphic divisions based on rock sequences and calibrated in years (Harland and others, 1982). Over the years, the development of new dating methods and refinement of previous ones have stimulated revisions to geologic time scales. Since the mid-1990s, geologists from the U.S. Geological Survey (USGS), State geological surveys, academia, and other organizations have sought a consistent time scale to be used in communicating ages of geologic units in the United States. Many international debates have occurred over names and boundaries of units, and various time scales have been used by the geoscience community.</abstract><physicalDescription><form>2 p.</form><form>Geological Survey (U.S.)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2007_3015.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2007/3015/</url></location><note type=\"citation/reference\">Divisions of Geologic Time - Major Chronostratigraphic and Geochronologic Units; 2007; FS; 2007-3015; Fact Sheet; U.S. Geological Survey Geologic Names Committee</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "69f0185453275109749ec49c94f80129", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20073015"
+}

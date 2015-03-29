@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?> <response reqID=\"[http-bio-9400-exec-1469:1497:bes_request]\" xmlns=\"http://xml.opendap.org/ns/bes/1.0#\">     <getHtmlForm>         <BESError>             <Type>1</Type>             <Message>libdap exception building response: error_code = 1001: Parse error while processing a CoreMetadata attribute.</Message>             <Administrator>navid.golpayegani@nasa.gov</Administrator>         </BESError>     </getHtmlForm> </response> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0dd67cface438d5f2d823de553a068ee", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/orders/500915124/MOD08_D3.A2011001.006.2015049201441.psgscs_000500915124.AOD_Histo_Intervals.hdf.html"
+}

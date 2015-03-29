@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.PR-soap12-part0-20030507\"> <front> <title>SOAP Version 1.2 Part 0: Primer</title>  <author initials=\"N\" surname=\"Mitra\" fullname=\"Nilo Mitra\">     <organization /> </author>  <date month=\"May\" day=\"7\" year=\"2003\" /> </front>  <seriesInfo name=\"W3C PR\" value=\"PR-soap12-part0-20030507\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/2003/PR-soap12-part0-20030507\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "902870461bc75759a5f438d7abb927c8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.PR-soap12-part0-20030507.xml"
+}

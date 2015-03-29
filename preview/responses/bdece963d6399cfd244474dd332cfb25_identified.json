@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.ietf-avt-rtcp-bw'> <front> <title>SDP Bandwidth Modifiers for RTCP Bandwidth</title>  <author initials='S' surname='Casner' fullname='Stephen Casner'>     <organization /> </author>  <date month='November' day='29' year='2001' /> </front>  <seriesInfo name='Internet-Draft' value='draft-ietf-avt-rtcp-bw-05' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-ietf-avt-rtcp-bw-05.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bdece963d6399cfd244474dd332cfb25", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-avt-rtcp-bw.xml"
+}

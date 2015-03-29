@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0'?>  <reference anchor=\"W3C.REC-xmlschema-2\"  target=\"http://www.w3.org/TR/xmlschema-2/\">   <front>     <title>XML Schema Part 2: Datatypes</title>     <author initials=\"P.\" surname=\"Biron\" fullname=\"Paul V. Biron\">       <organization>Kaiser Permanente</organization>     </author>     <author initials=\"A.\" surname=\"Malhotra\" fullname=\"Ashok Malhotra\">       <organization>Microsoft</organization>     </author>     <date year=\"2001\" month=\"May\" day=\"2\"/>   </front>   <seriesInfo name=\"W3C\" value=\"REC-xmlschema-2\"/> </reference>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7190fc4e7d91a86f05b2b3f7df02e2f1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.W3C.REC-xmlschema-2.xml"
+}

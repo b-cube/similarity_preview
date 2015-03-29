@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Jimenez, Javi</a1>   <a2>Baig, Roger</a2>   <a2>Escrich, Pau</a2>   <a2>Khan, Amin M</a2>   <a2>Freitag, Felix</a2>   <a2>Navarro, Leandro</a2>   <a2>Pietrosemoli, Ermanno</a2>   <a2>Zennaro, Marco</a2>   <a2>Payberah, Amir H</a2>   <a2>Vlassov, Vladimir</a2>   <t1>Supporting Cloud Deployment in the Guifi.net Community Network</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Community networking is an emerging model of a shared communication infrastructure in which communities of citizens build and own open networks. Community networks offer successfully IP-based networking to the user. Cloud computing infrastructures however, while common in today&amp;#39;s Internet, hardy exist in community networks. We explain our approach to bring clouds into the Guifi.net community network. For this we have started integrating part of our cloud prototype into the Guifi.net community network management tools. A proof-of-concept cloud infrastructure is currently under deployment in the Guifi.net community network. Our long term vision is that the users of community networks will not need to consume cloud applications from the Internet, but find them within the community network.&lt;/p&gt;</ab>   <la/>   <k1>community networks;                 cloud computing;                 </k1>   <pb/>   <pp/>   <yr>2013-10-30</yr>   <ed/>   <ul>http://zenodo.org/record/7614/files/Jimenez2013_GIIS.pdf;  http://zenodo.org/record/7614/files/Jimenez2013_GIIS.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a4d1c89e98417dc9d43d6fd5ecd87615", 
+    "source_url": "https://zenodo.org/record/7614/export/xw"
+}

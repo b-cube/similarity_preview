@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?>  <?quicktime type = \"application/x-quicktime-media-link\"?>  <embed src = \"rtsp://qtss.indiana.edu/ip/phys/Simple_Harmonic_Motion.mov\" />  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "acc17568ee57e0a3385b6374cc335997", 
+    "source_url": "http://www.indiana.edu/%7Ephys/meta/simple_harmonic_motion.qtl"
+}

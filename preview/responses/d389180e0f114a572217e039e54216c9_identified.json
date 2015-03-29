@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <event_data eventid=\"10001lja\" source=\"us\" network=\"us\" region=\"cus\" process_timestamp=\"2015-03-11 15:46:15\" ciim_version=\"5\" code_version=\"1.3\" event_version=\"0\">   <event magnitude=\"3.3\" latitude=\"36.1157\" longitude=\"-97.3075\" depth=\"4.852\" event_timestamp=\"2015-03-11 14:44:42\" localtime=\"Mar 11 2015 09:44:42 AM local\" locationtext=\"OKLAHOMA\" />   <cdi_summary nresponses=\"1\" max_intensity=\"2.2\" citydb=\"city_2009\" />   <products>     <category name=\"Maps\">       <product name=\"City map\">         <description><![CDATA[Map of responses by city or ZIP code]]></description>         <format type=\"image/jpeg\" file=\"us10001lja_ciim.jpg\" />         <format type=\"application/pdf\" file=\"us10001lja_ciim.pdf\" />         <format type=\"application/postscript\" file=\"us10001lja_ciim.ps\" />         <format type=\"text/html\" file=\"us10001lja_ciim_imap.html\" />       </product>     </category>     <category name=\"Plots\">       <product name=\"Intensity vs. Distance\">         <description><![CDATA[Plot of Attenuation (fall-off) with distance for each intensity versus its distance from the epicenter]]></description>         <format type=\"image/jpeg\" file=\"us10001lja_plot_atten.jpg\" />         <format type=\"application/postscript\" file=\"us10001lja_plot_atten.ps\" />       </product>       <product name=\"Responses vs. Time\">         <description><![CDATA[Plot of total number of responses since the event]]></description>         <format type=\"image/jpeg\" file=\"us10001lja_plot_numresp.jpg\" />         <format type=\"application/postscript\" file=\"us10001lja_plot_numresp.ps\" />       </product>     </category>     <category name=\"Data\">       <product name=\"Product List\">         <description><![CDATA[Available DYFI maps and products for this event]]></description>         <format type=\"text/xml\" file=\"event_data.xml\" />       </product>       <product name=\"Intensity Summary\">         <description><![CDATA[Intensities aggregated by city or ZIP code]]></description>         <format type=\"text/plain\" file=\"cdi_zip.txt\" />         <format type=\"text/xml\" file=\"cdi_zip.xml\" />       </product>     </category>   </products> </event_data> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d389180e0f114a572217e039e54216c9", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/10001lja/us/event_data.xml"
+}

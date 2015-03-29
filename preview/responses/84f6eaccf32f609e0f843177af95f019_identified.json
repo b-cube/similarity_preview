@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>Debian website (eo)</ShortName>  <Image height=\"16\" width=\"16\" type=\"image/x-icon\">https://www.debian.org/favicon.ico</Image>  <Description>Search the Debian website.</Description>  <Url type=\"text/html\" template=\"https://search.debian.org/cgi-bin/omega?P={searchTerms}&amp;HITSPERPAGE={count?}&amp;DB=eo\" /> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "84f6eaccf32f609e0f843177af95f019", 
+    "source_url": "http://www.debian.org/search.eo.xml"
+}

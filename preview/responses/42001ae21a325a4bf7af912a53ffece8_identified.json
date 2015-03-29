@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>2013j </Local-number>  <Title>Fagaalu Watershed Plan implementation supplement </Title>  <Institution>Village of Fagaalu, American Samoa Environmental Protection Agency, and the NOAA Coral Reef Conservation Program </Institution>  <Publication-Date><caldate>2013 </caldate></Publication-Date>  <Extent>85 </Extent>  <Type-Period-Note>Supplemental Report </Type-Period-Note>  <Notes>FY2011 CRCP Project ID 20767; Project Title: AS229 Village-Based Watershed Management Using PLA Approach; Principal Investigator: Fatima Sauafea-Leau. FY2011 CRCP Project ID 636, Product 334; Project Title: AS235 Capacity Building, Planning and Implementation Assistance for Land-Based Sources of Pollution; Principal Investigator: Kathy Chaston. </Notes>  <URL-Cover>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/20767_Leau/130322_Fagaalu_Watershed_Implementation_Supplement_final_Cover_Page_01.jpg </URL-Cover>  <Abstract>\"The purpose of this supplement is to provide additional information on watershed restoration projects and activities to support implementation of the 2012 Fagaalu Village Watershed Management and Conservation Plan. Table 1 summarizes new and/or amended objectives and strategic actions to include in the existing action plan outlined in the 2012 watershed plan. This additional information is intended to supplement the existing plan and assist the Village Council and others to more easily integrate additional recommendations into the existing watershed planning framework. Unless specifically noted, the schedule and lead for implementation of each new strategic action are assumed to be consistent with what is specified in the existing watershed plan.\" </Abstract>  <Date-Time-Last-Modified>20140131000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/20767_Leau/130322_Fagaalu_Watershed_Implementation_Supplement_final.pdf </URL>  <project>  <ID>20767 </ID>  <title>AS229 Village-Based Watershed Management Using PLA Approach </title>  <PI>Fatima Sauafea-Leau </PI>  </project>  <project>  <ID>636 </ID>  <title>AS235 Capacity Building, Planning and Implementation Assistance for Land-Based Sources of Pollution </title>  <PI>Kathy Chaston </PI>  </project>  <Region>AmSam </Region>  <Bounding>  <Eastbc>-167.551612 </Eastbc>  <Westbc>-171.541907 </Westbc>  <Southbc>-15.25183 </Southbc>  <Northbc>-10.207203 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>Watershed </Local-subject-index>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "42001ae21a325a4bf7af912a53ffece8", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BA52C3B36-C83F-484E-97E2-69732015A4B3%7D"
+}

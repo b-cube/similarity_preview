@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0066'>  <front> <title>NIC - third level ideas and other noise</title> <author initials='S.D.' surname='Crocker' fullname='S.D. Crocker'> <organization /></author> <date year='1970' month='August' /></front>  <seriesInfo name='RFC' value='66' /> <format type='TXT' octets='4575' target='http://www.rfc-editor.org/rfc/rfc66.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "52fec33e738187646ad96343cec2ead4", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0066.xml"
+}

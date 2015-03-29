@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>User Group meeting 24th November 2006</title> <link href=\"http://hdl.handle.net/2160/280\" rel=\"alternate\"/> <subtitle>Items relating to the User Group meeting 24th November 2006</subtitle> <id>http://hdl.handle.net/2160/280</id> <updated>2015-03-20T01:48:24Z</updated> <dc:date>2015-03-20T01:48:24Z</dc:date> <entry> <title>Videos of the DSpace UK&amp;I User Group meeting 24th November 2006</title> <link href=\"http://hdl.handle.net/2160/290\" rel=\"alternate\"/> <author> <name>Lewis, Stuart</name> </author> <author> <name>Rutherford, James</name> </author> <author> <name>Jones, Richard</name> </author> <author> <name>Brennan, Niamh</name> </author> <author> <name>Merifield, Mark</name> </author> <id>http://hdl.handle.net/2160/290</id> <updated>2008-05-08T11:08:18Z</updated> <published>2007-01-04T16:57:12Z</published> <summary type=\"text\">Videos of the DSpace UK&amp;I User Group meeting 24th November 2006 Lewis, Stuart; Rutherford, James; Jones, Richard; Brennan, Niamh; Merifield, Mark Presentations from the DSpace UK &amp; Ireland User Group meeting held by videoconference on the 24th November 2006. Presentations available at http://hdl.handle.net/2160/281 </summary> <dc:date>2007-01-04T16:57:12Z</dc:date> </entry> <entry> <title>DSpace UK&amp;I User Group meeting 24th November 2006</title> <link href=\"http://hdl.handle.net/2160/281\" rel=\"alternate\"/> <author> <name>Lewis, Stuart</name> </author> <author> <name>Rutherford, James</name> </author> <author> <name>Jones, Richard</name> </author> <author> <name>Brennan, Niamh</name> </author> <author> <name>Merifield, Mark</name> </author> <author> <name>Lyons, Donal</name> </author> <id>http://hdl.handle.net/2160/281</id> <updated>2014-10-22T11:36:17Z</updated> <published>2006-11-24T10:27:33Z</published> <summary type=\"text\">DSpace UK&amp;I User Group meeting 24th November 2006 Lewis, Stuart; Rutherford, James; Jones, Richard; Brennan, Niamh; Merifield, Mark; Lyons, Donal Presentations from the DSpace UK &amp; Ireland User Group meeting held by videoconference on the 24th November 2006. Videos from the event are available at http://cadair.aber.ac.uk/dspace/handle/2160/290 </summary> <dc:date>2006-11-24T10:27:33Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f74de709b11edc3e417e07919a8c5fbd", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/280"
+}

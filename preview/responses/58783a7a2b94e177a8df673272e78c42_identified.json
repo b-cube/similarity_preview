@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Growth and mortality of juvenile brown shrimp Farfantepenaeus aztecus in Galveston  Bay, Texas</dc:title>    <dcterms:alternative>Growth and mortality of juvenile brown shrimp Farfantepenaeus aztecus in Galveston  Bay, Texas</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>brown shrimp, farfantepenaeus aztecus, mark-recapture, visible implant elastomer, benthic infauna, catch curve analysis</dc:subject>    <dcterms:abstract>Although estuarine nurseries along the norther GoM are dominated by Spartina vegetation, production from these estuaries can vary greatly.  Studies in Texas and Louisiana marshes have demonstrated that production is related to temperature, salinity, and access to emergent marsh vegetation.  We are currently developing a systems model that will simulate recruitment, growth, and emigration of brown shrimp. This data will be used to help validate the model</dcterms:abstract>    <dc:publisher>Southeast Fisheries Science Center</dc:publisher>    <dc:creator>Leo, Jennifer </dc:creator>    <dc:creator>Galveston Laboratory</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/16990</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/16983</dcterms:isPartOf>    <dcterms:spatial xsi:type=\"dcterms:Box\">                         northlimit=29.493999;                         eastlimit=-94.845772;                         southlimit=29.181841;                         westlimit=-95.064125;                                              name=Four shallow marsh ponds. Three located in Galveston Island State Park and one on Moses Lake on The Nature Conservancy Prairie Preserve.;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:Period\">                             start=2011-04-06;                             end=2011-08-15;                         </dcterms:temporal>    <dcterms:accessRights>no access constraints</dcterms:accessRights>    <dcterms:created xsi:type=\"dcterms:W3CDTF\">2012-11-14</dcterms:created>    <dc:format>disc</dc:format> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "58783a7a2b94e177a8df673272e78c42", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/16990/dublin-core"
+}

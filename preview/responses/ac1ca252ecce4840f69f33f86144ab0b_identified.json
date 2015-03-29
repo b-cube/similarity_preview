@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/documents/profile-review-criteria/\">    <dc:title>Criteria for the Review of Application Profiles</dc:title>    <dc:description>This document articulates the criteria by which the DCMI Usage Board reviews an application profile.</dc:description>    <dc:date>2009-01-05</dc:date>    <dc:format>text/html</dc:format>    <dc:language>en</dc:language>    <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>    <dc:creator>DCMI Usage Board</dc:creator> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ac1ca252ecce4840f69f33f86144ab0b", 
+    "source_url": "http://www.dublincore.org/documents/profile-review-criteria/index.shtml.rdf"
+}

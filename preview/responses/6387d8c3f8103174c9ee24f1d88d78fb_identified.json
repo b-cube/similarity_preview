@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><?xml-stylesheet type=\"text/xsl\" href=\"http://mrdata.usgs.gov/laterite/laterite.xsl\"?><record id=\"5\"><agegrp>b</agegrp><coregrd>0</coregrd><cotogrd>0</cotogrd><comments>Poorly studied occurrence.</comments><country>Australia</country><cntrycd>AUSA</cntrycd><deparea>0.16</deparea><deplength>2</deplength><depshape>linear band-shaped blanket along strike of ultramafic layers</depshape><depwidth>0.1</depwidth><discdate>1953</discdate><latitude>-26.0069444444444</latitude><latdeg>-26</latdeg><latsec>-25</latsec><linear>yes</linear><longitude>129.183055555556</longitude><londeg>129</londeg><lonmin>10</lonmin><lonsec>59</lonsec><lowrelief>yes</lowrelief><depname>Claude Hills</depname><nitogrd>1.5</nitogrd><niregrd>1.5</niregrd><other_rx>gneiss, norite, olivine gabbro (Proterozoic)</other_rx><overburden>thick</overburden><owneroper>Metals X Ltd.</owneroper><nirecovpct>0</nirecovpct><resrc_std>historic</resrc_std><resrc_ton>4.57</resrc_ton><srctongrd>PIRSA Minerals (2010)</srctongrd><srcbedrock>dunite, pyroxenite, serpentinite (layered complex, 1080 Ma)</srcbedrock><stprov>South Australia</stprov><status>exploration</status><subtype>(III) oxide</subtype><tectset>Paleo-Mesoproterozoic Musgrave fold belt, mafic-ultramafic layered Giles complex</tectset><tonnage>4.57</tonnage><ageweather>Tertiary</ageweather><deptype>3</deptype><qstatus>E</qstatus><mineral role=\"nickeliferous\">limonite</mineral><mineral role=\"nickeliferous\">Ni-bearing \\ufffd\\ufffdochre\\ufffd\\ufffd</mineral><mineral role=\"nickeliferous\">saponite</mineral><mineral role=\"other\">magnesite</mineral><mineral role=\"other\">quartz</mineral><latrxprof>limonitic ochre</latrxprof><reference>Goode, A.D.T., 1975, A transgressive picrite suite from the western Musgrave block, central Australia: Journal of the Geological Society of Australia, v. 22, no. 2, p. 187\\ufffd\\ufffd194.</reference><reference onlink=\"http://metalsx.com.au/pdf/1253687787.pdf\" access_date=\"04/29/2010\">Metals X Ltd., 2009, Metals X enters into Farm-in and Joint Venture agreement with Rio Tinto subsidiary at Mt. Davies in the central Musgrave region: Press Release of 09/23/2009, 3 p.</reference><reference onlink=\"http://metalsx.com.au/operations/wingellina_nickel/\" access_date=\"04/23/2010\">Metals X Ltd., 2010, Wingellina nickel: News, 2 p.</reference><reference onlink=\"http://www.pir.sa.gov.au/minerals/geology/geological_provinces/ musgrave_province\" access_date=\"04/28/2010\">PIRSA Minerals, 2010, Musgrave geology, 10 p.</reference></record>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6387d8c3f8103174c9ee24f1d88d78fb", 
+    "source_url": "http://mrdata.usgs.gov/laterite/show-laterite.php?rec_id=5"
+}

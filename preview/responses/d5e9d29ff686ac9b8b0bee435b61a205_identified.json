@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../MF0211_L1_rpt.htm\"/>  <o:File HRef=\"image001.png\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d5e9d29ff686ac9b8b0bee435b61a205", 
+    "source_url": "http://www.pmel.noaa.gov/foci/operations/2002/Instructions/MF0211/MF0211_L1_rpt_files/filelist.xml"
+}

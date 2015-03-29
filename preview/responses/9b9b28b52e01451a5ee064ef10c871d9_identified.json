@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.12219</dc:identifier><dc:creator>Kretschmer, Martin</dc:creator><dc:creator>Deazley, Ronan</dc:creator><dc:creator>Edwards, Lilian</dc:creator><dc:creator>Erickson, Kristofer</dc:creator><dc:creator>Schafer, Burkhard</dc:creator><dc:creator>Zizzo, Daniel John</dc:creator><dc:title>The European Commission\\ufffd\\ufffd\\ufffds public consultation on the review of EU copyright rules:  a response by the CREATe Centre</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;The European Commission consulted between December 5, 2013 and March 5, 2014 on a wide-ranging review of EU copyright rules.[2] This response by the CREATe Centre attempts to make two contributions: (1) the process of policy formation matters for the evolution of the EU legal framework, and so we offer a short critique of the consultation format; (2) we summarise available evidence in seven thematic areas where CREATe has developed or is developing research (term of protection, libraries and archives, disabilities, text and data mining, user-generated content, fair remuneration for authors and performers, and respect for rights). CREATe understands evidence here as empirically grounded, but open to historical and comparative approaches.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-10-12</dc:date><dc:source>http://zenodo.org/record/12219</dc:source><dc:doi>10.5281/zenodo.12219</dc:doi><dc:identifier>http://zenodo.org/record/12219</dc:identifier><dc:identifier>oai:zenodo.org:12219</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9b9b28b52e01451a5ee064ef10c871d9", 
+    "source_url": "https://zenodo.org/record/12219/export/xd"
+}

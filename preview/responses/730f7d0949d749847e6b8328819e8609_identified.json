@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/USGS_Patuxent_WRC/Atlantic_Offshore_Seabird_Dataset_Catalog_WMS/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/USGS_Patuxent_WRC/Atlantic_Seabirds_Focal_Species_Combined_Effort_Adjusted_Counts_WMS/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/USGS_Patuxent_WRC/Atlantic_Seabirds_Naive_Species_Effort_adjusted_Counts_Seasonal_WMS/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/USGS_Patuxent_WRC/Atlantic_Seabirds_Survey_Effort_Decadal_all_seasons_WFS/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/USGS_Patuxent_WRC/Atlantic_Seabirds_Survey_Effort_Seasonal_all_years_WFS/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "730f7d0949d749847e6b8328819e8609", 
+    "source_url": "http://gis1.usgs.gov/arcgis/rest/services/USGS_Patuxent_WRC?f=geositemap"
+}

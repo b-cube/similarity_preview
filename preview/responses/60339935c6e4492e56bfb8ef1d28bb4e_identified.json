@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Wind Farm Optimization and Multi-Fidelity Wake Modelling: Presentation of TOPFARM I &amp; II, FUSED-Wake</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname/>             <given-names/>           </name>           <aff>             <institution>DTU Wind Energy</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2013</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/12386\"/>       <self-uri xlink:href=\"https://zenodo.org/record/12386/files/rethore_Wind_Farm_Optimization_and_Multi_fidelity_wake_modelling.png?subformat=icon-90\"/>       <self-uri xlink:href=\"https://zenodo.org/record/12386/files/rethore_Wind_Farm_Optimization_and_Multi_fidelity_wake_modelling.pdf\"/>     </article-meta>     <abstract>&lt;p&gt;Presentation of the TOPFARM I, II, FUSED-Wind and FUSED-Wake project at a WindInspire workshop organised at DTU Lyngby the 24 June 2013.&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;http://windinspire.jhu.edu&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;</abstract>   </front>   <article-type>user-fused-wind</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "60339935c6e4492e56bfb8ef1d28bb4e", 
+    "source_url": "https://zenodo.org/record/12386/export/xn"
+}

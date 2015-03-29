@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/4650\"> <title>Digwyddiad Cadwrfeydd a CRIS 2010/Repositories and CRIS Event 2010</title> <link>http://hdl.handle.net/2160/4650</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/4655\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/4654\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/4653\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/4652\"/> </rdf:Seq> </items> <dc:date>2015-03-20T01:38:16Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/4655\"> <title>How not to do it: lessons learnt and tips from the field</title> <link>http://hdl.handle.net/2160/4655</link> <description>How not to do it: lessons learnt and tips from the field Knowles, Jackie Selection of tips and guidance sourced from repository and CRIS (Current Research Information Systems) practitioners. </description> <dc:date>2010-05-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/4654\"> <title>An Ideal CRIS?</title> <link>http://hdl.handle.net/2160/4654</link> <description>An Ideal CRIS? Clements, Anna Overview of CRIS (Current Research Information Systems) and the CERIF standard. </description> <dc:date>2010-05-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/4653\"> <title>Institutional Repositories, just a bit of a CRIS?</title> <link>http://hdl.handle.net/2160/4653</link> <description>Institutional Repositories, just a bit of a CRIS? Kerridge, Simon Overview of CRIS (Current Research Information Systems). </description> <dc:date>2010-05-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/4652\"> <title>Why a CRIS</title> <link>http://hdl.handle.net/2160/4652</link> <description>Why a CRIS McGregor, Andy Overview of the overlaps between repositories and CRIS (Current Research Information Systems). </description> <dc:date>2010-05-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "671efea993f1a0895dc9fdc695511f74", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/4650"
+}

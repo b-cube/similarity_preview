@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Doe, Jane</author>         </authors>       </contributors>       <titles>         <title>My first upload</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.13396</doi>       <pages/>       <volume/>       <number/>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-12-29</date>         </pub-dates>       </dates>       <abstract>This is my first upload</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d8f4f7434f74eed546b36c9ba106bc15", 
+    "source_url": "https://zenodo.org/record/13396/export/xe"
+}

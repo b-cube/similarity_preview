@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><xml><records><record><source-app name=\"Biblio\" version=\"6.x\">Drupal-Biblio</source-app><ref-type>17</ref-type><contributors><authors><author><style face=\"normal\" font=\"default\" size=\"100%\">Orli\\ufffd\\ufffd, M.</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Pasari\\ufffd\\ufffd, Z.</style></author></authors></contributors><titles><title><style face=\"normal\" font=\"default\" size=\"100%\">Some pitfalls of the semi-empirical method used to project sea level</style></title><secondary-title><style face=\"normal\" font=\"default\" size=\"100%\">Journal of Climate</style></secondary-title><short-title><style face=\"normal\" font=\"default\" size=\"100%\">J. Climate</style></short-title></titles><keywords><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">climate</style></keyword><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">sea_level</style></keyword></keywords><dates><year><style  face=\"normal\" font=\"default\" size=\"100%\">2015</style></year><pub-dates><date><style  face=\"normal\" font=\"default\" size=\"100%\">02/2015</style></date></pub-dates></dates><pages><style face=\"normal\" font=\"default\" size=\"100%\">150218133632005</style></pages><abstract><style face=\"normal\" font=\"default\" size=\"100%\">Three variants of the semi-empirical method for sea-level projection are considered. They differ in assuming that the response of sea level to temperature forcing is equilibrium, inertial or a combination of the two. All variants produce a successful regression of the temperature and sea-level data, albeit with controlling parameters that differ among the cases. The related response times vary considerably, with a realistic value (ca. 50 years) obtained only if both the equilibrium and the inertial dynamics are taken into account. A comparison of sea levels projected by using the three variants shows that the time series are similar through the middle of the 21st century but they radically diverge by the end of the 23rd century. This result is interpreted with the aid of the underlying transfer functions. It suggests that one should be cautious when using the semi-empirical method to project sea level beyond the 21st century.</style></abstract></record></records></xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "36cea32c0eed009918ef771dff2c7e37", 
+    "source_url": "http://sealevel.colorado.edu/biblio/export/xml/3392"
+}

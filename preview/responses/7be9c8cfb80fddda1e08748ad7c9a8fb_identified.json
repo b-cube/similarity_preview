@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC6607'>  <front> <title>Virtual Subnet Selection Options for DHCPv4 and DHCPv6</title> <author initials='K.' surname='Kinnear' fullname='K. Kinnear'> <organization /></author> <author initials='R.' surname='Johnson' fullname='R. Johnson'> <organization /></author> <author initials='M.' surname='Stapp' fullname='M. Stapp'> <organization /></author> <date year='2012' month='April' /></front>  <seriesInfo name='RFC' value='6607' /> <format type='TXT' octets='60312' target='http://www.rfc-editor.org/rfc/rfc6607.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7be9c8cfb80fddda1e08748ad7c9a8fb", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.6607.xml"
+}

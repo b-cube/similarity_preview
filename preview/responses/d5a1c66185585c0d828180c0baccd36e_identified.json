@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <methodResponse>     <fault>     <value><i4>0</i4></value>     </fault> </methodResponse>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d5a1c66185585c0d828180c0baccd36e", 
+    "source_url": "http://openaccess.eprints.org/comment.php?type=pingback&entry_id=737"
+}

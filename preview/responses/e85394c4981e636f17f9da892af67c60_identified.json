@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <jnlp spec=\"1.0+\" codebase=\"http://www.unidata.ucar.edu/software/netcdf-java/current/webstart\">     <information>      <title>NetCDF Tools UI</title>      <vendor>Unidata</vendor>      <homepage href=\"http://www.unidata.ucar.edu/software/netcdf-java/\"/>      <description kind=\"short\">GUI interface to netCDF-Java / Common Data Model</description>      <icon href=\"nc.gif\"/>      <offline-allowed/>    </information>     <security>      <all-permissions/>    </security>     <resources>      <j2se version=\"1.6+\" max-heap-size=\"1024m\"/>      <jar href=\"netcdfUI.jar\"/>      <extension name=\"netcdfUI Extra\" href=\"netCDFtoolsExtraJars.jnlp\"/>    </resources>     <application-desc main-class=\"ucar.nc2.ui.ToolsUI\">        <argument>http://disc2.nascom.nasa.gov:80/opendap/hyrax/TRMM_CURRENT_3B42RT/catalog.xml#/opendap/hyrax/TRMM_CURRENT_3B42RT/3B42RT.current.bin</argument>    </application-desc> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e85394c4981e636f17f9da892af67c60", 
+    "source_url": "http://disc2.nascom.nasa.gov/opendap/webstart/ToolsUI?dapService=/opendap/hyrax&datasetID=/TRMM_CURRENT_3B42RT/3B42RT.current.bin"
+}

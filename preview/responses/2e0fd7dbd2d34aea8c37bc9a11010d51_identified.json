@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/307\"> <title>DSpace Day Presentations</title> <link>http://hdl.handle.net/2160/307</link> <description>Items relating to the Repository Support Project's DSpace Day (12th November 2007)</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/369\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/368\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/367\"/> </rdf:Seq> </items> <dc:date>2015-03-19T06:41:11Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/369\"> <title>What's new in version 1.5 and 1.6</title> <link>http://hdl.handle.net/2160/369</link> <description>What's new in version 1.5 and 1.6 Lewis, Stuart; Rutherford, James Presentations looking at what new features and changes will be included in DSpace version 1.5 and 1.6. Contact support@rsp.ac.uk for further details or support. </description> <dc:date>2007-11-23T11:20:01Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/368\"> <title>Advanced Tutorial</title> <link>http://hdl.handle.net/2160/368</link> <description>Advanced Tutorial Rutherford, James; Triggs, Graham; Jones, Richard Two presentations from the advanced DSpace tutorial. Contact support@rsp.ac.uk for further details or support. </description> <dc:date>2007-11-23T11:16:10Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/367\"> <title>Basic Tutorial</title> <link>http://hdl.handle.net/2160/367</link> <description>Basic Tutorial Lewis, Stuart; Yates, Chris A presentation and associated workbook for a basic DSpace tutorial. Contact support@rsp.ac.uk for further details or support. </description> <dc:date>2007-11-23T11:01:55Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2e0fd7dbd2d34aea8c37bc9a11010d51", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/307"
+}

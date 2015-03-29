@@ -1,0 +1,15 @@
+{
+    "content": "<SearchPlugin xmlns=\"http://www.mozilla.org/2006/browser/search/\" xmlns:os=\"http://a9.com/-/spec/opensearch/1.1/\"> <os:ShortName>mirador plugin search</os:ShortName> <os:InputEncoding>UTF-8</os:InputEncoding> <os:Image width=\"16\" height=\"16\">http://mirador.gsfc.nasa.gov/nasa_plugin.gif</os:Image> <os:Url type=\"text/html\" method=\"GET\" template=\"http://mirador.gsfc.nasa.gov/cgi-bin/mirador/collectionlist.pl?keyword={searchTerms}\"> </os:Url> </SearchPlugin> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5c081b2eb2efaea030ab57b73f65cd44", 
+    "source_url": "http://mirador.gsfc.nasa.gov/mirador-plugin-search.xml"
+}

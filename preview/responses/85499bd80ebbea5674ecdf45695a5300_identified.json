@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Center2013e </Local-number>  <Author>Moffitt, R. B. </Author>  <Title>PIFSC Cruise Report CR-13-05 (OES-06) </Title>  <Institution>NOAA PIFSC </Institution>  <Publication-Place>Honolulu, HI </Publication-Place>  <Publication-Date><caldate>2013 </caldate></Publication-Date>  <Extent>5 </Extent>  <Type-Period-Note>Vessel: Oscar Elton Sette, Cruise 03-05 (OES-06) Period: June 11-30, 2003, Area of Operation: Northwestern Hawaiian Islands (NWHI) </Type-Period-Note>  <Notes>CRCP Project ID 467; Project Title: Benthic Habitat Mapping and Characterization in the Pacific Islands Region; Principal Investigator: John Rooney </Notes>  <Abstract>\"Operations occurred northwest along the main Hawaiian Islands and Papahanaumokuakea Marine National Monument. Operations also occurred in the Northwestern Hawaiian Island. Monk seal field camps were established, and personnel, equipment, and supplies for the USFWS and DLNR were transported. Various surveys were also conducted.\" </Abstract>  <Date-Time-Last-Modified>20131129000000 </Date-Time-Last-Modified>  <URL>http://www.pifsc.noaa.gov/library/pubs/cruise/Sette/CR0305a-1.RBM.pdf </URL>  <project>  <ID>467 </ID>  <title>Benthic Habitat Mapping and Characterization in the Pacific Islands Region </title>  <PI>John Rooney </PI>  </project>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "85499bd80ebbea5674ecdf45695a5300", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BA158E521-E8FE-44CB-A2EF-D47E96FABF98%7D"
+}

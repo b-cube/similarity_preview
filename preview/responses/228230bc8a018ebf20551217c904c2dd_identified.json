@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"IEEE.1394.1995\"> <front> <title>Standard for a High Performance Serial Bus</title> <author> <organization></organization> </author> <date month=\"\" year=\"1995\" /> </front>  <seriesInfo name=\"IEEE\" value=\"Standard 1394\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "228230bc8a018ebf20551217c904c2dd", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.IEEE.1394.1995.xml"
+}

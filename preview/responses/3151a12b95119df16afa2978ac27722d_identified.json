@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/\" ID=\"/opendap/hyrax/\">             <thredds:catalogRef name=\"Aqua_AIRS_NRT\" xlink:href=\"Aqua_AIRS_NRT/catalog.xml\"                           xlink:title=\"Aqua_AIRS_NRT\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Aqua_AIRS_NRT/\"/>             <thredds:catalogRef name=\"Aura_MLS_NRT\" xlink:href=\"Aura_MLS_NRT/catalog.xml\"                           xlink:title=\"Aura_MLS_NRT\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Aura_MLS_NRT/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "3151a12b95119df16afa2978ac27722d", 
+    "source_url": "http://discnrt1.gesdisc.eosdis.nasa.gov/opendap/hyrax/catalog.xml"
+}

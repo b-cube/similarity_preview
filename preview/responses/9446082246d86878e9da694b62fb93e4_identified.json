@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>State of New York</ShortName>   <Description>State of New York | Open Data </Description>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://data.ny.gov/assets/CC0177A8-993C-4383-AA8E-FDC41F2AF46F</Image>   <Url type=\"text/html\" method=\"get\" template=\"http://data.ny.gov/browse?q={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9446082246d86878e9da694b62fb93e4", 
+    "source_url": "https://data.ny.gov/opensearch.xml"
+}

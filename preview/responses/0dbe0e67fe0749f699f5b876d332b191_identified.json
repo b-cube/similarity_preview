@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>2007 Texas Conference on Digital Libraries</title> <link href=\"http://hdl.handle.net/2249.1/4514\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/2249.1/4514</id> <updated>2015-03-20T04:01:05Z</updated> <dc:date>2015-03-20T04:01:05Z</dc:date> <entry> <title>Shibboleth in the Texas Digital Library</title> <link href=\"http://hdl.handle.net/2249.1/4528\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2249.1/4528</id> <updated>2012-12-04T22:51:00Z</updated> <published>2007-05-30T00:00:00Z</published> <summary type=\"text\">Shibboleth in the Texas Digital Library Powerpoint presented at the 2007 Texas Conference on Digital Libraries. </summary> <dc:date>2007-05-30T00:00:00Z</dc:date> </entry> <entry> <title>Developing a Common Submission System for ETDs in the Texas Digital Library</title> <link href=\"http://hdl.handle.net/2249.1/4526\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2249.1/4526</id> <updated>2012-12-14T16:30:51Z</updated> <published>2007-05-30T00:00:00Z</published> <summary type=\"text\">Developing a Common Submission System for ETDs in the Texas Digital Library </summary> <dc:date>2007-05-30T00:00:00Z</dc:date> </entry> <entry> <title>A Manakin Case Study Visualizing geospatial metadata and complex items</title> <link href=\"http://hdl.handle.net/2249.1/4525\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2249.1/4525</id> <updated>2012-12-14T16:30:29Z</updated> <published>2007-05-30T00:00:00Z</published> <summary type=\"text\">A Manakin Case Study Visualizing geospatial metadata and complex items </summary> <dc:date>2007-05-30T00:00:00Z</dc:date> </entry> <entry> <title>The Texas Digital Library Preservation Network</title> <link href=\"http://hdl.handle.net/2249.1/4524\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/2249.1/4524</id> <updated>2012-12-14T16:29:57Z</updated> <published>2007-05-30T00:00:00Z</published> <summary type=\"text\">The Texas Digital Library Preservation Network </summary> <dc:date>2007-05-30T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0dbe0e67fe0749f699f5b876d332b191", 
+    "source_url": "https://tdl-ir.tdl.org/tdl-ir/feed/atom_1.0/2249.1/4514"
+}

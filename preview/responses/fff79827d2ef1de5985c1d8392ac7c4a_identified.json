@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>UF Libraries</ShortName>  <Description>Use Google to search the George A. Smathers Libraries web site</Description>  <Tags>UF Libraries</Tags>  <Url type=\"text/html\"       template=\"http://www.google.com/search?q=site:uflib.ufl.edu {searchTerms}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fff79827d2ef1de5985c1d8392ac7c4a", 
+    "source_url": "http://www.uflib.ufl.edu/opensearchdescription.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"><ShortName>VipsWiki (en)</ShortName><Description>VipsWiki (en)</Description><Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://www.vips.ecs.soton.ac.uk/favicon.ico</Image><Url type=\"text/html\" method=\"get\" template=\"http://www.vips.ecs.soton.ac.uk/index.php?title=Special:Search&amp;search={searchTerms}\" /><Url type=\"application/x-suggestions+json\" method=\"get\" template=\"http://www.vips.ecs.soton.ac.uk/api.php?action=opensearch&amp;search={searchTerms}&amp;namespace=0\" /><moz:SearchForm>http://www.vips.ecs.soton.ac.uk/index.php?title=Special:Search</moz:SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "408cfbd8d7dea2f0f78f70cb2598f9a4", 
+    "source_url": "http://www.vips.ecs.soton.ac.uk/opensearch_desc.php"
+}

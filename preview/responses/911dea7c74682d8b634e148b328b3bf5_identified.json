@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.higashiyama-eol2tp\"> <front> <title>Ethernet Over L2TP (EoL2TP)</title>  <author initials=\"M\" surname=\"Higashiyama\" fullname=\"Mitsuru Higashiyama\">     <organization /> </author>  <date month=\"November\" day=\"27\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-higashiyama-eol2tp-01\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "911dea7c74682d8b634e148b328b3bf5", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.higashiyama-eol2tp.xml"
+}

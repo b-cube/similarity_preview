@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Tsuda2008 </Local-number>  <Author>Tsuda, R. T., Vroom, P. S., Abbott, I. A., Fisher, J. R., Foster, K. B. </Author>  <Title>Additional marine benthic algae from Howland and Baker Islands, Central Pacific </Title>  <Journal-Title>Pacific Science </Journal-Title>  <Publication-Date><caldate>2008 </caldate></Publication-Date>  <Volume-ID>62 </Volume-ID>  <Issue-ID>2 </Issue-ID>  <Extent>271-290 </Extent>  <Notes>FY2005 CRCP Project ID 1221; Project Title: Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls; Principal Investigator: Rusty Brainard </Notes>  <Abstract>\"Marine benthic algae from Howland Island and Baker Island were identified from collections made during earlier expeditions in 1924, 1935, and 1964, and during five separate expeditions between 1998 and 2004. Eighty-nine (six blue-green algae, 53 red algae, five brown algae, and 25 green algae) of the 99 species represent new records for the two islands. Forty-seven and 86 species are documented with voucher specimens from Howland Island and Baker Island, respectively. This study increases the total number of benthic marine algal species from the two islands to 104 species. A similar number (107 species) was previously reported from the nearby low coral islands in the Phoenix Group located 400 km to the southwest. Only 38% (39 of 104 species) of the algal species from Howland Island and Baker Island are reported from the Phoenix Group. The presence of Udotea palmetta Decaisne on Baker Island is of interest because the record is the first for this green algal genus in the central Pacific region.\" </Abstract>  <DOI>10.2984/1534-6188(2008)62[271:AMBAFH]2.0.CO;2 </DOI>  <DOI-URL>http://dx.doi.org/10.2984/1534-6188(2008)62[271:AMBAFH]2.0.CO;2 </DOI-URL>  <Date-Time-Last-Modified>20090910000000 </Date-Time-Last-Modified>  <project>  <ID>1221 </ID>  <title>Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls </title>  <PI>Rusty Brainard </PI>  </project>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <CoRIS-Record-Type>article </CoRIS-Record-Type>  <Local-subject-index>article </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d076334356b09d797270957e4c377062", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B74F35D19-5A93-4842-A544-033F1EE0BFCE%7D"
+}

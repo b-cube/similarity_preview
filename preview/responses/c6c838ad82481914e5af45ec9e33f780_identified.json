@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>A Proposal on Using Reuse Readiness Levels to Measure Software Reusability</dc:title><dc:creator>Downs, Robert R.</dc:creator><dc:creator>Marshall, James J.</dc:creator><dc:date>2010</dc:date><dc:type>text</dc:type><dc:subject>Information science</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8ZS2V7W</dc:identifier><dc:description>The use of scientific data is becoming increasingly dependent on the software that fosters such use. As the ability to reuse software contributes to capabilities for reusing software-dependent data, instruments for measuring software reusability contribute to the reuse of software and related data. The development and current state of a proposed set of Reuse Readiness Levels (RRLs) are summarized, and potential uses of the software reusability measures are described, along with proposed use cases to support sponsorship of software projects, software production, software adoption, and data stewardship during the systems development lifecycle and the data lifecycle.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c6c838ad82481914e5af45ec9e33f780", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A180794.oai_dc_xml"
+}

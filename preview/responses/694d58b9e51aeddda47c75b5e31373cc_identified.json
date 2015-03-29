@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>VU Calendar</ShortName>  <Description>Search VU Calendar Events.</Description>  <Image height=\"16\" width=\"16\" type=\"image/x-icon\">https://events.vanderbilt.edu/favicon.ico</Image>  <Url type=\"text/html\" method=\"get\" template=\"https://events.vanderbilt.edu/index.php?com=searchresult&amp;k={searchTerms}\" /> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "694d58b9e51aeddda47c75b5e31373cc", 
+    "source_url": "https://events.vanderbilt.edu/opensearch.php"
+}

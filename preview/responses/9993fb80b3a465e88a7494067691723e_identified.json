@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0084\">   <front>     <title>User Avatar</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <author initials=\"P.\" surname=\"Millard\" fullname=\"Peter Millard\">       <organization/>       <address>         <email/>       </address>     </author>     <author initials=\"T.\" surname=\"Muldowney\" fullname=\"Thomas Muldowney\">       <organization/>       <address>         <email>temas@jabber.org</email>       </address>     </author>     <author initials=\"J.\" surname=\"Missig\" fullname=\"Julian Missig\">       <organization/>       <address>         <email>julian@jabber.org</email>       </address>     </author>     <date day=\"05\" month=\"November\" year=\"2008\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0084\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0084.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9993fb80b3a465e88a7494067691723e", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0084.xml"
+}

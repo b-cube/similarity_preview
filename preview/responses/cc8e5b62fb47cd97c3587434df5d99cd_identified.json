@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <status>Successful connection, 4 record(s) found.</status>   <species>   <genus>Nangra</genus>   <speciesfb>nangra</speciesfb>   <speccode>24942</speccode>    </species>   <comnames>    <comname>&#21335;&#39841;</comname>      <country>China</country>     <language>Mandarin Chinese</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#2455;&#2434;&#32;&#2463;&#2503;&#2434;&#2480;&#2494;</comname>      <country>Bangladesh</country>     <language>Bengali</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#71;&#97;&#110;&#103;&#32;&#116;&#101;&#110;&#103;&#114;&#97;</comname>      <country>Bangladesh</country>     <language>Bengali</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#75;&#111;&#115;&#105;&#32;&#110;&#97;&#110;&#103;&#114;&#97;</comname>      <country>India</country>     <language>English</language>     <type>Vernacular</type>    </comnames>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cc8e5b62fb47cd97c3587434df5d99cd", 
+    "source_url": "http://www.fishbase.org/webservice/ComNames/comnamesxml.php?Genus=Nangra&Species=nangra"
+}

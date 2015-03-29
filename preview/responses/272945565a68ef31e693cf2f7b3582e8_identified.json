@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>International Trade Union Confederation</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>Belgium, FGTB-ABVV</title>  <author_name>Luc Vermeersch </author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/belgium-fgtb-abvv</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/belgium-fgtb-abvv'&gt;Belgium, FGTB-ABVV&lt;/a&gt;&lt;/h4&gt;&lt;blockquote class='spip'&gt; &lt;p&gt;http://www.fgtb.be/web/guest/news-fr/-/article/3171966/;jsessionid=e5tE8F2vVjhAPlRg80flmZZ&amp;p_l_id=10624&lt;/p&gt; &lt;/blockquote&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "272945565a68ef31e693cf2f7b3582e8", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Fbelgium-fgtb-abvv"
+}

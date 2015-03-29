@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/04292010/USDOT_labelService/MapServer</loc>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/04292010/USDOT_projectService/MapServer</loc>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/04292010/USDOT_queryService/MapServer</loc>   </url> </urlset>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0e82decec4a403c0bafd484c3bc0060c", 
+    "source_url": "http://gis.rita.dot.gov/ArcGIS/rest/services/04292010?f=sitemap"
+}

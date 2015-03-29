@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <oembed><version>1.0</version><author_url>http://www.youtube.com/channel/UCuAmr3PyCp3Hfy7LGOD8QEA</author_url><thumbnail_height>360</thumbnail_height><type>video</type><thumbnail_url>http://i.ytimg.com/vi/KHzOijyT_oQ/hqdefault.jpg</thumbnail_url><provider_url>http://www.youtube.com/</provider_url><html>&lt;iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/KHzOijyT_oQ?feature=oembed\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</html><height>270</height><provider_name>YouTube</provider_name><title>Dirt:The Skin of the Earth \\ufffd\\ufffd\\ufffd\\ufffd</title><width>480</width><author_name>New Wellness Living 2</author_name><thumbnail_width>480</thumbnail_width></oembed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "85b993e879357ab308cfd865deccf6df", 
+    "source_url": "http://www.youtube.com/oembed?format=xml&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKHzOijyT_oQ"
+}

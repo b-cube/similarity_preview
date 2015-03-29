@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ISO.9899.1990\"> <front> <title>Programming languages - C</title> <author> <organization>International Organization for Standardization</organization> </author> <date month=\"\" year=\"1990\" /> </front>  <seriesInfo name=\"ISO\" value=\"Standard 9899\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7c7d76385b66686a03b5ae8f7e3cd464", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ISO.9899.1990.xml"
+}

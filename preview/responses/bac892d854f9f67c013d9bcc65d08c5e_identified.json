@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2012-10-19 14:09:52</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a0c8e49-c3bb-49d3-9587-d5931d78d251\"    xml:base=\"http://gcmdservices.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/discipline\"/>    <skos:prefLabel xml:lang=\"en\">LITERATURE</skos:prefLabel>    <skos:broader rdf:resource=\"5b98265f-7cd1-4976-bc78-1ac1e6b9b90f\"/> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bac892d854f9f67c013d9bcc65d08c5e", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a0c8e49-c3bb-49d3-9587-d5931d78d251.rdf"
+}

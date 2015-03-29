@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:time=\"http://a9.com/-/opensearch/extensions/time/1.0/\" xmlns:geo=\"http://a9.com/-/opensearch/extensions/geo/1.0/\">   <!-- Administrative Details -->   <Contact>nsidc@nsidc.org</Contact>   <!--URL template for refreshing this file-->   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://nsidc.org/api/opensearch/1.1/dataset/NSIDC-0066/granule/description\" />   <!-- URL Templates for ATOM results Granule Level Search -->   <!--via Dataset Parameters-->   <Url type=\"application/atom+xml\" rel=\"results\" indexOffset=\"1\" pageOffset=\"1\" template=\"http://nsidc.org/api/opensearch/1.1/dataset/NSIDC-0066/granule/?dtstart={time:start?}&amp;startIndex={startIndex:startIndex?}&amp;dtend={time:end?}&amp;itemsPerPage={itemsPerPage:count?}\" />   <!--with Polygon Geometry-->   <Url type=\"application/atom+xml\" rel=\"results\" indexOffset=\"1\" pageOffset=\"1\" template=\"http://nsidc.org/api/opensearch/1.1/dataset/NSIDC-0066/granule/?dtstart={time:start?}&amp;startIndex={startIndex:startIndex?}&amp;dtend={time:end?}&amp;loc={geo:polygon?}&amp;itemsPerPage={itemsPerPage:count?}\" />   <!--with Bounding Box-->   <Url type=\"application/atom+xml\" rel=\"results\" indexOffset=\"1\" pageOffset=\"1\" template=\"http://nsidc.org/api/opensearch/1.1/dataset/NSIDC-0066/granule/?dtstart={time:start?}&amp;startIndex={startIndex:startIndex?}&amp;dtend={time:end?}&amp;bbox={geo:box?}&amp;itemsPerPage={itemsPerPage:count?}\" />   <!--Available Parameters for AVHRR Polar Pathfinder Twice-Daily 5 km EASE-Grid Composites-->   <Query xmlns:nsidc=\"http://nsidc.org/ns/opensearch/1.1/\" role=\"nsidc:validparams\" />   <!-- Control Parameters -->   <Attribution>(c) 2010 National Snow and Ice Data Center.</Attribution> </OpenSearchDescription>  ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "97330fa4eda86745aaade6235ddb71e6", 
+    "source_url": "http://nsidc.org/api/opensearch/1.1/dataset/NSIDC-0066/granule/description"
+}

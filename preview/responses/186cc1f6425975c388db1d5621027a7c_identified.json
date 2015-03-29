@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.X125.1997\"> <front> <title>Interchange Control Structure for Electronic Data Interchange</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1997\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X12.5\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "186cc1f6425975c388db1d5621027a7c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ANSI.X125.1997.xml"
+}

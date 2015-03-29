@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.REC-CSS2-19980512'            target='http://www.w3.org/TR/1998/REC-CSS2-19980512'> <front> <title>Cascading Style Sheets, level 2 (CSS2) Specification</title>  <author initials='B.' surname='Bos' fullname='Bert Bos'>     <organization /> </author>  <author initials='H.' surname='Lie' fullname='H\\ufffd\\ufffd\\ufffd\\ufffdkon Wium Lie'>     <organization /> </author>  <author initials='C.' surname='Lilley' fullname='Chris Lilley'>     <organization /> </author>  <author initials='I.' surname='Jacobs' fullname='Ian Jacobs'>     <organization /> </author>  <date month='May' day='12' year='1998' /> </front>  <seriesInfo name='World Wide Web Consortium Recommendation' value='REC-CSS2-19980512' /> <format type='HTML' target='http://www.w3.org/TR/1998/REC-CSS2-19980512' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "93f0193c4590eafbdb295c3769bbe581", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.REC-CSS2-19980512.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Koski, Marja</a1>   <a2>Swalethorp, Rasmus</a2>   <a2>Kjellerup, Sanne</a2>   <a2>Nielsen, Torkel Gissel</a2>   <t1>The mystery of Microsetella: combination of sac- and broadcast-spawning in an Arctic fjord</t1>   <t2/>   <sn/>   <op>259-264</op>   <vo>36</vo>   <ab>&lt;p&gt;Different life-history stages of the pelagic harpacticoid &lt;em&gt;Microsetella norvegica&lt;/em&gt; were sampled in a Greenland fjord, to investigate how this slowly growing species can achieve high abundances at low temperatures. We expected low but continuous reproduction coupled with a low mortality, but observed the opposite: a short reproductive period with high estimated weight-specific egg production and egg mortality, and indication of a life-history strategy combining the advantages of egg carrying with egg production rates independent of temperature.&lt;/p&gt;</ab>   <la/>   <k1>arctic;                 microsetella norvegica;                 mortality;                 reproduction;                 sac-spawning;                 </k1>   <pb/>   <pp/>   <yr>2014-01-01</yr>   <ed/>   <ul>https://zenodo.org/record/10152/files/Koski_J_Plankton.png?subformat=icon-90;  https://zenodo.org/record/10152/files/Koski_J_Plankton.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "52e454e8f2337fb1931234f5e95fa9e1", 
+    "source_url": "https://zenodo.org/record/10152/export/xw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF xmlns:doaml=\"http://ns.balbinus.net/doaml#\"          xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"          xmlns:lp=\"https://launchpad.net/rdf/launchpad#\"          xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">     <lp:ProductSeries>         <lp:specifiedAt rdf:resource=\"/helioviewer.org/3.0/+rdf\"/>         <lp:name>3.0</lp:name>         <lp:displayName>3.0</lp:displayName>         <lp:title>Helioviewer.org 3.0 series</lp:title>         <lp:shortDescription>3.0.</lp:shortDescription>         <lp:creationDate>2012-01-31 19:56:08 UTC</lp:creationDate>         <lp:inProduct>             <lp:Product>                 <lp:specifiedAt     rdf:resource=\"/helioviewer.org/+rdf\"/>             </lp:Product>         </lp:inProduct>     </lp:ProductSeries> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1b2997afc3ef4f7f58e541d972e87e13", 
+    "source_url": "https://launchpad.net/helioviewer.org/3.0/+rdf"
+}

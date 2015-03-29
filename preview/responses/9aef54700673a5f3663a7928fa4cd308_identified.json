@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <!-- JNLP File for Langley Application --> <jnlp   spec=\"1.0+\"   codebase=\"http://esrl.noaa.gov/gmd/grad/neubrew/\"   href=\"LangleyApp.jnlp\">   <information>     <title>O3 Langley Regression Application</title>     <vendor>NEUBrew</vendor>     <!--homepage href=\"http://www.esrl.noaa.gov/gmd/grad/neubrew/AboutLangley.html\"/ -->     <description>O3 Langley Regression Application</description>     <description kind=\"short\">A O3 Langley Regression analysis tool.</description>     <icon href=\"images/swingset2.jpg\"/>     <icon kind=\"splash\" href=\"images/splash.gif\"/>     <offline-allowed/>   </information>   <!--security>       <all-permissions/>   </security -->   <resources>     <j2se version=\"1.5+\"/>     <jar href=\"LangleyApp.jar\"/>     <jar href=\"jfreechart-1.0.3.jar\"/>     <jar href=\"jcommon-1.0.6.jar\"/>   </resources>   <application-desc main-class=\"LangleyApp\"/> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9aef54700673a5f3663a7928fa4cd308", 
+    "source_url": "http://www.esrl.noaa.gov/gmd/grad/neubrew/LangleyApp.jnlp"
+}

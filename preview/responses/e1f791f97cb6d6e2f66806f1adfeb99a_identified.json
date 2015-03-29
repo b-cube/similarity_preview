@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Powell, Diana K.</author>           <author>Soderberg, Alicia</author>           <author>Margutti, Raffaella</author>         </authors>       </contributors>       <titles>         <title>Explosion Parameters of SN 2013df and Properties of Its Progenitor Star</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12165</doi>       <pages/>       <volume/>       <number>doi</number>       <keywords>         <keyword>Type II supernovae</keyword>         <keyword>Type IIb supernovae</keyword>         <keyword>Core-collapse supernovae</keyword>         <keyword>Stellar luminosities</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-04-01</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Type IIb supernovae have only recently been identified as a distinct flavor of core-collapse stellar explosions. These supernovae represent a transitional type between Type II and Type Ib supernovae. Here I present a multi-wavelength (UV-optical) analysis of Type IIb SN 2013df, with the primary goals to (i) constrain the radius of the progenitor star and (ii) determine properties of the stellar explosion. From the analysis of the cooling envelope emission from SN 2013df I constrain the progenitor radius to be R &amp;lt; 7.8X10&lt;sup&gt;14&lt;/sup&gt; cm. I then analyze the main supernova peak that is powered by freshly synthesized &lt;sup&gt;56&lt;/sup&gt;Ni and find that the total ejecta mass is M&lt;sub&gt;ej&lt;/sub&gt; = 5.0 M&lt;sub&gt;\\ufffd\\ufffd&lt;/sub&gt; and the explosion kinetic energy is E&lt;sub&gt;k&lt;/sub&gt; = 3 X 10&lt;sup&gt;51&lt;/sup&gt; erg. Finally, I compare my findings with the explosion and progenitor properties of the currently known and studied sample of Type IIb supernovae from the literature.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e1f791f97cb6d6e2f66806f1adfeb99a", 
+    "source_url": "https://zenodo.org/record/12165/export/xe"
+}

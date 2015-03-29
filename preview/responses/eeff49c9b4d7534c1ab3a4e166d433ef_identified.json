@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20073039</identifier><identifier type=\"pwpk\">80255</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2007-3039</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Assessment of Undiscovered Oil and Gas Resources in Cretaceous-Tertiary Coal Beds of the Gulf Coast Region, 2007</title></titleInfo><originInfo><dateOther>Fri, 24 Aug 2007 00:00 -0500</dateOther><dateIssued>2007</dateIssued><publisher>Geological Survey (U.S.)</publisher></originInfo><name><namePart>Warwick, Peter D.</namePart><role>Author</role></name><abstract>Using a geology-based assessment methodology, the U.S. Geological Survey estimated a mean of 4.06 trillion cubic feet of undiscovered, technically recoverable natural gas in Cretaceous-Tertiary coal beds of the onshore lands and State waters of the Gulf Coast.</abstract><physicalDescription><form>2 p.</form><form>Geological Survey (U.S.)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2007_3039.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2007/3039/</url></location><note type=\"citation/reference\">Assessment of Undiscovered Oil and Gas Resources in Cretaceous-Tertiary Coal Beds of the Gulf Coast Region, 2007; 2007; FS; 2007-3039; Fact Sheet; Warwick, Peter D.</note><edition>Version 1.0</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "eeff49c9b4d7534c1ab3a4e166d433ef", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20073039"
+}

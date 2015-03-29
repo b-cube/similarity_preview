@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" > <ShortName>Catalog</ShortName> <Description>Search the current edition of the Catalog</Description> <InputEncoding>UTF-8</InputEncoding> <Image height=\"16\" width=\"16\" type=\"image/x-icon\">/favicon.ico</Image>  <SearchForm>http://catalog.uthscsa.edu/search/</SearchForm> <Url type=\"text/html\" method=\"get\" template=\"http://catalog.uthscsa.edu/search/?P={searchTerms}\"></Url> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a49059bddb90209a4da45309d8204e1d", 
+    "source_url": "http://catalog.uthscsa.edu/search/opensearch.xml"
+}

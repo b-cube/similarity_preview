@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.ietf-ipsec-ike-modp-groups'> <front> <title>More MODP Diffie-Hellman groups for IKE</title>  <author initials='T' surname='Kivinen' fullname='Tero Kivinen'>     <organization /> </author>  <author initials='M' surname='Kojo' fullname='Markku Kojo'>     <organization /> </author>  <date month='January' day='7' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-ietf-ipsec-ike-modp-groups-04' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-ietf-ipsec-ike-modp-groups-04.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "23f08f3ac4ec73f53d99a48b7524c1ee", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-ipsec-ike-modp-groups.xml"
+}

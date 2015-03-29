@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?> <META xmlns=\"http://www.w3.org/2002/01/P3Pv1\">  <POLICY-REFERENCES>     <POLICY-REF about=\"/w3c/p3p-policy.xml#general\">        <INCLUDE>/*</INCLUDE>        <EXCLUDE>feedback.html</EXCLUDE>      </POLICY-REF>      <POLICY-REF about=\"/w3c/p3p-policy.xml#feedback\">        <INCLUDE>feedback.html</INCLUDE>     </POLICY-REF>  </POLICY-REFERENCES>   </META> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d53a75cddf6a0d50f5aa90d873c92dc1", 
+    "source_url": "http://woodshole.er.usgs.gov/w3c/p3p.xml"
+}

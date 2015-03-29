@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0014\">   <front>     <title>Message Tone</title>     <author initials=\"M.\" surname=\"Mintz\" fullname=\"Mike Mintz\">       <organization/>       <address>         <email>psicoder@yahoo.com</email>       </address>     </author>     <date day=\"16\" month=\"January\" year=\"2002\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0014\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0014.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "428c11f7beb9c8814bdebca6f6ef6d02", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0014.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <LinkComponent ID=\"x16354\" Name=\"Cantorial School\" SiteBaseUrl=\"\" Locale=\"\" XPowerPath=\"/JTS/PAGES/Home/Academics/Schools of JTS/Cantorial School\">   <IGX_Categories Count=\"0\" CategoryIds=\"\" />   <LingualMaps />   <LinkText type=\"string\" label=\"Link Text\" ID=\"1\">H. L. Miller Cantorial School</LinkText>   <LinkURL type=\"string\" label=\"Link URL\" ID=\"2\">x18350.xml</LinkURL> </LinkComponent> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ff0e6b076f35d98b3f9c6d9f4a750821", 
+    "source_url": "http://jtsa.edu/x16354.xml"
+}

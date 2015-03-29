@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://data.inf.ed.ac.uk/dataset/city-of-edinburgh-council-social-media-accounts\">     <owl:sameAs rdf:resource=\"urn:uuid:48f350cb-15dd-47d3-ad66-df3ea37b5f00\"></owl:sameAs>     <dct:description></dct:description>     <foaf:homepage rdf:resource=\"http://data.inf.ed.ac.uk/dataset/city-of-edinburgh-council-social-media-accounts\"></foaf:homepage>     <rdfs:label>city-of-edinburgh-council-social-media-accounts</rdfs:label>     <dct:identifier>city-of-edinburgh-council-social-media-accounts</dct:identifier>     <dct:title>City of Edinburgh Council Social Media Accounts</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://data.inf.ed.ac.uk/dataset/48f350cb-15dd-47d3-ad66-df3ea37b5f00/resource/e969fdbc-2cce-4297-832d-d0f79fda6a07/download/cecsocialmedia.csv\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>CEC Social Media Accounts, October 2014</dct:title>             </dcat:Distribution>         </dcat:distribution>     <dct:contributor>       <rdf:Description>         <foaf:name>CEC Digital Services team </foaf:name>         <foaf:mbox rdf:resource=\"mailto:web@edinburgh.gov.uk \"></foaf:mbox>       </rdf:Description>     </dct:contributor>     <dct:rights rdf:resource=\"http://reference.data.gov.uk/id/open-government-licence\"></dct:rights>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "3d1985cd315933062f37fb38f71b7057", 
+    "source_url": "http://data.inf.ed.ac.uk/dataset/48f350cb-15dd-47d3-ad66-df3ea37b5f00.rdf"
+}

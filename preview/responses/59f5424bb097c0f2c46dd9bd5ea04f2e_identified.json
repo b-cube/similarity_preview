@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-screen-capture-20150210'            target='http://www.w3.org/TR/2015/WD-screen-capture-20150210'> <front> <title>Screen Capture</title>  <author initials='M.' surname='Thomson' fullname='Martin Thomson'>     <organization /> </author>  <author initials='K.' surname='Griffin' fullname='Keith Griffin'>     <organization /> </author>  <date month='February' day='10' year='2015' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-screen-capture-20150210' /> <format type='HTML' target='http://www.w3.org/TR/2015/WD-screen-capture-20150210' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "59f5424bb097c0f2c46dd9bd5ea04f2e", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-screen-capture-20150210.xml"
+}

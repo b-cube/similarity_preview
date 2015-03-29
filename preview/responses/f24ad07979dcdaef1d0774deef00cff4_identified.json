@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/AMSEAS_SeaSurfaceHeight_Hindcasts/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/AMSEAS_SeaSurfaceSalinity_Hindcasts/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/AMSEAS_SurfaceCurrent_Hindcasts/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/AMSEAS_WaterTemp_Hindcasts/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/IASNFS_SeaSurfaceHeightForecasts/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/IASNFS_SeaSurfaceSalinityForecasts/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/IASNFS_SurfaceCurrentForecasts/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/IASNFS_WaterTempForecasts/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/NAM12_SurfaceWindForecasts/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/NWS_AirTempForecasts/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/NWS_PercentPrecipitationForecasts/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/Models/NWS_PrecipitationAmountForecasts/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f24ad07979dcdaef1d0774deef00cff4", 
+    "source_url": "http://www.ncddc.noaa.gov/arcgis/rest/services/Models?f=sitemap"
+}

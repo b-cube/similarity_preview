@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>DSpace Day Presentations</title> <link href=\"http://hdl.handle.net/2160/307\" rel=\"alternate\"/> <subtitle>Items relating to the Repository Support Project's DSpace Day (12th November 2007)</subtitle> <id>http://hdl.handle.net/2160/307</id> <updated>2015-03-19T06:39:25Z</updated> <dc:date>2015-03-19T06:39:25Z</dc:date> <entry> <title>What's new in version 1.5 and 1.6</title> <link href=\"http://hdl.handle.net/2160/369\" rel=\"alternate\"/> <author> <name>Lewis, Stuart</name> </author> <author> <name>Rutherford, James</name> </author> <id>http://hdl.handle.net/2160/369</id> <updated>2007-11-23T11:21:00Z</updated> <published>2007-11-23T11:20:01Z</published> <summary type=\"text\">What's new in version 1.5 and 1.6 Lewis, Stuart; Rutherford, James Presentations looking at what new features and changes will be included in DSpace version 1.5 and 1.6. Contact support@rsp.ac.uk for further details or support. </summary> <dc:date>2007-11-23T11:20:01Z</dc:date> </entry> <entry> <title>Advanced Tutorial</title> <link href=\"http://hdl.handle.net/2160/368\" rel=\"alternate\"/> <author> <name>Rutherford, James</name> </author> <author> <name>Triggs, Graham</name> </author> <author> <name>Jones, Richard</name> </author> <id>http://hdl.handle.net/2160/368</id> <updated>2007-11-23T11:21:00Z</updated> <published>2007-11-23T11:16:10Z</published> <summary type=\"text\">Advanced Tutorial Rutherford, James; Triggs, Graham; Jones, Richard Two presentations from the advanced DSpace tutorial. Contact support@rsp.ac.uk for further details or support. </summary> <dc:date>2007-11-23T11:16:10Z</dc:date> </entry> <entry> <title>Basic Tutorial</title> <link href=\"http://hdl.handle.net/2160/367\" rel=\"alternate\"/> <author> <name>Lewis, Stuart</name> </author> <author> <name>Yates, Chris</name> </author> <id>http://hdl.handle.net/2160/367</id> <updated>2014-10-22T11:36:19Z</updated> <published>2007-11-23T11:01:55Z</published> <summary type=\"text\">Basic Tutorial Lewis, Stuart; Yates, Chris A presentation and associated workbook for a basic DSpace tutorial. Contact support@rsp.ac.uk for further details or support. </summary> <dc:date>2007-11-23T11:01:55Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "efbc1b58a433d95b8090dcc695eb4a02", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/307"
+}

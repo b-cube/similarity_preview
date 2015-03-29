@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-denver-bicycle-facilities\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-denver-bicycle-facilities</id><updated>2015-03-14T11:26:48Z</updated><entry><title>REST API: Update object city-and-county-of-denver-denver-bicycle-facilities</title><link href=\"/revision/bb71623d-2af8-416c-bb63-e97c897430c0\" rel=\"alternate\"></link><updated>2015-03-14T11:26:48Z</updated><published>2015-03-14T11:26:48Z</published><author><name>denver</name></author><id>tag:,2015-03-14:/revision/bb71623d-2af8-416c-bb63-e97c897430c0</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-denver-bicycle-facilities</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-denver-bicycle-facilities</title><link href=\"/revision/3a48a736-b9c9-41a9-ab06-d0a093dbfc08\" rel=\"alternate\"></link><updated>2015-03-14T11:25:14Z</updated><published>2015-03-14T11:25:14Z</published><author><name>denver</name></author><id>tag:,2015-03-14:/revision/3a48a736-b9c9-41a9-ab06-d0a093dbfc08</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-denver-bicycle-facilities</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-denver-bicycle-facilities</title><link href=\"/revision/c9a86347-81ad-4d8f-b16e-09365254c5a0\" rel=\"alternate\"></link><updated>2015-03-07T12:21:44Z</updated><published>2015-03-07T12:21:44Z</published><author><name>denver</name></author><id>tag:,2015-03-07:/revision/c9a86347-81ad-4d8f-b16e-09365254c5a0</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-denver-bicycle-facilities</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-denver-bicycle-facilities</title><link href=\"/revision/8f919d7e-0bb7-4cc4-abd5-3085b396015a\" rel=\"alternate\"></link><updated>2015-03-07T12:21:32Z</updated><published>2015-03-07T12:21:32Z</published><author><name>denver</name></author><id>tag:,2015-03-07:/revision/8f919d7e-0bb7-4cc4-abd5-3085b396015a</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-denver-bicycle-facilities</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f0542124a0de50774059632e1764665c", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-denver-bicycle-facilities?days=14&format=atom"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='ISO-8859-1'?><martif type=\"MSC\" lang=\"en\"><martifHeader><fileDesc><sourceDesc><p>OECD Glossary of Statistical Terms</p></sourceDesc></fileDesc><publicationStmt><p type=\"resultCount\">1</p><p type=\"resultsPerPage\">10</p><p type=\"currentPage\">1</p></publicationStmt></martifHeader><text><body><termEntry id=\"1156\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Gross</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Brut</term></termGrp></ntig></langSet></termEntry></body></text></martif>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0f5835f54200ea0fd65498754a7108e5", 
+    "source_url": "http://stats.oecd.org/glossary/filter.asp?vFT=ON&cFT=B&tFT=Brut&format=martif"
+}

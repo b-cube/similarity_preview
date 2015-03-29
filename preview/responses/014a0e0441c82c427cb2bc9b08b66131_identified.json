@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC2019'>  <front> <title abbrev='Transmission of IPv6 Packets Over FDDI'>A Method for the Transmission of IPv6 Packets over FDDI Networks</title> <author initials='M.' surname='Crawford' fullname='Matt Crawford'> <organization>Fermilab MS 368</organization> <address> <postal> <street>PO Box 500</street> <street>Batavia</street> <street>IL 60510</street> <country>USA</country></postal> <phone>+1 708 840-3461</phone> <email>crawdad@fnal.gov</email></address></author> <date year='1996' month='October' /> <area>Internet</area> <keyword>FDDI</keyword> <keyword>Fiber Distributed Data Interface</keyword> <keyword>internet protocol version 6</keyword></front>  <seriesInfo name='RFC' value='2019' /> <format type='TXT' octets='12344' target='http://www.rfc-editor.org/rfc/rfc2019.txt' /> <format type='XML' octets='13446' target='http://xml.resource.org/public/rfc/xml/rfc2019.xml' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "014a0e0441c82c427cb2bc9b08b66131", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.2019.xml"
+}

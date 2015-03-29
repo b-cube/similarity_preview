@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr02411</identifier><identifier type=\"pwpk\">50547</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2002-411</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Multibeam mapping of selected areas of the outer continental shelf, northwestern Gulf of Mexico; data, images, and GIS</title></titleInfo><originInfo><dateOther>Sun, 1 Dec 2002 00:00 -0600</dateOther><dateIssued>2002</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Gardner, James V.; Beaudoin, Jonathan D.; Hughes-Clarke, John E.; Dartnell, Peter</namePart><role>Author</role></name><abstract>Following the publication of high-resolution (5-meter spatial resolution) multibeam echosounder (MBES) images of the Flower Garden Banks National Marine Sanctuary area of the northwestern Gulf of Mexico (Gardner et al., 1998), the Flower Garden Banks National Marine Sanctuary (FGBNMS) and the Minerals Management Service (MMS) have been interested in additional MBES data in the area. A coalition of FGBNMS, MMS, and the U.S. Geological Survey (USGS) was formed to map additional areas of interest in the northwestern Gulf of Mexico (fig. 1) in 2002. FGBNMS chose the survey areas, and the USGS chose the MBES. MMS and FGBNMS funded the mapping, and the USGS organized the ship and multibeam systems through a cooperative agreement between the USGS and the University of New Brunswick. The objective of the cruise was to map 12 regions of interest to MMS and the FGBNMS, including Alderdice, Sonnier, Geyer, Bright, Rankin (1 and 2), Jakkula, McNeil, Bouma, McGrail, Rezak, and Sidner Banks.</abstract><physicalDescription><form>sketch maps, 2 refs; HTML document</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/ofr_2002_411.BMP</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/2002/0411</url></location><note type=\"citation/reference\">Multibeam mapping of selected areas of the outer continental shelf, northwestern Gulf of Mexico; data, images, and GIS; 2002; OFR; 2002-411; Open-File Report; Gardner, James V.; Beaudoin, Jonathan D.; Hughes-Clarke, John E.; Dartnell, Peter</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5a96c5511da7f248682ad4bd51de6adc", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr02411"
+}

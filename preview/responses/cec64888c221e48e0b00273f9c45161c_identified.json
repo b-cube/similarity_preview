@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Khan, Amin M</a1>   <a2>Buyuksahin, Umit C</a2>   <a2>Freitag, Felix</a2>   <t1>Incentive-based Resource Assignment and Regulation for Collaborative Cloud Services in Community Networks</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Community networks are a successful example of a collective where communities operate ICT infrastructure based on the principle of reciprocal sharing of network bandwidth. Cloud computing, common in today&amp;#39;s Internet, has however not materialised within community networks. We analyse in this paper socio-technical characteristics of community networks in order to derive scenarios for community clouds. Based on an architecture for such a community cloud, we implement a prototype for the incentive-driven resource assignment component and evaluate its behaviour experimentally. In simulations of large scale community cloud scenarios we study the behaviour of the incentive mechanism in different configurations. Our evaluation gives insight into how the developed mechanisms regulate the consumption of cloud resources. Our results suggest a further integration of this regulation component into current cloud management platforms in order to open them up for the operation of an ecosystem of collaborative cloud services in community networks.&lt;/p&gt;</ab>   <la/>   <k1>cloud computing;                 community networks;                 incentive mechanisms;                 resource regulation;                 </k1>   <pb/>   <pp/>   <yr>2014-12-24</yr>   <ed/>   <ul>https://zenodo.org/record/14877/files/Khan2014_JCSS.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cec64888c221e48e0b00273f9c45161c", 
+    "source_url": "https://zenodo.org/record/14877/export/xw"
+}

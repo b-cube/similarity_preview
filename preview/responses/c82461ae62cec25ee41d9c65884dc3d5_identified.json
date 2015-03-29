@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"    xmlns:dc = \"http://purl.org/dc/elements/1.1/\">  <rdf:Description rdf:about=\"http://dublincore.org/documents/1998/09/dces/\">    <dc:title>Dublin Core Element Set, v 1.0: Reference Description</dc:title>    <dc:description>The Dublin Core is a simple metadata element set to facilitate the discovery of electronic resources</dc:description>    <dc:date>1998-09</dc:date>    <dc:format>text/html</dc:format>    <dc:language>en</dc:language>    <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>  </rdf:Description> </rdf:RDF>   ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c82461ae62cec25ee41d9c65884dc3d5", 
+    "source_url": "http://dublincore.org/documents/1998/09/dces/index.shtml.rdf"
+}

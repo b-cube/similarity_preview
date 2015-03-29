@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"1381\"><idinfo><citation><citeinfo><origin role=\"Sponsor\">Water Resources Discipline</origin><origin role=\"Author\">O'Connor, James E.</origin><origin role=\"Author\">Costa, John E.</origin><title>Large floods in the United States: where they happen and why</title><serinfo><sername>Circular</sername><issue>1245</issue></serinfo><pubinfo><publish>U.S. Geological Survey</publish></pubinfo><onlink>http://water.usgs.gov/pubs/circ/2003/circ1245/</onlink></citeinfo></citation><descript><abstract>Discussion of large floods and occurrence in relationship to regional climatology, topography, and basin size.</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><theme><themekt>USGS Thesaurus</themekt><themekey>floods</themekey><themekey>hazards</themekey><themekey>hydrology</themekey><themekey>river systems</themekey></theme></keywords></idinfo><metainfo><metd>20120904</metd><metc><cntinfo><cntperp><cntper>Schweitzer, Peter N</cntper><cntorg>ER Mineral Resources</cntorg></cntperp><cntaddr><addrtype>mailing address</addrtype><address>12201 Sunrise Valley Drive Mail Stop 954</address><city>Reston</city><state>VA</state><postal>20192</postal><country>USA</country></cntaddr><cntvoice>703-648-6533</cntvoice><cntemail>pschweitzer@usgs.gov</cntemail></cntinfo></metc><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6fb8bd843994ab5d7b448249b60b25b5", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=1381"
+}

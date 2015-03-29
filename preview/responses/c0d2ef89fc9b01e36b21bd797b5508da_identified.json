@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.zseby-packet-selection'> <front> <title>Sampling Techniques for Packet Selection</title>  <author initials='T' surname='Zseby' fullname='Tanja Zseby'>     <organization /> </author>  <date month='August' day='28' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-zseby-packet-selection-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-zseby-packet-selection-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c0d2ef89fc9b01e36b21bd797b5508da", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.zseby-packet-selection.xml"
+}

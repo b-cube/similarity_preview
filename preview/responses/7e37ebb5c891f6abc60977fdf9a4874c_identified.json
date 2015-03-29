@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>School of Economics</title> <link href=\"http://hdl.handle.net/10283/238\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/10283/238</id> <updated>2015-03-19T04:17:14Z</updated> <dc:date>2015-03-19T04:17:14Z</dc:date> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7e37ebb5c891f6abc60977fdf9a4874c", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/atom_1.0/10283/238"
+}

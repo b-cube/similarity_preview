@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0007\">   <front>     <title>Conferencing SIG</title>     <author initials=\"D.\" surname=\"Waite\" fullname=\"David Waite\">       <organization/>       <address>         <email>akuma@jabber.org</email>       </address>     </author>     <date day=\"08\" month=\"May\" year=\"2002\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0007\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0007.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fb9a8e0cc291e03a62c69c9e0f9ae1fa", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0007.xml"
+}

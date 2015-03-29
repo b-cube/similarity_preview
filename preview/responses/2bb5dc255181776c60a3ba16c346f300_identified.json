@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Chicago</ShortName>   <Description>City of Chicago | Data Portal</Description>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://www.cityofchicago.org/etc/designs/city/favicon.ico</Image>   <Url type=\"text/html\" method=\"get\" template=\"http://data.cityofchicago.org/browse?q={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2bb5dc255181776c60a3ba16c346f300", 
+    "source_url": "https://data.cityofchicago.org/opensearch.xml"
+}

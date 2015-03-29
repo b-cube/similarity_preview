@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\">      <title type=\"text\">Mount St. Helens Institute</title>     <subtitle type=\"text\">News and Events</subtitle>     <link rel=\"alternate\" type=\"text/html\" href=\"https://wss13.etapestry.com:8443/sitepreview/http/mshinstitute.org/index.php\" />     <link rel=\"self\" type=\"application/atom+xml\" href=\"http://mshinstitute.org/index.php/site/atom/\" />     <updated>2014-07-24T21:15:23Z</updated>     <rights>Copyright (c) 2014, Administrator</rights>     <generator uri=\"http://expressionengine.com/\" version=\"1.6.8\">ExpressionEngine</generator>     <id>tag:https:,2014:07:24</id>       <entry>       <title>Boots and Bowties &#45; 2014 Annual Auction and Dinner</title>       <link rel=\"alternate\" type=\"text/html\" href=\"http://mshinstitute.org/index.php/events/boots_and_bowties_-_2014_annual_auction_and_dinner/ \" />       <id>tag:https:,2014:/wss13.etapestry.com:8443/sitepreview/http/mshinstitute.org/index.php/36.448</id>       <published>2014-07-24T21:10:22Z</published>       <updated>2014-07-24T21:15:23Z</updated>       <author>             <name>Administrator</name>             <email>Info@mshinstitute.org</email>                   </author>        <content type=\"html\"><![CDATA[         <p>Grab your favorite boots - hikers, cowboy or rubber - and your bowties and dresses for a night of fun!! Boots &amp; Bowties is a benefit for Mount St. Helens Institute on Saturday, November 15, 2014 at the Hilton Vancouver for a great night! Great food, a spectacular auction, and much more, provide for this one of a kind event.</p>  <p><strong>Visit the Boots and Bowties website <a href=\"https://mshi.ejoinme.org/?tabid=546428\" title=\"HERE \">HERE </a></strong> </p>       ]]></content>     </entry>      <entry>       <title>News</title>       <link rel=\"alternate\" type=\"text/html\" href=\"http://mshinstitute.org/index.php/news_and_research/news/ \" />       <id>tag:https:,2009:/wss13.etapestry.com:8443/sitepreview/http/mshinstitute.org/index.php/38.48</id>       <published>2009-12-04T00:35:48Z</published>       <updated>2013-08-20T21:15:49Z</updated>       <author>             <name>Admin</name>             <email>patrick.howard@etapestry.com</email>                   </author>        <content type=\"html\"><![CDATA[         <h5>New and fascinating scientific discoveries are happening in the vast, living laboratory we call Mount St. Helens.</h5>  <p><strong>OPB Oregon Field Guide:</strong> Elk at Mount St. Helens, April 12, 2012 </p>  <script type=\"text/javascript\" src=\"http://media.opb.org/clips/embed/qX24793r20120417150336.js\"></script>       ]]></content>     </entry>   </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b7850f07089faa3168d730aa42bd8918", 
+    "source_url": "http://mshinstitute.org/index.php/main/atom/"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0078\">   <front>     <title>Non-SASL Authentication</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"29\" month=\"October\" year=\"2008\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0078\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0078.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "eddbb7b9db636ac64773e311acfd5ce7", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0078.xml"
+}

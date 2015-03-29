@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>FOSS Public Data Set</dc:title>    <dcterms:alternative>FOSS Public Discovery Metadata</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>FOSS, Reporting, Fisheries Dependent Data, Non Confidential Data, Landings</dc:subject>    <dcterms:abstract>The purpose of the Fisheries One-Stop-Shop (FOSS) is to make fisheries dependent information readily available to fisheries managers, scientists and the American public at a national as well as regional level.  Collection and management of fisheries dependent data are distributed throughout NOAA Fisheries, State Fisheries, management agencies and regional Fisheries Information Networks (FINs).  The distributed nature of NOAA Fisheries information systems, differences in collection authorities and confidentiality requirements increases the importance of this flexible technical architecture that can meet the changing needs for information at national, regional and local levels of resolution.  At the same time, the technical architecture is scalable to meet enterprise wide requirements for management of other types of fisheries data and fisheries independent data. Currently available via FOSS are the summarized, non-confidential, annual Commercial Landings by state as provided through the Atlantic Coastal Cooperative Statistics Program (ACCSP), the Gulf of Mexico Fisheries Information Network (GulfFIN).  Recreational Landings estimates are available and provided via NMFS Headquarters.  In FY2011, FOSS will be expanded to include all commercial landings nationally.</dcterms:abstract>    <dc:publisher>NMFS Office of Science and Technology</dc:publisher>    <dc:creator>NMFS Office of Science and Technology</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/10574</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/10422</dcterms:isPartOf>    <dcterms:spatial>                         name=Coastal Waters around the United States and the Caribbean;                     </dcterms:spatial> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ae84788772f3137defbbbac42cfe57ee", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/10574/dublin-core"
+}

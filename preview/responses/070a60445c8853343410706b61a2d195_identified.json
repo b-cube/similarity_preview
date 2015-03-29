@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Charmouth Heritage Coast Centre</ShortName>   <Description>Charmouth Heritage Coast Centre</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.charmouth.org/chcc/templates/yoo_venture/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.charmouth.org/chcc/component/search/?format=opensearch\"/>   <Url type=\"text/html\" template=\"http://www.charmouth.org/chcc/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "070a60445c8853343410706b61a2d195", 
+    "source_url": "http://www.charmouth.org/chcc/component/search/?format=opensearch"
+}

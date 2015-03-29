@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Simultaneous high-resolution LIF measurements of dissolved gas concentration fields and measurements of wave slope at a wavy free water surface with wind-induced turbulence</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Friedl</surname>             <given-names>Felix</given-names>           </name>           <aff>             <institution>Institut f\\ufffd\\ufffdr Umweltphysik, Heidelberg University</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>J\\ufffd\\ufffdhne</surname>             <given-names>Bernd</given-names>           </name>           <aff>             <institution>Interdisciplinary Center for Scientific Computing (IWR), Heidelberg University</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Herzog</surname>             <given-names>Alexandra</given-names>           </name>           <aff>             <institution>Institut f\\ufffd\\ufffdr Umweltphysik, Heidelberg University</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2010</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/15132\"/>       <self-uri xlink:href=\"http://ltces.dem.ist.utl.pt/lxlaser/lxlaser2010/\"/>       <self-uri xlink:href=\"https://zenodo.org/record/15132/files/HerzogFriedlJaehne_SympApplLaserTechFluidMech_Lisbon2010a.pdf\"/>     </article-meta>     <abstract>&lt;p&gt;In this study we present a significantly improved LIF technique that is suitable for high-resolution measurements of dissolved gas concentration fields in a vertical plane oriented in wind-direction close to a wavy water surface in wind/wave facilities.&lt;/p&gt;</abstract>   </front>   <article-type>user-asi</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6604b819d8cf1611c6a599880898b2e3", 
+    "source_url": "https://zenodo.org/record/15132/export/xn"
+}

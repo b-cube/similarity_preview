@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\"> <service> <engineName>Movable Type Pro 4.38</engineName> <engineLink>http://www.sixapart.com/movabletype/</engineLink> <homePageLink>http://www.kcet.org/support/</homePageLink> <apis> <api name=\"MetaWeblog\" preferred=\"true\" apiLink=\"http://www.kcet.org/cgi-bin/mt/mt-xmlrpc.cgi\" blogID=\"574\" /> <api name=\"MovableType\" preferred=\"false\" apiLink=\"http://www.kcet.org/cgi-bin/mt/mt-xmlrpc.cgi\" blogID=\"574\" /> <api name=\"Blogger\" preferred=\"false\" apiLink=\"http://www.kcet.org/cgi-bin/mt/mt-xmlrpc.cgi\" blogID=\"574\" /> <api name=\"Atom\" preferred=\"false\" apiLink=\"http://www.kcet.org/cgi-bin/mt/mt-atom.cgi/weblog\" blogID=\"574\" /> </apis> </service> </rsd>     ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0879f56c24da8146bef61423fe1c86c5", 
+    "source_url": "http://www.kcet.org/support/rsd.xml"
+}

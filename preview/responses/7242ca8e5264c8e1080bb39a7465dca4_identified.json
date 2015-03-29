@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>J\\ufffd\\ufffdhne, Bernd</author>         </authors>       </contributors>       <titles>         <title>Vergleichende Analyse moderner Bildsensoren f\\ufffd\\ufffdr die optische Messtechnik</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.14560</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>image sensor</keyword>         <keyword>optical metrology</keyword>         <keyword>radiometric calibration</keyword>         <keyword>SNR</keyword>       </keywords>       <dates>         <year>2004</year>         <pub-dates>           <date>2004-03-15</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;This paper reviews modern imaging sensors for optical metrology. It is pointed out that the relation between the signal/noise ratio and the irradiation and the statistical description of the spatial inhomogeneities are the most important quality parameters. CCD and CMOS sensors are compared.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7242ca8e5264c8e1080bb39a7465dca4", 
+    "source_url": "https://zenodo.org/record/14560/export/xe"
+}

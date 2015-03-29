@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/usage/reviews/\">    <dc:title>DCMI Usage Board Review of Application Profiles</dc:title>    <dc:date>2009-03-02</dc:date>    <dc:format>text/html</dc:format>    <dc:language>en</dc:language>    <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>    <dc:creator>DCMI Usage Board</dc:creator> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b97d139b39b76bd375e6d86a80ad6e5e", 
+    "source_url": "http://dublincore.org/usage/reviews/index.shtml.rdf"
+}

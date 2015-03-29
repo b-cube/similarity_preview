@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0254'>  <front> <title>Scenarios for using ARPANET computers</title> <author initials='A.' surname='Bhushan' fullname='A. Bhushan'> <organization /></author> <date year='1971' month='October' /></front>  <seriesInfo name='RFC' value='254' /> <format type='TXT' octets='40998' target='http://www.rfc-editor.org/rfc/rfc254.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ad2f936cc49a00631d39f1869f8d579c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0254.xml"
+}

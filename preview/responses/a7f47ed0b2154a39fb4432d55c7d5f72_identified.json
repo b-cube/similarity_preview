@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <repomd xmlns=\"http://linux.duke.edu/metadata/repo\" xmlns:rpm=\"http://linux.duke.edu/metadata/rpm\">  <revision>1426618820</revision>  <tags>    <repo>obsrepository://build.opensuse.org/windows:mingw:win32/openSUSE_Factory</repo>  </tags> <data type=\"filelists\">   <checksum type=\"sha256\">7bf3e8e617a76cfad98081a8ebdbb00a99c6a8fc8299af1697dd93158b422d45</checksum>   <open-checksum type=\"sha256\">4ea2dd09ab8cd92f7828f573becfe26597baf2a50abd562927490357100e2f34</open-checksum>   <location href=\"repodata/7bf3e8e617a76cfad98081a8ebdbb00a99c6a8fc8299af1697dd93158b422d45-filelists.xml.gz\"/>   <timestamp>1426618957</timestamp>   <size>1148573</size>   <open-size>17696861</open-size> </data> <data type=\"other\">   <checksum type=\"sha256\">6e5c318c07b9179faff6dea2b17cdd0c5d776893e750eef88dd45774f720ae59</checksum>   <open-checksum type=\"sha256\">d77c289c4b70f4ea216e9c105b8b441d22169ddeac7969e649f92503bbbf1f86</open-checksum>   <location href=\"repodata/6e5c318c07b9179faff6dea2b17cdd0c5d776893e750eef88dd45774f720ae59-other.xml.gz\"/>   <timestamp>1426618957</timestamp>   <size>120578</size>   <open-size>646983</open-size> </data> <data type=\"primary\">   <checksum type=\"sha256\">89c06d9cc07190a2c6cbfc937b4b42d176f9ce8fa51f1de514e41ff01dce4597</checksum>   <open-checksum type=\"sha256\">41c71bfd94d769f108b152ebed9d5e7df5fa8007d6b2de92a6102caf53e3937a</open-checksum>   <location href=\"repodata/89c06d9cc07190a2c6cbfc937b4b42d176f9ce8fa51f1de514e41ff01dce4597-primary.xml.gz\"/>   <timestamp>1426618957</timestamp>   <size>367377</size>   <open-size>3398476</open-size> </data> </repomd> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a7f47ed0b2154a39fb4432d55c7d5f72", 
+    "source_url": "http://download.opensuse.org/repositories/windows:/mingw:/win32/openSUSE_Factory/repodata/repomd.xml"
+}

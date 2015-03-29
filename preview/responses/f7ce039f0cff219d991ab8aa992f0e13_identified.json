@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>A Characterization of Markov Equivalence Classes for Acyclic Digraphs</dc:title><dc:creator>Andersson, Steen A.</dc:creator><dc:creator>Madigan, David B.</dc:creator><dc:creator>Perlman, Michael D.</dc:creator><dc:date>1997</dc:date><dc:type>text</dc:type><dc:subject>Mathematics</dc:subject><dc:subject>Statistics</dc:subject><dc:subject>Theoretical mathematics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8FX77J3</dc:identifier><dc:description>Undirected graphs and acyclic digraphs (ADG's), as well as their mutual extension to chain graphs, are widely used to describe dependencies among variables in multiviarate distributions. In particular, the likelihood functions of ADG models admit convenient recursive factorizations that often allow explicit maximum likelihood estimates and that are well suited to building Bayesian networks for expert systems. Whereas the undirected graph associated with a dependence model is uniquely determined, there may be many ADG's that determine the same dependence (i.e., Markov) model. Thus, the family of all ADG's with a given set of vertices is naturally partitioned into Markov-equivalence classes, each class being associated with a unique statistical model. Statistical procedures, such as model selection of model averaging, that fail to take into account these equivalence classes may incur substantial computational or other inefficiences. Here it is show that each Markov-equivalence class is uniquely determined by a single chain graph, the essential graph, that is itself simultaneously Markov equivalent to all ADG's in the equivalence class. Essential graphs are characterized, a polynomial-time algorithm for their construction is given, and their applications to model selection and other statistical questions are described.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f7ce039f0cff219d991ab8aa992f0e13", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A173896.xml"
+}

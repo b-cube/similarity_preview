@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>The Aereo dilemma and copyright in the cloud</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Horten</surname>             <given-names>Monica</given-names>           </name>           <aff>             <institution>London School of Economics and Political Science</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/12226\"/>       <self-uri xlink:href=\"https://zenodo.org/record/12226/files/CREATe-Working-Paper-2014-10.pdf\"/>       <self-uri xlink:href=\"https://zenodo.org/record/12226/files/CREATe-Working-Paper-2014-10.png?subformat=icon-90\"/>     </article-meta>     <abstract>&lt;p&gt;Aereo is a cloud-based startup company that offers people the possibility to watch live (or nearly live) television on computing devices and smartphones. It was sued by the major US broadcasters for copyright liability and the case went to the Supreme Court where Aereo lost. It encapsulates a dilemma facing courts in the US and EU &amp;ndash; that a ruling to shut down Aereo, on the basis that it is unlawful under copyright law, could threaten innovation in areas such as the cloud. The Aereo case turned on a narrow point of US copyright law, which this paper discusses. The core issue for this paper was to analyse the legal dispute between Aereo and the broadcasters as documented in the court papers, including transcripts of the hearing, and submissions in support of both parties. A key finding was that the technical design and characterisation of the service lay at the heart of the argument over copyright. The US courts deliberated at length as whether Aereo is more like a cable TV company, or is it merely an equipment provider, providing a digital video recorder in the cloud. The paper discusses whether technical design matters or whether the substantive effect could be the determining factor. The paper then broadens the perspective to examine the position of cloud service providers. It does so in general terms, using amicus curiae briefs and other documentation from the US court case, before concluding with a consideration of the EU position. An important finding is that the complexities of content acquisition, transmission and format-shifting will generate considerable legal uncertainty.&lt;/p&gt;</abstract>   </front>   <article-type>user-create</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aaa69b1dda16456f0361efb6d82bcf3a", 
+    "source_url": "http://zenodo.org/record/12226/export/xn"
+}

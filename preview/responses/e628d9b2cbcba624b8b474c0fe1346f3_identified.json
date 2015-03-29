@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <oembed><author_url>http://www.youtube.com/user/Kowch737</author_url><thumbnail_url>http://i.ytimg.com/vi/ip6LsXosK5Q/hqdefault.jpg</thumbnail_url><provider_url>http://www.youtube.com/</provider_url><type>video</type><height>270</height><title>Weather Satellites</title><html>&lt;iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/ip6LsXosK5Q?feature=oembed\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</html><provider_name>YouTube</provider_name><thumbnail_width>480</thumbnail_width><thumbnail_height>360</thumbnail_height><version>1.0</version><author_name>Kowch737</author_name><width>480</width></oembed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e628d9b2cbcba624b8b474c0fe1346f3", 
+    "source_url": "http://www.youtube.com/oembed?format=xml&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dip6LsXosK5Q"
+}

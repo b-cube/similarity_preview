@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"><ShortName>FedoraProject (en)</ShortName><Description>FedoraProject (en)</Description><Image height=\"16\" width=\"16\" type=\"image/x-icon\">https://fedoraproject.org/favicon.ico</Image><Url type=\"text/html\" method=\"get\" template=\"https://fedoraproject.org/w/index.php?title=Special:Search&amp;search={searchTerms}\" /><Url type=\"application/x-suggestions+json\" method=\"get\" template=\"https://fedoraproject.org/w/api.php?action=opensearch&amp;search={searchTerms}&amp;namespace=0|4|6|12|14|106|108|110|112|114|116\" /><moz:SearchForm>https://fedoraproject.org/wiki/Special:Search</moz:SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "55544b390167eb18dc774d8bdbc63a3b", 
+    "source_url": "http://fedoraproject.org/w/opensearch_desc.php"
+}

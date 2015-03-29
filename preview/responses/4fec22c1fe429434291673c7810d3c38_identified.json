@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding=\"ISO-8859-1\" ?> <schema    targetNamespace=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ms=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ogc=\"http://www.opengis.net/ogc\"    xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"    xmlns=\"http://www.w3.org/2001/XMLSchema\"    xmlns:gml=\"http://www.opengis.net/gml\"    elementFormDefault=\"qualified\" version=\"0.1\" >    <import namespace=\"http://www.opengis.net/gml\"           schemaLocation=\"http://schemas.opengis.net/gml/3.1.1/base/gml.xsd\" />    <element name=\"mrds\"             type=\"ms:mrdsType\"             substitutionGroup=\"gml:_Feature\" />    <complexType name=\"mrdsType\">     <complexContent>       <extension base=\"gml:AbstractFeatureType\">         <sequence>           <element name=\"geometry\" type=\"gml:PointPropertyType\" minOccurs=\"0\" maxOccurs=\"1\"/>           <element name=\"dep_id\" type=\"string\"/>           <element name=\"site_name\" type=\"string\"/>           <element name=\"dev_stat\" type=\"string\"/>           <element name=\"fips_code\" type=\"string\"/>           <element name=\"huc_code\" type=\"string\"/>           <element name=\"quad_code\" type=\"string\"/>           <element name=\"url\" type=\"string\"/>           <element name=\"code_list\" type=\"string\"/>         </sequence>       </extension>     </complexContent>   </complexType>  </schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4fec22c1fe429434291673c7810d3c38", 
+    "source_url": "http://mrdata.usgs.gov/wfs/mrds?request=describefeaturetype&service=WFS&version=1.1.0&typename=mrds"
+}

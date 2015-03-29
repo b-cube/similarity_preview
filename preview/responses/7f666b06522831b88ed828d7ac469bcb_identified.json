@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>henrikstranneheim</a1>   <a2>Robin Andeer</a2>   <a2>Kenny Billiau</a2>   <t1>MIP v2.2.0</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>Mutation Identification Pipeline. Read the latest documentation:</ab>   <la/>   <k1/>   <pb/>   <pp/>   <yr>2015-03-05</yr>   <ed/>   <ul>https://zenodo.org/record/15852/files/MIP-v2.2.0.zip;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7f666b06522831b88ed828d7ac469bcb", 
+    "source_url": "https://zenodo.org/record/15852/export/xw"
+}

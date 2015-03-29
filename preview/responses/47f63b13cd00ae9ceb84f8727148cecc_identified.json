@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Pointin, Fabien</author>           <author>Payne, Mark R.</author>         </authors>       </contributors>       <titles>         <title>A Resolution to the Blue Whiting (Micromesistius poutassou) Population Paradox?</title>         <secondary-title/>       </titles>       <doi>10.1371/journal.pone.0106237</doi>       <pages>e106237</pages>       <volume>9</volume>       <number/>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-09-03</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;We provide the strongest evidence to date supporting the existence of two independent blue whiting (&lt;em&gt;Micromesistius poutassou&lt;/em&gt; (Risso, 1827)) populations in the North Atlantic. In spite of extensive data collected in conjunction with the fishery, the population structure of blue whiting is poorly understood. On one hand, genetic, morphometric, otolith and drift modelling studies point towards the existence of two populations, but, on the other hand, observations of adult distributions point towards a single population. A paradox therefore arises in attempting to reconcile these two sets of information. Here we analyse 1100 observations of blue whiting larvae from the Continuous Plankton Recorder (CPR) from 1948&amp;ndash;2005 using modern statistical techniques. We show a clear spatial separation between a northern spawning area, in the Rockall Trough, and a southern one, off the Porcupine Seabight. We further show a difference in the timing of spawning between these sites of at least a month, and meaningful differences in interannual variability. The results therefore support the two-population hypothesis. Furthermore, we resolve the paradox by showing that the acoustic observations cited in support of the single-population model are not capable of resolving both populations, as they occur too late in the year and do not extend sufficiently far south to cover the southern population: the confusion is the result of a simple observational artefact. We conclude that blue whiting in the North Atlantic comprises two populations.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "47f63b13cd00ae9ceb84f8727148cecc", 
+    "source_url": "https://zenodo.org/record/11943/export/xe"
+}

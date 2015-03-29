@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0012\">   <front>     <title>Last Activity</title>     <author initials=\"J.\" surname=\"Miller\" fullname=\"Jeremie Miller\">       <organization/>       <address>         <email>jer@jabber.org</email>       </address>     </author>     <author initials=\"T.\" surname=\"Muldowney\" fullname=\"Thomas Muldowney\">       <organization/>       <address>         <email>temas@jabber.org</email>       </address>     </author>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"26\" month=\"November\" year=\"2008\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0012\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0012.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3b786a8f3e6dbb49a40f63b6a7192707", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0012.xml"
+}

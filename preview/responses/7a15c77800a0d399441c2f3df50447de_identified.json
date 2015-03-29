@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>HITS-CLIP and Integrative Modeling Define the Rbfox Splicing-Regulatory Network Linked to Brain Development and Autism</dc:title><dc:creator>Weyn-Vanhentenryck, Sabastien Matthieu</dc:creator><dc:creator>Mele, Aldo</dc:creator><dc:creator>Yan, Qinghong</dc:creator><dc:creator>Sun, Shuying</dc:creator><dc:creator>Xue, Chenghai</dc:creator><dc:creator>Farny, Natalie</dc:creator><dc:creator>Zhang, Zuo</dc:creator><dc:creator>Silver, Pamela A.</dc:creator><dc:creator>Herre, Margaret</dc:creator><dc:creator>Zhang, Michael Q.</dc:creator><dc:creator>Krainer, Adrian R.</dc:creator><dc:creator>Darnell, Robert B.</dc:creator><dc:creator>Zhang, Chaolin</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Biochemistry</dc:subject><dc:subject>Genetics</dc:subject><dc:subject>Neurosciences</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8PN94BB</dc:identifier><dc:description>The RNA binding proteins Rbfox1/2/3 regulate alternative splicing in the nervous system, and disruption of Rbfox1 has been implicated in autism. However, comprehensive identification of functional Rbfox targets has been challenging. Here, we perform HITS-CLIP for all three Rbfox family members in order to globally map, at a single-nucleotide resolution, their in vivo RNA interaction sites in the mouse brain. We find that the two guanines in the Rbfox binding motif UGCAUG are critical for protein-RNA interactions and crosslinking. Using integrative modeling, these interaction sites, combined with additional datasets, define 1,059 direct Rbfox target alternative splicing events. Over half of the quantifiable targets show dynamic changes during brain development. Of particular interest are 111 events from 48 candidate autism-susceptibility genes, including syndromic autism genes Shank3, Cacna1c, and Tsc2. Alteration of Rbfox targets in some autistic brains is correlated with downregulation of all three Rbfox proteins, supporting the potential clinical relevance of the splicing-regulatory network.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7a15c77800a0d399441c2f3df50447de", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A179708.oai_dc_xml"
+}

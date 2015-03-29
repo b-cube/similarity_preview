@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xslt-30-20131212'            target='http://www.w3.org/TR/2013/WD-xslt-30-20131212'> <front> <title>XSL Transformations (XSLT) Version 3.0</title>  <author initials='M.' surname='Kay' fullname='Michael Kay'>     <organization /> </author>  <date month='December' day='12' year='2013' /> </front>  <seriesInfo name='World Wide Web Consortium LastCall' value='WD-xslt-30-20131212' /> <format type='HTML' target='http://www.w3.org/TR/2013/WD-xslt-30-20131212' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a18f50696c6e99e1c50f59a6aa9f9dc2", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xslt-30-20131212.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/oilgas/ShaleGas_2012_dynamic/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/oilgas/ShaleGas_2012/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/oilgas/US_cells0506/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/oilgas/US_historical0506/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/oilgas/world_assessmentunits_2012/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9417ac743d6f72668cb622e76d023161", 
+    "source_url": "http://certmapper.cr.usgs.gov/arcgis/rest/services/oilgas?f=sitemap"
+}

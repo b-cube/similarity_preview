@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2249.1/4514\"> <title>2007 Texas Conference on Digital Libraries</title> <link>http://hdl.handle.net/2249.1/4514</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2249.1/4528\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2249.1/4526\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2249.1/4525\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2249.1/4524\"/> </rdf:Seq> </items> <dc:date>2015-03-05T06:49:57Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2249.1/4528\"> <title>Shibboleth in the Texas Digital Library</title> <link>http://hdl.handle.net/2249.1/4528</link> <description>Shibboleth in the Texas Digital Library Powerpoint presented at the 2007 Texas Conference on Digital Libraries. </description> <dc:date>2007-05-30T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2249.1/4526\"> <title>Developing a Common Submission System for ETDs in the Texas Digital Library</title> <link>http://hdl.handle.net/2249.1/4526</link> <description>Developing a Common Submission System for ETDs in the Texas Digital Library </description> <dc:date>2007-05-30T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2249.1/4525\"> <title>A Manakin Case Study Visualizing geospatial metadata and complex items</title> <link>http://hdl.handle.net/2249.1/4525</link> <description>A Manakin Case Study Visualizing geospatial metadata and complex items </description> <dc:date>2007-05-30T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2249.1/4524\"> <title>The Texas Digital Library Preservation Network</title> <link>http://hdl.handle.net/2249.1/4524</link> <description>The Texas Digital Library Preservation Network </description> <dc:date>2007-05-30T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9e3754e313ea652c6521a4225588d022", 
+    "source_url": "https://tdl-ir.tdl.org/tdl-ir/feed/rss_1.0/2249.1/4514"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">             <channel rdf:about=\"http://www.icsu.org/search_rss\">   <title>ICSU</title>   <link>http://www.icsu.org</link>    <description>                  These are the search results for the query, showing results 1 to 1.            </description>            <image rdf:resource=\"http://www.icsu.org/logo.png\"/>    <items>     <rdf:Seq>                <rdf:li rdf:resource=\"http://www.icsu.org/events/partner-organization-events/world-weather-open-science-conference\"/>            </rdf:Seq>   </items>  </channel>     <item rdf:about=\"http://www.icsu.org/events/partner-organization-events/world-weather-open-science-conference\">     <title>World Weather Open Science Conference</title>     <link>http://www.icsu.org/events/partner-organization-events/world-weather-open-science-conference</link>     <description>The International Council for Science is co-organizing the first World Weather Open Science Conference, to be held in Montreal, Canada, in August 2014</description>     <content:encoded xmlns:content=\"http://purl.org/rss/1.0/modules/content/\"><![CDATA[<p>This conference will bring together the weather science and user communities for the first time to review the state-of-the-art and map out the scientific frontiers for the next decade and more.</p>]]></content:encoded>     <dc:publisher>No publisher</dc:publisher>     <dc:creator>Johannes Mengel</dc:creator>     <dc:rights></dc:rights>            <dc:subject>Environment</dc:subject>                 <dc:subject>Foresight</dc:subject>                 <dc:subject>Earth system science</dc:subject>                 <dc:subject>Monitoring and observations</dc:subject>          <dc:date>2013-09-23T13:39:58Z</dc:date>     <dc:type>Event</dc:type>   </item>     </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "60652112e67290831dd896d46fdc9bfe", 
+    "source_url": "http://www.icsu.org/search_rss?Subject=Environment&path=/icsu/events"
+}

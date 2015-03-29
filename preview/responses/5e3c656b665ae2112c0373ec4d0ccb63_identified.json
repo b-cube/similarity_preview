@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for Alfalagunemine -->  <jnlp spec=\"1.0+\" codebase=\"http://phet.colorado.edu/sims/nuclear-physics\" href=\"alpha-decay_et.jnlp\">      <information>          <title>Alfalagunemine</title>          <vendor>University of Colorado, Department of Physics</vendor>          <description>@PROJECT.DESCRIPTION@</description>          <description kind=\"short\">The Alfalagunemine Simulation</description>          <offline-allowed/>      </information>      <resources>          <j2se version=\"1.4+\"/>          <property name=\"javaws.phet.locale\" value=\"et\" /> <property name=\"javaws.user.language\" value=\"et\" />          <jar href=\"nuclear-physics_all.jar\"/>      </resources>            <application-desc main-class=\"edu.colorado.phet.nuclearphysics.AlphaDecayApplication\">                </application-desc>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5e3c656b665ae2112c0373ec4d0ccb63", 
+    "source_url": "http://phet.colorado.edu/sims/nuclear-physics/alpha-decay_et.jnlp"
+}

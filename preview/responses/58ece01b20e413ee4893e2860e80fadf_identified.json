@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Review of Ronit Ricci \"Islam Translated\"</dc:title><dc:creator>Ahmed, Manan</dc:creator><dc:date>2015</dc:date><dc:type>text</dc:type><dc:subject>Asian history</dc:subject><dc:subject>South Asian studies</dc:subject><dc:subject>Islamic culture</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D86D5RV7</dc:identifier><dc:description>Review of Ronit Ricci \"Islam Translated\" (2011) appearing in IESHR</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "58ece01b20e413ee4893e2860e80fadf", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A184092.dc_xml"
+}

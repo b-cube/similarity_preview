@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <META xmlns=\"http://www.w3.org/2002/01/P3Pv1\" xml:lang=\"en\">     <POLICY-REFERENCES>         <POLICY-REF about=\"/dccece/snp/w3c/policy.xml\">             <INCLUDE>/*</INCLUDE>         </POLICY-REF>      </POLICY-REFERENCES> </META> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d427c2da0573c6d59b090d3e2686080e", 
+    "source_url": "https://dhs.arkansas.gov/dccece/snp/w3c/p3p.xml"
+}

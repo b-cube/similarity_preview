@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0019\">   <front>     <title>Streamlining the SIGs</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"20\" month=\"March\" year=\"2002\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0019\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0019.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "60ca831e192eee42de0cf431e5d9eb73", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0019.xml"
+}

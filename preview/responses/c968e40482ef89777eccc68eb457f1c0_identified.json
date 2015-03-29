@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <?xml-stylesheet type='text/xsl' href='streets.xsl'?> <Project xsi:schemaLocation=\"iTree streets.xsd\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"iTree\">     <Inventory>         <Record>             <Id>1</Id>             <Zone>1</Zone>             <SpCode>VOID</SpCode>             <CityManaged>1</CityManaged>             <DBH>2</DBH>             <NoteThisTree>true</NoteThisTree>             <IPED>                 <Pest>4038</Pest>                 <TreeStress>                     <TSDieback>3</TSDieback>                     <TSEpiSprout>1</TSEpiSprout>                 </TreeStress>             </IPED>         </Record>         <Record>             <Id>2</Id>             <Zone>1</Zone>             <SpCode>VOID</SpCode>             <CityManaged>1</CityManaged>             <DBH>3</DBH>             <GPS_Lat>89.3434S</GPS_Lat>             <GPS_Lon>180</GPS_Lon>             <IPED>                 <Pest>-1</Pest>                 <TreeStress>                     <TSEpiSprout>1</TSEpiSprout>                     <TSEnvStress>5</TSEnvStress>                 </TreeStress>             </IPED>         </Record>         <Record>             <Id>3</Id>             <Zone>1</Zone>             <SpCode>VOID</SpCode>             <CityManaged>1</CityManaged>             <DBH>5</DBH>         </Record>     </Inventory> </Project> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c968e40482ef89777eccc68eb457f1c0", 
+    "source_url": "http://www.itreetools.org/xml/iped.xml"
+}

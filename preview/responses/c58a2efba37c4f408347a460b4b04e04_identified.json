@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc = \"http://purl.org/dc/elements/1.1/\">  <rdf:Description about=\"http://dublincore.org/documents/2001/10/26/dcmi-namespace/\">     <dc:title>Namespace Policy for the Dublin Core Metadata Initiative    (DCMI)</dc:title>     <dc:description>This document specifies the conventions used for identifying current and future DCMI namespaces.  All DCMI recommendations that make use of namespaces will conform to this recommendation. </dc:description>     <dc:date>2001-10-26</dc:date>    <dc:format>text/html</dc:format>    <dc:language>en</dc:language>    <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>    <dc:contributor>Andy Powell</dc:contributor>    <dc:contributor>Harry Wagner</dc:contributor>    <dc:contributor>Stuart Weibel</dc:contributor>    <dc:contributor>Tom Baker</dc:contributor>    <dc:contributor>Tod Matola</dc:contributor>    <dc:contributor>Eric Miller</dc:contributor>  </rdf:Description> </rdf:RDF>   ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c58a2efba37c4f408347a460b4b04e04", 
+    "source_url": "http://dublincore.org/documents/2001/10/26/dcmi-namespace/index.shtml.rdf"
+}

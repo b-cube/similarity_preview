@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>DSpace 'Live CD'</title> <link href=\"http://hdl.handle.net/2160/563\" rel=\"alternate\"/> <subtitle>A collection to house the DSpace 'Live CD' files</subtitle> <id>http://hdl.handle.net/2160/563</id> <updated>2015-03-19T06:41:10Z</updated> <dc:date>2015-03-19T06:41:10Z</dc:date> <entry> <title>DSpace Live CD (version 1.5.1 beta)</title> <link href=\"http://hdl.handle.net/2160/641\" rel=\"alternate\"/> <author> <name>Yates, Chris</name> </author> <author> <name>Lewis, Stuart</name> </author> <id>http://hdl.handle.net/2160/641</id> <updated>2008-08-27T10:50:16Z</updated> <published>2008-08-22T12:54:04Z</published> <summary type=\"text\">DSpace Live CD (version 1.5.1 beta) Yates, Chris; Lewis, Stuart THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </summary> <dc:date>2008-08-22T12:54:04Z</dc:date> </entry> <entry> <title>DSpace Live CD (version 1.5)</title> <link href=\"http://hdl.handle.net/2160/565\" rel=\"alternate\"/> <author> <name>Yates, Chris</name> </author> <author> <name>Lewis, Stuart</name> </author> <id>http://hdl.handle.net/2160/565</id> <updated>2008-07-21T10:59:11Z</updated> <published>2008-05-06T00:00:00Z</published> <summary type=\"text\">DSpace Live CD (version 1.5) Yates, Chris; Lewis, Stuart Burn this .iso file to a DVD, and boot your computer using it. The latest version of the Live CD is 'DSpace Live CD - 1-5-0 v2.iso' Log in using the username 'dspace' and the password 'dspace'. </summary> <dc:date>2008-05-06T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c96df65af6ea6e246ac2f1db7f086b17", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/563"
+}

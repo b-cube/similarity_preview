@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <psh>   <responseDate>2015-03-19T22:58:21Z</responseDate>   <request verb=\"ListSetTypes\">http://opendoar.org/demos/psh.php</request>   <ListSetTypes>     <setType>       <setTypeSpec>repositoryType</setTypeSpec>       <setTypeName>Type of repository</setTypeName>     </setType>     <setType>       <setTypeSpec>operationalStatus</setTypeSpec>       <setTypeName>Repository's operational status</setTypeName>     </setType>     <setType>       <setTypeSpec>country</setTypeSpec>       <setTypeName>Repository's home country</setTypeName>     </setType>     <setType>       <setTypeSpec>continent</setTypeSpec>       <setTypeName>Repository's home continent</setTypeName>     </setType>     <setType>       <setTypeSpec>subject</setTypeSpec>       <setTypeName>Repository's Subject coverage</setTypeName>     </setType>   </ListSetTypes> </psh>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3e1e1d3b6001914d9b7099e67bdaff4b", 
+    "source_url": "http://opendoar.org/demos/psh.php?verb=ListSetTypes"
+}

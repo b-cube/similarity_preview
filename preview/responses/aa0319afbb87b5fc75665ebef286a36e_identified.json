@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Why2006 </Local-number>  <Author>Why, S. </Author>  <Title>Managing overfishing and destructive fisheries on coral reefs in the Republic of the Marshall Islands, a US freely associated state </Title>  <Publication-Date><caldate>2006 </caldate></Publication-Date>  <Extent>26 </Extent>  <Type-Period-Note>Final Project Report, October 2004 - May 2006 </Type-Period-Note>  <Notes>FY2005 CRCP Project ID 1413; Project Title: General Coral Conservation Grants; Principal Investigator: Andy Bruckner. Grant: NA04NMF4630336 </Notes>  <grantid>  <id>NA04NMF4630336 </id>  </grantid>  <Abstract>\"This is the final project report, discussing outcomes of project activities taking place in the Marshall Islands from October 2004 to May 2006. These activities continue. An end-of-project financial report is also attached. Six and 12 months progress reports were submitted to NOAA. This has been phase 2 of a long term project, with phase 1 taking place from October 2002 to March 2004, supported by an earlier NOAA CRC grant. The specific goal of this project has been to help eliminate destructive fishing and overfishing associated with the trade in live reef food fish (LRFFT) in the Republic of the Marshall Islands (RMI). The overall goal is the conservation and sustainable use of RMI's coral reef ecosystems and resources. Project tasks were grouped under three objectives concerned with: 1) community-based fisheries management planning and awareness, 2) government LRFFT observer training, regulation and monitoring programs, and 3) school and college awareness programs promoting marine conservation.\" </Abstract>  <Date-Time-Last-Modified>20100817000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/1413/NA04NMF4630336_FinalReport_mgmt_fishing_RMI.pdf </URL>  <project>  <ID>1413 </ID>  <title>General Coral Conservation Grants </title>  <PI>Andy Bruckner </PI>  </project>  <Region>RMI </Region>  <Bounding>  <Eastbc>169.97 </Eastbc>  <Westbc>162.302 </Westbc>  <Southbc>5.573 </Southbc>  <Northbc>14.71 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>Grants </Local-subject-index>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aa0319afbb87b5fc75665ebef286a36e", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BF606442A-2E02-4FA8-9C1C-45CA44C24D1A%7D"
+}

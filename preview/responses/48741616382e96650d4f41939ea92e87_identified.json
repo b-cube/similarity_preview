@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Physiological and pathophysiological regulation of the ryanodine receptor in skeletal muscle</dc:title><dc:creator>Umanskaya, Alisa</dc:creator><dc:date>2015</dc:date><dc:type>text</dc:type><dc:subject>Physiology</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8N29VR7</dc:identifier><dc:description>Ryanodine receptor calcium release channels are essential for skeletal muscle contraction, as they mediate the release of calcium ions from intracellular stores into the cytosol. The data presented in this dissertation demonstrate the evolutionarily conserved mechanisms of skeletal muscle ryanodine receptor regulation in the physiological and pathophysiological states. Adrenergic stimulation causes increased skeletal muscle force, however, despite the well-established role of this physiological response, the molecular mechanism is not known. Here we present a mechanism whereby phosphorylation of a single amino acid on the ryanodine receptor is a key signal in the physiological stress-induced inotropic response in mouse skeletal muscle. Therefore acute post-translational modifications of ryanodine receptor channels are important for healthy muscle contraction. Conversely, chronic stress-induced post-translational modifications result in poorly functioning murine ryanodine receptor channels that contribute to skeletal muscle dysfunction in age-dependent skeletal muscle weakness and Muscular Dystrophies. Finally, we present data that demonstrates striking evolutionary conservation in ryanodine receptor regulation in the physiological and pathophysiological states between mice and C. elegans. This work has broad implications for understanding the underlying mechanisms of skeletal muscle contraction and important disorders that affect human health. Furthermore, this works presents ryanodine receptor channels as a viable therapeutic target for age-related skeletal muscle weakness, Muscular Dystrophies, and also implicates C. elegans as a potential model system in which to test future therapeutic targets.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "48741616382e96650d4f41939ea92e87", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A184055.dc_xml"
+}

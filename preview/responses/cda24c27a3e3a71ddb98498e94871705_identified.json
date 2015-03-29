@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Council2013 </Local-number>  <Author>RMI Coastal Management Advisory Council </Author>  <Title>About the AIC jurisdiction Republic of the Marshall Islands (RMI) </Title>  <Publication-Date><caldate>2013 </caldate></Publication-Date>  <Extent>2 </Extent>  <Abstract>AIC outreach report. The Republic of the Marshall Islands (RMI) is a collection of 1,225 islands and islets spread out over an exclusive economic zone of nearly 1 million square miles. RMI is an affiliate member of the U.S. All Islands Coral Reef Committee (AIC).  </Abstract>  <Keywords>U.S. All Islands Coral Reef Committee (AIC), U.S. Coral Reef Task Force (USCRTF) </Keywords>  <Institution>U.S. All Islands Coral Reef Committee (AIC), U.S. Coral Reef Task Force (USCRTF) and RMI Coastal Management Advisory Council </Institution>  <Date-Time-Last-Modified>20140403000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/other_crcp_publications/USCRTF/aic-outreach-rmi.pdf </URL>  <Region>RMI </Region>  <Bounding>  <Eastbc>169.97 </Eastbc>  <Westbc>162.302 </Westbc>  <Southbc>5.573 </Southbc>  <Northbc>14.71 </Northbc>  </Bounding>  <CoRIS-Record-Type>misc </CoRIS-Record-Type>  <Local-subject-index>outreach </Local-subject-index>  <Local-subject-index>misc </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cda24c27a3e3a71ddb98498e94871705", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BEF759DFE-AFDE-4AB6-A215-6903D57D12A8%7D"
+}

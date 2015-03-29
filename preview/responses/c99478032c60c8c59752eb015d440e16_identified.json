@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"><ShortName>OpenGrADS Cookbooks (en)</ShortName><Description>OpenGrADS Cookbooks (en)</Description><Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://cookbooks.opengrads.org/favicon.ico</Image><Url type=\"text/html\" method=\"get\" template=\"http://cookbooks.opengrads.org/index.php?title=Special:Search&amp;search={searchTerms}\" /><Url type=\"application/x-suggestions+json\" method=\"get\" template=\"http://cookbooks.opengrads.org/api.php?action=opensearch&amp;search={searchTerms}&amp;namespace=0\" /><moz:SearchForm>http://cookbooks.opengrads.org/index.php?title=Special:Search</moz:SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c99478032c60c8c59752eb015d440e16", 
+    "source_url": "http://cookbooks.opengrads.org/opensearch_desc.php"
+}

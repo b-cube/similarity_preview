@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Leadership library on the Internet [electronic resource]</dc:title><dc:publisher>New York, NY : Leadership Directories, Inc.</dc:publisher><dc:language>English</dc:language><dc:format>Online</dc:format><dc:date>1990</dc:date></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7a246ede3a7bfabdf35cfbe1cab27a11", 
+    "source_url": "http://clio.columbia.edu/catalog/2557847.dc_xml"
+}

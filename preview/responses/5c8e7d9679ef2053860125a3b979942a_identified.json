@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/NAT_Species_Ancillary/Hucs_All/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/NAT_Species_Ancillary/NAT_Boundaries_LCC/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5c8e7d9679ef2053860125a3b979942a", 
+    "source_url": "http://gis1.usgs.gov/arcgis/rest/services/NAT_Species_Ancillary?f=sitemap"
+}

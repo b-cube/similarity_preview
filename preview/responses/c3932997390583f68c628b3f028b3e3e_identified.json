@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Medication-Wide Association Studies</dc:title><dc:creator>Ryan, P. B.</dc:creator><dc:creator>Stang, P. E.</dc:creator><dc:creator>Madigan, David B.</dc:creator><dc:creator>Schuemie, M. J.</dc:creator><dc:creator>Hripcsak, George M.</dc:creator><dc:date>2013</dc:date><dc:type>text</dc:type><dc:subject>Pharmacology</dc:subject><dc:subject>Statistics</dc:subject><dc:subject>Bioinformatics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8PG1PVX</dc:identifier><dc:description>Undiscovered side effects of drugs can have a profound effect on the health of the nation, and electronic health-care databases offer opportunities to speed up the discovery of these side effects. We applied a \\ufffd\\ufffd\\ufffdmedication-wide association study\\ufffd\\ufffd\\ufffd approach that combined multivariate analysis with exploratory visualization to study four health outcomes of interest in an administrative claims database of 46 million patients and a clinical database of 11 million patients. The technique had good predictive value, but there was no threshold high enough to eliminate false-positive findings. The visualization not only highlighted the class effects that strengthened the review of specific products but also underscored the challenges in confounding. These findings suggest that observational databases are useful for identifying potential associations that warrant further consideration but are unlikely to provide definitive evidence of causal effects.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c3932997390583f68c628b3f028b3e3e", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A173912.xml"
+}

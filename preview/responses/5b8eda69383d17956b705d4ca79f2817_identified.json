@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Open Access: A Brief</dc:title><dc:creator>Center for Digital Research and Scholarship, Columbia University</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Information science</dc:subject><dc:subject>Library science</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8K64GPN</dc:identifier><dc:description>An overview of the history, importance, and challenges of open access. The brief also presents Columbia's activities to promote the free, immediate, online availability of research results produced at the University.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5b8eda69383d17956b705d4ca79f2817", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A178539.dc_xml"
+}

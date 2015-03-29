@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0089\">   <front>     <title>Generic Alerts</title>     <author initials=\"R.\" surname=\"Dobson\" fullname=\"Richard Dobson\">       <organization/>       <address>         <email>richard@dobson-i.net</email>       </address>     </author>     <date day=\"16\" month=\"May\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0089\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0089.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5eca65a4d9ba1f7af82c7aac5481d3e3", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0089.xml"
+}

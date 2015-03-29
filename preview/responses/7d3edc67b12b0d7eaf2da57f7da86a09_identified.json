@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20083062</identifier><identifier type=\"pwpk\">86165</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2008-3062</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Mount Rainier: living safely with a volcano in your backyard</title></titleInfo><originInfo><dateOther>Sun, 7 Sep 2008 00:00 -0500</dateOther><dateIssued>2008</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Driedger, Carolyn L.; Scott, William E.</namePart><role>Author</role></name><abstract>Majestic Mount Rainier soars almost 3 miles (14,410 feet) above sea level and looms over the expanding suburbs of Seattle and Tacoma, Washington. Each year almost two million visitors come to Mount Rainier National Park to admire the volcano and its glaciers, alpine meadows, and forested ridges. However, the volcano's beauty is deceptive - U.S. Geological Survey (USGS) research shows that Mount Rainier is one of our Nation's most dangerous volcanoes. It has been the source of countless eruptions and volcanic mudflows (lahars) that have surged down valleys on its flanks and buried broad areas now densely populated. To help people live more safely with the volcano, USGS scientists are working closely with local communities, emergency managers, and the National Park Service.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2008_3062.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2008/3062/</url><url note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2008/3062/fs2008-3062.pdf</url></location><note type=\"citation/reference\">Mount Rainier: living safely with a volcano in your backyard; 2008; FS; 2008-3062; Fact Sheet; Driedger, Carolyn L.; Scott, William E.</note><edition>Version 1.0</edition><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7d3edc67b12b0d7eaf2da57f7da86a09", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20083062"
+}

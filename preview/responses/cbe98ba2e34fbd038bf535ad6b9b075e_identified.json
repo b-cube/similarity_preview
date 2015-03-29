@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-zoning\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-zoning</id><updated>2015-03-08T13:36:42Z</updated><entry><title>REST API: Update object city-and-county-of-denver-zoning</title><link href=\"/revision/d5d4a0a5-55c3-45e8-b5d7-a8db716a3e63\" rel=\"alternate\"></link><updated>2015-03-08T13:36:42Z</updated><published>2015-03-08T13:36:42Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/d5d4a0a5-55c3-45e8-b5d7-a8db716a3e63</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning</title><link href=\"/revision/86b1d6cf-52c0-49b9-9f8f-3123b91d7dff\" rel=\"alternate\"></link><updated>2015-03-08T13:36:31Z</updated><published>2015-03-08T13:36:31Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/86b1d6cf-52c0-49b9-9f8f-3123b91d7dff</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning</title><link href=\"/revision/7606fd5b-24e8-4a6c-9709-bc43f8c4a472\" rel=\"alternate\"></link><updated>2015-03-08T13:19:16Z</updated><published>2015-03-08T13:19:16Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/7606fd5b-24e8-4a6c-9709-bc43f8c4a472</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning</title><link href=\"/revision/b8e65087-8e20-4ac5-952c-2f0e4cce357f\" rel=\"alternate\"></link><updated>2015-03-08T13:19:10Z</updated><published>2015-03-08T13:19:10Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/b8e65087-8e20-4ac5-952c-2f0e4cce357f</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cbe98ba2e34fbd038bf535ad6b9b075e", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-zoning?days=14&format=atom"
+}

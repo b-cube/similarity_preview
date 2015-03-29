@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../folland2.htm\"/>  <o:File HRef=\"image001.png\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a0d8d344735bf763566723a551bb9181", 
+    "source_url": "http://grads.iges.org/ellfb/Dec01/folland/folland2_files/filelist.xml"
+}

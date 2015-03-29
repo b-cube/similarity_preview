@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/bag_bathymetry/ImageServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/bag_hillshades_subsets/ImageServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/bag_hillshades/ImageServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/dem_hillshades/ImageServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/dem_mhw_mosaic/ImageServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/etopo1/ImageServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/SampleWorldCities/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gis.ngdc.noaa.gov/arcgis/rest/services/test/random_points/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4168218fcb41d481209524373e177a2b", 
+    "source_url": "http://gis.ngdc.noaa.gov/arcgis/rest/services/?f=geositemap"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-encoding-20140916'            target='http://www.w3.org/TR/2014/CR-encoding-20140916'> <front> <title>Encoding</title>  <author initials='A.' surname='Kesteren' fullname='Anne van Kesteren'>     <organization /> </author>  <author initials='J.' surname='Bell' fullname='Joshua Bell'>     <organization /> </author>  <author initials='A.' surname='Phillips' fullname='Addison Phillips'>     <organization /> </author>  <date month='September' day='16' year='2014' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-encoding-20140916' /> <format type='HTML' target='http://www.w3.org/TR/2014/CR-encoding-20140916' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "37b85ef85b6cf02b3310cf32b7d30ada", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.CR-encoding-20140916.xml"
+}

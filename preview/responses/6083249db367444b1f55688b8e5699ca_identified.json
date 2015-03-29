@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Kumarappan Kumar</a1>   <a2>Patrick Casey</a2>   <a2>Greg Hughes</a2>   <t1>SIMS characterisation of ZnO and MgO thin films</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Poster Presented in the BOC Gases Postgraduate Poster Competition,&amp;nbsp; held by School of Physical Sciences, Dublin City University in 2009.&lt;/p&gt;</ab>   <la/>   <k1>ZnO;                 MgO;                 Wide Band gap Semiconductors;                 Metal Oxides;                 Materials Characterization;                 SIMS;                 </k1>   <pb/>   <pp/>   <yr>2009-02-20</yr>   <ed/>   <ul>https://zenodo.org/record/13855/files/Kumar_SIMS_DCU_Ireland.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6083249db367444b1f55688b8e5699ca", 
+    "source_url": "https://zenodo.org/record/13855/export/xw"
+}

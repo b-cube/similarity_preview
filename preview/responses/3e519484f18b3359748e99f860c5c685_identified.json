@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2013-12-26 16:31:21</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a63da59-87bd-4294-a51f-0f21baf20429\"    xml:base=\"http://gcmdstage.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdstage.gsfc.nasa.gov/kms/concepts/concept_scheme/instruments\"/>    <skos:prefLabel xml:lang=\"en\">ACOUSTIC RADAR</skos:prefLabel>    <skos:definition xml:lang=\"en\"> An acoustic radar is a device acting as the well known radars, with the difference that the transmitted and the received signals have frequencies in the acoustic region. An alternate name for this class of instruments is 'Sodar', due to the SOund Detection And Ranging'. A short acoustic pulse is transmitted in the atmosphere. While it is travelling in there, it is scattered from the atmospheric irregularities. Here, the irregularities don't mean a 'target' object, as in the usual electromagnetic or microwave radars. A change in the wind velocity, a turbulent layer, a temperature inversion e.t.c. cause scattering of the acoustic waves. A part of the scattered signal returns to the receiver, where it is collected and processed.  Additional information available at \"http://cgi.di.uoa.gr/~tliaskas/Welcome.html\"  [Summary provided by University of Athens]   </skos:definition>    <skos:broader rdf:resource=\"6c5ca722-0bc7-4ccd-ad24-39b9d8710140\"/> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3e519484f18b3359748e99f860c5c685", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a63da59-87bd-4294-a51f-0f21baf20429.rdf.last"
+}

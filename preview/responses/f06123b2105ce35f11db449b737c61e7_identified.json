@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.REC-PICSRules-971222'            target='http://www.w3.org/TR/REC-PICSRules-971222'> <front> <title>PICSRules 1.1 Specification</title>  <author initials='J.' surname='Miller' fullname='Jim Miller'>     <organization /> </author>  <author initials='P.' surname='Resnick' fullname='Pete Resnick'>     <organization /> </author>  <author initials='D.' surname='Singer' fullname='David Singer'>     <organization /> </author>  <date month='December' day='22' year='1997' /> </front>  <seriesInfo name='World Wide Web Consortium Recommendation' value='REC-PICSRules-971222' /> <format type='HTML' target='http://www.w3.org/TR/REC-PICSRules-971222' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f06123b2105ce35f11db449b737c61e7", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.REC-PICSRules-971222.xml"
+}

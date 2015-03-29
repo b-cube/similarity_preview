@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.02.78'> <front> <title>Customized Applications for Mobile network Enhanced Logic (CAMEL); Service definition (Stage 1)</title> <author><organization>3GPP</organization></author> <date day='12' month='February' year='1999' /> </front>  <seriesInfo name='3GPP TS' value='02.78 5.6.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0278.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9e064ae145ed0aa3ae8dd3c63c1e1b6f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.02.78.xml"
+}

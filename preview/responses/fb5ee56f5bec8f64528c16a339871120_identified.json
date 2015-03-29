@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0051\">   <front>     <title>Connection Transfer</title>     <author initials=\"K.\" surname=\"Wolf\" fullname=\"Klaus Wolf\">       <organization/>       <address>         <email>wolf@bluehands.de</email>       </address>     </author>     <author initials=\"R.\" surname=\"Dobson\" fullname=\"Richard Dobson\">       <organization/>       <address>         <email>richard@dobson-i.net</email>       </address>     </author>     <author initials=\"F.\" surname=\"Jensen\" fullname=\"Florian Jensen\">       <organization/>       <address>         <email>florian@florianjensen.com</email>       </address>     </author>     <date day=\"07\" month=\"July\" year=\"2009\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0051\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0051.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fb5ee56f5bec8f64528c16a339871120", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0051.xml"
+}

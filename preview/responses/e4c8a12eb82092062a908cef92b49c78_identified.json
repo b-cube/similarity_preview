@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:socrata=\"http://www.socrata.com/rdf/terms#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:ods=\"http://open-data-standards.github.com/2012/01/open-data-standards#\" xmlns:dcterm=\"http://purl.org/dc/terms/\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dsbase=\"http://data.hawaii.gov/resource/\" xmlns:ds=\"http://data.hawaii.gov/resource/u5ff-xh5k/\"> <dsbase:u5ff-xh5k rdf:about=\"http://data.hawaii.gov/resource/u5ff-xh5k/1\">     <socrata:rowID>1</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.hawaii.gov/resource/u5ff-xh5k\"/>     <ds:nativity>Native</ds:nativity>     <ds:well>14944</ds:well>     <ds:not_well>7346</ds:not_well>     <ds:not_at_all>268</ds:not_at_all></dsbase:u5ff-xh5k> <dsbase:u5ff-xh5k rdf:about=\"http://data.hawaii.gov/resource/u5ff-xh5k/2\">     <socrata:rowID>2</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.hawaii.gov/resource/u5ff-xh5k\"/>     <ds:nativity>Foreign born</ds:nativity>     <ds:well>62834</ds:well>     <ds:not_well>41252</ds:not_well>     <ds:not_at_all>4117</ds:not_at_all></dsbase:u5ff-xh5k></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e4c8a12eb82092062a908cef92b49c78", 
+    "source_url": "https://data.hawaii.gov/api/views/u5ff-xh5k/rows.rdf?accessType=DOWNLOAD"
+}

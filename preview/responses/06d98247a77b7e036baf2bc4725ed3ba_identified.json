@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.tseng-dhc-isnsoption\"> <front> <title>DHCP Options for Internet Storage Name Service</title>  <author initials=\"J\" surname=\"Tseng\" fullname=\"Josh Tseng\">     <organization /> </author>  <date month=\"February\" day=\"22\" year=\"2002\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-tseng-dhc-isnsoption-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "06d98247a77b7e036baf2bc4725ed3ba", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.tseng-dhc-isnsoption.xml"
+}

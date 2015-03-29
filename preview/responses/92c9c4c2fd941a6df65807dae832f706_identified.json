@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OA/SLD_Trans30/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OA/SLD_Trans45/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OA/SmartLocationDatabase/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "92c9c4c2fd941a6df65807dae832f706", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/OA?f=sitemap"
+}

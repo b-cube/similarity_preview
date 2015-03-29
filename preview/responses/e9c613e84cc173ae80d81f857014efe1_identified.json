@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr01497</identifier><identifier type=\"pwpk\">50468</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2001-497</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Databases and simplified geology for mineralized areas, claims, mines and prospects in Wyoming</title></titleInfo><originInfo><dateOther>Sat, 1 Jan 1994 00:00 -0600</dateOther><dateIssued>2001</dateIssued></originInfo><name><namePart>Wilson, Anna B.; Klein, Terry L.; Heran, William D.</namePart><role>Author</role></name><physicalDescription><form>map, data files, report (17 p.) and accompanying text (1 p.)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/usgs_thumb.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/2001/ofr-01-0497/</url></location><note type=\"citation/reference\">Databases and simplified geology for mineralized areas, claims, mines and prospects in Wyoming; 2001; OFR; 2001-497; Open-File Report; Wilson, Anna B.; Klein, Terry L.; Heran, William D.</note><edition>Version 1.0</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e9c613e84cc173ae80d81f857014efe1", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr01497"
+}

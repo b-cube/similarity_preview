@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.floroiu-dynsa-mip'> <front> <title>Dynamic Security Associations Setup in Mobile IP</title>  <author initials='J' surname='Floroiu' fullname='John Floroiu'>     <organization /> </author>  <date month='January' day='10' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-floroiu-dynsa-mip-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-floroiu-dynsa-mip-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0f7a63b3008f2554df55634d37a1a55a", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.floroiu-dynsa-mip.xml"
+}

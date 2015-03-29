@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.1155/2010/724087</dc:identifier><dc:language>eng</dc:language><dc:creator>Hendeby, Gustaf</dc:creator><dc:creator>Karlsson, Rickard</dc:creator><dc:creator>Gustafsson, Fredrik</dc:creator><dc:title>The Rao-Blackwellized Particle Filter: A Filter Bank Implementation</dc:title><dc:identifier>OpenAIRE-COGNITO-2010-001</dc:identifier><dc:description>For computational efficiency, it is important to utilize model structure in particle filtering. One of the most important cases occurs when there exists a linear Gaussian substructure, which can be efficiently handled by Kalman filters. This is the standard formulation of the Rao-Blackwellized particle filter (RBPF). This contribution suggests an alternative formulation of this wellknown result that facilitates reuse of standard filtering components and which is also suitable for object-oriented programming. Our RBPF formulation can be seen as a Kalman filter bank with stochastic branching and pruning.</dc:description><dc:publisher/><dc:date>2010-11-25</dc:date><dc:source>http://zenodo.org/record/19</dc:source><dc:doi>10.1155/2010/724087</dc:doi><dc:identifier>http://zenodo.org/record/19</dc:identifier><dc:identifier>oai:openaire.cern.ch:19</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d8bc4a0620f4193116ea25390a022e59", 
+    "source_url": "http://zenodo.org/record/19/export/xd"
+}

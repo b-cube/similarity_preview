@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:data-view=\"http://www.w3.org/2003/g/data-view#\"> <rdf:Description rdf:about=\"http://musicbrainz.org/mm-2.1/album/6b050dcf-7ab1-456d-9e1b-c3c41c18eed2\"> <foaf:maker> <foaf:Agent rdf:about=\"http://musicbrainz.org/mm-2.1/artist/33b3c323-77c2-417c-a5b4-af7e6a111cc9\"> <foaf:name>The Jimi Hendrix Experience</foaf:name> </foaf:Agent> </foaf:maker> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c46e0387f4c4ef22ca11cbe4317e2293", 
+    "source_url": "http://www.w3.org/2001/sw/grddl-wg/td/grddlonrdf-output2.rdf"
+}

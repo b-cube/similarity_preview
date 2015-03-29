@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <?xml-stylesheet href=\"mmab.xsl\" type=\"text/xsl\" ?>  <person>   <name>Sudhir Nadiga</name>   <title></title>   <extension>3751</extension>   <email>Sudhir.Nadiga@noaa.gov</email>   <employer>IMSG   </employer>   <site>College Park, MD</site>   <blurb>     Work on ocean modeling, ocean data assimilation, and ocean analysis   </blurb>  </person> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "079813b30ed75370d1544c5cfc488ddb", 
+    "source_url": "http://polar.ncep.noaa.gov/mmab/people/sudhir.xml"
+}

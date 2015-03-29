@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-SVG12-20030715'> <front> <title>Scalable Vector Graphics (SVG) 1.2</title>  <author initials='D' surname='Jackson' fullname='Dean Jackson'>     <organization /> </author>  <date month='July' day='15' year='2003' /> </front>  <seriesInfo name='W3C WD' value='WD-SVG12-20030715' /> <format type='HTML' target='http://www.w3.org/TR/2003/WD-SVG12-20030715' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "911979deb8173fdf21c52f836eb7089e", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-SVG12-20030715.xml"
+}

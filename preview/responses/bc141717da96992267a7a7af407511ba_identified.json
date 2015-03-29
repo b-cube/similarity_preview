@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Realism, Neoliberalism, and Cooperation: Understanding the Debate</dc:title><dc:creator>Jervis, Robert</dc:creator><dc:date>1999</dc:date><dc:type>text</dc:type><dc:subject>Political science</dc:subject><dc:subject>International relations</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8VM4B30</dc:identifier><dc:description>Robert Jervis of Columbia University offers a reformulation of the debate between realism and neoliberalism over the role of conflict and cooperation in international politics. Jervis argues that the disagreement between realists and neoliberals is not about the extent of conflict, but rather whether conflict is unnecessary given states' quest for security. He then explains the disagreement in the context of what realists and neoliberalists contend is required to facilitate greater international cooperation. Finally, Jervis seeks to elucidate the different perceptions of the two schools of thought on the importance of institutions.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bc141717da96992267a7a7af407511ba", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A183971.dc_xml"
+}

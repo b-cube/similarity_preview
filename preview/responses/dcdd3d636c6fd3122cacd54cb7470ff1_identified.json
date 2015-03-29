@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/InSituStations/InSituStationObservations/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dcdd3d636c6fd3122cacd54cb7470ff1", 
+    "source_url": "http://www.ncddc.noaa.gov/arcgis/rest/services/InSituStations?f=sitemap"
+}

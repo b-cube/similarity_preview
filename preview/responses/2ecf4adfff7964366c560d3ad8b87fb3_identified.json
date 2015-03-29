@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding=\"ISO-8859-1\" ?> <schema    targetNamespace=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ms=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ogc=\"http://www.opengis.net/ogc\"    xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"    xmlns=\"http://www.w3.org/2001/XMLSchema\"    xmlns:gml=\"http://www.opengis.net/gml\"    elementFormDefault=\"qualified\" version=\"0.1\" >    <import namespace=\"http://www.opengis.net/gml\"           schemaLocation=\"http://schemas.opengis.net/gml/3.1.1/base/gml.xsd\" />    <element name=\"Porphyry_Cu\"             type=\"ms:Porphyry_CuType\"             substitutionGroup=\"gml:_Feature\" />    <complexType name=\"Porphyry_CuType\">     <complexContent>       <extension base=\"gml:AbstractFeatureType\">         <sequence>           <element name=\"msGeometry\" type=\"gml:GeometryPropertyType\" minOccurs=\"0\" maxOccurs=\"1\"/>           <element name=\"gid\" type=\"string\"/>           <element name=\"tract\" type=\"string\"/>           <element name=\"url\" type=\"string\"/>           <element name=\"layer\" type=\"string\"/>           <element name=\"dep_type\" type=\"string\"/>           <element name=\"dep_model\" type=\"string\"/>           <element name=\"mark3_id\" type=\"string\"/>           <element name=\"age\" type=\"string\"/>           <element name=\"region\" type=\"string\"/>           <element name=\"state\" type=\"string\"/>           <element name=\"p_90\" type=\"string\"/>           <element name=\"p_50\" type=\"string\"/>           <element name=\"p_10\" type=\"string\"/>           <element name=\"p_05\" type=\"string\"/>           <element name=\"p_01\" type=\"string\"/>           <element name=\"p_0\" type=\"string\"/>           <element name=\"estimators\" type=\"string\"/>           <element name=\"area_km2\" type=\"string\"/>         </sequence>       </extension>     </complexContent>   </complexType>  </schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2ecf4adfff7964366c560d3ad8b87fb3", 
+    "source_url": "http://mrdata.usgs.gov/wfs/nmra?request=describefeaturetype&service=WFS&version=1.1.0&typename=Porphyry_Cu"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><o:nodeList xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:o=\"http://www.w3.org/2005/11/its/testoutputformat\" xsi:schemaLocation=\"http://www.w3.org/2005/11/its/testoutputformat/ ../itsoutput.xsd\">    <o:nodeList datacat=\"localizationnote\">       <o:node path=\"/{}Doc\" outputType=\"default-value\">          <o:output/>       </o:node>       <o:node path=\"/{}Doc/@{http://www.w3.org/2005/11/its}version\" outputType=\"default-value\">          <o:output/>       </o:node>       <o:node path=\"/{}Doc/{}body[1]\" outputType=\"default-value\">          <o:output/>       </o:node>       <o:node path=\"/{}Doc/{}body[1]/{}p[1]\" outputType=\"default-value\">          <o:output/>       </o:node>       <o:node path=\"/{}Doc/{}body[1]/{}p[1]/{http://www.w3.org/2005/11/its}span[1]\" outputType=\"new-value-local\">          <o:output o:locNoteType=\"description\"><o:locNoteText>If possible keep the non-English terms in the translated version too</o:locNoteText></o:output>       </o:node>       <o:node path=\"/{}Doc/{}body[1]/{}p[1]/{http://www.w3.org/2005/11/its}span[1]/@{}locNote\" outputType=\"default-value\">          <o:output/>       </o:node>       <o:node path=\"/{}Doc/{}body[1]/{}p[1]/{http://www.w3.org/2005/11/its}span[1]/{http://www.w3.org/2005/11/its}span[1]\" outputType=\"new-value-local\">          <o:output o:locNoteType=\"description\"><o:locNoteReference>http://en.wikipedia.org/wiki/Doppelganger</o:locNoteReference></o:output>       </o:node>       <o:node path=\"/{}Doc/{}body[1]/{}p[1]/{http://www.w3.org/2005/11/its}span[1]/{http://www.w3.org/2005/11/its}span[1]/@{}locNoteRef\" outputType=\"default-value\">          <o:output/>       </o:node>       <o:node path=\"/{}Doc/{}body[1]/{}p[1]/{http://www.w3.org/2005/11/its}span[1]/{}b[1]\" outputType=\"inherited\">          <o:output o:locNoteType=\"description\"><o:locNoteText>If possible keep the non-English terms in the translated version too</o:locNoteText></o:output>       </o:node>       <o:node path=\"/{}Doc/{}body[1]/{}p[1]/{http://www.w3.org/2005/11/its}span[1]/{http://www.w3.org/2005/11/its}span[2]\" outputType=\"new-value-local\">          <o:output o:locNoteType=\"description\"><o:locNoteReference>http://en.wikipedia.org/wiki/Aficionado</o:locNoteReference></o:output>       </o:node>       <o:node path=\"/{}Doc/{}body[1]/{}p[1]/{http://www.w3.org/2005/11/its}span[1]/{http://www.w3.org/2005/11/its}span[2]/@{}locNoteRef\" outputType=\"default-value\">          <o:output/>       </o:node>    </o:nodeList> </o:nodeList>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8d748649f65654b30a0c9b61915dd95c", 
+    "source_url": "http://www.w3.org/International/its/tests/test3/LocNote4-result.xml"
+}

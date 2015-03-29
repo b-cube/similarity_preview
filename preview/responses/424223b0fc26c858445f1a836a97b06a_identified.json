@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">     <url>         <loc>http://brainbites.nasa.gov/index.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/aerial.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/bathroom.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/snowboarder.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/nasalaunch.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/bolt.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/frontside540.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/spacetime.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/grossout.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/vomitcomet.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/callmars.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/underwater.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/scratchyournose.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/launch.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/moonrotation.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/vacuum.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/sonicboom.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/seestation.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/spacebegin.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/soundinspace.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/astrocans.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/guitarrocket.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/corioliseffect.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/tempspace.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/ambulance.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/roundtrip.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/choosespaceship.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/ridersstable.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/trainingground.html</loc>     </url>     <url>         <loc>http://brainbites.nasa.gov/landspaceship.html</loc>     </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "424223b0fc26c858445f1a836a97b06a", 
+    "source_url": "http://brainbites.nasa.gov/sitemap.xml"
+}

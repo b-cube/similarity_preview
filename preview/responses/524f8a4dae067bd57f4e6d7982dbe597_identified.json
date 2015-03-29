@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <opml version=\"1.1\"> <head> <title>Purdue Libraries</title> <dateModified>Thu, 12 Mar 2015 17:21:32 +0000</dateModified> </head> <body> <outline text=\"Archives and Special Collections\" xmlUrl=\"http://blogs.lib.purdue.edu/news/category/spec/feed/\" /> <outline text=\"News &amp; Announcements\" xmlUrl=\"http://blogs.lib.purdue.edu/news/category/general/feed/\" /> <outline text=\"Open Access\" xmlUrl=\"http://blogs.lib.purdue.edu/news/category/Open_Access/feed/\" /> <outline text=\"Projects &amp; Activities\" xmlUrl=\"http://blogs.lib.purdue.edu/infolit/feed/\" /> <outline text=\"Purdue Press News\" xmlUrl=\"http://blogs.lib.purdue.edu/news/category/PUP/feed\" /> </body> </opml> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "524f8a4dae067bd57f4e6d7982dbe597", 
+    "source_url": "https://www.lib.purdue.edu/aggregator/opml"
+}

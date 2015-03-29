@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-abandoned-trolley-tracks\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-abandoned-trolley-tracks</id><updated>2015-03-18T17:25:25Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fcd1ca25d7dee860ee4b88b95d137654", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-abandoned-trolley-tracks?days=14&format=atom"
+}

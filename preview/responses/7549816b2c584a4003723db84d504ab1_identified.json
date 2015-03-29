@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>6699</id>   <unit>461</unit>   <dept_name>Excel Centers</dept_name>   <sub_name></sub_name>   <main_number>3688</main_number>   <location>MAIN 202A</location>   <comments>     <comment>Individual Centers for Excellence: </comment>     <comment>      Excellence in Communication, Center for </comment>     <comment>      Excellence in Languages and Social Sciences, Center for </comment>     <comment>      Excellence in Mathematics, Center for </comment>     <comment>      Excellence in Science, Center for </comment>     <comment>      Excellence in Writing, Center for</comment>   </comments>   <employees> <employee>   <id>29968</id>   <name>Gaddis, Barbara A</name>   <phone>3688</phone>   <title>Executive Director</title>   <department>Excel Centers</department>   <sub_unit></sub_unit>   <location>MAIN 322B</location>   <email>bgaddis@uccs.edu</email>   <extra></extra>   <ntname>bgaddis</ntname>   <unit>461</unit>   <order>1</order> </employee>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7549816b2c584a4003723db84d504ab1", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=461&type=details_by_unit"
+}

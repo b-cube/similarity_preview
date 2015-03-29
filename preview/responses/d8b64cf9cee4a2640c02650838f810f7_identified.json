@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>  <META xmlns=\"http://www.w3.org/2000/12/P3Pv1\">  <POLICY-REFERENCES>   <POLICY-REF about=\"/w3c/p3p-policy.xml#overall\">   <INCLUDE>/*</INCLUDE>   <EXCLUDE>/ArcIMS</EXCLUDE>   <EXCLUDE>/GISdata</EXCLUDE>   </POLICY-REF>  </POLICY-REFERENCES> </META>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d8b64cf9cee4a2640c02650838f810f7", 
+    "source_url": "http://coastalmap.marine.usgs.gov/w3c/p3p.xml"
+}

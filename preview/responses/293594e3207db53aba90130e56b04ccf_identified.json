@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>LEO Rus-Deu</ShortName>  <Description>Verwenden Sie LEOs Russisch-Deutsch Online W\\ufffd\\ufffdrterbuch um einzelne W\\ufffd\\ufffdrter oder Phrasen vom Russischen ins Deutsche (oder umgekehrt) zu \\ufffd\\ufffdbersetzen.</Description>  <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://dict.leo.org/img/favicons/rude.ico</Image>  <Url type=\"text/html\" template=\"http://dict.leo.org/rude?lang=de&amp;search={searchTerms}\"/>  <Url type=\"application/x-suggestions+json\" template=\"http://dict.leo.org/dictQuery/m-query/conf/rude/query.conf/strlist.json?q={searchTerms}&amp;sort=PLa&amp;shortQuery&amp;noDescription&amp;noQueryURLs\"/>  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://dict.leo.org/pages/helpers/shared/searches/opensearch_rude_de.xml\" />  <Contact>dict@leo.org</Contact>  <Tags>LEO \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd w\\ufffd\\ufffdrterbuch online \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd \\ufffd\\ufffdbersetzen \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd \\ufffd\\ufffdbersetzung \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd deutsch chinesisch</Tags>  <LongName>LEOs Russisch-Deutsch Online W\\ufffd\\ufffdrterbuch</LongName>  <Query role=\"example\" searchTerms=\"\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\"/>  <Developer>LEO GmbH</Developer>  <Attribution>Copyright LEO GmbH</Attribution>  <SyndicationRight>private</SyndicationRight>  <AdultContent>false</AdultContent>  <InputEncoding>UTF-8</InputEncoding>  <OutputEncoding>UTF-8</OutputEncoding> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "293594e3207db53aba90130e56b04ccf", 
+    "source_url": "http://dict.leo.org/pages/helpers/shared/searches/opensearch_rude_de.xml"
+}

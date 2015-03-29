@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/enow/ENOW_Counties/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/enow/ENOW_Regions/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/enow/ENOW_States/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c237bb139b167cb7429586ad74958bfb", 
+    "source_url": "http://coast.noaa.gov/arcgis/rest/services/enow?f=sitemap"
+}

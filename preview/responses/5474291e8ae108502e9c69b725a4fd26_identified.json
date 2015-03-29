@@ -1,0 +1,15 @@
+{
+    "content": "<ns:listSatelliteInstrumentsResponse xmlns:ns=\"http://laads.modapsws.gsfc.nasa.gov\" xmlns:ax21=\"http://datatypes.laads.modapsws.gsfc.nasa.gov/xsd\"><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>AM1M</ax21:name><ax21:value>Terra MODIS</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>ANC</ax21:name><ax21:value>Ancillary Data</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>PM1M</ax21:name><ax21:value>Aqua MODIS</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>AMPM</ax21:name><ax21:value>Combined Aqua &amp; Terra MODIS</ax21:value></ns:return><ns:return xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:type=\"ax21:NameValuePair\"><ax21:name>NPP</ax21:name><ax21:value>Suomi NPP VIIRS</ax21:value></ns:return></ns:listSatelliteInstrumentsResponse>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5474291e8ae108502e9c69b725a4fd26", 
+    "source_url": "http://modwebsrv.modaps.eosdis.nasa.gov/axis2/services/MODAPSservices/listSatelliteInstruments"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>AIC2002 </Local-number>  <Author>AIC </Author>  <Title>Resolution 8-1: Improving procedures of the U.S. Coral Reef Task Force </Title>  <Institution>U.S. All Islands Coral Reef Committee (AIC), U.S. Coral Reef Task Force (USCRTF) </Institution>  <Publication-Date><caldate>2002 </caldate></Publication-Date>  <Extent>4 </Extent>  <Type-Period-Note>AIC Resolution </Type-Period-Note>  <Abstract>Resolution approved at the 8th U.S. Coral Reef Task Force Meeting in San Juan, Puerto Rico, October 2-3, 2002. Several key resolutions, adopted by the AIC and the U.S. Coral Reef Task Force, have guided the activities of the AIC. At its December 2001 meeting, the U.S. Coral Reef Task Force identified a need to revise some of its procedures in order to move from planning to implementation of the National Action Plan to Conserve Coral Reefs (NAP). Based on recommendations from the All Islands Committee, constituent input, assessment of similar initiatives, expert consultation, and its experience over the past two years, the Task Force, through its Steering Committee, has identified the need to: 1) Improve NAP implementation by identifying threats-based priorities and key actions developed from the 13 goal areas; 2) Increase coordination to implement the NAP among government agencies, and across local, regional, and national levels; 3) Develop a system to track progress toward achievement of the NAP's goals and objectives; and 4) Increase human resources supporting the Task Force, All Islands Committee, State, Territory, and Commonwealth coral reef conservation efforts to implement the proposed process. </Abstract>  <Keywords>U.S. All Islands Coral Reef Committee (AIC), U.S. Coral Reef Task Force (USCRTF) </Keywords>  <Date-Time-Last-Modified>20140328000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/other_crcp_publications/USCRTF/pr_2002_key_resolution8_1.pdf </URL>  <Region>PR </Region>  <Bounding>  <Eastbc>-65.248715 </Eastbc>  <Westbc>-67.399870 </Westbc>  <Southbc>17.784130 </Southbc>  <Northbc>18.645740 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "47411e51d6660afb5e5056b2a7f9e15a", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BD51C4081-71DB-4647-B0CD-9BD38AE7ACD2%7D"
+}

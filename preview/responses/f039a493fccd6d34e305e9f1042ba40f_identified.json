@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/CaNPSControlPrjs/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/Funding/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/ImpairedWaterQuality/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/LandUse/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/PollutionSources/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/Rivers/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/SanFranciscoBayWaterQualityImprovementFund/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/Tribes_Communites_SuccessStories/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/Watersheds/MapServer</loc> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/Wetlands/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f039a493fccd6d34e305e9f1042ba40f", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/R9Watersheds?f=sitemap"
+}

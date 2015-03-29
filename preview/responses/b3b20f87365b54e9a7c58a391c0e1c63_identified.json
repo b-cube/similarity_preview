@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:lingvoj=\"http://www.lingvoj.org/ontology#\"  xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"  xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:dcterms=\"http://purl.org/dc/terms/\">    <!-- Example of translation of a W3C recommandation  -->  <lingvoj:Translation rdf:ID=\"translation-css1-en-to-bg\">   <rdfs:label xml:lang=\"en\">Translation of CSS1 in Bulgarian</rdfs:label>   <lingvoj:originalLanguage rdf:resource=\"http://id.loc.gov/vocabulary/iso639-1/en\"/>   <lingvoj:targetLanguage rdf:resource=\"http://id.loc.gov/vocabulary/iso639-1/bg\"/>   <lingvoj:originalResource>    <foaf:Document rdf:about=\"http://www.w3.org/TR/1999/REC-CSS1-19990111\">     <dcterms:title>Cascading Style Sheets (CSS1) Level 1 Specification</dcterms:title>    </foaf:Document>   </lingvoj:originalResource>   <lingvoj:translatedResource>    <foaf:Document rdf:about=\"http://www.w3.org/2006/02/cssbg.html\">     <dcterms:title>Cascading Style Sheets, \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd 1</dcterms:title>    </foaf:Document>   </lingvoj:translatedResource>   <lingvoj:translator>    <foaf:Person>     <foaf:firstName xml:lang=\"bg\">\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd</foaf:firstName>     <foaf:familyName xml:lang=\"bg\">\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd</foaf:familyName>    </foaf:Person>   </lingvoj:translator>  </lingvoj:Translation>    <!-- Traduction de FOAF en fran\\ufffd\\ufffdais -->  <lingvoj:Translation rdf:ID=\"translation-foaf-en-to-fr\">   <rdfs:label xml:lang=\"fr\">Traduction de FOAF en Fran\\ufffd\\ufffdais par Jean-Marc Vanel</rdfs:label>   <lingvoj:originalLanguage rdf:resource=\"http://id.loc.gov/vocabulary/iso639-1/en\"/>   <lingvoj:targetLanguage rdf:resource=\"http://id.loc.gov/vocabulary/iso639-1/fr\"/>   <lingvoj:originalResource>    <foaf:Document rdf:about=\"http://xmlns.com/foaf/spec/index.rdf\">     <dcterms:title>Friend of a Friend vocabulary</dcterms:title>    </foaf:Document>   </lingvoj:originalResource>   <lingvoj:translatedResource>    <foaf:Document rdf:about=\"https://raw.githubusercontent.com/jmvanel/rdf-i18n/master/foaf/foaf.fr.ttl\">     <dcterms:title>Vocabulaire FOAF</dcterms:title>     <dcterms:issued>2014-06-22</dcterms:issued>     </foaf:Document>   </lingvoj:translatedResource>   <lingvoj:translator rdf:resource=\"http://jmvanel.free.fr/jmv.rdf#me\"/>  </lingvoj:Translation> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b3b20f87365b54e9a7c58a391c0e1c63", 
+    "source_url": "http://www.lingvoj.org/translations/translations-2014.rdf"
+}

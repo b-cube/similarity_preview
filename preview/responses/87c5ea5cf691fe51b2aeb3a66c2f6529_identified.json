@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/alaska_charts/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/alaska_comms/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/alaska_ports_of_entry/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/alaska/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/General_Coastline/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/point_of_entry/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "87c5ea5cf691fe51b2aeb3a66c2f6529", 
+    "source_url": "http://encdirect.noaa.gov/arcgis/rest/services/avpg?f=geositemap"
+}

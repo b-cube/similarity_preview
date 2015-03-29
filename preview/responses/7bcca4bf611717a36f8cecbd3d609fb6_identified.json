@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs14100</identifier><identifier type=\"pwpk\">30693</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">141-00</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Earthquakes and tsunamis in Puerto Rico and the U.S. Virgin Islands</title></titleInfo><originInfo><dateOther>Fri, 1 Jun 2001 00:00 -0500</dateOther><dateIssued>2001</dateIssued></originInfo><name><namePart>Nealon, J.W.; Dillon, William P.</namePart><role>Author</role></name><abstract>Many earthquakes and tsunamis have occurred in the northeastern Caribbean, where the movements of the Earth's surface plates are rapid and complicated. Future such events pose serious hazards to the 3.7 million people who live in Puerto Rico and the U.S. Virgin Islands.</abstract><physicalDescription><form>2 p.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_141_00.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/factsheet/fs141-00/</url></location><note type=\"citation/reference\">Earthquakes and tsunamis in Puerto Rico and the U.S. Virgin Islands; 2001; FS; 141-00; Fact Sheet; Nealon, J.W.; Dillon, William P.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7bcca4bf611717a36f8cecbd3d609fb6", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs14100"
+}

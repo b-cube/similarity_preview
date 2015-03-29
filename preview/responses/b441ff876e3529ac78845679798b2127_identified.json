@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Eucross</ShortName>   <Description>EUCROSS - The Europeanisation of everyday life: Cross-Border Practices and Transnational Identities among EU and Third-Country Citizens - a research project funded by the EC 7FP.</Description>   <InputEncoding>UTF-8</InputEncoding>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.eucross.eu/cms/index.php?option=com_search&amp;view=remind&amp;format=opensearch\"/>   <Url type=\"text/html\" template=\"http://www.eucross.eu/cms/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b441ff876e3529ac78845679798b2127", 
+    "source_url": "http://www.eucross.eu/cms/index.php?option=com_search&view=remind&format=opensearch"
+}

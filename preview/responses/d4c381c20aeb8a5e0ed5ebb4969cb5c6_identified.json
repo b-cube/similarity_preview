@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/resources/translations/\"> <dc:title>Dublin Core Metadata Initiative Document Translations</dc:title> <dc:description>A list of DCMI documents that have been translated with links to the translations.</dc:description> <dc:date>2012-01-16</dc:date> <dc:format>text/html</dc:format> <dc:language>en</dc:language> <dc:publisher>Dublin Core Metadata Initiative</dc:publisher> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d4c381c20aeb8a5e0ed5ebb4969cb5c6", 
+    "source_url": "http://dublincore.org/resources/translations/index.shtml.rdf"
+}

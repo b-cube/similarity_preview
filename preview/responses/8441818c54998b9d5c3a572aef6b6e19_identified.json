@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Becker, Hans-Georg</author>         </authors>       </contributors>       <titles>         <title>Bibliographische Datens\\ufffd\\ufffdtze zu Artikeln mit arch\\ufffd\\ufffdologischem Bezug</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.10263</doi>       <pages/>       <volume/>       <number>doi</number>       <keywords>         <keyword>Bibliographie</keyword>         <keyword>ArcheoInf</keyword>         <keyword>Testdaten</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-06-01</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Dieses Paket enth&amp;auml;lt bibliographische Daten zu Zeitschriftenartikeln mit arch&amp;auml;ologischem Hintergrund aus den Jahren 2007 bis 2011 in den Formaten MODS, RDF/XML und im Apache-Solr-Add-Format.&lt;br /&gt;     &lt;br /&gt;     Die Daten wurden zum Test des im Projekt aufgebauten Systems erzeugt und haben den Stand vom 28.06.2012.&lt;br /&gt;     &lt;br /&gt;     Die Daten wurden mit den im Projekt ArcheoInf entwickelten Werkzeugen erzeugt. Die Werkzeuge sind auf GitHub unter https://github.com/ArcheoInf/bibdata abgelegt.&lt;br /&gt;     &lt;br /&gt;     Neben diesen Datens&amp;auml;tzen haben die Bibliothken auch die Software ... auf GitHub abgelegt ([ArcheoInf auf GitHub](https://github.com/ArcheoInf/bibdata)). Das letzte (bzw. einzige) Release dieses Softwarearchiv wurde ebenfalls auf Zenodo archiviert.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8441818c54998b9d5c3a572aef6b6e19", 
+    "source_url": "https://zenodo.org/record/10263/export/xe"
+}

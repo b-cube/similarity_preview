@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0534'>  <front> <title>Lost message detection</title> <author initials='D.C.' surname='Walden' fullname='D.C. Walden'> <organization /></author> <date year='1973' month='July' /></front>  <seriesInfo name='RFC' value='534' /> <format type='TXT' octets='3227' target='http://www.rfc-editor.org/rfc/rfc534.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "316b428ec9b6aac8e1cdf9200a247270", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0534.xml"
+}

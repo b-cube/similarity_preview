@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0003\">   <front>     <title>Proxy Accept Socket Service (PASS)</title>     <author initials=\"J.\" surname=\"Miller\" fullname=\"Jeremie Miller\">       <organization/>       <address>         <email>jer@jabber.org</email>       </address>     </author>     <author initials=\"R.\" surname=\"Eatmon\" fullname=\"Ryan Eatmon\">       <organization/>       <address>         <email>reatmon@jabber.org</email>       </address>     </author>     <date day=\"03\" month=\"June\" year=\"2009\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0003\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0003.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e37ef90bb508e3bcdfbee12b2d64d251", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0003.xml"
+}

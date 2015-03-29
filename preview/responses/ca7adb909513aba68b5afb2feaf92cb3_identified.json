@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Iktimed Project</ShortName>   <Description></Description>   <InputEncoding>UTF-8</InputEncoding>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.iktimed.eu/index.php/component/search/?plugin=cbgroupjive&amp;action=groups&amp;func=show&amp;cat=1&amp;grp=6&amp;task=pluginclass&amp;format=opensearch\"/>   <Url type=\"text/html\" template=\"http://www.iktimed.eu/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ca7adb909513aba68b5afb2feaf92cb3", 
+    "source_url": "http://www.iktimed.eu/index.php/component/search/?plugin=cbgroupjive&action=groups&func=show&cat=1&grp=6&task=pluginclass&format=opensearch"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <jnlp spec=\"1.0\"       codebase=\"http://jogamp.org/deployment/archive/rc/v2.3.0/jogl-demos\"       href=\"worldwind.jnlp\">     <information>         <title>World Wind Java Application</title>         <vendor>NASA</vendor>         <homepage href=\"http://worldwind.arc.nasa.gov\"/>         <description>World Wind Java Basic Demo</description>         <description kind=\"short\">World Wind Java Application</description>         <offline-allowed/>     </information>   <update check=\"background\" policy=\"always\"/>      <resources>         <j2se href=\"http://java.sun.com/products/autodl/j2se\" version=\"1.5+\" initial-heap-size=\"512m\"               max-heap-size=\"512m\"/>         <jar href=\"worldwind.jar\" main=\"true\"/>         <extension name=\"jogl-all-awt\" href=\"http://jogamp.org/deployment/archive/rc/v2.3.0/jogl-all-awt.jnlp\" version=\"v2.3.0\"/>     </resources>     <application-desc main-class=\"worldwinddemo.BasicDemo\">     </application-desc> </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "855e4070cf1c190d431a2138cb9f9407", 
+    "source_url": "http://jogamp.org/deployment/jogamp-next/jogl-demos/worldwind.jnlp"
+}

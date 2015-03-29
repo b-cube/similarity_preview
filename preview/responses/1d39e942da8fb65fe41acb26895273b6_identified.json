@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Learning and Adaptation in a Recurrent Model of V1 Orientation Selectivity</dc:title><dc:creator>Teich, Andrew Franklin</dc:creator><dc:creator>Qian, Ning</dc:creator><dc:date>2003</dc:date><dc:type>text</dc:type><dc:subject>Pathology</dc:subject><dc:subject>Neurosciences</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D84X55W6</dc:identifier><dc:description>Learning and adaptation in the domain of orientation processing are among the most studied topics in the literature. However, little effort has been devoted to explaining the diverse array of experimental findings via a physiologically based model. We have started to address this issue in the framework of the recurrent model of V1 orientation selectivity and found that reported changes in V1 orientation tuning curves after learning and adaptation can both be explained with the model. Specifically, the sharpening of orientation tuning curves near the trained orientation after learning can be accounted for by slightly reducing net excitatory connections to cells around the trained orientation, while the broadening and peak shift of the tuning curves after adaptation can be reproduced by appropriately scaling down both excitation and inhibition around the adapted orientation. In addition, we investigated the perceptual consequences of the tuning curve changes induced by learning and adaptation using signal detection theory. We found that in the case of learning, the physiological changes can account for the psychophysical data well. In the case of adaptation, however, there is a clear discrepancy between the psychophysical data from alert human subjects and the physiological data from anesthetized animals. Instead, human adaptation studies can be better accounted for by the learning data from behaving animals. Our work suggests that adaptation in behaving subjects may be viewed as a short-term form of learning.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1d39e942da8fb65fe41acb26895273b6", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A173605.xml"
+}

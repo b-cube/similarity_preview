@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <species  status='valid'      totalpics='0'       total_adult='0'       total_stamps='0'       total_diseases='0'       total_larvae='0'       link='http://www.fishbase.us/photos/ThumbnailsSummary.php?id=58762'    >     <speccode>58762</speccode>     <genus>Uncisudis</genus>     <speciesfb>advena</speciesfb>    </species>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c4566ece159b0b7ad075fba22893cd40", 
+    "source_url": "http://www.fishbase.org/webservice/Photos/FishPicsList.php?Genus=Uncisudis&Species=advena&type="
+}

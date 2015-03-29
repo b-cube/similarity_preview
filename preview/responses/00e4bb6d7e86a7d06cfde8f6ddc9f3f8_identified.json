@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Fitzwilliam Museum</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/722\" rel=\"alternate\"/> <subtitle>The Fitzwilliam Museum</subtitle> <id>http://www.repository.cam.ac.uk:80/handle/1810/722</id> <updated>2015-03-12T02:54:01Z</updated> <dc:date>2015-03-12T02:54:01Z</dc:date> <entry> <title>The Fitzwilliam Museum Newsletter Autumn/Winter 2004</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/3488\" rel=\"alternate\"/> <author> <name/> </author> <id>http://www.repository.cam.ac.uk:80/handle/1810/3488</id> <updated>2013-07-25T12:47:26Z</updated> <published>2004-11-01T00:00:00Z</published> <summary type=\"text\">The Fitzwilliam Museum Newsletter Autumn/Winter 2004 The Fitzwilliam Museum Newsletter Autumn/Winter 2004 Articles include: - Open for Business!, From the Director, Innovative eGuide puts Museum's collections in vistors hands, Searching the stairs for Oysters, The Macclesfield Psalter, Lucian Freoud: Etchings 1946-2004, Meet the Antiquities, Fitzwilliam launches Big Draw 2004, Working with the business community, Friends of the Fitzwilliam Museum The Fitzwilliam Museum Newsletter Autumn/Winter 2004 </summary> <dc:date>2004-11-01T00:00:00Z</dc:date> </entry> <entry> <title>The Fitzwilliam Museum Newsletter 22</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/1474\" rel=\"alternate\"/> <author> <name/> </author> <id>http://www.repository.cam.ac.uk:80/handle/1810/1474</id> <updated>2013-07-25T12:49:33Z</updated> <published>2004-01-01T00:00:00Z</published> <summary type=\"text\">The Fitzwilliam Museum Newsletter 22 The Fitzwilliam Museum Newsletter Winter 2003/2004&#13; Articles include:&#13; - The Courtyard Development: Coutdown to relaunch&#13; - From the Director&#13; - Art into Literacy&#13; - French Impressionism at The Fitzwilliam Museum&#13; - Leonard Gray&#13; - Refurbishing the Egyptian Galleries&#13; - Friends of the Fitzwilliam Museum The Fitzwilliam Museum Newsletter Winter 2003/2004 </summary> <dc:date>2004-01-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "00e4bb6d7e86a7d06cfde8f6ddc9f3f8", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/atom_1.0/1810/722"
+}

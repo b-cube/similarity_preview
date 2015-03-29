@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr0141</identifier><identifier type=\"pwpk\">31214</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2001-41</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A laboratory manual for X-ray powder diffraction</title></titleInfo><originInfo><dateOther>Sun, 1 Jul 2001 00:00 -0500</dateOther><dateIssued>2001</dateIssued></originInfo><name><namePart>Poppe, L.J.; Paskevich, V.F.; Hathaway, J.C.; Blackwood, D.S.</namePart><role>Author</role></name><physicalDescription><form>One CD-ROM.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/usgs_thumb.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/openfile/of01-041/ </url></location><note type=\"citation/reference\">A laboratory manual for X-ray powder diffraction; 2001; OFR; 2001-41; Open-File Report; Poppe, L.J.; Paskevich, V.F.; Hathaway, J.C.; Blackwood, D.S.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b62f0c6eddff06cfb88f8dc827c96335", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr0141"
+}

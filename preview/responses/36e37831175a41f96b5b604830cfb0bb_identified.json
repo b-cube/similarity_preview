@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.NOTE-xml-canonical-req-19990605'            target='http://www.w3.org/TR/1999/NOTE-xml-canonical-req-19990605'> <front> <title>XML Canonicalization Requirements</title>  <author initials='J.' surname='Tauber' fullname='James Tauber'>     <organization /> </author>  <author initials='J.' surname='Nava' fullname='Joel Nava'>     <organization /> </author>  <date month='June' day='5' year='1999' /> </front>  <seriesInfo name='World Wide Web Consortium NOTE' value='NOTE-xml-canonical-req-19990605' /> <format type='HTML' target='http://www.w3.org/TR/1999/NOTE-xml-canonical-req-19990605' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "36e37831175a41f96b5b604830cfb0bb", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-xml-canonical-req-19990605.xml"
+}

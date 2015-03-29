@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123040</identifier><identifier type=\"pwpk\">70037874</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3040</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>The Cottonwood Lake study area, a long-term wetland ecosystem monitoring site</title></titleInfo><originInfo><dateOther>Thu, 22 Mar 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Mushet, David M.; Euliss, Ned H.</namePart><role>Author</role></name><abstract>The Cottonwood Lake study area is one of only three long-term wetland ecosystem monitoring sites in the prairie pothole region of North America; the other two are Orchid Meadows in South Dakota and St. Denis in Saskatchewan. Of the three, Cottonwood Lake has, by far, the longest continuous data-collection record. Research was initiated at the study area in 1966, and intensive investigations of the hydrology, chemistry, and biology of prairie pothole wetlands continue at the site today. This fact sheet describes the study area, provides an overview of wetland ecology research that has been conducted at the site in the past, and provides an introduction to current work being conducted at the study area by USGS scientists.</abstract><physicalDescription><form>2 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3040.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3040/</url></location><note type=\"citation/reference\">The Cottonwood Lake study area, a long-term wetland ecosystem monitoring site; 2012; FS; 2012-3040; Fact Sheet; Mushet, David M.; Euliss, Ned H.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "59189fdd4aeb6076af90f0deb67714c2", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123040"
+}

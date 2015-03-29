@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ANSI.X9-52.1998\"> <front> <title>Triple Data Encryption Algorithm Modes of Operation</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1998\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X9.52\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fa807f0b9526fa5bc41dcd9f9c25e3da", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ANSI.X9-52.1998.xml"
+}

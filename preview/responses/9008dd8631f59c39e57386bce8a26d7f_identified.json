@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>  <OAI-PMH xmlns=\"http://www.openarchives.org/OAI/2.0/\"  xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"  xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd\"> <responseDate>2015-03-18T06:17:00Z</responseDate> <request>http://grid.bodc.nerc.ac.uk/oai/provider</request>      <error code=\"badVerb\">The verb argument is required but does not exist</error>  </OAI-PMH>        ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": true, 
+        "version": "", 
+        "protocol": "OAI-PMH", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9008dd8631f59c39e57386bce8a26d7f", 
+    "source_url": "http://grid.bodc.nerc.ac.uk/oai/provider"
+}

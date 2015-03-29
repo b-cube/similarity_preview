@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>  <manifest xmlns=\"http://schemas.microsoft.com/wlw/manifest/weblog\">    <options>     <clientType>WordPress</clientType>  <supportsKeywords>Yes</supportsKeywords>  <supportsGetTags>Yes</supportsGetTags>   </options>      <weblog>     <serviceName>WordPress</serviceName>     <imageUrl>images/wlw/wp-icon.png</imageUrl>     <watermarkImageUrl>images/wlw/wp-watermark.png</watermarkImageUrl>     <homepageLinkText>View site</homepageLinkText>     <adminLinkText>Dashboard</adminLinkText>     <adminUrl>       <![CDATA[     {blog-postapi-url}/../wp-admin/    ]]>     </adminUrl>     <postEditingUrl>       <![CDATA[     {blog-postapi-url}/../wp-admin/post.php?action=edit&post={post-id}    ]]>     </postEditingUrl>   </weblog>    <buttons>     <button>       <id>0</id>       <text>Manage Comments</text>       <imageUrl>images/wlw/wp-comments.png</imageUrl>       <clickUrl>         <![CDATA[      {blog-postapi-url}/../wp-admin/edit-comments.php    ]]>       </clickUrl>     </button>    </buttons>  </manifest>  <!--This file was generated at 9:02 pm on March 3, 2015.  It will be served until it expires on March 3, 2015 9:32 pm-->", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6fb6a3a08526c3e13b710175f33f5586", 
+    "source_url": "http://www.utexas.edu/know/wp-includes/wlwmanifest.xml"
+}

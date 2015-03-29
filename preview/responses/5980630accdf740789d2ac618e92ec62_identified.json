@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Georgia Tech Police Department</title> <link href=\"http://hdl.handle.net/1853/25846\" rel=\"alternate\"/> <subtitle>The Georgia Institute of Technology Police Department is a fully operational State agency devoted to the protection of the campus, its students, faculty, staff and visitors.</subtitle> <id>http://hdl.handle.net/1853/25846</id> <updated>2015-03-06T08:29:30Z</updated> <dc:date>2015-03-06T08:29:30Z</dc:date> <entry> <title>Campus Safety Report, 2014</title> <link href=\"http://hdl.handle.net/1853/52721\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52721</id> <updated>2014-10-28T07:31:39Z</updated> <published>2014-01-01T00:00:00Z</published> <summary type=\"text\">Campus Safety Report, 2014 </summary> <dc:date>2014-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Crime Awareness Brochure, 2013</title> <link href=\"http://hdl.handle.net/1853/49405\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/49405</id> <updated>2013-11-12T08:32:28Z</updated> <published>2013-01-01T00:00:00Z</published> <summary type=\"text\">Crime Awareness Brochure, 2013 </summary> <dc:date>2013-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Campus Crime Awareness Appendix, 2011</title> <link href=\"http://hdl.handle.net/1853/45259\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/45259</id> <updated>2012-11-07T08:32:08Z</updated> <published>2011-01-01T00:00:00Z</published> <summary type=\"text\">Campus Crime Awareness Appendix, 2011 </summary> <dc:date>2011-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Campus Fire Safety Report, 2012</title> <link href=\"http://hdl.handle.net/1853/45258\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/45258</id> <updated>2012-11-07T08:32:11Z</updated> <published>2012-01-01T00:00:00Z</published> <summary type=\"text\">Campus Fire Safety Report, 2012 </summary> <dc:date>2012-01-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5980630accdf740789d2ac618e92ec62", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/25846"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">     <ShortName>Confluence</ShortName>     <Description>Atlassian Confluence Search Provider</Description>     <Image height=\"16\" width=\"16\" type=\"image/x-icon\">https://confluence.sakaiproject.org/images/logo/confluence_48_white.png</Image>     <Image height=\"64\" width=\"64\" type=\"image/png\">https://confluence.sakaiproject.org/images/logo/confluence_128_white.png</Image>     <Url type=\"text/html\" template=\"https://confluence.sakaiproject.org/dosearchsite.action?queryString={searchTerms}\"/>     <Query role=\"example\" searchTerms=\"Confluence\"/>     <InputEncoding>UTF-8</InputEncoding>     <moz:SearchForm>https://confluence.sakaiproject.org/searchsite.action</moz:SearchForm> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4eb2f640dc1a703aa30c08db50cb09d9", 
+    "source_url": "https://confluence.sakaiproject.org/opensearch/osd.action"
+}

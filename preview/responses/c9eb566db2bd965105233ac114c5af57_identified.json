@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <?xml-stylesheet type=\"text/xsl\" href=\"gss.xsl\"?> <sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <sitemap><loc>https://www.bodc.ac.uk/sitemap.xml.gz</loc><lastmod>2012-06-04T10:16:48+00:00</lastmod></sitemap> <sitemap><loc>https://www.bodc.ac.uk/sitemap2.xml.gz</loc><lastmod>2012-06-04T10:16:48+00:00</lastmod></sitemap> <sitemap><loc>https://www.bodc.ac.uk/sitemap3.xml.gz</loc><lastmod>2012-06-04T10:16:48+00:00</lastmod></sitemap> <sitemap><loc>https://www.bodc.ac.uk/sitemap4.xml.gz</loc><lastmod>2012-06-04T10:16:48+00:00</lastmod></sitemap> <sitemap><loc>https://www.bodc.ac.uk/sitemap5.xml.gz</loc><lastmod>2012-06-04T10:16:48+00:00</lastmod></sitemap> <sitemap><loc>https://www.bodc.ac.uk/sitemap6.xml.gz</loc><lastmod>2012-06-04T10:16:48+00:00</lastmod></sitemap> </sitemapindex>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c9eb566db2bd965105233ac114c5af57", 
+    "source_url": "http://www.bodc.ac.uk/sitemap-index.xml"
+}

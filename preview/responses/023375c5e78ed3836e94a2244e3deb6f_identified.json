@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/ncml/TRMM_L2\" ID=\"/opendap/hyrax/ncml/TRMM_L2/\">             <thredds:catalogRef name=\"TRMM_2A12\" xlink:href=\"TRMM_2A12/catalog.xml\" xlink:title=\"TRMM_2A12\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/ncml/TRMM_L2/TRMM_2A12/\"/>             <thredds:catalogRef name=\"TRMM_2A21\" xlink:href=\"TRMM_2A21/catalog.xml\" xlink:title=\"TRMM_2A21\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/ncml/TRMM_L2/TRMM_2A21/\"/>             <thredds:catalogRef name=\"TRMM_2A23\" xlink:href=\"TRMM_2A23/catalog.xml\" xlink:title=\"TRMM_2A23\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/ncml/TRMM_L2/TRMM_2A23/\"/>             <thredds:catalogRef name=\"TRMM_2A25\" xlink:href=\"TRMM_2A25/catalog.xml\" xlink:title=\"TRMM_2A25\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/ncml/TRMM_L2/TRMM_2A25/\"/>             <thredds:catalogRef name=\"TRMM_2B31\" xlink:href=\"TRMM_2B31/catalog.xml\" xlink:title=\"TRMM_2B31\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/ncml/TRMM_L2/TRMM_2B31/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "023375c5e78ed3836e94a2244e3deb6f", 
+    "source_url": "http://disc2.nascom.nasa.gov/opendap/ncml/TRMM_L2/catalog.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.8443</dc:identifier><dc:creator>Petry, Sarah</dc:creator><dc:creator>Beyer, Katrin</dc:creator><dc:title>Cyclic test data of six unreinforced masonry walls with different boundary conditions</dc:title><dc:subject>cc-by-sa</dc:subject><dc:description>&lt;p&gt;Previous test data on unreinforced masonry walls focused on the global response of the wall. A new dataset on six wall tests, which is publically available, allows linking global to local deformations of masonry walls, which can be useful for advancing performance-based design and assessment methods for unreinforced masonry buildings. This data paper presents the&lt;br /&gt; results of a test series on six identical unreinforced masonry walls that were constructed using hollow clay brick units and standard cement-based mortar.&lt;br /&gt; The test units were subjected to quasi-static cycles of increasing drift demands and the tests differed with regard to the applied axial load and the moment restraint applied at the top of the walls. The walls were tested up to failure. Throughout the loading the deformations of the walls were recorded using a digital photogrammetric measurement system tracking the movement of 312 points per test unit.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-02-26</dc:date><dc:source>http://zenodo.org/record/8443</dc:source><dc:doi>10.5281/zenodo.8443</dc:doi><dc:identifier>http://zenodo.org/record/8443</dc:identifier><dc:identifier>oai:zenodo.org:8443</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4978a3cf2e4febb7f47f9e17791a3337", 
+    "source_url": "http://zenodo.org/record/8443/export/xd"
+}

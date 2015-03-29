@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Hammarstr\\ufffd\\ufffdm, Harald</a1>   <a2>Forkel, Robert</a2>   <a2>Haspelmath, Martin</a2>   <a2>Nordhoff, Sebastian</a2>   <t1>Glottolog database 2.3</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Hammarstr&amp;ouml;m, Harald &amp;amp; Forkel, Robert &amp;amp; Haspelmath, Martin &amp;amp; Nordhoff, Sebastian. 2014. Glottolog 2.3. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://glottolog.org)&lt;/p&gt;</ab>   <la/>   <k1>linguistics;                 </k1>   <pb/>   <pp/>   <yr>2014-07-16</yr>   <ed/>   <ul>http://zenodo.org/record/10899/files/glottolog-data-v2.3.zip;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "33aa6be572dd710c480ea99c7a993233", 
+    "source_url": "https://zenodo.org/record/10899/export/xw"
+}

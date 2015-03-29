@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!DOCTYPE codermap [ <!ELEMENT codermap (coder)*> <!ELEMENT coder (#PCDATA)> <!ATTLIST coder magick CDATA #REQUIRED> <!ATTLIST coder name CDATA #REQUIRED> ]> <!--   Associate an image format with the specified coder module.    ImageMagick has a number of coder modules to support the reading and/or   writing of an image format (e.g. JPEG). Some coder modules support more   than one associated image format and the mapping between an associated   format and its respective coder module is defined in this configuration   file. For example, the PNG coder module not only supports the PNG image   format, but the JNG and MNG formats as well. --> <codermap>   <!-- <coder magick=\"GIF87\" name=\"GIF\"/> -->   <!-- <coder magick=\"JPG\" name=\"JPEG\"/> -->   <!-- <coder magick=\"PGM\" name=\"PNM\"/> --> </codermap> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "184715fdf06bd9fc835dc62929e8d36f", 
+    "source_url": "http://www.imagemagick.org/source/coder.xml"
+}

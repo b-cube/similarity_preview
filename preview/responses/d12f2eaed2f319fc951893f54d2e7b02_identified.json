@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/Meteor3_TOMS_Level3/TOMSM3L3.008\"                     ID=\"/opendap/hyrax/Meteor3_TOMS_Level3/TOMSM3L3.008/\">             <thredds:catalogRef name=\"1991\" xlink:href=\"1991/catalog.xml\" xlink:title=\"1991\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Meteor3_TOMS_Level3/TOMSM3L3.008/1991/\"/>             <thredds:catalogRef name=\"1992\" xlink:href=\"1992/catalog.xml\" xlink:title=\"1992\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Meteor3_TOMS_Level3/TOMSM3L3.008/1992/\"/>             <thredds:catalogRef name=\"1993\" xlink:href=\"1993/catalog.xml\" xlink:title=\"1993\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Meteor3_TOMS_Level3/TOMSM3L3.008/1993/\"/>             <thredds:catalogRef name=\"1994\" xlink:href=\"1994/catalog.xml\" xlink:title=\"1994\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Meteor3_TOMS_Level3/TOMSM3L3.008/1994/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "d12f2eaed2f319fc951893f54d2e7b02", 
+    "source_url": "http://acdisc.gsfc.nasa.gov/opendap/Meteor3_TOMS_Level3/TOMSM3L3.008/catalog.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-eventsource-20121211'            target='http://www.w3.org/TR/2012/CR-eventsource-20121211'> <front> <title>Server-Sent Events</title>  <author initials='I.' surname='Hickson' fullname='Ian Hickson'>     <organization /> </author>  <date month='December' day='11' year='2012' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-eventsource-20121211' /> <format type='HTML' target='http://www.w3.org/TR/2012/CR-eventsource-20121211' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "89ef88b55664b52fc03f8e907dea97c5", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.CR-eventsource-20121211.xml"
+}

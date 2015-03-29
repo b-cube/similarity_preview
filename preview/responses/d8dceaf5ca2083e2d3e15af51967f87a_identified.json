@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">             <channel rdf:about=\"http://www.icsu.org/icsu-latin-america/events/events-list/RSS\">   <title>Regional events</title>   <link>http://www.icsu.org</link>    <description>                    </description>                     <syn:updatePeriod>daily</syn:updatePeriod>             <syn:updateFrequency>1</syn:updateFrequency>             <syn:updateBase>2011-02-21T00:22:42Z</syn:updateBase>             <image rdf:resource=\"http://www.icsu.org/logo.png\"/>    <items>     <rdf:Seq>     </rdf:Seq>   </items>  </channel>      </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d8dceaf5ca2083e2d3e15af51967f87a", 
+    "source_url": "http://www.icsu.org/icsu-latin-america/events/events-list/RSS"
+}

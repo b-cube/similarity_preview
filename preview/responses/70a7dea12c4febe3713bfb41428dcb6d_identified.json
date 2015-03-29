@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0590'>  <front> <title>MULTICS address change</title> <author initials='M.A.' surname='Padlipsky' fullname='M.A. Padlipsky'> <organization /></author> <date year='1973' month='November' /></front>  <seriesInfo name='RFC' value='590' /> <format type='TXT' octets='1436' target='http://www.rfc-editor.org/rfc/rfc590.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "70a7dea12c4febe3713bfb41428dcb6d", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0590.xml"
+}

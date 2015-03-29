@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0419'>  <front> <title>To: Network liaisons and station agents</title> <author initials='A.' surname='Vezza' fullname='A. Vezza'> <organization /></author> <date year='1972' month='December' /></front>  <seriesInfo name='RFC' value='419' /> <format type='TXT' octets='1252' target='http://www.rfc-editor.org/rfc/rfc419.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0eab1f4519319f9b3b93fda8fc6762ce", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0419.xml"
+}

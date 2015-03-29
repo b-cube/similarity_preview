@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Mahendra, Edo</author>         </authors>       </contributors>       <titles>         <title>Financial Constraints, Social Policy and Migration: Evidence from Indonesia</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12768</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>Migration</keyword>         <keyword>Social Policy</keyword>         <keyword>Indonesia</keyword>         <keyword>Financial Constraints</keyword>         <keyword>Origin Country</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-11-17</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;          &lt;p&gt;This paper combines insights from the New Economics of Labour Migration and Sen&amp;rsquo;s capability approach to analyse how financial constraints and social policy in the sending country influence migration decisions of households. It particularly looks into social protection (cash transfers) and quasi-public goods (health and education infrastructure) in Indonesia. The paper analyses the impact of the 2005 unconditional cash transfers scheme in Indonesia on households&amp;rsquo; migration decisions. It combines internal and international migration in an integrated empirical analysis. Household-level data from the Indonesian Family Life Survey and the district-level data of education and health infrastructure are used for the empirical analysis.&lt;/p&gt;          &lt;p&gt;This paper finds that financial constraints and social policy significantly impact migration decisions. Their effects, however, vary according to the households&amp;rsquo; deprivation profiles and the types of migration. The impact of unconditional cash transfer schemes depends on its income and substitution effects. Using propensity score matching strategy, I find that unconditional cash transfers increase the incentives for households to engage in internal migration but have no significant impact on international migration. I also find that multidimensionally poor households who receive unconditional cash transfers are less likely to have an international migrant family member but are more likely to engage in internal migration. Households with lack access to finance have lower propensity to participate in international migration. Better access to education and health facilities is associated with less international migration.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3928dd805a230792bd4c446a285d5bdb", 
+    "source_url": "https://zenodo.org/record/12768/export/xe"
+}

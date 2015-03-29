@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Bio-Sampling Column Notes-CNMI</dc:title>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>reef fish, bottomfish, fishing, life history, otoliths, gonads, gsi</dc:subject>    <dcterms:abstract>Column notes of what could be included for each row of the CNMI Life History Bio-Sampling Data Set.</dcterms:abstract>    <dc:publisher>Pacific Islands Fisheries Science Center</dc:publisher>    <dc:creator>Pacific Islands Fisheries Science Center</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/12756</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/12561</dcterms:isPartOf> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bbe08f645f3608240ff69d097be1c7e7", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/12756/dublin-core"
+}

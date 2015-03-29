@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/one_geology_wms/USGS_Geologic_Map_of_North_America_GFI/MapServer</loc> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/one_geology_wms/USGS_Geologic_Map_of_North_America/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "20c0ec759c672bd67ea3f948716a757b", 
+    "source_url": "http://certmapper.cr.usgs.gov/arcgis/rest/services/one_geology_wms?f=sitemap"
+}

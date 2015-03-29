@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Danalet, Antonin</author>         </authors>       </contributors>       <titles>         <title>A Bayesian Approach to Detect Pedestrian Destination-Sequences from WiFi Signatures: Data (tech. report 2013)</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.8492</doi>       <pages>2014</pages>       <volume/>       <number/>       <keywords>         <keyword>Network traces</keyword>         <keyword>WiFi traces</keyword>         <keyword>Pedestrians</keyword>         <keyword>Semantically-Enriched Routing Graph (SERG)</keyword>         <keyword>Potential Attractivity Measure (PAM)</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-03-12</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;This dataset contains the data used in:&lt;/p&gt;          &lt;p&gt;Danalet, A., Farooq, B. and Bierlaire, M. (2013). A Bayesian Approach to Detect Pedestrian Destination-Sequences from WiFi Signatures, Technical report, Transport and Mobility Laboratory, ENAC, Ecole Polytechnique Fe\\ufffd\\ufffdde\\ufffd\\ufffdrale de Lausanne, Lausanne. URL: http://infoscience.epfl.ch/record/189759 (full text available)&lt;/p&gt;          &lt;p&gt;It contains data and a technical report describing&lt;/p&gt;          &lt;ul&gt;      &lt;li&gt;WiFi traces&lt;/li&gt;      &lt;li&gt;Pedestrian Semantically-Enriched Routing Graph (SERG), and&lt;/li&gt;      &lt;li&gt;Potential Attractivity measure (PAM).&lt;/li&gt;     &lt;/ul&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aa2b8a5d32b8fa81014798bc4a5c4afb", 
+    "source_url": "http://zenodo.org/record/8492/export/xe"
+}

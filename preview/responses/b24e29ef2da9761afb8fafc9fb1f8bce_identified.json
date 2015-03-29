@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <rdf:RDF    xmlns='http://purl.org/rss/1.0/'   xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'   xmlns:dc='http://purl.org/dc/elements/1.1/'>      <channel rdf:about='http://xml.resource.org/public/rfc/bibxml4/index.rdf'>         <title>Recent W3C publications</title>         <link>http://xml.resource.org/public/rfc/bibxml4/index.rdf</link>         <description>Automatically generated from tr.rdf</description>         <dc:language>en-us</dc:language>         <dc:date>2014-04-24T23:14:55-00:00</dc:date>          <items><rdf:Seq>             <rdf:li resource='http://www.w3.org/TR/2015/WD-css3-ui-20150310' />         </rdf:Seq></items>     </channel>  <item rdf:about='http://www.w3.org/TR/2015/WD-css3-ui-20150310'>     <title>\"CSS Basic User Interface Module Level 3 (CSS3 UI)\", Tantek \\ufffd\\ufffd\\ufffd\\ufffdelik</title>     <link>http://www.w3.org/TR/2015/WD-css3-ui-20150310</link>     <dc:date>2015-03-10T07:00:00-00:00</dc:date> </item>   </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b24e29ef2da9761afb8fafc9fb1f8bce", 
+    "source_url": "http://xml2rfc.tools.ietf.org/public/rfc/bibxml4/index.rdf"
+}

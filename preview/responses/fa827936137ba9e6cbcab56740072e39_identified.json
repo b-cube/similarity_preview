@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <root xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">   <dataroot>     <resources>       <sector>Agriculture</sector>       <cadmium>-53.2843</cadmium>       <mercury>-53.506</mercury>       <lead>-53.4272</lead>     </resources>     <resources>       <sector>Commercial, institutional and households</sector>       <cadmium>-45.4394</cadmium>       <mercury>-52.2306</mercury>       <lead>-63.6677</lead>     </resources>     <resources>       <sector>Energy production and distribution</sector>       <cadmium>-72.232</cadmium>       <mercury>-68.3953</mercury>       <lead>-77.4192</lead>     </resources>     <resources>       <sector>Energy use in industry</sector>       <cadmium>-72.6326</cadmium>       <mercury>-76.3197</mercury>       <lead>-56.0169</lead>     </resources>     <resources>       <sector>Industrial processes</sector>       <cadmium>-69.8705</cadmium>       <mercury>-72.3341</mercury>       <lead>-73.2998</lead>     </resources>     <resources>       <sector>Non-road transport</sector>       <cadmium>-21.8496</cadmium>       <mercury>-6.6347</mercury>       <lead>-88.675</lead>     </resources>     <resources>       <sector>Other</sector>       <cadmium>1.5379</cadmium>       <mercury>0.0081</mercury>       <lead>2.2658</lead>     </resources>     <resources>       <sector>Road transport</sector>       <cadmium>-30.768</cadmium>       <mercury>-6.1233</mercury>       <lead>-98.2855</lead>     </resources>     <resources>       <sector>Solvent and product use</sector>       <cadmium>15.7896</cadmium>       <mercury>-90.069</mercury>       <lead>-85.9966</lead>     </resources>     <resources>       <sector>Waste</sector>       <cadmium>-92.8068</cadmium>       <mercury>-88.4635</mercury>       <lead>-58.2267</lead>     </resources>   </dataroot>   <xsd:schema>     <xsd:element name=\"dataroot\">       <xsd:complexType>         <xsd:sequence>           <xsd:element ref=\"resources\" minOccurs=\"0\" maxOccurs=\"unbounded\"/>         </xsd:sequence>       </xsd:complexType>     </xsd:element>     <xsd:element name=\"resources\">       <xsd:complexType>         <xsd:sequence>             <xsd:element minOccurs=\"0\" name=\"sector\" type=\"xsd:string\" />             <xsd:element minOccurs=\"0\" name=\"cadmium\" type=\"xsd:double\" />             <xsd:element minOccurs=\"0\" name=\"mercury\" type=\"xsd:double\" />             <xsd:element minOccurs=\"0\" name=\"lead\" type=\"xsd:double\" />         </xsd:sequence>       </xsd:complexType>     </xsd:element>   </xsd:schema> </root> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fa827936137ba9e6cbcab56740072e39", 
+    "source_url": "http://www.eea.europa.eu/data-and-maps/daviz/change-in-cadmium-mercury-and-1/download.schema.xml"
+}

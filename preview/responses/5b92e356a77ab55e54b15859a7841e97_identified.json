@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0067\">   <front>     <title>Stock Data Transmission</title>     <author initials=\"U.\" surname=\"Staudinger\" fullname=\"Ulrich Staudinger\">       <organization/>       <address>         <email>chicago5@gmx.de</email>       </address>     </author>     <date day=\"19\" month=\"July\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0067\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0067.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5b92e356a77ab55e54b15859a7841e97", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0067.xml"
+}

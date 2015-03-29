@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <?xml-stylesheet href=\"http://www.atomenabled.org/css/atom.css\" type=\"text/css\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">  <icon>http://www.lsoft.com/images/listserv-community.gif</icon> <logo>http://www.lsoft.com/images/listserv_small.gif</logo> <link rel=\"related\" href=\"http://www.lsoft.com/products/listserv-powered.asp\" title=\"Powered by L-Soft's LISTSERV mailing list manager\"/>  <title>GP-EBM List</title> <subtitle>GP-EBM List Archives</subtitle> <link rel=\"alternate\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=GP-EBM\"/> <link rel=\"self\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=GP-EBM&amp;v=ATOM1.0\"/> <id>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=GP-EBM&amp;v=ATOM1.0</id> <div class=\"info\" xmlns=\"http://www.w3.org/1999/xhtml\">This is an Atom formatted XML site feed. It is intended to be viewed in a Newsreader. Alternatively you can view the HTML archives at https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=GP-EBM. </div> <generator uri=\"/cgi-bin/webadmin?DEBUG-SHOW-VERSION\">LISTSERV Web Interface 2.4.1</generator> <updated>2014-06-12T13:55:55Z</updated>   <entry xmlns='http://www.w3.org/2005/Atom'>   <link rel='alternate' href='https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=GP-EBM;5afde8.1406' title='Important information about GP-EBM mailing list '/>   <author>      <name>JiscMail Helpline</name>   </author>   <published>2014-06-12T15:55:23+01:00</published>   <updated>2014-06-12T15:55:23+01:00</updated>   <title>Important information about GP-EBM mailing list </title>   <id>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=GP-EBM;5afde8.1406</id>   <content type='html'>This is a message from JiscMail Helpline to all subscribers of the GP-EBM mailing list.&lt;br&gt;&lt;br&gt;The list has not been used for over 3 years. We have contacted the people who run the list (list owners) to decide on the future of the list, but have not received a response.&lt;br&gt;&lt;br&gt;We plan to close and RETAIN the list **w/c 7th July 2014** [...]</content> </entry>  </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "39c0b1c8b6b563620a0681e659fa98db", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=GP-EBM&v=ATOM1.0"
+}

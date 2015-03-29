@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2015-03-16 08:58:49</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a7f50ce-4968-46c8-86a6-23ea13c1830c\"    xml:base=\"http://gcmdservices.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/sciencekeywords\"/>    <skos:prefLabel xml:lang=\"en\">POLAR MESOSPHERIC CLOUDS</skos:prefLabel>    <skos:definition xml:lang=\"en\">are a diffuse scattering layer of water ice crystals near the summer polar mesopause.</skos:definition>    <skos:broader rdf:resource=\"04bc6942-12e0-413f-94d2-1ba7f5edf595\"/>    <skos:changeNote>2013-03-20 15:33:12.0 [mpmorahan]   insert Definition (id: null text: are a diffuse scattering layer of water ice crystals near the summer polar mesopause. language code: en);  </skos:changeNote>    <skos:changeNote>2013-02-12 11:06:27.0 [mpmorahan] Insert Concept  add broader relation (POLAR MESOSPHERIC CLOUDS [0a7f50ce-4968-46c8-86a6-23ea13c1830c,82139] - MESOSPHERIC CLOUDS (OBSERVED/ANALYZED) [04bc6942-12e0-413f-94d2-1ba7f5edf595,82119]);  </skos:changeNote> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e09b5c1c89ac4129f6b2303a05ddbbbe", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a7f50ce-4968-46c8-86a6-23ea13c1830c.rdf"
+}

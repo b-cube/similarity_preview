@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Kiefhaber, D.</a1>   <a2>Zappa, C.J.</a2>   <a2>J\\ufffd\\ufffdhne, B.</a2>   <t1>Measurement of wind wave statistics from specular reflections</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;The &lt;em&gt;Reflective Stereo Slope Gauge&lt;/em&gt; (RSSG) was deployed to two cruises in the tropical Pacific Ocean in Dec. 2011 and Dec. 2012 to measure statistics of small-scale wind waves. During the cruises, both open ocean (Samoa &amp;ndash; Hawaii, OSSPRE 2011 on R/V Kilo Moana) and coastal upwelling (off Peru, M91 on German FS Meteor) areas were studied. Surface displacement (wave height time series with 50 Hz sampling rate) was measured by a stereo system with two light sources (Helmholtz stereopsis), while statistics of surface slope were obtained using a method related to Cox &amp;amp; Munk&amp;rsquo;s sun glitter technique. Furthermore, information on the scale of the smallest waves was gained from the brightness of specular reflections (which is related to surface curvature). This parameter is useful for determining the presence of surface slicks. The results underline the importance of monitoring parameters other than wind speed during gas exchange measurements. The presented methods allow for robust estimates of surface slope statistics under a wide range of conditions.&lt;/p&gt;</ab>   <la/>   <k1/>   <pb/>   <pp/>   <yr>2014-02-27</yr>   <ed/>   <ul>http://zenodo.org/record/12335/files/AGU_OSM_2014_Poster.pdf;  http://zenodo.org/record/12335/files/AGU_OSM_2014_Poster.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "270629a394410d3af366df5f7ca0c892", 
+    "source_url": "https://zenodo.org/record/12335/export/xw"
+}

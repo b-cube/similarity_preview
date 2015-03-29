@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/225803\"> <title>Graduate Development Programme</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/225803</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/225960\"/> </rdf:Seq> </items> <dc:date>2015-03-13T04:50:45Z</dc:date> </channel> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/225960\"> <title>Diverse Engagement: Drawing in the Margins</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/225960</link> <description>Diverse Engagement: Drawing in the Margins French, Matthew; Jackson, Simon; Jokisuu, Elina Proceedings of the third annual Interdisciplinary Graduate Conference at the University of Cambridge. Second, revised edition of the Proceedings, originally published on CD-Rom as ISBN 978-0-9566139-0-5. </description> <dc:date>2010-06-28T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bcbbe00d3d9dd699f9a79f87d5d00e8a", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/rss_1.0/1810/225803"
+}

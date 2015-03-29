@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\" xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>pri.org</ShortName>   <Description>Search pri.org</Description>   <InputEncoding>UTF-8</InputEncoding>   <Url method=\"get\" type=\"text/html\"        template=\"http://www.pri.org/search/node/{searchTerms}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0a36a8b55ac8deadd742b2edaf527d94", 
+    "source_url": "http://www.pri.org/opensearch.xml"
+}

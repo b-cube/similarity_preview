@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.15835</dc:identifier><dc:creator>Mon\\ufffd\\ufffd, Martijn</dc:creator><dc:creator>Westerhoff, Hans</dc:creator><dc:creator>Regierer, Babette</dc:creator><dc:creator>van Driel, Roel</dc:creator><dc:creator>van Nieuwpoort, Frans</dc:creator><dc:creator>Skene, Barbara</dc:creator><dc:creator>Hermjakob, Henning</dc:creator><dc:creator>Le Nov\\ufffd\\ufffdre, Nicolas</dc:creator><dc:creator>Goble, Carole</dc:creator><dc:creator>Wolstencroft, Katy</dc:creator><dc:title>ISBE - draft proposal on connections</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;This report presents&amp;nbsp; recommendations for&amp;nbsp; what&amp;nbsp; the connections &amp;nbsp;in the&amp;nbsp; infrastructure should&amp;nbsp; comprise&amp;nbsp; and&amp;nbsp; how&amp;nbsp; they should be structured&amp;nbsp; in&amp;nbsp; order to best serve&amp;nbsp; the&amp;nbsp; above&amp;nbsp; purpose. It defines interfaces&amp;nbsp; at ISBE&amp;nbsp; nodes&amp;nbsp; that&amp;nbsp; enable R&amp;amp;D activities to integrate seamlessly.&amp;nbsp; Connections&amp;nbsp; include&amp;nbsp; computer\\ufffd\\ufffd\\ufffdonly, computer-&amp;shy;assisted&amp;nbsp; and&amp;nbsp; human&amp;shy;\\ufffd\\ufffd\\ufffdhuman interactions. This document also defines&amp;nbsp; ways&amp;nbsp; in which&amp;nbsp; large systems biology&amp;nbsp; tasks&amp;nbsp; can&amp;nbsp; be&amp;nbsp; optimally&amp;nbsp; partitioned over&amp;nbsp; activities&amp;nbsp; that&amp;nbsp; can&amp;nbsp; best&amp;nbsp; be&amp;nbsp;&amp;nbsp;&amp;nbsp; accomplished at&amp;nbsp; ISBE&amp;nbsp; nodes,&amp;nbsp; whilst&amp;nbsp; enabling &amp;nbsp;optimal&amp;nbsp; continuous&amp;nbsp; integration&amp;nbsp; through&amp;nbsp; the&amp;nbsp; connections.&lt;/p&gt;  &lt;p&gt;Through&amp;nbsp; ISBE, large&amp;nbsp; systems biology-&amp;shy;\\ufffd\\ufffd\\ufffddriven community efforts become&amp;nbsp; feasible by connecting the expertise and resources of multiple different projects in past and present. This builds ISBE as a platform from which to launch large-&amp;shy;\\ufffd\\ufffd\\ufffdscale integrative visionary projects with great scientific and societal impact.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-02-04</dc:date><dc:source>http://zenodo.org/record/15835</dc:source><dc:doi>10.5281/zenodo.15835</dc:doi><dc:identifier>http://zenodo.org/record/15835</dc:identifier><dc:identifier>oai:zenodo.org:15835</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "838ab55daa04440bb74bc3aa25c3ee38", 
+    "source_url": "https://zenodo.org/record/15835/export/xd"
+}

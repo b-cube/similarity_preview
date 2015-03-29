@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>The economic analysis of advertising</dc:title><dc:creator>Bagwell, Kyle</dc:creator><dc:date>2005</dc:date><dc:type>text</dc:type><dc:subject>Business</dc:subject><dc:subject>Marketing</dc:subject><dc:identifier>http://hdl.handle.net/10022/AC:P:468</dc:identifier><dc:description>By its very nature, advertising is a prominent feature of economic life. Advertising reaches consumers through their TV sets, radios, newspapers, magazines, mailboxes, computers and more. Not surprisingly, the associated advertising expenditures can be huge. For example, Advertising Age (2005) reports that, in 2003 in the U.S., General Motors spent $3.43 billion to advertise its cars and trucks; Procter and Gamble devoted $3.32 billion to the advertisement of its detergents and cosmetics; and Pfizer incurred a $2.84 billion dollar advertising expense for its drugs. Advertising is big business indeed.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "29159fd4a2aa5edbdd91e9b20fb9dcf7", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A115358.xml"
+}

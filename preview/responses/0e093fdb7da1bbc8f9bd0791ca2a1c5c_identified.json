@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.py-multi6-mhtp\"> <front> <title>Multi Homing Translation Protocol (MHTP)</title>  <author initials=\"M\" surname=\"Py\" fullname=\"M Py\">     <organization /> </author>  <date month=\"November\" day=\"28\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-py-multi6-mhtp-01\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0e093fdb7da1bbc8f9bd0791ca2a1c5c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.py-multi6-mhtp.xml"
+}

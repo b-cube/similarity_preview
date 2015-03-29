@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/ENOW_StoryMaps/OceanEmploy_Top10/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/ENOW_StoryMaps/OceanEmployment/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/ENOW_StoryMaps/TotalEmployment/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/ENOW_StoryMaps/TourismAndOffshoreMinerals/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "377ca5ef33dd9df76c34cbb7ab49de12", 
+    "source_url": "http://coast.noaa.gov/arcgis/rest/services/ENOW_StoryMaps?f=geositemap"
+}

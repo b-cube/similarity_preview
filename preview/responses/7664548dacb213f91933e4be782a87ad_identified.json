@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF  xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"  xmlns=\"http://purl.org/rss/1.0/\"  xmlns:dc=\"http://purl.org/dc/elements/1.1/\"  xmlns:prism=\"http://prismstandard.org/namespaces/1.2/basic/\">   <channel rdf:about=\"https://physics.le.ac.uk/journals/index.php/pst\">     <title>Physics Special Topics: Announcements</title>   <link>https://physics.le.ac.uk/journals/index.php/pst</link>          <description>Journal of Physics Special Topics</description>        <dc:language>en-US</dc:language>      <items>      </items>  </channel>   </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7664548dacb213f91933e4be782a87ad", 
+    "source_url": "https://physics.le.ac.uk/journals/index.php/pst/gateway/plugin/AnnouncementFeedGatewayPlugin/rss"
+}

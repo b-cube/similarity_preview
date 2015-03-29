@@ -1,0 +1,15 @@
+{
+    "content": "<META xmlns=\"http://www.w3.org/2000/12/p3pv1\">  <POLICY-REFERENCES>     <POLICY-REF about=\"policy.xml\">        <INCLUDE>\\\\*</INCLUDE>        <COOKIE-INCLUDE name=\"*\" value=\"*\" domain=\"*\" path=\"*\"/>     </POLICY-REF>  </POLICY-REFERENCES> </META> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a2ba65a377dc1882af3548367732e6b8", 
+    "source_url": "http://phmsa.dot.gov/phmsa-ext/policy/p3p.xml"
+}

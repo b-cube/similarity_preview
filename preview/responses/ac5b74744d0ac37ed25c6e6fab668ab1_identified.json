@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?> <!DOCTYPE ServiceExceptionReport SYSTEM \"http://schemas.opengis.net/wms/1.1.1/exception_1_1_1.dtd\"> <ServiceExceptionReport version=\"1.1.1\">   <ServiceException code=\"InvalidFormat\"> Can't parse XML request.   </ServiceException> </ServiceExceptionReport> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1.1", 
+        "protocol": "OGC:error", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ac5b74744d0ac37ed25c6e6fab668ab1", 
+    "source_url": "http://mapapps2.bgs.ac.uk/ArcGIS/services/GeoIndexLite/products/MapServer/WMSServer"
+}

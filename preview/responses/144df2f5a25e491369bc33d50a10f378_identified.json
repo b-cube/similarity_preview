@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-15\"?>   <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns=\"http://purl.org/rss/1.0/\"   xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">    <channel rdf:about=\"http://www.geoss-ecp.org/.cps_portlets/portlet_foldercontents/render?export=rss_1_0&amp;path=sections/portal-documents\">     <title>GEOSS-ECP - Folder contents</title>     <description></description>     <link>http://www.geoss-ecp.org/.cps_portlets/portlet_foldercontents/render?export=rss_1_0&amp;path=sections/portal-documents</link>      <items>       <rdf:Seq>                               <rdf:li rdf:resource=\"/sections/portal-documents/geoss-ecp-portal-basics\" />                         </rdf:Seq>     </items>   </channel>                <item rdf:about=\"/sections/portal-documents/geoss-ecp-portal-basics\">          <title>GEOSS-ECP Portal Basics</title>          <description></description>          <link>/sections/portal-documents/geoss-ecp-portal-basics</link>                                                                                                                 </item>         </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "144df2f5a25e491369bc33d50a10f378", 
+    "source_url": "http://www.geoss-ecp.org/.cps_portlets/portlet_foldercontents?export=rss_1_0&path=sections/portal-documents"
+}

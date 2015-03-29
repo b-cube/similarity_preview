@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Joint Nature Conservation Committee (JNCC) Geophysical, Multibeam, Sampling, Photo and Video Survey 2008/8_JNCC: Mid Irish Sea and Solan Bank (18/May/2008 to 29/May/2008)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-5487-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">The JNCC marine survey took place in May 2008 within the Submarine structures in the mid-Irish Sea Area of Search (AoS) and the Solan Bank AoS on board the RV CEFAS Endeavour. The aim was identifying habitats listed under Annex I of the EC Habitats Directive; primarily Submarine structures made by leaking gases in the former AoS and Reef habitat in the latter. Multibeam bathymetry was collected using a Kongsberg EM3000D system and sidescan sonar data which was collected using a Benthos SIS 1624 sidescan sonar. Ground-truthing techniques included towed &amp; drop down video/stills and Hamon grab sampling. Rock dredge sampling was also used on a few stations to gather samples of epibiota from hard substrata to assist with the taxonomic ID of the video &amp; still images. The geology and geophysics component of the data are archived at the British Geological Survey (BGS) MEDIN Data Archive Centre (DAC) for Geology and Geophysics. Biological and bathymetry data are archived at DASSH and UKHO respectively. For more information see http://jncc.defra.gov.uk/page-4732. Technical details of the survey are contained in JNCC report No. 430, http://jncc.defra.gov.uk/page-5347 and BGS subsample analysis report CR/09/51. JNCC Contract No: F90-01-1200.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2008-05-29</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6558b9bfd690d6ec8c34a1463cdc6a26", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-5487-0f38-e044-0003ba9b0d98.xml/DC"
+}

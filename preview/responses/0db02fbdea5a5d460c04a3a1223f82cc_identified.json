@@ -1,0 +1,15 @@
+{
+    "content": "<menuContributionFile>  <include installTo=\"menu:satellite?after=GROUP7\" fileName=\"menus/satellite/regionalsat/regionalSatImagery.xml\"></include> </menuContributionFile>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0db02fbdea5a5d460c04a3a1223f82cc", 
+    "source_url": "http://cimss.ssec.wisc.edu/~jordang/awips/geocat-wc/lcf/index.xml"
+}

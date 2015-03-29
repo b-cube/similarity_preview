@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Metro Chicago Data</ShortName>   <Description>Metro Chicago Data | Open Data for Chicagoland</Description>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://www.metrochicagodata.org/stylesheets/images/common/favicon.ico</Image>   <Url type=\"text/html\" method=\"get\" template=\"http://www.metrochicagodata.org/browse?q={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "92a0d3f551bc95c3815d1997987c9c74", 
+    "source_url": "https://www.metrochicagodata.org/opensearch.xml"
+}

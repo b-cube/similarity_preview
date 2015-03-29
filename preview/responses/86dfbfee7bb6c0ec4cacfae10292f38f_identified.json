@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?><rsd version=\"1.0\"><service><engineName>1.3 Beta</engineName><engineLink>http://graffiticms.codeplex.com</engineLink><homePageLink>http://casafamilyday.org/familyday/</homePageLink><apis><api name=\"MetaWeblog\" blogID=\"root_blog\" preferred=\"true\" apiLink=\"http://casafamilyday.org/familyday/api/metablog.ashx\" /></apis></service></rsd>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "86dfbfee7bb6c0ec4cacfae10292f38f", 
+    "source_url": "http://casafamilyday.org/familyday/api/rsd.ashx"
+}

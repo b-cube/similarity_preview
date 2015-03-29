@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <xsd:schema targetNamespace=\"http://hes.lbl.gov/scoring_tool/session\" elementFormDefault=\"qualified\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:tns=\"http://hes.lbl.gov/scoring_tool/session\">     <xsd:element name=\"newSessionFromAddress\">  <xsd:complexType>      <xsd:sequence>   <xsd:element name=\"client_guid\" type=\"xsd:string\"/>   <xsd:element ref=\"tns:address_data\"/>   <xsd:element name=\"ca_number\" type=\"xsd:string\"/>   <xsd:element name=\"authentication_type\" type=\"xsd:string\"/>   <xsd:element name=\"gui_session_id\" type=\"xsd:string\"/>      </xsd:sequence>  </xsd:complexType>     </xsd:element>          <xsd:element name=\"address_data\">  <xsd:complexType>      <xsd:sequence>   <xsd:element name=\"Address\" type=\"xsd:string\"/>   <xsd:element name=\"City\" type=\"xsd:string\"/>   <xsd:element name=\"State\" type=\"xsd:string\"/>   <xsd:element name=\"Zip\" type=\"xsd:string\"/>      </xsd:sequence>  </xsd:complexType>     </xsd:element>           </xsd:schema>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b84e00a7ab839d42454e0e88459120da", 
+    "source_url": "http://tool-sb-api.hescloud.net/public/xsd/session/input/newSessionFromAddress.xsd"
+}

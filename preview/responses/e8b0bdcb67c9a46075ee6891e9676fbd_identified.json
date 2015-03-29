@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/Aqua_AIRS_Level3/AIRH3STM.006/2003\"                     ID=\"/opendap/hyrax/Aqua_AIRS_Level3/AIRH3STM.006/2003/\">             <thredds:dataset name=\"AIRS.2003.01.01.L3.RetStd_H030.v6.0.12.0.G14121184349.hdf\"                        ID=\"/opendap/hyrax/Aqua_AIRS_Level3/AIRH3STM.006/2003/AIRS.2003.01.01.L3.RetStd_H030.v6.0.12.0.G14121184349.hdf\">          <thredds:dataSize units=\"bytes\">479909854</thredds:dataSize>          <thredds:date type=\"modified\">2014-05-07T14:55:08</thredds:date>          <thredds:access serviceName=\"dap\"                          urlPath=\"/Aqua_AIRS_Level3/AIRH3STM.006/2003/AIRS.2003.01.01.L3.RetStd_H030.v6.0.12.0.G14121184349.hdf\"/>          <thredds:access serviceName=\"file\"                          urlPath=\"/Aqua_AIRS_Level3/AIRH3STM.006/2003/AIRS.2003.01.01.L3.RetStd_H030.v6.0.12.0.G14121184349.hdf\"/>       </thredds:dataset>             <thredds:dataset name=\"AIRS.2003.02.01.L3.RetStd_H030.v6.0.12.0.G14123223419.hdf\"                        ID=\"/opendap/hyrax/Aqua_AIRS_Level3/AIRH3STM.006/2003/AIRS.2003.02.01.L3.RetStd_H030.v6.0.12.0.G14123223419.hdf\">          <thredds:dataSize units=\"bytes\">482527482</thredds:dataSize>          <thredds:date type=\"modified\">2014-05-04T02:35:12</thredds:date>          <thredds:access serviceName=\"dap\"                          urlPath=\"/Aqua_AIRS_Level3/AIRH3STM.006/2003/AIRS.2003.02.01.L3.RetStd_H030.v6.0.12.0.G14123223419.hdf\"/>          <thredds:access serviceName=\"file\"                          urlPath=\"/Aqua_AIRS_Level3/AIRH3STM.006/2003/AIRS.2003.02.01.L3.RetStd_H030.v6.0.12.0.G14123223419.hdf\"/>       </thredds:dataset>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "e8b0bdcb67c9a46075ee6891e9676fbd", 
+    "source_url": "http://acdisc.sci.gsfc.nasa.gov/opendap/Aqua_AIRS_Level3/AIRH3STM.006/2003/catalog.xml"
+}

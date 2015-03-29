@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" > <ShortName>Catalog</ShortName> <Description>Search the current edition of the Catalog</Description> <InputEncoding>UTF-8</InputEncoding> <Image height=\"16\" width=\"16\" type=\"image/x-icon\">/favicon.ico</Image>  <SearchForm>http://catalog.utexas.edu/search/</SearchForm> <Url type=\"text/html\" method=\"get\" template=\"http://catalog.utexas.edu/search/?P={searchTerms}\"></Url> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "974db96efdfff5f28308d8776e624f9d", 
+    "source_url": "http://catalog.utexas.edu/search/opensearch.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>5986</id>   <unit>40.4</unit>   <dept_name>Admission Services</dept_name>   <sub_name>Records, Registration and UCCS Transcripts</sub_name>   <main_number></main_number>   <location></location>   <comments>     <comment>(see Registrar, Office of)</comment>   </comments>   <employees>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "00bc815362834c481f5d68026b46fe01", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=40.4&type=details_by_unit"
+}

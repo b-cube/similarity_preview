@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Smolina, Irina</a1>   <a2>Kollias, S.</a2>   <a2>Poortvliet, M.</a2>   <a2>Nielsen, Torkel Gissel</a2>   <a2>Lindeque, P.</a2>   <a2>Castellani, C.</a2>   <a2>M\\ufffd\\ufffdller, E. F.</a2>   <a2>Blanco-Bercial, L.</a2>   <a2>Hoarau, G.</a2>   <t1>Genome- and transcriptome-assisted development of nuclear insertion/deletion markers for Calanus species (Copepoda: Calanoida) identification</t1>   <t2/>   <sn/>   <op>1072-1079</op>   <vo>14</vo>   <ab>&lt;p&gt;Copepods of the genus &lt;em&gt;Calanus&lt;/em&gt; are key zooplankton species in temperate to arctic marine ecosystems. Despite their ecological importance, species identification remains challenging. Furthermore, the recent report of hybrids among &lt;em&gt;Calanus&lt;/em&gt; species highlights the need for diagnostic nuclear markers to efficiently identify parental species and hybrids. Using next-generation sequencing analysis of both the genome and transcriptome from two sibling species, &lt;em&gt;Calanus finmarchicus&lt;/em&gt; and &lt;em&gt;Calanus glacialis&lt;/em&gt;, we developed a panel of 12 nuclear insertion/deletion markers. All the markers showed species-specific amplicon length. Furthermore, most of the markers were successfully amplified in other &lt;em&gt;Calanus&lt;/em&gt; species, allowing the molecular identification of &lt;em&gt;Calanus helgolandicus&lt;/em&gt;,&lt;em&gt; Calanus hyperboreus&lt;/em&gt; and &lt;em&gt;Calanus marshallae&lt;/em&gt;.&lt;/p&gt;</ab>   <la/>   <k1>InDels;                 Ion Torrent;                 marker design;                 next-generation sequencing;                 species delimitation;                 zooplankton;                 </k1>   <pb/>   <pp/>   <yr>2014-09-01</yr>   <ed/>   <ul>https://zenodo.org/record/11942/files/Smolina_Mol_Ecol_Resour.pdf;  https://zenodo.org/record/11942/files/Smolina_Mol_Ecol_Resour.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5638407219168b2a8442df34c634dfa6", 
+    "source_url": "https://zenodo.org/record/11942/export/xw"
+}

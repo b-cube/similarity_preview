@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Marine Aggregate Levy Sustainability Fund (MALSF) Sampling Survey 2003/4_MEPF: MALSF Outer Bristol Channel Marine Habitat Study (08/Jul/2003 to 18/Jul/2003)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-5489-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">This National Museum of Wales (NMW) sampling survey took place in July 2003 in the Outer Bristol Channel aboard the RV Prince Madog. This survey was undertaken for the Outer Bristol Channel Marine Habitat Study (OBCMHS) as part of a series of five surveys. The OBCMHS was principally funded by the Aggregate Levy Sustainability Fund, MALSF, (administered in Wales by the Welsh Assembly Government), the Sustainable Land Won and Marine Dredged Aggregate Minerals Programme of the Office of the Deputy Prime Minister (ODPM), administered by Mineral Industry Research Organisation (MIRO), with contributions from others. Seabed samples were collected using a Van Veen Grab. Seabed video and photographs were also collected. These data are archived with the MEDIN Data Archive Centres (DACs), including the BGS DAC for geology and geophysics and the DASSH DAC for biological data. For further information on the surveys and general information on the OBCMHS see the final report (Mackie et al, 2006. BIOMOR Reports 4:ISBN 0-7200-0569-8).</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2003-07-18</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aff4532ffae1677507b3c789c606e099", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-5489-0f38-e044-0003ba9b0d98.xml/DC"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.NOTE-WCAG10-CSS-TECHS-20001106'            target='http://www.w3.org/TR/2000/NOTE-WCAG10-CSS-TECHS-20001106'> <front> <title>CSS Techniques for Web Content Accessibility Guidelines 1.0</title>  <author initials='W.' surname='Chisholm' fullname='Wendy Chisholm'>     <organization /> </author>  <author initials='G.' surname='Vanderheiden' fullname='Gregg Vanderheiden'>     <organization /> </author>  <author initials='I.' surname='Jacobs' fullname='Ian Jacobs'>     <organization /> </author>  <date month='November' day='6' year='2000' /> </front>  <seriesInfo name='World Wide Web Consortium NOTE' value='NOTE-WCAG10-CSS-TECHS-20001106' /> <format type='HTML' target='http://www.w3.org/TR/2000/NOTE-WCAG10-CSS-TECHS-20001106' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "65f4440044124547318c48cd297f0e1f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-WCAG10-CSS-TECHS-20001106.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <LinkComponent ID=\"x16351\" Name=\"The Davidson School\" SiteBaseUrl=\"\" Locale=\"\" XPowerPath=\"/JTS/PAGES/Home/Academics/Schools of JTS/The Davidson School\">   <IGX_Categories Count=\"0\" CategoryIds=\"\" />   <LingualMaps />   <LinkText type=\"string\" label=\"Link Text\" ID=\"1\">The Davidson School</LinkText>   <LinkURL type=\"string\" label=\"Link URL\" ID=\"2\">x18404.xml</LinkURL> </LinkComponent> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a91538414a49a3d79c66dcc69e2f62a7", 
+    "source_url": "http://www.jtsa.edu/x16351.xml"
+}

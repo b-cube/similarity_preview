@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Center Maryland - Maryland\\ufffd\\ufffd\\ufffds leading source of aggregated and original news and opinion on government, politics, business and more.</ShortName>   <Description>Maryland\\ufffd\\ufffd\\ufffds leading source of aggregated and original news and opinion on government, politics, business and more.  Called one of the \\ufffd\\ufffd\\ufffdnation\\ufffd\\ufffd\\ufffds best state-based political blogs\\ufffd\\ufffd\\ufffd by the Washington Post.</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://centermaryland.org/templates/centermd2/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://centermaryland.org/index.php?option=com_search&amp;format=opensearch\"/>   <Url type=\"text/html\" template=\"http://centermaryland.org/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9e63bf3a11ae09e0fba0abfb04b74abb", 
+    "source_url": "http://centermaryland.org/index.php?option=com_search&format=opensearch"
+}

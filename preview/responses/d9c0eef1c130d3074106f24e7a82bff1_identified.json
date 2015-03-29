@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Jimenez, Javi</author>           <author>Baig, Roger</author>           <author>Escrich, Pau</author>           <author>Khan, Amin M</author>           <author>Freitag, Felix</author>           <author>Navarro, Leandro</author>           <author>Pietrosemoli, Ermanno</author>           <author>Zennaro, Marco</author>           <author>Payberah, Amir H</author>           <author>Vlassov, Vladimir</author>         </authors>       </contributors>       <titles>         <title>Supporting Cloud Deployment in the Guifi.net Community Network</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.7614</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>community networks</keyword>         <keyword>cloud computing</keyword>       </keywords>       <dates>         <year>2013</year>         <pub-dates>           <date>2013-10-30</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Community networking is an emerging model of a shared communication infrastructure in which communities of citizens build and own open networks. Community networks offer successfully IP-based networking to the user. Cloud computing infrastructures however, while common in today&amp;#39;s Internet, hardy exist in community networks. We explain our approach to bring clouds into the Guifi.net community network. For this we have started integrating part of our cloud prototype into the Guifi.net community network management tools. A proof-of-concept cloud infrastructure is currently under deployment in the Guifi.net community network. Our long term vision is that the users of community networks will not need to consume cloud applications from the Internet, but find them within the community network.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d9c0eef1c130d3074106f24e7a82bff1", 
+    "source_url": "https://zenodo.org/record/7614/export/xe"
+}

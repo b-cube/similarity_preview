@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Centre for Integrative Physiology</title> <link href=\"http://hdl.handle.net/10283/642\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/10283/642</id> <updated>2015-03-19T06:36:05Z</updated> <dc:date>2015-03-19T06:36:05Z</dc:date> <entry> <title>NMJ-morph</title> <link href=\"http://hdl.handle.net/10283/647\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/10283/647</id> <updated>2015-02-23T10:53:35Z</updated> <published>2014-11-07T11:14:02Z</published> <summary type=\"text\">NMJ-morph NMJ-morph is an ImageJ-based package for morphometric analysis of the neuromuscular junction (NMJ). </summary> <dc:date>2014-11-07T11:14:02Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dd90f04343b873baea1f2fb33ab9b9b2", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/atom_1.0/10283/642"
+}

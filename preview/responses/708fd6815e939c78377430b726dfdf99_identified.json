@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"F2AB63F4-EDD4-465C-974A-B41C352FE2A4\" _position=\"1\" _address=\"http://data.ok.gov/resource/_9246-fdan/1\"><years>2011</years><historical_data>9434</historical_data></row><row _id=\"2\" _uuid=\"97A851F4-6ED8-4306-ABF7-1119B0BA017B\" _position=\"2\" _address=\"http://data.ok.gov/resource/_9246-fdan/2\"><years>2012</years><historical_data>9173</historical_data></row><row _id=\"3\" _uuid=\"493C6BF1-793E-4E14-9B7D-E1AD5EDF59FF\" _position=\"3\" _address=\"http://data.ok.gov/resource/_9246-fdan/3\"><years>2013</years><historical_data>9703</historical_data></row><row _id=\"4\" _uuid=\"F09815F7-7C2E-4F73-9B69-981500C8C656\" _position=\"4\" _address=\"http://data.ok.gov/resource/_9246-fdan/4\"><years>2014</years><historical_data>9473</historical_data></row><row _id=\"5\" _uuid=\"B6FFEC98-3A6D-4B99-AB17-62805773A5D0\" _position=\"5\" _address=\"http://data.ok.gov/resource/_9246-fdan/5\"><years>2015</years></row><row _id=\"6\" _uuid=\"B429AC6D-01D1-463E-9756-38C830A17792\" _position=\"6\" _address=\"http://data.ok.gov/resource/_9246-fdan/6\"><years>2016</years></row><row _id=\"7\" _uuid=\"5E015CAD-895A-44E2-8754-76F55A90F7FC\" _position=\"7\" _address=\"http://data.ok.gov/resource/_9246-fdan/7\"><years>2017</years></row><row _id=\"8\" _uuid=\"F739D650-3AD6-4600-9FE2-469BDDE74422\" _position=\"8\" _address=\"http://data.ok.gov/resource/_9246-fdan/8\"><years>2018</years></row><row _id=\"9\" _uuid=\"BE9A0EBF-31FE-4277-83F1-7A349BBB5D0B\" _position=\"9\" _address=\"http://data.ok.gov/resource/_9246-fdan/9\"><years>2019</years><target>8403</target></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "708fd6815e939c78377430b726dfdf99", 
+    "source_url": "https://data.ok.gov/api/views/9246-fdan/rows.xml?accessType=DOWNLOAD"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Canolfan Iaith a Dysgu / Language and Learning Centre</title> <link href=\"http://hdl.handle.net/2160/667\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/2160/667</id> <updated>2015-03-05T22:31:55Z</updated> <dc:date>2015-03-05T22:31:55Z</dc:date> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fcc01b0b1bb5fea9898684d5d7ef2f11", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/667"
+}

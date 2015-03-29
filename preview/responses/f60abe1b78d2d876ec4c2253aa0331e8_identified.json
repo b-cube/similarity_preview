@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/575\"> <title>Gregynog presentations</title> <link>http://hdl.handle.net/2160/575</link> <description>Presentations given at the Gregynog Colloquium</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/580\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/579\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/578\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/577\"/> </rdf:Seq> </items> <dc:date>2015-03-19T06:41:13Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/580\"> <title>Current developments in Aberystwyth University\\ufffd\\ufffd\\ufffds research repository provision 2007/8</title> <link>http://hdl.handle.net/2160/580</link> <description>Current developments in Aberystwyth University\\ufffd\\ufffd\\ufffds research repository provision 2007/8 Chaudhri, Talat </description> <dc:date>2008-06-09T10:40:58Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/579\"> <title>An Insitutional Repository for NEWI: an update</title> <link>http://hdl.handle.net/2160/579</link> <description>An Insitutional Repository for NEWI: an update Jeorrett, Paul; Watkinson, Nicola </description> <dc:date>2008-06-09T10:01:23Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/578\"> <title>Institutional Repositories: the single parenting option</title> <link>http://hdl.handle.net/2160/578</link> <description>Institutional Repositories: the single parenting option Thomas, Helen A case study of institutional repository developments at the University of Wales Institute Cardiff. </description> <dc:date>2008-06-09T10:00:56Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/577\"> <title>University of Glamorgan Research Repository</title> <link>http://hdl.handle.net/2160/577</link> <description>University of Glamorgan Research Repository Houston, Douglas </description> <dc:date>2008-06-09T10:00:17Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f60abe1b78d2d876ec4c2253aa0331e8", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/575"
+}

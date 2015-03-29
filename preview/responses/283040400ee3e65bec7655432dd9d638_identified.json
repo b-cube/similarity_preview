@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">   <title>Gentoo Packages /package/www-apps/dokuwiki</title>   <icon>http://www.gentoo.org/favicon.ico</icon>   <id>http://packages.gentoo.org/feed/package/www-apps/dokuwiki</id>   <generator uri=\"http://packages.gentoo.org/\">Gentoo Packages2</generator>   <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/www-apps/dokuwiki\" type=\"text/html\"/>   <link rel=\"self\" href=\"http://packages.gentoo.org/feed/package/www-apps/dokuwiki\" type=\"application/atom+xml\"/>   <updated>2015-03-04T04:27:35Z</updated>   <entry>  <title xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\">    <div>         <span class=\"cpvstr\">www-apps/dokuwiki</span>: <span class=\"description\">DokuWiki is a simple to use Wiki aimed at a small company's documentation needs.</span>       </div>     </title>     <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/www-apps/dokuwiki\" type=\"text/html\"/>     <id>http://packages.gentoo.org/package/www-apps/dokuwiki?ts=2015-03-03T21:03:24Z</id>     <author>       <name>Jorge Manuel B. S. Vicetto (jmbsvicetto)</name>       <uri>http://cia.vc/stats/author/jmbsvicetto</uri>     </author>     <updated>2015-03-03T21:03:24Z</updated>     <summary xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\"><div>*dokuwiki-20140505d (03 Mar 2015)<br/>03 Mar 2015; Jorge Manuel B. S. Vicetto (<a href=\"http://cia.vc/stats/author/jmbsvicetto\">jmbsvicetto</a>) <br/>+<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/www-apps/dokuwiki/dokuwiki-20140505d.ebuild?view=markup\">dokuwiki-20140505d.ebuild</a>:<br/>Add 20140525d release - bug <a href=\"https://bugs.gentoo.org/show_bug.cgi?id=541918\">541918</a> (CVE-2015-2172).</div></summary>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "283040400ee3e65bec7655432dd9d638", 
+    "source_url": "http://packages.gentoo.org/feed/package/www-apps/dokuwiki"
+}

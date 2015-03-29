@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>mhcten</ShortName>  <Description>Search $10 Million for MHC - Taking on the world was never far from Mary Lyon&#039;s mind.</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://mhcten.mtholyoke.edu/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://mhcten.mtholyoke.edu/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://mhcten.mtholyoke.edu/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>$10 Million for MHC</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://mhcten.mtholyoke.edu/favicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/png\">http://s0.wp.com/i/logo/gray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>mount-holyoke-college mary-lyon lynn-pasquerella mhc</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://mhcten.mtholyoke.edu</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "601578ac4d8fdc5008f5a8e0056ca1af", 
+    "source_url": "http://mhcten.mtholyoke.edu/osd.xml"
+}

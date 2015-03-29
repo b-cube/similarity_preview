@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.02.85'> <front> <title>Closed User Group (CUG) Supplementary Services; Stage 1</title> <author><organization>3GPP</organization></author> <date day='20' month='October' year='1995' /> </front>  <seriesInfo name='3GPP TS' value='02.85 4.2.6' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0285.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6e7c03d7ee41e8d890944904bbddef34", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.02.85.xml"
+}

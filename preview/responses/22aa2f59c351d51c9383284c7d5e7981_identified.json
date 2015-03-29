@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='ISO-8859-1'?><martif type=\"MSC\" lang=\"en\"><martifHeader><fileDesc><sourceDesc><p>OECD Glossary of Statistical Terms</p></sourceDesc></fileDesc><publicationStmt><p type=\"resultCount\">6935</p><p type=\"resultsPerPage\">10</p><p type=\"currentPage\">1</p></publicationStmt></martifHeader><text><body><termEntry id=\"4756\"><descrip type=\"CrossReference\" id=\"4754\">Ex poste control</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>A posteriori audit</term></termGrp></ntig></langSet></termEntry><termEntry id=\"4755\"><descrip type=\"CrossReference\" id=\"4753\">Ex ante control</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>A priori audit</term></termGrp></ntig></langSet></termEntry><termEntry id=\"4375\"><langSet xml:lang=\"en\"><ntig><termGrp><term>A programme language (APL)</term></termGrp></ntig></langSet></termEntry><termEntry id=\"1\"><descrip type=\"CrossReference\" id=\"2076\">Pollution abatement</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Abatement</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>R&#233;duction</term></termGrp></ntig></langSet></termEntry><termEntry id=\"6343\"><descrip type=\"CrossReference\" id=\"1\">Abatement</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Abatement cost</term></termGrp></ntig></langSet></termEntry><termEntry id=\"8\"><descrip type=\"CrossReference\" id=\"2797\">Unforeseen obsolescence &#8211; OECD</descrip><descrip type=\"CrossReference\" id=\"2796\">Unforeseen obsolescence &#8211; SNA</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Abnormal obsolescence</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Obsolescence anormal</term></termGrp></ntig></langSet></termEntry><termEntry id=\"5763\"><descrip type=\"CrossReference\" id=\"5177\">Accumulated benefit obligation (ABO)</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>ABO</term></termGrp></ntig></langSet></termEntry><termEntry id=\"2\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Absence from work due to illness</term></termGrp></ntig></langSet></termEntry><termEntry id=\"3589\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Absolute difference</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Diff&#233;rence absolue</term></termGrp></ntig></langSet></termEntry><termEntry id=\"3590\"><langSet xml:lang=\"en\"><ntig><termGrp><term>Absolute error</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Erreur absolue</term></termGrp></ntig></langSet></termEntry></body></text></martif>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "22aa2f59c351d51c9383284c7d5e7981", 
+    "source_url": "http://stats.oecd.org/glossary/filter.asp?vET=ON&vCR=ON&format=martif"
+}

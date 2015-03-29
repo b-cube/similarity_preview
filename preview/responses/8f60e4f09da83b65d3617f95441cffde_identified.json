@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC3369'>  <front> <title>Cryptographic Message Syntax (CMS)</title> <author initials='R.' surname='Housley' fullname='R. Housley'> <organization /></author> <date year='2002' month='August' /></front>  <seriesInfo name='RFC' value='3369' /> <format type='TXT' octets='113975' target='http://www.rfc-editor.org/rfc/rfc3369.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8f60e4f09da83b65d3617f95441cffde", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.3369.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?>  <!--       An XML Schema for the Infoset.      Authors: Richard Tobin and Henry Thompson      Copyright 2001 LTG, University of Edinburgh -->  <s:schema xmlns:s=\"http://www.w3.org/2001/XMLSchema\"    xmlns=\"http://www.w3.org/2001/05/XMLInfoset\"    targetNamespace=\"http://www.w3.org/2001/05/XMLInfoset\"    elementFormDefault=\"qualified\">    <!-- Information items -->    <s:element name=\"informationItem\" type=\"InformationItem\" abstract=\"true\"/>    <!-- It is expected that this will be the root element -->   <s:element name=\"document\" substitutionGroup=\"informationItem\" type=\"Document\" nillable=\"true\">      <!-- for now, just do ID/IDREF style checking -->      <s:unique name=\"anyKey\">       <s:selector xpath=\".//*\"/>       <s:field xpath=\"@id\"/>     </s:unique>     <s:keyref name=\"xxx\" refer=\"anyKey\">       <s:selector xpath=\".//*\"/>       <s:field xpath=\"@ref\"/>     </s:keyref>    </s:element>    <s:element name=\"element\" substitutionGroup=\"informationItem\" type=\"Element\"/>    <s:element name=\"attribute\" substitutionGroup=\"informationItem\" type=\"Attribute\"/>    <s:element name=\"processingInstruction\" substitutionGroup=\"informationItem\" type=\"ProcessingInstruction\"/>    <s:element name=\"character\" substitutionGroup=\"informationItem\" type=\"Character\"/>    <s:element name=\"unexpandedEntityReference\" substitutionGroup=\"informationItem\" type=\"UnexpandedEntityReference\"/>    <s:element name=\"comment\" substitutionGroup=\"informationItem\" type=\"Comment\"/>    <s:element name=\"documentTypeDeclaration\" substitutionGroup=\"informationItem\" type=\"DocumentTypeDeclaration\"/>    <s:element name=\"entity\" substitutionGroup=\"informationItem\" abstract=\"true\"/>    <s:element name=\"unparsedEntity\" substitutionGroup=\"entity\" type=\"UnparsedEntity\"/>    <s:element name=\"notation\" substitutionGroup=\"informationItem\" type=\"Notation\"/>    <s:element name=\"namespace\" substitutionGroup=\"informationItem\" type=\"Namespace\"/>   <!-- This is a sort of pseudo-information-item; it appears where the       value is an information item that also appears somewhere else.       In the basic infoset it is used for notations, entities, the document       element, and elements referred to be IDREF attributes.    -->    <s:element name=\"pointer\" substitutionGroup=\"informationItem\" type=\"Pointer\"/>  </s:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b91a1ac4754662542addd62700175b0b", 
+    "source_url": "http://www.w3.org/2001/05/infoset-basic-items.xsd"
+}

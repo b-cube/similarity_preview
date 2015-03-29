@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R10/Region10AirAlaska/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R10/Region10Air/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R10/Region10LandAlaska/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R10/Region10Land/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R10/Region10TotalsAlaska/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R10/Region10Totals/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R10/Region10WaterAlaska/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R10/Region10Water/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "175316de0565278a333f2b9d2a3ac65c", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/R10?f=geositemap"
+}

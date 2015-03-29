@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Baldesi, Luca</a1>   <a2>Maccari, Leonardo</a2>   <a2>Lo Cigno, Renato</a2>   <t1>Live P2P Streaming in CommunityLab: Experience and Insights</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Wireless Community Networks (WCNs) are flourishing as a means of providing Internet access, but most of all as alternative, bottom-up approach to reduce the digital divide and empower the users with control on their network. Video streaming and conferencing are among the most resource hungry and critical networked applications, and their support on WCNs is fundamental. This work presents an initial analysis of an experimental activity with PeerStreamer, a P2P video streaming platform, on the WCN testbed of the EU FIRE project CONFINE called Community-Lab. The results we present shed light on several different aspects, some good, some other less, of video streaming on WCNs. The experiments highlight the feasibility of P2P video streaming, but they also show that the streaming platform must be tailored ad-hoc for the WCN itself to be able to fully adapt and exploit its features and limitations. On the other hand, the experiments also show that Community-Lab is not yet fully representative of Wireless Community Network (WCN), and specifically of those that participate in CONFINE.&lt;/p&gt;</ab>   <la/>   <k1>video streaming ;                 peer to peer;                 wireless community network;                 live streaming;                 community-lab;                 </k1>   <pb/>   <pp/>   <yr>2014-06-02</yr>   <ed/>   <ul>http://netlab.cs.ucla.edu/medhocnet2014/;  http://zenodo.org/record/10315/files/CR_1569932369.pdf;  http://zenodo.org/record/10315/files/CR_1569932369.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c30c51ce5094758948d7791714c2e8de", 
+    "source_url": "https://zenodo.org/record/10315/export/xw"
+}

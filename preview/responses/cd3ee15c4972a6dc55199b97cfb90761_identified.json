@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr20111189</identifier><identifier type=\"pwpk\">70005460</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2011-1189</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>The future of rare earth elements&amp;mdash;will these high-tech industry elements continue in short supply?</title></titleInfo><originInfo><dateOther>Tue, 20 Sep 2011 00:00 -0500</dateOther><dateIssued>2011</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Long, Keith R.</namePart><role>Author</role></name><abstract>* REE will continue to find increasing use due to their unique properties. * There is a realistic possibility around 2015-2016 of sufficient REE capacity to meet demand under conditions of healthy price competition. * REE supplies will be tight and prices high for a few years. * There is significant downside risk that newly developed mines will not perform as planned.</abstract><physicalDescription><form>ii, 41 p.; PDF Slides ;Powerpoint</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/ofr_2011_1189.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/2011/1189/</url></location><note type=\"citation/reference\">The future of rare earth elements&amp;mdash;will these high-tech industry elements continue in short supply?; 2011; OFR; 2011-1189; Open-File Report; Long, Keith R.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cd3ee15c4972a6dc55199b97cfb90761", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr20111189"
+}

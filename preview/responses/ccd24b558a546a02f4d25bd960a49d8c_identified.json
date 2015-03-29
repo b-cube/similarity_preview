@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/All_Change_0106/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/All_Change_0111/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/All_Change_0611/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Boundaries/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/conus_01/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/conus_06/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/conus_11/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Development_0106/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Development_0111/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Development_0611/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Forest_Fragmentation_0106/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Forest_Fragmentation_0111/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Forest_Fragmentation_0611/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Search_0106/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Search_0111/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Search_0611/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/USGS_EROS_LandCover_NLCD/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Wetland_0106/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Wetland_0111/MapServer</loc> </url> <url> <loc>http://raster.nationalmap.gov/arcgis/rest/services/LandCover/Wetland_0611/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ccd24b558a546a02f4d25bd960a49d8c", 
+    "source_url": "http://raster.nationalmap.gov/arcgis/rest/services/LandCover?f=sitemap"
+}

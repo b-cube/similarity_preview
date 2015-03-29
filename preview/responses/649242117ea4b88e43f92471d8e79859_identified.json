@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>LOFAR</ShortName>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">http://www.lofar.org/operations/lib/tpl/default/images/favicon.ico</Image>   <Url type=\"text/html\" template=\"http://www.lofar.org/operations/doku.php?do=search&amp;id={searchTerms}\" />   <Url type=\"application/x-suggestions+json\" template=\"http://www.lofar.org/operations/lib/exe/ajax.php?call=suggestions&amp;q={searchTerms}\" /> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "649242117ea4b88e43f92471d8e79859", 
+    "source_url": "http://www.lofar.org/operations/lib/exe/opensearch.php"
+}

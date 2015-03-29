@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>2013t </Local-number>  <Title>Building capacity and increasing effectiveness for the USVI territorial marine protected areas </Title>  <Institution>The Nature Conservancy </Institution>  <Publication-Place>Christiansted, VI </Publication-Place>  <Publication-Date><caldate>2013 </caldate></Publication-Date>  <Extent>10 </Extent>  <Type-Period-Note>Final Report, 7/1/2009 - 12/31/2012 </Type-Period-Note>  <Issue-ID>TNC Reference 1710053823 </Issue-ID>  <Notes>NOAA grant NA09NMF4630122, Building Capacity and Increasing Effectiveness for USVI Territorial Marine Protected Areas\" </Notes>  <grantid>  <id>NA09NMF4630122 </id>  </grantid>  <Abstract>\"In coordination with the local coral reef resource managers in the Virgin Islands Department of Planning and Natural Resources (VIDPNR) Division of Coastal Zone Management (CZM), TNC (The Nature Conservancy) has supported the implementation of critical management strategies in the USVI; assisting in the revision of the management plans for St. Croix East End Marine Park (STXEEMP) and the St. Thomas East End Reserves (STEER), with accompanying sustainable finance plans (SFP), and addressing institutional gaps in agency administrative, financial and technical capacity.\" </Abstract>  <Date-Time-Last-Modified>20140917000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/grants/Domestic_FMC_CoRIS_Products/NA09NMG4630122_FinalReport.pdf </URL>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>Grants </Local-subject-index>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "da2986268ab3b437d1cffa6b07db4eed", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B98E65C3E-EC9E-4347-84B0-15D0357E5E88%7D"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>CEH Wiki</ShortName>   <Description>Search CEH Wiki</Description>   <Tags></Tags>   <Contact>confluence-autosupportrequests@atlassian.com</Contact>   <Url type=\"text/html\"        template=\"https://wiki.ceh.ac.ukdosearchsite.action?searchQuery.spaceKey=conf_global&amp;searchQuery.queryString={searchTerms}\"/>   <LongName>Welcome to the *CEH WIKI* using Confluence.  The enterprise wiki is designed to make it easy for you and your project/programme team to share information with each other, and with the world.    *Where do I start?*  All content in Confluence is organised into _spaces_ (see below). So to start browsing content, simply click on one of the spaces listed below.   Please Note that you may not have permissions to view all the spaces. </LongName>   <Image height=\"16\" width=\"16\" type=\"image/png\"></Image>   <Query role=\"example\" searchTerms=\"builder\" />   <OutputEncoding>UTF-8</OutputEncoding>   <InputEncoding>UTF-8</InputEncoding> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c552f835328eba6a9f290e64b8392aaf", 
+    "source_url": "https://wiki.ceh.ac.uk/plugins/builder/layout-resources.action?layoutId=UKIPI&amp;key=ukipi&resource=opensearch&hash=1425296093258"
+}

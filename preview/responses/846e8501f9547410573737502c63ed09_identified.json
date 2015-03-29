@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OECA/AllWells2013/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OECA/Annual_Report/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OECA/AnnualResultsMapFY14/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OECA/CAFO_Density/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/OECA/OECA_Annual_Report_FY2013/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "846e8501f9547410573737502c63ed09", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/OECA?f=geositemap"
+}

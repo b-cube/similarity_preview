@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Center2008j </Local-number>  <Author>Pacific Islands Fisheries Science Center </Author>  <Title>PIFSC Cruise Report CR-09-002 (Cruise SE-08-09 (SE-66)) </Title>  <Institution>Pacific Islands Fisheries Science Center </Institution>  <Publication-Place>Honolulu, HI </Publication-Place>  <Publication-Date><caldate>2009 </caldate></Publication-Date>  <Extent>6 </Extent>  <Type-Period-Note>Vessel: Oscar Elton Sette, Cruise SE-08-09 (SE-66), Period: September 9 to September 30, 2008, Area of Operation: Northwestern Hawaiian Islands </Type-Period-Note>  <Notes>CRCP Project ID 1221; Project Title: Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls; Principal Investigator: Rusty Brainard </Notes>  <Abstract>This cruise was conducted to recover personnel, equipment, and supplies from field camps at Pearl and Hermes Reef, Lisianski Island, and Nihoa Island, as well as to conduct population assessment work on the Hawaiian monk seal populations on French Frigate Shoals, Laysan Island and Midway Atoll. </Abstract>  <Date-Time-Last-Modified>20091112000000 </Date-Time-Last-Modified>  <URL>http://www.pifsc.noaa.gov/library/pubs/cruise/Sette/CR0809-CY.pdf </URL>  <project>  <ID>1221 </ID>  <title>Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls </title>  <PI>Rusty Brainard </PI>  </project>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c53f1144591f6d9e737075f762eb1248", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B07CFDB4E-2E44-45A4-977A-4F0C12FCB3B7%7D"
+}

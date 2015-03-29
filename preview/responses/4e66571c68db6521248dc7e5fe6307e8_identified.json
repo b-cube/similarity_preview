@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.bellovin-dnsext-bloomfilt'> <front> <title>Using Bloom Filters for Authenticated Yes/No Answers in the DNS</title>  <author initials='S' surname='Bellovin' fullname='Steven  Bellovin'>     <organization /> </author>  <date month='December' day='17' year='2001' /> </front>  <seriesInfo name='Internet-Draft' value='draft-bellovin-dnsext-bloomfilt-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-bellovin-dnsext-bloomfilt-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4e66571c68db6521248dc7e5fe6307e8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.bellovin-dnsext-bloomfilt.xml"
+}

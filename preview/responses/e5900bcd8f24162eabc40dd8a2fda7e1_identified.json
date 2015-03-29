@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/allData/41/MYD03/2009\" ID=\"/opendap/hyrax/allData/41/MYD03/2009/\">             <thredds:catalogRef name=\"001\" xlink:href=\"001/catalog.xml\" xlink:title=\"001\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/41/MYD03/2009/001/\"/>             <thredds:catalogRef name=\"002\" xlink:href=\"002/catalog.xml\" xlink:title=\"002\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/41/MYD03/2009/002/\"/>             <thredds:catalogRef name=\"003\" xlink:href=\"003/catalog.xml\" xlink:title=\"003\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/41/MYD03/2009/003/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "e5900bcd8f24162eabc40dd8a2fda7e1", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/allData/41/MYD03/2009/catalog.xml"
+}

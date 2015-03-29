@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Kindling, Maxi</author>           <author>Vierkant, Paul</author>         </authors>       </contributors>       <titles>         <title>Open-Access-Repositorien in Berlin und Brandenburg</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.11928</doi>       <pages/>       <volume/>       <number>handle</number>       <keywords>         <keyword>open access</keyword>         <keyword>open access repositories</keyword>         <keyword>Berlin</keyword>         <keyword>Brandenburg</keyword>         <keyword>Census</keyword>         <keyword>Open Access Repository Ranking</keyword>         <keyword>repository size</keyword>         <keyword>repository type</keyword>         <keyword>repository operator</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-10-01</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Der &amp;quot;2014 Census on Open Access Repositories in Germany, Austria and Switzerland&amp;quot; (2014 Census) ist eine Studie zur Repositorienlandschaft in den D-A-CH-L&amp;auml;ndern. Im 2014 Census wurden Open-Access-Repositorien (OAR) unter verschiedenen Aspekten wie Gr&amp;ouml;&amp;szlig;e, Software, Metadatenqualit&amp;auml;t sowie Mehrwertdienste etc. untersucht. Durch die Darstellung des Status quo und der Best Practices von OAR sollen Repositorienbetreiber bei der Optimierung ihrer Dienste unterst&amp;uuml;tzt werden. Dieses Poster zeigt einen Ausschnitt f&amp;uuml;r Berlin und Brandenburg mit Fokus auf Gr&amp;ouml;&amp;szlig;e und Typen von Repositorien sowie ihre betreibenden Einrichtungen.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e2f67325e968b10ff900f3afceff73a9", 
+    "source_url": "https://zenodo.org/record/11928/export/xe"
+}

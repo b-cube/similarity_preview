@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>Search M State</ShortName>  <Image width=\"16\" height=\"16\" type=\"image/x-icon\">http://www.minnesota.edu/assets/img/favicon.ico</Image>  <Description>M State help</Description>     <Url type=\"text/html\" template=\"http://askm.custhelp.com/app/answers/list/kw/{searchTerms}\"/>  <Language>en-us</Language> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en-us", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a141ccce74efe585eb32cb3949e8179e", 
+    "source_url": "http://www.minnesota.edu/searchplugin.xml"
+}

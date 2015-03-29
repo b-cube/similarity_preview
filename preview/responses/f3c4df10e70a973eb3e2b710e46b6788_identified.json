@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi w=\"-123.70835\" e=\"-120.69165\" n=\"38.99165\" utm_span=\"2000\" zone=\"10S\" type=\"geo\" s=\"36.60835\">     <location name=\"UTM:(10S 0562 4190 2000)\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>13</dist>       <lat>37.8642</lat>       <lon>-122.2837</lon>       <name>UTM:(10S 0562 4190 2000)</name>     </location>     <location name=\"UTM:(10S 0564 4184 2000)\">       <cdi>2.6912</cdi>       <nresp>1</nresp>       <dist>10</dist>       <lat>37.8101</lat>       <lon>-122.2615</lon>       <name>UTM:(10S 0564 4184 2000)</name>     </location>     <location name=\"UTM:(10S 0566 4184 2000)\">       <cdi>3.4498</cdi>       <nresp>1</nresp>       <dist>10</dist>       <lat>37.8100</lat>       <lon>-122.2388</lon>       <name>UTM:(10S 0566 4184 2000)</name>     </location>     <location name=\"UTM:(10S 0566 4186 2000)\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>10</dist>       <lat>37.8280</lat>       <lon>-122.2387</lon>       <name>UTM:(10S 0566 4186 2000)</name>     </location>     <location name=\"UTM:(10S 0568 4184 2000)\">       <cdi>2.2372</cdi>       <nresp>1</nresp>       <dist>9</dist>       <lat>37.8098</lat>       <lon>-122.2161</lon>       <name>UTM:(10S 0568 4184 2000)</name>     </location>     <location name=\"UTM:(10S 0592 4176 2000)\">       <cdi>1</cdi>       <nresp>1</nresp>       <dist>25</dist>       <lat>37.7356</lat>       <lon>-121.9445</lon>       <name>UTM:(10S 0592 4176 2000)</name>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f3c4df10e70a973eb3e2b710e46b6788", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/nc/72406100/us/cdi_geo.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?> <rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xml:lang=\"fr\">  <dcat:Dataset rdf:about=\"http://data.angers.fr/?eID=smile_od_rdf&amp;id=191\">   <dct:identifier>alm_111_CC_2009_PV</dct:identifier>   <dct:title>Comptes-rendus des d\\ufffd\\ufffdbats du conseil d'Angers Loire M\\ufffd\\ufffdtropole 2009</dct:title>   <dct:description>Comptes-rendus des d\\ufffd\\ufffdbats des diff\\ufffd\\ufffdrents conseils d'Angers Loire M\\ufffd\\ufffdtropole lors de l'ann\\ufffd\\ufffde 2009</dct:description>   <dcat:landingPage>http://data.angers.fr/donnees/comptes-rendus-des-debats-des-conseils-dangers-loire-metropole-lors-de-lannee-2009/</dcat:landingPage>   <dcat:theme>Citoyennet\\ufffd\\ufffd / Institution</dcat:theme>   <dcat:keywords>institution publique, assembl\\ufffd\\ufffde d\\ufffd\\ufffdlib\\ufffd\\ufffdrante</dcat:keywords>   <dct:licence>Licence ODbL</dct:licence>   <dct:issued>1401919200</dct:issued>   <dct:modified>0</dct:modified>   <lastModificationDescription/>   <dct:temporal>publication unique</dct:temporal>   <dct:created>1401977923</dct:created>   <dct:creator>Angers Loire M\\ufffd\\ufffdtropole</dct:creator>   <dct:contributor>Angers Loire M\\ufffd\\ufffdtropole</dct:contributor>   <dct:publisher>Angers Loire M\\ufffd\\ufffdtropole</dct:publisher>   <dct:spatial>Territoire d'Angers Loire M\\ufffd\\ufffdtropole</dct:spatial>   <dct:language/>   <dcat:dataQuality/>   <dcat:granularity/>   <dct:references/>   <dcat:themeTaxonomy/>   <dcat:distribution>    <dcat:Distribution>     <dcat:Download>fileadmin/datastore/data/Citoyennete/Archives_CC-DEC/alm_111_CC_2009_PV.7z</dcat:Download>     <dct:format>PDF</dct:format>     <dcat:accessURL>http://data.angers.fr/fileadmin/datastore/data/Citoyennete/Archives_CC-DEC/alm_111_CC_2009_PV.7z</dcat:accessURL>    </dcat:Distribution>   </dcat:distribution>  </dcat:Dataset> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "fr", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "6f8d165e9f2ffc27bb43c64c0d384abb", 
+    "source_url": "http://data.angers.fr/?eID=smile_od_rdf&id=191"
+}

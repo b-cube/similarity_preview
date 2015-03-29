@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?> <META xmlns=\"http://www.w3.org/2002/01/P3Pv1\">  <POLICY-REFERENCES>     <POLICY-REF about=\"/w3c/p3p-policy.xml#general\">        <INCLUDE>/*</INCLUDE>        <COOKIE-INCLUDE/>     </POLICY-REF>      <POLICY-REF about=\"/w3c/p3p-policy.xml#meteorite\">        <INCLUDE>/meteor/*</INCLUDE>     </POLICY-REF>  </POLICY-REFERENCES> </META> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e8ef01442c2fef486222ff7787df1de8", 
+    "source_url": "http://mrdata.usgs.gov/w3c/p3p.xml"
+}

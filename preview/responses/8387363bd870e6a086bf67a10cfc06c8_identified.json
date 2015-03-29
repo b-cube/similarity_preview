@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>Confederaci&#243;n Sindical Internacional</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>Trade Union Focus on Development - Issue 42</title>  <author_name>Lora Verheecke</author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/trade-union-focus-on-development-14918</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/trade-union-focus-on-development-14918'&gt;Trade Union Focus on Development - Issue 42&lt;/a&gt;&lt;/h4&gt;&lt;blockquote class='spip'&gt; &lt;p&gt;Newsletter of the Trade Union Development Cooperation Network, July 2014&lt;br class='autobr' /&gt; To view the newsletter, please follow this link: &lt;br class='autobr' /&gt; descargar abrir&lt;/p&gt; &lt;/blockquote&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8387363bd870e6a086bf67a10cfc06c8", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Ftrade-union-focus-on-development-14918%3Flang%3Den"
+}

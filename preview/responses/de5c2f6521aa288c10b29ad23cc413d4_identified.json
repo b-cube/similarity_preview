@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../INDEX.asp\"/>  <o:File HRef=\"image001.emz\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"image003.png\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "de5c2f6521aa288c10b29ad23cc413d4", 
+    "source_url": "http://www.nrmca.org/INDEX_files/filelist.xml"
+}

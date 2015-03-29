@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>The Thug, the Barbarian, and the Work of Injury in Imperial Warfare</dc:title><dc:creator>Liu, Lydia H.</dc:creator><dc:date>2009</dc:date><dc:type>text</dc:type><dc:subject>South Asian studies</dc:subject><dc:subject>Language</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D86M35H1</dc:identifier><dc:description>In the modern English lexicon, the curious word thug is usually traced to Hindi. In the early days of the antithug military campaign in India, William Henry Sleeman, the British architect of the campaign, brought out a thug lexicon entitled Ramaseeana; or, A Vocabulary of the Peculiar Language Used by the Thugs in 1836. This lexicon represents the first systematic attempt to identify who the thugs are and how they communicate with one another in secret society. It appears to provide hard linguistic evidence for a newly discovered threat to the British presence in India, cobbling together a large collection of predominantly Hindi words and phrases and building them into a coherent image of the thug that attests to the authenticity of Hindu thuggism. The graphic details of thugs\\ufffd\\ufffd\\ufffd cold-blooded strangling of innocent travelers are as numerous as the amount of verbs and nouns that have found their way into the book and into subsequent embellishments by popular media. That the word thug is of Hindi origin (thag, theg, or thak) seems sufficient to prove that thugs exist and pose a threat.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "21bef1c8e5f0e63bac5c36b8846fc271", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A179702.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>EXPERIENCE OF FREEFEM++ AND NETGEN USAGE  IN THE SIMULATION PROGRAM FOR AERODYNAMIC PROCESSES</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname/>             <given-names/>           </name>           <aff>             <institution>Doctor of Science in Engineering, professor, Chief Architect of software systems,  Inreco LAN</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/10139\"/>       <self-uri xlink:href=\"http://zenodo.org/record/10139/files/DubovIR.pdf\"/>       <self-uri xlink:href=\"http://zenodo.org/record/10139/files/DubovIR.png?subformat=icon-90\"/>     </article-meta>     <abstract>&lt;p&gt;The article describes the experience of using of the open source libraries such as Freefem++ and NetGen to develop a simulation program for aerodynamic processes. Using of these libraries can reduce development time, but it is necessary to solve some technical problems that are described in the article.&lt;/p&gt;</abstract>   </front>   <article-type>user-innovatika</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c74239b93a4a59affbcba0b4d06b2fd1", 
+    "source_url": "https://zenodo.org/record/10139/export/xn"
+}

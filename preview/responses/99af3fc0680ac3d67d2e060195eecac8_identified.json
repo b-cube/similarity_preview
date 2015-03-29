@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0388'>  <front> <title>NCP statistics</title> <author initials='V.' surname='Cerf' fullname='V. Cerf'> <organization /></author> <date year='1972' month='August' /></front>  <seriesInfo name='RFC' value='388' /> <format type='TXT' octets='8458' target='http://www.rfc-editor.org/rfc/rfc388.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "99af3fc0680ac3d67d2e060195eecac8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0388.xml"
+}

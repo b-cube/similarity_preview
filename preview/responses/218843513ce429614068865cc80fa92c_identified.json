@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.45.903'> <front> <title>Feasibility study on Single Antenna Interference Cancellation (SAIC) for GSM networks</title> <author><organization>3GPP</organization></author> <date day='19' month='January' year='2012' /> </front>  <seriesInfo name='3GPP TR' value='45.903 10.0.1' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/45903.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "218843513ce429614068865cc80fa92c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.45.903.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.REC-CSS1-961217'            target='http://www.w3.org/TR/REC-CSS1-961217'> <front> <title>Cascading Style Sheets, level 1</title>  <author initials='H.' surname='Lie' fullname='H\\ufffd\\ufffd\\ufffd\\ufffdkon Wium Lie'>     <organization /> </author>  <author initials='B.' surname='Bos' fullname='Bert Bos'>     <organization /> </author>  <date month='December' day='17' year='1996' /> </front>  <seriesInfo name='World Wide Web Consortium Recommendation' value='REC-CSS1-961217' /> <format type='HTML' target='http://www.w3.org/TR/REC-CSS1-961217' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "16da55ec002f888d9541b5c4fd6e0959", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.REC-CSS1-961217.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Parsia, Bijan</author>           <author>Matentzoglu, Nicolas</author>         </authors>       </contributors>       <titles>         <title>BioPortal Snapshot 27.01.2015</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.15667</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>bioportal</keyword>         <keyword>ontologies</keyword>         <keyword>corpus</keyword>         <keyword>description logic</keyword>       </keywords>       <dates>         <year>2015</year>         <pub-dates>           <date>2015-02-26</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;This is a BioPortal snapshot from late January 2015. It contains the original files as downloaded by the BioPortal webservices, the OWL/XML serialised version with save repair, and a version where all axioms are annotated with axiom identifiers.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3413fa21f18f9b47b51c50651760caad", 
+    "source_url": "https://zenodo.org/record/15667/export/xe"
+}

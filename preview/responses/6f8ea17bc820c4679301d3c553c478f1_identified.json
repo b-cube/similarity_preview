@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.X224.1993\"> <front> <title>Checksum Algorithms</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"November\" year=\"1993\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation X.224\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6f8ea17bc820c4679301d3c553c478f1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.X224.1993.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.X3-122.1986\"> <front> <title>Draft Proposal: Virtual Device Metafile</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1986\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X3.122\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cac09e1f805ec6658b8e0fae84603fe0", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ANSI.X3-122.1986.xml"
+}

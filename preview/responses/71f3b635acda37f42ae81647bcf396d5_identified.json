@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Elb\\ufffd\\ufffdk, Mikael K.</a1>   <t1>Get recognised: ORCID at DTU</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;How to get your ORCID at DTU (Technical University of Denmark) presented at the Sustain DTU conference 17. December 2014. More information found here:&amp;nbsp;www.sustain.dtu.dk.&amp;nbsp;&amp;nbsp;&lt;/p&gt;</ab>   <la/>   <k1>ORCID;                 Technical University of Denmark;                 Marketing;                 Research Infrastructure;                 CRIS;                 </k1>   <pb/>   <pp/>   <yr>2014-12-16</yr>   <ed/>   <ul>https://zenodo.org/record/13274/files/ORCID_Poster_DTU_Sustain_kopi.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "71f3b635acda37f42ae81647bcf396d5", 
+    "source_url": "https://zenodo.org/record/13274/export/xw"
+}

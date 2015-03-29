@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123084</identifier><identifier type=\"pwpk\">70038865</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3084</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A Climate Trend Analysis of Burkina Faso</title></titleInfo><originInfo><dateOther>Fri, 29 Jun 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Funk, Chris; Rowland, Jim; Eilerts, Gary; Adoum, Alkhalil; White, Libby</namePart><role>Author</role></name><abstract>This brief report, drawing from a multi-year effort by the U.S. Agency for International Development (USAID) Famine Early Warning Systems Network (FEWS NET), examines recent trends in rainfall and air temperatures. These analyses are based on quality controlled station observations. &lt;b>Conclusions:&lt;/b> * Summer rains have remained steady over the past 20 years, but remain 15 percent below the 1920-69 average. * Temperatures have increased by 0.6&amp;deg; Celsius since 1975, amplifying the effect of droughts. * The amount of farmland per person is low, and declining. * Burkina Faso has offset rapid population growth with improved yields. * Continued yield growth would maintain current levels of per capita food production.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3084.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3084/</url><url displayLabel=\"pdf\" note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2012/3084/fs2012-3084.pdf</url></location><note type=\"citation/reference\">A Climate Trend Analysis of Burkina Faso; 2012; FS; 2012-3084; Fact Sheet; Funk, Chris; Rowland, Jim; Eilerts, Gary; Adoum, Alkhalil; White, Libby</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b9218fa93815fedb5cafffa99203f1b1", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123084"
+}

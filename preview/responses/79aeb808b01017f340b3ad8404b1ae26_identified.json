@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">    <channel rdf:about=\"https://verc.enes.org/ISENES2/project/sa2-wp8-enes-climate-data-services/RSS\">   <title>SA2 (WP8): ENES Climate Data Services</title>   <link>https://verc.enes.org/ISENES2/project/sa2-wp8-enes-climate-data-services</link>   <description></description>   <image rdf:resource=\"https://verc.enes.org/ISENES2/logo.png\"/>    <items>     <rdf:Seq>     </rdf:Seq>   </items>  </channel>    </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "79aeb808b01017f340b3ad8404b1ae26", 
+    "source_url": "https://verc.enes.org/ISENES2/project/sa2-wp8-enes-climate-data-services/RSS"
+}

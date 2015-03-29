@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>Confederaci&#243;n Sindical Internacional</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>Manifiesto en defensa del derecho de huelga y de la libertad sindical (UGT)</title>  <author_name>Philippe Gousenbourger</author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/manifiesto-en-defensa-del-derecho</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/manifiesto-en-defensa-del-derecho'&gt;Manifiesto en defensa del derecho de huelga y de la libertad sindical (UGT)&lt;/a&gt;&lt;/h4&gt;&lt;blockquote class='spip'&gt; &lt;p&gt;Manifiesto en defensa del derecho de huelga y de la libertad sindical (UGT) descargar abrir&lt;/p&gt; &lt;/blockquote&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9b058849014579b7961c5f144f41a893", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Fmanifiesto-en-defensa-del-derecho"
+}

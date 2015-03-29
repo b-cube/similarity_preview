@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"   xmlns:owl=\"http://www.w3.org/2002/07/owl#\"   xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dcat=\"http://www.w3.org/ns/dcat#\"   xmlns:dct=\"http://purl.org/dc/terms/\" >   <dcat:Dataset rdf:about=\"http://beta.ckan.org/en/dataset/picture99\">     <owl:sameAs rdf:resource=\"urn:uuid:10b3ac95-c84b-4621-b763-5ca2947b6f7b\"/>     <dct:description></dct:description>          <foaf:homepage rdf:resource=\"http://beta.ckan.org/en/dataset/picture99\"/>     <rdfs:label>picture99</rdfs:label>      <dct:identifier>picture99</dct:identifier>     <dct:title>Picture99</dct:title>              <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://beta.ckan.org/dataset/10b3ac95-c84b-4621-b763-5ca2947b6f7b/resource/0defa573-120d-43fe-9041-37c985de57dc/download/track2.csv\"/>                                          <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                                     <dct:title>csv track</dct:title>             </dcat:Distribution>         </dcat:distribution>                              </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "7c253cbe73033fe4347f1abfe6bd1087", 
+    "source_url": "http://beta.ckan.org/en/dataset/10b3ac95-c84b-4621-b763-5ca2947b6f7b.rdf"
+}

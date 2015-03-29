@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.ietf-smime-compression\"> <front> <title>Compressed Data Content Type for CMS</title>  <author initials=\"P\" surname=\"Gutmann\" fullname=\"Peter Gutmann\">     <organization /> </author>  <date month=\"January\" day=\"7\" year=\"2002\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-ietf-smime-compression-07\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c0d090ab847e5bc16d5519320319b113", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-smime-compression.xml"
+}

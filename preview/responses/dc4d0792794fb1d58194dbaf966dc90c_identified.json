@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-zoning-for-animal-husbandry\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-zoning-for-animal-husbandry</id><updated>2015-03-15T13:19:17Z</updated><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-animal-husbandry</title><link href=\"/revision/6fa1a82a-b62f-4604-965f-817c4df5ddd4\" rel=\"alternate\"></link><updated>2015-03-15T13:19:17Z</updated><published>2015-03-15T13:19:17Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/6fa1a82a-b62f-4604-965f-817c4df5ddd4</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-animal-husbandry</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-animal-husbandry</title><link href=\"/revision/a97eb0f8-c269-4848-b164-b9d4eb71d3e3\" rel=\"alternate\"></link><updated>2015-03-15T13:19:04Z</updated><published>2015-03-15T13:19:04Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/a97eb0f8-c269-4848-b164-b9d4eb71d3e3</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-animal-husbandry</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-animal-husbandry</title><link href=\"/revision/17061570-68a6-499f-a1a9-d514d0f3efcd\" rel=\"alternate\"></link><updated>2015-03-08T13:39:12Z</updated><published>2015-03-08T13:39:12Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/17061570-68a6-499f-a1a9-d514d0f3efcd</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-animal-husbandry</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-animal-husbandry</title><link href=\"/revision/90c7c72a-8373-475a-9d9f-6e535e5a8062\" rel=\"alternate\"></link><updated>2015-03-08T13:39:02Z</updated><published>2015-03-08T13:39:02Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/90c7c72a-8373-475a-9d9f-6e535e5a8062</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-animal-husbandry</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dc4d0792794fb1d58194dbaf966dc90c", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-zoning-for-animal-husbandry?days=14&format=atom"
+}

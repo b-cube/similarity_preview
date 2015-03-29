@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/4657\"> <title>Ffrwd Cadwrfeydd: Gregynog 2010/ Repository Stream: Gregynog 2010</title> <link>http://hdl.handle.net/2160/4657</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/4678\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/4663\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/4662\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/4661\"/> </rdf:Seq> </items> <dc:date>2015-03-20T04:33:16Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/4678\"> <title>Research management system at the University of Glamorgan</title> <link>http://hdl.handle.net/2160/4678</link> <description>Research management system at the University of Glamorgan Beevers, Leanne; Williams, Neil Presentation describing the implementation of a Research management system at the University of Glamorgan. </description> <dc:date>2010-06-14T13:52:45Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/4663\"> <title>Advocacy: the theory</title> <link>http://hdl.handle.net/2160/4663</link> <description>Advocacy: the theory Knowles, Jackie Presentation introducing the importance of advocacy in encouraging stakeholders to interact with institutional repositories, along with suggested methods of how to do this. </description> <dc:date>2010-06-09T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/4662\"> <title>Using statistics as an advocacy tool</title> <link>http://hdl.handle.net/2160/4662</link> <description>Using statistics as an advocacy tool Cashman, Nicky Presentation describing how to carry out statistical reserach and how findings can be used to inform reports and papers for senior management staff. </description> <dc:date>2010-06-09T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/4661\"> <title>Encouraging author self- deposit at Cardiff University</title> <link>http://hdl.handle.net/2160/4661</link> <description>Encouraging author self- deposit at Cardiff University Andrews, Tracey; Hill, Scott Presentation describing the work at Cardiff University on the I-WIRE Project and how the newly designed interface within Cardiff University's Modern Working Environment (MWE) aims to encourage deposit by authors into ORCA, Cardiff Universty's institutional repository. </description> <dc:date>2010-06-09T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0c36d5ff9b278c77c767c74bd8d8c554", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/4657"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Georgia Tech Honors Program</title> <link href=\"http://hdl.handle.net/1853/15581\" rel=\"alternate\"/> <subtitle>The Georgia Tech Honors Program combines the challenging academic standards of one of the finest technological universities in the world with the closer connections between students and faculty that one might expect to find in a smaller college.</subtitle> <id>http://hdl.handle.net/1853/15581</id> <updated>2015-03-06T08:35:35Z</updated> <dc:date>2015-03-06T08:35:35Z</dc:date> <entry> <title>The HyPe, January/February 2013</title> <link href=\"http://hdl.handle.net/1853/49407\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/49407</id> <updated>2013-11-12T08:32:31Z</updated> <published>2013-02-01T00:00:00Z</published> <summary type=\"text\">The HyPe, January/February 2013 </summary> <dc:date>2013-02-01T00:00:00Z</dc:date> </entry> <entry> <title>The HyPe, November 2012</title> <link href=\"http://hdl.handle.net/1853/49406\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/49406</id> <updated>2013-11-12T08:32:29Z</updated> <published>2012-11-01T00:00:00Z</published> <summary type=\"text\">The HyPe, November 2012 </summary> <dc:date>2012-11-01T00:00:00Z</dc:date> </entry> <entry> <title>The HyPe, Septembet/October 2013</title> <link href=\"http://hdl.handle.net/1853/49398\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/49398</id> <updated>2013-11-12T08:32:39Z</updated> <published>2013-10-01T00:00:00Z</published> <summary type=\"text\">The HyPe, Septembet/October 2013 </summary> <dc:date>2013-10-01T00:00:00Z</dc:date> </entry> <entry> <title>The HyPe, December 2011</title> <link href=\"http://hdl.handle.net/1853/44962\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/44962</id> <updated>2012-09-25T07:32:43Z</updated> <published>2011-12-01T00:00:00Z</published> <summary type=\"text\">The HyPe, December 2011 </summary> <dc:date>2011-12-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f353cf47e4f635fd817b4f7a786cecf1", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/15581"
+}

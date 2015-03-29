@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr01179</identifier><identifier type=\"pwpk\">31291</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2001-179</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Continental shelf GIS for the Monterey Bay National Marine Sanctuary</title></titleInfo><originInfo><dateOther>Sat, 1 Sep 2001 00:00 -0500</dateOther><dateIssued>2001</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Wong, Florence L.; Eittreim, Stephen L.</namePart><role>Author</role></name><abstract>A marine sanctuary is an environment where the interests of science and society meet. Sanctuary managers need access to the best scientific data available that describe the environment and environmental processes in sanctuaries. Seafloor mapping and sampling in the Monterey Bay National Marine Sanctuary have revealed new details about the geology, morphology, and active geologic processes of this region. Data from sidescan sonar, multibeam sonar bathymetry, physical samples, and instrument moorings, are consolidated with new and existing maps in a geographic information system (GIS). The GIS provides researchers and policymakers a view of the relationship among data sets to assist science studies and to help with economic and social policy-making decisions regarding this protected environment.</abstract><physicalDescription><form>HTML Document</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/ofr01179.GIF</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/2001/0179/</url><url note=\"DOCUMENT\">http://pubs.usgs.gov/of/2001/0179/intro.html</url></location><note type=\"citation/reference\">Continental shelf GIS for the Monterey Bay National Marine Sanctuary; 2001; OFR; 2001-179; Open-File Report; Wong, Florence L.; Eittreim, Stephen L.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0cb005e781eff38394b00d3b970c1340", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr01179"
+}

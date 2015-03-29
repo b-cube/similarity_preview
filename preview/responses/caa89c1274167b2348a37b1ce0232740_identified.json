@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Clark2009 </Local-number>  <Author>Clark, R., Jeffrey, C., Woody, K., Hillis-Starr, Z., Monaco, M. </Author>  <Title>Spatial and temporal patterns of coral bleaching around Buck Island Reef National Monument, St. Croix, U.S. Virgin Islands </Title>  <Journal-Title>Bulletin of Marine Science </Journal-Title>  <Publication-Date><caldate>2009 </caldate></Publication-Date>  <Volume-ID>84 </Volume-ID>  <Issue-ID>2 </Issue-ID>  <Extent>167-182 </Extent>  <Abstract>\"Since 2001, biannual fish and habitat monitoring has been conducted for the shallow (&amp;gt; 30 m), colonized pavement and gorgonian dominated Buck Island Reef National Monument (BIRNM) St. Croix, USVI and adjacent waters. during October, 2005, widespread coral bleaching was observed within the ?50 km2 study area that was preceded by 10 wks of higher than average water temperatures (28.9-30.1 C). Random transects (100 m2) were conducted on linear reefs, patch reefs, bedrock, pavement, and scattered coral/rock habitats during October 2005, and April and October 2006, and species specific bleaching patterns were documented. during October 2005 approximately 51% of live coral cover was bleached. Nineteen of 23 coral species within 16 genera and two hydrocoral species exhibited signs of bleaching. Coral cover for Montastraea annularis and species of the genus Agaricia were the most affected, while other species exhibited variability in their susceptibility to bleaching. Bleaching was evident at all depths (1.5-28 m), was negatively correlated with depth, and positively correlated with habitat complexity. Bleaching was less prevalent at all depths and habitat types upon subsequent monitoring during April (15%) and October (3%) 2006. Four species and one genus did not exhibit signs of bleaching throughout the study period (Dendrogyra cylindrus, Eusmilia fastigata, Mussa angulosa, Mycetophyllia aliciae, Scolymia spp.). \" </Abstract>  <Date-Time-Last-Modified>20100128000000 </Date-Time-Last-Modified>  <URL>http://www.ingentaconnect.com/content/umrsmas/bullmar/2009/00000084/00000002/art00003 </URL>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>article </CoRIS-Record-Type>  <Local-subject-index>article </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "caa89c1274167b2348a37b1ce0232740", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B23729CA8-75A7-4DCF-813D-2EED7804A8E8%7D"
+}

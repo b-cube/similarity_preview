@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.ziyad-rohc-tccb'> <front> <title>Text-based Compression Using Cache and Blank Approach (TCCB)</title>  <author initials='I' surname='Majumdar' fullname='Ishita  Majumdar'>     <organization /> </author>  <date month='November' day='4' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-ziyad-rohc-tccb-01' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-ziyad-rohc-tccb-01.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3151600e7db35c0d519b042169176c31", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ziyad-rohc-tccb.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <urlset xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/ContextLayers/Countries/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/ContextLayers/CountryBorders/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/ContextLayers/CountryStateBorders/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/ContextLayers/UnitedStates/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/ContextLayers/UnitedStatesCities/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/ContextLayers/UnitedStatesWMAS/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/ContextLayers/USandCountiesGeneralized/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/ContextLayers/USLakes_WMAS/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url>   <url>     <loc>http://gis.rita.dot.gov/ArcGIS/rest/services/ContextLayers/USStateCapitals/MapServer?f=kmz</loc>     <geo:geo>       <geo:format>kmz</geo:format>     </geo:geo>   </url> </urlset>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4e973072adbeb985865de4f909457163", 
+    "source_url": "http://gis.rita.dot.gov/ArcGIS/rest/services/ContextLayers?f=geositemap"
+}

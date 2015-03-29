@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF xmlns:doaml=\"http://ns.balbinus.net/doaml#\"          xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"          xmlns:lp=\"https://launchpad.net/rdf/launchpad#\"          xmlns:wot=\"http://xmlns.com/wot/0.1/\"          xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">     <lp:ProductRelease>         <lp:specifiedAt rdf:resource=\"/helioviewer.org/2.4.0/+rdf\"/>         <lp:version>2.4.0</lp:version>         <lp:title>Helioviewer.org 2.4.0</lp:title>         <lp:shortDescription>This release is the first to implement HEK features and events in the Helioviewer.org interface.</lp:shortDescription>         <lp:releaseNotes>HEK functionality implemented.</lp:releaseNotes>                  <lp:creationDate>2014-06-19 19:47:51 UTC</lp:creationDate>         <lp:inProductSeries>             <lp:ProductSeries>                 <lp:specifiedAt     rdf:resource=\"/helioviewer.org/2.4/+rdf\"/>             </lp:ProductSeries>         </lp:inProductSeries>         <lp:owner>             <foaf:Agent>                 <foaf:Account     rdf:resource=\"/~jack-ireland/+rdf\"/>             </foaf:Agent>         </lp:owner>     </lp:ProductRelease> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "14926b123306b63dc2889e3a270c3d90", 
+    "source_url": "https://launchpad.net/helioviewer.org/2.4/2.4.0/+rdf"
+}

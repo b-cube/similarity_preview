@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.ietf-mobileip-gnaie'> <front> <title>Generalized NAI (GNAIE) Extension for Mobile IPv4</title>  <author initials='M' surname='Khalil' fullname='Mohamed Khalil'>     <organization /> </author>  <author initials='E' surname='Qaddoura' fullname='Emad  Qaddoura'>     <organization /> </author>  <author initials='H' surname='Akhtar' fullname='Haseeb Akhtar'>     <organization /> </author>  <author initials='P' surname='Calhoun' fullname='Pat Calhoun'>     <organization /> </author>  <date month='October' day='9' year='2001' /> </front>  <seriesInfo name='Internet-Draft' value='draft-ietf-mobileip-gnaie-05' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-ietf-mobileip-gnaie-05.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9e20c991b32e1ed384225be1ed72100c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-mobileip-gnaie.xml"
+}

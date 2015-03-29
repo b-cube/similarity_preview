@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.koskelainen-imtpext'> <front> <title>MTP Extensions for Message Threading and Message Identification</title>  <author initials='P' surname='Koskelainen' fullname='Petri  Koskelainen'>     <organization /> </author>  <date month='January' day='10' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-koskelainen-imtpext-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-koskelainen-imtpext-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b959c8947ccf9eed936edd8d50ece640", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.koskelainen-imtpext.xml"
+}

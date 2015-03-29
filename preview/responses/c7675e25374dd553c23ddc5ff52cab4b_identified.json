@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr95479</identifier><identifier type=\"pwpk\">31686</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">95-479</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A teacher's guide to the San Francisco Bay area geophysics maps (U.S. Geological Survey GP-1006 and GP-1007)</title></titleInfo><originInfo><dateOther>Fri, 1 Dec 1995 00:00 -0600</dateOther><dateIssued>1995</dateIssued></originInfo><name><namePart>Langenheim, V.E.; Gordon, L.C.</namePart><role>Author</role></name><physicalDescription><form>35 p. </form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.usgs.gov/of/1995/0479/report-thumb.jpg</url><url displayLabel=\"pdf\" note=\"DOCUMENT\">http://pubs.usgs.gov/of/1995/0479/report.pdf</url></location><note type=\"citation/reference\">A teacher's guide to the San Francisco Bay area geophysics maps (U.S. Geological Survey GP-1006 and GP-1007); 1995; OFR; 95-479; Open-File Report; Langenheim, V.E.; Gordon, L.C.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c7675e25374dd553c23ddc5ff52cab4b", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr95479"
+}

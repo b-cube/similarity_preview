@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-css3-multicol-20010118'> <front> <title>Multi-column layout in CSS</title>  <author initials='H' surname='Lie' fullname='H\\ufffd\\ufffdkon Wium Lie'>     <organization /> </author>  <date month='January' day='18' year='2001' /> </front>  <seriesInfo name='W3C WD' value='WD-css3-multicol-20010118' /> <format type='HTML' target='http://www.w3.org/TR/2001/WD-css3-multicol-20010118' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c3c49d0d7d18279c368de7ee90b23e3f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-css3-multicol-20010118.xml"
+}

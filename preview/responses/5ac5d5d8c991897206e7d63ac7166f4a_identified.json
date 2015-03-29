@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/7145\"> <title>Consortium Newid Hinsawdd Cymru / Climate Change Consortium of Wales</title> <link>http://hdl.handle.net/2160/7145</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/7528\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/7184\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/7164\"/> </rdf:Seq> </items> <dc:date>2015-03-05T12:33:03Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/7528\"> <title>Ice Age in Wales</title> <link>http://hdl.handle.net/2160/7528</link> <description>Ice Age in Wales Hambrey, Michael J. The late glacial events in Wales are known as the Devensian Glaciation that peaked about 20Ka. </description> <dc:date>2011-04-28T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/7184\"> <title>Vulnerability and adaptive capacity of biodiversity in Wales</title> <link>http://hdl.handle.net/2160/7184</link> <description>Vulnerability and adaptive capacity of biodiversity in Wales Walmsley, Clive Presented at C3W climate change research review and workshop event on 27th April 2011, Aberystwyth University. </description> <dc:date>2011-04-27T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/7164\"> <title>Climate Modelling Research and Applications in Wales</title> <link>http://hdl.handle.net/2160/7164</link> <description>Climate Modelling Research and Applications in Wales Houghton, John Computer modelling of the atmosphere and climate system has revolutionised weather forecasting and research and climate prediction. </description> <dc:date>2011-04-26T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5ac5d5d8c991897206e7d63ac7166f4a", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/7145"
+}

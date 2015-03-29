@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-css-cascade-3-20131003'            target='http://www.w3.org/TR/2013/CR-css-cascade-3-20131003'> <front> <title>CSS Cascading and Inheritance Level 3</title>  <author initials='H.' surname='Lie' fullname='H\\ufffd\\ufffd\\ufffd\\ufffdkon Wium Lie'>     <organization /> </author>  <author initials='E.' surname='Etemad' fullname='Elika Etemad'>     <organization /> </author>  <author initials='T.' surname='Atkins' fullname='Tab Atkins'>     <organization /> </author>  <date month='October' day='3' year='2013' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-css-cascade-3-20131003' /> <format type='HTML' target='http://www.w3.org/TR/2013/CR-css-cascade-3-20131003' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ec28963f7ac15e0168508455b63dc634", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-w3c/reference.W3C.CR-css-cascade-3-20131003.xml"
+}

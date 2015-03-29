@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:dcterms=\"http://purl.org/dc/terms/\"   xmlns:documentcontainer=\"http://eidchub.ceh.ac.uk/portal_types/documentContainer#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" >   <documentcontainer:documentContainer rdf:about=\"http://eidchub.ceh.ac.uk/metadata/58357e70-d79b-4149-aa02-762c20b01198\">     <dcterms:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2013-09-16T14:34:30Z</dcterms:issued>     <documentcontainer:catalogLink>http://data.ceh.ac.uk/metadata/58357e70-d79b-4149-aa02-762c20b01198</documentcontainer:catalogLink>     <dcterms:creator>hajd</dcterms:creator>     <dcterms:subject>Environmental monitoring facilities</dcterms:subject>     <dcterms:subject>NERC_DDC</dcterms:subject>     <dcterms:subject>CEH Water Programme</dcterms:subject>     <dcterms:subject>lake</dcterms:subject>     <dcterms:subject>Windermere</dcterms:subject>     <dcterms:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2013-09-16T14:34:30Z</dcterms:modified>     <dcterms:isPartOf rdf:resource=\"http://eidchub.ceh.ac.uk/metadata\"/>     <dcterms:title xml:lang=\"en\">Pike 1944-2002</dcterms:title>     <documentcontainer:id xml:lang=\"en\">58357e70-d79b-4149-aa02-762c20b01198</documentcontainer:id>     <dcterms:description xml:lang=\"en\">This series of datasets consists of growth (length) data, survival data and fecundity data for Pike (Esox lucius) from net sampling in Windermere. Lake temperature data is also part of the series.  Data collection began in 1944. The data were initially collected by the Freshwater Biological Association (FBA) but have been collected by CEH and its predecessor Institute of Freshwater Ecology (IFE) since 1989.</dcterms:description>     <dcterms:created rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2013-09-16T13:57:45Z</dcterms:created>     <documentcontainer:fileIdentifier xml:lang=\"en\">58357e70-d79b-4149-aa02-762c20b01198</documentcontainer:fileIdentifier>   </documentcontainer:documentContainer> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d68bef73022f06cf3ab3ecdeff01b9f9", 
+    "source_url": "http://eidchub.ceh.ac.uk/metadata/58357e70-d79b-4149-aa02-762c20b01198/@@rdf"
+}

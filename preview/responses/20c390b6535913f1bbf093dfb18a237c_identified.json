@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.cnyap-rbm\"> <front> <title>Realm Based Mobility</title>  <author initials=\"C\" surname=\"Yap\" fullname=\"Chern Yap\">     <organization /> </author>  <date month=\"November\" day=\"12\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-cnyap-rbm-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "20c390b6535913f1bbf093dfb18a237c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.cnyap-rbm.xml"
+}

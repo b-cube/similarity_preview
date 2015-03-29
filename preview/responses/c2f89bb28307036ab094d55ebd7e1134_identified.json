@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">   <title>Gentoo Packages /package/sci-physics/geant-data</title>   <icon>http://www.gentoo.org/favicon.ico</icon>   <id>http://packages.gentoo.org/feed/package/sci-physics/geant-data</id>   <generator uri=\"http://packages.gentoo.org/\">Gentoo Packages2</generator>   <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/sci-physics/geant-data\" type=\"text/html\"/>   <link rel=\"self\" href=\"http://packages.gentoo.org/feed/package/sci-physics/geant-data\" type=\"application/atom+xml\"/>   <updated>2015-03-04T14:01:17Z</updated>   <entry>  <title xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\">    <div>         <span class=\"cpvstr\">sci-physics/geant-data</span>: <span class=\"description\">Data files for Geant4 physical processes</span>       </div>     </title>     <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/sci-physics/geant-data\" type=\"text/html\"/>     <id>http://packages.gentoo.org/package/sci-physics/geant-data?ts=2015-03-04T04:27:35Z</id>     <author>       <name> (amadio)</name>       <uri>http://cia.vc/stats/author/amadio</uri>     </author>     <updated>2015-03-04T04:27:35Z</updated>     <summary xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\"><div>*geant-data-4.10.01 (04 Mar 2015)<br/>04 Mar 2015; (<a href=\"http://cia.vc/stats/author/amadio\">amadio</a>) +<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/sci-physics/geant-data/geant-data-4.10.01.ebuild?view=markup\">geant-data-4.10.01.ebuild</a>:<br/>version bump</div></summary>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c2f89bb28307036ab094d55ebd7e1134", 
+    "source_url": "http://packages.gentoo.org/feed/package/sci-physics/geant-data"
+}

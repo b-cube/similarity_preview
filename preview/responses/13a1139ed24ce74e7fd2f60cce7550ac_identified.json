@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-design-review-districts\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-design-review-districts</id><updated>2015-03-08T13:29:52Z</updated><entry><title>REST API: Update object city-and-county-of-denver-design-review-districts</title><link href=\"/revision/4b3f556d-2ecb-42b0-988a-9c745fbed600\" rel=\"alternate\"></link><updated>2015-03-08T13:29:52Z</updated><published>2015-03-08T13:29:52Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/4b3f556d-2ecb-42b0-988a-9c745fbed600</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-design-review-districts</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-design-review-districts</title><link href=\"/revision/4c611ee7-a3f5-4b2d-9431-2a12f793476f\" rel=\"alternate\"></link><updated>2015-03-08T13:29:46Z</updated><published>2015-03-08T13:29:46Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/4c611ee7-a3f5-4b2d-9431-2a12f793476f</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-design-review-districts</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-design-review-districts</title><link href=\"/revision/4790ee83-ae79-41f2-8abd-be80ed0c5bf6\" rel=\"alternate\"></link><updated>2015-03-08T13:12:36Z</updated><published>2015-03-08T13:12:36Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/4790ee83-ae79-41f2-8abd-be80ed0c5bf6</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-design-review-districts</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-design-review-districts</title><link href=\"/revision/20703106-1d1f-45b4-85bf-3819b14d6508\" rel=\"alternate\"></link><updated>2015-03-08T13:12:24Z</updated><published>2015-03-08T13:12:24Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/20703106-1d1f-45b4-85bf-3819b14d6508</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-design-review-districts</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "13a1139ed24ce74e7fd2f60cce7550ac", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-design-review-districts?days=14&format=atom"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <LinkComponent ID=\"x12631\" Name=\"Give to JTS\" SiteBaseUrl=\"\" Locale=\"\" XPowerPath=\"/JTS/PAGES/Home/Give to JTS\">   <IGX_Categories Count=\"0\" CategoryIds=\"\" />   <LingualMaps />   <LinkText type=\"string\" label=\"Link Text\" ID=\"1\">Alumni &amp; Supporters</LinkText>   <LinkURL type=\"string\" label=\"Link URL\" ID=\"2\">x547.xml</LinkURL> </LinkComponent> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b02480bd8163926f090c5d6301a54029", 
+    "source_url": "http://www.jtsa.edu/Give_to_JTS-x12631.xml"
+}

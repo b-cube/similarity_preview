@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/CaNPSControlPrjs/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/Funding/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/ImpairedWaterQuality/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/LandUse/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/PollutionSources/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/Rivers/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/SanFranciscoBayWaterQualityImprovementFund/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/Tribes_Communites_SuccessStories/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/Watersheds/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9Watersheds/Wetlands/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7f25c1b5ff78d2e8e651dea5ca3fc7d2", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/R9Watersheds?f=geositemap"
+}

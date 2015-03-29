@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>A distinctive new species of gnatcatcher in the Polioptila guianensis complex (Aves, Polioptilidae) from western Amazonian Brazil</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Aleixo</surname>             <given-names>Alexandre</given-names>           </name>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Smith</surname>             <given-names>Brian T.</given-names>           </name>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Klicka</surname>             <given-names>J.</given-names>           </name>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Whittacker</surname>             <given-names>Andrew</given-names>           </name>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2013</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/15074\"/>       <self-uri xlink:href=\"https://zenodo.org/record/15074/files/polioptila_attenboroughi.pdf\"/>     </article-meta>     <abstract>&lt;p&gt;uploaded by Plazi&lt;/p&gt;</abstract>   </front>   <article-type>provisional-user-zenodo</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "951a8c9df6cfee00706c48a472bc5269", 
+    "source_url": "https://zenodo.org/record/15074/export/xn"
+}

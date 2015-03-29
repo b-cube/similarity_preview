@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='ISO-8859-1'?><martif type=\"MSC\" lang=\"en\"><martifHeader><fileDesc><sourceDesc><p>OECD Glossary of Statistical Terms</p></sourceDesc></fileDesc><publicationStmt><p type=\"resultCount\">2</p><p type=\"resultsPerPage\">10</p><p type=\"currentPage\">1</p></publicationStmt></martifHeader><text><body><termEntry id=\"3583\"><descrip type=\"EnglishContext\">They provide a measure of the differences in price levels between countries by indicating for a given product group the number of units of the common currency needed to buy the same volume of the product group in each country.<br /><br />For example, in 1999, a given volume of gross domestic product (GDP) costs on average 106 dollars in the United Kingdom, 68 dollars in Portugal and 143 dollars in Japan. In other words, the general price level of Japan is higher than that of the United Kingdom and of Portugal.</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Comparative price levels</term></termGrp></ntig></langSet></termEntry><termEntry id=\"2272\"><descrip type=\"EnglishContext\">Ideally, Gross Domestic Product (GDP) would be used as the reference series, but for many countries, there is often a substantial time lag in the publication of GDP estimates and they are usually available only on an annual or quarterly basis.<br /><br />Industrial production constitutes the more cyclical part of the aggregate economy and the cyclical profiles of industrial production and GDP have been found to be closely related, so that cyclical indicators identified against industrial production serve well as indicators for the GDP cycles</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Reference series (for composite leading indicators)</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Seri&#233; de r&#233;f&#233;rence</term></termGrp></ntig></langSet></termEntry></body></text></martif>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b265bc851b489f3a4a05835e0c88ec31", 
+    "source_url": "http://stats.oecd.org/glossary/filter.asp?vET=ON&vEC=ON&cEC=C&tEC=Gross+domestic+product&format=martif"
+}

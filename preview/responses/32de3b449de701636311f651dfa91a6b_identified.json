@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_BiodiversityConservation/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_CleanAir/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_CleanPlentifulWater/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_ClimateStabilization/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_FoodFuelMaterials/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_NaturalHazardMitigation/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/National/ESN_RecreationCultureAesthetics/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "32de3b449de701636311f651dfa91a6b", 
+    "source_url": "http://enviroatlas.epa.gov/arcgis/rest/services/National?f=sitemap"
+}

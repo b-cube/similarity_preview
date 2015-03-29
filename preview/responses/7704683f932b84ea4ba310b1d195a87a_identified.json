@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <!--Generated: 2015-03-18T03:53:51--> <sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <sitemap>     <loc>http://www.naphsis.org:80/sitemap0.xml</loc>   </sitemap>   <sitemap>     <loc>http://www.naphsis.org:80/sitemap_mobile0.xml</loc>   </sitemap> </sitemapindex>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7704683f932b84ea4ba310b1d195a87a", 
+    "source_url": "http://www.naphsis.org/sitemap.xml"
+}

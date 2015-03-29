@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.ietf-smime-seclabel'> <front> <title>Implementing Company Classification Policy with the S/MIME Security Label</title>  <author initials='W' surname='Nicolls' fullname='Weston Nicolls'>     <organization /> </author>  <date month='May' day='8' year='2001' /> </front>  <seriesInfo name='Internet-Draft' value='draft-ietf-smime-seclabel-04' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-ietf-smime-seclabel-04.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b13f7f2b7834d172b828d0a72e4b918d", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-smime-seclabel.xml"
+}

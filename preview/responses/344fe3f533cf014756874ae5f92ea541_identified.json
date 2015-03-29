@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Morton, Timothy</author>         </authors>       </contributors>       <titles>         <title>Dartmouth Stellar Evolution Grids</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.15843</doi>       <pages/>       <volume/>       <number>doi</number>       <dates>         <year>2015</year>         <pub-dates>           <date>2015-03-04</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Dartmouth stellar model grids, used by the &amp;#39;isochrones&amp;#39; python package (github.com/timothydmorton/isochrones).&amp;nbsp; Update from previous grids; these now include WISE bands, ages &amp;lt; 1Gyr, and have coarser Fe/H sampling.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "344fe3f533cf014756874ae5f92ea541", 
+    "source_url": "https://zenodo.org/record/15843/export/xe"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Khan, Amin M.</a1>   <a2>B\\ufffd\\ufffdy\\ufffd\\ufffdk\\ufffd\\ufffdahin,  \\ufffd\\ufffdmit C. </a2>   <a2>Freitag, Felix</a2>   <t1>Prototyping Incentive-based Resource Assignment for Clouds in Community Networks</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Wireless community networks are a successful example of a collective where communities operate ICT infrastructure and provide IP connectivity based on the principle of reciprocal resource sharing of network bandwidth. This sharing, however, has not extended to computing and storage resources, resulting in very few applications and services which are currently deployed within community networks. Cloud computing, as in today&amp;#39;s Internet, has made it common to consume resources provided by public clouds providers, but such cloud infrastructures have not materialized within community networks. We analyse in this paper socio-technical characteristics of community networks in order to derive scenarios for community clouds. Based on an architecture for such a community cloud, we implement a prototype for the incentive-driven resource assignment component, deploy it in a testbed of community network nodes, and evaluate its behaviour experimentally. Our evaluation gives insight into how the deployed prototype components regulate the consumption of cloud resources taking into account the users&amp;#39; contributions, and how this regulation affects the system usage. Our results suggest a further integration of this regulation component into current cloud management platforms in order to open them up for the operation of an ecosystem of community cloud.&lt;/p&gt;</ab>   <la/>   <k1>cloud computing;                 community networks;                 incentive mechanisms;                 resource allocation;                 </k1>   <pb/>   <pp/>   <yr>2014-05-13</yr>   <ed/>   <ul>http://zenodo.org/record/8404/files/KHAN2014_IEEE_AINA.pdf;  http://zenodo.org/record/8404/files/KHAN2014_IEEE_AINA.png?subformat=icon-90;  http://www.aina-conference.org/2014/;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "30f1d2eec05a641c735578ac8fe2c001", 
+    "source_url": "https://zenodo.org/record/8404/export/xw"
+}

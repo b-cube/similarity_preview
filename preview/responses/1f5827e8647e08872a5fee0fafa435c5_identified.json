@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>hackpad</ShortName>   <Description>search hackpad</Description>   <Url type=\"text/html\" method=\"get\" template=\"https://hackpad.com/ep/search/?q={searchTerms}\"/>   <!--<Url type=\"application/json\" rel=\"suggestions\" template=\"https://hackpad.com/?q={searchTerms}\"/>--> </OpenSearchDescription>  ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1f5827e8647e08872a5fee0fafa435c5", 
+    "source_url": "https://hackpad.com/static/opensearch.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Datens\\ufffd\\ufffdtze aus der British National Bibliography</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Becker</surname>             <given-names>Hans-Georg</given-names>           </name>           <aff>             <institution>TU Dortmund</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/10250\"/>       <self-uri xlink:href=\"http://zenodo.org/record/10250/files/bnb.zip\"/>     </article-meta>     <abstract>&lt;p&gt;Dieses Paket enth&amp;auml;lt weiterverarbeitete Daten aus der British National Bibliography in den Formaten MODS, RDF/XML und im Apache-Solr-Add-Format. Die Quelldaten aus der&amp;nbsp;British National Bibliography sind als Open Data verf&amp;uuml;gbar.&lt;/p&gt;  &lt;p&gt;Die Daten wurden zum Test des im Projekt aufgebauten Systems erzeugt und haben den Stand vom Februar 2012.&lt;/p&gt;  &lt;p&gt;Die Daten wurden mit den im Projekt ArcheoInf entwickelten Werkzeugen bearbeitet. Die Werkzeuge sind auf GitHub unter https://github.com/ArcheoInf/bibdata abgelegt.&lt;/p&gt;</abstract>   </front>   <article-type>user-archeoinf</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a8e09cd04848de0de8940fb63b43a82b", 
+    "source_url": "https://zenodo.org/record/10250/export/xn"
+}

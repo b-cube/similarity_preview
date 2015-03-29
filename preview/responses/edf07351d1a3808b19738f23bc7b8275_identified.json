@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0455'>  <front> <title>Traffic statistics (January 1973)</title> <author initials='A.M.' surname='McKenzie' fullname='A.M. McKenzie'> <organization /></author> <date year='1973' month='February' /></front>  <seriesInfo name='RFC' value='455' /> <format type='TXT' octets='5746' target='http://www.rfc-editor.org/rfc/rfc455.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "edf07351d1a3808b19738f23bc7b8275", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0455.xml"
+}

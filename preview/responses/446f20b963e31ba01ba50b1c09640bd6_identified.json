@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Vaillant, Angel Justiz</author>           <author>Bazuaye, Patience</author>           <author>Farlane-Anderson, Norma Mc</author>           <author>Smikle, Monica P</author>           <author>Fletcher, Horace</author>           <author>Akpaka, Patrick E.</author>         </authors>       </contributors>       <titles>         <title>Association between ABO Blood Type and Cervical Dysplasia/Carcinoma in Jamaican Women</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.8050</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>Cervical cancer;</keyword>         <keyword>cervical dysplasia;</keyword>         <keyword>Jamaica;</keyword>         <keyword>ABO blood types.</keyword>       </keywords>       <dates>         <year>2013</year>         <pub-dates>           <date>2013-06-28</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Cervical cancer is one of the leading causes of death from cancer among women worldwide and is the most common female cancer in developing countries. In Jamaica, at 27.5 per 100, 000 it is second only to breast cancer as a cause of cancer death in women. Several studies have suggested an association between blood type A and cervical dysplasia/cancer. The aim of this study was to determine whether presence of cervical dysplasia/cancer is associated with blood type A in Jamaican women. Blood was collected from 319 women, 234 cases (abnormal Pap smears) and 85 controls (normal Pap smears). Blood type was determined by the determination of isoagglutinins (anti-A and anti-B). The frequency of types A, B, AB and O in the controls and cases was similar to the Jamaican population. There was a slightly association between blood group O and cervical dysplasia/ carcinoma in Jamaican women when compared with others blood groups. Cervical dysplasia/ carcinoma was strongly associated to the number of sexual partners, number of biological fathers, number of children and the use of hormonal contraceptive.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "446f20b963e31ba01ba50b1c09640bd6", 
+    "source_url": "https://zenodo.org/record/8050/export/xe"
+}

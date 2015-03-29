@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Rocholz, Roland</author>           <author>Balschbach, G\\ufffd\\ufffdnther</author>           <author>J\\ufffd\\ufffdhne, Bernd</author>           <author>Kiefhaber, Daniel</author>         </authors>       </contributors>       <titles>         <title>Improved optical instrument for the measurement of water wave statistics in the field</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.14958</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>wave slope statistics</keyword>         <keyword>optical instrument</keyword>         <keyword>specular reflections</keyword>       </keywords>       <dates>         <year>2011</year>         <pub-dates>           <date>2011-07-04</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;An improved optical instrument for the measurement of slope and height statistics of capillary and short gravity wind waves on the ocean has been built. This reflective stereo slope gauge (RSSG) is based on the work of Waas and J\\x7fahne (1992). It uses a dedicated stereo camera setup with a stereo infrared LED light source. Wave slope statistics can be derived from the observation of specular reflections and wave height from the parallax of the specular reflections in the stereo images. The instrument has been successfully tested in the Heidelberg Aeolotron.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9895825997fec6d29a57316dd84848f9", 
+    "source_url": "https://zenodo.org/record/14958/export/xe"
+}

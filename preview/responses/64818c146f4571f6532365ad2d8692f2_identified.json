@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0009\">   <front>     <title>Jabber-RPC</title>     <author initials=\"D.\" surname=\"Adams\" fullname=\"DJ Adams\">       <organization/>       <address>         <email>dj.adams@pobox.com</email>       </address>     </author>     <date day=\"10\" month=\"November\" year=\"2011\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0009\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0009.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "64818c146f4571f6532365ad2d8692f2", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0009.xml"
+}

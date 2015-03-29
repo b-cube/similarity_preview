@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>Warwick Uni</ShortName>  <LongName>University of Warwick</LongName>  <Developer>University of Warwick e-lab</Developer>  <Description>Search Warwick University's web site</Description>  <Contact>elab@warwick.ac.uk</Contact>  <Tags>university warwick academic</Tags>  <Attribution>Search data copyright University of Warwick</Attribution>  <SyndicationRight>open</SyndicationRight>  <Language>*</Language>  <InputEncoding>ISO-8859-1</InputEncoding>  <OutputEncoding>ISO-8859-1</OutputEncoding>    <Image width=\"64\" height=\"64\" type=\"image/png\">   http://search.warwick.ac.uk/static/search/images/favicon-large.png  </Image>  <Image width=\"16\" height=\"16\" type=\"image/vnd.microsoft.icon\">   http://search.warwick.ac.uk/static/search/images/favicon.ico  </Image>    <Url type=\"text/html\" template=\"http://search.warwick.ac.uk/website?q={searchTerms}&amp;pagenumber={startPage?}\" method=\"get\"/>  <Url type=\"application/rss+xml\" template=\"http://search.warwick.ac.uk/rss?indexSection=sitebuilder&amp;q={searchTerms}&amp;pagenumber={startPage?}\" method=\"get\"/>  <Url type=\"application/atom+xml\" template=\"http://search.warwick.ac.uk/atom?indexSection=sitebuilder&amp;q={searchTerms}&amp;pagenumber={startPage?}\" method=\"get\"/>  <Url type=\"application/json\" template=\"http://search.warwick.ac.uk/json?indexSection=sitebuilder&amp;q={searchTerms}&amp;pagenumber={startPage?}\" method=\"get\"/>  <Url type=\"application/x-suggestions+json\"         template=\"http://search.warwick.ac.uk/search/suggest.json?q={searchTerms}\"/>  <Query role=\"example\" searchTerms=\"undergraduate\" />  <AdultContent>false</AdultContent> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "*", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8b595a4d6a969f8d38fc97ba10a1d051", 
+    "source_url": "http://search.warwick.ac.uk/static/search/osd.xml"
+}

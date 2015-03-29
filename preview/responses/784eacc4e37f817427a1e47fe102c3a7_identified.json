@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>  <mods xmlns=\"http://www.loc.gov/mods/v3\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd\">    <titleInfo>       <title>\"Telling a Story\": Louis Armstrong and Coherence in Early Jazz</title>    </titleInfo>    <name type=\"personal\">       <namePart type=\"family\">Harker</namePart>       <namePart type=\"given\">Brian</namePart>       <role>          <roleTerm type=\"text\">author</roleTerm>       </role>       <affiliation>Columbia University. Music</affiliation>    </name>    <name type=\"corporate\">       <namePart>Columbia University. Music</namePart>       <role>          <roleTerm type=\"text\">originator</roleTerm>       </role>    </name>    <extension xmlns:rioxxterms=\"http://docs.rioxx.net/schema/v1.0/rioxxterms/\" xmlns=\"http://www.loc.gov/mods/v3\" xsi:schemaLocation=\"http://docs.rioxx.net/schema/v1.0/rioxxterms/ http://docs.rioxx.net/schema/v1.0/rioxxterms.xsd\">       <rioxxterms:funder/>       <rioxxterms:projectid/>    </extension>    <typeOfResource>text</typeOfResource>    <genre>Articles</genre>    <originInfo>       <dateIssued encoding=\"w3cdtf\" keyDate=\"yes\">1997</dateIssued>    </originInfo>    <language>       <languageTerm type=\"text\">English</languageTerm>    </language>    <abstract>Brian Harker discusses the value and rarity of Louis Armstrong's composition in Jazz in a time of improvisation. </abstract>    <subject>       <topic>Music</topic>    </subject>    <relatedItem type=\"host\">       <titleInfo>          <title>Current Musicology</title>       </titleInfo>       <part>          <detail type=\"volume\">             <number>63</number>          </detail>          <extent unit=\"page\">             <start>46</start>             <end>83</end>          </extent>          <date>1997</date>       </part>       <identifier type=\"issn\">0011-3735</identifier>    </relatedItem>    <identifier type=\"CDRS doi\">http://dx.doi.org/10.7916/D8TM78W9</identifier>    <location>       <physicalLocation authority=\"marcorg\">NNC</physicalLocation>    </location>    <recordInfo>       <recordContentSource authority=\"marcorg\">NNC</recordContentSource>       <recordCreationDate encoding=\"w3cdtf\">2014-12-24 10:28:45 -0500</recordCreationDate>       <recordChangeDate encoding=\"w3cdtf\">2014-12-24 10:34:54 -0500</recordChangeDate>       <recordIdentifier>18871</recordIdentifier>       <languageOfCataloging>          <languageTerm authority=\"iso639-2b\">eng</languageTerm>       </languageOfCataloging>    </recordInfo> </mods> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "784eacc4e37f817427a1e47fe102c3a7", 
+    "source_url": "http://academiccommons.columbia.edu/download/fedora_content/show_pretty/ac:181003/CONTENT/ac181003_description.xml?data=meta"
+}

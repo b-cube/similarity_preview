@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"><ShortName>AMS Glossary (en)</ShortName><Description>AMS Glossary (en)</Description><Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://glossary.ametsoc.org/favicon.ico</Image><Url type=\"text/html\" method=\"get\" template=\"http://glossary.ametsoc.org/w/index.php?title=Special:Search&amp;search={searchTerms}\" /><Url type=\"application/x-suggestions+json\" method=\"get\" template=\"http://glossary.ametsoc.org/w/api.php?action=opensearch&amp;search={searchTerms}&amp;namespace=0\" /><moz:SearchForm>http://glossary.ametsoc.org/wiki/Special:Search</moz:SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "93e4a7efc9466e90ef1ecc117670699a", 
+    "source_url": "http://glossary.ametsoc.org/w/opensearch_desc.php"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='ISO-8859-1'?><martif type=\"MSC\" lang=\"en\"><martifHeader><fileDesc><sourceDesc><p>OECD Glossary of Statistical Terms</p></sourceDesc></fileDesc><publicationStmt><p type=\"resultCount\">807</p><p type=\"resultsPerPage\">10</p><p type=\"currentPage\">1</p></publicationStmt></martifHeader><text><body><termEntry id=\"12\"><descrip type=\"Source\">SDMX</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Accessibility (as a statistical data quality dimension)</term></termGrp></ntig></langSet></termEntry><termEntry id=\"6098\"><descrip type=\"Source\">IMF</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Accounting basis</term></termGrp></ntig></langSet></termEntry><termEntry id=\"7102\"><descrip type=\"Source\">SDMX</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Accounting conventions</term></termGrp></ntig></langSet></termEntry><termEntry id=\"4463\"><descrip type=\"Source\">IMF</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Accounting standards</term></termGrp></ntig></langSet></termEntry><termEntry id=\"7279\"><descrip type=\"Source\">IMF</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Accounting system</term></termGrp></ntig></langSet></termEntry><termEntry id=\"5879\"><descrip type=\"Source\">IMF</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Accrual of interest costs</term></termGrp></ntig></langSet></termEntry><termEntry id=\"7281\"><descrip type=\"Source\">IMF</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Accrual reporting</term></termGrp></ntig></langSet></termEntry><termEntry id=\"45\"><descrip type=\"Source\">IMF</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Additivity - PPI</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Additivit&#233; - IPP</term></termGrp></ntig></langSet></termEntry><termEntry id=\"4645\"><descrip type=\"Source\">IMF</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Adjustable Long-term Putable Security</term></termGrp></ntig></langSet></termEntry><termEntry id=\"7103\"><descrip type=\"Source\">SDMX</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Adjustment</term></termGrp></ntig></langSet></termEntry></body></text></martif>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fb67a003f821e52a27fd05afb39f7044", 
+    "source_url": "http://stats.oecd.org/glossary/filter.asp?vET=ON&vS=ON&cS=70&cS=8&format=martif"
+}

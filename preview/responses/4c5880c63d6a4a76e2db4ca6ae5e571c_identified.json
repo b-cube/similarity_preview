@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/EPA_AgSTAR_AD_Projects/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/EPA_AgSTAR_LMOP/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/EPA_AgSTAR_MarketOps_2011/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/EPA_AgSTAR_Related_Orgs/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/EPA_Composting/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/EPA_DSIRE_Incentives_State/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/EPA_DSIRE_RPS_State/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/EPA_MethaneEmmisons_State/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/EPA_WWTP/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/USDA_Investments_Energy_Type/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/USDA_Investments_EnergyType_State/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/USDA_Investments_Funding_Program/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/USDA_MarketPotential/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/AgSTAR/WBJ_Waste_Facilities/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4c5880c63d6a4a76e2db4ca6ae5e571c", 
+    "source_url": "http://gispub.epa.gov/arcgis/rest/services/AgSTAR?f=geositemap"
+}

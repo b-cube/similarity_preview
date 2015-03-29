@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Bathymetric Survey - 2012-11-07 - </dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">ukho.ac.uk:DC:05b7e89d-d94a-3c95-9701-9104605aca88</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">HI No: HI 1355; IPR Holder: INIS Hydro; Purpose: Safety of navigation; Category: Order 1a; IHO Sea: Inner Seas off the West Coast of Scotland - 18; Survey Start: 2012-10-11; Survey End: 2012-11-07; Primary Instrument Type: Echosounder - multibeam; Primary Navigation Type: WADGPS</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2013-08-06</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0778ebe273804ae106329a1ec3c76fc9", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/ukho.ac.uk__MEDIN_2.3__05b7e89d-d94a-3c95-9701-9104605aca88.xml/DC"
+}

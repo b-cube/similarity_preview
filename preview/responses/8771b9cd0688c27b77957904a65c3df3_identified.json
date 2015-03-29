@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0477'>  <front> <title>Remote Job Service at UCSB</title> <author initials='M.' surname='Krilanovich' fullname='M. Krilanovich'> <organization /></author> <date year='1973' month='May' /></front>  <seriesInfo name='RFC' value='477' /> <format type='TXT' octets='40535' target='http://www.rfc-editor.org/rfc/rfc477.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8771b9cd0688c27b77957904a65c3df3", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0477.xml"
+}

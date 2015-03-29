@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0004\">   <front>     <title>Data Forms</title>     <author initials=\"R.\" surname=\"Eatmon\" fullname=\"Ryan Eatmon\">       <organization/>       <address>         <email>reatmon@jabber.org</email>       </address>     </author>     <author initials=\"J.\" surname=\"Hildebrand\" fullname=\"Joe Hildebrand\">       <organization/>       <address>         <email>jhildebr@cisco.com</email>       </address>     </author>     <author initials=\"J.\" surname=\"Miller\" fullname=\"Jeremie Miller\">       <organization/>       <address>         <email>jer@jabber.org</email>       </address>     </author>     <author initials=\"T.\" surname=\"Muldowney\" fullname=\"Thomas Muldowney\">       <organization/>       <address>         <email>temas@jabber.org</email>       </address>     </author>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <date day=\"13\" month=\"August\" year=\"2007\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0004\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0004.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4b494d9a393ab5467397d52945bf6dda", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0004.xml"
+}

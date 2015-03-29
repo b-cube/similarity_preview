@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>The Future of World Politics: Will it Resemble the Past</dc:title><dc:creator>Jervis, Robert</dc:creator><dc:date>1991</dc:date><dc:type>text</dc:type><dc:subject>Political science</dc:subject><dc:subject>International relations</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D85T3JB3</dc:identifier><dc:description>History usually makes a mockery of our hopes or our expectations. The events of 1989, perhaps more welcomed than those of any year since 1945, were unforeseen. Much of what analysts anticipate for the 1990s is unpleasant. Nevertheless, it is clear that we are entering a new world, and I present three lines of argument about it. First, I discuss why prediction is so difficult in world politics. Among the reasons: multiple factors are usually at work, actors learn, small events can affect the course of history and, most importantly in this context, many well-established generalizations about world politics may no longer hold. This leads to the second question of the ways and areas in which the future is likely to resemble the past and the sources, areas, and implications of change. It appears that while international politics in much of the world will follow patterns that are familiar in outline although unpredictable in detail, among the developed states we are likely to see new forms of relations. In this new context, my third argument goes, the United States will face an extraordinarily wide range of policy choices and must therefore address fundamental questions that were submerged during the Cold War. Freed from previous constraints, the United States has many goals it can seek, but there are more conflicts among them than are sometimes realized.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0d32a1e5e9da88c8131169c6562ad121", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A184032.xml"
+}

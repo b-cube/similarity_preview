@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0051'>  <front> <title>Proposal for a Network Interchange Language</title> <author initials='M.' surname='Elie' fullname='M. Elie'> <organization /></author> <date year='1970' month='May' /></front>  <seriesInfo name='RFC' value='51' /> <format type='PDF' octets='967411' target='http://www.rfc-editor.org/rfc/rfc51.pdf' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4c47f2b87b866901f9b505738b4043b8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0051.xml"
+}

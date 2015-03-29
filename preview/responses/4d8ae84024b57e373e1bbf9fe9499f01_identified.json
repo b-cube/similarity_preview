@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.23.007'> <front> <title>Restoration procedures</title> <author><organization>3GPP</organization></author> <date day='12' month='January' year='2004' /> </front>  <seriesInfo name='3GPP TS' value='23.007 3.6.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/23007.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4d8ae84024b57e373e1bbf9fe9499f01", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.23.007.xml"
+}

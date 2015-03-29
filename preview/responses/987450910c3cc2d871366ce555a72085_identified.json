@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">     <ShortName>Berkeley Lab Commons</ShortName>     <Description>Atlassian Confluence Search Provider</Description>     <Image height=\"16\" width=\"16\" type=\"image/x-icon\">https://commons.lbl.gov/images/logo/confluence_48_white.png</Image>     <Image height=\"64\" width=\"64\" type=\"image/png\">https://commons.lbl.gov/images/logo/confluence_128_white.png</Image>     <Url type=\"text/html\" template=\"https://commons.lbl.gov/dosearchsite.action?queryString={searchTerms}\"/>     <Query role=\"example\" searchTerms=\"Confluence\"/>     <InputEncoding>UTF-8</InputEncoding>     <moz:SearchForm>https://commons.lbl.gov/searchsite.action</moz:SearchForm> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "987450910c3cc2d871366ce555a72085", 
+    "source_url": "https://commons.lbl.gov/opensearch/osd.action"
+}

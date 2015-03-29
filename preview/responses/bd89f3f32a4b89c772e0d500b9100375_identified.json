@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.X3-51.1975\"> <front> <title>Representations of Universal Time, Local Time Differentials, and United States Time Zone References for Information Interchange</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1975\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X3.51\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bd89f3f32a4b89c772e0d500b9100375", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ANSI.X3-51.1975.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Technical Outputs</title> <link href=\"http://hdl.handle.net/2160/6227\" rel=\"alternate\"/> <subtitle>Technical Outputs</subtitle> <id>http://hdl.handle.net/2160/6227</id> <updated>2015-03-19T08:53:19Z</updated> <dc:date>2015-03-19T08:53:19Z</dc:date> <entry> <title>How to enable e-theses Harvesting using OAI-PMH with DSpace 1.5 and EPrints3</title> <link href=\"http://hdl.handle.net/2160/6244\" rel=\"alternate\"/> <author> <name>Corfield, Antony</name> </author> <id>http://hdl.handle.net/2160/6244</id> <updated>2011-03-28T08:00:48Z</updated> <published>2011-03-28T00:00:00Z</published> <summary type=\"text\">How to enable e-theses Harvesting using OAI-PMH with DSpace 1.5 and EPrints3 Corfield, Antony </summary> <dc:date>2011-03-28T00:00:00Z</dc:date> </entry> <entry> <title>Browse your Repository - How to add a stylesheet to an OAI-PMH response with DSpace</title> <link href=\"http://hdl.handle.net/2160/6243\" rel=\"alternate\"/> <author> <name>Corfield, Antony</name> </author> <id>http://hdl.handle.net/2160/6243</id> <updated>2011-03-28T08:06:08Z</updated> <published>2011-03-28T00:00:00Z</published> <summary type=\"text\">Browse your Repository - How to add a stylesheet to an OAI-PMH response with DSpace Corfield, Antony </summary> <dc:date>2011-03-28T00:00:00Z</dc:date> </entry> <entry> <title>Custom Google search for Welsh repositories</title> <link href=\"http://hdl.handle.net/2160/6242\" rel=\"alternate\"/> <author> <name>Corfield, Antony</name> </author> <id>http://hdl.handle.net/2160/6242</id> <updated>2011-03-28T07:57:32Z</updated> <published>2011-03-28T00:00:00Z</published> <summary type=\"text\">Custom Google search for Welsh repositories Corfield, Antony </summary> <dc:date>2011-03-28T00:00:00Z</dc:date> </entry> <entry> <title>Utility to check and view DSpace SIPs prior to import</title> <link href=\"http://hdl.handle.net/2160/6241\" rel=\"alternate\"/> <author> <name>Corfield, Antony</name> </author> <id>http://hdl.handle.net/2160/6241</id> <updated>2011-03-28T07:55:08Z</updated> <published>2011-03-28T00:00:00Z</published> <summary type=\"text\">Utility to check and view DSpace SIPs prior to import Corfield, Antony </summary> <dc:date>2011-03-28T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c03614bbef15aea2078007a9fa872c25", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/6227"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/Catalog\" ID=\"/opendap/hyrax/Catalog/\">             <thredds:catalogRef name=\"DatapoolCatalog\" xlink:href=\"DatapoolCatalog/catalog.xml\"                           xlink:title=\"DatapoolCatalog\"                           xlink:type=\"simple\"                           ID=\"/opendap/hyrax/Catalog/DatapoolCatalog/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "33f1ccc4fb2f6c965528cde2d04096d0", 
+    "source_url": "http://acdisc.gsfc.nasa.gov/opendap/Catalog/catalog.xml"
+}

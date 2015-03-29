@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0510'>  <front> <title>Request for network mailbox addresses</title> <author initials='J.E.' surname='White' fullname='J.E. White'> <organization /></author> <date year='1973' month='May' /></front>  <seriesInfo name='RFC' value='510' /> <format type='TXT' octets='4150' target='http://www.rfc-editor.org/rfc/rfc510.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "851506ea7dab098e50b3f9bed624ca0c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0510.xml"
+}

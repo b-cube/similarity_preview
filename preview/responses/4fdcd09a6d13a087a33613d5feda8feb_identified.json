@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>ACPE Search</ShortName><Description>Search ACPE</Description><Url type=\"text/html\" method=\"get\" template=\"/imis_prod/ACPE/Home/ACPE/Default.aspx?hkey=e972295b-9789-43c3-8bcd-7910269c725eiMIS/ContentManagement/Search.aspx?SearchTerms={searchTerms}\"/><Image>/imis_prod/ACPE/Home/ACPE/Default.aspx?hkey=e972295b-9789-43c3-8bcd-7910269c725efavicon.ico</Image><InputEncoding>UTF-8</InputEncoding><SearchForm>/imis_prod/ACPE/Home/ACPE/Default.aspx?hkey=e972295b-9789-43c3-8bcd-7910269c725e</SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4fdcd09a6d13a087a33613d5feda8feb", 
+    "source_url": "http://www.acpe.edu/imis_prod/OpenSearch.aspx"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:socrata=\"http://www.socrata.com/rdf/terms#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:ods=\"http://open-data-standards.github.com/2012/01/open-data-standards#\" xmlns:dcterm=\"http://purl.org/dc/terms/\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dsbase=\"http://datacatalog.cookcountyil.gov/resource/\" xmlns:ds=\"http://datacatalog.cookcountyil.gov/resource/nnih-e5uj/\"> <rdf:Description rdf:about=\"http://datacatalog.cookcountyil.gov/resource/nnih-e5uj/1\">     <socrata:rowID>1</socrata:rowID>     <rdfs:member rdf:resource=\"http://datacatalog.cookcountyil.gov/resource/nnih-e5uj\"/>     <ds:race_>WHITE          </ds:race_>     <ds:count_>2965</ds:count_>     <ds:percent_>56.65</ds:percent_></rdf:Description> <rdf:Description rdf:about=\"http://datacatalog.cookcountyil.gov/resource/nnih-e5uj/2\">     <socrata:rowID>2</socrata:rowID>     <rdfs:member rdf:resource=\"http://datacatalog.cookcountyil.gov/resource/nnih-e5uj\"/>     <ds:race_>BLACK          </ds:race_>     <ds:count_>2169</ds:count_>     <ds:percent_>41.44</ds:percent_></rdf:Description> <rdf:Description rdf:about=\"http://datacatalog.cookcountyil.gov/resource/nnih-e5uj/3\">     <socrata:rowID>3</socrata:rowID>     <rdfs:member rdf:resource=\"http://datacatalog.cookcountyil.gov/resource/nnih-e5uj\"/>     <ds:race_>OTHER          </ds:race_>     <ds:count_>100</ds:count_>     <ds:percent_>1.91</ds:percent_></rdf:Description></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "308dc9f7a81f42a73cc599c629bc71b8", 
+    "source_url": "https://datacatalog.cookcountyil.gov/api/views/nnih-e5uj/rows.rdf?accessType=DOWNLOAD"
+}

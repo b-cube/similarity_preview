@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"::ds177_pam.htm\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.pct\"/>  <o:File HRef=\"image003.gif\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6956be5ae0dc425a021dff41c43d47c6", 
+    "source_url": "http://pubs.usgs.gov/ds/2006/177/text/ds177_pam_files/filelist.xml"
+}

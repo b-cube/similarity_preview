@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor=\"W3C.REC-xmlenc-core\"  target=\"http://www.w3.org/TR/xmlenc-core/\">   <front>     <title>XML Encryption Syntax and Processing</title>     <author initials=\"T.\" surname=\"Imamura\" fullname=\"Takeshi Imamura\">       <organization>IBM</organization>     </author>     <author initials=\"B.\" surname=\"Dillaway\" fullname=\"Blair Dillaway\">       <organization>Microsoft</organization>     </author>     <author initials=\"J.\" surname=\"Schaad\" fullname=\"Jim Schaad\">       <organization>Soaring Hawk Consulting</organization>     </author>     <author initials=\"E.\" surname=\"Simon\" fullname=\"Ed Simon\">       <organization></organization>     </author>     <date year=\"2001\" month=\"October\" day=\"18\"/>   </front>   <seriesInfo name=\"W3C\" value=\"REC-xmlenc-core\"/> </reference>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b8cdce339b48c9c65c6c6a0f3b7f6a83", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.W3C.REC-xmlenc-core.xml"
+}

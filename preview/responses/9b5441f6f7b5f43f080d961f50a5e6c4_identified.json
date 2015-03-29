@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Baha'is of New York City</ShortName>   <Description>Celebrating the 100th anniversary of the visit of `Abdu'l-Bah\\ufffd\\ufffd to New York City</Description>   <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://bahainyc.org/pics/favicon.ico</Image>   <Url type=\"text/html\" template=\"http://bahainyc.org/search.aspx?q={searchTerms}\" />   <Url type=\"application/rss+xml\" template=\"http://bahainyc.org/syndication.axd?q={searchTerms}\" /> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9b5441f6f7b5f43f080d961f50a5e6c4", 
+    "source_url": "http://bahainyc.org/opensearch.axd"
+}

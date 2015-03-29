@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20063025</identifier><identifier type=\"pwpk\">79478</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2006-3025</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Surveillance for Asian H5N1 avian influenza in the United States. The government initiates early detection efforts in wild birds</title></titleInfo><originInfo><dateOther>Sun, 1 Jan 2006 00:00 -0600</dateOther><dateIssued>2006</dateIssued></originInfo><name><namePart>Ip, Hon S.; Slota, Paul G.</namePart><role>Author</role></name><abstract>Increasing concern over the potential for migratory birds to introduce the Asian H5N1 strain of avian influenza to North America prompted the White House Policy Coordinating Committee for Pandemic Influenza Preparedness to request that the U.S. Departments of Agriculture (USDA) and Interior (DOI) develop a plan for the early detection of highly pathogenic avian influenza (HPAI) in the United States. To promote coordination among wildlife, agriculture, and human health agencies on HPAI surveillance efforts, the two Departments worked with representatives from the U.S. Department of Health and Human Services, the International Association of Fish and Wildlife Agencies, and the Alaska Department of Fish and Game to develop the U.S. Interagency Strategic Plan for Early Detection of Asian H5N1 Highly Pathogenic Avian Influenza in Wild Migratory Birds.</abstract><physicalDescription><form>2 p.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2006_3025.jpg</url><url displayLabel=\"pdf\" note=\"DOCUMENT\">http://www.nwhc.usgs.gov/publications/fact_sheets/pdfs/ai/AIFEB06.pdf</url></location><note type=\"citation/reference\">Surveillance for Asian H5N1 avian influenza in the United States. The government initiates early detection efforts in wild birds; 2006; FS; 2006-3025; Fact Sheet; Ip, Hon S.; Slota, Paul G.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "feaf6d54add5b143cf4219318b9a80d0", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20063025"
+}

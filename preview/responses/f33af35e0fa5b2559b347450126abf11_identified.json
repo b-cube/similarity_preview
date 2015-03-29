@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Messungen zur Schmidtzahlabh\\ufffd\\ufffdngigkeit des Gasaustausches</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>J\\ufffd\\ufffdhne</surname>             <given-names>Bernd</given-names>           </name>           <aff>             <institution>Institut f\\ufffd\\ufffdr Umweltphysik, Heidelberg University</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>B\\ufffd\\ufffdsinger</surname>             <given-names>Rainer</given-names>           </name>           <aff>             <institution>Institut f\\ufffd\\ufffdr Umweltphysik, Heidelberg University</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>1986</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/15133\"/>       <self-uri xlink:href=\"https://zenodo.org/record/15133/files/Boesinger_Diplom1986a.pdf\"/>     </article-meta>     <abstract>&lt;p&gt;Measurements of the dependency of air-water gas transfer on the Schmidt number in an annular wind/wave facility using He, methane, Xe, and carbon dioxide.&lt;/p&gt;</abstract>   </front>   <article-type>user-asi</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f33af35e0fa5b2559b347450126abf11", 
+    "source_url": "http://zenodo.org/record/15133/export/xn"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xmlns:georss=\"http://www.georss.org/georss\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><updated>2015-03-06T08:20:44Z</updated><title>USGS Significant Earthquakes, Past Week</title><subtitle>Real-time, worldwide earthquake list for the past week</subtitle><link rel=\"self\" href=\"http://earthquake.usgs.gov/earthquakes/feed/atom/significant/week\"/><link href=\"http://earthquake.usgs.gov/earthquakes/\"/><author><name>U.S. Geological Survey</name></author><id>http://earthquake.usgs.gov/</id><icon>/favicon.ico</icon> <entry><id>urn:earthquake-usgs-gov:us:c000ttkd</id><title>M 7.0, 131km N of Nebe, Indonesia</title><dc:date>2015-02-27T13:45:05Z</dc:date><updated>2015-03-02T15:10:01Z</updated><link rel=\"alternate\" type=\"text/html\" href=\"http://earthquake.usgs.gov/earthquakes/eventpage/usc000ttkd\"/><link rel=\"related\" type=\"application/cap+xml\" href=\"http://earthquake.usgs.gov/earthquakes/eventpage/usc000ttkd.cap\"/><link rel=\"related\" type=\"text/html\" href=\"http://earthquake.usgs.gov/earthquakes/eventpage/usc000ttkd#dyfi\"/><link rel=\"related\" type=\"text/html\" href=\"http://earthquake.usgs.gov/earthquakes/eventpage/usc000ttkd#shakemap\"/><link rel=\"related\" type=\"text/html\" href=\"http://earthquake.usgs.gov/earthquakes/eventpage/usc000ttkd#losspager\"/><summary type=\"html\"><![CDATA[    <img src=\"/images/globes/-5_125.jpg\" align=\"left\"       alt=\"-7.2878 122.532\" hspace=\"20\"/>    <p>Friday, February 27, 2015 13:45:05 UTC<br/>Friday, February 27, 2015 21:45:05 at epicenter</p>    <p><strong>Depth</strong>: 552.33 km (343.20 mi)</p>   ]]></summary><georss:point>-7.2878 122.532</georss:point><georss:elev>552.33</georss:elev><category label=\"Age\" term=\"Past Week\"/><category label=\"Magnitude\" term=\"7\"/></entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5fdee81f047f78c76cbc9bec3e5773d6", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/feed/atom/significant/week"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Doerr2007 </Local-number>  <Type-Period-Note>Oral Presentation </Type-Period-Note>  <General-Note>Presentation given at the 60th International Gulf and Caribbean Fisheries Institute Meeting in Punta Cana, Dominican Republic </General-Note>  <Author>Doerr, J., Hill, R. </Author>  <Title>Determining habitat use, movement, and migration patterns of queen conch, Strombus gigas, in St. John, USVI, using acoustic tagging techniques </Title>  <Publication-Date><caldate>2007 </caldate></Publication-Date>  <Abstract>Presentation on Determining habitat use, movement, and migration patterns of queen conch, Strombus gigas, in St. John, USVI, using acoustic tagging techniques given at the 60th International Gulf and Caribbean Fisheries Institute Meeting in Punta Cana, Dominican Republic, November 5-9, 2007. </Abstract>  <Date-Time-Last-Modified>20091019000000 </Date-Time-Last-Modified>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>misc </CoRIS-Record-Type>  <Local-subject-index>misc </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "25e499ff540eabaeb10997586489857e", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BB3204B0A-92BB-496A-8AAE-667602C088A5%7D"
+}

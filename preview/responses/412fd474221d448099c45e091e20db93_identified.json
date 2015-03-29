@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><?xml-stylesheet type=\"text/xsl\" href=\"http://mrdata.usgs.gov/nicrpge/nicrpge.xsl\"?><record id=\"8397\"><name>Grasvally</name><latitude>-24.33</latitude><longitude>28.97</longitude><src_rec_no>806</src_rec_no><record_tp>Mine, Dormant</record_tp><country>South Africa</country><class>Past Producer</class><ref_short>Martini and others (2001)</ref_short><reference>Martini, J.E.J., Vorster, C.J., Oosterhuis, W.R., and Wolmarans, L.G., 2001, Digital metallogenic map of South Africa and the Kingdoms of Lesotho and Swaziland [mineralpoints.dbf]: Council for Geoscience (Geological Survey), South Africa, scale 1:1,000,000, CD-ROM.</reference><commodity>Cr</commodity><commodity>Pt</commodity><commodity>PGE</commodity></record>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "412fd474221d448099c45e091e20db93", 
+    "source_url": "http://mrdata.usgs.gov/nicrpge/show-nicrpge.php?site_id=8397"
+}

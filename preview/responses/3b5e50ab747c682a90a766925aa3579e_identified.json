@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>physicsfrontline</ShortName>  <Description>Search Physics Frontline - Your scientific source for news, analysis and commentary relating to physics, science and technology</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://physicsfrontline.aps.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://physicsfrontline.aps.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://physicsfrontline.aps.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>Physics Frontline</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://physicsfrontline.aps.org/favicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/png\">http://s0.wp.com/i/logo/gray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>science innovation linkedin national-science-foundation budget advocacy scientific-research congress president-obama research</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://physicsfrontline.aps.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3b5e50ab747c682a90a766925aa3579e", 
+    "source_url": "http://physicsfrontline.aps.org/osd.xml"
+}

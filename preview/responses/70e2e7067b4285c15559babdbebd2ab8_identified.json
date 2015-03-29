@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"09CBAD36-1FEA-43F7-951D-283AED86E835\" _position=\"1\" _address=\"http://data.ok.gov/resource/xy95-ixep/1\"><years>2011</years><historical_data>609</historical_data></row><row _id=\"2\" _uuid=\"CA679A95-68A5-43F1-A98B-3955E5A0FFB4\" _position=\"2\" _address=\"http://data.ok.gov/resource/xy95-ixep/2\"><years>2012</years><historical_data>694</historical_data></row><row _id=\"3\" _uuid=\"5AD67C12-0238-4053-A666-EF90FB569D20\" _position=\"3\" _address=\"http://data.ok.gov/resource/xy95-ixep/3\"><years>2013</years><historical_data>739</historical_data></row><row _id=\"4\" _uuid=\"15E6B4C7-C701-4F50-BC83-18D1C17FEA8A\" _position=\"4\" _address=\"http://data.ok.gov/resource/xy95-ixep/4\"><years>2014</years><historical_data>755</historical_data></row><row _id=\"5\" _uuid=\"D0085CC8-D725-48BF-B975-A1F85208453A\" _position=\"5\" _address=\"http://data.ok.gov/resource/xy95-ixep/5\"><years>2015</years></row><row _id=\"6\" _uuid=\"E01A3D3D-6555-44F4-BD2B-056874CB88B3\" _position=\"6\" _address=\"http://data.ok.gov/resource/xy95-ixep/6\"><years>2016</years></row><row _id=\"7\" _uuid=\"30819F48-4147-4807-85A0-963A856728A5\" _position=\"7\" _address=\"http://data.ok.gov/resource/xy95-ixep/7\"><years>2017</years></row><row _id=\"8\" _uuid=\"4920F79A-EEC2-44EB-B9F2-DF0171AFA172\" _position=\"8\" _address=\"http://data.ok.gov/resource/xy95-ixep/8\"><years>2018</years><target>1256</target></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "70e2e7067b4285c15559babdbebd2ab8", 
+    "source_url": "https://data.ok.gov/api/views/xy95-ixep/rows.xml?accessType=DOWNLOAD"
+}

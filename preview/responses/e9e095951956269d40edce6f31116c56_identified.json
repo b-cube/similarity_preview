@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <gml:GeodeticCRS xmlns:gml=\"http://www.opengis.net/gml/3.2\" gml:id=\"ogp-crs-4267\">    <gml:metaDataProperty>       <epsg:CommonMetaData xmlns:epsg=\"urn:x-ogp:spec:schema-xsd:EPSG:1.0:dataset\">          <epsg:type>geographic 2D</epsg:type>          <epsg:revisionDate>2014-05-20</epsg:revisionDate>          <epsg:changes>             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::1999.040\" />             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::2003.370\" />             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::2009.087\" />             <epsg:changeID xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:change-request:EPSG::2014.034\" />          </epsg:changes>          <epsg:show>true</epsg:show>          <epsg:isDeprecated>false</epsg:isDeprecated>       </epsg:CommonMetaData>    </gml:metaDataProperty>    <gml:identifier codeSpace=\"OGP\">urn:ogc:def:crs:EPSG::4267</gml:identifier>    <gml:name>NAD27</gml:name>    <gml:remarks>Note: this CRS includes longitudes which are POSITIVE EAST. Replaced by NAD27(76) (code 4608) in Ontario, CGQ77 (code 4609) in Quebec, Mexican Datum of  1993 (code 4483) in Mexico, NAD83 (code 4279) in Canada (excl. Ontario &amp; Quebec) &amp; USA.</gml:remarks>    <gml:domainOfValidity xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:area:EPSG::1349\" />    <gml:scope>Geodetic survey.</gml:scope>    <gml:ellipsoidalCS xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:cs:EPSG::6422\" />    <gml:geodeticDatum xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"urn:ogc:def:datum:EPSG::6267\" /> </gml:GeodeticCRS> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e9e095951956269d40edce6f31116c56", 
+    "source_url": "http://www.epsg-registry.org/export.htm?gml=urn:ogc:def:crs:EPSG::4267"
+}

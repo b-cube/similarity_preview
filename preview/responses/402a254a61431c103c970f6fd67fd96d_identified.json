@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Pierre-Elouan R\\ufffd\\ufffdthor\\ufffd\\ufffd</author>         </authors>       </contributors>       <titles>         <title>Wind Farm Optimization and Multi-Fidelity Wake Modelling: Presentation of TOPFARM I &amp; II, FUSED-Wake</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12386</doi>       <pages/>       <volume/>       <number>doi</number>       <keywords>         <keyword>Wind Farm Flow Model</keyword>         <keyword>Wind Farm Layout Optimization</keyword>         <keyword>FUSED-Wind</keyword>         <keyword>TOPFARM</keyword>         <keyword>WindInspire</keyword>       </keywords>       <dates>         <year>2013</year>         <pub-dates>           <date>2013-06-24</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Presentation of the TOPFARM I, II, FUSED-Wind and FUSED-Wake project at a WindInspire workshop organised at DTU Lyngby the 24 June 2013.&lt;/p&gt;          &lt;p&gt;&amp;nbsp;&lt;/p&gt;          &lt;p&gt;http://windinspire.jhu.edu&lt;/p&gt;          &lt;p&gt;&amp;nbsp;&lt;/p&gt;          &lt;p&gt;&amp;nbsp;&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "402a254a61431c103c970f6fd67fd96d", 
+    "source_url": "https://zenodo.org/record/12386/export/xe"
+}

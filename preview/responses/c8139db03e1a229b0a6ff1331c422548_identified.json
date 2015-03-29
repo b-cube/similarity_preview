@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OECA/AllWells2013/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OECA/Annual_Report/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OECA/AnnualResultsMapFY14/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OECA/CAFO_Density/MapServer</loc> </url> <url> <loc>http://gispub.epa.gov/arcgis/rest/services/OECA/OECA_Annual_Report_FY2013/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c8139db03e1a229b0a6ff1331c422548", 
+    "source_url": "http://gispub.epa.gov/arcgis/rest/services/OECA?f=sitemap"
+}

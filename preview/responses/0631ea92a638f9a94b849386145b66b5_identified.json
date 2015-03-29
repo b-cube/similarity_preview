@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/groups/architecture/\"> <dc:title>DCMI Architecture Forum</dc:title> <dc:description>The DCMI Architecture WG is a group with the objective to discuss and develop a model, strategy and roadmap for the practical deployment of Dublin Core metadata using mainstream Web technologies (XML/RDF/XHTML).</dc:description> <dc:date>2011-06-27</dc:date> <dc:format>text/html</dc:format> <dc:language>en</dc:language> <dc:publisher>Dublin Core Metadata Initiative</dc:publisher> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0631ea92a638f9a94b849386145b66b5", 
+    "source_url": "http://dublincore.org/groups/architecture/index.shtml.rdf"
+}

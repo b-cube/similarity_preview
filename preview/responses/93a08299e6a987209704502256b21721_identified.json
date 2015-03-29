@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <xs:schema     xmlns:xs='http://www.w3.org/2001/XMLSchema'     targetNamespace='jabber:iq:last'     xmlns='jabber:iq:last'     elementFormDefault='qualified'>    <xs:annotation>     <xs:documentation>       The protocol documented by this schema is defined in       XEP-0012: http://www.xmpp.org/extensions/xep-0012.html     </xs:documentation>   </xs:annotation>    <xs:element name='query'>     <xs:complexType>       <xs:simpleContent>         <xs:extension base='xs:string'>           <xs:attribute name='seconds' type='xs:unsignedLong' use='optional'/>         </xs:extension>       </xs:simpleContent>     </xs:complexType>   </xs:element>  </xs:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "93a08299e6a987209704502256b21721", 
+    "source_url": "http://www.xmpp.org/schemas/iq-last.xsd"
+}

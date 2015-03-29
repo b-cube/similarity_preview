@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\">    <rdf:Description rdf:about=\"https://www.insight-centre.org/users/tony-brabazon\">     <rdf:type rdf:resource=\"http://xmlns.com/foaf/0.1/Person\"/>     <foaf:name>Tony Brabazon</foaf:name>     <foaf:firstName>Tony</foaf:firstName>     <foaf:surname>Brabazon</foaf:surname>     <foaf:workplaceHomepage>https://www.insight-centre.org</foaf:workplaceHomepage>     <foaf:mbox_sha1sum>9ec358e1e555d4b3ec57e741f87f7277c954ff24</foaf:mbox_sha1sum>   </rdf:Description>  </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1fd8017e089817b1325667fa1dbbd027", 
+    "source_url": "https://www.insight-centre.org/user/1306/foaf.xml"
+}

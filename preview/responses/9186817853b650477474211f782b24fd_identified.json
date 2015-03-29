@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.03.31'> <front> <title>Fraud Information Gathering System (FIGS); Service description; Stage 2</title> <author><organization>3GPP</organization></author> <date day='26' month='June' year='1998' /> </front>  <seriesInfo name='3GPP TS' value='03.31 7.0.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0331.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9186817853b650477474211f782b24fd", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.03.31.xml"
+}

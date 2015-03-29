@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-15\"?>   <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns=\"http://purl.org/rss/1.0/\"   xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">    <channel rdf:about=\"http://www.geoss-ecp.org/.cps_portlets/portlet_foldercontents/render?export=rss_1_0&amp;path=sections/ocean\">     <title>GEOSS-ECP - Folder contents</title>     <description></description>     <link>http://www.geoss-ecp.org/.cps_portlets/portlet_foldercontents/render?export=rss_1_0&amp;path=sections/ocean</link>      <items>       <rdf:Seq>                               <rdf:li rdf:resource=\"/sections/ocean/ocean-news-technology\" />                                         <rdf:li rdf:resource=\"/sections/ocean/ocean-energy-council\" />                                         <rdf:li rdf:resource=\"/sections/ocean/ocean-energy\" />                         </rdf:Seq>     </items>   </channel>                <item rdf:about=\"/sections/ocean/ocean-news-technology\">          <title>Ocean News &amp; Technology Magazine</title>          <description></description>          <link>/sections/ocean/ocean-news-technology</link>                                                                                                                 </item>                    <item rdf:about=\"/sections/ocean/ocean-energy-council\">          <title>Ocean Energy Council website</title>          <description></description>          <link>/sections/ocean/ocean-energy-council</link>                                                                                                                 </item>                    <item rdf:about=\"/sections/ocean/ocean-energy\">          <title>Ocean Energy</title>          <description></description>          <link>/sections/ocean/ocean-energy</link>                                                                                                                 </item>         </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c82fdbe10f9e6c984ce191f1568c51db", 
+    "source_url": "http://www.geoss-ecp.org/.cps_portlets/portlet_foldercontents/render?export=rss_1_0&path=sections/ocean"
+}

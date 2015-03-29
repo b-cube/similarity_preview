@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <wmm-result>     <date units=\"year\">2017.50</date>     <coordinates system=\"geodetic\">         <latitude units=\"deg (north)\">-80.000</latitude>         <longitude units=\"deg (east)\">240.000</longitude>         <altitude units=\"km\">0.00</altitude>     </coordinates>     <field-value>         <total-intensity units=\"nT\">55314</total-intensity>         <declination units=\"deg (east)\">69.585</declination>         <inclination units=\"degs (down)\">-72.276</inclination>         <north-intensity units=\"nT\">5874</north-intensity>         <east-intensity units=\"nT\">15781</east-intensity>         <vertical-intensity units=\"nT\">-52688</vertical-intensity>         <horizontal-intensity units=\"nT\">16839</horizontal-intensity>     </field-value>     <secular-variation>         <total-intensity units=\"nT/y\">-82.5</total-intensity>         <declination units=\"arcmin/y (east)\">-5.3</declination>         <inclination units=\"arcmin/y (down)\">2.8</inclination>         <north-intensity units=\"nT/y\">30.6</north-intensity>         <east-intensity units=\"nT/y\">8.1</east-intensity>         <vertical-intensity units=\"nT/y\">92.4</vertical-intensity>         <horizontal-intensity units=\"nT/y\">18.3</horizontal-intensity>     </secular-variation> </wmm-result> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2cb8c1baa6afebe3a6813fcebf6db72f", 
+    "source_url": "http://app.geomag.bgs.ac.uk/wmm/compute?latitude=-80&longitude=240&altitude=0&date=2017-07-02"
+}

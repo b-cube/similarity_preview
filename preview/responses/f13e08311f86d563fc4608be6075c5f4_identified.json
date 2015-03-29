@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" standalone='yes'?>  <!-- Made up DTD to make our CVS accept this file (xmllint \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffdnoout \\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffdvalid must succeed) --> <!DOCTYPE OpenSearchDescription [ <!ELEMENT OpenSearchDescription (ShortName, Description, Image, Url)> <!ATTLIST OpenSearchDescription xmlns CDATA #FIXED \"http://a9.com/-/spec/opensearch/1.1/\">   <!ELEMENT ShortName (#PCDATA)>   <!ELEMENT Description (#PCDATA)>   <!ELEMENT Image (#PCDATA)>   <!ATTLIST Image height CDATA #REQUIRED                   width  CDATA #REQUIRED                   type   CDATA #REQUIRED>   <!ELEMENT Url EMPTY>   <!ATTLIST Url type     CDATA #REQUIRED                 template CDATA #REQUIRED> ]>  <OpenSearchDescription>   <ShortName>Gentoo Bugzilla</ShortName>   <Description>Gentoo's Official Bugzilla</Description>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://www.gentoo.org/search/g-bugs.ico</Image>   <Url type=\"text/html\" template=\"http://bugs.gentoo.org/buglist.cgi?bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED&amp;emailtype1=substring&amp;emailassigned_to1=1&amp;emailtype2=substring&amp;emailreporter2=1&amp;bugidtype=include&amp;chfieldto=Now&amp;short_desc={searchTerms}&amp;short_desc_type=substring&amp;long_desc_type=substring&amp;bug_file_loc_type=substring&amp;status_whiteboard_type=substring&amp;keywords_type=anywords&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;sourceid=Mozilla-search\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f13e08311f86d563fc4608be6075c5f4", 
+    "source_url": "http://www.gentoo.org/search/bugs-gentoo-org.xml?passthru=1"
+}

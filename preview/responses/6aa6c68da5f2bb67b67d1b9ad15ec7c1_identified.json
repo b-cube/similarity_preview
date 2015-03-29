@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.'> <front> <title></title> <author><organization>3GPP</organization></author> <date day='07' month='January' year='2009' /> </front>  <seriesInfo name='3GPP ' value=' ' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6aa6c68da5f2bb67b67d1b9ad15ec7c1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP..xml"
+}

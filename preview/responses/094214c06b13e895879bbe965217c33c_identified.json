@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20113153</identifier><identifier type=\"pwpk\">70006259</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2011-3153</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>LandsatLook images</title></titleInfo><originInfo><dateOther>Fri, 16 Dec 2011 00:00 -0600</dateOther><dateIssued>2011</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Jonescheit, Linda</namePart><role>Author</role></name><abstract>LandsatLook images are full resolution JPEG files derived from Landsat Level 1 data products. The images are compressed and stretched to create an image optimized for image selection and visual interpretation; it is not recommended that they be used in digital analysis.</abstract><physicalDescription><form>1 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2011_3153.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2011/3153/</url></location><note type=\"citation/reference\">LandsatLook images; 2011; FS; 2011-3153; Fact Sheet; Jonescheit, Linda</note><edition>Originally posted December 15, 2011; Revised August 16, 2013</edition><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "094214c06b13e895879bbe965217c33c", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20113153"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/236765\"> <title>Cambridge University Student Societies</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/236765</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/244936\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/244535\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/238428\"/> </rdf:Seq> </items> <dc:date>2015-03-12T02:54:23Z</dc:date> </channel> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/244936\"> <title>Logo CUAS</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/244936</link> <description>Logo CUAS no name, no name Logo of CUAS </description> <dc:date>2000-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/244535\"> <title>Cambridge University Lepidoptera Expedition</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/244535</link> <description>Cambridge University Lepidoptera Expedition Radford, Jamie; Hartley, Emily; Buckland, Katie </description> <dc:date>2012-04-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/238428\"> <title>Cambridge University Expeditions Society : Expedition Report : Proyecto Ashaninka Peru, Summer 2004</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/238428</link> <description>Cambridge University Expeditions Society : Expedition Report : Proyecto Ashaninka Peru, Summer 2004 Cuadros, William Yupanqui; FitzPatrick, Michael; L\\ufffd\\ufffdpez, Jessica Rodrigo; Maynard, Kim; M\\ufffd\\ufffdller, Mago Medina; Paico, Jessica Bravo; Shreeve, Matt; Stephenson, Emilie The expedition to the Ashaninka communities of Coriteni Tarso, Camantavishi and Shirampari in the summer of 2004 carried out a number of studies; primarily&#13; herpetological surveys but also vegetation, soil and hunting surveys. The work was carried out in little known areas where no previous systematic studies had been&#13; completed.  The expedition recorded frogs and a snake not previously found in the department of Jun\\ufffd\\ufffdn1. The expedition discovered at least one new species (to be registered as Cochranella parijarensis). </description> <dc:date>2005-08-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a2d4614d85c27f1d3997f934ffc1e12f", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/rss_1.0/1810/236765"
+}

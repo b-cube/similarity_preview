@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\"> <id>http://www.seismolab.gps.caltech.edu/latest_socal_earthquakes</id> <link rel=\"self\" type=\"application/xml\" href=\"http://robson.gps.caltech.edu/rss/atom/latest_eq_atom.xml\"></link><title></title> <updated>2015-03-04T03:45:01Z</updated> <author> <name>Aparna Bhaskaran</name> <email>aparnab@gps.caltech.edu</email> </author> <entry> <id>http://www.seismolab.gps.caltech.edu/latest_socal_earthquakes/eventid=37103367</id> <title>Magnitude 3.67 on 2015/02/26 01:18:37 at location  S from Twentynine Palms, CA</title> <link rel=\"alternate\" type=\"text/html\" href=\"http://earthquake.usgs.gov/earthquakes/eventpage/usc000f7bc#summary\" /> <updated>2015-03-04T03:45:01Z</updated> <author> <name>Webmgr</name> <email>webmgr@scedc.caltech.edu</email> </author> <summary></summary></entry> <entry> <id>http://www.seismolab.gps.caltech.edu/latest_socal_earthquakes/eventid=37316632</id> <title>Magnitude 3.54 on 2015/02/14 21:55:51 at location  ESE  from Maneadero, B.C., MX</title> <link rel=\"alternate\" type=\"text/html\" href=\"http://earthquake.usgs.gov/earthquakes/eventpage/usc000f7bc#summary\" /> <updated>2015-03-04T03:45:01Z</updated> <author> <name>Webmgr</name> <email>webmgr@scedc.caltech.edu</email> </author> <summary></summary></entry> <entry> <id>http://www.seismolab.gps.caltech.edu/latest_socal_earthquakes/eventid=37314320</id> <title>Magnitude 5.49 on 2015/02/09 01:45:03 at location  ESE  from Maneadero, B.C., MX</title> <link rel=\"alternate\" type=\"text/html\" href=\"http://earthquake.usgs.gov/earthquakes/eventpage/usc000f7bc#summary\" /> <updated>2015-03-04T03:45:01Z</updated> <author> <name>Webmgr</name> <email>webmgr@scedc.caltech.edu</email> </author> <summary></summary></entry> <entry> <id>http://www.seismolab.gps.caltech.edu/latest_socal_earthquakes/eventid=37306536</id> <title>Magnitude 3.68 on 2015/01/18 13:23:43 at location  NNE  from Borrego Springs, CA</title> <link rel=\"alternate\" type=\"text/html\" href=\"http://earthquake.usgs.gov/earthquakes/eventpage/usc000f7bc#summary\" /> <updated>2015-03-04T03:45:01Z</updated> <author> <name>Webmgr</name> <email>webmgr@scedc.caltech.edu</email> </author> <summary></summary></entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dd74eb69b17666f5e07d6493e0ae63e4", 
+    "source_url": "http://scedc.caltech.edu/rss/atom/latest_eq_atom.xml"
+}

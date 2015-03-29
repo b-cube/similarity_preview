@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <esri:ArcGISExplorerDocument xmlns:esri='http://www.esri.com/schemas/ArcGIS/9.2' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema'> <E2Layers xsi:type=\"esri:ArrayOfE2Layer\">  <E2Layer xsi:type=\"esri:E2ServerLayer\">   <DisplayName>ARMAP_WorldCities_35N_EPSG3572</DisplayName>   <Visible>true</Visible>   <LODTileFetch>true</LODTileFetch>   <HideFromContents>false</HideFromContents>   <Transparency>0</Transparency>   <ServerType>2</ServerType>   <GlobeLayerType>0</GlobeLayerType>   <Url>http://arcticdata.utep.edu/arcgis/services</Url>   <ServiceName>ARMAP_WorldCities_35N_EPSG3572</ServiceName>   <SubServiceName>ARMAP_WorldCities_35N_EPSG3572</SubServiceName>   <E2GlobeLayerProperties xsi:type=\"esri:E2ServerLayerProperties\">    <MinimumVisibleDistance>0</MinimumVisibleDistance>    <MaximumVisibleDistance>0</MaximumVisibleDistance>    <MinimumCellSize>1</MinimumCellSize>    <CacheName>ESRI_ServerLyrLocalGlobeCache_http___arcticdata.utep.edu_arcgis_services_Arctic_Research_Mapping_Application_(ARMAP)_World_Cities,_35N_ARMAP_WorldCities_35N_EPSG3572</CacheName>    <CacheType>0</CacheType>    <CacheUpdateInterval>0</CacheUpdateInterval>   </E2GlobeLayerProperties>  </E2Layer> </E2Layers> </esri:ArcGISExplorerDocument> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "eb0023646dc19b6a61062e8b0b2a6b81", 
+    "source_url": "http://arcticdata.utep.edu/ArcGIS/rest/services/ARMAP_WorldCities_35N_EPSG3572/MapServer?f=nmf"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Gregynog presentations</title> <link href=\"http://hdl.handle.net/2160/575\" rel=\"alternate\"/> <subtitle>Presentations given at the Gregynog Colloquium</subtitle> <id>http://hdl.handle.net/2160/575</id> <updated>2015-03-19T06:21:23Z</updated> <dc:date>2015-03-19T06:21:23Z</dc:date> <entry> <title>Current developments in Aberystwyth University\\ufffd\\ufffd\\ufffds research repository provision 2007/8</title> <link href=\"http://hdl.handle.net/2160/580\" rel=\"alternate\"/> <author> <name>Chaudhri, Talat</name> </author> <id>http://hdl.handle.net/2160/580</id> <updated>2014-10-22T11:36:23Z</updated> <published>2008-06-09T10:40:58Z</published> <summary type=\"text\">Current developments in Aberystwyth University\\ufffd\\ufffd\\ufffds research repository provision 2007/8 Chaudhri, Talat </summary> <dc:date>2008-06-09T10:40:58Z</dc:date> </entry> <entry> <title>An Insitutional Repository for NEWI: an update</title> <link href=\"http://hdl.handle.net/2160/579\" rel=\"alternate\"/> <author> <name>Jeorrett, Paul</name> </author> <author> <name>Watkinson, Nicola</name> </author> <id>http://hdl.handle.net/2160/579</id> <updated>2014-10-22T11:36:23Z</updated> <published>2008-06-09T10:01:23Z</published> <summary type=\"text\">An Insitutional Repository for NEWI: an update Jeorrett, Paul; Watkinson, Nicola </summary> <dc:date>2008-06-09T10:01:23Z</dc:date> </entry> <entry> <title>Institutional Repositories: the single parenting option</title> <link href=\"http://hdl.handle.net/2160/578\" rel=\"alternate\"/> <author> <name>Thomas, Helen</name> </author> <id>http://hdl.handle.net/2160/578</id> <updated>2014-10-22T11:36:23Z</updated> <published>2008-06-09T10:00:56Z</published> <summary type=\"text\">Institutional Repositories: the single parenting option Thomas, Helen A case study of institutional repository developments at the University of Wales Institute Cardiff. </summary> <dc:date>2008-06-09T10:00:56Z</dc:date> </entry> <entry> <title>University of Glamorgan Research Repository</title> <link href=\"http://hdl.handle.net/2160/577\" rel=\"alternate\"/> <author> <name>Houston, Douglas</name> </author> <id>http://hdl.handle.net/2160/577</id> <updated>2014-10-22T11:36:23Z</updated> <published>2008-06-09T10:00:17Z</published> <summary type=\"text\">University of Glamorgan Research Repository Houston, Douglas </summary> <dc:date>2008-06-09T10:00:17Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "76a501a95a1f9955038bc98ea63f5f61", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/575"
+}

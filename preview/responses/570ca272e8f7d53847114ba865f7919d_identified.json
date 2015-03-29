@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>British Museum</ShortName>  <Description>Explore two million years of human history</Description>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://www.britishmuseum.org/favicon.ico</Image>   <Url type=\"text/html\" template=\"http://www.britishmuseum.org/search_results.aspx?searchText={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "570ca272e8f7d53847114ba865f7919d", 
+    "source_url": "http://www.britishmuseum.org/OpenSearchBMSite.xml"
+}

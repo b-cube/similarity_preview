@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>X - Superseded Collection</title> <link href=\"http://www.repository.cam.ac.uk:80/handle/1810/221816\" rel=\"alternate\"/> <subtitle/> <id>http://www.repository.cam.ac.uk:80/handle/1810/221816</id> <updated>2015-03-13T04:52:16Z</updated> <dc:date>2015-03-13T04:52:16Z</dc:date> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7fc40c91e80500b24b71b8bf99a2385c", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/atom_1.0/1810/221816"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <!-- JNLP File for Aatomitevaheline vastastikm&#245;ju -->  <jnlp spec=\"1.0+\" codebase=\"http://phet.colorado.edu/sims/states-of-matter\" href=\"atomic-interactions_et.jnlp\">      <information>          <title>Aatomitevaheline vastastikm&#245;ju</title>          <vendor>University of Colorado, Department of Physics</vendor>          <description>@PROJECT.DESCRIPTION@</description>          <description kind=\"short\">The Aatomitevaheline vastastikm&#245;ju Simulation</description>          <offline-allowed/>      </information>      <resources>          <j2se version=\"1.4+\"/>          <property name=\"javaws.phet.locale\" value=\"et\" /> <property name=\"javaws.user.language\" value=\"et\" />          <jar href=\"states-of-matter_all.jar\"/>      </resources>            <application-desc main-class=\"edu.colorado.phet.statesofmatter.AtomicInteractionsApplication\">                </application-desc>  </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e2210afbbb93e70e437dbc151ed28918", 
+    "source_url": "http://phet.colorado.edu/sims/states-of-matter/atomic-interactions_et.jnlp"
+}

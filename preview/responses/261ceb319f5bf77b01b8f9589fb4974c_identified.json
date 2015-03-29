@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Caumont Herv\\ufffd\\ufffd</a1>   <t1>Big Earth Sciences and the new 'Platform Economy'</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Poster presented at the European Space Agency (ESA) &amp;quot;Big Data from Space (BiDS)&amp;quot; conference, November 12th-14th, 2014.&lt;/p&gt;  &lt;p&gt;Final paper&amp;nbsp;published in the&amp;nbsp;Conference Proceedings.&amp;nbsp;The e-proceedings will appear in the JRC conference proceedings&amp;nbsp;series.&lt;/p&gt;  &lt;p&gt;Abstract:&lt;/p&gt;  &lt;p&gt;We present here the Cloud Platform Operations conducted by Terradue for serving Earth Sciences practitioners in deploying scalable data processing applications, and for helping them make extensive use of Earth observations (EO) data. The associated business model is based on several enablers that pertain to the new born &amp;lsquo;platform economy&amp;rsquo;, and are applied to the earth sciences domain.&lt;/p&gt;  &lt;p&gt;Performances analysis embedded in the daily operations, combined to a cost effective software development environment on the Cloud, are enablers for creating trustworthy partnerships on the Platform, with two-sided networks involving Open Science practices and Business-to- Business agreements to deliver innovative EO services.&amp;nbsp;&lt;/p&gt;</ab>   <la/>   <k1>cloud platform;                 earth sciences;                  DevOps;                  big data analytics;                  computational science;                 hosted processing;                  operations support;                 partners ecosystem;                 open science;                 </k1>   <pb/>   <pp/>   <yr>2014-11-05</yr>   <ed/>   <ul>http://congrexprojects.com/2014-events/BigDatafromSpace/;  https://zenodo.org/record/12595/files/2014-11_Poster_-_Terradue_for_BiDS2014_-_BIG_EARTH_SCIENCES_AND_THE_NEW_PLATFORM_ECONOMY.pdf;  https://zenodo.org/record/12595/files/2014-11_Poster_-_Terradue_for_BiDS2014_-_BIG_EARTH_SCIENCES_AND_THE_NEW_PLATFORM_ECONOMY.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "261ceb319f5bf77b01b8f9589fb4974c", 
+    "source_url": "https://zenodo.org/record/12595/export/xw"
+}

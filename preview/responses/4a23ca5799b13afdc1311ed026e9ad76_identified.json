@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Zappa, C.J.</author>           <author>J\\ufffd\\ufffdhne, B.</author>           <author>Kiefhaber, D.</author>         </authors>       </contributors>       <titles>         <title>Measurement of wind wave statistics from specular reflections</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12335</doi>       <pages/>       <volume/>       <number/>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-02-27</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;The &lt;em&gt;Reflective Stereo Slope Gauge&lt;/em&gt; (RSSG) was deployed to two cruises in the tropical Pacific Ocean in Dec. 2011 and Dec. 2012 to measure statistics of small-scale wind waves. During the cruises, both open ocean (Samoa &amp;ndash; Hawaii, OSSPRE 2011 on R/V Kilo Moana) and coastal upwelling (off Peru, M91 on German FS Meteor) areas were studied. Surface displacement (wave height time series with 50 Hz sampling rate) was measured by a stereo system with two light sources (Helmholtz stereopsis), while statistics of surface slope were obtained using a method related to Cox &amp;amp; Munk&amp;rsquo;s sun glitter technique. Furthermore, information on the scale of the smallest waves was gained from the brightness of specular reflections (which is related to surface curvature). This parameter is useful for determining the presence of surface slicks. The results underline the importance of monitoring parameters other than wind speed during gas exchange measurements. The presented methods allow for robust estimates of surface slope statistics under a wide range of conditions.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4a23ca5799b13afdc1311ed026e9ad76", 
+    "source_url": "https://zenodo.org/record/12335/export/xe"
+}

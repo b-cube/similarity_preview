@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.V42.1994\"> <front> <title>Error-correcting Procedures for DCEs Using Asynchronous-to-Synchronous Conversion</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"\" year=\"1994\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation V.42\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bf8d07e1a4b3988d1912055e3da2ee91", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.V42.1994.xml"
+}

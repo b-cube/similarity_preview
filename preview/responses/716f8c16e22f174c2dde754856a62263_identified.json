@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <STREAMSTATS>   <GETIDS>393446.469255382 4383731.99186126 NAD_1983_UTM_Zone_13N 42 42 42 </GETIDS>   <BASINCHARACTERISTICS>     <OID>42</OID>     <MOID>42</MOID>     <HYDROID>4429</HYDROID>     <HASOUTPUT>1</HASOUTPUT>     <LAT>39.5967268901821</LAT>     <LON>-106.241017623608</LON>     <LATNAD27>39.5967268901821</LATNAD27>     <LONNAD27>-106.241017623608</LONNAD27>     <PARAMETERS>       <PARAMETER name=\"EL7500\" value=\"100\" />       <PARAMETER name=\"OUTLETELEV\" value=\"9980\" />       <PARAMETER name=\"FOREST\" value=\"66.4\" />       <PARAMETER name=\"DRNAREA\" value=\"0.56\" />       <PARAMETER name=\"BSLDEM10M\" value=\"28.6\" />       <PARAMETER name=\"PRECIP\" value=\"32.9\" />       <PARAMETER name=\"PRECIPRAW\" value=\"35.5\" />       <PARAMETER name=\"SLOP30\" value=\"37.3\" />       <PARAMETER name=\"MINBELEV\" value=\"9980\" />       <PARAMETER name=\"RELIEF\" value=\"2550\" />       <PARAMETER name=\"BSLOPGM\" value=\"0.27\" />       <PARAMETER name=\"ELEV\" value=\"11200\" />       <PARAMETER name=\"NFSL30\" value=\"2.04\" />       <PARAMETER name=\"ELEVMAX\" value=\"12500\" />     </PARAMETERS>   </BASINCHARACTERISTICS>   <DOWNLOAD>http://streamstatsags.cr.usgs.gov/gisimg/Download/d20090120134258.zip</DOWNLOAD> </STREAMSTATS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "716f8c16e22f174c2dde754856a62263", 
+    "source_url": "http://streamstatsags.cr.usgs.gov/webservices/getStreamstats.xml"
+}

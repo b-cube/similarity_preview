@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ANSI.X3T9.1990\"> <front> <title>FDDI Station Management</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1990\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X3T9.5\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4a4478008ac0b4e9813fb1230e70a68f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ANSI.X3T9.1990.xml"
+}

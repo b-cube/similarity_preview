@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.Q2630-1.1999\"> <front> <title>AAL type 2 Signalling Protocol (Capability Set 1)</title> <author> <organization></organization> </author> <date month=\"December\" year=\"1999\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation Q.2630.1\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5ebf231605e289c9980df4058f302180", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.Q2630-1.1999.xml"
+}

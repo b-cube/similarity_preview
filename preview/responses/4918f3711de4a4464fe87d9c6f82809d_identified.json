@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Three-Manifold Mutations Detected by Heegaard Floer Homology</dc:title><dc:creator>Clarkson, Corrin</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Mathematics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8GF0RNG</dc:identifier><dc:description>Given a self-diffeomorphism h of a closed, orientable surface S with genus greater than one and an embedding f of S into a three-manifold M, we construct a mutant manifold by cutting M along f(S) and regluing by h. We will consider whether there exist nontrivial gluings such that for any embedding, the manifold M and its mutant have isomorphic Heegaard Floer homology. In particular, we will demonstrate that if h is not isotopic to the identity map, then there exists an embedding of S into a three-manifold M such that the rank of the non-torsion summands of HF-hat of M differs from that of its mutant. We will also show that if the gluing map is isotopic to neither the identity nor the genus-two hyperelliptic involution, then there exists an embedding of S into a three-manifold M such that the total rank of HF-hat of M differs from that of its mutant.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4918f3711de4a4464fe87d9c6f82809d", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A175403.oai_dc_xml"
+}

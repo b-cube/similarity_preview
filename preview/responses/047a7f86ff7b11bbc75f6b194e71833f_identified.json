@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Dimogerontakis, Emmanouil</author>           <author>Vilata, Ivan</author>           <author>Navarro, Leandro</author>         </authors>       </contributors>       <titles>         <title>Software Defined Networking for CommunityNetwork Testbeds</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.7547</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>CONFINE</keyword>         <keyword>community networks</keyword>         <keyword>software defined networking</keyword>       </keywords>       <dates>         <year>2013</year>         <pub-dates>           <date>2013-10-07</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Wireless Community Networks have received increasing attention the latest years. In an effort to set the cornerstone for an internet without central authorities and &amp;nbsp;monopolies,&amp;nbsp;network engineers throughout the world have started creating&amp;nbsp;community networks. To enhance this effort, Community-lab,&amp;nbsp;a wireless community networks testbed, was created allowing&amp;nbsp;researchers to experiment with new protocols and applications&amp;nbsp;in a realistic environment. Nevertheless, this testbed does not offer&amp;nbsp;the ability to perform L2 experiments. To address this gap, we&amp;nbsp;developed a platform that allows Community-Lab researchers to&amp;nbsp;perform L2 experiments. Moreover, we decided to reach our goal&amp;nbsp;using Software Defined Networking(SDN) techniques, due to the&amp;nbsp;attention they received lately and their promise for a complete&amp;nbsp;networking solution. Overall, we propose an architecture that&amp;nbsp;allows researchers to perform L2 experiments in a generic&amp;nbsp;community networks testbed. To prove the feasibility of our&amp;nbsp;archtecture we implemented it for Community-Lab using the&amp;nbsp;OpenFlow SDN protocol, enabling researchers to manage the L2&amp;nbsp;topology of their experiments.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "047a7f86ff7b11bbc75f6b194e71833f", 
+    "source_url": "https://zenodo.org/record/7547/export/xe"
+}

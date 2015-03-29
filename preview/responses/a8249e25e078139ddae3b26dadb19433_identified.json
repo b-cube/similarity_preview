@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xquery-xpath-parsing-20050404'            target='http://www.w3.org/TR/2005/WD-xquery-xpath-parsing-20050404'> <front> <title>Building a Tokenizer for XPath or XQuery</title>  <author initials='S.' surname='Boag' fullname='Scott Boag'>     <organization /> </author>  <date month='April' day='4' year='2005' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-xquery-xpath-parsing-20050404' /> <format type='HTML' target='http://www.w3.org/TR/2005/WD-xquery-xpath-parsing-20050404' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a8249e25e078139ddae3b26dadb19433", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xquery-xpath-parsing-20050404.xml"
+}

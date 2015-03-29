@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.15606</dc:identifier><dc:creator>Redford, James</dc:creator><dc:title>Libertarian Anarchism Is Apodictically Correct</dc:title><dc:subject>cc-zero</dc:subject><dc:description>&lt;p&gt;James Redford, &amp;quot;Libertarian Anarchism Is Apodictically Correct&amp;quot;, Social Science Research Network (SSRN), Dec. 15, 2011, 9 pp., doi:10.2139/ssrn.1972733.&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;ABSTRACT: It is shown that libertarian anarchism (i.e., consistent liberalism) is unavoidably true.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2011-12-15</dc:date><dc:source>http://zenodo.org/record/15606</dc:source><dc:doi>10.5281/zenodo.15606</dc:doi><dc:identifier>http://zenodo.org/record/15606</dc:identifier><dc:identifier>oai:zenodo.org:15606</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "44bfaf2f672dc0a1594ef9a7f8685111", 
+    "source_url": "https://zenodo.org/record/15606/export/xd"
+}

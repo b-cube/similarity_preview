@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Khan, Amin M. </a1>   <a2>Sharifi, Leila</a2>   <a2>Veiga, Lu\\ufffd\\ufffds</a2>   <a2>Navarro, Leandro</a2>   <t1>Clouds of Small Things: Provisioning Infrastructure-as-a-Service from within Community Networks</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Community networks offer a shared communication infrastructure where communities of citizens build and own open networks. While the IP connectivity of the networking devices is successfully achieved, the number of services and applications available from within the community network is typically small and the usage of the community network is often limited to providing Internet access to remote areas through wireless links. In this paper we propose to apply the principle of resource sharing of community networks, currently limited to the network bandwidth, to other computing resources, which leads to cloud computing in community networks. Towards this vision, we review some characteristics of community networks and identify potential scenarios for community clouds. We simulate a cloud computing infrastructure service and discuss different aspects of its performance in comparison to a commercial centralized cloud system. We note that in community clouds the computing resources are heterogeneous and less powerful, which affects the time needed to assign resources. Response time of the infrastructure service is high in community clouds even for a small number of resources since resources are distributed, but tends to get closer to that of a centralized cloud when the number of resources requested increases. Our initial results suggest that the performance of the community clouds highly depends on the community network conditions, but has some potential for improvement with network-aware cloud services. The main strength compared to commercial cloud services, however, is that community cloud services hosted on community-owned resources will follow the principles of community network and will be neutral and open.&lt;/p&gt;</ab>   <la/>   <k1>cloud computing;                 community networks;                 distributed resource sharing;                 </k1>   <pb/>   <pp/>   <yr>2013-10-07</yr>   <ed/>   <ul>http://zenodo.org/record/7613/files/Khan2013_IEEE_CNBuB_WiMob.pdf;  http://zenodo.org/record/7613/files/Khan2013_IEEE_CNBuB_WiMob.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a83819eedb1a6a2f0a544c18072ff191", 
+    "source_url": "https://zenodo.org/record/7613/export/xw"
+}

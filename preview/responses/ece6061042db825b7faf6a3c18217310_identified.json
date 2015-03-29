@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>5995</id>   <unit>410.4</unit>   <dept_name>Education, College of</dept_name>   <sub_name>Curriculum and Instruction</sub_name>   <main_number></main_number>   <location></location>   <comments>     <comment>(see See Curriculum and Instruction)</comment>   </comments>   <employees>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ece6061042db825b7faf6a3c18217310", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=410.4&type=details_by_unit"
+}

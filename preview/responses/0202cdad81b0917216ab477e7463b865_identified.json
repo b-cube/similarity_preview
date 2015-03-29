@@ -1,0 +1,15 @@
+{
+    "content": "<hdr:Document id=\"IDxx\" xmlns:hdr=\"http://www.exchangenetwork.net/schema/header/2\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.exchangenetwork.net/schema/header/2 http://www.exchangenetwork.net/schema/header/2/header_v2.0.xsd\">   <hdr:Header>     <hdr:AuthorName>Your Name</hdr:AuthorName>     <hdr:OrganizationName>Your Organization</hdr:OrganizationName>     <hdr:DocumentTitle>Document Title</hdr:DocumentTitle>     <hdr:CreationDateTime>2012-04-10T14:02:39</hdr:CreationDateTime>     <hdr:Keywords></hdr:Keywords>     <hdr:Comment></hdr:Comment>     <hdr:DataFlowName>EISv1.0</hdr:DataFlowName>     <hdr:Property>       <hdr:PropertyName>SubmissionType</hdr:PropertyName>       <hdr:PropertyValue>QA</hdr:PropertyValue>     </hdr:Property>     <hdr:Property>       <hdr:PropertyName>DataCategory</hdr:PropertyName>       <hdr:PropertyValue>Onroad</hdr:PropertyValue>     </hdr:Property>     <hdr:Property>       <hdr:PropertyName>CDBDataFile</hdr:PropertyName>       <hdr:PropertyValue>Sample_CDB_File.zip</hdr:PropertyValue>     </hdr:Property>   </hdr:Header>   <hdr:Payload>     <cer:CERS xmlns:cer=\"http://www.exchangenetwork.net/schema/cer/1\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.exchangenetwork.net/schema/cer/1 http://www.exchangenetwork.net/schema/cer/1/index.xsd\">       <cer:UserIdentifier>youruserid@xyz.gov</cer:UserIdentifier>       <cer:ProgramSystemCode>yourPSC</cer:ProgramSystemCode>       <cer:EmissionsYear>2011</cer:EmissionsYear>     </cer:CERS>   </hdr:Payload> </hdr:Document>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0202cdad81b0917216ab477e7463b865", 
+    "source_url": "http://www.epa.gov/ttn/chief/eis/2011nei/cdb_sampleheader.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <opml version=\"1.1\"> <head> <title>MinGW</title> <dateModified>Fri, 20 Mar 2015 04:14:37 +0000</dateModified> </head> <body> <outline text=\"Recent File Releases\" xmlUrl=\"http://sourceforge.net/projects/mingw/rss?path=/\" /> <outline text=\"Recent Project News\" xmlUrl=\"http://sourceforge.net/p/mingw/news/feed\" /> </body> </opml> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7885598a49cf83deb0622340d3f0488d", 
+    "source_url": "http://mingw.org/aggregator/opml"
+}

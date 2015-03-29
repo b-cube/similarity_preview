@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20093032</identifier><identifier type=\"pwpk\">97558</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2009-3032</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Water Resources and Natural Gas Production from the Marcellus Shale</title></titleInfo><originInfo><dateOther>Wed, 27 May 2009 00:00 -0500</dateOther><dateIssued>2009</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Soeder, Daniel J.; Kappel, William M.</namePart><role>Author</role></name><abstract>The Marcellus Shale is a sedimentary rock formation deposited over 350 million years ago in a shallow inland sea located in the eastern United States where the present-day Appalachian Mountains now stand (de Witt and others, 1993). This shale contains significant quantities of natural gas. New developments in drilling technology, along with higher wellhead prices, have made the Marcellus Shale an important natural gas resource.&#xd; &#xd; The Marcellus Shale extends from southern New York across Pennsylvania, and into western Maryland, West Virginia, and eastern Ohio (fig. 1). The production of commercial quantities of gas from this shale requires large volumes of water to drill and hydraulically fracture the rock. This water must be recovered from the well and disposed of before the gas can flow. Concerns about the availability of water supplies needed for gas production, and questions about wastewater disposal have been raised by water-resource agencies and citizens throughout the Marcellus Shale gas development region. This Fact Sheet explains the basics of Marcellus Shale gas production, with the intent of helping the reader better understand the framework of the water-resource questions and concerns.</abstract><physicalDescription><form>6 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2009_3032.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2009/3032/</url></location><note type=\"citation/reference\">Water Resources and Natural Gas Production from the Marcellus Shale; 2009; FS; 2009-3032; Fact Sheet; Soeder, Daniel J.; Kappel, William M.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aa4dc37b8955b7f1f1f4e859be2579b3", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20093032"
+}

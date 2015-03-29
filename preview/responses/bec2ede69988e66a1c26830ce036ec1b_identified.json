@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/13759\"> <title>Cymorth Cadair</title> <link>http://hdl.handle.net/2160/13759</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/13769\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/13768\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/13767\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/13766\"/> </rdf:Seq> </items> <dc:date>2015-03-19T22:41:43Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/13769\"> <title>Traethodau Ymchwil</title> <link>http://hdl.handle.net/2160/13769</link> <description>Traethodau Ymchwil T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata </description> <dc:date>2014-05-07T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/13768\"> <title>Ymholiadau/Cwynion</title> <link>http://hdl.handle.net/2160/13768</link> <description>Ymholiadau/Cwynion T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata </description> <dc:date>2014-05-07T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/13767\"> <title>Mynediad Agored</title> <link>http://hdl.handle.net/2160/13767</link> <description>Mynediad Agored T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata </description> <dc:date>2014-05-07T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/13766\"> <title>Hawlfraint a Thrwyddedau</title> <link>http://hdl.handle.net/2160/13766</link> <description>Hawlfraint a Thrwyddedau T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata </description> <dc:date>2014-05-07T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bec2ede69988e66a1c26830ce036ec1b", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/13759"
+}

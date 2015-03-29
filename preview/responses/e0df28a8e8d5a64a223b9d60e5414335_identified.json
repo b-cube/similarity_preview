@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">   <title>Gentoo Packages /package/dev-tcltk/tcllib</title>   <icon>http://www.gentoo.org/favicon.ico</icon>   <id>http://packages.gentoo.org/feed/package/dev-tcltk/tcllib</id>   <generator uri=\"http://packages.gentoo.org/\">Gentoo Packages2</generator>   <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/dev-tcltk/tcllib\" type=\"text/html\"/>   <link rel=\"self\" href=\"http://packages.gentoo.org/feed/package/dev-tcltk/tcllib\" type=\"application/atom+xml\"/>   <updated>2015-03-04T04:27:35Z</updated>   <entry>  <title xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\">    <div>         <span class=\"cpvstr\">dev-tcltk/tcllib</span>: <span class=\"description\">Tcl Standard Library</span>       </div>     </title>     <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/dev-tcltk/tcllib\" type=\"text/html\"/>     <id>http://packages.gentoo.org/package/dev-tcltk/tcllib?ts=2015-03-03T13:59:25Z</id>     <author>       <name>Justin Lecher (jlec)</name>       <uri>http://cia.vc/stats/author/jlec</uri>     </author>     <updated>2015-03-03T13:59:25Z</updated>     <summary xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\"><div>*tcllib-1.16 (03 Mar 2015)<br/>*tcllib-1.15-r2 (03 Mar 2015)<br/>03 Mar 2015; Justin Lecher (<a href=\"http://cia.vc/stats/author/jlec\">jlec</a>) <br/>+<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-tcltk/tcllib/files/tcllib-1.15-XSS-vuln.patch?view=markup\">files/tcllib-1.15-XSS-vuln.patch</a>, +<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-tcltk/tcllib/files/tcllib-1.15-test.patch?view=markup\">files/tcllib-1.15-test.patch</a>,<br/>+<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-tcltk/tcllib/files/tcllib-1.16-XSS-vuln.patch?view=markup\">files/tcllib-1.16-XSS-vuln.patch</a>, +<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-tcltk/tcllib/files/tcllib-1.16-test.patch?view=markup\">files/tcllib-1.16-test.patch</a>,<br/>+<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-tcltk/tcllib/tcllib-1.15-r2.ebuild?view=markup\">tcllib-1.15-r2.ebuild</a>, +<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-tcltk/tcllib/tcllib-1.16.ebuild?view=markup\">tcllib-1.16.ebuild</a>:<br/>Version Bump, #531864; fix testfailure, #478216; backport security fix,<br/>#541912</div></summary>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e0df28a8e8d5a64a223b9d60e5414335", 
+    "source_url": "http://packages.gentoo.org/feed/package/dev-tcltk/tcllib"
+}

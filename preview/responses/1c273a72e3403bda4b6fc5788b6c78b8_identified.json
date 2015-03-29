@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <ShortName>Sea Cadets Site Search</ShortName>   <Description>The search engine included in mojoPortal Content Managment System</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/x-icon\" width=\"16\" height=\"16\">http://www.sea-cadets.org/Data/Sites/1/skins/sea-cadets-main/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.sea-cadets.org/SearchEngineInfo.ashx\" />   <Url type=\"application/atom+xml\" template=\"http://www.sea-cadets.org/SearchResults.ashx?q={searchTerms}&amp;p={startPage?}\" />   <Url type=\"text/html\" template=\"http://www.sea-cadets.org/SearchResults.aspx?q={searchTerms}&amp;p={startPage?}\" />   <moz:SearchForm>http://www.sea-cadets.org/SearchResults.aspx</moz:SearchForm> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1c273a72e3403bda4b6fc5788b6c78b8", 
+    "source_url": "http://www.sea-cadets.org/SearchEngineInfo.ashx"
+}

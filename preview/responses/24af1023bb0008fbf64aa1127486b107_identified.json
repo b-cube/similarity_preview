@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0097\">   <front>     <title>iCal Envelope</title>     <author initials=\"J.\" surname=\"Kirby\" fullname=\"Justin Kirby\">       <organization/>       <address>         <email>justin@openaether.org</email>       </address>     </author>     <date day=\"10\" month=\"June\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0097\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0097.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "24af1023bb0008fbf64aa1127486b107", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0097.xml"
+}

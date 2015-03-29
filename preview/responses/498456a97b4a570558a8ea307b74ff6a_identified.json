@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/2500\"> <title>Ffrwd Cadwrfeydd: Gregynog 2009/ Repository Stream: Gregynog 2009</title> <link>http://hdl.handle.net/2160/2500</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/2512\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/2510\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/2509\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/2508\"/> </rdf:Seq> </items> <dc:date>2015-03-20T01:25:18Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/2512\"> <title>Repositories and JISC</title> <link>http://hdl.handle.net/2160/2512</link> <description>Repositories and JISC McGregor, Andrew Presentation detailing past, present and future work by JISC funded projects related to repository use and development. </description> <dc:date>2009-06-10T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/2510\"> <title>Repository Management: The Liverpool Experience</title> <link>http://hdl.handle.net/2160/2510</link> <description>Repository Management: The Liverpool Experience Yearwood-Jackman, Shirley Presentation detailing the approaches made, and the methods applied, to managing the institutional repository at the University of Liverpool. </description> <dc:date>2009-06-10T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/2509\"> <title>The Welsh Repository Network: Where do we go from here?</title> <link>http://hdl.handle.net/2160/2509</link> <description>The Welsh Repository Network: Where do we go from here? Knowles, Jackie Presentation detailing the work of the previous Welsh Repository Network (WRN) Project, and introducing the planned work of the next stage of this project. </description> <dc:date>2009-06-10T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/2508\"> <title>Multimedia Deposits: Complications and Considerations</title> <link>http://hdl.handle.net/2160/2508</link> <description>Multimedia Deposits: Complications and Considerations Payne, Hannah Presentation highlighting the perceived complications regarding multimedia deposits within repositories and the considerations to be taken when making multimedia material available via a repository. </description> <dc:date>2009-06-09T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "498456a97b4a570558a8ea307b74ff6a", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/2500"
+}

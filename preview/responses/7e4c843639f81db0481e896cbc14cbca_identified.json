@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"    xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\"   xmlns:void=\"http://rdfs.org/ns/void#\"   xmlns:dcterms=\"http://purl.org/dc/terms/\"   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\">    <void:Dataset rdf:about=\"http://www.lexvo.org/linkeddata/#dataset\">     <rdfs:isDefinedBy rdf:resource=\"http://www.lexvo.org/linkeddata/void.rdf\" />     <dcterms:title>Lexvo.org</dcterms:title>     <dcterms:description xml:lang=\"en\">Lexvo.org provides identifiers and information about words, languages, scripts, characters,        and other language-related entities</dcterms:description>     <foaf:homepage rdf:resource=\"http://www.lexvo.org/\" />     <void:dataDump rdf:resource=\"http://www.lexvo.org/resources/lexvo_latest.rdf.gz\" />     <dcterms:creator rdf:resource=\"http://www.demelo.org/gdm/#GDM\" />     <dcterms:created rdf:datatype=\"xsd:date\">2008-10</dcterms:created>     <dcterms:modified rdf:datatype=\"xsd:date\">12-03-04</dcterms:modified>     <dcterms:subject rdf:resource=\"http://dbpedia.org/resource/Language\" />     <dcterms:subject rdf:resource=\"http://dbpedia.org/resource/Multilingualism\" />     <void:vocabulary rdf:resource=\"http://lexvo.org/ontology\" />     <void:uriRegexPattern>http://lexvo.org/id/.+</void:uriRegexPattern>     <void:exampleResource rdf:resource=\"http://lexvo.org/id/iso639-3/spa\" />     <void:exampleResource rdf:resource=\"http://lexvo.org/id/term/eng/school\" />   </void:Dataset> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7e4c843639f81db0481e896cbc14cbca", 
+    "source_url": "http://www.lexvo.org/linkeddata/void.rdf"
+}

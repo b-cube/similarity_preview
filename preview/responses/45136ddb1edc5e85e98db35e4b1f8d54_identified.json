@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-row-ordinance-dedication\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-row-ordinance-dedication</id><updated>2015-03-15T16:24:04Z</updated><entry><title>REST API: Update object city-and-county-of-denver-row-ordinance-dedication</title><link href=\"/revision/5423e061-d50b-41fa-9a0f-a2ea64985681\" rel=\"alternate\"></link><updated>2015-03-15T16:24:04Z</updated><published>2015-03-15T16:24:04Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/5423e061-d50b-41fa-9a0f-a2ea64985681</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-row-ordinance-dedication</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-row-ordinance-dedication</title><link href=\"/revision/2a225bbe-253a-46c5-8912-d6f6cd588f1d\" rel=\"alternate\"></link><updated>2015-03-15T16:23:54Z</updated><published>2015-03-15T16:23:54Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/2a225bbe-253a-46c5-8912-d6f6cd588f1d</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-row-ordinance-dedication</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-row-ordinance-dedication</title><link href=\"/revision/f772e3b4-81e8-4c63-9663-afee66e90a20\" rel=\"alternate\"></link><updated>2015-03-08T16:23:17Z</updated><published>2015-03-08T16:23:17Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/f772e3b4-81e8-4c63-9663-afee66e90a20</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-row-ordinance-dedication</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-row-ordinance-dedication</title><link href=\"/revision/3dbc0f7e-46e4-4b21-b793-4af7ec0a1510\" rel=\"alternate\"></link><updated>2015-03-08T16:23:10Z</updated><published>2015-03-08T16:23:10Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/3dbc0f7e-46e4-4b21-b793-4af7ec0a1510</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-row-ordinance-dedication</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "45136ddb1edc5e85e98db35e4b1f8d54", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-row-ordinance-dedication?days=14&format=atom"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"FIPS.35.1975\"> <front> <title>Code Extension Techniques in 7 or 8 Bits</title> <author> <organization>National Institute of Standards and Technology</organization> </author> <date month=\"June\" year=\"1975\" /> </front>  <seriesInfo name=\"FIPS\" value=\"PUB 35\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e22debc4f2147bdb2803c1cf74b1f148", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.FIPS.35.1975.xml"
+}

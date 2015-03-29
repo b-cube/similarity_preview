@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-xhtml-print-20040120'> <front> <title>XHTML-Print</title>  <author initials='J' surname='Bigelow' fullname='Jim Bigelow'>     <organization /> </author>  <date month='January' day='20' year='2004' /> </front>  <seriesInfo name='W3C CR' value='CR-xhtml-print-20040120' /> <format type='HTML' target='http://www.w3.org/TR/2004/CR-xhtml-print-20040120' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "add7ce91281e689673cdf0e727712f86", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.CR-xhtml-print-20040120.xml"
+}

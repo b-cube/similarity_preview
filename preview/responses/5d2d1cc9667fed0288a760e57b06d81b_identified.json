@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\" xmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">   <channel>     <title>DSpace community: Information Sciences</title>     <link>http://dspace.icddrb.org:80/dspace/handle/123456789/4</link>     <description>Information Sciences</description>     <items>       <rdf:Seq>         <rdf:li resource=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5596\" />         <rdf:li resource=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5595\" />         <rdf:li resource=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5594\" />         <rdf:li resource=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5593\" />       </rdf:Seq>     </items>   </channel>   <textInput>     <title>The community's search engine</title>     <description>Search the Channel</description>     <name>s</name>     <link>http://dspace.icddrb.org:80/dspace/simple-search</link>   </textInput>   <item rdf:about=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5596\">     <title>Glimpse vol. 16 no. 1</title>     <link>http://dspace.icddrb.org:80/dspace/handle/123456789/5596</link>     <description>title: Glimpse vol. 16 no. 1 authors: International Centre For Diarrhoeal Disease Research, Bangladesh &lt;br&gt;</description>   </item>   <item rdf:about=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5595\">     <title>Glimpse vol.15 no. 6</title>     <link>http://dspace.icddrb.org:80/dspace/handle/123456789/5595</link>     <description>title: Glimpse vol.15 no. 6 authors: International Centre For Diarrhoeal Disease Research, Bangladesh &lt;br&gt;</description>   </item>   <item rdf:about=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5594\">     <title>Glimpse vol.15 no. 5</title>     <link>http://dspace.icddrb.org:80/dspace/handle/123456789/5594</link>     <description>title: Glimpse vol.15 no. 5 authors: International Centre For Diarrhoeal Disease Research, Bangladesh &lt;br&gt;</description>   </item>   <item rdf:about=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5593\">     <title>Glimpse vol.15 no. 4</title>     <link>http://dspace.icddrb.org:80/dspace/handle/123456789/5593</link>     <description>title: Glimpse vol.15 no. 4 authors: International Centre For Diarrhoeal Disease Research, Bangladesh &lt;br&gt;</description>   </item> </rdf:RDF>  ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5d2d1cc9667fed0288a760e57b06d81b", 
+    "source_url": "http://dspace.icddrb.org/dspace/feed/rss_1.0/123456789/4"
+}

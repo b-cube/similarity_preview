@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>HDAC4 Integrates PTH and Sympathetic Signaling in Osteoblasts</dc:title><dc:creator>Makinistoglu, Munevver Parla</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Genetics</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8N877ZS</dc:identifier><dc:description>Both parathyroid hormone (PTH) and the sympathetic tone promote Rankl expression in osteoblasts and osteoclast differentiation by enhancing cAMP production, through an unidentified transcription factor for PTH and ATF4 for the sympathetic tone. How two extracellular cues using the same second messenger in the same cell elicit different transcriptional events is unknown. Here we show that PTH favors Rankl expression by triggering the ubiquitination of HDAC4, a class II histone deacetylase, partly via Smurf2. HDAC4 degradation releases MEF2c that transactivates the Rankl promoter. On the other hand, sympathetic signaling in osteoblasts favors the accumulation of HDAC4 and its association with ATF4. In this setting, HDAC4 increases Rankl expression. Through this interaction with ATF4, HDAC4 also influences Osteocalcin expression, and its endocrine and cognitive functions. This study shows that through its ability to differently connect distinct extracellular cues to their genome, HDAC4 is a global regulator of osteoblast functions.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6d3f6368a034d9c1dd752852a45e3492", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A177063.xml"
+}

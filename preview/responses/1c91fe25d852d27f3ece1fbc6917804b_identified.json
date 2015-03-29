@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../federallinks.htm\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1c91fe25d852d27f3ece1fbc6917804b", 
+    "source_url": "http://www.volusiaelections.org/LinksofInterest/federallinks_files/filelist.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ISO.2628.1973\"> <front> <title>Basic mode control procedures - Complements</title> <author> <organization>International Organization for Standardization</organization> </author> <date month=\"\" year=\"1973\" /> </front>  <seriesInfo name=\"ISO\" value=\"Standard 2628\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8dd19aae658afa41f65a8767f65b3236", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ISO.2628.1973.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20083053</identifier><identifier type=\"pwpk\">85798</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2008-3053</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Prehistoric Packrats Piled Up Clues to Climate Change</title></titleInfo><originInfo><dateOther>Thu, 26 Jun 2008 00:00 -0500</dateOther><dateIssued>2008</dateIssued><publisher>Geological Survey (U.S.)</publisher></originInfo><name><namePart>Cole, Kenneth L.</namePart><role>Author</role></name><abstract>Scientists from the U.S. Geological Survey and Northern Arizona University studying climate change in the Southwestern United States are getting a helping hand?or would that be paw??from prehistoric packrats. By hoarding parts of animals and plants, including seeds and leaves, in garbage piles or ?middens,? these bushy-tailed rodents preserved crucial ecological and environmental information about the past. From these middens, scientists are able to reconstruct plant communities and natural systems from as long ago as 50,000 years. The contents of middens allow scientists to understand how ecosystems responded to rapid, large-scale climate changes of the past. The insights gained from midden research could offer clues to future changes driven by rapid climate shifts.</abstract><physicalDescription><form>2 p.</form><form>Geological Survey (U.S.)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2008_3053.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2008/3053/</url></location><note type=\"citation/reference\">Prehistoric Packrats Piled Up Clues to Climate Change; 2008; FS; 2008-3053; Fact Sheet; Cole, Kenneth L.</note><edition>Version 1.0</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6390e9f70c725b0457e6593be80fbcb6", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20083053"
+}

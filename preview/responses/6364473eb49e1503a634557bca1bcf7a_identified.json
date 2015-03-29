@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-curie-20090116'            target='http://www.w3.org/TR/2009/CR-curie-20090116'> <front> <title>CURIE Syntax 1.0</title>  <author initials='M.' surname='Birbeck' fullname='Mark Birbeck'>     <organization /> </author>  <author initials='S.' surname='McCarron' fullname='Shane McCarron'>     <organization /> </author>  <date month='January' day='16' year='2009' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-curie-20090116' /> <format type='HTML' target='http://www.w3.org/TR/2009/CR-curie-20090116' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6364473eb49e1503a634557bca1bcf7a", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.CR-curie-20090116.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Cardiac tissue characterization using near-infrared spectroscopy</dc:title><dc:creator>Singh-Moon, Rajinder</dc:creator><dc:creator>Hendon, Christine P.</dc:creator><dc:date>2014</dc:date><dc:type>text</dc:type><dc:subject>Biology</dc:subject><dc:subject>Medicine</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8TM785W</dc:identifier><dc:description>Cardiac tissue from swine and canine hearts were assessed using diffuse reflectance near-infrared spectroscopy (NIRS) ex vivo. Slope measured between 800-880 nm reflectance was found to reveal differences between epicardial fat and normal myocardium tissue. This parameter was observed to increase monotonically from measurements obtained from the onset of radio frequency ablation (RFA). A sheathe-style fiber optic catheter was then developed to allow real-time sampling of the zone of resistive heating during RFA treatment. A model was developed and used to extract changes in tissue absorption and reduced scattering based on the steady-state diffusion approximation. It was found that key changes in tissue optical properties occur during application of RF energy and can be monitored using NIRS. These results encourage the development of NIRS integrated catheters for real-time guidance of the cardiac ablation treatment.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "80972dc9122613412ab2b5e4f5f17875", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A171806.dc_xml"
+}

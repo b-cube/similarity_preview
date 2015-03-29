@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-ws-i18n-scenarios-20040512'> <front> <title>Web Services Internationalization Usage Scenarios</title>  <author initials='T' surname='Suzuki' fullname='Takao Suzuki'>     <organization /> </author>  <author initials='T' surname='Texin' fullname='Tex Texin'>     <organization /> </author>  <author initials='M' surname='Trumble' fullname='Mary Trumble'>     <organization /> </author>  <author initials='A' surname='Vine' fullname='Andrea Vine'>     <organization /> </author>  <author initials='K' surname='Noji' fullname='Kentaroh Noji'>     <organization /> </author>  <author initials='D' surname='Banerjee' fullname='Debasish Banerjee'>     <organization /> </author>  <author initials='M' surname='D\\ufffd\\ufffdrst' fullname='Martin J. D\\ufffd\\ufffdrst'>     <organization /> </author>  <author initials='M' surname='McKenna' fullname='Mike McKenna'>     <organization /> </author>  <author initials='A' surname='Phillips' fullname='Addison Phillips'>     <organization /> </author>  <date month='May' day='12' year='2004' /> </front>  <seriesInfo name='W3C WD' value='WD-ws-i18n-scenarios-20040512' /> <format type='HTML' target='http://www.w3.org/TR/2004/WD-ws-i18n-scenarios-20040512' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dca62e859aa9dc4d8ec4af9ee02282e5", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-ws-i18n-scenarios-20040512.xml"
+}

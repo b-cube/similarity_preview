@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/4021\"> <title>Cyflwyniadau/Presentations</title> <link>http://hdl.handle.net/2160/4021</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6238\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6225\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6224\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6154\"/> </rdf:Seq> </items> <dc:date>2015-03-19T08:54:17Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/6238\"> <title>Institutional Repositories: promoting research online</title> <link>http://hdl.handle.net/2160/6238</link> <description>Institutional Repositories: promoting research online Payne, Hannah Presentation delivered at the 2010 Newport NEXUS Conference advocating the role a repository can play in promoting and managing an institution's research online. </description> <dc:date>2010-06-14T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/6225\"> <title>Institutional repositories: stakeholders, benefits and professional issues</title> <link>http://hdl.handle.net/2160/6225</link> <description>Institutional repositories: stakeholders, benefits and professional issues Payne, Hannah; Knowles, Jackie Lecture given to the Digital Records module group, Department of Information Studies, Aberystwyth University, 22 March 2010. </description> <dc:date>2010-03-22T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/6224\"> <title>Welsh Repository Network: exploration and experimentation</title> <link>http://hdl.handle.net/2160/6224</link> <description>Welsh Repository Network: exploration and experimentation Payne, Hannah Lightning Talk presentation given at the UKCoRR Members Meeting, University of Salford, 25 February 2011. </description> <dc:date>2011-02-25T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/6154\"> <title>A long and winding road: the creation of Theses Collection Wales</title> <link>http://hdl.handle.net/2160/6154</link> <description>A long and winding road: the creation of Theses Collection Wales Knowles, Jackie Presentation outlining the collaborative work undertaken by the Welsh Repository Network project team and the National Library of Wales to create Theses Collection Wales. </description> <dc:date>2011-02-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "48548471aba662612084fbb19b8e8add", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/4021"
+}

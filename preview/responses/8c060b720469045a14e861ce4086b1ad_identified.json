@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.25.937'> <front> <title>UTRAN TDD low chiprate</title> <author><organization>3GPP</organization></author> <date day='12' month='October' year='2001' /> </front>  <seriesInfo name='3GPP TR' value='25.937 4.1.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/25937.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8c060b720469045a14e861ce4086b1ad", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.25.937.xml"
+}

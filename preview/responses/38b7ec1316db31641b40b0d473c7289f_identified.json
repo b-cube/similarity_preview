@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Developments in the Extended Finite Element Method and Algebraic Multigrid for Solid Mechanics Problems Involving Discontinuities</dc:title><dc:creator>Hiriyur, Badri Krishna Jainath</dc:creator><dc:date>2012</dc:date><dc:type>text</dc:type><dc:subject>Engineering</dc:subject><dc:subject>Mathematics</dc:subject><dc:identifier>http://hdl.handle.net/10022/AC:P:13065</dc:identifier><dc:description>In this dissertation, some contribututions related to computational modeling and solution of solid mechanics problems involving discontinuities are discussed. The main tool employed for discrete modeling of discontinuities is the extended finite element method and the primary solution method discussed is the algebraic multigrid. The extended finite element method has been shown to be effective for both weak and strong discontinuities. With respect to weak discontinuities, a new approach that couples the extended finite element method with Monte Carlo simulations with the goal of quantifying uncertainty in homogenization of material properties of random microstructures is presented. For accelearated solution of linear systems arising from problems involving cracks, several new methods involving the algebraic multigrid are presented. In the first approach, the Schur complement of the linear system arising from XFEM is used to develop a Hybrid-AMG method such that crack-conforming aggregates are formed. Another alternative approach involves transforming the original linear system into a modified system that is amenable for a direct application of algebraic multigrid. It is shown that if only Heaviside-enrichments are present, a simple transformation based on the phantom-node approach is available, which decouples the linear sysem along the discontinuities such that crack conforming aggregates are automatically generated via smoother aggregation algebraic multigrid. Various numerical examples are presented to verify the accuracy of the resuting solutions and the convergence properties of the proposed algorithms. The parallel scalability performance of the implementation are also discussed.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "38b7ec1316db31641b40b0d473c7289f", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A146402.dc_xml"
+}

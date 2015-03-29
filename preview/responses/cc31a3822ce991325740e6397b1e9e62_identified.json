@@ -1,0 +1,15 @@
+{
+    "content": "<META xmlns=\"http://www.w3.org/2002/01/P3Pv1\"> <POLICY-REFERENCES>     <POLICY-REF about=\"http://www.gloss-sealevel.org/w3c/gloss.p3p#gloss\">       <INCLUDE>/*</INCLUDE>       <COOKIE-INCLUDE/>     </POLICY-REF>  </POLICY-REFERENCES> </META>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "cc31a3822ce991325740e6397b1e9e62", 
+    "source_url": "http://www.gloss-sealevel.org/w3c/p3p.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <status>Successful connection, 0 record(s) found.</status>   <species>   <genus>Nannocharax</genus>   <speciesfb>usongo</speciesfb>   <speccode>64888</speccode>    </species>   </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e0dcc025b036a8f7c7bcf3feed60a654", 
+    "source_url": "http://www.fishbase.org/webservice/ComNames/comnamesxml.php?Genus=Nannocharax&Species=usongo"
+}

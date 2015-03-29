@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"E8FB8F06-E601-4D45-8A84-7751BAD0D87A\" _position=\"1\" _address=\"http://data.sfgov.org/resource/wsxd-56sq/1\"><name>Berg, Natalie</name><agency>Community College District</agency><type_of_filing>Annual Form 700</type_of_filing><due_date>2014-04-01T00:00:00</due_date></row><row _id=\"2\" _uuid=\"47DC7531-B6BD-40F0-BF76-E74353F82DB8\" _position=\"2\" _address=\"http://data.sfgov.org/resource/wsxd-56sq/2\"><name>Dunlop, Mark</name><agency>Treasure Island Development Authority</agency><type_of_filing>Annual Form 700</type_of_filing><due_date>2014-04-01T00:00:00</due_date></row><row _id=\"5\" _uuid=\"27ECCCAB-99B3-4DE7-B816-910DCDD55C6C\" _position=\"5\" _address=\"http://data.sfgov.org/resource/wsxd-56sq/5\"><name>Terplan, Egon</name><agency>Citizens General Obligation Bond Oversight Committee</agency><type_of_filing>Leaving Office Form 700</type_of_filing><due_date>2014-01-31T00:00:00</due_date></row><row _id=\"6\" _uuid=\"C91329DA-5D66-4C3F-AE94-177E12A25031\" _position=\"6\" _address=\"http://data.sfgov.org/resource/wsxd-56sq/6\"><name>Tsen, V. Fei</name><agency>Treasure Island Development Authority</agency><type_of_filing>Assuming Office Form 700</type_of_filing><due_date>2014-01-20T00:00:00</due_date></row><row _id=\"11\" _uuid=\"68CAD33A-ABAB-4D64-BF67-1FEE5443FC3E\" _position=\"11\" _address=\"http://data.sfgov.org/resource/wsxd-56sq/11\"><name>Pilpel, David</name><agency>Sunshine Ordinance Task Force</agency><type_of_filing>Annual Form 700</type_of_filing><due_date>2014-04-01T00:00:00</due_date><notes>Paper copy on file due to unresolvable complication.</notes></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ed1891708e99c8ec392292112ab01eb6", 
+    "source_url": "https://data.sfgov.org/api/views/wsxd-56sq/rows.xml?accessType=DOWNLOAD"
+}

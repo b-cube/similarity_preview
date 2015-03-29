@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0043\">   <front>     <title>Jabber Database Access</title>     <author initials=\"J.\" surname=\"Kirby\" fullname=\"Justin Kirby\">       <organization/>       <address>         <email>justin@openaether.org</email>       </address>     </author>     <date day=\"20\" month=\"October\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0043\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0043.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b7df1f95174628565ef1cb4f2ca82344", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0043.xml"
+}

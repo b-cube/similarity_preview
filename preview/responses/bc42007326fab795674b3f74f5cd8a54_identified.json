@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>simpleGAMMA \\ufffd\\ufffd\\ufffd a reduced model of secondary organic aerosol formation in the aqueous aerosol phase (aaSOA)</dc:title><dc:creator>McNeill, Vivian Faye</dc:creator><dc:creator>Woo, Joseph</dc:creator><dc:date>2015</dc:date><dc:type>text</dc:type><dc:subject>Chemical engineering</dc:subject><dc:subject>Atmospheric chemistry</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8CN72RB</dc:identifier><dc:description>There is increasing evidence that the uptake and aqueous processing of water-soluble volatile organic compounds (VOCs) by wet aerosols or cloud droplets is an important source of secondary organic aerosol (SOA). We recently developed GAMMA (Gas\\ufffd\\ufffd\\ufffdAerosol Model for Mechanism Analysis), a zero-dimensional kinetic model that couples gas-phase and detailed aqueous-phase atmospheric chemistry for speciated prediction of SOA and organosulfate formation in cloudwater or aqueous aerosols. Results from GAMMA simulations of SOA formation in aerosol water (McNeill et al., 2012) indicate that it is dominated by two pathways: isoprene epoxydiol (IEPOX) uptake followed by ring-opening chemistry (under low-NOx conditions) and glyoxal uptake. This suggested that it is possible to model the majority of aqueous aerosol phase SOA mass using a highly simplified reaction scheme. We have therefore developed a reduced version of GAMMA, simpleGAMMA. Close agreement in predicted aaSOA mass is observed between simpleGAMMA and GAMMA under all conditions tested (between pH 1\\ufffd\\ufffd\\ufffd4 and RH 40\\ufffd\\ufffd\\ufffd80%) after 12 h of simulation. simpleGAMMA is computationally efficient and suitable for coupling with larger-scale atmospheric chemistry models.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bc42007326fab795674b3f74f5cd8a54", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A183964.oai_dc_xml"
+}

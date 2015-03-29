@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/6220\"> <title>Lansiad Casgliad Traethodau Cymru/ Theses Collection Wales Launch</title> <link>http://hdl.handle.net/2160/6220</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6240\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6223\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6222\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/6221\"/> </rdf:Seq> </items> <dc:date>2015-03-19T11:54:05Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/6240\"> <title>The future of repositories</title> <link>http://hdl.handle.net/2160/6240</link> <description>The future of repositories Notay, Balviar Presentation describing past, current and future JISC funded repository related projects. </description> <dc:date>2011-02-18T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/6223\"> <title>EThOS Update</title> <link>http://hdl.handle.net/2160/6223</link> <description>EThOS Update Roy, Vicky; Appleyard, Andy </description> <dc:date>2011-02-18T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/6222\"> <title>Theses Collection Wales demonstration</title> <link>http://hdl.handle.net/2160/6222</link> <description>Theses Collection Wales demonstration Thomas, Si\\ufffd\\ufffdn </description> <dc:date>2011-02-18T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/6221\"> <title>Launch Slides</title> <link>http://hdl.handle.net/2160/6221</link> <description>Launch Slides Welsh Repository Network Slides from the Theses Collection Wales launch including programme of events. </description> <dc:date>2011-02-18T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5aa819df567f1425e8b078d9f1e7daa1", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/6220"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>Conf&#233;d&#233;ration Syndicale Internationale</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>&#8220;Nuestro futuro no puede ponerse en espera&#8221; J&#243;venes l&#237;deres sindicales filipinos exigen trabajo decente</title>  <author_name>Anna Lee M. Fos</author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/nuestro-futuro-no-puede-ponerse-en</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/nuestro-futuro-no-puede-ponerse-en'&gt;&#8220;Nuestro futuro no puede ponerse en espera&#8221; J&#243;venes l&#237;deres sindicales filipinos exigen trabajo decente&lt;/a&gt;&lt;/h4&gt;&lt;blockquote class='spip'&gt; &lt;p&gt;&#8220;No deber&#237;amos pasarnos la vida so&#241;ando con un trabajo decente, deber&#237;amos salir afuera y esforzarnos por conseguirlo&#8221;, expresan los j&#243;venes l&#237;deres sindicales de Luzon, Visayas y Mindanao, que reclaman unas inversiones mayores, enfocadas y sensibles con relaci&#243;n al empleo decente y una participaci&#243;n genuina de los j&#243;venes en los procesos de toma de decisiones.&lt;br class='autobr' /&gt; El programa, apoyado por la Confederaci&#243;n Sindical Internacional para As&#237;a y Pac&#237;fico (CSI-AP), en cooperaci&#243;n con el Trade Union Congress of (...)&lt;/p&gt; &lt;/blockquote&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5539c569fd683effc3f1d8fdf971e5b4", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Fnuestro-futuro-no-puede-ponerse-en"
+}

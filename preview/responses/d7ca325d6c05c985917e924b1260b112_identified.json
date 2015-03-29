@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>The Visual and Linguistic Treebank</title> <link href=\"http://hdl.handle.net/10283/619\" rel=\"alternate\"/> <subtitle>The Visual and Linguistic Treebank is a data set of images annotated with human-written descriptions, object boundaries, and Visual Dependency Representations.</subtitle> <id>http://hdl.handle.net/10283/619</id> <updated>2015-03-20T04:03:21Z</updated> <dc:date>2015-03-20T04:03:21Z</dc:date> <entry> <title>Visual and Linguistic Treebank</title> <link href=\"http://hdl.handle.net/10283/620\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/10283/620</id> <updated>2015-02-23T10:53:34Z</updated> <published>2014-09-04T09:59:38Z</published> <summary type=\"text\">Visual and Linguistic Treebank The Visual and Linguistic Treebank is a data set of images annotated with human-written descriptions, object boundaries, and Visual Dependency Representations. The images are freely available from the Action Recognition Task in the PASCAL VOC 2010 data set; our annotations are available for only the trainval data. Descriptions are available for all 2,424 images in the trainval data, and object annotations and Visual Dependency Representations are available for a subset of 341 images. </summary> <dc:date>2014-09-04T09:59:38Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d7ca325d6c05c985917e924b1260b112", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/atom_1.0/10283/619"
+}

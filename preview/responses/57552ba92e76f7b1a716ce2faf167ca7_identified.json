@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Castro2013c </Local-number>  <Author>Castro, F. </Author>  <Title>U.S. All Islands Coral Reef Committee. Report to the U.S. Coral Reef Task Force </Title>  <Institution>U.S. All Islands Coral Reef Committee (AIC), U.S. Coral Reef Task Force (USCRTF) </Institution>  <Publication-Date><caldate>2013 </caldate></Publication-Date>  <Extent>41 </Extent>  <Type-Period-Note>AIC Chair's Presentation Report </Type-Period-Note>  <URL-Cover>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/other_crcp_publications/USCRTF/aicpresentation_usvi_11-15-13_Cover_Page_01.jpg </URL-Cover>  <Abstract>\"AIC Chair's presentation on the activities, accomplishments, and emerging issues of the U.S. All Islands Coral Reef Committee (AIC) to the 30th U.S. Coral Reef Task Force Meeting, St. Croix, U.S. Virgin Islands, November 15, 2013.\" </Abstract>  <Keywords>U.S. All Islands Coral Reef Committee (AIC), U.S. Coral Reef Task Force (USCRTF) </Keywords>  <Date-Time-Last-Modified>20140328000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/other_crcp_publications/USCRTF/aicpresentation_usvi_11-15-13.pdf </URL>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "57552ba92e76f7b1a716ce2faf167ca7", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B9706E5E4-12D1-4AE7-A929-7CC9F8D66D5C%7D"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>A Perspective on Resource Synchronization</title> <creator>Herbert Van de Sompel</creator> <creator>Robert Sanderson</creator> <creator>Martin Klein</creator> <creator>Michael L. Nelson</creator> <creator>Bernhard Haslhofer</creator> <creator>Simeon Warner</creator> <creator>Carl Lagoze</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">September/October 2012</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/september2012-vandesompel</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/september12/vandesompel/09vandesompel.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>18</volume> <issue>9/10</issue> </relation> <rights>Copyright 2012 Herbert Van de Sompel, Robert Sanderson, Martin Klein, Michael L. Nelson, Berhard Haslhofer, Simeon Warner, Carl Lagoze</rights> </dlib-meta0.1>   ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6d687b0ce311fcd8fbdd0789b1b56cec", 
+    "source_url": "http://www.dlib.org/dlib/september12/vandesompel/09vandesompel.meta.xml"
+}

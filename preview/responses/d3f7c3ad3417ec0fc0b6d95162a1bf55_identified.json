@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!-- Strict-Signature.rnc --> <!-- # # Copyright \\ufffd\\ufffd[2011] World Wide Web Consortium  # (Massachusetts Institute of Technology,   #  European Research Consortium for Informatics and Mathematics,  #  Keio University). All Rights Reserved.   # This work is distributed under the W3C\\ufffd\\ufffd Software License [1] in the # hope that it will be useful, but WITHOUT ANY WARRANTY; without even # the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR # PURPOSE.  # [1] http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231 # --> <grammar xmlns=\"http://relaxng.org/ns/structure/1.0\">   <start>     <ref name=\"anyForeignElementOrSignature\"/>   </start>   <define name=\"anyForeignElementOrSignature\">     <choice>       <element>         <anyName>           <except>             <nsName ns=\"http://www.w3.org/2000/09/xmldsig#\"/>           </except>         </anyName>         <mixed>           <zeroOrMore>             <ref name=\"security_anyAttribute\"/>           </zeroOrMore>           <zeroOrMore>             <ref name=\"anyForeignElementOrSignature\"/>           </zeroOrMore>         </mixed>       </element>       <ref name=\"ds_Signature\"/>     </choice>   </define>   <define name=\"ds_anyForeignElement\">     <element>       <anyName>         <except>           <nsName ns=\"http://www.w3.org/2000/09/xmldsig#\"/>         </except>       </anyName>       <mixed>         <zeroOrMore>           <ref name=\"security_anyAttribute\"/>         </zeroOrMore>         <zeroOrMore>           <ref name=\"security_anyElement\"/>         </zeroOrMore>       </mixed>     </element>   </define>   <include href=\"security_any.rng\"/>   <include href=\"xmldsig-core-schema.rng\"/> </grammar> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d3f7c3ad3417ec0fc0b6d95162a1bf55", 
+    "source_url": "http://www.w3.org/TR/2013/NOTE-xmlsec-rngschema-20130411/Strict-Signature.rng"
+}

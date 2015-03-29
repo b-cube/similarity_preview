@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"IEEE.802-3.1988\"> <front> <title>802.3 Layer Management</title> <author> <organization>Institute of Electrical and Electronics Engineers</organization> </author> <date month=\"November\" year=\"1988\" /> </front>  <seriesInfo name=\"IEEE\" value=\"Standard 802.3\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f9069164881da5dfbf6a1b73c280f46d", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.IEEE.802-3.1988.xml"
+}

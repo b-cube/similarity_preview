@@ -1,0 +1,15 @@
+{
+    "content": "<?xml-stylesheet href=\"#style\" type=\"text/css\"?> <ARTICLE>   <EXTRAS id=\"style\">     INSTRUMENT { display: inline }     ARTICLE, HEADLINE, AUTHOR, PARA { display: block }     EXTRAS { display: none }   </EXTRAS>   <HEADLINE>Fredrick the Great meets Bach</HEADLINE>   <AUTHOR>Johann Nikolaus Forkel</AUTHOR>   <PARA>     One evening, just as he was getting his      <INSTRUMENT>flute</INSTRUMENT> ready and his     musicians were assembled, an officer brought him a list of     the strangers who had arrived.   </PARA> </ARTICLE> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "39a07b6ca08b32cc786f2168b91f7ec8", 
+    "source_url": "http://www.w3.org/Style/Examples/002/doc.xml"
+}

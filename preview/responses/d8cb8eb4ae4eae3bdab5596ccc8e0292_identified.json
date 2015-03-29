@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">    <channel rdf:about=\"https://verc.enes.org/ISENES2/project/na2-wp3-towards-next-generation-models/RSS\">   <title>NA2 (WP3): Towards next generation models</title>   <link>https://verc.enes.org/ISENES2/project/na2-wp3-towards-next-generation-models</link>   <description></description>   <image rdf:resource=\"https://verc.enes.org/ISENES2/logo.png\"/>    <items>     <rdf:Seq>                <rdf:li rdf:resource=\"https://verc.enes.org/ISENES2/documents/na2-working-documents\"/>            </rdf:Seq>   </items>  </channel>     <item rdf:about=\"https://verc.enes.org/ISENES2/documents/na2-working-documents\">     <title>NA2 Working documents</title>     <link>https://verc.enes.org/ISENES2/documents/na2-working-documents</link>     <description></description>          <dc:publisher>No publisher</dc:publisher>     <dc:creator></dc:creator>     <dc:rights></dc:rights>            <dc:subject>Working documets WP3</dc:subject>          <dc:date>2015-01-19T09:55:00Z</dc:date>     <dc:type>Folder</dc:type>   </item>    </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d8cb8eb4ae4eae3bdab5596ccc8e0292", 
+    "source_url": "https://verc.enes.org/ISENES2/project/na2-wp3-towards-next-generation-models/RSS"
+}

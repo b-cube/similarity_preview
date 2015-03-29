@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>J\\ufffd\\ufffdhrliche Anzahl der gelaunchten Open-Access-Repositorien in Deutschland (1991-2013)</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Vierkant</surname>             <given-names>Paul</given-names>           </name>           <aff>             <institution>Humboldt-Universit\\ufffd\\ufffdt zu Berlin</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/12954\"/>       <self-uri xlink:href=\"https://zenodo.org/record/12954/files/Jahrliche-Anzahl-der-gelaunchten--Open-Access-Repositorien-in-Deutschland-1991-2013.svg\"/>     </article-meta>     <abstract>&lt;p&gt;Das vorliegende Diagramm visualisiert Teile der Forschungsdaten des 2014 Census of Open Access Repositories in Germany, Austria and Switzerland mit Fokus auf das&amp;nbsp;Wachstum der Open-Access-Repositorien-Landschaft in Deutschland. Das Diagramm wurde in folgendem Blogpost verwendet:&amp;nbsp;&lt;/p&gt;  &lt;p&gt;http://libreas.wordpress.com/2014/12/01/eine-kurze-geschichte-der-open-access-repositorien-landschaft-in-deutschland-von-1991-2013/&lt;/p&gt;</abstract>   </front>   <article-type>user-osr</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "399a297e7d54480dde30213756190c82", 
+    "source_url": "https://zenodo.org/record/12954/export/xn"
+}

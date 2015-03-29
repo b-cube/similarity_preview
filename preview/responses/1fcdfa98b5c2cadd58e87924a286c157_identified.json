@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.25.943'> <front> <title>Deployment aspects</title> <author><organization>3GPP</organization></author> <date day='12' month='April' year='2011' /> </front>  <seriesInfo name='3GPP TR' value='25.943 10.0.0' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/25943.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1fcdfa98b5c2cadd58e87924a286c157", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.25.943.xml"
+}

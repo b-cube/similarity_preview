@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:socrata=\"http://www.socrata.com/rdf/terms#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:ods=\"http://open-data-standards.github.com/2012/01/open-data-standards#\" xmlns:dcterm=\"http://purl.org/dc/terms/\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dsbase=\"http://data.ok.gov/resource/\" xmlns:ds=\"http://data.ok.gov/resource/tcsu-qvhj/\"> <dsbase:tcsu-qvhj rdf:about=\"http://data.ok.gov/resource/tcsu-qvhj/1\">     <socrata:rowID>1</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/tcsu-qvhj\"/>     <ds:years>2013</ds:years>     <ds:historical_data>57.00</ds:historical_data>     <ds:target>0</ds:target></dsbase:tcsu-qvhj> <dsbase:tcsu-qvhj rdf:about=\"http://data.ok.gov/resource/tcsu-qvhj/2\">     <socrata:rowID>2</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/tcsu-qvhj\"/>     <ds:years>2014</ds:years>     <ds:historical_data>56.00</ds:historical_data>     <ds:target>0</ds:target></dsbase:tcsu-qvhj> <dsbase:tcsu-qvhj rdf:about=\"http://data.ok.gov/resource/tcsu-qvhj/3\">     <socrata:rowID>3</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/tcsu-qvhj\"/>     <ds:years>2015</ds:years>     <ds:historical_data>0</ds:historical_data>     <ds:target>0</ds:target></dsbase:tcsu-qvhj> <dsbase:tcsu-qvhj rdf:about=\"http://data.ok.gov/resource/tcsu-qvhj/4\">     <socrata:rowID>4</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/tcsu-qvhj\"/>     <ds:years>2016</ds:years>     <ds:historical_data>0</ds:historical_data>     <ds:target>0</ds:target></dsbase:tcsu-qvhj> <dsbase:tcsu-qvhj rdf:about=\"http://data.ok.gov/resource/tcsu-qvhj/5\">     <socrata:rowID>5</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.ok.gov/resource/tcsu-qvhj\"/>     <ds:years>2017</ds:years>     <ds:historical_data>0</ds:historical_data>     <ds:target>62.00</ds:target></dsbase:tcsu-qvhj></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b352bc1b1cd9479e4f47ad70efc1cb37", 
+    "source_url": "https://data.ok.gov/api/views/tcsu-qvhj/rows.rdf?accessType=DOWNLOAD"
+}

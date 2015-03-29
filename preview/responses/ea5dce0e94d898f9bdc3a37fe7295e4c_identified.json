@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Cutting Planes for Convex Objective Nonconvex Optimization</dc:title><dc:creator>Michalka, Alexander</dc:creator><dc:date>2013</dc:date><dc:type>text</dc:type><dc:subject>Industrial engineering</dc:subject><dc:identifier>http://hdl.handle.net/10022/AC:P:22000</dc:identifier><dc:description>This thesis studies methods for tightening relaxations of optimization problems with convex objective values over a nonconvex domain. A class of linear inequalities obtained by lifting easily obtained valid inequalities is introduced, and it is shown that this class of inequalities is sufficient to describe the epigraph of a convex and differentiable function over a general domain. In the special case where the objective is a positive definite quadratic function, polynomial time separation procedures using the new class of lifted inequalities are developed for the cases when the domain is the complement of the interior of a polyhedron, a union of polyhedra, or the complement of the interior of an ellipsoid. Extensions for positive semidefinite and indefinite quadratic objectives are also studied. Applications and computational considerations are discussed, and the results from a series of numerical experiments are presented.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ea5dce0e94d898f9bdc3a37fe7295e4c", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A166569.xml"
+}

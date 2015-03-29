@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>R.A.G.E.</ShortName>  <Description>Search R.A.G.E. - Resident Association of Greater Englewood</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://ragenglewood.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://ragenglewood.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://ragenglewood.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>R.A.G.E.</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://0.gravatar.com/blavatar/0d9663805e89c54cf4f1477047945065?s=16&#038;d=http%3A%2F%2Fragenglewood.org%2Ffavicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/jpeg\">http://0.gravatar.com/blavatar/4c68b6581d5e232772872f71a1510c89?s=64&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>rage networking-event robeson-high-school englewood-community englewood-goodinenglewood englewood goodinenglewood residents village-meeting</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://ragenglewood.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "68b90494079439bbbc3312c778ed7a70", 
+    "source_url": "http://ragenglewood.org/osd.xml"
+}

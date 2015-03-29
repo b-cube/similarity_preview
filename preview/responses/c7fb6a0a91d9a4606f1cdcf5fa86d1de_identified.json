@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-webarch-20030627'> <front> <title>Architecture of the World Wide Web</title>  <author initials='I' surname='Jacobs' fullname='Ian Jacobs'>     <organization /> </author>  <date month='June' day='27' year='2003' /> </front>  <seriesInfo name='W3C WD' value='WD-webarch-20030627' /> <format type='HTML' target='http://www.w3.org/TR/2003/WD-webarch-20030627' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c7fb6a0a91d9a4606f1cdcf5fa86d1de", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-webarch-20030627.xml"
+}

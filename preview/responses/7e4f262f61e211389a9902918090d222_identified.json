@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"><ShortName>coreboot (en)</ShortName><Description>coreboot (en)</Description><Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://www.coreboot.org/favicon.ico</Image><Url type=\"text/html\" method=\"get\" template=\"http://www.coreboot.org/index.php?title=Special:Search&amp;search={searchTerms}\" /><Url type=\"application/x-suggestions+json\" method=\"get\" template=\"http://www.coreboot.org/api.php?action=opensearch&amp;search={searchTerms}&amp;namespace=0\" /><moz:SearchForm>http://www.coreboot.org/Special:Search</moz:SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7e4f262f61e211389a9902918090d222", 
+    "source_url": "http://www.coreboot.org/opensearch_desc.php"
+}

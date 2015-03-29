@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">   <sitemap>     <loc>http://rus.azattyq.org/sitemap_6_1.xml.gz</loc>     <lastmod>2015-03-01T01:02:57.235014Z</lastmod>   </sitemap>   <sitemap>     <loc>http://rus.azattyq.org/sitemap_6_2.xml.gz</loc>     <lastmod>2015-03-01T01:03:00.5165667Z</lastmod>   </sitemap>   <sitemap>     <loc>http://rus.azattyq.org/sitemap_6_3.xml.gz</loc>     <lastmod>2015-03-01T01:03:01.6260405Z</lastmod>   </sitemap>   <sitemap>     <loc>http://rus.azattyq.org/sitemap_6_latest.xml.gz</loc>     <lastmod>2015-03-04T11:34:52.8604344Z</lastmod>   </sitemap>   <sitemap>     <loc>http://rus.azattyq.org/sitemap_6_news.xml.gz</loc>     <lastmod>2015-03-04T11:34:53.2354687Z</lastmod>   </sitemap>   <sitemap>     <loc>http://rus.azattyq.org/sitemap_6_section.xml.gz</loc>     <lastmod>2015-03-01T01:02:55.0316859Z</lastmod>   </sitemap>   <sitemap>     <loc>http://rus.azattyq.org/sitemap_6_videos.xml.gz</loc>     <lastmod>2015-03-03T13:16:59.3846199Z</lastmod>   </sitemap> </sitemapindex>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b8c1b2f30f17bdec1965eb95844ddd7e", 
+    "source_url": "http://rus.azattyq.org/sitemap.xml"
+}

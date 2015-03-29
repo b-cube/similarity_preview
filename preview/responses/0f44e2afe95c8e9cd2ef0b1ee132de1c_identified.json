@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <status>Successful connection, 11 record(s) found.</status>   <species>   <genus>Decodon</genus>   <speciesfb>melasma</speciesfb>   <speccode>13835</speccode>    </species>   <comnames>    <comname>&#40657;&#35064;&#40786;&#38534;&#38957;&#39770;</comname>      <country>China</country>     <language>Mandarin Chinese</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#40657;&#35064;&#40831;&#38534;&#22836;&#40060;</comname>      <country>China</country>     <language>Mandarin Chinese</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname></comname>      <country>USA</country>     <language>English</language>     <type>AFS</type>    </comnames>    <comnames>    <comname>&#66;&#108;&#97;&#99;&#107;&#115;&#112;&#111;&#116;&#32;&#119;&#114;&#97;&#115;&#115;&#101;</comname>      <country>Global</country>     <language>English</language>     <type>FAO old</type>    </comnames>    <comnames>    <comname>&#68;&#111;&#110;&#122;&#101;&#108;&#108;&#101;&#32;&#224;&#32;&#116;&#97;&#99;&#104;&#101;&#32;&#110;&#111;&#105;&#114;&#101;</comname>      <country>France</country>     <language>French</language>     <type>FAO old</type>    </comnames>    <comnames>    <comname>&#82;&#101;&#115;&#98;&#97;&#108;&#111;&#115;&#97;</comname>      <country>Ecuador</country>     <language>Spanish</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname>&#83;&#101;&#241;&#110;&#111;&#114;&#105;&#116;&#97;&#32;&#100;&#101;&#32;&#109;&#97;&#110;&#99;&#104;&#97;&#32;&#110;&#101;&#103;&#114;&#97;</comname>      <country>Spain</country>     <language>Spanish</language>     <type>FAO old</type>    </comnames>    <comnames>    <comname>&#83;&#101;&#241;&#111;&#114;&#105;&#116;&#97;&#32;&#100;&#101;&#32;&#109;&#97;&#110;&#99;&#104;&#97;&#32;&#110;&#101;&#103;&#114;&#97;</comname>      <country>Mexico</country>     <language>Spanish</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname></comname>      <country>Spain</country>     <language>Spanish</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname></comname>      <country>Ecuador</country>     <language>Spanish</language>     <type>Vernacular</type>    </comnames>    <comnames>    <comname></comname>      <country>Mexico</country>     <language>Spanish</language>     <type>AFS</type>    </comnames>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0f44e2afe95c8e9cd2ef0b1ee132de1c", 
+    "source_url": "http://www.fishbase.org/webservice/ComNames/comnamesxml.php?Genus=Decodon&Species=melasma"
+}

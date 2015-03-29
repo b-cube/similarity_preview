@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <ServiceExceptionReport xmlns=\"http://www.opengis.net/ows\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.opengis.net/ows/owsCommon.xsd\" version=\"0.3.20\" language=\"en\">   <ServiceException code=\"InvalidParameterValue\"  locator=\"coverage\"> Coverage name must be provided for getCoverage request  </ServiceException> </ServiceExceptionReport> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "0.3.20", 
+        "protocol": "OGC:error", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "655e47a44c834ecc63b28cbe831d5f10", 
+    "source_url": "http://acdisc.sci.gsfc.nasa.gov/daac-bin/wcsL3?service=WCS&amp;version=1.0.0&amp;request=getCoverage&amp;CRS=CRS:84&amp;format=netCDF&amp;resx=0.25&amp;resy=0.25&amp;bbox=-179.875"
+}

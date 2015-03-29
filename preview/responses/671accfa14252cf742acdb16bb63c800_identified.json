@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/Chordate_Charts/GPServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/continent/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/dataset_grid_locations/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/dataset_search_by_scientific_name_and_rank/GPServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/datasetid_info1/GPServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/depth_date_profile/GPServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/obis_datasets_info/GPServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/obis_hierarchy_level_lookup/GPServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/obis_hierarchy_search/GPServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/obis_query/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/obis_top_25_taxa/GPServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/OBIS_USA_All_Marine_Biogeographic_Records/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/OBIS_USA_Fish_Samples/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/obisdatasetsinfo/GPServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/RegionIndexing/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/OBISUSA/Scientific_Name_Search/GPServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "671accfa14252cf742acdb16bb63c800", 
+    "source_url": "http://gis1.usgs.gov/arcgis/rest/services/OBISUSA?f=sitemap"
+}

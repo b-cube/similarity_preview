@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.X3-288.1996\"> <front> <title>Information Technology - Fibre Channel - Generic Services (FC-GS)</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1996\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X3.288\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8ca83057155b1133f3a258a3108d0b4b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ANSI.X3-288.1996.xml"
+}

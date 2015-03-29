@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <?xml-stylesheet href=\"mmab.xsl\" type=\"text/xsl\" ?>  <person>   <name>Vera Gerald</name>   <title>Oceanographer</title>   <extension>3745</extension>   <email>Vera.Gerald@noaa.gov</email>   <employer>NOAA/NWS   </employer>   <site>College Park, MD</site>   <blurb>   Surface Marine Data Manager, Marine Modeling and Analysis Branch.   </blurb>   <graphic source=\"wd21vg.jpg\"/>  </person>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6525ee0e470d62de18a5c500c1d30d3d", 
+    "source_url": "http://polar.ncep.noaa.gov/mmab/people/vera_gerald.xml"
+}

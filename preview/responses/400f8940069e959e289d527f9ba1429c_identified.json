@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\">    <rdf:Description rdf:about=\"https://www.insight-centre.org/users/doychin-doychev\">     <rdf:type rdf:resource=\"http://xmlns.com/foaf/0.1/Person\"/>     <foaf:name>Doychin Doychev</foaf:name>     <foaf:firstName>Doychin</foaf:firstName>     <foaf:surname>Doychev</foaf:surname>     <foaf:workplaceHomepage>https://www.insight-centre.org</foaf:workplaceHomepage>     <foaf:mbox_sha1sum>638d2d5b587ecf67ba8cd1899569994283e80983</foaf:mbox_sha1sum>     <foaf:img>https://www.insight-centre.org/sites/default/files/pictures/picture-962-1378987415.jpg</foaf:img>   </rdf:Description>  </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "400f8940069e959e289d527f9ba1429c", 
+    "source_url": "https://www.insight-centre.org/user/962/foaf.xml"
+}

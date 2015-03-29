@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\" xmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">   <channel>     <title>DSpace community: Health and Family Planning Systems</title>     <link>http://dspace.icddrb.org:80/dspace/handle/123456789/9</link>     <description />     <items>       <rdf:Seq>         <rdf:li resource=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5276\" />         <rdf:li resource=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5162\" />         <rdf:li resource=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5101\" />         <rdf:li resource=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5076\" />       </rdf:Seq>     </items>   </channel>   <textInput>     <title>The community's search engine</title>     <description>Search the Channel</description>     <name>s</name>     <link>http://dspace.icddrb.org:80/dspace/simple-search</link>   </textInput>   <item rdf:about=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5276\">     <title>Contraceptive use dynamics in Bangladesh</title>     <link>http://dspace.icddrb.org:80/dspace/handle/123456789/5276</link>     <description>title: Contraceptive use dynamics in Bangladesh authors: Bairagi, Radheshyam &lt;br&gt;</description>   </item>   <item rdf:about=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5162\">     <title>Case studies for safe motherhood: learning from South Asian programs</title>     <link>http://dspace.icddrb.org:80/dspace/handle/123456789/5162</link>     <description>title: Case studies for safe motherhood: learning from South Asian programs authors: Koblinsky, Marge &lt;br&gt;</description>   </item>   <item rdf:about=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5101\">     <title>An inventory of health and family planning facilities in Dhaka city[book]</title>     <link>http://dspace.icddrb.org:80/dspace/handle/123456789/5101</link>     <description>title: An inventory of health and family planning facilities in Dhaka city[book] authors: Mazumder, M.A.; Bhuiyan, M.A.; Tunon, C.; Baqui, A.H.; Chowdhury, A.I.; Khan, S.A.; Arifeen, S.E.; Islam, R. &lt;br&gt;</description>   </item>   <item rdf:about=\"http://dspace.icddrb.org:80/dspace/handle/123456789/5076\">     <title>Cost of Illness of Cholera in Matlab, Bangladesh</title>     <link>http://dspace.icddrb.org:80/dspace/handle/123456789/5076</link>     <description>title: Cost of Illness of Cholera in Matlab, Bangladesh authors: Islam, Ziaul &lt;br&gt;</description>   </item> </rdf:RDF>  ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c1c01259f7db5b759f470bb8f5a414e0", 
+    "source_url": "http://dspace.icddrb.org/dspace/feed/rss_1.0/123456789/9"
+}

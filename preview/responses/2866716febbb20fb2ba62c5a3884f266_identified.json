@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <?xml-stylesheet href=\"mmab.xsl\" type=\"text/xsl\" ?>   <person>   <name>Deanna Spindler</name>>   <title>Research Oceanographer</title>   <extension>3754</extension>   <email>Deanna.Spindler@noaa.gov</email>   <employer>IMSG</employer>   <site>College Park, MD</site>   <blurb>    Data processing, assimilation, and analysis.   </blurb>  </person> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2866716febbb20fb2ba62c5a3884f266", 
+    "source_url": "http://polar.ncep.noaa.gov/mmab/people/deanna.xml"
+}

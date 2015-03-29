@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"2137\"><idinfo><citation><citeinfo><origin role=\"Sponsor\">University of Wisconsin</origin><origin role=\"Sponsor\">USGS National Wildlife Health Center</origin><title>Wildlife Data Integration Network</title><onlink>http://www.wdin.org/</onlink></citeinfo></citation><descript><abstract>A web-based monitoring and reporting system that provides access to data on wildlife and zoonotic diseases, mortality events, and other critical related information.</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><theme><themekt>USGS Thesaurus</themekt><themekey>avian influenza</themekey><themekey>chronic wasting disease</themekey><themekey>disease vectors</themekey><themekey>zoonotic diseases</themekey></theme></keywords><ptcontac><cntinfo><cntemail>cmarsh</cntemail></cntinfo></ptcontac></idinfo><metainfo><metd>20120905</metd><metc><cntinfo><cntperp><cntper>Allwardt, Alan </cntper><cntorg>USGS WR SW GD</cntorg></cntperp><cntaddr><addrtype>mailing address</addrtype><address>400 Natural Bridges Drive</address><city>Santa Cruz</city><state>CA</state><postal>95060</postal><country>USA</country></cntaddr><cntvoice>831-427-4751</cntvoice><cntemail>aallwardt@usgs.gov</cntemail></cntinfo></metc><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "60729a9deeaeb1292d6a5fc4098fed86", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=2137"
+}

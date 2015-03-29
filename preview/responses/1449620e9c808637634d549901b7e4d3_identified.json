@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.aboba-dhc-nad-ipv4'> <front> <title>IPv4 Network Attachment Detection</title>  <author initials='B' surname='Aboba' fullname='Bernard Aboba'>     <organization /> </author>  <date month='June' day='18' year='2003' /> </front>  <seriesInfo name='Internet-Draft' value='draft-aboba-dhc-nad-ipv4-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-aboba-dhc-nad-ipv4-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1449620e9c808637634d549901b7e4d3", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.aboba-dhc-nad-ipv4.xml"
+}

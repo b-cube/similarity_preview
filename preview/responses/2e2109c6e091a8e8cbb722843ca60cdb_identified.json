@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Issa, Iyad A</author>           <author>Eid, Ali</author>         </authors>       </contributors>       <titles>         <title>Listeria Meningitis After Infliximab in Ulcerative Colitis: Does the Risk of Treatment Outweigh the Benefit</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.8051</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>Listeria monocytogenes;</keyword>         <keyword>meningitis;</keyword>         <keyword>ulcerative colitis;</keyword>         <keyword>infliximab;</keyword>         <keyword>biologic agents.</keyword>       </keywords>       <dates>         <year>2013</year>         <pub-dates>           <date>2013-06-28</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Biologic agents have become important treatment options for the management of inflammatory bowel disease (IBD). With more than 10 years of experience behind us these agents have changed the natural history of the disease and have established themselves as a valid choice in the repertoire used in treating not only advanced patients but also newly diagnosed ones. We report two cases of ulcerative colitis who developed listeria meningitis after a single dose of infliximab therapy. We also examined the significance of the infection and the known details and morbidity about it. We assessed the close link between the use of biologics and the risk of serious infections in patients with IBD, as well as the published cases in the literature so far. Therefore, despite the excitement and hype surrounding their use we should not forget that these are agents that carry a substantial toll of side effects and this should be kept in mind when the choice of therapy is made.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2e2109c6e091a8e8cbb722843ca60cdb", 
+    "source_url": "https://zenodo.org/record/8051/export/xe"
+}

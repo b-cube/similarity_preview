@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr20101199</identifier><identifier type=\"pwpk\">98718</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2010-1199</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A westward extension of the tropical Pacific warm pool leads to March through June drying in Kenya and Ethiopia</title></titleInfo><originInfo><dateOther>Tue, 21 Sep 2010 00:00 -0500</dateOther><dateIssued>2010</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Williams, A. Park; Funk, Chris</namePart><role>Author</role></name><abstract>An estimated 14.3 million people are currently (July 2010) food insecure in Kenya and Ethiopia, and the U.S. government has spent more than $972 million on food aid in these two countries since 2009 (USAID, 2010). This insecurity stems from recent drought and rapid population growth that has outpaced agricultural development (Funk and others, 2008; Funk and Brown, 2009). Previous work by Funk and others (2005, 2008) and Verdin and others (2005) has linked drought conditions in Kenya and Ethiopia with warm sea surface temperatures (SSTs) in the Indian Ocean. Recent work has shown that Indian Ocean SSTs substantially affect rainfall in this region from March through June (Funk and others, 2008; Funk and Verdin, 2009). This season is known as the 'long rains' in Kenya and the 'Belg' rains in Ethiopia.&#xd; </abstract><physicalDescription><form>iii, 7 p. </form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/ofr_2010_1199.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/2010/1199/</url></location><note type=\"citation/reference\">A westward extension of the tropical Pacific warm pool leads to March through June drying in Kenya and Ethiopia; 2010; OFR; 2010-1199; Open-File Report; Williams, A. Park; Funk, Chris</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2717c9798fc99583bcfbc64d5d3269c1", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr20101199"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.11919</dc:identifier><dc:creator>Andrey Akinshin</dc:creator><dc:title>ProblemBook.NET: v-2014-Oct-01</dc:title><dc:subject>other-open</dc:subject><dc:description>&lt;p&gt;Free book with .NET/C# problems&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-09-30</dc:date><dc:source>http://zenodo.org/record/11919</dc:source><dc:doi>10.5281/zenodo.11919</dc:doi><dc:identifier>http://zenodo.org/record/11919</dc:identifier><dc:identifier>oai:zenodo.org:11919</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bce42f11901fb60eb81bd1bc0f5cca67", 
+    "source_url": "https://zenodo.org/record/11919/export/xd"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns:atom=\"http://www.w3.org/2005/Atom\"   xmlns=\"http://purl.org/rss/1.0/\" >  <channel rdf:about=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=COMPUTERSCIENCE-SUPPORTHEADS&amp;v=1.0\">  <dc:identifier>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=COMPUTERSCIENCE-SUPPORTHEADS&amp;v=1.0</dc:identifier>  <title>COMPUTERSCIENCE-SUPPORTHEADS List</title>  <link>https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=COMPUTERSCIENCE-SUPPORTHEADS</link>  <description>COMPUTERSCIENCE-SUPPORTHEADS List Archives</description>  <dc:date>2014-10-21T12:43:31Z</dc:date>  <image rdf:resource=\"http://www.lsoft.com/images/listserv_small.gif\"/>    <items>   <rdf:Seq>     <rdf:li resource=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=COMPUTERSCIENCE-SUPPORTHEADS;24274987.1410\"/>     </rdf:Seq>  </items>   </channel>  <image rdf:about=\"http://www.lsoft.com/images/listserv_small.gif\">     <title>Powered by L-Soft's LISTSERV mailing list manager</title>     <link>http://www.lsoft.com/products/listserv-powered.asp</link>     <url>http://www.lsoft.com/images/listserv_small.gif</url> </image>   <item rdf:about=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=COMPUTERSCIENCE-SUPPORTHEADS;24274987.1410\">   <title>Workplace Cyberbullying Research </title>   <link>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=COMPUTERSCIENCE-SUPPORTHEADS;24274987.1410</link>   <description> Hello,&lt;br&gt;&lt;br&gt;This may be of interest to some on the list.&lt;br&gt;&lt;br&gt;I'm a doctoral researcher at the University of Sheffield, investigating how negative behaviours received through technology affect employees. To understand the impact of negative technology perpetrated acts, I'm looking for employees to take a questionnaire involving questions on negative technological experiences, job satisfaction, health and work engagement. [...]   </description>   <dc:date>2014-10-21T14:24:55+01:00</dc:date>   <dc:creator>Sam Farley</dc:creator>   <dc:identifier>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=COMPUTERSCIENCE-SUPPORTHEADS;24274987.1410</dc:identifier> </item>   </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "558256048bb924d35169b17cc86fb0f4", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=COMPUTERSCIENCE-SUPPORTHEADS&v=1.0"
+}

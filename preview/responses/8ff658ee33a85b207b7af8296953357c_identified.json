@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0046\">   <front>     <title>DTCP</title>     <author initials=\"J.\" surname=\"Karneges\" fullname=\"Justin Karneges\">       <organization/>       <address>         <email>justin@affinix.com</email>       </address>     </author>     <date day=\"11\" month=\"April\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0046\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0046.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8ff658ee33a85b207b7af8296953357c", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0046.xml"
+}

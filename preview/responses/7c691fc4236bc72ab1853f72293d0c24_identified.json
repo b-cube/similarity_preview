@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Bradford2012 </Local-number>  <Author>Bradford, A. L. </Author>  <Title>PIFSC Cruise Report CR-12-001 (Cruise SE-11-08) </Title>  <Institution>NOAA PIFSC </Institution>  <Publication-Place>Honolulu, HI </Publication-Place>  <Publication-Date><caldate>2012 </caldate></Publication-Date>  <Extent>11 </Extent>  <Type-Period-Note>Vessel: NOAA ship Oscar Elton Sette; Mission Number SE-11-08; Cruise Period: 20 October - 18 November 2011; Area of Operation: Palmyra Atoll Exclusive Economic Zone (EEZ); Type of Operation: Conduct line-transect abundance surveys in the Palmyra Atoll EEZ in support of a Pacific Islands Fisheries Science Center research project to study cetaceans. </Type-Period-Note>  <Abstract>\"Missions: A) Cetacean line-transect survey; B) Photo-identification and biopsy sampling; C) Passive acoustic monitoring; and D) High-frequency Acoustic Recording Package (HARP) Deployment.\" </Abstract>  <Date-Time-Last-Modified>20140728000000 </Date-Time-Last-Modified>  <URL>http://www.pifsc.noaa.gov/library/pubs/cruise/Sette/CR1108-AB.pdf </URL>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7c691fc4236bc72ab1853f72293d0c24", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BA64FAE65-E9E9-4018-A71C-B45492CE4560%7D"
+}

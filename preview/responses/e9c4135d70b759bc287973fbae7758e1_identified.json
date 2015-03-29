@@ -1,0 +1,15 @@
+{
+    "content": "<!-- Illustration of a Denial of Serivce Attack - Infinite loop in retrieval method 2 ================================================================================  Very similar to dos_retrieval_loop1.xml except that there are two retrieval method elements calling each other.  HMAC password = sample --> <ns0:e0 xmlns:ns0=\"http://www.w3.org/ns0\">  <ns0:e1 xml:id=\"e1\">   </ns0:e1>     <dsig:Signature xmlns:dsig=\"http://www.w3.org/2000/09/xmldsig#\">   <dsig:SignedInfo>    <dsig:CanonicalizationMethod Algorithm=\"http://www.w3.org/2001/10/xml-exc-c14n#\"/>    <dsig:SignatureMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#hmac-sha1\"/>    <dsig:Reference URI=\"#e1\">     <dsig:DigestMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#sha1\"/>     <dsig:DigestValue>WEhA2IFCfmddBl7PG5k82cVKw+Q=</dsig:DigestValue>    </dsig:Reference>   </dsig:SignedInfo>   <dsig:SignatureValue>ZMN43U7EV7mWIUOPp/CWTv9xXOg=</dsig:SignatureValue>   <dsig:KeyInfo>    <dsig:RetrievalMethod xml:id=\"r1\" URI=\"#r2\"/>    <dsig:RetrievalMethod xml:id=\"r2\" URI=\"#r1\"/>   </dsig:KeyInfo>  </dsig:Signature> </ns0:e0> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e9c4135d70b759bc287973fbae7758e1", 
+    "source_url": "http://www.w3.org/TR/2012/NOTE-xmldsig-bestpractices-20120710/samples/dos_retrieval_loop2.xml"
+}

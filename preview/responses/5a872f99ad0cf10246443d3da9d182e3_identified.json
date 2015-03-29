@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <its:rules xmlns:its=\"http://www.w3.org/2005/11/its\" version=\"1.0\">  <its:translateRule selector=\"//code\" translate=\"no\"/>  <its:translateRule selector=\"//*/@title\" translate=\"yes\"/> </its:rules><!-- timestamp $Id: Translate2_LinkedRules.xml,v 1.3 2007/02/02 16:55:05 srahtz3 Exp $ -->", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5a872f99ad0cf10246443d3da9d182e3", 
+    "source_url": "http://www.w3.org/International/its/tests/inputdata/Translate2_LinkedRules.xml"
+}

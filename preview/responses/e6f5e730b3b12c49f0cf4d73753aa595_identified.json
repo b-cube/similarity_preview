@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding=\"ISO-8859-1\" ?> <schema    targetNamespace=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ms=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ogc=\"http://www.opengis.net/ogc\"    xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"    xmlns=\"http://www.w3.org/2001/XMLSchema\"    xmlns:gml=\"http://www.opengis.net/gml\"    elementFormDefault=\"qualified\" version=\"0.1\" >    <import namespace=\"http://www.opengis.net/gml\"           schemaLocation=\"http://schemas.opengis.net/gml/3.1.1/base/gml.xsd\" />    <element name=\"agdb\"             type=\"ms:agdbType\"             substitutionGroup=\"gml:_Feature\" />    <complexType name=\"agdbType\">     <complexContent>       <extension base=\"gml:AbstractFeatureType\">         <sequence>           <element name=\"geometry\" type=\"gml:PointPropertyType\" minOccurs=\"0\" maxOccurs=\"1\"/>           <element name=\"lab_id\" type=\"string\"/>           <element name=\"media\" type=\"string\"/>           <element name=\"fips\" type=\"string\"/>           <element name=\"huc\" type=\"string\"/>           <element name=\"quad\" type=\"string\"/>           <element name=\"url\" type=\"string\"/>         </sequence>       </extension>     </complexContent>   </complexType>  </schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e6f5e730b3b12c49f0cf4d73753aa595", 
+    "source_url": "http://mrdata.usgs.gov/wfs/agdb2?request=describefeaturetype&service=WFS&version=1.1.0&typename=agdb"
+}

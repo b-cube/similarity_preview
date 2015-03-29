@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0009'>  <front> <title>Host Software</title> <author initials='G.' surname='Deloche' fullname='G. Deloche'> <organization /></author> <date year='1969' month='May' /></front>  <seriesInfo name='RFC' value='9' /> <format type='PDF' octets='722638' target='http://www.rfc-editor.org/rfc/rfc9.pdf' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "85a744a6dd0571b21ea9f6f970251ffc", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0009.xml"
+}

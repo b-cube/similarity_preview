@@ -1,0 +1,15 @@
+{
+    "content": "<mws:getFileUrlsResponse xmlns:mws=\"http://modapsws.gsfc.nasa.gov/xsd\"><return>ftp://ladsweb.nascom.nasa.gov/allData/5/MOD021KM/2008/297/MOD021KM.A2008297.0140.005.2010252060312.hdf</return><return>ftp://ladsweb.nascom.nasa.gov/allData/5/MOD021KM/2008/297/MOD021KM.A2008297.0315.005.2010252045119.hdf</return></mws:getFileUrlsResponse>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ad1b9c841b7a590d1ac8ec57f6084f73", 
+    "source_url": "http://modwebsrv.modaps.eosdis.nasa.gov/axis2/services/MODAPSservices/getFileUrls?fileIds=204846513,204718831"
+}

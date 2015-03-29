@@ -1,0 +1,15 @@
+{
+    "content": "<msgList xmlns:its=\"http://www.w3.org/2005/11/its\"  xml:space=\"preserve\" its:version=\"1.0\">  <data name=\"LISTFILTERS_VARIANT\"   its:locNote=\"Keep the leading space!\" its:locNoteType=\"alert\">   <value> Variant {0} = {1} ({2})</value>  </data>  <data its:locNote=\"%1\\\\$s is the original text's date in the format YYYY-MM-DD HH:MM always in GMT\">   <value>Translated from English content dated <span id=\"version-info\">%1\\\\$s</span> GMT.</value>  </data> </msgList><!-- timestamp $Id: EX-locNote-selector-2.xml,v 1.3 2007/02/02 16:55:05 srahtz3 Exp $ --> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3c0d26ea1208805f5f548855c2c9a138", 
+    "source_url": "http://www.w3.org/International/its/tests/inputdata/EX-locNote-selector-2.xml"
+}

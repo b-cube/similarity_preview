@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.8404</dc:identifier><dc:creator>Khan, Amin M.</dc:creator><dc:creator>B\\ufffd\\ufffdy\\ufffd\\ufffdk\\ufffd\\ufffdahin,  \\ufffd\\ufffdmit C. </dc:creator><dc:creator>Freitag, Felix</dc:creator><dc:title>Prototyping Incentive-based Resource Assignment for Clouds in Community Networks</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Wireless community networks are a successful example of a collective where communities operate ICT infrastructure and provide IP connectivity based on the principle of reciprocal resource sharing of network bandwidth. This sharing, however, has not extended to computing and storage resources, resulting in very few applications and services which are currently deployed within community networks. Cloud computing, as in today&amp;#39;s Internet, has made it common to consume resources provided by public clouds providers, but such cloud infrastructures have not materialized within community networks. We analyse in this paper socio-technical characteristics of community networks in order to derive scenarios for community clouds. Based on an architecture for such a community cloud, we implement a prototype for the incentive-driven resource assignment component, deploy it in a testbed of community network nodes, and evaluate its behaviour experimentally. Our evaluation gives insight into how the deployed prototype components regulate the consumption of cloud resources taking into account the users&amp;#39; contributions, and how this regulation affects the system usage. Our results suggest a further integration of this regulation component into current cloud management platforms in order to open them up for the operation of an ecosystem of community cloud.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-05-13</dc:date><dc:source>http://zenodo.org/record/8404</dc:source><dc:doi>10.5281/zenodo.8404</dc:doi><dc:identifier>http://zenodo.org/record/8404</dc:identifier><dc:identifier>oai:zenodo.org:8404</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "49cb9e01edaf46cd5df9bf4bfd78db3a", 
+    "source_url": "https://zenodo.org/record/8404/export/xd"
+}

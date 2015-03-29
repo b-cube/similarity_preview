@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>AERI 2012 Digital Curation Pre-Conference</title> <creator>Alex H. Poole</creator> <creator>Christopher A. Lee</creator> <creator>Angela P. Murillo</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">September/October 2012</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/september2012-poole</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/september12/poole/09poole.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>18</volume> <issue>9/10</issue> </relation> <rights>Copyright 2012 Alex H. Poole, Christopher A. Lee, Angela P. Murillo</rights> </dlib-meta0.1>   ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "adee423e031a9d603a8f7741bacb5c6e", 
+    "source_url": "http://www.dlib.org/dlib/september12/poole/09poole.meta.xml"
+}

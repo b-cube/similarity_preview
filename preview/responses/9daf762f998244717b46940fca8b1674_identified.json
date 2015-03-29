@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Institute of Biological Engineering</ShortName>   <Description>The Institute of Biological Engineering (IBE) was established to encourage inquiry and interest in biological engineering in the broadest and most liberal manner and promote the professional development of its members.</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.ibe.org/templates/yoo_scoop_1.5.0/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.ibe.org/component/search/?format=opensearch\"/>   <Url type=\"text/html\" template=\"http://www.ibe.org/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9daf762f998244717b46940fca8b1674", 
+    "source_url": "http://www.ibe.org/component/search/?format=opensearch"
+}

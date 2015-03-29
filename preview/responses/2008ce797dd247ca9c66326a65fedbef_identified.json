@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Kenyon2008a </Local-number>  <Author>Kenyon, JC </Author>  <Title>Acropora (Anthozoa: Scleractinia) reproductive synchrony and spawning phenology in the northern Line Islands, Central Pacific, as inferred from size classes of developing oocytes </Title>  <Journal-Title>Pacific Science </Journal-Title>  <Publication-Date><caldate>2008 </caldate></Publication-Date>  <Volume-ID>62 </Volume-ID>  <Issue-ID>4 </Issue-ID>  <Extent>569-578 </Extent>  <Notes>FY2007 CRCP Project ID 1221; Project Title: Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls; Principal Investigator: Rusty Brainard </Notes>  <Abstract>\"Little is known of the timing of reproduction in central Pacific coral populations near the equator. Oocyte pigmentation and size comparison with sizes of mature eggs reported in published literature were used to infer intra-and interspecific synchrony and probable spawning phenology in 15 species of Acropora from Palmyra and Kingman atolls in the northern Line Islands. Sampling at both atolls took place in MarchApril 2002 and 2004. Oocyte sizes were determined from microdissections of fixed, decalcified samples. The majority (91.2%) of samples (n = 209) were gravid, with high levels of fertility in most (84.3%) samples. Statistically discrete oocyte size classes could be distinguished in most taxa at each atoll in each year. These discrete oocyte size classes suggest that several episodes of spawning, involving multiple species, take place over 2 or 3 months beginning in early spring. These data, which are the first observations of coral reproductive synchrony in the Line Islands, support the results of other recent studies, suggesting that reproductive synchrony can be a feature of equatorial reef assemblages where the annual ranges of sea-surface temperature and tidal amplitude are small.\" </Abstract>  <DOI>10.2984/1534-6188(2008)62[569:AASRSA]2.0.CO;2 </DOI>  <DOI-URL>http://dx.doi.org/10.2984/1534-6188(2008)62[569:AASRSA]2.0.CO;2 </DOI-URL>  <Date-Time-Last-Modified>20091019000000 </Date-Time-Last-Modified>  <project>  <ID>1221 </ID>  <title>Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls </title>  <PI>Rusty Brainard </PI>  </project>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <CoRIS-Record-Type>article </CoRIS-Record-Type>  <Local-subject-index>article </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2008ce797dd247ca9c66326a65fedbef", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BA22AB85F-D6D4-4963-AFB4-5B9DD7AC88B5%7D"
+}

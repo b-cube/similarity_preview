@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/HDF-EOS5/Aura_OMI_Level3/OMLER.003\"                     ID=\"/opendap/hyrax/HDF-EOS5/Aura_OMI_Level3/OMLER.003/\">             <thredds:dataset name=\"OMI-Aura_L3-OMLER_2005m01-2009m12_v003-2010m0503t063707.he5\"                        ID=\"/opendap/hyrax/HDF-EOS5/Aura_OMI_Level3/OMLER.003/OMI-Aura_L3-OMLER_2005m01-2009m12_v003-2010m0503t063707.he5\">          <thredds:dataSize units=\"bytes\">313425580</thredds:dataSize>          <thredds:date type=\"modified\">2010-12-09T14:21:07</thredds:date>          <thredds:access serviceName=\"dap\"                          urlPath=\"/HDF-EOS5/Aura_OMI_Level3/OMLER.003/OMI-Aura_L3-OMLER_2005m01-2009m12_v003-2010m0503t063707.he5\"/>          <thredds:access serviceName=\"file\"                          urlPath=\"/HDF-EOS5/Aura_OMI_Level3/OMLER.003/OMI-Aura_L3-OMLER_2005m01-2009m12_v003-2010m0503t063707.he5\"/>       </thredds:dataset>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "806ba9920f9924b1da73ed2dda62a694", 
+    "source_url": "http://acdisc.gsfc.nasa.gov/opendap/HDF-EOS5/Aura_OMI_Level3/OMLER.003/catalog.xml"
+}

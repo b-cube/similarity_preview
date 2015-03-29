@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20083054</identifier><identifier type=\"pwpk\">85834</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2008-3054</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Declassified Intelligence Satellite Photographs</title></titleInfo><originInfo><dateOther>Sat, 12 Jul 2008 00:00 -0500</dateOther><dateIssued>2008</dateIssued><publisher>Geological Survey (U.S.)</publisher></originInfo><name><namePart>U.S. Geological Survey</namePart><role>Author</role></name><abstract>Declassified photographs from U.S. intelligence satellites provide an important worldwide addition to the public record of the Earth's land surface. This imagery was released to the National Archives and Records Administration (NARA) and the U.S. Geological Survey (USGS) in accordance with Executive Order 12951 on February 23, 1995. The NARA has the original declassified film and a viewing copy. The USGS has another copy of the film to complement the Landsat archive.&#xd; &#xd; The declassified collection involves more than 990,000 photographs taken from 1959 through 1980 and was released on two separate occasions: February 1995 (Declass 1) and September 2002 (Declass 2). The USGS copy is maintained by the Earth Resources Observation and Science (EROS) Center, near Sioux Falls, South Dakota. Both the NARA and EROS provide public access to this unique collection that extends the record of land-surface change back another decade from the advent of the Landsat program that began satellite operations in 1972.</abstract><physicalDescription><form>2 p.</form><form>Geological Survey (U.S.)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2008_3054.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2008/3054/</url></location><note type=\"citation/reference\">Declassified Intelligence Satellite Photographs; 2008; FS; 2008-3054; Fact Sheet; U.S. Geological Survey</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2fb41657c4b4c73a093ed09c428e1da1", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20083054"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/15367\"> <title>Cylchlythyr / Newsletter</title> <link>http://hdl.handle.net/2160/15367</link> <description>Cylchlythyr y Gadwrfa Mynediad Agored / OA Repository Newsletter</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/27253\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/27252\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/26925\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/26924\"/> </rdf:Seq> </items> <dc:date>2015-03-19T09:07:00Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/27253\"> <title>OA Repository Newsletter \\ufffd\\ufffd February 2015</title> <link>http://hdl.handle.net/2160/27253</link> <description>OA Repository Newsletter \\ufffd\\ufffd February 2015 Institutional Repository &amp; Metadata Team </description> <dc:date>2015-02-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/27252\"> <title>Cylchlythyr y Gadwrfa Mynediad Agored \\ufffd\\ufffd  Chwefror 2015</title> <link>http://hdl.handle.net/2160/27252</link> <description>Cylchlythyr y Gadwrfa Mynediad Agored \\ufffd\\ufffd  Chwefror 2015 Institutional Repository &amp; Metadata Team </description> <dc:date>2015-02-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/26925\"> <title>Cylchlythyr y Gadwrfa Mynediad Agored \\ufffd\\ufffd Ionawr 2015</title> <link>http://hdl.handle.net/2160/26925</link> <description>Cylchlythyr y Gadwrfa Mynediad Agored \\ufffd\\ufffd Ionawr 2015 Institutional Repository &amp; Metadata Team </description> <dc:date>2015-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/26924\"> <title>OA Repository Newsletter \\ufffd\\ufffd January 2015</title> <link>http://hdl.handle.net/2160/26924</link> <description>OA Repository Newsletter \\ufffd\\ufffd January 2015 Institutional Repository &amp; Metadata Team </description> <dc:date>2015-01-01T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f0ae03d5a6547d2fce01c7b789617a50", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/15367"
+}

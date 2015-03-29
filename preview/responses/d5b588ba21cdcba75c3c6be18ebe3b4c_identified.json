@@ -1,0 +1,15 @@
+{
+    "content": "<wcs:GetCoverage version=\"1.0.0\" service=\"WCS\"                 xmlns:gml=\"http://www.opengis.net/gml\" xmlns:wcs=\"http://www.opengis.net/wcs\">                        <wcs:sourceCoverage>EV_500_Aggr1km_RefSB:Day</wcs:sourceCoverage>              <wcs:domainSubset>                 <wcs:spatialSubset>                                        <gml:Envelope srsName=\"WGS84(DD)\">                         <!-- lon_min lat_min-->                         <gml:pos>-80 35</gml:pos>                          <!-- lon_max lat_max elev_max -->                         <gml:pos>-75 40</gml:pos>                                          </gml:Envelope>                 </wcs:spatialSubset>                 <wcs:temporalSubset>                                        <gml:timePosition>2010-10-21T00:00:00</gml:timePosition>                 </wcs:temporalSubset>             </wcs:domainSubset>             <rangeSubset>     <axisSubset name=\"Band_500M\">      <interval>       <min>4</min>       <max>4</max>       <res>1</res>    </interval>   </axisSubset>   </rangeSubset>             <wcs:output>                 <wcs:format>geotiff</wcs:format>             </wcs:output>         </wcs:GetCoverage>  ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0.0", 
+        "protocol": "OGC:WCS", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d5b588ba21cdcba75c3c6be18ebe3b4c", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/data/wcs_getcoverage_request.xml"
+}

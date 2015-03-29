@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc = \"http://purl.org/dc/elements/1.1/\">  <rdf:Description rdf:about=\"http://dublincore.org/documents/dcmi-namespace/\">  <dc:title>Namespace Policy for the Dublin Core Metadata Initiative (DCMI)</dc:title>  <dc:description>This document is most recent version of the Dublin Core Metadata  Namespace Policy</dc:description> <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>  </rdf:Description> </rdf:RDF>  ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3b7ba7b4e5095bc9ca48afd88002c674", 
+    "source_url": "http://dublincore.org/documents/dcmi-namespace/index.shtml.rdf"
+}

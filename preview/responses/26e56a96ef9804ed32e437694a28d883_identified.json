@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../EW0205rep.htm\"/>  <o:File HRef=\"image001.wmz\"/>  <o:File HRef=\"image002.gif\"/>  <o:File HRef=\"oledata.mso\"/>  <o:File HRef=\"image003.png\"/>  <o:File HRef=\"image004.jpg\"/>  <o:File HRef=\"image005.png\"/>  <o:File HRef=\"image006.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "26e56a96ef9804ed32e437694a28d883", 
+    "source_url": "http://www.pmel.noaa.gov/foci/operations/instructions/2002/ew02-05/EW0205rep_files/filelist.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Office of the President</title> <link href=\"http://hdl.handle.net/1853/10892\" rel=\"alternate\"/> <subtitle>Speeches, publications, and documents from the Office of the President of the Georgia Institute of Technology.</subtitle> <id>http://hdl.handle.net/1853/10892</id> <updated>2015-03-12T19:37:13Z</updated> <dc:date>2015-03-12T19:37:13Z</dc:date> <entry> <title>President's Update Spring 2014</title> <link href=\"http://hdl.handle.net/1853/52742\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52742</id> <updated>2014-10-28T07:31:53Z</updated> <published>2014-01-01T00:00:00Z</published> <summary type=\"text\">President's Update Spring 2014 </summary> <dc:date>2014-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Georgia Institute of Technology Annual Report, 2013</title> <link href=\"http://hdl.handle.net/1853/52709\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52709</id> <updated>2014-10-28T07:31:34Z</updated> <published>2013-01-01T00:00:00Z</published> <summary type=\"text\">Georgia Institute of Technology Annual Report, 2013 </summary> <dc:date>2013-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Georgia Institute of Technology Annual Report, 2014</title> <link href=\"http://hdl.handle.net/1853/52708\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/52708</id> <updated>2014-10-28T07:31:33Z</updated> <published>2014-01-01T00:00:00Z</published> <summary type=\"text\">Georgia Institute of Technology Annual Report, 2014 </summary> <dc:date>2014-01-01T00:00:00Z</dc:date> </entry> <entry> <title>Letters and Bulletins: An Update on Georgia Tech Savannah</title> <link href=\"http://hdl.handle.net/1853/51247\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/51247</id> <updated>2014-02-22T08:32:00Z</updated> <published>2011-04-07T00:00:00Z</published> <summary type=\"text\">Letters and Bulletins: An Update on Georgia Tech Savannah </summary> <dc:date>2011-04-07T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "270e93ff454e749fb36c433db8aa5051", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/10892"
+}

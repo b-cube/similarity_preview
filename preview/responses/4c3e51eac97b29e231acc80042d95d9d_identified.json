@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.brayley-pwe3-atm-service\"> <front> <title>PWE3: ATM service description</title>  <author initials=\"J\" surname=\"Brayley\" fullname=\"Jeremy Brayley\">     <organization /> </author>  <date month=\"November\" day=\"2\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-brayley-pwe3-atm-service-01\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4c3e51eac97b29e231acc80042d95d9d", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.brayley-pwe3-atm-service.xml"
+}

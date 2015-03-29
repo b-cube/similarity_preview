@@ -1,0 +1,15 @@
+{
+    "content": "<xsl:stylesheet xmlns:xsl=\"http://www.w3.org/1999/XSL/Transform\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" version=\"1.0\"> <xsl:output method=\"html\"/> <xsl:template match=\"rss/channel\">   <div class=\"rssdoctitle\">     <a href=\"{link}\"><b><font size=\"+2\"><xsl:value-of select=\"title\"/></font></b></a> <br/>     <xsl:value-of select=\"description\" disable-output-escaping=\"yes\"/> <br/>     <xsl:if test=\"lastBuildDate\">       <font size=\"-1\">Last Updated: <xsl:value-of select=\"lastBuildDate\"/></font> <br/>     </xsl:if>     <xsl:if test=\"dc:date\">       <xsl:value-of select=\"dc:date\"/> <br/>     </xsl:if>     <xsl:if test=\"updated\">       Updated: <xsl:value-of select=\"updated\"/> <br/>     </xsl:if>   </div> <hr/>   <div class=\"rssitems\">   <xsl:for-each select=\"item\">     <b><u><xsl:value-of select=\"title\"/></u></b> <br/>     <xsl:value-of select=\"description\" disable-output-escaping=\"yes\"/> <br/>     <xsl:if test=\"dc:creator\">       By: <xsl:value-of select=\"dc:creator\"/> <br/>     </xsl:if>     <xsl:if test=\"pubDate\">       <div class=\"rsspubdate\"> <font size=\"-1\"><xsl:value-of select=\"pubDate\"/></font> </div> <br/>     </xsl:if>     <xsl:if test=\"dc:date\">       <div class=\"rsspubdate\">Posted: <xsl:value-of select=\"dc:date\"/> </div> <br/>     </xsl:if>     <xsl:if test=\"updated\">       Updated: <xsl:value-of select=\"updated\"/> <br/>     </xsl:if>   </xsl:for-each>   </div> </xsl:template> </xsl:stylesheet>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d1e57a651969865957ce5ed0d1aa3ce5", 
+    "source_url": "https://dcs4.noaa.gov/op_notices/rss.xml"
+}

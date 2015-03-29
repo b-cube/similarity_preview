@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <ShortName>Open Data Stack Exchange</ShortName>   <Description>Search Open Data Stack Exchange: Q&amp;A for developers and researchers interested in open data</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">//sstatic.net/beta/img/favicon.ico</Image>   <Url type=\"text/html\" method=\"get\" template=\"http://opendata.stackexchange.com/search?q={searchTerms}\"></Url> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "162f346bf1d9da20a551378b7f8598db", 
+    "source_url": "http://opendata.stackexchange.com/opensearch.xml"
+}

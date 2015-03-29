@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../Jan15rain.htm\"/>  <o:File HRef=\"stylesheet.css\"/>  <o:File HRef=\"tabstrip.htm\"/>  <o:File HRef=\"sheet001.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dd228996b15c7386abf36d933fe6897a", 
+    "source_url": "http://www.mesonet.ttu.edu/Jan15rain_files/filelist.xml"
+}

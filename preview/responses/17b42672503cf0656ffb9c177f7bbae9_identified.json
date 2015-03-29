@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <enunciate label=\"ifyouwannabecool\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:noNamespaceSchemaLocation=\"http://enunciate.codehaus.org/schemas/enunciate-1.29.xsd\">   <deployment host=\"www.ifyouwannabecool.com\" context=\"api\"/>   <namespaces>     <namespace id=\"api\" uri=\"http://api.ifyouwannabecool.com/\"/>     <namespace id=\"link\" uri=\"http://api.ifyouwannabecool.com/link\"/>     <namespace id=\"persona\" uri=\"http://api.ifyouwannabecool.com/persona\"/>   </namespaces>   <modules>     <docs splashPackage=\"com.ifyouwannabecool.api\" title=\"If You Wanna Be Cool API\" copyright=\"IfYouWannaBeCool.com\">       <download name=\"License\" file=\"LICENSE.txt\" description=\"The license file governing the use of this API.\"/>     </docs>   </modules> </enunciate> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "17b42672503cf0656ffb9c177f7bbae9", 
+    "source_url": "http://enunciate.codehaus.org/wannabecool/java_step4/enunciate.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">pp1579</identifier><identifier type=\"pwpk\">25014</identifier><identifier type=\"series\">Professional Paper</identifier><identifier type=\"seriesNumber\">1579</identifier><identifier type=\"seriesCode\">PP</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Early Paleozoic biochronology of the Great Basin, western United States</title></titleInfo><originInfo><dateOther>Sat, 1 Nov 1997 00:00 -0600</dateOther><dateIssued>1997</dateIssued><publisher>U.S. G.P.O.,</publisher></originInfo><name><namePart>Taylor, Michael E., (Edited By)</namePart><role>Author</role></name><physicalDescription><form>115 p.; 1 plate in pocket</form><form>U.S. G.P.O.,</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/pp_1579.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/pp/p1579/p1579.html</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://ngmdb.usgs.gov/Prodesc/proddesc_13150.htm</url></location><note type=\"citation/reference\">Early Paleozoic biochronology of the Great Basin, western United States; 1997; PP; 1579; Professional Paper; Taylor, Michael E., (Edited By)</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Professional Paper</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b1513f8cb3c61cf6612120d245df739b", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=pp1579"
+}

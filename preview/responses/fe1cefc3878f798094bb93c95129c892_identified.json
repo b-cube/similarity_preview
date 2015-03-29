@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Georgia Tech Department of Housing</title> <link href=\"http://hdl.handle.net/1853/12811\" rel=\"alternate\"/> <subtitle>The Department of Housing offers quality, safe, well-maintained residential facilities.</subtitle> <id>http://hdl.handle.net/1853/12811</id> <updated>2015-03-15T23:16:02Z</updated> <dc:date>2015-03-15T23:16:02Z</dc:date> <entry> <title>Residence Hall Association Newsletter [Volume 1, Issue 4]</title> <link href=\"http://hdl.handle.net/1853/45464\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/45464</id> <updated>2012-12-01T08:33:02Z</updated> <published>2012-01-31T00:00:00Z</published> <summary type=\"text\">Residence Hall Association Newsletter [Volume 1, Issue 4] </summary> <dc:date>2012-01-31T00:00:00Z</dc:date> </entry> <entry> <title>Residence Hall Association Newsletter [Volume 1, Issue 3]</title> <link href=\"http://hdl.handle.net/1853/45463\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/45463</id> <updated>2012-12-01T08:33:02Z</updated> <published>2011-12-16T00:00:00Z</published> <summary type=\"text\">Residence Hall Association Newsletter [Volume 1, Issue 3] </summary> <dc:date>2011-12-16T00:00:00Z</dc:date> </entry> <entry> <title>Residence Hall Association Newsletter [Volume 1, Issue 2]</title> <link href=\"http://hdl.handle.net/1853/45462\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/45462</id> <updated>2012-12-01T08:33:00Z</updated> <published>2011-11-18T00:00:00Z</published> <summary type=\"text\">Residence Hall Association Newsletter [Volume 1, Issue 2] </summary> <dc:date>2011-11-18T00:00:00Z</dc:date> </entry> <entry> <title>Residence Hall Association Newsletter [Volume 1, Issue 1]</title> <link href=\"http://hdl.handle.net/1853/45461\" rel=\"alternate\"/> <author> <name/> </author> <id>http://hdl.handle.net/1853/45461</id> <updated>2012-12-01T08:32:59Z</updated> <published>2011-10-14T00:00:00Z</published> <summary type=\"text\">Residence Hall Association Newsletter [Volume 1, Issue 1] </summary> <dc:date>2011-10-14T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fe1cefc3878f798094bb93c95129c892", 
+    "source_url": "https://smartech.gatech.edu/feed/atom_1.0/1853/12811"
+}

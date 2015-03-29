@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <event_data eventid=\"11530933\" source=\"us\" network=\"ak\" region=\"ak\" process_timestamp=\"2015-03-18 06:45:42\" ciim_version=\"2\" code_version=\"1.3\" event_version=\"1\">   <event magnitude=\"2.5\" latitude=\"61.3524\" longitude=\"-152.1645\" depth=\"111.4\" event_timestamp=\"2015-03-18 06:18:27\" localtime=\"Mar 17 2015 10:18:27 PM local\" locationtext=\"SOUTHERN ALASKA\" />   <cdi_summary nresponses=\"0\" max_intensity=\"1\" citydb=\"city_2009\" />   <products>     <category name=\"Maps\">       <product name=\"City map\">         <description><![CDATA[Map of responses by city or ZIP code]]></description>         <format type=\"image/jpeg\" file=\"ak11530933_ciim.jpg\" />         <format type=\"application/pdf\" file=\"ak11530933_ciim.pdf\" />         <format type=\"application/postscript\" file=\"ak11530933_ciim.ps\" />         <format type=\"text/html\" file=\"ak11530933_ciim_imap.html\" />       </product>     </category>     <category name=\"Plots\"></category>     <category name=\"Data\">       <product name=\"Product List\">         <description><![CDATA[Available DYFI maps and products for this event]]></description>         <format type=\"text/xml\" file=\"event_data.xml\" />       </product>     </category>   </products> </event_data> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ce23e65b8acea04e9149cc3a2d992fac", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/ak/11530933/us/event_data.xml"
+}

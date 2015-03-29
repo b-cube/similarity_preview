@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <licenses><license id=\"pic_cc_zero\">PIC CC ZERO Waiver</license><license id=\"pic_cc_by\">PIC CC BY License</license></licenses>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0ccf78fac0722656bc3a4885fa9e2095", 
+    "source_url": "http://nsidc.org/api/picbadge/licenses/"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <capabilities version=\"0.2\"> <termsOfUse>See http://gcmd.nasa.gov/r/l/TermsOfUse</termsOfUse><urls for=\"\"> <a name=\"get_concept_fullpaths\" href=\"concept_fullpaths/concept_uuid/{conceptId}\" params=\"version=\" action=\"GET\"/> <a name=\"get_concept\" href=\"concept/{conceptId}[.{format}]\" params=\"format=[rdf|xml|]&amp;version=\" action=\"GET, PUT, DELETE\" cache=\"/static/kms/concept/\"/> <a name=\"get_concept_schemes\" href=\"concept_schemes\" params=\"version=\" action=\"GET\"/> <a name=\"get_concepts_by_scheme\" href=\"concepts/concept_scheme/{conceptScheme}\" params=\"version=\" action=\"GET, POST\" cache=\"/static/kms/\"/> <a name=\"get_concepts_scheme_pattern\" href=\"concepts/concept_scheme/{conceptScheme}/pattern/{pattern}\" params=\"format=[rdf|xml]&amp;version=\" action=\"GET\"/> <a name=\"get_concepts_root\" href=\"concepts/root\" params=\"format=[rdf|xml]&amp;version=\" action=\"GET\"/> <a name=\"get_concept_versions\" href=\"concepts/pattern/{pattern}\" params=\"format=[rdf|xml]&amp;version=\" action=\"GET\"/> <a name=\"get_concept_versions\" href=\"concept_versions/version_type/{versionType}\" params=\"\" action=\"GET\"/> </urls> </capabilities>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0efb711042163113186c66112dd4d87f", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/kms/capabilities"
+}

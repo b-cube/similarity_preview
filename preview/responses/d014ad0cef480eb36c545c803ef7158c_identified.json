@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:socrata=\"http://www.socrata.com/rdf/terms#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:ods=\"http://open-data-standards.github.com/2012/01/open-data-standards#\" xmlns:dcterm=\"http://purl.org/dc/terms/\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dsbase=\"http://data.lacity.org/resource/\" xmlns:ds=\"http://data.lacity.org/resource/_75mm-gccg/\"> <dsbase:_75mm-gccg rdf:about=\"http://data.lacity.org/resource/_75mm-gccg/1\">     <socrata:rowID>1</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.lacity.org/resource/_75mm-gccg\"/>     <ds:number_of_grantees_by_type>273</ds:number_of_grantees_by_type>     <ds:total_number_of_grantees_by_type_fy2014>257</ds:total_number_of_grantees_by_type_fy2014></dsbase:_75mm-gccg></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d014ad0cef480eb36c545c803ef7158c", 
+    "source_url": "https://data.lacity.org/api/views/75mm-gccg/rows.rdf?accessType=DOWNLOAD"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='3GPP.03.35'> <front> <title>Immediate Service Termination (IST); Stage 2</title> <author><organization>3GPP</organization></author> <date day='30' month='October' year='2001' /> </front>  <seriesInfo name='3GPP TS' value='03.35 7.0.1' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0335.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a17f7c729980fe50077cf334e435cbe1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.3GPP.03.35.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>de Haas, Hein</author>         </authors>       </contributors>       <titles>         <title>Migration and Development: A Theoretical Perspective</title>         <secondary-title/>       </titles>       <doi>10.1111/j.1747-7379.2009.00804.x</doi>       <pages>227\\ufffd\\ufffd\\ufffd264</pages>       <volume>44</volume>       <number/>       <keywords>         <keyword>Migration theory, development theory, agency-structure, social theory, neo-Marxism, developmentalism, transnationalism</keyword>       </keywords>       <dates>         <year>2010</year>         <pub-dates>           <date>2010-03-05</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;          &lt;p&gt;The debate on migration and development has swung back and forth like a pendulum, from developmentalist optimism in the 1950s and 1960s, to neo-Marxist pessimism over the 1970s and 1980s, towards more optimistic views in the 1990s and 2000s. This paper argues how such discursive shifts in the migration and development debate should be primarily seen as part of more general paradigm shifts in social and development theory. However, the classical opposition between pessimistic and optimistic views is challenged by empirical evidence pointing to the heterogeneity of migration impacts. By integrating and amending insights from the new economics of labor migration, livelihood perspectives in development studies and transnational perspectives in migration studies &amp;ndash; which share several though as yet unobserved conceptual parallels &amp;ndash; this paper elaborates the contours of a conceptual framework that simultaneously integrates agency and structure perspectives and is therefore able to account for the heterogeneous nature of migration-development interactions. The resulting perspective reveals the naivety of recent views celebrating migration as self-help development &amp;ldquo;from below&amp;rdquo;. These views are largely ideologically driven and shift the attention away from structural constraints and the vital role of states in shaping favorable conditions for positive development impacts of migration to occur.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2254417fee03c833fce1e3092bd44bf0", 
+    "source_url": "https://zenodo.org/record/10945/export/xe"
+}

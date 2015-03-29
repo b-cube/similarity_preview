@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Limiting Properties of Certain Geometric Flows in Complex Geometry</dc:title><dc:creator>Jacob, Adam Joshua</dc:creator><dc:date>2012</dc:date><dc:type>text</dc:type><dc:subject>Mathematics</dc:subject><dc:identifier>http://hdl.handle.net/10022/AC:P:13047</dc:identifier><dc:description>In this thesis, we study convergence results of certain non-linear geometric flows on vector bundles over complex manifolds. First we consider the case of a semi-stable vector bundle E over a compact Kahler manifold X of arbitrary dimension. We show that in this case Donaldson's functional is bounded from below. This allows us to construct an approximate Hermitian-Einstein structure on E along the Donaldson heat flow, generalizing a classic result of Kobayashi for projective manifolds to the Kahler case. Next we turn to general unstable bundles. We show that along a solution of the Yang-Mills flow, the trace of the curvature approaches in L2 an endomorphism with constant eigenvalues given by the slopes of the quotients from the Harder-Narasimhan filtration of E. This proves a sharp lower bound for the Hermitian-Yang-Mills functional and thus the Yang-Mills functional, generalizing to arbitrary dimension a formula of Atiyah and Bott first proven on Riemann surfaces. Furthermore, we show any reflexive extension to all of X of the limiting bundle is isomorphic to the double dual of the graded quotients from the Harder-Narasimhan-Seshadri filtration, verifying a conjecture of Bando and Siu. Our work on semi-stable bundles plays an important part of this result. For the final section of this thesis, we show that, in the case where X is an arbitrary Hermitian manifold equipped with a Gauduchon metric, given a stable Higgs bundle the Donaldson heat flow converges along a subsequence of times to a Hermitian-Einstein connection. This allows us to extend to the non-Kahler case the correspondence between stable Higgs bundles and (possibly) non-unitary Hermitian-Einstein connections first proven by Simpson on Kahler manifolds.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "28e84e51906f72482f15255bccde7ca6", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A146314.oai_dc_xml"
+}

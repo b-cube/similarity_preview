@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Sowiport</ShortName>   <Description>Library Catalog Search</Description>   <Image height=\"16\" width=\"16\" type=\"image/png\">http://sowiport.gesis.org/vufind-favicon.png</Image>   <Contact>technik@sowiport.de</Contact>   <Url type=\"text/html\" method=\"get\" template=\"http://sowiport.gesis.org/Search/Results?lookfor={searchTerms}&amp;page={startPage?}\"/>   <Url type=\"application/rss+xml\" method=\"get\" template=\"http://sowiport.gesis.org/Search/Results?lookfor={searchTerms}&amp;view=rss\"/>   <Url type=\"application/x-suggestions+json\" method=\"get\" template=\"http://sowiport.gesis.org/Search/Suggest?lookfor={searchTerms}&amp;format=JSON\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9c1cfbcdc5cfdfbf8589baedba0643ae", 
+    "source_url": "http://sowiport.gesis.org/Search/OpenSearch?method=describe"
+}

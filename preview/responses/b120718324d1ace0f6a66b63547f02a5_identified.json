@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Highly Migratory Species Landings Data</dc:title>    <dcterms:alternative>Hghly Migratory Species Landings Data</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>landings, commercial fisheries, Highly Migratory Species, recreational fisheries, tuna, shark</dc:subject>    <dcterms:abstract>The Highly Migratory Species (HMS) Management Division conducts a number of programs that collect fishery landings data for commercial and recreational fisheries.  Electronic dealer (edealer) reporting collects commercial landings of non-bluefin tuna HMS, which includes swordfish, BAYS tunas and sharks.  Recreational landings of Atlantic bluefin tuna are collected via self-reporting mechanisms including catch cards (MD, NC) and by phone/web reporting.  Recreational billfish landings are also reported via phone/web reporting.</dcterms:abstract>    <dc:publisher>NMFS Office Of Sustainable Fisheries</dc:publisher>    <dc:creator>NMFS Office Of Sustainable Fisheries</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/10866</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/3415</dcterms:isPartOf>    <dcterms:spatial>                         name=Northwest Atlantic Ocean, Gulf of Mexico, Caribbean Sea;                     </dcterms:spatial> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b120718324d1ace0f6a66b63547f02a5", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/10866/dublin-core"
+}

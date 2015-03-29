@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <esri:ArcGISExplorerDocument xmlns:esri='http://www.esri.com/schemas/ArcGIS/9.2' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema'> <E2Layers xsi:type=\"esri:ArrayOfE2Layer\">  <E2Layer xsi:type=\"esri:E2ServerLayer\">   <DisplayName>PassengerConnect_PassengerConnectAirports</DisplayName>   <Visible>true</Visible>   <LODTileFetch>true</LODTileFetch>   <HideFromContents>false</HideFromContents>   <Transparency>0</Transparency>   <ServerType>2</ServerType>   <GlobeLayerType>0</GlobeLayerType>   <Url>http://RITHQNWWS019/arcgis/services</Url>   <ServiceName>PassengerConnect/PassengerConnectAirports</ServiceName>   <SubServiceName>PassengerConnect_PassengerConnectAirports</SubServiceName>   <E2GlobeLayerProperties xsi:type=\"esri:E2ServerLayerProperties\">    <MinimumVisibleDistance>0</MinimumVisibleDistance>    <MaximumVisibleDistance>0</MaximumVisibleDistance>    <MinimumCellSize>1</MinimumCellSize>    <CacheName>ESRI_ServerLyrLocalGlobeCache_http___RITHQNWWS019_arcgis_services_Layers_PassengerConnect_PassengerConnectAirports</CacheName>    <CacheType>0</CacheType>    <CacheUpdateInterval>0</CacheUpdateInterval>   </E2GlobeLayerProperties>  </E2Layer> </E2Layers> </esri:ArcGISExplorerDocument> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e68f1f136911409b5574053d09a6b5ac", 
+    "source_url": "http://gis.rita.dot.gov/ArcGIS/rest/services/PassengerConnect/PassengerConnectAirports/MapServer?f=nmf"
+}

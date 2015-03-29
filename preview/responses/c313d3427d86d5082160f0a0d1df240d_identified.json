@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/23\"> <title>Department of Social Anthropology</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/23</link> <description>Department of Social Anthropology</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/246936\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/246904\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/246530\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/246528\"/> </rdf:Seq> </items> <dc:date>2015-03-12T02:54:25Z</dc:date> </channel> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/246936\"> <title>Interviews of Dilmaya Gurung of Nepal, by Alan Macfarlane</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/246936</link> <description>Interviews of Dilmaya Gurung of Nepal, by Alan Macfarlane Macfarlane, Alan A transcript of a set of interviews done in central Nepal by Alan Macfarlane in 1992. The subject, Dilmaya Gurung, died in 1995. Films of the interviews, and over 50 other films of Dilmaya at work can be seen on the Cambridge Streaming Media Service, searching for 'Dilmaya'. </description> <dc:date>2015-03-05T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/246904\"> <title>On Visual Technology, Media Archives and Anthropological Curiosity: An Interview of Alan Macfarlane</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/246904</link> <description>On Visual Technology, Media Archives and Anthropological Curiosity: An Interview of Alan Macfarlane Macfarlane, Alan; Snyder, Hunter </description> <dc:date>2014-01-01T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/246530\"> <title>Ballooning over Bagan</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/246530</link> <description>Ballooning over Bagan Macfarlane, Alan Filmed by Alan Macfarlane over Bagan, arranged by Ma Xiao </description> <dc:date>2015-01-05T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/246528\"> <title>The View from Afar</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/246528</link> <description>The View from Afar Macfarlane, Alan Reflections on the book 'Dorset Days' </description> <dc:date>2014-12-29T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c313d3427d86d5082160f0a0d1df240d", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/rss_1.0/1810/23"
+}

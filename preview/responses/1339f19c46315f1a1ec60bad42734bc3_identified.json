@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/EJ_Screening_Methods_Comparison_San_Joaquin_Valley/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/Navajo_Nation_Administrative_Boundaries/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9HomeViewBoundaries/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9HomeViewCadastral/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9HomeViewCensus/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9HomeViewClimateMeteorological/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9HomeViewEducation/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9HomeViewGeology/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9HomeViewMilitary/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9HomeViewNaturalResources/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9HomeViewWaterHydrology/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9NNAUMFederalLandStatus/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9NNAUMGeology/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9NNAUMRadiation/MapServer</loc> </url> <url> <loc>http://gispub10.epa.gov/arcgis/rest/services/Region9/R9NNAUMSampling/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1339f19c46315f1a1ec60bad42734bc3", 
+    "source_url": "http://gispub10.epa.gov/arcgis/rest/services/Region9?f=sitemap"
+}

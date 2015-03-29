@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?> <metadata> <idinfo> <citation> <citeinfo> <origin></origin> <pubdate></pubdate> <title></title> <pubinfo> <pubplace></pubplace> <publish></publish> </pubinfo> <onlink></onlink> </citeinfo> </citation> <descript> <abstract></abstract> <purpose></purpose> <supplinf></supplinf> </descript> <timeperd> <timeinfo> <rngdates> <begdate></begdate> <enddate></enddate> </rngdates> </timeinfo> <current></current> </timeperd> <status> <progress></progress> <update></update> </status> <spdom> <bounding> <westbc></westbc> <eastbc></eastbc> <northbc></northbc> <southbc></southbc> </bounding> </spdom> <keywords> <theme> <themekt></themekt> <themekey></themekey> <themekey></themekey> </theme> <place> <placekt></placekt> <placekey></placekey> </place> </keywords> <accconst></accconst> <useconst></useconst> </idinfo> <distinfo> <distrib> <cntinfo> <cntorgp> <cntorg></cntorg> </cntorgp> <cntaddr> <addrtype></addrtype> <address></address> <city></city> <state></state> <postal></postal> <country></country> </cntaddr> <cntvoice></cntvoice> </cntinfo> </distrib> <resdesc></resdesc> <distliab></distliab> </distinfo> <metainfo> <metd></metd> <metc> <cntinfo> <cntorgp> <cntorg></cntorg> </cntorgp> <cntaddr> <addrtype></addrtype> <address></address> <city></city> <state></state> <postal></postal> <country></country> </cntaddr> <cntvoice></cntvoice> </cntinfo> </metc> <metstdn></metstdn> <metstdv></metstdv> </metainfo> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "12fc3bfc1b4f39a14032e9da8e592d11", 
+    "source_url": "http://www.coris.noaa.gov/data/examples/bxmf_min_crcp_fields.xml"
+}

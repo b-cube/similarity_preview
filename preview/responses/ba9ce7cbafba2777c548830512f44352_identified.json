@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/TRMM_GV_L2/TRMM_2A56_KAMP/2001\"                     ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A56_KAMP/2001/\">             <thredds:catalogRef name=\"221\" xlink:href=\"221/catalog.xml\" xlink:title=\"221\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A56_KAMP/2001/221/\"/>             <thredds:catalogRef name=\"222\" xlink:href=\"222/catalog.xml\" xlink:title=\"222\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A56_KAMP/2001/222/\"/>             <thredds:catalogRef name=\"225\" xlink:href=\"225/catalog.xml\" xlink:title=\"225\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A56_KAMP/2001/225/\"/>             <thredds:catalogRef name=\"227\" xlink:href=\"227/catalog.xml\" xlink:title=\"227\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A56_KAMP/2001/227/\"/>             <thredds:catalogRef name=\"228\" xlink:href=\"228/catalog.xml\" xlink:title=\"228\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A56_KAMP/2001/228/\"/>             <thredds:catalogRef name=\"244\" xlink:href=\"244/catalog.xml\" xlink:title=\"244\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A56_KAMP/2001/244/\"/>             <thredds:catalogRef name=\"246\" xlink:href=\"246/catalog.xml\" xlink:title=\"246\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A56_KAMP/2001/246/\"/>             <thredds:catalogRef name=\"247\" xlink:href=\"247/catalog.xml\" xlink:title=\"247\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A56_KAMP/2001/247/\"/>             <thredds:catalogRef name=\"255\" xlink:href=\"255/catalog.xml\" xlink:title=\"255\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_GV_L2/TRMM_2A56_KAMP/2001/255/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "ba9ce7cbafba2777c548830512f44352", 
+    "source_url": "http://disc2.nascom.nasa.gov/opendap/TRMM_GV_L2/TRMM_2A56_KAMP/2001/catalog.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>Member will be live Search</ShortName><Description>Search Member will be live</Description><Url type=\"text/html\" method=\"get\" template=\"https://members.aas.org/services/aas_member/Home/AAS_Member/Default.aspx?hkey=5b47a994-8315-4fcf-bac4-6c05b8b8d000iMIS/ContentManagement/Search.aspx?SearchTerms={searchTerms}\"/><Image>https://members.aas.org/services/aas_member/Home/AAS_Member/Default.aspx?hkey=5b47a994-8315-4fcf-bac4-6c05b8b8d000favicon.ico</Image><InputEncoding>UTF-8</InputEncoding><SearchForm>https://members.aas.org/services/aas_member/Home/AAS_Member/Default.aspx?hkey=5b47a994-8315-4fcf-bac4-6c05b8b8d000</SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8c444d487c074a624cf277eb77b03dde", 
+    "source_url": "http://members.aas.org/services/OpenSearch.aspx"
+}

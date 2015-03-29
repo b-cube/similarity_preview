@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/System/CachingTools/GPServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/System/PublishingTools/GPServer</loc> </url> <url> <loc>http://gis.srh.noaa.gov/arcgis/rest/services/System/ReportingTools/GPServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aa3adfec1ae72fd7ffb99db092c2c812", 
+    "source_url": "http://gis.srh.noaa.gov/arcgis/rest/services/System?f=sitemap"
+}

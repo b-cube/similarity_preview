@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.8051</dc:identifier><dc:creator>Issa, Iyad A</dc:creator><dc:creator>Eid, Ali</dc:creator><dc:title>Listeria Meningitis After Infliximab in Ulcerative Colitis: Does the Risk of Treatment Outweigh the Benefit</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Biologic agents have become important treatment options for the management of inflammatory bowel disease (IBD). With more than 10 years of experience behind us these agents have changed the natural history of the disease and have established themselves as a valid choice in the repertoire used in treating not only advanced patients but also newly diagnosed ones. We report two cases of ulcerative colitis who developed listeria meningitis after a single dose of infliximab therapy. We also examined the significance of the infection and the known details and morbidity about it. We assessed the close link between the use of biologics and the risk of serious infections in patients with IBD, as well as the published cases in the literature so far. Therefore, despite the excitement and hype surrounding their use we should not forget that these are agents that carry a substantial toll of side effects and this should be kept in mind when the choice of therapy is made.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2013-06-28</dc:date><dc:source>http://zenodo.org/record/8051</dc:source><dc:doi>10.5281/zenodo.8051</dc:doi><dc:identifier>http://zenodo.org/record/8051</dc:identifier><dc:identifier>oai:zenodo.org:8051</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ff1d695844e387e3d4f02ec152d86233", 
+    "source_url": "http://zenodo.org/record/8051/export/xd"
+}

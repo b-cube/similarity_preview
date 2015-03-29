@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0426'>  <front> <title>Reconnection Protocol</title> <author initials='R.' surname='Thomas' fullname='R. Thomas'> <organization /></author> <date year='1973' month='January' /></front>  <seriesInfo name='RFC' value='426' /> <format type='TXT' octets='26548' target='http://www.rfc-editor.org/rfc/rfc426.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8c4c3c412311c0ea2f33308bba8760c1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0426.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"><ShortName>MSc in Computer Science at Oxford (en)</ShortName><Description>MSc in Computer Science at Oxford (en)</Description><Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://web.comlab.ox.ac.uk/favicon.ico</Image><Url type=\"text/html\" method=\"get\" template=\"http://web.comlab.ox.ac.uk/csatox2/index.php?title=Special:Search&amp;search={searchTerms}\" /><Url type=\"application/x-suggestions+json\" method=\"get\" template=\"http://web.comlab.ox.ac.uk/csatox2/api.php?action=opensearch&amp;search={searchTerms}&amp;namespace=0\" /><moz:SearchForm>http://web.comlab.ox.ac.uk/admissions/grad/Special:Search</moz:SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f8319d04a8f45b4d384795c08c233f1c", 
+    "source_url": "http://www.cs.ox.ac.uk/csatox2/opensearch_desc.php"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr20101101</identifier><identifier type=\"pwpk\">98395</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2010-1101</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A Method for Qualitative Mapping of Thick Oil Spills Using Imaging Spectroscopy </title></titleInfo><originInfo><dateOther>Tue, 18 May 2010 00:00 -0500</dateOther><dateIssued>2010</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Clark, Roger N.; Swayze, Gregg A.; Leifer, Ira; Livo, K. Erik; Lundeen, Sarah; Eastwood, Michael; Green, Robert O.; Kokaly, Raymond F.; Hoefen, Todd; Sarture, Charles; McCubbin, Ian; Roberts, Dar; Steele, Denis; Ryan, Thomas; Dominguez, Roseanne; Pearson, Neil; The Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) Team</namePart><role>Author</role></name><abstract>A method is described to create qualitative images of thick oil in oil spills on water using near-infrared imaging spectroscopy data. The method uses simple 'three-point-band depths' computed for each pixel in an imaging spectrometer image cube using the organic absorption features due to chemical bonds in aliphatic hydrocarbons at 1.2, 1.7, and 2.3 microns. The method is not quantitative because sub-pixel mixing and layering effects are not considered, which are necessary to make a quantitative volume estimate of oil.</abstract><physicalDescription><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/usgs_thumb.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/2010/1101/</url></location><note type=\"citation/reference\">A Method for Qualitative Mapping of Thick Oil Spills Using Imaging Spectroscopy ; 2010; OFR; 2010-1101; Open-File Report; Clark, Roger N.; Swayze, Gregg A.; Leifer, Ira; Livo, K. Erik; Lundeen, Sarah; Eastwood, Michael; Green, Robert O.; Kokaly, Raymond F.; Hoefen, Todd; Sarture, Charles; McCubbin, Ian; Roberts, Dar; Steele, Denis; Ryan, Thomas; Dominguez, Roseanne; Pearson, Neil; The Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) Team</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aa0162927c42a6046e24d8089d00c7bc", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr20101101"
+}

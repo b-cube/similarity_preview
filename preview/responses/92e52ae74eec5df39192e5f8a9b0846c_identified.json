@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Schimpf, Uwe</a1>   <a2>Nagel, Leila</a2>   <a2>Kiefhaber, Daniel</a2>   <a2>Rocholz, Roland</a2>   <a2>Balschbach, G\\ufffd\\ufffdnther</a2>   <a2>J\\ufffd\\ufffdhne, Bernd</a2>   <t1>Heat Transfer and Wave Measurements in the Baltic Sea: Principle, Setup and Plan for SOPRAN II</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Heat is used as a proxy tracer for gases to study the transport processes&lt;br /&gt; across the sea-surface interface to obtain a detailed insight into&lt;br /&gt; the diffusive and turbulent processes controlling the transport. A carbon&lt;br /&gt; dioxide laser forces a periodically varying heat flux density onto&lt;br /&gt; the water surface and the amplitude damping and phase shift of the&lt;br /&gt; sea surface temperature is measured from infrared image sequences.&lt;br /&gt; The transport process can be treated by linear system theory and the&lt;br /&gt; relation between the input signal (periodically varying surface flux density)&lt;br /&gt; and the output (surface temperature) is estimated. Within the&lt;br /&gt; framework of the SOPRAN initiative three field experiments in the&lt;br /&gt; Baltic Sea were conducted. The locally derived heat transfer rates are&lt;br /&gt; scaled to gas transfer rates, which are in good agreement with empirical&lt;br /&gt; gas transfer wind speed relationships for moderate winds speeds.&lt;br /&gt; At high wind speed, the transfer rates are lower, which is explained&lt;br /&gt; by the fact that heat transport is insensitive to bubble-mediated gas&lt;br /&gt; transfer, i.e. it measures only a part of the transfer process directly at&lt;br /&gt; the water surface.&lt;/p&gt;</ab>   <la/>   <k1>small scale air sea interaction;                 lock-in thermography;                 heat transport at the water surface;                 </k1>   <pb/>   <pp/>   <yr>2011-03-15</yr>   <ed/>   <ul>http://zenodo.org/record/12602/files/DPG2011_ACFT_Poster.pdf;  http://zenodo.org/record/12602/files/DPG2011_ACFT_Poster.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "92e52ae74eec5df39192e5f8a9b0846c", 
+    "source_url": "https://zenodo.org/record/12602/export/xw"
+}

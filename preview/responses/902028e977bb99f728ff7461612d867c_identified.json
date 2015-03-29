@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.12335</dc:identifier><dc:creator>Kiefhaber, D.</dc:creator><dc:creator>Zappa, C.J.</dc:creator><dc:creator>J\\ufffd\\ufffdhne, B.</dc:creator><dc:title>Measurement of wind wave statistics from specular reflections</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;The &lt;em&gt;Reflective Stereo Slope Gauge&lt;/em&gt; (RSSG) was deployed to two cruises in the tropical Pacific Ocean in Dec. 2011 and Dec. 2012 to measure statistics of small-scale wind waves. During the cruises, both open ocean (Samoa &amp;ndash; Hawaii, OSSPRE 2011 on R/V Kilo Moana) and coastal upwelling (off Peru, M91 on German FS Meteor) areas were studied. Surface displacement (wave height time series with 50 Hz sampling rate) was measured by a stereo system with two light sources (Helmholtz stereopsis), while statistics of surface slope were obtained using a method related to Cox &amp;amp; Munk&amp;rsquo;s sun glitter technique. Furthermore, information on the scale of the smallest waves was gained from the brightness of specular reflections (which is related to surface curvature). This parameter is useful for determining the presence of surface slicks. The results underline the importance of monitoring parameters other than wind speed during gas exchange measurements. The presented methods allow for robust estimates of surface slope statistics under a wide range of conditions.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-02-27</dc:date><dc:source>http://zenodo.org/record/12335</dc:source><dc:doi>10.5281/zenodo.12335</dc:doi><dc:identifier>http://zenodo.org/record/12335</dc:identifier><dc:identifier>oai:zenodo.org:12335</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "902028e977bb99f728ff7461612d867c", 
+    "source_url": "https://zenodo.org/record/12335/export/xd"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?>   <fishbase>   <species  status='valid'      totalpics='0'       total_adult='0'       total_stamps='0'       total_diseases='0'       total_larvae='0'       link='http://www.fishbase.us/photos/ThumbnailsSummary.php?id=46194'    >     <speccode>46194</speccode>     <genus>Nannocampus</genus>     <speciesfb>subosseus</speciesfb>    </species>    </fishbase> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "879f744b8e27bc50928f9b05386c81e0", 
+    "source_url": "http://www.fishbase.org/webservice/Photos/FishPicsList.php?Genus=Nannocampus&Species=subosseus&type="
+}

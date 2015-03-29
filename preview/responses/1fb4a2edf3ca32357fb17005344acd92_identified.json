@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Hot Stars with Cool Companions</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Kraus</surname>             <given-names>Adam</given-names>           </name>           <aff>             <institution>University of Texas</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Dodson-Robinson</surname>             <given-names>Sarah</given-names>           </name>           <aff>             <institution>University of Delaware</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Gullikson</surname>             <given-names>Kevin</given-names>           </name>           <aff>             <institution>University of Texas</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2014</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/10584\"/>       <self-uri xlink:href=\"http://www2.lowell.edu/workshops/coolstars18/\"/>       <self-uri xlink:href=\"http://zenodo.org/record/10584/files/Poster.pdf\"/>       <self-uri xlink:href=\"http://zenodo.org/record/10584/files/Poster.png?subformat=icon-90\"/>     </article-meta>     <abstract>&lt;p&gt;We present intermediate results of a spectroscopic survey for late K-M companions orbiting nearby A and B type stars. Such companions may have formed in the massive disk of the young primary star, and so may be scaled-up versions of brown dwarfs formed in the disks of less massive stars. In addition, the multiplicity of these bright and young A and B type stars is important to generate samples for adaptive optics planet searches. The method we use to search for companions has a uniform detection threshold for any companion within about 2-3&amp;quot;, and so is complementary to ongoing imaging surveys. We find companion stars with a variety of masses, giving early indication that these companions &lt;em&gt;do not&lt;/em&gt; form through gravitational disk instability, which would preferentially produce low-mass stars.&lt;/p&gt;</abstract>   </front>   <article-type>user-cool-stars</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1fb4a2edf3ca32357fb17005344acd92", 
+    "source_url": "https://zenodo.org/record/10584/export/xn"
+}

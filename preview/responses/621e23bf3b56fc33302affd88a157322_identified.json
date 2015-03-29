@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>FOSS - Fisheries One Stop Shop</dc:title>    <dcterms:alternative>FOSS</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>FOSS</dc:subject>    <dcterms:abstract>Office of Science &amp; Technology, Fisheries Information System (FIS), Fisheries One Stop Shop (FOSS) Reporting Portal</dcterms:abstract>    <dc:publisher>NMFS Office of Science and Technology</dc:publisher>    <dc:creator>NMFS Office of Science and Technology</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/10422</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/20623</dcterms:isPartOf>    <dcterms:references xsi:type=\"dcterms:URI\">                         https://inport.nmfs.noaa.gov/inport/item/10579</dcterms:references> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "621e23bf3b56fc33302affd88a157322", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/10422/dublin-core"
+}

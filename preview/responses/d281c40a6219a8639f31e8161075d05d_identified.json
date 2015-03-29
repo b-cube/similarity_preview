@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <source name=\"OCLC\" active=\"false\"  type=\"OCLC\"  uri=\"https://server16445.contentdm.oclc.org/dmwebservices/index.php\"  logo=\"http://www.contentdm.org/help6/images/ball_logo_green_bg.gif\"  mediaLocation=\"http://europeanastatic.eu/api/image?type=IMAGE&amp;uri=\">   <!--todo: need to construct medialocation on a per type basis-->   <query>     <prependTerms to=\"q\" term=\"dmQuery/all/CISOSEARCHALL^\"/>     <addTerms to=\"q\" term=\"first+world\"/>     <appendTerms to=\"q\" term=\"^all^and/title!subjec!descri!locati/nosort/50/1/0/0/0/0/xml\"/>   </query>   <results>     <mappings result_field=\"dc.coverage\" source_field=\"locat\"/>     <mappings result_field=\"dc.title\" source_field=\"title\"/>     <mappings result_field=\"dc.description\" source_field=\"descri\"/>     <mappings result_field=\"dc.subject\" source_field=\"subjec\"/>     <mappings result_field=\"dc.type\" source_field=\"filetype\"/>        </results> </source> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d281c40a6219a8639f31e8161075d05d", 
+    "source_url": "http://discovery.ac.uk/ww1/api/mappings/OCLC.xml"
+}

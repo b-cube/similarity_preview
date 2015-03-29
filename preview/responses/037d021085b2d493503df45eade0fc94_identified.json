@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rsd version=\"1.0\" xmlns=\"http://archipelago.phrasewise.com/rsd\"> <service> <engineName>Movable Type Pro 4.34-en</engineName> <engineLink>http://www.sixapart.com/movabletype/</engineLink> <homePageLink>http://pbskids.org/designsquad/parentseducators/blog/</homePageLink> <apis> <api name=\"MetaWeblog\" preferred=\"true\" apiLink=\"http://pbskids.org/designsquad/mt4/mt-xmlrpc.cgi\" blogID=\"5\" /> <api name=\"MovableType\" preferred=\"false\" apiLink=\"http://pbskids.org/designsquad/mt4/mt-xmlrpc.cgi\" blogID=\"5\" /> <api name=\"Blogger\" preferred=\"false\" apiLink=\"http://pbskids.org/designsquad/mt4/mt-xmlrpc.cgi\" blogID=\"5\" /> <api name=\"Atom\" preferred=\"false\" apiLink=\"http://pbskids.org/designsquad/mt4/mt-atom.cgi/weblog\" blogID=\"5\" /> </apis> </service> </rsd> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "037d021085b2d493503df45eade0fc94", 
+    "source_url": "http://pbskids.org/designsquad/parentseducators/blog/rsd.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<feed xmlns=\"http://www.w3.org/2005/Atom\" xmlns:georss=\"http://www.georss.org/georss\" scast=\"http://sciflo.jpl.nasa.gov/serviceCasting/2009v1\"><id>http://azgs.az.gov/resources/atom</id><title>Arizona Geological Survey Atom Feed</title><updated>2015-03-06T03:50:38Z</updated><author><name>Arizona Geological Survey</name><email>metadata@usgin.org</email></author><entries><entry><title>Pennsylvania Seismic Event Hypocenters</title><id>5fc998b4228c3c62c6ce2b7d2c000302</id><author><name>Stephen Shank </name><contactInformation><phone>717-702-2021</phone><email/><address><street>3240 Schoolhouse Road</street><city>Middletown</city><state>PA</state><zip>17057</zip></address></contactInformation></author><link href=\"/metadata/record/5fc998b4228c3c62c6ce2b7d2c000302/\" rel=\"alternate\"/><link href=\"http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/PASeismicHypocenters/MapServer\" serviceType=\"ESRI\" layerId=\"ESRI\"/><link href=\"http://geothermal.isgs.illinois.edu/ArcGIS/services/aasggeothermal/PASeismicHypocenters/MapServer/WMSServer?request=GetCapabilities&amp;service=WMS\" serviceType=\"OGC:WMS\" layerId=\"OGC:WMS\"/><link href=\"http://geothermal.isgs.illinois.edu/ArcGIS/services/aasggeothermal/PASeismicHypocenters/MapServer/WFSServer?request=GetCapabilities&amp;service=WFS\" serviceType=\"OGC:WFS\" layerId=\"OGC:WFS\"/><link href=\"http://repository.stategeothermaldata.org/metadata/record/5fc998b4228c3c62c6ce2b7d2c000302/file/excel-file.zip\"/><link href=\"http://notifications.usgin.org/\"/><updated>2014-10-02T21:06:28Z</updated><summary>This resource is a compilation of seismic event hypocenter data provided by the Pennsylvania Department for Natural Resources. Records for 45 seismic events between 1971 - 2001 are listed. Fields in the data table include Magnitude, Magnitude Type, Related Fault, Methodology, and Related Resources, among others. The data is available in the following formats: web feature service, web map service, ESRI service endpoint, and an Excel workbook for download. The workbook contains 6 worksheets, including information about the template, notes related to revisions of the template, resource provider information, the data, a field list (data mapping view), and vocabularies (data valid terms) used to populate the data worksheet. This resource was provided by the Pennsylvania Department of Conservation and Natural Resources, Bureau of Topographic and Geologic Survey, and made available for distribution through the National Geothermal Data System.</summary><georss:box>-81.327838897706 39.163226007325 -74.384479522706 43.00378406388</georss:box></entry></entries></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "48bd75e83717d035b89d3fdb65321061", 
+    "source_url": "http://repository.stategeothermaldata.org/metadata/record/5fc998b4228c3c62c6ce2b7d2c000302.atom.xml"
+}

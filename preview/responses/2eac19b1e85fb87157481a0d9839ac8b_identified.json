@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">    <ShortName>University of Bath</ShortName>    <Description>Search the University of Bath website</Description>    <Image width=\"16\" height=\"16\">data:image/png,%89PNG%0D%0A%1A%0A%00%00%00%0DIHDR%00%00%00%10%00%00%00%10%08%06%00%00%00%1F%F3%FFa%00%00%00%04gAMA%00%00%B1%8F%0B%FCa%05%00%00%02%96IDAT8Om%93%DBK%D3a%18%C7%B7%9B%BA%91%AE%FA%03%CA%9B%8A%A2%C0%1B%E9%C2%08%86TB%12a%DDd%EA%24d%A5%84%11)%C5%125OM%5D1E%3B8g%9B%5B%9Anm%AE%0D%0F8%F3%B4rms%9B%B9%19%DBl%1E%D20%EC%40%16%8A%E4%B7%DF%FB%D8O%9D%F9%C2%CB%CB%EF%F7%3C%EF%E7%7D%0E%DFG%08n%09%B6%AD%1D~%91%87P(%DC%EE*%100%00%BF%D6%D6%D6%C0%B6%2F%FC%05Z%DB%04%9Eu%BEG%BFo%86NY%8B%03%BF%97W%C9%BEum%00%98%C1%1FZ%40%5B%87%17%AD%AF%3F%20%F1%B6%1E%F19%3A%5C%AB%B5%A1%D6%E8F%99n%04%1D%F60z%DDSQ%10%02%B0%CB%8C%1Ew%BA%1A%B1%A2*%F4%8D%CDAn%F2%E0%F2%7D%2B%12%B2udg%DBb%9F%C4%9E%B3%0A%82%F1%91l%00%F2%EAl%889!%83Hj%80D%D1%8B%FD%A2J%88K%CC%90%14u%E0%E4%C5GP%F5%F8%D1%DC%EDG%92%D4%88%03%99MX%FA%B5B%99%08%18)4%B5%88%B8%94z%B8%C2%0B%B8Tf%A5%F0E%99%8D%18%F2L%D3K%F9%E5%16%88%AB%BA%D0%ED%8A%E0%D6%93%01%1C%147Q%9A%CCF%00%8D%D9%87%98%C3R%D8%BC3%94%E3%AED9%B4%BD%01r%B0%8F%7F%A2%93%D5%E1(%F7%FF%9Ej%18%5D%EF%22%B8%A3%1C%DA%04%B0%90O%E5%EB%11%97%AD%85%AC%D5%09%A5%D5%87s%05%2F%E9BI%C3%20%24%B9-%14%DD%A1%B4%06%B2%19%06%82%A8nsn%02%F6%A5)%91)%B3%A2%C68%CA%5D4Q%F1%0CCA(%F4.x%02s%F8%B9%B4%8C%E0%EC7%C4%A6%3E%A5%F6fTvE%03%CA5op%3CC%85~%CF%2C%86%7D%B3%F4BJ%B1%19W%AA%3B%B1%3B%BE%04fG%045%CFG%20.0%E2%B1u%8C%C0Q5%18%1C%9D%C1%91%F4F*%92sb%1Ec%5CQY%14%B9%F5%7D%B8%C1%A5%C0%60%AC%88LL%1A%AE6%0CP%A1u%AC%A7%C0Z%C14%90%90%AE%C4%DE%A4%07%5C%E8!%9C%CFkG%8E%BC%87%1C'%E7%BE%A3Xm%C7%D5%87%3DH%E6%22%60%AAd%5D%1A%8F%2C%AE%B7%91%17Rp%FA%2B%5D%3C%C3%19%25%15%16%D8%1C%1F%91%C5%E5%9A%5Ch%22%E1%5C(%7D%85%84%9B%2F%90Zj!%F0%CA%EA%9FM%00%0F%19%09%CC%E3X%96%9A%9CY%9B%9C%81%CF%E4%5Cg%F2%92%B8X%FF%E5%ED%EE%FF%A5%BCu%98%22%F3%3F%A8%0EL0%D79u%DEU%0F%A3%A8%F9-U%9F%D7%C4%8E%C3%B4%D3T%F23%C0%9FQc%F8%EF%E3%2Fc%DB%0E2%3Bk%CE%A4%00%00%00%00IEND%AEB%60%82</Image>    <Url type=\"text/html\" template=\"http://search.bath.ac.uk/search?q={searchTerms}&amp;btnG=Google+Search&amp;entqr=0&amp;ud=1&amp;sort=date%3AD%3AL%3Ad1&amp;output=xml_no_dtd&amp;oe=UTF-8&amp;ie=UTF-8&amp;client=default_frontend&amp;proxystylesheet=default_frontend&amp;site=default_collection&amp;access=p\"/>      <SearchForm>http://search.bath.ac.uk/</SearchForm>                    </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2eac19b1e85fb87157481a0d9839ac8b", 
+    "source_url": "http://www.bath.ac.uk/search/gsa/bathsearch.xml"
+}

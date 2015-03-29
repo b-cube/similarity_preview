@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Search OSGeo4W</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">http://trac.osgeo.org/osgeo4w/chrome/common/trac.ico</Image>   <Url type=\"text/html\" template=\"http://trac.osgeo.org/osgeo4w/search?q={searchTerms}&amp;page={startPage}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f42eab07f3ba900434922aa4d95715d4", 
+    "source_url": "http://trac.osgeo.org/osgeo4w/search/opensearch"
+}

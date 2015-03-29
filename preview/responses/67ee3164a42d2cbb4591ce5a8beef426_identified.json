@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>Planting the Green Seeds for a Golden Harvest: Comments and Clarifications on \"Going for Gold\"</title> <creator>John Houghton</creator> <creator>Alma Swan</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">January/February 2013</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/january2013-houghton</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/january13/houghton/01houghton.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>19</volume> <issue>1/2</issue> </relation> <rights>Copyright 2013 John Houghton and Alma Swan</rights> </dlib-meta0.1>   ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "67ee3164a42d2cbb4591ce5a8beef426", 
+    "source_url": "http://www.dlib.org/dlib/january13/houghton/01houghton.meta.xml"
+}

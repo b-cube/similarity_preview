@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?>  <reference anchor=\"ITU.X525.1993\"> <front> <title>Information Technology - Open Systems Interconnection - The Directory: Replication</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"\" year=\"1993\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation X.525\" /> <seriesInfo name=\"ISO\" value=\"Standard 9594-9\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "051f6a6025f65afbbad620baeffbc8b0", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ITU.X525.1993.xml"
+}

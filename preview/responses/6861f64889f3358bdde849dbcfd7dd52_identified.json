@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><xml>   <node>     <title>&lt;a href=\"/issue69/eduserv-2012-rpt\"&gt;Eduserv Symposium 2012: Big Data, Big Deal?&lt;/a&gt;</title>     <articleSummary>Marieke Guy attended the annual Eduserv Symposium on 10 May 2012 at the Royal College of Physicians, London to find out what are the implications of big data for Higher Education Institutions.</articleSummary>     <issueNumber>&lt;a href=\"/issue69\"&gt;issue69&lt;/a&gt;</issueNumber>     <publishedDate>July 2012</publishedDate>     <articleType>&lt;a href=\"/category/article-type/event-report\"&gt;event report&lt;/a&gt;</articleType>     <authors>&lt;a href=\"/taxonomy/term/732/author-info\"&gt;marieke guy&lt;/a&gt;</authors>   </node>   <node>     <title>&lt;a href=\"/issue48/ferreira-et-al\"&gt;A Foundation for Automatic Digital Preservation&lt;/a&gt;</title>     <articleSummary>Miguel Ferreira, Ana Alice Baptista and Jose Carlos Ramalho propose a Service-Oriented Architecture to help cultural heritage institutions to accomplish automatic digital preservation.</articleSummary>     <issueNumber>&lt;a href=\"/issue48\"&gt;issue48&lt;/a&gt;</issueNumber>     <publishedDate>July 2006</publishedDate>     <articleType>&lt;a href=\"/category/article-type/feature-article\"&gt;feature article&lt;/a&gt;</articleType>     <authors>&lt;a href=\"/taxonomy/term/887/author-info\"&gt;ana alice baptista&lt;/a&gt;, &lt;a href=\"/taxonomy/term/888/author-info\"&gt;jose carlos ramalho&lt;/a&gt;, &lt;a href=\"/taxonomy/term/886/author-info\"&gt;miguel ferreira&lt;/a&gt;</authors>   </node> </xml> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6861f64889f3358bdde849dbcfd7dd52", 
+    "source_url": "http://www.ariadne.ac.uk/taxonomy/term/7750/feed/export.xml"
+}

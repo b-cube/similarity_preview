@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <esri:ArcGISExplorerDocument xmlns:esri='http://www.esri.com/schemas/ArcGIS/9.2' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema'> <E2Layers xsi:type=\"esri:ArrayOfE2Layer\">  <E2Layer xsi:type=\"esri:E2ServerLayer\">   <DisplayName>NAT_Species_Ranges_aCHDSx</DisplayName>   <Visible>true</Visible>   <LODTileFetch>true</LODTileFetch>   <HideFromContents>false</HideFromContents>   <Transparency>0</Transparency>   <ServerType>2</ServerType>   <GlobeLayerType>0</GlobeLayerType>   <Url>http://gis1.usgs.gov/ArcGIS/services</Url>   <ServiceName>NAT_Species_Ranges/aCHDSx</ServiceName>   <SubServiceName>NAT_Species_Ranges_aCHDSx</SubServiceName>   <E2GlobeLayerProperties xsi:type=\"esri:E2ServerLayerProperties\">    <MinimumVisibleDistance>0</MinimumVisibleDistance>    <MaximumVisibleDistance>0</MaximumVisibleDistance>    <MinimumCellSize>1</MinimumCellSize>    <CacheName>ESRI_ServerLyrLocalGlobeCache_http___gis1.usgs.gov_ArcGIS_services_Layers_NAT_Species_Ranges_aCHDSx</CacheName>    <CacheType>0</CacheType>    <CacheUpdateInterval>0</CacheUpdateInterval>   </E2GlobeLayerProperties>  </E2Layer> </E2Layers> </esri:ArcGISExplorerDocument> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c6aa28233c2d75186748104ce6589185", 
+    "source_url": "http://gis1.usgs.gov/ArcGIS/rest/services/NAT_Species_Ranges/aCHDSx/MapServer?f=nmf"
+}

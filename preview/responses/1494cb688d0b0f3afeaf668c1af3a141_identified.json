@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><WCS_Capabilities xmlns:gml=\"http://www.opengis.net/gml\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.opengis.net/wcs\" version=\"1.0.0\"><Service><description>    This Web Coverage Service (WCS) is one of the multiple MODAPS data service instances used to provide gridded Level 3 daily MODAPS data products. This instance corresponds to the ALBWS066 data product. For service information see http://modaps.nascom.nasa.gov/services/. For product information see http://modis.gsfc.nasa.gov/data/dataprod/.</description><name>ALBWS066</name><label>MODIS-derived 0.66 micron white-sky albedo on a global, 1-minute equal angle grid</label><keywords><keyword>ALBWS066 MODIS-derived 0.66 micron white-sky albedo on a global 1-minute equal angle grid</keyword></keywords><responsibleParty><individualName>MODAPS User Support Office</individualName><organisationName>NASA/GSFC/MODAPS</organisationName><positionName>User Services</positionName><contactInfo><phone><voice>1 301 731 2917</voice></phone><address><deliveryPoint>NASA/GSFC Code 614</deliveryPoint><city>Greenbelt</city><administrativeArea>Maryland</administrativeArea><postalCode>20706</postalCode><country>USA</country><electronicMailAddress>modapsuso@sigmaspace.com</electronicMailAddress></address></contactInfo></responsibleParty><fees>NONE</fees><accessConstraints>NONE</accessConstraints></Service><Capability><Request><GetCapabilities><DCPType><HTTP><Get><OnlineResource xlink:href=\"http://modwebsrv.modaps.eosdis.nasa.gov/wcs/5/ALBWS066/wcs?\"/></Get><Post><OnlineResource xlink:href=\"http://modwebsrv.modaps.eosdis.nasa.gov/wcs/5/ALBWS066/wcs\"/></Post></HTTP></DCPType></GetCapabilities><DescribeCoverage><DCPType><HTTP><Get><OnlineResource xlink:href=\"http://modwebsrv.modaps.eosdis.nasa.gov/wcs/5/ALBWS066/wcs?\"/></Get><Post><OnlineResource xlink:href=\"http://modwebsrv.modaps.eosdis.nasa.gov/wcs/5/ALBWS066/wcs\"/></Post></HTTP></DCPType></DescribeCoverage><GetCoverage><DCPType><HTTP><Get><OnlineResource xlink:href=\"http://modwebsrv.modaps.eosdis.nasa.gov/wcs/5/ALBWS066/wcs?\"/></Get><Post><OnlineResource xlink:href=\"http://modwebsrv.modaps.eosdis.nasa.gov/wcs/5/ALBWS066/wcs\"/></Post></HTTP></DCPType></GetCoverage></Request><Exception><Format>text/xml</Format></Exception></Capability><ContentMetadata/></WCS_Capabilities> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0.0", 
+        "protocol": "OGC:WCS", 
+        "language": "", 
+        "service": "GetCapabilities", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1494cb688d0b0f3afeaf668c1af3a141", 
+    "source_url": "http://modwebsrv.modaps.eosdis.nasa.gov/wcs/5/ALBWS066/getCapabilities?service=WCS&version=1.0.0&request=GetCapabilities"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">             <channel rdf:about=\"http://www.irill.org/events/irill-events/RSS\">   <title>IRILL events</title>   <link>http://www.irill.org</link>    <description>            IRILL strives to help Free and Open Source communities and organizations by enabling them to meet, hack, discuss, and present their ideas. Below you can find a sampling of recent events which have been hosted at IRILL. As long as it is related to Free and Open Source software, you can contact us at contact@irill.org to propose an event.        </description>                    <syn:updatePeriod>daily</syn:updatePeriod>             <syn:updateFrequency>1</syn:updateFrequency>             <syn:updateBase>2012-12-18T12:17:13Z</syn:updateBase>             <image rdf:resource=\"http://www.irill.org/logo.png\" />    <items>     <rdf:Seq>            </rdf:Seq>   </items>  </channel>       </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c7bf1a3b31195b6c904eb270dcbd4394", 
+    "source_url": "http://www.irill.org/events/irill-events/RSS"
+}

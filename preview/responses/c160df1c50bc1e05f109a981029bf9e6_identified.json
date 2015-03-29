@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"D6949A4E-C9E8-4A71-9551-315440FE0060\" _position=\"1\" _address=\"http://data.ok.gov/resource/tcsu-qvhj/1\"><years>2013</years><historical_data>57.00</historical_data><target>0</target></row><row _id=\"2\" _uuid=\"53E29223-7BD6-4393-A485-3C3B8E594498\" _position=\"2\" _address=\"http://data.ok.gov/resource/tcsu-qvhj/2\"><years>2014</years><historical_data>56.00</historical_data><target>0</target></row><row _id=\"3\" _uuid=\"C50F35C4-BB5F-4080-8738-9D7F2F22D759\" _position=\"3\" _address=\"http://data.ok.gov/resource/tcsu-qvhj/3\"><years>2015</years><historical_data>0</historical_data><target>0</target></row><row _id=\"4\" _uuid=\"619C7ED9-A31F-4657-956B-55238C06A4B2\" _position=\"4\" _address=\"http://data.ok.gov/resource/tcsu-qvhj/4\"><years>2016</years><historical_data>0</historical_data><target>0</target></row><row _id=\"5\" _uuid=\"77CCB235-717A-4A75-9B39-43364DE9C61C\" _position=\"5\" _address=\"http://data.ok.gov/resource/tcsu-qvhj/5\"><years>2017</years><historical_data>0</historical_data><target>62.00</target></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c160df1c50bc1e05f109a981029bf9e6", 
+    "source_url": "https://data.ok.gov/api/views/tcsu-qvhj/rows.xml?accessType=DOWNLOAD"
+}

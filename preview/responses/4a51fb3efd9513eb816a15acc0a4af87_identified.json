@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.12645</dc:identifier><dc:creator>Fellone, Lucio</dc:creator><dc:title>IS THERE ANY ROOM IN ITALY FOR FARMER\\ufffd\\ufffd\\ufffdS LUNG DISEASE? A REVIEW</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Il &lt;em&gt;Farmer&amp;rsquo;s Lung Disease&lt;/em&gt; (FLD), com&amp;rsquo;&amp;egrave; noto, presenta una patogenesi immuno-mediata, con manifestazione localizzata al polmone; appartiene al gruppo di malattie denominate Alveoliti Allergiche Estrinseche (AAE).&lt;br /&gt; L&amp;rsquo;Istituto Nazionale per l&amp;#39;Assicurazione contro gli Infortuni sul Lavoro (INAIL), in Italia,&amp;nbsp;riconosce in media poco pi&amp;ugrave; di 10 casi di FLDs all&amp;#39;anno.&lt;/p&gt;  &lt;p&gt;&lt;strong&gt;Scopo&lt;/strong&gt;:&amp;nbsp;Individuare i criteri diagnostici attualmente proposti dalla letteratura scientifica per la diagnosi di polmone&amp;nbsp;dell&amp;#39;agricoltore e confrontarli con quelli utilizzati nelle casistiche italiane. La diagnosi di malattia in fase acuta non &amp;egrave; stata presa in considerazione.&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2012-05-14</dc:date><dc:source>http://zenodo.org/record/12645</dc:source><dc:doi>10.5281/zenodo.12645</dc:doi><dc:identifier>http://zenodo.org/record/12645</dc:identifier><dc:identifier>oai:zenodo.org:12645</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4a51fb3efd9513eb816a15acc0a4af87", 
+    "source_url": "https://zenodo.org/record/12645/export/xd"
+}

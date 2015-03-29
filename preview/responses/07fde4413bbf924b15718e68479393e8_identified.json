@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <event_data eventid=\"c000tvcb\" source=\"us\" network=\"us\" region=\"cus\" process_timestamp=\"2015-03-05 21:45:58\" ciim_version=\"3\" code_version=\"1.3\" event_version=\"0\">   <event magnitude=\"3.3\" latitude=\"36.7917\" longitude=\"-98.2629\" depth=\"9.39\" event_timestamp=\"2015-03-05 20:59:41\" localtime=\"Mar 5 2015 02:59:41 PM local\" locationtext=\"OKLAHOMA\" />   <cdi_summary nresponses=\"3\" max_intensity=\"3.8\" citydb=\"city_2009\" />   <products>     <category name=\"Maps\">       <product name=\"City map\">         <description><![CDATA[Map of responses by city or ZIP code]]></description>         <format type=\"image/jpeg\" file=\"usc000tvcb_ciim.jpg\" />         <format type=\"application/pdf\" file=\"usc000tvcb_ciim.pdf\" />         <format type=\"application/postscript\" file=\"usc000tvcb_ciim.ps\" />         <format type=\"text/html\" file=\"usc000tvcb_ciim_imap.html\" />       </product>     </category>     <category name=\"Plots\">       <product name=\"Intensity vs. Distance\">         <description><![CDATA[Plot of Attenuation (fall-off) with distance for each intensity versus its distance from the epicenter]]></description>         <format type=\"image/jpeg\" file=\"usc000tvcb_plot_atten.jpg\" />         <format type=\"application/postscript\" file=\"usc000tvcb_plot_atten.ps\" />       </product>       <product name=\"Responses vs. Time\">         <description><![CDATA[Plot of total number of responses since the event]]></description>         <format type=\"image/jpeg\" file=\"usc000tvcb_plot_numresp.jpg\" />         <format type=\"application/postscript\" file=\"usc000tvcb_plot_numresp.ps\" />       </product>     </category>     <category name=\"Data\">       <product name=\"Product List\">         <description><![CDATA[List of available DYFI maps and data for this event]]></description>         <format type=\"text/xml\" file=\"event_data.xml\" />       </product>       <product name=\"Intensity Summary\">         <description><![CDATA[Table of intensities aggregated by city or ZIP code]]></description>         <format type=\"text/plain\" file=\"cdi_zip.txt\" />         <format type=\"text/xml\" file=\"cdi_zip.xml\" />       </product>     </category>   </products> </event_data> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "07fde4413bbf924b15718e68479393e8", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/c000tvcb/us/event_data.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/documents/2008/01/14/domain-range/\">    <dc:title>Domains and Ranges for DCMI Properties</dc:title>    <dc:description>This document describes a set of classes and specifies how those classes are used as domains and ranges of DCMI properties.</dc:description>    <dc:date>2008-01-14</dc:date>    <dc:format>text/html</dc:format>    <dc:language>en</dc:language>    <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>    <dc:creator>Andy Powell</dc:creator>    <dc:creator>Pete Johnston</dc:creator>    <dc:creator>Thomas Baker</dc:creator> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "69b831f1620156b54cf1b8273ad42411", 
+    "source_url": "http://dublincore.org/documents/2008/01/14/domain-range/index.shtml.rdf"
+}

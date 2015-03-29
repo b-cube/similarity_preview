@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">British Geological Survey (BGS) Geophysical Survey 1968/3: North Irish Sea (15/Jun/1968 to 03/Aug/1968)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-546b-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">This marine geophysical survey was carried out by George Wimpey &amp; Co for British Geological Survey (BGS), the survey took place from June to August 1968 in the north east Irish Sea on board the M.V. Moray Firth IV. This survey was carried out for a project in conjunction with sampling survey 1968/MF/1. The purpose was to collect data for investigation of the British Continental Shelf. Sea floor data were collected using Echo sounder; sidescan sonar and Transit sonar. Subsurface data were gathered using Pinger; Sparker and Magnetometer. These data are archived by BGS Technical details of the survey are contained in BGS report WB/MC/69/1. See also IGS report 71/19.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">1968-08-03</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dfcac4008861540c01aeb66d9a7e9878", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-546b-0f38-e044-0003ba9b0d98.xml/DC"
+}

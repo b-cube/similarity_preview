@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>MarshallIslands2011 </Local-number>  <Author>College of the Marshall Islands </Author>  <Title>Monitoring the effects of human and natural disturbances at Majuro Atoll </Title>  <Institution>College of the Marshall Islands </Institution>  <Publication-Date><caldate>2011 </caldate></Publication-Date>  <Extent>17 </Extent>  <Type-Period-Note>Final Sumary Report, 10/01/2010 - 09/30/2011 </Type-Period-Note>  <Notes>FY2011 CRCP grant award NA10NOS4260049 </Notes>  <grantid>  <id>NA10NOS4260049 </id>  </grantid>  <Abstract>With each site visited, there is an amplified impression of increasingly degraded reefs on Majuro. This is a slow-motion crisis. The reefs are dying! The ongoing mining of near-shore reefs is in this context alarming. Local food security is being put at ever increasing risk, as the ecological functioning of reefs, as both food and shelter for fish, is further reduced. It is time to stop this destruction and begin a process of reef restoration. </Abstract>  <Keywords>coral monitoring, status, preservation, conservation </Keywords>  <Date-Time-Last-Modified>20140530000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/grants/MonitoringGrants_FY10_Products/NA10NOS4260049_Marshall_Isl_Monitoring.pdf </URL>  <Region>RMI </Region>  <Bounding>  <Eastbc>169.97 </Eastbc>  <Westbc>162.302 </Westbc>  <Southbc>5.573 </Southbc>  <Northbc>14.71 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>Grants </Local-subject-index>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "980f8eb1c67eab8659d9ec35cdc72b38", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B1621201D-687E-4656-BEC1-38165ED61190%7D"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>Debians websted (da)</ShortName>  <Image height=\"16\" width=\"16\" type=\"image/x-icon\">https://www.debian.org/favicon.ico</Image>  <Description>Gennems\\ufffd\\ufffdg Debians websted.</Description>  <Url type=\"text/html\" template=\"https://search.debian.org/cgi-bin/omega?P={searchTerms}&amp;HITSPERPAGE={count?}&amp;DB=da\" /> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7c3eaace2ce6d364342e9866feb040b5", 
+    "source_url": "https://www.debian.org/search.da.xml"
+}

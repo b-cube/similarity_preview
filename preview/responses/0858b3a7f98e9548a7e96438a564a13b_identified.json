@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-charreq-19980710'            target='http://www.w3.org/TR/1998/WD-charreq-19980710'> <front> <title>Requirements for String Identity Matching and String Indexing</title>  <author initials='M.' surname='D\\ufffd\\ufffdrst' fullname='Martin J. D\\ufffd\\ufffdrst'>     <organization /> </author>  <date month='July' day='10' year='1998' /> </front>  <seriesInfo name='World Wide Web Consortium WD' value='WD-charreq-19980710' /> <format type='HTML' target='http://www.w3.org/TR/1998/WD-charreq-19980710' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0858b3a7f98e9548a7e96438a564a13b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-charreq-19980710.xml"
+}

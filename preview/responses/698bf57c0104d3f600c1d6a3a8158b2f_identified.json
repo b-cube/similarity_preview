@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://data.opencolorado.org/dataset/drcog-census-bureau-residence-area-characteristics-2011\">     <owl:sameAs rdf:resource=\"urn:uuid:0a08103e-26ce-4d90-9121-9d33add51df4\"></owl:sameAs>     <dct:description>2011 Residence Area Characteristics data for the DRCOG region from the US Census Bureau</dct:description>     <foaf:homepage rdf:resource=\"http://data.opencolorado.org/dataset/drcog-census-bureau-residence-area-characteristics-2011\"></foaf:homepage>     <rdfs:label>drcog-census-bureau-residence-area-characteristics-2011</rdfs:label>     <dct:identifier>drcog-census-bureau-residence-area-characteristics-2011</dct:identifier>     <dct:title>DRCOG:           Census Bureau Residence Area Characteristics 2011        </dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://gis.drcog.org/datacatalog/sites/default/files/LEHD_HOME_2011.csv\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>LEHD_HOME_2011.csv</dct:title>             </dcat:Distribution>         </dcat:distribution>     <dct:creator>       <rdf:Description>         <foaf:name>US Census Bureau</foaf:name>         <foaf:mbox rdf:resource=\"mailto:\"></foaf:mbox>       </rdf:Description>     </dct:creator>     <dct:contributor>       <rdf:Description>         <foaf:name>DRCOG Geospatial Team</foaf:name>         <foaf:mbox rdf:resource=\"mailto:geospatial@drcog.org\"></foaf:mbox>       </rdf:Description>     </dct:contributor>     <dct:rights rdf:resource=\"http://www.opendefinition.org/licenses/cc-by\"></dct:rights>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "698bf57c0104d3f600c1d6a3a8158b2f", 
+    "source_url": "http://data.opencolorado.org/dataset/0a08103e-26ce-4d90-9121-9d33add51df4.rdf"
+}

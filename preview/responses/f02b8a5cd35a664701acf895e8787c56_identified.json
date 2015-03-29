@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" ?> <?xml-stylesheet href=\"http://www.atomenabled.org/css/atom.css\" type=\"text/css\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">  <icon>http://www.lsoft.com/images/listserv-community.gif</icon> <logo>http://www.lsoft.com/images/listserv_small.gif</logo> <link rel=\"related\" href=\"http://www.lsoft.com/products/listserv-powered.asp\" title=\"Powered by L-Soft's LISTSERV mailing list manager\"/>  <title>ASK-ACADEMIA List</title> <subtitle>ASK-ACADEMIA List Archives</subtitle> <link rel=\"alternate\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ASK-ACADEMIA\"/> <link rel=\"self\" href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=ASK-ACADEMIA&amp;v=ATOM1.0\"/> <id>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=ASK-ACADEMIA&amp;v=ATOM1.0</id> <div class=\"info\" xmlns=\"http://www.w3.org/1999/xhtml\">This is an Atom formatted XML site feed. It is intended to be viewed in a Newsreader. Alternatively you can view the HTML archives at https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ASK-ACADEMIA. </div> <generator uri=\"/cgi-bin/webadmin?DEBUG-SHOW-VERSION\">LISTSERV Web Interface 2.4.1</generator> <updated>2015-03-11T14:24:27Z</updated>   <entry xmlns='http://www.w3.org/2005/Atom'>   <link rel='alternate' href='https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=ASK-ACADEMIA;2c09d7e.1503' title='Improving researchers\\ufffd\\ufffd\\ufffd engagement with Scottish Parliament'/>   <author>      <name>REA Heather</name>   </author>   <published>2015-03-11T14:21:38+00:00</published>   <updated>2015-03-11T14:21:38+00:00</updated>   <title>Improving researchers\\ufffd\\ufffd\\ufffd engagement with Scottish Parliament</title>   <id>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=ASK-ACADEMIA;2c09d7e.1503</id>   <content type='html'>The University of Edinburgh is a charitable body, registered in&lt;br&gt;Scotland, with registration number SC005336. </content> </entry>  </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f02b8a5cd35a664701acf895e8787c56", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=ASK-ACADEMIA&v=ATOM1.0"
+}

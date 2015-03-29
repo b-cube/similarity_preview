@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr00284</identifier><identifier type=\"pwpk\">32962</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2000-284</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Map and database of Quaternary faults and folds in Colombia and its offshore regions</title></titleInfo><originInfo><dateOther>Sat, 1 Jun 2002 00:00 -0500</dateOther><dateIssued>2000</dateIssued></originInfo><name><namePart>Paris, Gabriel; Machette, Michael N.; Dart, Richard L.; Haller, Kathleen M.</namePart><role>Author</role></name><physicalDescription><form>NA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/usgs_thumb.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://greenwood.cr.usgs.gov/pub/open-file-reports/ofr-00-0284/ </url></location><note type=\"citation/reference\">Map and database of Quaternary faults and folds in Colombia and its offshore regions; 2000; OFR; 2000-284; Open-File Report; Paris, Gabriel; Machette, Michael N.; Dart, Richard L.; Haller, Kathleen M.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1e83f29b90ce9f9f1b1e91855bb94c5a", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr00284"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0057\">   <front>     <title>Extended Roster</title>     <author initials=\"A.\" surname=\"Shchepin\" fullname=\"Alexey Shchepin\">       <organization/>       <address>         <email>alexey@sevcom.net</email>       </address>     </author>     <date day=\"28\" month=\"April\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0057\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0057.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c62810a4f6740bbc291267c4005f4524", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0057.xml"
+}

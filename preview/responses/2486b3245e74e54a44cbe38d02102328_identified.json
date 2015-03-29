@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/EX_IndonesiaDatasets/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/GlobalEXDatasets/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_Bathymetry_Products/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_IOCM_Planned/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_IOCM/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_MethaneSeeps/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_Nautilus/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_Okeanos_Combined/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosCruises/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosCTDs/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosDailyUpdates/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosDives/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosShipObs/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_OkeanosShipTrk/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OECruiseData/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2486b3245e74e54a44cbe38d02102328", 
+    "source_url": "http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration?f=geositemap"
+}

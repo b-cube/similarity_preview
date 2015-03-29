@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Marine Themes</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dassh.ac.uk:DC:c219bc9b821d718c26aa809312718bbe</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Marine Themes comprises authoritative data from the UK and other hydrographic offices, where available. Each dataset uses the largest scale of data available for a particular feature and scale range, derived either from the production Electronic Navigational Charts (ENCs) or from the original source.  The dataset is supplied as individual themed layers corresponding to important marine features required for general situation awareness, planning, site selection and investigation and outline engineering design.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2014-10-31 2012-07-02 2015-01-05</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "320786742829d6f14fcfe9736cf298cf", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/dassh.ac.uk__MEDIN_2.3__c219bc9b821d718c26aa809312718bbe.xml/DC"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Education - Bothell</title> <link href=\"http://hdl.handle.net/1773/20064\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/1773/20064</id> <updated>2015-03-12T06:04:37Z</updated> <dc:date>2015-03-12T06:04:37Z</dc:date> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9125164b25cf6f1764616d956f885eec", 
+    "source_url": "https://digital.lib.washington.edu/researchworks/feed/atom_1.0/1773/20064"
+}

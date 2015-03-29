@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Dubov Ilya Roydovich</a1>   <t1>EXPERIENCE OF FREEFEM++ AND NETGEN USAGE  IN THE SIMULATION PROGRAM FOR AERODYNAMIC PROCESSES</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;The article describes the experience of using of the open source libraries such as Freefem++ and NetGen to develop a simulation program for aerodynamic processes. Using of these libraries can reduce development time, but it is necessary to solve some technical problems that are described in the article.&lt;/p&gt;</ab>   <la/>   <k1>Simulation, software, aerodynamics, cleanroom;                 </k1>   <pb/>   <pp/>   <yr>2014-05-01</yr>   <ed/>   <ul>http://zenodo.org/record/10139/files/DubovIR.pdf;  http://zenodo.org/record/10139/files/DubovIR.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d3bca477bdd065dc0f99c27db0983d2c", 
+    "source_url": "https://zenodo.org/record/10139/export/xw"
+}

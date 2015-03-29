@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">     <InputEncoding>UTF-8</InputEncoding>     <ShortName>IU Knowledge Base</ShortName>     <Description>Find answers to thousands of questions about information technology at Indiana University.</Description>     <Url type=\"text/html\" template=\"https://kb.iu.edu/search?q={searchTerms}&amp;s=15\"/>     <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://iu.edu/favicon.ico</Image> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "627f88b6a2c42cfe85237f7d0a69821f", 
+    "source_url": "https://kb.iu.edu/resources/kms/opensearch.xml"
+}

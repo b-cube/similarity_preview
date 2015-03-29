@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi w=\"-97.30005\" e=\"-96.28335\" n=\"36.3667\" utm_span=\"1000\" zone=\"14S\" type=\"geo\" s=\"35.5417\">     <location name=\"UTM:(14S 0682 3996 1000)\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>22</dist>       <lat>36.0960</lat>       <lon>-96.9727</lon>       <name>UTM:(14S 0682 3996 1000)</name>     </location>     <location name=\"UTM:(14S 0698 3986 1000)\">       <cdi>3.0916</cdi>       <nresp>1</nresp>       <dist>5</dist>       <lat>36.0028</lat>       <lon>-96.7977</lon>       <name>UTM:(14S 0698 3986 1000)</name>     </location>     <location name=\"UTM:(14S 0700 3983 1000)\">       <cdi>3.5060</cdi>       <nresp>3</nresp>       <dist>4</dist>       <lat>35.9753</lat>       <lon>-96.7763</lon>       <name>UTM:(14S 0700 3983 1000)</name>     </location>     <location name=\"UTM:(14S 0702 3984 1000)\">       <cdi>3.4498</cdi>       <nresp>1</nresp>       <dist>5</dist>       <lat>35.9839</lat>       <lon>-96.7538</lon>       <name>UTM:(14S 0702 3984 1000)</name>     </location>     <location name=\"UTM:(14S 0789 4324 1000)\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>354</dist>       <lat>39.0217</lat>       <lon>-95.6561</lon>       <name>UTM:(14S 0789 4324 1000)</name>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3033d2d556475790be6471ca9131e03d", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/c000tuzs/us/cdi_geo.xml"
+}

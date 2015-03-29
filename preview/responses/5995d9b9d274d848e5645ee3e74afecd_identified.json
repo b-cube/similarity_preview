@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <results id=\"\" name=\"Platalea leucorodia\" total_number_of_results=\"1\" number_of_results_returned=\"1\" start=\"0\" error_message=\"\" version=\"1.8.1 rev 1397\">   <result>     <id>6847853</id>     <name>Platalea leucorodia</name>     <rank>Species</rank>     <name_status>accepted name</name_status>     <record_scrutiny_date/>     <online_resource><![CDATA[http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=174933]]></online_resource>     <source_database>ITIS Global: The Integrated Taxonomic Information System</source_database>     <source_database_url>http://www.itis.gov;http://www.cbif.gc.ca/itis (Canada);http://siit.conabio.gob.mx (Mexico)</source_database_url>     <name_html><i>Platalea leucorodia</i> Linnaeus, 1758</name_html>     <url>http://www.catalogueoflife.org/annual-checklist/2012/details/species/id/6847853</url>   </result> </results> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5995d9b9d274d848e5645ee3e74afecd", 
+    "source_url": "http://www.catalogueoflife.org/annual-checklist/2012/webservice?name=Platalea+leucorodia"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Floris Van den Abeele</a1>   <a2>Tom Vandewinckele</a2>   <a2>Jeroen Hoebeke</a2>   <a2>Ingrid Moerman</a2>   <a2>Piet Demeester</a2>   <t1>Data for Secure communication in IP-based wireless sensor networks via a trusted gateway publication</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;This archive file contains the raw data obtained from Contiki sensor nodes during Cooja experiments in the folders e2e, terminate, terminate_1st and plaintext.&lt;/p&gt;  &lt;p&gt;The archive accompagnies the IEEE ISSNIP 2015 publication titled &amp;quot;Secure communication in IP-based wireless sensor networks via a trusted gateway&amp;quot; by Floris Van den Abeele, Tom Vandewinckele, Jeroen Hoebeke, Ingrid Moerman and Piet Demeester.&lt;/p&gt;  &lt;p&gt;&lt;br /&gt; Also included is the data_parser python script that converts the raw data into CSV files that are parseable by R. The script contains the definitions of the contents of the raw data files.&lt;br /&gt; Finally, the R scripts that use the CSV files to generate the plots from the paper are also included.&lt;/p&gt;</ab>   <la/>   <k1/>   <pb/>   <pp/>   <yr>2015-02-25</yr>   <ed/>   <ul>http://www.issnip2015.org/;  https://zenodo.org/record/15661/files/IEEE_ISSNIP_2015_measurements_Secure-communication-in-IP-based-wireless-sensor-networks-via-a-trusted-gateway.zip;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "be221807f0992f1ce158ab571151ce69", 
+    "source_url": "https://zenodo.org/record/15661/export/xw"
+}

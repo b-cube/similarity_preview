@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">   <title>Gentoo Packages /package/dev-ruby/power_assert</title>   <icon>http://www.gentoo.org/favicon.ico</icon>   <id>http://packages.gentoo.org/feed/package/dev-ruby/power_assert</id>   <generator uri=\"http://packages.gentoo.org/\">Gentoo Packages2</generator>   <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/dev-ruby/power_assert\" type=\"text/html\"/>   <link rel=\"self\" href=\"http://packages.gentoo.org/feed/package/dev-ruby/power_assert\" type=\"application/atom+xml\"/>   <updated>2015-03-04T04:27:35Z</updated>   <entry>  <title xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\">    <div>         <span class=\"cpvstr\">dev-ruby/power_assert</span>: <span class=\"description\">Shows each value of variables and method calls in the expression</span>       </div>     </title>     <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/dev-ruby/power_assert\" type=\"text/html\"/>     <id>http://packages.gentoo.org/package/dev-ruby/power_assert?ts=2015-03-03T18:16:40Z</id>     <author>       <name>Manuel R\\ufffd\\ufffdger (mrueg)</name>       <uri>http://cia.vc/stats/author/mrueg</uri>     </author>     <updated>2015-03-03T18:16:40Z</updated>     <summary xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\"><div>*power_assert-0.2.3 (03 Mar 2015)<br/>03 Mar 2015; Manuel R\\ufffd\\ufffdger (<a href=\"http://cia.vc/stats/author/mrueg\">mrueg</a>) +<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/dev-ruby/power_assert/power_assert-0.2.3.ebuild?view=markup\">power_assert-0.2.3.ebuild</a>:<br/>Version bump. Remove old.</div></summary>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "53498ea0984a5a116076f803e759fabb", 
+    "source_url": "http://packages.gentoo.org/feed/package/dev-ruby/power_assert"
+}

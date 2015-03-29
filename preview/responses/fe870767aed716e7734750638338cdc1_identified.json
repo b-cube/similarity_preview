@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>BioPortal Snapshot 27.01.2015</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Parsia</surname>             <given-names>Bijan</given-names>           </name>           <aff>             <institution>University of Manchester</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Matentzoglu</surname>             <given-names>Nicolas</given-names>           </name>           <aff>             <institution>University of Manchester</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2015</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/15667\"/>       <self-uri xlink:href=\"https://zenodo.org/record/15667/files/bioportal_2015.01.27.zip\"/>     </article-meta>     <abstract>&lt;p&gt;This is a BioPortal snapshot from late January 2015. It contains the original files as downloaded by the BioPortal webservices, the OWL/XML serialised version with save repair, and a version where all axioms are annotated with axiom identifiers.&lt;/p&gt;</abstract>   </front>   <article-type>user-ontologycollections</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "fe870767aed716e7734750638338cdc1", 
+    "source_url": "http://zenodo.org/record/15667/export/xn"
+}

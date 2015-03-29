@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.H324.1996\"> <front> <title>Terminal for low bit rate multimedia communication</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"\" year=\"1996\" /> </front>  <seriesInfo name=\"ITU\" value=\"Recommendation H.324\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "659f58f58ed437790909756b51e836f8", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.H324.1996.xml"
+}

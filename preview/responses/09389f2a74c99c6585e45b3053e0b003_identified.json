@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ITU.T37.1998\"> <front> <title>Procedures for the transfer of facsimile data via store-and-forward on the Internet</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"\" year=\"1998\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation T.37\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "09389f2a74c99c6585e45b3053e0b003", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ITU.T37.1998.xml"
+}

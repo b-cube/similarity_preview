@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Varese in vitro: On Attention, Aurality, and the Laboratory</dc:title><dc:creator>Steege, Benjamin Adam</dc:creator><dc:date>2003</dc:date><dc:type>text</dc:type><dc:subject>Music</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8VD6X45</dc:identifier><dc:description>In his 1936 lecture on \"New Instruments and New Music,\" Edgard Varese insisted \"There should be at least one laboratory in the world where the fundamental facts of music could be investigated under conditions reasonably conducive to success. The interest in music is so widespread and intense, its appeal so intimate and poignant, and its significance for mankind so potent and profound, that it becomes unwise not to devote some portion of the enormous outlay for music to research in its fundamental questions.\" (1967:197) Though Varese was quoting this entire paragraph from a 1928 popular-science monograph by John Redfield, former physics lecturer at Columbia University, the composer made the sentiment and argument very much his own in other writings and interviews from the period. Yet some uncertainties remain as to the laboratory's value for Varese. Did his vision of music as an \"art -science\" stem simply from infatuation with scientific authority? What were the specific \"conditions reasonably conducive to\" a laboratory's success? In what would this \"success\" consist?</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "69661a1f9eeea25c4fa64a4950eb6d50", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A179389.dc_xml"
+}

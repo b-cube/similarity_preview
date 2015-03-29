@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"><gcmd:termsOfUse xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">See http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">8.0</gcmd:keywordVersion><gcmd:schemeVersion xmlns:gcmd=\"http://gcmd.gsfc.nasa.gov/\">2015-03-11 14:52:50</gcmd:schemeVersion> <skos:Concept rdf:about=\"0a3e3bc3-d878-44f0-9650-145a53062c36\"    xml:base=\"http://gcmdservices.gsfc.nasa.gov/kms/concept/\"    xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\">    <skos:inScheme rdf:resource=\"http://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/platforms\"/>    <skos:prefLabel xml:lang=\"en\">ECHO</skos:prefLabel>    <skos:broader rdf:resource=\"3466eed1-2fbb-49bf-ab0b-dc08731d502b\"/>    <skos:narrower rdf:resource=\"9b532124-c5a7-40c7-9788-a61ff1295363\"/>    <skos:narrower rdf:resource=\"6e2adc45-a039-46cb-b8e5-e4743df7e656\"/> </skos:Concept> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f8bc9bcd865e5c1845bdd8da6d75dedf", 
+    "source_url": "http://gcmdservices.gsfc.nasa.gov/static/kms/concept/0a3e3bc3-d878-44f0-9650-145a53062c36.rdf"
+}

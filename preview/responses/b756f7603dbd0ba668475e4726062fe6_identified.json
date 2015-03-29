@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0076\">   <front>     <title>Malicious Stanzas</title>     <author initials=\"P.\" surname=\"Saint-Andre\" fullname=\"Peter Saint-Andre\">       <organization/>       <address>         <email>stpeter@jabber.org</email>       </address>     </author>     <author initials=\"J.\" surname=\"Hildebrand\" fullname=\"Joe Hildebrand\">       <organization/>       <address>         <email>jhildebr@cisco.com</email>       </address>     </author>     <date day=\"01\" month=\"April\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0076\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0076.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b756f7603dbd0ba668475e4726062fe6", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0076.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9MarineDebris/ER1402150_MarineDebrisData/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9MarineDebris/LosAngeles_ApproachingZeroTrash/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://geodata.epa.gov/arcgis/rest/services/R9MarineDebris/SanFranciscoBayArea_BaselineTrashLoadEstimate/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7e0f95460c18287496ddf2873093f740", 
+    "source_url": "http://geodata.epa.gov/arcgis/rest/services/R9MarineDebris?f=geositemap"
+}

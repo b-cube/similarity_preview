@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <catalog name=\"Regional Climatologies\"            xmlns=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"            xmlns:xlink=\"http://www.w3.org/1999/xlink\" >   <service name=\"allServices\" serviceType=\"Compound\" base=\"\">     <service name=\"dapService\" serviceType=\"OPENDAP\" base=\"thredds/dodC\" />     <service name=\"httpService\" serviceType=\"HTTPServer\" base=\"thredds/fileServer\" />     <service name=\"wcsService\" serviceType=\"WCS\" base=\"/thredds/wcs/\"/>     <service name=\"wmsService\" serviceType=\"WMS\" base=\"/thredds/wms/\"/>   </service>    <dataset name=\"Regional Climatologies\">      <catalogRef xlink:title=\"Arctic Seas\"       xlink:href=\"http://data.nodc.noaa.gov/thredds/catalog/woa/DATA_ANALYSIS/NP_REG_CLIMAT/DATA/netcdf/catalog.xml\" />              <catalogRef xlink:title=\"East Asian Seas\"       xlink:href=\"http://data.nodc.noaa.gov/thredds/catalog/archive/woa/REGCLIM/EAS/DATA/catalog.xml\" />      <catalogRef xlink:title=\"Greenland/Iceland/Norwegian Seas\"       xlink:href=\"http://data.nodc.noaa.gov/thredds/dodsC/woa/DATA_ANALYSIS/GIN_REG_CLIMAT/DATA/netcdf/catalog.xml\" />              <catalogRef xlink:title=\"Gulf of Mexico\"       xlink:href=\"http://data.nodc.noaa.gov/thredds/catalog/woa/REGCLIM/GULF/DATA/catalog.xml\" />      <catalogRef xlink:title=\"Nordic Seas\"       xlink:href=\"http://data.nodc.noaa.gov/thredds/catalog/woa/REGCLIM/NORDIC_SEAS/DATA/catalog.xml\" />      <catalogRef xlink:title=\"Northwest Atlantic\"       xlink:href=\"http://data.nodc.noaa.gov/thredds/catalog/woa/REGCLIM/NWA/DATA/catalog.xml\" />               </dataset>  </catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "ec5deffdc5c9ca8a02ca9fa16b515074", 
+    "source_url": "http://data.nodc.noaa.gov/nodc/cfg/regional_climatologies.xml"
+}

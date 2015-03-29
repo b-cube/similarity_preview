@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../planet_walk.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image002.jpg\"/>  <o:File HRef=\"image003.png\"/>  <o:File HRef=\"image004.gif\"/>  <o:File HRef=\"image005.png\"/>  <o:File HRef=\"image006.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2754ed10d35008c4007af2a743bf4b55", 
+    "source_url": "http://www.friendsofaatrails.org/planet_walk_files/filelist.xml"
+}

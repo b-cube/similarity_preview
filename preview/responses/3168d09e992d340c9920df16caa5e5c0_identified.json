@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <rdf:RDF xmlns=\"http://usefulinc.com/ns/doap#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"><Project><name>Sphinx</name> <shortdesc>Python documentation generator</shortdesc> <description>Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects (or other documents consisting of multiple reStructuredText sources), written by Georg Brandl.  It was originally created for the new Python documentation, and has excellent facilities for Python project documentation, but C/C++ is supported as well, and more languages are planned.  Sphinx uses reStructuredText as its markup language, and many of its strengths come from the power and straightforwardness of reStructuredText and its parsing and translating suite, the Docutils.  Among its features are the following:  * Output formats: HTML (including derivative formats such as HTML Help, Epub   and Qt Help), plain text, manual pages and LaTeX or direct PDF output   using rst2pdf * Extensive cross-references: semantic markup and automatic links   for functions, classes, glossary terms and similar pieces of information * Hierarchical structure: easy definition of a document tree, with automatic   links to siblings, parents and children * Automatic indices: general index as well as a module index * Code handling: automatic highlighting using the Pygments highlighter * Flexible HTML output using the Jinja 2 templating engine * Various extensions are available, e.g. for automatic testing of snippets   and inclusion of appropriately formatted docstrings * Setuptools integration</description> <download-page>https://pypi.python.org/pypi/Sphinx</download-page> <homepage rdf:resource=\"http://sphinx-doc.org/\" /> <maintainer><foaf:Person><foaf:name>Georg Brandl</foaf:name> <foaf:mbox_sha1sum>d21d15e45612acaa9a2d84e744573972434f1084</foaf:mbox_sha1sum></foaf:Person></maintainer> <release><Version><revision>1.3.1</revision></Version></release> </Project></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3168d09e992d340c9920df16caa5e5c0", 
+    "source_url": "https://pypi.python.org/pypi?:action=doap&name=Sphinx&version=1.3.1"
+}

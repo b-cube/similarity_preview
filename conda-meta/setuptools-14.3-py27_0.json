@@ -1,0 +1,26 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_0", 
+  "build_number": 0, 
+  "channel": "http://repo.continuum.io/pkgs/free/osx-64/", 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "files": [
+    "bin/easy_install", 
+    "lib/python2.7/site-packages/setuptools-14.3-py2.7.egg", 
+    "lib/python2.7/site-packages/setuptools.pth"
+  ], 
+  "license": "PSF or ZPL", 
+  "link": {
+    "source": "//anaconda/pkgs/setuptools-14.3-py27_0", 
+    "type": "hard-link"
+  }, 
+  "md5": "3edba0691321b33799a5d5ca26f9ffa9", 
+  "name": "setuptools", 
+  "platform": "osx", 
+  "requires": [], 
+  "size": 445810, 
+  "url": "http://repo.continuum.io/pkgs/free/osx-64/setuptools-14.3-py27_0.tar.bz2", 
+  "version": "14.3"
+}

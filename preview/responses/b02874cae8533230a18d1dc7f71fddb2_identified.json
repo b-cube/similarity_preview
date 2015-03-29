@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <psh>   <responseDate>2015-03-19T22:48:25Z</responseDate>   <request verb=\"Count\">http://www.opendoar.org/demos/psh.php</request>   <Count>     <header>       <setType />       <setSpec />       <setName />       <datestamp dateType=\"added\">2005</datestamp>       <numItems>87</numItems>     </header>     <header>       <setType />       <setSpec />       <setName />       <datestamp dateType=\"added\">2006</datestamp>       <numItems>529</numItems>     </header>     <header>       <setType />       <setSpec />       <setName />       <datestamp dateType=\"added\">2007</datestamp>       <numItems>166</numItems>     </header>     <header>       <setType />       <setSpec />       <setName />       <datestamp dateType=\"added\">2008</datestamp>       <numItems>270</numItems>     </header>     <header>       <setType />       <setSpec />       <setName />       <datestamp dateType=\"added\">2009</datestamp>       <numItems>263</numItems>     </header>     <header>       <setType />       <setSpec />       <setName />       <datestamp dateType=\"added\">2010</datestamp>       <numItems>297</numItems>     </header>     <header>       <setType />       <setSpec />       <setName />       <datestamp dateType=\"added\">2011</datestamp>       <numItems>350</numItems>     </header>     <header>       <setType />       <setSpec />       <setName />       <datestamp dateType=\"added\">2012</datestamp>       <numItems>232</numItems>     </header>     <header>       <setType />       <setSpec />       <setName />       <datestamp dateType=\"added\">2013</datestamp>       <numItems>318</numItems>     </header>     <header>       <setType />       <setSpec />       <setName />       <datestamp dateType=\"added\">2014</datestamp>       <numItems>215</numItems>     </header>     <header>       <setType />       <setSpec />       <setName />       <datestamp dateType=\"added\">2015</datestamp>       <numItems>98</numItems>     </header>   </Count> </psh>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b02874cae8533230a18d1dc7f71fddb2", 
+    "source_url": "http://www.opendoar.org/demos/psh.php?verb=Count&dateType=added&dateUnit=year"
+}

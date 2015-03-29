@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.T1-403.1989\"> <front> <title>Telecommunications - Carrier-to-Customer Installation - DS1 Metallic Interface</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"February\" year=\"1989\" /> </front>  <seriesInfo name=\"ANSI\" value=\"T1.403\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ea59a2d4da09ff3ebc780bad1517a04b", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.ANSI.T1-403.1989.xml"
+}

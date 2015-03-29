@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.NOTE-CSS-potential-19981210'            target='http://www.w3.org/TR/1998/NOTE-CSS-potential-19981210'> <front> <title>List of suggested extensions to CSS</title>  <author initials='B.' surname='Bos' fullname='Bert Bos'>     <organization /> </author>  <date month='December' day='10' year='1998' /> </front>  <seriesInfo name='World Wide Web Consortium NOTE' value='NOTE-CSS-potential-19981210' /> <format type='HTML' target='http://www.w3.org/TR/1998/NOTE-CSS-potential-19981210' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "feafe615c28e931064e9015a31a9a7a1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-CSS-potential-19981210.xml"
+}

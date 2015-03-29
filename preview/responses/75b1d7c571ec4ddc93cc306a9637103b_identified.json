@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>  <jnlp codebase=\"http://www.virtualocean.org/\"    href=\"webstart2/VirtualOcean.jnlp\">       <information>       <title>Virtual Ocean</title>       <vendor>Lamont-Doherty Earth Observatory of Columbia University</vendor>       <homepage href=\"http://www.virtualocean.org/\"/>       <description>Virtual Ocean</description>       <offline-allowed/>        <icon href=\"webstart2/VOicon_32x32.png\" width=\"32\" height=\"32\"/>       <icon href=\"webstart2/VOicon_64x64.png\" width=\"64\" height=\"64\"/>       <icon kind=\"splash\" href=\"webstart2/version3/VirtualOceanV3.jpg\"/>       <shortcut online=\"true\">         <desktop/>       </shortcut>    </information>      <!--    Requests a trusted application enviornment. Virtual Ocean files are signed with a digital signtaure    associated with Columbia University.   -->     <security>       <all-permissions/>    </security>   <update check=\"timeout\" policy=\"always\"/>  <resources>  <!--  <j2se href=\"http://java.sun.com/products/autodl/j2se\" version=\"1.6+\" initial-heap-size=\"512m\"               max-heap-size=\"512m\"/>-->  <jar href=\"webstart2/VirtualOcean.jar\" download=\"eager\" main=\"false\"/>  <jar href=\"webstart2/worldwind.jar\" download=\"eager\" main=\"false\"/> <!-- worldwind jar 2.0 -->  <jar href=\"webstart2/gdal.jar\"/>   <extension name=\"jogl\" href=\"http://worldwind.arc.nasa.gov/java/2.0.0/webstart/jogl-all.jnlp\"/>    </resources>    <resources os=\"Mac OS X\">  <nativelib href=\"webstart2/webview-natives-macosx.jar\" download=\"eager\" main=\"false\"/> </resources> <resources os=\"Windows\"> <nativelib href=\"webstart2/webview-natives-windows.jar\"/>     <property name=\"sun.java2d.noddraw\" value=\"true\"/> </resources>   <application-desc main-class=\"haxby.worldwind.WWMapApp\">  <argument>3</argument>   </application-desc>    </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "75b1d7c571ec4ddc93cc306a9637103b", 
+    "source_url": "http://www.virtualocean.org/webstart2/VirtualOcean.jnlp"
+}

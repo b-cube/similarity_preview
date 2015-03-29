@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://maritimeboundaries.noaa.gov/arcgis/rest/services/Hydrographic_Services/Planned_Survey_Areas/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b41052c0d8d090dfc3548b7af69f1a84", 
+    "source_url": "http://maritimeboundaries.noaa.gov/arcgis/rest/services/Hydrographic_Services?f=geositemap"
+}

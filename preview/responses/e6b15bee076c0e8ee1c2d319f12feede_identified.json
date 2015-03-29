@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:dcterms=\"http://purl.org/dc/terms/\"   xmlns:documentcontainer=\"http://eidchub.ceh.ac.uk/portal_types/documentContainer#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" >   <documentcontainer:documentContainer rdf:about=\"http://eidchub.ceh.ac.uk/metadata/85421fc3-d4bd-4841-a735-c6005f16edae\">     <dcterms:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2015-02-11T13:30:13Z</dcterms:modified>     <documentcontainer:catalogLink>http://data.ceh.ac.uk/metadata/85421fc3-d4bd-4841-a735-c6005f16edae</documentcontainer:catalogLink>     <documentcontainer:fileIdentifier xml:lang=\"en\">85421fc3-d4bd-4841-a735-c6005f16edae</documentcontainer:fileIdentifier>     <documentcontainer:id xml:lang=\"en\">85421fc3-d4bd-4841-a735-c6005f16edae</documentcontainer:id>     <dcterms:description xml:lang=\"en\">This service displays the location of sites which have been monitored as part of the UK Butterfly Monitoring Scheme (UKBMS). Data includes the location within the UK, the length and width of the line transect on each site, and how long the transect has been monitored.</dcterms:description>     <dcterms:creator>phtr</dcterms:creator>     <dcterms:title xml:lang=\"en\">United Kingdom Butterfly Monitoring Scheme: web map service of site locations</dcterms:title>     <dcterms:subject>infoMapAccessService</dcterms:subject>     <dcterms:subject>Environmental monitoring facilities</dcterms:subject>     <dcterms:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2015-02-11T09:48:22Z</dcterms:issued>     <dcterms:isPartOf rdf:resource=\"http://eidchub.ceh.ac.uk/metadata\"/>     <dcterms:created rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2015-02-04T16:37:24Z</dcterms:created>   </documentcontainer:documentContainer> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e6b15bee076c0e8ee1c2d319f12feede", 
+    "source_url": "http://eidchub.ceh.ac.uk/metadata/85421fc3-d4bd-4841-a735-c6005f16edae/@@rdf"
+}

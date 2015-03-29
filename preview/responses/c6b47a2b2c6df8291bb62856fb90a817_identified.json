@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Dameron2007 </Local-number>  <Author>Dameron, O. J., Parke, M., Albins, M., Brainard, R. </Author>  <Title>Marine debris accumulation in the Northwestern Hawaiian Islands: An examination of rates and processes </Title>  <Journal-Title>Marine Pollution Bulletin </Journal-Title>  <Publication-Date><caldate>2007 </caldate></Publication-Date>  <Volume-ID>54 </Volume-ID>  <Issue-ID>4 </Issue-ID>  <Extent>423-433 </Extent>  <Notes>FY2007 CRCP Project ID 1224; Project Title: Marine Debris Survey and Removal from the Northwest Hawaiian Islands (NWHI); Principal Investigator: Seema Balwani </Notes>  <Abstract>\"Large amounts of derelict fishing gear accumulate and cause damage to shallow coral reefs of the Northwestern Hawaiian Islands (NWHI). To facilitate maintenance of reefs cleaned during 1996-2005 removal efforts, we identify likely high-density debris areas by assessing reef characteristics (depth, benthic habitat type, and energy regime) that influence sub-regional debris accumulation. Previously cleaned backreef and lagoonal reefs at two NWHI locations were resurveyed for accumulated debris using two survey methods. Accumulated debris densities and weights were found to be greater in lagoonal reef areas. Sample weight-based debris densities are extrapolated to similar habitats throughout the NWHI using a spatial net habitat' dataset created by generalizing IKONOS satellite derivatives for depth and habitat classification. Prediction accuracy for this dataset is tested using historical debris point data. Annual NWHI debris accumulation is estimated to be 52.0 metric tonnes. For planning purposes, individual NWHI atolls/reefs are allotted a proportion of this total.\" </Abstract>  <DOI>10.1016/j.marpolbul.2006.11.019 </DOI>  <DOI-URL>http://dx.doi.org/10.1016/j.marpolbul.2006.11.019 </DOI-URL>  <Keywords>Marine debris; Derelict fishing gear; Accumulation rate; Coral reefs; Northwestern Hawaiian Islands </Keywords>  <Date-Time-Last-Modified>20090925000000 </Date-Time-Last-Modified>  <project>  <ID>1224 </ID>  <title>Marine Debris Survey and Removal from the Northwest Hawaiian Islands (NWHI) </title>  <PI>Seema Balwani </PI>  </project>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>article </CoRIS-Record-Type>  <Local-subject-index>article </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c6b47a2b2c6df8291bb62856fb90a817", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BEF204F88-DDD0-4D50-88C8-342AB7E95DE3%7D"
+}

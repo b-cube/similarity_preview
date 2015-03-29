@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Monograph on the spittlebug flies, genus Cladochaeta (Diptera, Drosophilidae, Cladochaetini)</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Nguyen</surname>             <given-names>Tam</given-names>           </name>           <aff>             <institution>American Museum of Natural History, AMNH</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Grimaldi</surname>             <given-names>David A.</given-names>           </name>           <aff>             <institution>American Museum of Natural History, AMNH</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>1999</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/15815\"/>       <self-uri xlink:href=\"https://zenodo.org/record/15815/files/Grimaldi_1999_B241-0002.pdf\"/>     </article-meta>     <abstract>&lt;p&gt;Uploaded by Plazi&lt;/p&gt;</abstract>   </front>   <article-type>publication</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "82df40d975d1f0e0f92f77aba7d5e44a", 
+    "source_url": "http://zenodo.org/record/15815/export/xn"
+}

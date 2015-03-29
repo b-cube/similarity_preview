@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF     xmlns:sy=\"http://web.resource.org/rss/1.0/modules/syndication/\"     xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"     xmlns:dcat=\"http://www.w3.org/ns/dcat#\"     xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\"     xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"     xmlns:oo=\"http://purl.org/openorg/\"     xmlns:org=\"http://www.w3.org/ns/org#\"     xmlns:owl=\"http://www.w3.org/2002/07/owl#\"     xmlns:dc=\"http://purl.org/dc/terms/\"     xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"     xmlns:vcard=\"http://www.w3.org/2006/vcard/ns#\">   <dc:Agent rdf:about=\"mailto:kh525@york.ac.uk\">     <foaf:name>Mr Kelvin Hai</foaf:name>   </dc:Agent>   <oo:OrganizationProfileDocument rdf:nodeID=\"genid1\">     <foaf:primaryTopic rdf:resource=\"http://www.york.ac.uk/.well-known\"/>   </oo:OrganizationProfileDocument>   <org:FormalOrganization>     <foaf:primaryTopic>       <org:FormalOrganization rdf:about=\"http://www.york.ac.uk/.well-known\">         <vcard:tel>           <vcard:Voice rdf:about=\"tel:+44-1904-320-000\">             <rdf:value>tel:+44-1904-320-000</rdf:value>             <rdfs:label>01904 320 000</rdfs:label>           </vcard:Voice>         </vcard:tel>         <owl:sameAs rdf:resource=\"http://dbpedia.org/resource/University_of_York\"/>         <owl:sameAs rdf:resource=\"http://id.learning-provider.data.ac.uk/ukprn/10007167\"/>         <skos:prefLabel>The University of York</skos:prefLabel>         <skos:hiddenLabel>York</skos:hiddenLabel>         <vcard:sortLabel>York, University of</vcard:sortLabel>         <foaf:homepage rdf:resource=\"http://www.york.ac.uk/\"/>         <foaf:logo rdf:resource=\"http://www.york.ac.uk/.well-known/Uni-of-York-black.jpg\"/>       </org:FormalOrganization>     </foaf:primaryTopic>   </org:FormalOrganization>   <dcat:Download rdf:about=\"http://www.york.ac.uk/systems/n8/equipment.rdf\">     <dc:conformsTo rdf:resource=\"http://equipment.n8research.org.uk/research-equipment.html\"/>     <oo:organization rdf:resource=\"http://www.york.ac.uk/.well-known\"/>     <dc:subject rdf:resource=\"http://purl.org/openorg/theme/equipment\"/>     <dc:license rdf:resource=\"http://creativecommons.org/publicdomain/zero/1.0/\"/>     <dc:license rdf:resource=\"http://equipment.n8research.org.uk/research-equipment.html\"/>     <sy:updateFrequency rdf:resource=\"http://purl.org/cld/freq/daily\"/>     <oo:corrections rdf:resource=\"mailto:Kelvin.Hai@york.ac.uk\"/>     <oo:contact rdf:resource=\"mailto:Kelvin.Hai@york.ac.uk\"/>   </dcat:Download> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c97c1cb798a1320a616a9a7fe035eef8", 
+    "source_url": "http://www.york.ac.uk/.well-known/profile.rdf"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/fahad-supplier-data\">     <owl:sameAs rdf:resource=\"urn:uuid:7770cdcd-f688-4c5c-ab70-619d6ef40484\"></owl:sameAs>     <dct:description>-List *of* Supplier Addresses -Corresponding **Amounts**</dct:description>         <dcat:keyword>address</dcat:keyword>         <dcat:keyword>amounts</dcat:keyword>         <dcat:keyword>supplier</dcat:keyword>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/fahad-supplier-data\"></foaf:homepage>     <rdfs:label>fahad-supplier-data</rdfs:label>     <dct:identifier>fahad-supplier-data</dct:identifier>     <dct:title>Fahad Supplier Data</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://demo.ckan.org/dataset/7770cdcd-f688-4c5c-ab70-619d6ef40484/resource/1faef44e-af4d-45e9-9c54-f18b8d36d0ee/download/datamar172015.csv\"></dcat:accessURL>                     <dct:format>                         <dct:IMT>                             <rdf:value>CSV</rdf:value>                             <rdfs:label>CSV</rdfs:label>                         </dct:IMT>                     </dct:format>                <dct:title>List of Supplier Addresses</dct:title>             </dcat:Distribution>         </dcat:distribution>     <dct:creator>       <rdf:Description>         <foaf:name>Joe Alec</foaf:name>         <foaf:mbox rdf:resource=\"mailto:joe@alec.org\"></foaf:mbox>       </rdf:Description>     </dct:creator>     <dct:contributor>       <rdf:Description>         <foaf:name>Fazjo</foaf:name>         <foaf:mbox rdf:resource=\"mailto:fahad.joe@bloggs.com\"></foaf:mbox>       </rdf:Description>     </dct:contributor>     <dct:rights rdf:resource=\"http://reference.data.gov.uk/id/open-government-licence\"></dct:rights>         <dct:relation>           <rdf:Description>             <rdfs:label>Language</rdfs:label>             <rdf:value>English</rdf:value>           </rdf:Description>         </dct:relation>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "88423944c5fc6b391d9b68f0eeabeb3a", 
+    "source_url": "http://demo.ckan.org/dataset/7770cdcd-f688-4c5c-ab70-619d6ef40484.rdf"
+}

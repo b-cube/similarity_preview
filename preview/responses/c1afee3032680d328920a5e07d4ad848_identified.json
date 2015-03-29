@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>5930</id>   <unit>475.5</unit>   <dept_name>Extended Studies</dept_name>   <sub_name>Education, College of</sub_name>   <main_number>4134</main_number>   <location></location>   <comments>     <comment>(see Education, College of)</comment>   </comments>   <employees> <employee>   <id>26702</id>   <name>Rupprecht, Carla</name>   <phone>4134</phone>   <title>General Professional II</title>   <department>Extended Studies</department>   <sub_unit>Education, College of</sub_unit>   <location>COLU 3010</location>   <email>crupprec@uccs.edu</email>   <extra></extra>   <ntname>crupprec</ntname>   <unit>475.5</unit>   <order>9</order> </employee>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c1afee3032680d328920a5e07d4ad848", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=475.5&type=details_by_unit"
+}

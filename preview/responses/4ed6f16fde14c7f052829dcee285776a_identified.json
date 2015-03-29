@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.NOTE-sgml-xml-971215'            target='http://www.w3.org/TR/NOTE-sgml-xml-971215'> <front> <title>Comparison of SGML and XML</title>  <author initials='J.' surname='Clark' fullname='James Clark'>     <organization /> </author>  <date month='December' day='15' year='1997' /> </front>  <seriesInfo name='World Wide Web Consortium NOTE' value='NOTE-sgml-xml-971215' /> <format type='HTML' target='http://www.w3.org/TR/NOTE-sgml-xml-971215' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4ed6f16fde14c7f052829dcee285776a", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-sgml-xml-971215.xml"
+}

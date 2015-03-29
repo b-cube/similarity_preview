@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">British Geological Survey (BGS) Geophysical Survey 2003/1: Regional Study: Hatton-Rockall (11/Aug/2003 to 28/Aug/2003)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:abc9f747-534e-0f38-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">This British Geological Survey (BGS) marine geophysical survey took place during August 2003 on the UK Continental Shelf west of the United Kingdom, specifically in the Rockall and Hatton basins on board the Royal Research Ship RRS Discovery (Cruise D273). The purpose of the survey was to gather data to map the regional geology of the area. A total of 1677 km of good quality data were collected. Sea floor data were collected using an echo-sounder. Subsurface data were gathered using a suite of seismic instruments (airgun, sparker and pinger), plus a gravity meter and a magnetometer. Most of the data were recorded digitally, but paper output was also generated. The data are archived by BGS. Technical details of the survey are contained in BGS Internal Report IR/03/177.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2003-08-28</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f068108c98b665a0c0a76140a9dcb704", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__abc9f747-534e-0f38-e044-0003ba9b0d98.xml/DC"
+}

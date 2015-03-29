@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-CSP-20121115'            target='http://www.w3.org/TR/2012/CR-CSP-20121115'> <front> <title>Content Security Policy 1.0</title>  <author initials='B.' surname='Sterne' fullname='Brandon Sterne'>     <organization /> </author>  <author initials='A.' surname='Barth' fullname='Adam Barth'>     <organization /> </author>  <date month='November' day='15' year='2012' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-CSP-20121115' /> <format type='HTML' target='http://www.w3.org/TR/2012/CR-CSP-20121115' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f691beecfd8f46729cfa01c62036110a", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.CR-CSP-20121115.xml"
+}

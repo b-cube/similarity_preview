@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xsl11-20041216'> <front> <title>Extensible Stylesheet Language (XSL) Version 1.1</title>  <author initials='A' surname='Berglund' fullname='Anders Berglund'>     <organization /> </author>  <date month='December' day='16' year='2004' /> </front>  <seriesInfo name='W3C WD' value='WD-xsl11-20041216' /> <format type='HTML' target='http://www.w3.org/TR/2004/WD-xsl11-20041216' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "893aedfe7bc982b1d1b47155bde6680c", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xsl11-20041216.xml"
+}

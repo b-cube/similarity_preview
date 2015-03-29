@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.NOTE-WCA-19990319'            target='http://www.w3.org/TR/1999/NOTE-WCA-19990319'> <front> <title>Web Characterization: From working group to activity</title>  <author initials='J.' surname='Hjelm' fullname='Johan Hjelm'>     <organization /> </author>  <author initials='H.' surname='Nielsen' fullname='Henrik Frystyk Nielsen'>     <organization /> </author>  <date month='March' day='19' year='1999' /> </front>  <seriesInfo name='World Wide Web Consortium NOTE' value='NOTE-WCA-19990319' /> <format type='HTML' target='http://www.w3.org/TR/1999/NOTE-WCA-19990319' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e4455235c90a9a3831645d8d4bcc82ed", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-WCA-19990319.xml"
+}

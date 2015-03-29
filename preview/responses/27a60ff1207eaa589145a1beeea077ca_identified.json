@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\" ?> <ServiceExceptionReport version=\"1.1.1\"> <ServiceException> Missing mandatory REQUEST parameter. Possibilities are {capabilities|GetCapabilities|map|GetMap|feature_info|GetFeatureInfo} </ServiceException> </ServiceExceptionReport> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1.1", 
+        "protocol": "OGC:error", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "27a60ff1207eaa589145a1beeea077ca", 
+    "source_url": "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/wwa"
+}

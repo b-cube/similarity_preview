@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"   xmlns:lvont=\"http://lexvo.org/ontology#\"   xmlns:lexvo=\"http://lexvo.org/id/\"   xmlns:owl=\"http://www.w3.org/2002/07/owl#\"   xmlns:skos=\"http://www.w3.org/2008/05/skos#\"    xmlns:skosxl=\"http://www.w3.org/2008/05/skos-xl#\"   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"   xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" >  <!-- This data file is a part of  Lexvo http://www.lexvo.org/ Gerard de Melo, 2008-2015  For information about the data sources and the respective copyrights, please see: http://www.lexvo.org/linkeddata/sources.html  This information is available under an open source license. For detailed license information, please refer to: http://www.lexvo.org/legal.html -->  <rdf:Description rdf:about=\"http://lexvo.org/id/term/bcl/Tataramon%20na%20Zamboangue%C3%B1o\">   <rdf:type rdf:resource=\"lvont:Term\" />   <lvont:language rdf:resource=\"http://lexvo.org/id/iso639-3/bcl\" />   <skosxl:literalForm rdf:datatype=\"xsd:string\" xml:lang=\"bcl\">Tataramon na Zamboangue\\ufffd\\ufffdo</skosxl:literalForm>   <lvont:means rdf:resource=\"http://lexvo.org/id/iso639-3/cbk\" />   <lvont:translation rdf:resource=\"http://lexvo.org/id/term/eng/Zamboanga%20Chavacano\" /> </rdf:Description>  </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "69d1fcb125bbcbbf20756e64b2ed3b6d", 
+    "source_url": "http://www.lexvo.org/data/term/bcl/Tataramon%20na%20Zamboangue%C3%B1o"
+}

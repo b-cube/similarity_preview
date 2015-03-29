@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.12327</dc:identifier><dc:creator>Kr\\ufffd\\ufffduter, Christine </dc:creator><dc:creator>Richter, Kerstin</dc:creator><dc:creator>Mesarchaki, Evridiki</dc:creator><dc:creator>Williams, Jonathan</dc:creator><dc:creator>J\\ufffd\\ufffdhne, Bernd</dc:creator><dc:title>A Comparative Lab Study of Transfer Velocities of Volatile Tracers with Widely Varying Solubilities</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;The solubility of volatile tracers in water has an important impact on the gas transfer rates between the atmosphere and the ocean. The velocity of the transport processes of highly soluble tracers is limited by diffusion in the air sided boundary layer, while the water side boundary layer affects the tracers with a very low solubility. Many important environmental trace gases (e.g. acetone, acetaldehyde, acetonitrile) are driven by both processes. The combination of these processes has not yet been investigated and the model that exists is very basic.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2011-03-15</dc:date><dc:source>http://zenodo.org/record/12327</dc:source><dc:doi>10.5281/zenodo.12327</dc:doi><dc:identifier>http://zenodo.org/record/12327</dc:identifier><dc:identifier>oai:zenodo.org:12327</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f1bf2baa6cfa603093a54f7cc29989f7", 
+    "source_url": "https://zenodo.org/record/12327/export/xd"
+}

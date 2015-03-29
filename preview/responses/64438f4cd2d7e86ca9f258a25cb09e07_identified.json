@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>DSpace</ShortName><LongName>Leicester Research Archive</LongName><Description>Leicester Research Archive DSpace repository</Description><InputEncoding>UTF-8</InputEncoding><OutputEncoding>UTF-8</OutputEncoding><Query role=\"example\" searchTerms=\"photosynthesis\" /><Tags>IR DSpace</Tags><Contact>lra@le.ac.uk</Contact><Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://www.dspace.org/images/favicon.ico</Image></OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "64438f4cd2d7e86ca9f258a25cb09e07", 
+    "source_url": "https://lra.le.ac.uk/open-search/description.xml"
+}

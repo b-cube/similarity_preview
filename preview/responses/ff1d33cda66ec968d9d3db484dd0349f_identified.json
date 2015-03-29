@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.X25.1984\"> <front> <title>Interface Between Data Terminal Equipment (DTE) and Data Circuit Terminating Equipment (DCE) for Terminals Operating in the Packet Mode on Public Data Networks</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"October\" year=\"1984\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation X.25\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ff1d33cda66ec968d9d3db484dd0349f", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.CCITT.X25.1984.xml"
+}

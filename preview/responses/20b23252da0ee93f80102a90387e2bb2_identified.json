@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>AFSC/ABL: Juvenile rockfish habitat utilization</dc:title>    <dcterms:alternative>AFSC/ABL: Juvenile rockfish habitat utilization</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>coral, sponge, cobble, gravel, habitat utilization, predation</dc:subject>    <dc:subject>Biota, 002</dc:subject>    <dc:subject>quillback rockfish, Sebastes maliger, Pacific ocean perch, Calcigorgia spiculifera, Mycale bellebellensis</dc:subject>    <dcterms:abstract>Juvenile rockfish were observed amongst coral, sponge, cobble, and gravel habitats. Rockfish utilized coral habitats more than any other, while gravel was the least utilized. Sponge and cobble habitat utilization was intermediate to coral and gravel. Predation of young-of-the-year rockfish by sculpin predators was greatest in gravel habitats and lowest in coral habitats.</dcterms:abstract>    <dc:publisher>Alaska Fisheries Science Center</dc:publisher>    <dc:creator>Malecha, Pat </dc:creator>    <dc:creator>Alaska Fisheries Science Center</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/17270</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/12324</dcterms:isPartOf>    <dcterms:spatial xsi:type=\"dcterms:Box\">                         northlimit=58.4;                         eastlimit=-134.633;                         southlimit=56.035;                         westlimit=-138.158;                                              name=Chatham Strait and Gulf of Alaska;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:Period\">                             start=2005-08;                             end=2009-03;                         </dcterms:temporal>    <dcterms:accessRights>The data set is still being analyzed and will not be available for distribution until it has been finalized and all QA/QC practices have been performed.  Contact the Data Point of Contact for estimated time of release.</dcterms:accessRights> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "20b23252da0ee93f80102a90387e2bb2", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/17270/dublin-core"
+}

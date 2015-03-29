@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Macroautophagy deficiency mediates age-dependent neurodegeneration through a phospho-tau pathway</dc:title><dc:creator>Inoue, Keiichi</dc:creator><dc:creator>Rispoli, Joanne</dc:creator><dc:creator>Kaphzan, Hanoch</dc:creator><dc:creator>Klann, Eric</dc:creator><dc:creator>Chen, Emily</dc:creator><dc:creator>Kim, Jongpil</dc:creator><dc:creator>Komatsu, Masaaki</dc:creator><dc:creator>Abeliovich, Asa</dc:creator><dc:date>2012</dc:date><dc:type>text</dc:type><dc:subject>Neurosciences</dc:subject><dc:subject>Pathology</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8G15Z6W</dc:identifier><dc:description>Background: Macroautophagy is an evolutionarily conserved mechanism for bulk intracellular degradation of proteins and organelles. Pathological studies have implicated macroautophagy defects in human neurodegenerative disorders of aging including Alzheimer\\ufffd\\ufffd\\ufffds disease and tauopathies. Neuronal deficiency of macroautophagy throughout mouse embryonic development results in neurodevelopmental defects and early postnatal mortality. However, the role of macroautophagy in mature CNS neurons, and the relationship with human disease neuropathology, remains unclear. Here we describe mice deficient in an essential macroautophagy component, Atg7, specifically within postnatal CNS neurons. Results: Postnatal forebrain-specific Atg7 conditional knockout (cKO) mice displayed age-dependent neurodegeneration and ubiquitin- and p62-positive inclusions. Phosphorylated tau was significantly accumulated in Atg7 cKO brains, but neurofibrillary tangles that typify end-stage human tauopathy were not apparent. A major tau kinase, glycogen synthase kinase 3\\ufffd\\ufffd (GSK3\\ufffd\\ufffd), was also accumulated in Atg7 cKO brains. Chronic pharmacological inhibition of tau phosphorylation, or genetic deletion of tau, significantly rescued Atg7-deficiency-mediated neurodegeneration, but did not suppress inclusion formation. Conclusions: These data elucidate a role for macroautophagy in the long-term survival and physiological function of adult CNS neurons. Neurodegeneration in the context of macroautophagy deficiency is mediated through a phospho-tau pathway.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "606209c2067a8c94e57cddcd2be30f2c", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A180534.xml"
+}

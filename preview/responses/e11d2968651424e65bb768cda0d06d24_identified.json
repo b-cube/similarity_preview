@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:fn=\"http://www.w3.org/2005/02/xpath-functions\"                  xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/TRMM_L1/TRMM_1B01_CSI_LBAR/1998\"                     ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAR/1998/\">             <thredds:catalogRef name=\"358\" xlink:href=\"358/catalog.xml\" xlink:title=\"358\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAR/1998/358/\"/>             <thredds:catalogRef name=\"359\" xlink:href=\"359/catalog.xml\" xlink:title=\"359\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAR/1998/359/\"/>             <thredds:catalogRef name=\"361\" xlink:href=\"361/catalog.xml\" xlink:title=\"361\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAR/1998/361/\"/>             <thredds:catalogRef name=\"363\" xlink:href=\"363/catalog.xml\" xlink:title=\"363\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAR/1998/363/\"/>             <thredds:catalogRef name=\"364\" xlink:href=\"364/catalog.xml\" xlink:title=\"364\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAR/1998/364/\"/>             <thredds:catalogRef name=\"365\" xlink:href=\"365/catalog.xml\" xlink:title=\"365\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/TRMM_L1/TRMM_1B01_CSI_LBAR/1998/365/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "e11d2968651424e65bb768cda0d06d24", 
+    "source_url": "http://disc2.nascom.nasa.gov/opendap/TRMM_L1/TRMM_1B01_CSI_LBAR/1998/catalog.xml"
+}

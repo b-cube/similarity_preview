@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">gip69</identifier><identifier type=\"pwpk\">85827</identifier><identifier type=\"series\">General Information Product</identifier><identifier type=\"seriesNumber\">69</identifier><identifier type=\"seriesCode\">GIP</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Geology of National Parks</title></titleInfo><originInfo><dateOther>Thu, 10 Jul 2008 00:00 -0500</dateOther><dateIssued>2008</dateIssued><publisher>Geological Survey (U.S.)</publisher></originInfo><name><namePart>Stoffer, Philip W.</namePart><role>Author</role></name><abstract>This is a set of two sheets of 3D images showing geologic features of many National Parks. Red-and-cyan viewing glasses are need to see the three-dimensional effect. A search on the World Wide Web will yield many sites about anaglyphs and where to get 3D glasses. Red-blue glasses will do but red-cyan glasses are a little better. This publication features a photo quiz game: Name that park! where you can explore, interpret, and identify selected park landscapes. Can you identify landscape features in the images? Can you explain processes that may have helped form the landscape features? You can get the answers online.</abstract><physicalDescription><form>2 Sheets: 24 x 20 inches</form><form>Geological Survey (U.S.)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/gip_69.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/gip/69/</url></location><note type=\"citation/reference\">Geology of National Parks; 2008; GIP; 69; General Information Product; Stoffer, Philip W.</note><edition>Version 1.0</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>General Information Product</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "faf617b7780750be211438594cb42096", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=gip69"
+}

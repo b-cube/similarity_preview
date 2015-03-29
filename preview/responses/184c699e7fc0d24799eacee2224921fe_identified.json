@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.moran-sipping-filter\"> <front> <title>Event Notification Filters</title>  <author initials=\"T\" surname=\"Moran\" fullname=\"Tim Moran\">     <organization /> </author>  <date month=\"November\" day=\"16\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-moran-sipping-filter-00\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "184c699e7fc0d24799eacee2224921fe", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.moran-sipping-filter.xml"
+}

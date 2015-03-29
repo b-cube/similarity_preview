@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <Contributors><Contributor>ak</Contributor><Contributor>at</Contributor><Contributor>atlas</Contributor><Contributor>ci</Contributor><Contributor>hv</Contributor><Contributor>ld</Contributor><Contributor>mb</Contributor><Contributor>nc</Contributor><Contributor>nm</Contributor><Contributor>nn</Contributor><Contributor>official</Contributor><Contributor>pr</Contributor><Contributor>pt</Contributor><Contributor>se</Contributor><Contributor>us</Contributor><Contributor>uu</Contributor><Contributor>uw</Contributor></Contributors>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bf968d505b5008caeff0f45b1ef796b1", 
+    "source_url": "http://earthquake.usgs.gov/fdsnws/event/1/contributors"
+}

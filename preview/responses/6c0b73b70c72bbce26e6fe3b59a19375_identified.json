@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns:atom=\"http://www.w3.org/2005/Atom\"   xmlns=\"http://purl.org/rss/1.0/\" >  <channel rdf:about=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CELL-50K&amp;v=1.0\">  <dc:identifier>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CELL-50K&amp;v=1.0</dc:identifier>  <title>CELL-50K List</title>  <link>https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CELL-50K</link>  <description>CELL-50K List Archives</description>  <dc:date>2014-09-08T07:25:24Z</dc:date>  <image rdf:resource=\"http://www.lsoft.com/images/listserv_small.gif\"/>    <items>   <rdf:Seq>     <rdf:li resource=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CELL-50K;49b92ad3.1409\"/>     </rdf:Seq>  </items>   </channel>  <image rdf:about=\"http://www.lsoft.com/images/listserv_small.gif\">     <title>Powered by L-Soft's LISTSERV mailing list manager</title>     <link>http://www.lsoft.com/products/listserv-powered.asp</link>     <url>http://www.lsoft.com/images/listserv_small.gif</url> </image>   <item rdf:about=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CELL-50K;49b92ad3.1409\">   <title>CELL-50k focus session at the inaugural African Quaternary Association meeting </title>   <link>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CELL-50K;49b92ad3.1409</link>   <description> **My apologies for cross posting**&lt;br&gt;CELL-50k focus session at the inaugural African Quaternary Association meeting&lt;br&gt;Funding opportunity for early stage researchers &amp;amp; scientists from lower income countries&lt;br&gt;&lt;br&gt;As a contribution to the CELL-50K INQUA inter-congress focus group, the session: Dating and correlation of African archives of environmental change and archaeology, will be held at the inaugural African Quaternary Association (AfQUA) meeting in Cape Town 30th Jan- 7th Feb 2015. [...]    </description>   <dc:date>2014-09-08T08:13:25+00:00</dc:date>   <dc:creator>Christine Lane</dc:creator>   <dc:identifier>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CELL-50K;49b92ad3.1409</dc:identifier> </item>   </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6c0b73b70c72bbce26e6fe3b59a19375", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=CELL-50K&v=1.0"
+}

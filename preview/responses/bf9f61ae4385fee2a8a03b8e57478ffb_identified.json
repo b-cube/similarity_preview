@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <!-- generator=\"Joomla! - Open Source Content Management\" --> <feed xmlns=\"http://www.w3.org/2005/Atom\"  xml:lang=\"en-gb\">  <title type=\"text\">Home</title>  <subtitle type=\"text\"></subtitle>  <link rel=\"alternate\" type=\"text/html\" href=\"http://192.168.5.138\"/>  <id>http://192.168.5.138/regularProcess/</id>  <updated>2014-07-18T09:30:06+00:00</updated>  <generator uri=\"http://joomla.org\" version=\"2.5\">Joomla! - Open Source Content Management</generator>  <link rel=\"self\" type=\"application/atom+xml\" href=\"http://192.168.5.138/regularProcess/?format=feed&amp;type=atom\"/> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bf9f61ae4385fee2a8a03b8e57478ffb", 
+    "source_url": "http://regularprocess.iode.org/index.html%3Fformat=feed&type=atom"
+}

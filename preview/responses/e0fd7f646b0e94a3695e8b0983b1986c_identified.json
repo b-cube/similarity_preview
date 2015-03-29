@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>TIAA-CREF Communities</ShortName>   <Description>Search TIAA-CREF Communities</Description>   <Contact>communities@tiaacommunities.org</Contact>   <Url type=\"text/html\"        template=\"https://www.tiaacommunities.org/search.jspa?peopleEnabled=true&amp;q={searchTerms}&amp;Submit=Search\" />   <Url type=\"application/atom+xml\"         template=\"https://www.tiaacommunities.org/community/feeds/search/atom?peopleEnabled=true&amp;q={searchTerms}&amp;Submit=Search\" />   <Url type=\"application/rss+xml\"         template=\"https://www.tiaacommunities.org/community/feeds/search/rss2?peopleEnabled=true&amp;q={searchTerms}&amp;Submit=Search\" />   <Image height=\"48\" width=\"48\" type=\"image/png\">https://www.tiaacommunities.org/favicon.png</Image>   <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">https://www.tiaacommunities.org/favicon.ico</Image>   <Query role=\"example\" searchTerms=\"cat\" /> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e0fd7f646b0e94a3695e8b0983b1986c", 
+    "source_url": "https://www.tiaacommunities.org/opensearch.xml"
+}

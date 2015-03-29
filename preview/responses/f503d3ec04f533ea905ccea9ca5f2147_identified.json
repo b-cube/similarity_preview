@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Hurricanes/AllHurricanes/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Hurricanes/AllStorms_Symbolized/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Hurricanes/AllStorms/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Hurricanes/ClimateRegions/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Hurricanes/CountyStrikes/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Hurricanes/CountyStrikesReference/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Hurricanes/HazelSurge/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Hurricanes/HugoSurge/MapServer</loc> </url> <url> <loc>http://coast.noaa.gov/arcgis/rest/services/Hurricanes/test_hurr/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f503d3ec04f533ea905ccea9ca5f2147", 
+    "source_url": "http://coast.noaa.gov/arcgis/rest/services/Hurricanes?f=sitemap"
+}

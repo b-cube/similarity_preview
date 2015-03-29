@@ -1,0 +1,15 @@
+{
+    "content": "<q:quakeml xmlns=\"http://quakeml.org/xmlns/bed/1.2\" xmlns:catalog=\"http://anss.org/xmlns/catalog/0.1\" xmlns:q=\"http://quakeml.org/xmlns/quakeml/1.2\" xmlns:anss=\"http://anss.org/xmlns/event/0.1\"><eventParameters publicID=\"quakeml:ak.anss.org/eventParameters/11530304/1426602213403\"><event publicID=\"quakeml:ak.anss.org/event/11530304\" catalog:datasource=\"ak\" catalog:eventsource=\"ak\" catalog:eventid=\"11530304\"><magnitude publicID=\"quakeml:ak.anss.org/magnitude/11530304/Ml\"><mag><value>3</value></mag><type>Ml</type><originID>quakeml:ak.anss.org/origin/11530304</originID><methodID>quakeml:anss.org/cube/magnitudeType/L</methodID></magnitude><origin publicID=\"quakeml:ak.anss.org/origin/11530304\"><originUncertainty><horizontalUncertainty>500</horizontalUncertainty><preferredDescription>horizontal uncertainty</preferredDescription></originUncertainty><time><value>2015-03-17T14:10:53.000Z</value></time><longitude><value>-152.1173</value></longitude><latitude><value>59.794</value></latitude><depth><value>69000</value><uncertainty>700</uncertainty></depth><methodID>quakeml:anss.org/cube/locationMethod/A</methodID><quality><usedPhaseCount>54</usedPhaseCount><standardError>0.57</standardError></quality><evaluationMode>automatic</evaluationMode></origin><preferredOriginID>quakeml:ak.anss.org/origin/11530304</preferredOriginID><preferredMagnitudeID>quakeml:ak.anss.org/magnitude/11530304/Ml</preferredMagnitudeID><type>earthquake</type><creationInfo><agencyID>ak</agencyID><creationTime>2015-03-17T14:23:33.403Z</creationTime><version>1</version></creationInfo></event><creationInfo><creationTime>2015-03-17T14:23:33.403Z</creationTime></creationInfo></eventParameters></q:quakeml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5796412108683d34e16a00a1196c88d9", 
+    "source_url": "http://earthquake.usgs.gov/realtime/product/origin/ak11530304/ak/1426602213403/quakeml.xml"
+}

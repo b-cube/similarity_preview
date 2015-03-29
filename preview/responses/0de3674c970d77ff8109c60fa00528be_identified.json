@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/7192\"> <title>AEIOU Outputs</title> <link>http://hdl.handle.net/2160/7192</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/7206\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/7205\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/7204\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/7203\"/> </rdf:Seq> </items> <dc:date>2015-03-19T08:53:25Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/7206\"> <title>DSpace Activity Exporter (Binary)</title> <link>http://hdl.handle.net/2160/7206</link> <description>DSpace Activity Exporter (Binary) Corfield, Antony This includes a binary distribution with required Java libraries (jar files) and Howto for deploying and configuring with DSpace. </description> <dc:date>2011-07-27T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/7205\"> <title>AEIOU Evaluation Report - Appendix C</title> <link>http://hdl.handle.net/2160/7205</link> <description>AEIOU Evaluation Report - Appendix C AEIOU project team </description> <dc:date>2011-07-27T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/7204\"> <title>AEIOU Evaluation Report</title> <link>http://hdl.handle.net/2160/7204</link> <description>AEIOU Evaluation Report Evidence Base Research and Evaluation Services </description> <dc:date>2011-07-27T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/7203\"> <title>AEIOU Evaluation Report - Appendix B</title> <link>http://hdl.handle.net/2160/7203</link> <description>AEIOU Evaluation Report - Appendix B AEIOU project team </description> <dc:date>2011-07-27T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0de3674c970d77ff8109c60fa00528be", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/7192"
+}

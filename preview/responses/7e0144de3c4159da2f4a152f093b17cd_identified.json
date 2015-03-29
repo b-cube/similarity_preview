@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Recreational (non-tournament) Billfish &amp; Swordfish Landings</dc:title>    <dcterms:alternative>Recreational (non-tournament) Billfish &amp; Swordfish Landings</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>Atlantic Ocean, Gulf of Mexico, Caribbean Sea, Recreational landings, swordfish, billfish</dc:subject>    <dcterms:abstract>All recreationally caught billfish and swordfish that are landed outside of a registered tournament must be reported to the National Marine Fisheries Service (NMFS). Recreational fishermen may report through a webpage or by calling the Highly Migratory Species (HMS) Recreational Reporting Line.  Webpage submissions automatically update the database; reports that are called in are manually entered by HMS staff.  Data elements collected include species landed, date of landing, date of fishing trip, port of landing, vessel name, vessel permit number, fish length, fish weight, type of trip (charter/private), fishing technique, bait type, fight time, number and species of fish released.   </dcterms:abstract>    <dc:publisher>NMFS Office Of Sustainable Fisheries</dc:publisher>    <dc:creator>NMFS Office Of Sustainable Fisheries</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/22028</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/10866</dcterms:isPartOf>    <dcterms:spatial>                         name=Western North Atlantic and Gulf of Mexico; all billfish landings by HMS-permitted anglers;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:Period\">                           start=2002;                         </dcterms:temporal> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7e0144de3c4159da2f4a152f093b17cd", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/22028/dublin-core"
+}

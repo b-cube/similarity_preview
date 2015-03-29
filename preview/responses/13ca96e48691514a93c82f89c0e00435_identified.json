@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Center2004 </Local-number>  <Author>Kosaki, R., Vroom, P. S. </Author>  <Title>PIFSC Cruise Report CR-04-01 </Title>  <Institution>NOAA PIFSC </Institution>  <Publication-Place>Honolulu, HI </Publication-Place>  <Publication-Date><caldate>2004 </caldate></Publication-Date>  <Extent>108 </Extent>  <Type-Period-Note>Vessel: Hiialakai; Cruise Period: 13 September - 17 October 2004; Area of Operation: Northwestern Hawaiian Islands; Type of Operation: Personnel from the Coral Reef Ecosystem Division, Pacific Islands Fisheries Science Center, National Marine Fisheries Service (NMFS), NOAA, and the Northwestern Hawaiian Islands Ecosystem Reserve, National Ocean Service (NOS), NOAA conducted reef assessment/monitoring and mapping studies in waters surrounding the Northwestern Hawaiian Islands. </Type-Period-Note>  <Abstract>\"Data collected: Digital images of diseased coral; Field notes on signs of coral bleaching or disease; Samples of diseased coral for histopathological analysis; Digital images from algal photoquadrats; Algal voucher specimens; Algal field notes of species diversity and relative abundance; Digital images of the benthic habitat from towboard surveys; Macro-Invertebrate counts from towboard surveys; Quantitative surveys of reef fishes (larger than 50 cm TL) to species level from towboards; Habitat lineation from towboard surveys; Benthic composition estimations from towboard surveys; Videos of the seafloor from TOAD operations; QTC (benthic acoustic signature) data; Acoustic doppler current profiler (ADCP) transects; and Conductivity, temperature, and depth (CTD) profiles to 500 m.\" </Abstract>  <Date-Time-Last-Modified>20140724000000 </Date-Time-Last-Modified>  <URL>http://www.pifsc.noaa.gov/library/pubs/cruise/Hiialakai/CR0401HI-1.PSV.pdf </URL>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "13ca96e48691514a93c82f89c0e00435", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BD09BEE18-9D22-4BCF-ACF7-F41296987FB1%7D"
+}

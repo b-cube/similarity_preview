@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Coveo Enterprise Search</ShortName>   <Url type=\"text/html\" template=\"http://www.idsociety.org/Search.aspx?&amp;sk=IDSADefault&amp;tz=Eastern+Standard+Time&amp;q={searchTerms}\" />   <Url type=\"application/x-suggestions+json\" template=\"http://www.idsociety.org/Search.aspx?&amp;sk=IDSADefault&amp;tz=Eastern+Standard+Time&amp;opensearchsuggest={searchTerms}\" /> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1f3acbdbd0782f942bab8a27d608a2af", 
+    "source_url": "http://www.idsociety.org/Search.aspx?sk=IDSADefault&s=%7e_d0!2!1!!1!8!0!1!!2!!!1!0!2!_d1!_d2!IDSADefault!_d0!_d5!vprpwprptptptpspuqqpuqqqpsp!!yqzqtApupwppvpwpvpupppvpxpBpuppCpqxprpqsq!&opensearch=1"
+}

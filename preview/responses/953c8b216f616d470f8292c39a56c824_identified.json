@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.T140.1998\"> <front> <title>Protocol for Multimedia Application Text Conversation</title> <author> <organization></organization> </author> <date month=\"February\" year=\"1998\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation T.140\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "953c8b216f616d470f8292c39a56c824", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.T140.1998.xml"
+}

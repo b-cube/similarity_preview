@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\">   <title>Gentoo Packages /package/sys-kernel/git-sources</title>   <icon>http://www.gentoo.org/favicon.ico</icon>   <id>http://packages.gentoo.org/feed/package/sys-kernel/git-sources</id>   <generator uri=\"http://packages.gentoo.org/\">Gentoo Packages2</generator>   <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/sys-kernel/git-sources\" type=\"text/html\"/>   <link rel=\"self\" href=\"http://packages.gentoo.org/feed/package/sys-kernel/git-sources\" type=\"application/atom+xml\"/>   <updated>2015-03-04T04:27:35Z</updated>   <entry>  <title xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\">    <div>         <span class=\"cpvstr\">sys-kernel/git-sources</span>: <span class=\"description\">The very latest -git version of the Linux kernel</span>       </div>     </title>     <link rel=\"alternate\" href=\"http://packages.gentoo.org/package/sys-kernel/git-sources\" type=\"text/html\"/>     <id>http://packages.gentoo.org/package/sys-kernel/git-sources?ts=2015-03-03T20:29:11Z</id>     <author>       <name>Mike Pagano (mpagano)</name>       <uri>http://cia.vc/stats/author/mpagano</uri>     </author>     <updated>2015-03-03T20:29:11Z</updated>     <summary xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" type=\"xhtml\"><div>*git-sources-4.0_rc2 (03 Mar 2015)<br/>03 Mar 2015; Mike Pagano (<a href=\"http://cia.vc/stats/author/mpagano\">mpagano</a>) +<a href=\"http://sources.gentoo.org/viewcvs.py/gentoo-x86/sys-kernel/git-sources/git-sources-4.0_rc2.ebuild?view=markup\">git-sources-4.0_rc2.ebuild</a>:<br/>Version bump</div></summary>   </entry> </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "13fd13dd73beb900037ed901b860b072", 
+    "source_url": "http://packages.gentoo.org/feed/package/sys-kernel/git-sources"
+}

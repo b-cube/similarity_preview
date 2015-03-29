@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../dmitri.htm\"/>  <o:File HRef=\"image001.jpg\"/>  <o:File HRef=\"image007.jpg\"/>  <o:File HRef=\"image003.jpg\"/>  <o:File HRef=\"image008.jpg\"/>  <o:File HRef=\"image005.jpg\"/>  <o:File HRef=\"image009.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "56637d5bbd106611c226f3569020e4a9", 
+    "source_url": "http://grads.iges.org/ellfb/Mar05/dmitri/dmitri_files/filelist.xml"
+}

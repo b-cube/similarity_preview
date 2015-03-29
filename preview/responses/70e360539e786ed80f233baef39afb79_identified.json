@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>  <mods xmlns=\"http://www.loc.gov/mods/v3\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd\">    <titleInfo>       <title>Home Universe</title>    </titleInfo>    <name type=\"personal\" ID=\"tet2109\">       <namePart type=\"family\">Townsend</namePart>       <namePart type=\"given\">Torrey</namePart>       <role>          <roleTerm type=\"text\">author</roleTerm>       </role>       <affiliation>Columbia University. Theatre</affiliation>    </name>    <name type=\"corporate\">       <namePart>Columbia University. Theatre</namePart>       <role>          <roleTerm type=\"text\">originator</roleTerm>       </role>    </name>    <typeOfResource>text</typeOfResource>    <genre>Scripts</genre>    <originInfo>       <dateIssued keyDate=\"yes\">2013</dateIssued>    </originInfo>    <language>       <languageTerm type=\"text\">English</languageTerm>    </language>    <abstract>Vicki and Vicki is a young woman in her late 20&#8217;s and Zach is a few years older. They work as digital video editors. Home Universe is about the challenges of a digital world and building and maintaining relationships within it.</abstract>    <note>M.F.A., Columbia University.</note>    <subject>       <topic>Theater</topic>    </subject>    <identifier type=\"CDRS doi\">http://dx.doi.org/10.7916/D8VH5MDP</identifier>    <location>       <physicalLocation authority=\"marcorg\">NNC</physicalLocation>    </location>    <recordInfo>       <recordContentSource authority=\"marcorg\">NNC</recordContentSource>       <recordCreationDate>2014-10-03 14:00:42 -0400</recordCreationDate>       <recordChangeDate>2014-10-03 14:12:49 -0400</recordChangeDate>       <recordIdentifier>18152</recordIdentifier>       <languageOfCataloging>          <languageTerm authority=\"iso639-2b\">eng</languageTerm>       </languageOfCataloging>    </recordInfo> </mods> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "70e360539e786ed80f233baef39afb79", 
+    "source_url": "http://academiccommons.columbia.edu/download/fedora_content/show_pretty/ac:177869/CONTENT/ac177869_description.xml?data=meta"
+}

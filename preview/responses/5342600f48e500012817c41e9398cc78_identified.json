@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Date-Time-Last-Modified>20030418081617 </Date-Time-Last-Modified>  <Personal-Name>Revelle, Roger, 1909-1991 </Personal-Name>  <Title>Chemical erosion of beach rock and exposed reef rock : Bikini and nearby Atolls, Marshall Islands : a study of the solution of calcium carbonate in the intertidal zone / by Roger Revelle and K.O. Emery. </Title>  <Imprint>Washington, D.C. : U.S. G.P.O., 1957. </Imprint>  <Physical-Description>iii, p. 699-709, [5] p. of plates : ill., ; 28 cm. </Physical-Description>  <Series-Statement-Added-Entry>Geological Survey professional paper ; 260-T </Series-Statement-Added-Entry>  <Bibliography-Note>Includes bibliographical references (p. 706-707). </Bibliography-Note>  <Subject-Added-Topical-Term>Chemical oceanography Marshall Islands. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Chemical denudation Marshall Islands. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Beach erosion Marshall Islands. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Calcium carbonate Marshall Islands. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Limestone Marshall Islands. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Seawater Analysis. </Subject-Added-Topical-Term>  <Subject-Added-Geographic-Name>Marshall Islands Environmental conditions. </Subject-Added-Geographic-Name>  <Added-Entry-Personal-Name>Emery, K. O. (Kenneth Orris), 1914-1998 </Added-Entry-Personal-Name>  <Added-Entry-Corporate-Name>Geological Survey (U.S.) </Added-Entry-Corporate-Name>  <Access-Information>NOAA Central Library, Silver Spring, MD|STACKS|QE75 .P9 no.260-T|BOOK|1 </Access-Information>  <Region>RMI </Region>  <Bounding>  <Eastbc>169.97 </Eastbc>  <Westbc>162.302 </Westbc>  <Southbc>5.573 </Southbc>  <Northbc>14.71 </Northbc>  </Bounding>  <Local-number>OCoLC-ocm15645599 </Local-number>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5342600f48e500012817c41e9398cc78", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B3269F6B3-E5C6-49C7-BB5B-43E3F7BF3E9B%7D"
+}

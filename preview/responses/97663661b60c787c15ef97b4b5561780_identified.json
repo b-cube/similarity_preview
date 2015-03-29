@@ -1,0 +1,15 @@
+{
+    "content": "<articles>    <article xmlns:xlink=\"http://www.w3.org/1999/xlink/\">   <front>     <article-meta>       <title-group>         <article-title>Emotion and Metacontrol</article-title>       </title-group>       <contrib-group>         <contrib contrib-type=\"author\">           <name>             <surname>Hern\\ufffd\\ufffdndez</surname>             <given-names>Carlos</given-names>           </name>           <aff>             <institution>UPM Autonomous Systems Laboratory</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>G\\ufffd\\ufffdmez</surname>             <given-names>Jaime</given-names>           </name>           <aff>             <institution>UPM Autonomous Systems Laboratory</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>S\\ufffd\\ufffdnches</surname>             <given-names>Guadalupe</given-names>           </name>           <aff>             <institution>UPM Autonomous Systems Laboratory</institution>           </aff>         </contrib>         <contrib contrib-type=\"author\">           <name>             <surname>Sanz</surname>             <given-names>Ricardo</given-names>           </name>           <aff>             <institution>UPM Autonomous Systems Laboratory</institution>           </aff>         </contrib>       </contrib-group>       <pub-date pub-type=\"pub\">         <year>2010</year>       </pub-date>       <self-uri xlink:href=\"http://zenodo.org/record/7021\"/>       <self-uri xlink:href=\"http://zenodo.org/record/7021/files/EmotionandMetacontrol.pdf\"/>       <self-uri xlink:href=\"http://zenodo.org/record/7021/files/EmotionandMetacontrol.png?subformat=icon-90\"/>     </article-meta>     <abstract>In the ICEA Project we are concerned with the extraction of general designs from rat brains. We are interested in designs that capture the core integrational aspects of emotion and cognition.</abstract>   </front>   <article-type>poster</article-type> </article>   </articles>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "97663661b60c787c15ef97b4b5561780", 
+    "source_url": "https://zenodo.org/record/7021/export/xn"
+}

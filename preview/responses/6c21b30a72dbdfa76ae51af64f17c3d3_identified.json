@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <samples xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"  xsi:noNamespaceSchemaLocation=\"http://data.usgs.gov/nggdpp/NGGDPPMetadataSample_v2.xsd\">     <sample>         <collectionID>123456789</collectionID>         <title>Primary Title</title>         <alternateTitle>             <title>Alternate Title1</title>             <title>Alternate Title2</title>         </alternateTitle>         <abstract><![CDATA[A description.]]></abstract>         <dataType>Rock Core, Rock Cutting</dataType>         <supplementalInformation>             <info>Supplemental information</info>         </supplementalInformation>         <coordinates>-108,47</coordinates>         <alternateGeometry>T2S, R3W Section 14, Northwest Quarter</alternateGeometry>         <onlineResource>             <resourceURL>http://my.collection.gov</resourceURL>             <resourceURL>http://my.collection.gov/item/detail?id=####</resourceURL>         </onlineResource>         <browseGraphic>             <resourceURL>http://my.collection.gov/item/graphic.png</resourceURL>             <resourceURL>ftp://my.collection.gov/item/graphic.gif</resourceURL>         </browseGraphic>         <dates>             <date>1939-1945</date>             <date>20081231</date>         </dates>         <datasetReferenceDate>2008-12-31</datasetReferenceDate>         <verticalExtent>m,35.4,0</verticalExtent>     </sample>     <sample>         <collectionID>P123456789</collectionID>         <title>Primary Title</title>         <alternateTitle>             <title>Alternate Title1</title>             <title>Alternate Title2</title>         </alternateTitle>         <abstract>Description</abstract>         <dataType>Rock Core, Rock Cutting</dataType>         <supplementalInformation>             <info>Supplemental information</info>         </supplementalInformation>         <coordinates>-108.1234,47.1234</coordinates>         <alternateGeometry>T2S, R3W Section 14, Northwest Quarter</alternateGeometry>         <onlineResource>             <resourceURL>http://my.collection.gov</resourceURL>             <resourceURL>http://my.collection.gov/item/detail?id=####</resourceURL>         </onlineResource>         <browseGraphic>             <resourceURL>http://my.collection.gov/item/graphic.png</resourceURL>             <resourceURL>http://my.collection.gov/item/graphic.gif</resourceURL>         </browseGraphic>         <dates>             <date></date>         </dates>         <datasetReferenceDate>20081231</datasetReferenceDate>         <verticalExtent>m,35.4,0</verticalExtent>     </sample>     </samples> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6c21b30a72dbdfa76ae51af64f17c3d3", 
+    "source_url": "http://datapreservation.usgs.gov/catalog_and_metadata_reference_info/NGGDPP2SampleMetadata.xml"
+}

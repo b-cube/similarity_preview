@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.guttman-svrloc-rfc2608bis'> <front> <title>Service Location Protocol, Version 2</title>  <author initials='E' surname='Guttman' fullname='Erik Guttman'>     <organization /> </author>  <author initials='J' surname='Kempf' fullname='James Kempf'>     <organization /> </author>  <date month='January' day='10' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-guttman-svrloc-rfc2608bis-02' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-guttman-svrloc-rfc2608bis-02.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6d4ab449f3f128e3a161f341d5c73462", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.guttman-svrloc-rfc2608bis.xml"
+}

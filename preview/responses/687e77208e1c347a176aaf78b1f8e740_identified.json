@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?>  <?xml-stylesheet   href=\"doc.xsl\"    type=\"text/xsl\"   ?>  <!DOCTYPE doc SYSTEM \"doc.dtd\">  <doc>Hello, world!<!-- Comment 1 --></doc>  <?pi-without-data     ?>  <!-- Comment 2 -->  <!-- Comment 3 --> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "687e77208e1c347a176aaf78b1f8e740", 
+    "source_url": "http://www.w3.org/2008/xmlsec/Drafts/c14n-20/test-cases/FPWD-2011-12/files/inC14N1.xml"
+}

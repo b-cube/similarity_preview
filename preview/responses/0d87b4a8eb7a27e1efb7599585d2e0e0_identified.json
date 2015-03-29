@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.ietf-rohc-over-ppp\"> <front> <title>ROHC over PPP</title>  <author initials=\"C\" surname=\"Bormann\" fullname=\"Carsten Bormann\">     <organization /> </author>  <date month=\"November\" day=\"16\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-ietf-rohc-over-ppp-04\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0d87b4a8eb7a27e1efb7599585d2e0e0", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-rohc-over-ppp.xml"
+}

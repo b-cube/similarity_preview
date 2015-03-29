@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../LD%20Tools%20Excel%20on%20Windows%202013.htm\"/>  <o:File HRef=\"image008.jpg\"/>  <o:File HRef=\"image010.jpg\"/>  <o:File HRef=\"image014.png\"/>  <o:File HRef=\"SaveAs.jpg\"/>  <o:File HRef=\"ShortCut.jpg\"/>  <o:File HRef=\"TrustCenter.jpg\"/>  <o:File HRef=\"TrustedDirectory.jpg\"/>  <o:File HRef=\"TrustedLocations.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5733a20af6fa765cfe88d7eef04b6ce5", 
+    "source_url": "http://www.usnhgateway.org/hr_tools/daily_rate_conv_Office_2013_files/filelist.xml"
+}

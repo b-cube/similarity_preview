@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <rdf:RDF xmlns=\"http://usefulinc.com/ns/doap#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"><Project><name>Babel</name> <shortdesc>Internationalization utilities</shortdesc> <description>A collection of tools for internationalizing Python applications.</description> <homepage rdf:resource=\"http://babel.pocoo.org/\" /> <maintainer><foaf:Person><foaf:name>Armin Ronacher</foaf:name> <foaf:mbox_sha1sum>c7ba33ae7e575ec4e37640d5fb9b76fc2df7a623</foaf:mbox_sha1sum></foaf:Person></maintainer> <release><Version><revision>1.3</revision></Version></release> </Project></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1579aa23c82348932bb1df8d35007f3f", 
+    "source_url": "https://pypi.python.org/pypi?:action=doap&name=Babel&version=1.3"
+}

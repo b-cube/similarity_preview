@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"   xmlns:owl=\"http://www.w3.org/2002/07/owl#\"   xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dcat=\"http://www.w3.org/ns/dcat#\"   xmlns:dct=\"http://purl.org/dc/terms/\" >   <dcat:Dataset rdf:about=\"http://beta.ckan.org/dataset/france\">     <owl:sameAs rdf:resource=\"urn:uuid:35be2468-b67f-403f-9c6d-803f0856c16b\"/>     <dct:description>Nice picture</dct:description>              <dcat:keyword>France</dcat:keyword>          <foaf:homepage rdf:resource=\"http://beta.ckan.org/dataset/france\"/>     <rdfs:label>france</rdfs:label>      <dct:identifier>france</dct:identifier>     <dct:title>France</dct:title>              <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://www.francemedia.com/wp-content/uploads/2013/01/FMG-because-we-love-france.jpg\"/>                                          <dct:format>                         <dct:IMT>                             <rdf:value>JPEG</rdf:value>                             <rdfs:label>JPEG</rdfs:label>                         </dct:IMT>                     </dct:format>                                     <dct:title>Louvre</dct:title>             </dcat:Distribution>         </dcat:distribution>                              </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "100a7fe76ddbe9df5b386a02514abf9e", 
+    "source_url": "http://beta.ckan.org/dataset/35be2468-b67f-403f-9c6d-803f0856c16b.rdf"
+}

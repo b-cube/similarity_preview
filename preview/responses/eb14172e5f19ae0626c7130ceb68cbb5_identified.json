@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><xml><records><record><source-app name=\"Biblio\" version=\"6.x\">Drupal-Biblio</source-app><ref-type>17</ref-type><contributors><authors><author><style face=\"normal\" font=\"default\" size=\"100%\">Bermek, Hakan</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Catal, Tunc</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Akan, S. S\\ufffd\\ufffdha</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Uluta\\ufffd\\ufffd, Mehmet Sefa</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Kumru, Mert</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">\\ufffd\\ufffdzg\\ufffd\\ufffdven, Mine</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Liu, Hong</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">\\ufffd\\ufffdz\\ufffd\\ufffdelik, Beraat</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Akarsuba\\ufffd\\ufffd\\ufffd\\ufffd, Alper Tunga</style></author></authors></contributors><titles><title><style face=\"normal\" font=\"default\" size=\"100%\">Olive mill wastewater treatment in single-chamber air-cathode microbial fuel cells</style></title><secondary-title><style face=\"normal\" font=\"default\" size=\"100%\">World Journal of Microbiology and Biotechnology</style></secondary-title><short-title><style face=\"normal\" font=\"default\" size=\"100%\">World J Microbiol Biotechnol</style></short-title></titles><keywords><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">electricity generation</style></keyword><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">microbial fuel cell</style></keyword><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">wastewater</style></keyword><keyword><style  face=\"normal\" font=\"default\" size=\"100%\">Water Engineering</style></keyword></keywords><dates><year><style  face=\"normal\" font=\"default\" size=\"100%\">2014</style></year><pub-dates><date><style  face=\"normal\" font=\"default\" size=\"100%\">4/2014</style></date></pub-dates></dates><volume><style face=\"normal\" font=\"default\" size=\"100%\">30</style></volume><pages><style face=\"normal\" font=\"default\" size=\"100%\">1177 - 1185</style></pages><issue><style face=\"normal\" font=\"default\" size=\"100%\">4</style></issue><notes><style face=\"normal\" font=\"default\" size=\"100%\">OSU authors: Catal and Liu</style></notes></record></records></xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "eb14172e5f19ae0626c7130ceb68cbb5", 
+    "source_url": "http://water.oregonstate.edu/biblio/export/xml/2144"
+}

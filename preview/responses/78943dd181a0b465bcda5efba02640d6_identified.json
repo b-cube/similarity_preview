@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ds599</identifier><identifier type=\"pwpk\">99257</identifier><identifier type=\"series\">Data Series</identifier><identifier type=\"seriesNumber\">599</identifier><identifier type=\"seriesCode\">DS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Coal database for Cook Inlet and North Slope, Alaska</title></titleInfo><originInfo><dateOther>Wed, 11 May 2011 00:00 -0500</dateOther><dateIssued>2011</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Stricker, Gary D.; Spear, Brianne D.; Sprowl, Jennifer M.; Dietrich, John D.; McCauley, Michael I.; Kinney, Scott A.</namePart><role>Author</role></name><abstract>This database is a compilation of published and nonconfidential unpublished coal data from Alaska. Although coal occurs in isolated areas throughout Alaska, this study includes data only from the Cook Inlet and North Slope areas. The data include entries from and interpretations of oil and gas well logs, coal-core geophysical logs (such as density, gamma, and resistivity), seismic shot hole lithology descriptions, measured coal sections, and isolated coal outcrops. &#xd; </abstract><physicalDescription><form>v, 11 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/ds_599.png</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/ds/599/</url></location><note type=\"citation/reference\">Coal database for Cook Inlet and North Slope, Alaska; 2011; DS; 599; Data Series; Stricker, Gary D.; Spear, Brianne D.; Sprowl, Jennifer M.; Dietrich, John D.; McCauley, Michael I.; Kinney, Scott A.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Data Series</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "78943dd181a0b465bcda5efba02640d6", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ds599"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>6668</id>   <unit>150.6</unit>   <dept_name>Bookstore</dept_name>   <sub_name>General Merchandise</sub_name>   <main_number></main_number>   <location></location>   <comments>     <comment></comment>   </comments>   <employees>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c98131c8ea124bccb334326f654191ce", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=150.6&type=details_by_unit"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<!--This represents the collation formula for Albertus Magnus     sermones de eucharistiae 1477 (A-135A), brackets on     number representing fact that no longer considered an incunable,     in _Catalogue of Books Printed in the Fifteenth Century Now in the     Bodleian Library_  Oxford: Oxford UP, 2005 which is 735 in the     _Gesamtkatalog der Wiegendrucke_ note that th representation below     is friendlier to the _GW_ notation than it is to the Bodleian     Catalogue notation, which would summarize the first four     gatherings as  \"a - d (6.4)\" where brackets represent superscript -->  <collation>  <format>folio</format>  <formula>   <gatherings>   <signatureAlphabet>23 letter</signatureAlphabet>   <gatheringRange signed=\"yes\">    <start>a</start>    <end>a</end>    <leaves>6</leaves>   </gatheringRange>   <gatheringRange signed=\"yes\">    <start>b</start>    <end>b</end>    <leaves>4</leaves>   </gatheringRange>   <gatheringRange signed=\"yes\">    <start>c</start>    <end>c</end>    <leaves>6</leaves>   </gatheringRange>   <gatheringRange signed=\"yes\">    <start>d</start>    <end>d</end>    <leaves>4</leaves>   </gatheringRange>   <gatheringRange signed=\"yes\">    <start>e</start>    <end>e</end>    <leaves>4</leaves>   </gatheringRange>   <gatheringRange signed=\"yes\">    <start>f</start>    <end>f</end>    <leaves>6</leaves>   </gatheringRange>   <gatheringRange signed=\"yes\">    <start>g</start>    <end>g</end>    <leaves>4</leaves>   </gatheringRange>   </gatherings>   <totalLeaves>34</totalLeaves>  </formula> </collation>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7a32d72d531defe24296de799b0acd80", 
+    "source_url": "http://www.tei-c.org/Activities/Workgroups/PB/albertus-sample-1.xml?style=raw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/gilpin-county-buildingfootprints\" rel=\"alternate\"></link><id>/revision/gilpin-county-buildingfootprints</id><updated>2015-03-18T21:23:52Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "77c1b75c950c262d0b642fb24f72f226", 
+    "source_url": "http://data.opencolorado.org/dataset/history/gilpin-county-buildingfootprints?days=7&format=atom"
+}

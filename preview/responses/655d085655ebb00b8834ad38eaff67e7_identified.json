@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.ash-multi-area-te-reqmts\"> <front> <title>Requirements for Multi-Area TE</title>  <author initials=\"J\" surname=\"Ash\" fullname=\"Jerry Ash\">     <organization /> </author>  <date month=\"November\" day=\"29\" year=\"2001\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-ash-multi-area-te-reqmts-01\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "655d085655ebb00b8834ad38eaff67e7", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.ash-multi-area-te-reqmts.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/cmgp_FldActivity/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/coastal_vulnerability_index/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/cvi_WFS/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/gloria/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/InlandWaters/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/SedMobility/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/slc_Bayes_WFS/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/slc_HistoricShoreline/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/slc_LongTerm/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/slc_OffshoreBaseline/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/slc_ShortTerm/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/UnderSeaFeatures/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/US_CZMPcounties2009/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/usSEABED/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/National/whsc_sed_archive/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "47cf01270ea2bc1bce5c6d81cb751498", 
+    "source_url": "http://coastalmap.marine.usgs.gov/cmgp/rest/services/National?f=geositemap"
+}

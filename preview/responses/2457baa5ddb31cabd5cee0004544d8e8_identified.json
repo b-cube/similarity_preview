@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <xs:schema xmlns:xs=\"http://www.w3.org/2001/XMLSchema\"            targetNamespace=\"http://www.w3.org/1999/xhtml\"            xmlns:simpleml=\"http://www.example.com/xmlns/simpleml1\"            xmlns=\"http://www.w3.org/1999/xhtml\"            blockDefault=\"#all\">    <xs:import namespace=\"http://www.w3.org/XML/1998/namespace\"              schemaLocation=\"http://www.w3.org/2001/xml.xsd\"/>    <xs:import namespace=\"http://www.w3.org/1998/Math/MathML\"             schemaLocation=\"http://www.w3.org/Math/XMLSchema/mathml2/mathml2.xsd\"/>    <xs:include schemaLocation=\"http://www.w3.org/MarkUp/SCHEMA/xhtml11-modules-1.xsd\"/>    <xs:include schemaLocation=\"mathml-model-1.xsd\"/>  </xs:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2457baa5ddb31cabd5cee0004544d8e8", 
+    "source_url": "http://www.w3.org/MarkUp/SCHEMA/examples/xhtml-mathml.xsd"
+}

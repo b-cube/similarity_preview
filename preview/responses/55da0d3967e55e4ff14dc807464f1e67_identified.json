@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <rdf:RDF xmlns=\"http://usefulinc.com/ns/doap#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"><Project><name>h5py</name> <shortdesc>Read and write HDF5 files from Python</shortdesc> <description>The h5py package provides both a high- and low-level interface to the HDF5 library from Python. The low-level interface is intended to be a complete wrapping of the HDF5 API, while the high-level component supports  access to HDF5 files, datasets and groups using established Python and NumPy concepts.  A strong emphasis on automatic conversion between Python (Numpy) datatypes and data structures and their HDF5 equivalents vastly simplifies the process of reading and writing data from Python.  Supports HDF5 versions 1.8.4 and higher.  On Windows, HDF5 is included with the installer.</description> <homepage rdf:resource=\"http://www.h5py.org\" /> <maintainer><foaf:Person><foaf:name>Andrew Collette</foaf:name> <foaf:mbox_sha1sum>e9d8282587555afc1c6589f28ea0e4deeeb7d653</foaf:mbox_sha1sum></foaf:Person></maintainer> <release><Version><revision>2.4.0</revision></Version></release> </Project></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "55da0d3967e55e4ff14dc807464f1e67", 
+    "source_url": "https://pypi.python.org/pypi?:action=doap&name=h5py&version=2.4.0"
+}

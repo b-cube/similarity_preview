@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>De Luca, Giancarlo</a1>   <a2>Mariani, Patrizio</a2>   <a2>MacKenzie, Brian R.</a2>   <a2>Marsili, Matteo</a2>   <t1>Fishing out collective memory of migratory schools</t1>   <t2/>   <sn/>   <op>1-29</op>   <vo>11</vo>   <ab>&lt;p&gt;Animals form groups for many reasons, but there are costs and benefits associated with group formation. One of the benefits is collective memory. In groups on the move, social interactions play a crucial role in the cohesion and the ability to make consensus decisions. When migrating from spawning to feeding areas, fish schools need to retain a collective memory of the destination site over thousands of kilometres, and changes in group formation or individual preference can produce sudden changes in migration pathways. We propose a modelling framework, based on stochastic adaptive networks, that can reproduce this collective behaviour. We assume that three factors control group formation and school migration behaviour: the intensity of social interaction, the relative number of informed individuals and the strength of preference that informed individuals have for a particular migration area. We treat these factors independently and relate the individuals&amp;#39; preferences to the experience and memory for certain migration sites. We demonstrate that removal of knowledgeable individuals or alteration of individual preference can produce rapid changes in group formation and collective behaviour. For example, intensive fishing targeting the migratory species and also their preferred prey can reduce both terms to a point at which migration to the destination sites is suddenly stopped. The conceptual approaches represented by our modelling framework may therefore be able to explain large-scale changes in fish migration and spatial distribution.&lt;/p&gt;</ab>   <la/>   <k1>consensus decision;                 network dynamics;                 migration;                 collective behaviour;                 stochastic adaptive networks;                 bluefin tuna;                 </k1>   <pb/>   <pp/>   <yr>2014-06-06</yr>   <ed/>   <ul>https://zenodo.org/record/10450/files/De_Luca.pdf;  https://zenodo.org/record/10450/files/De_Luca.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c2527e2b7b44c1f3b755f02fa605b989", 
+    "source_url": "https://zenodo.org/record/10450/export/xw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"/allData/1003/MOD09Q1/2010\"                     ID=\"/opendap/hyrax/allData/1003/MOD09Q1/2010/\">             <thredds:catalogRef name=\"001\" xlink:href=\"001/catalog.xml\" xlink:title=\"001\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/1003/MOD09Q1/2010/001/\"/>             <thredds:catalogRef name=\"033\" xlink:href=\"033/catalog.xml\" xlink:title=\"033\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/1003/MOD09Q1/2010/033/\"/>             <thredds:catalogRef name=\"057\" xlink:href=\"057/catalog.xml\" xlink:title=\"057\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/1003/MOD09Q1/2010/057/\"/>             <thredds:catalogRef name=\"065\" xlink:href=\"065/catalog.xml\" xlink:title=\"065\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/1003/MOD09Q1/2010/065/\"/>             <thredds:catalogRef name=\"185\" xlink:href=\"185/catalog.xml\" xlink:title=\"185\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/1003/MOD09Q1/2010/185/\"/>             <thredds:catalogRef name=\"217\" xlink:href=\"217/catalog.xml\" xlink:title=\"217\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/1003/MOD09Q1/2010/217/\"/>             <thredds:catalogRef name=\"225\" xlink:href=\"225/catalog.xml\" xlink:title=\"225\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/1003/MOD09Q1/2010/225/\"/>             <thredds:catalogRef name=\"361\" xlink:href=\"361/catalog.xml\" xlink:title=\"361\" xlink:type=\"simple\"                           ID=\"/opendap/hyrax/allData/1003/MOD09Q1/2010/361/\"/>         </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "75472566e2f18acd04eefcdde5bae0e4", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/allData/1003/MOD09Q1/2010/catalog.xml"
+}

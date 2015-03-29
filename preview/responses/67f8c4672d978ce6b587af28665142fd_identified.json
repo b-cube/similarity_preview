@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' ?> <?xml-stylesheet type='text/xsl' href='http://phonedir.uccs.edu/template/directory.xsl'?> <directory_details> <department>   <id>6916</id>   <unit>105.2</unit>   <dept_name>Auxiliary Services</dept_name>   <sub_name>Marketing</sub_name>   <main_number></main_number>   <location></location>   <comments>     <comment></comment>   </comments>   <employees>   </employees> </department> </directory_details> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "67f8c4672d978ce6b587af28665142fd", 
+    "source_url": "http://phonedir.uccs.edu/request.php?unit=105.2&type=details_by_unit"
+}

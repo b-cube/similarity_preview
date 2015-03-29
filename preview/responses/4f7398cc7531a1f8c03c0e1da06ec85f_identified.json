@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>Influencing User Behavior through Digital Library Design: An Example from the Geosciences </title> <creator>Cathy A. Manduca</creator> <creator>Ellen R. Iverson</creator> <creator>Sean Fox</creator> <creator>Flora McMartin</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">May 2005</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/may2005-fox</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/may05/fox/05fox.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>11</volume> <issue>5</issue> </relation> <rights>Copyright Cathy A. Manduca, Ellen R. Iverson, Sean Fox and Flora McMartin</rights> </dlib-meta0.1>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4f7398cc7531a1f8c03c0e1da06ec85f", 
+    "source_url": "http://www.dlib.org/dlib/may05/fox/05fox.meta.xml"
+}

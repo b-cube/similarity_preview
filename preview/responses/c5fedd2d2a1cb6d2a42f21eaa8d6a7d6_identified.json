@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/documents/dc-text/\">    <dc:title>Expressing Dublin Core metadata using the DC-Text format</dc:title>    <dc:description>This document specifies a simple text format for representing a Dublin Core metadata description set. The format is known as \"DC-Text\".</dc:description>    <dc:date>2007-12-03</dc:date>    <dc:format>text/html</dc:format>    <dc:language>en</dc:language>    <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>    <dc:creator>Pete Johnston</dc:creator> </rdf:Description> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c5fedd2d2a1cb6d2a42f21eaa8d6a7d6", 
+    "source_url": "http://www.dublincore.org/documents/dc-text/index.shtml.rdf"
+}

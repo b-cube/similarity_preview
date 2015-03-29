@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.X501.1997\"> <front> <title>Information Technology - Open Systems Interconnection - The Directory: Models</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"\" year=\"1997\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation X.501\" /> <seriesInfo name=\"ISO\" value=\"Standard 9594-2\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2cb01a4c05f38b7758a2f0798352d6b6", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.X501.1997.xml"
+}

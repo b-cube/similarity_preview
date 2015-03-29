@@ -1,0 +1,15 @@
+{
+    "content": "<response><row><row _id=\"1\" _uuid=\"85209D3C-1F4C-40FD-B549-59973B9A5A9B\" _position=\"1\" _address=\"http://data.lacity.org/resource/_75mm-gccg/1\"><number_of_grantees_by_type>273</number_of_grantees_by_type><total_number_of_grantees_by_type_fy2014>257</total_number_of_grantees_by_type_fy2014></row></row></response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "606bcabf37372bdb70cd624b3c87ae61", 
+    "source_url": "https://data.lacity.org/api/views/75mm-gccg/rows.xml?accessType=DOWNLOAD"
+}

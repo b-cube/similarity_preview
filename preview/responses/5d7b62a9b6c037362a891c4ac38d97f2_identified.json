@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"                        xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <ShortName>SIWI</ShortName>   <LongName>SIWI - web search</LongName>   <Description>Make a search on SIWI.</Description>   <Attribution>Copyright 2009-2013 Richard Esplin</Attribution>   <Tags>alfresco_addons alfresco_community_edition Alfresco_Summit apology apple asus banjo blog business byteflow cmis CMIS community content_management cooperatives</Tags>   <Url type=\"text/html\" template=\"http://richard.esplins.org/search/?pattern={searchTerms}\" />   <Url type=\"application/rss+xml\" template=\"http://richard.esplins.org/siwi/feeds/search/?pattern={searchTerms}\" />   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://richard.esplins.org/opensearch.xml\"/>   <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">/static/django/zinnia/img/favicon.ico</Image>   <Query role=\"example\" searchTerms=\"alfresco_addons\" />   <Developer>Fantomas42</Developer>   <Contact>fantomas42@gmail.com</Contact>   <SyndicationRight>open</SyndicationRight>   <AdultContent>false</AdultContent>   <Language>en-us</Language>   <OutputEncoding>UTF-8</OutputEncoding>   <InputEncoding>UTF-8</InputEncoding>   <moz:SearchForm>http://richard.esplins.org/</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en-us", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5d7b62a9b6c037362a891c4ac38d97f2", 
+    "source_url": "http://richard.esplins.org/opensearch.xml"
+}

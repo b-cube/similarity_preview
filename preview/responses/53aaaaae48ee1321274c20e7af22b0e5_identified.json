@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0024\">   <front>     <title>Publish/Subscribe</title>     <author initials=\"D.\" surname=\"Adams\" fullname=\"DJ Adams\">       <organization/>       <address>         <email>dj.adams@pobox.com</email>       </address>     </author>     <author initials=\"P.\" surname=\"Harding\" fullname=\"Piers Harding\">       <organization/>       <address>         <email>piers@ompa.net</email>       </address>     </author>     <date day=\"22\" month=\"April\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0024\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0024.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "53aaaaae48ee1321274c20e7af22b0e5", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0024.xml"
+}

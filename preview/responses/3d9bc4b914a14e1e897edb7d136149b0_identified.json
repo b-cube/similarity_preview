@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0098\">   <front>     <title>Enhanced Private XML Storage</title>     <author initials=\"I.\" surname=\"Shigeoka\" fullname=\"Iain Shigeoka\">       <organization/>       <address>         <email>iain@jivesoftware.com</email>       </address>     </author>     <date day=\"25\" month=\"June\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0098\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0098.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3d9bc4b914a14e1e897edb7d136149b0", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0098.xml"
+}

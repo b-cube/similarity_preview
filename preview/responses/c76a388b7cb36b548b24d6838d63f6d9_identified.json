@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>2013a </Local-number>  <Author>Kitchell, A. (compiler) </Author>  <Title>Summary of USVI Green Construction Training, St John </Title>  <Institution>NOAA IGBA Horsley Witten Group </Institution>  <Publication-Date><caldate>2013 </caldate></Publication-Date>  <Extent>39 </Extent>  <Type-Period-Note>Workshop Report </Type-Period-Note>  <Notes>CRCP Project ID 507; Project Title: Green Construction Rewards Program in USVI; Principal Investigator: Lisamarie Carrubba </Notes>  <Abstract>\"This memorandum provides a brief summary of the July 16, 2013 USVI Green Construction Training at the UVI St. John Academic Center in Cruz Bay. The purpose of the clinic was to: 1) kickoff a series of workshops on green design and construction in the USVI sponsored by NOAA and DPNR; 2) increase exposure and build membership for the Island Green Building Association (IGBA); and 3) distribute DVDs with newly compiled training materials related to building green in the USVI. The training on St. John is to be followed by trainings on St. Croix and St. Thomas over the next year targeting designers, implementers, agencies, and homeowners.\" </Abstract>  <Date-Time-Last-Modified>20130805000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/507/130730_STJ-Green-Construction-Training-Summary_full.pdf </URL>  <project>  <ID>507 </ID>  <title>Green Construction Rewards Program in USVI </title>  <PI>Lisamarie Carrubba </PI>  </project>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>outreach </Local-subject-index>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c76a388b7cb36b548b24d6838d63f6d9", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B873F4406-0BFD-4DAF-BF8F-FB5778D25555%7D"
+}

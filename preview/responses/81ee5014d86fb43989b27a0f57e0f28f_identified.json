@@ -1,0 +1,15 @@
+{
+    "content": "<!-- Processed by Id: cwm.py,v 1.93 2002/05/14 22:11:04 timbl Exp --> <!--     using base file:/home/connolly/w3ccvs/WWW/2002/03owlt/bogus-->   <rdf:RDF xmlns=\"http://www.w3.org/2002/03owlt/myList#\"     xmlns:ex=\"http://www.w3.org/2002/03owlt/myList#\"     xmlns:log=\"http://www.w3.org/2000/10/swap/log#\"     xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">      <Big rdf:about=\"http://www.w3.org/2002/03owlt/myList#bill\">         <rdf:type rdf:resource=\"http://www.w3.org/2002/03owlt/myList#Tall\"/>     </Big> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "81ee5014d86fb43989b27a0f57e0f28f", 
+    "source_url": "http://www.w3.org/2002/03owlt/mapVocabC.rdf"
+}

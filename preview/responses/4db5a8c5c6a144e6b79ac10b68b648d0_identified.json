@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/1853/10739\"> <title>Recycling of Fibrous Textile and Carpet Waste Conference (9th - 2004)</title> <link>http://hdl.handle.net/1853/10739</link> <description>May 10-11, 2004, Dalton, Georgia</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/10824\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/10823\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/10822\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/1853/10821\"/> </rdf:Seq> </items> <dc:date>2015-03-15T23:17:07Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/1853/10824\"> <title>Recycling, Sustainability and the Environment</title> <link>http://hdl.handle.net/1853/10824</link> <description>Recycling, Sustainability and the Environment Wang, Youjiang </description> <dc:date>2004-05-11T00:00:00Z</dc:date> <dc:creator>Wang, Youjiang</dc:creator> </item> <item rdf:about=\"http://hdl.handle.net/1853/10823\"> <title>Modern Solutions for Shredding, Grinding and Repelletizing Post-Industrial Fiber, Nonwovens and Carpet Scrap</title> <link>http://hdl.handle.net/1853/10823</link> <description>Modern Solutions for Shredding, Grinding and Repelletizing Post-Industrial Fiber, Nonwovens and Carpet Scrap Strzelecki, Chris </description> <dc:date>2004-05-11T00:00:00Z</dc:date> <dc:creator>Strzelecki, Chris</dc:creator> </item> <item rdf:about=\"http://hdl.handle.net/1853/10822\"> <title>Recycled Product Market Development</title> <link>http://hdl.handle.net/1853/10822</link> <description>Recycled Product Market Development Banik, Gouranga [Title page only] </description> <dc:date>2004-05-11T00:00:00Z</dc:date> <dc:creator>Banik, Gouranga</dc:creator> </item> <item rdf:about=\"http://hdl.handle.net/1853/10821\"> <title>Processes of Converting Multi-fiber Textile Waste into Products</title> <link>http://hdl.handle.net/1853/10821</link> <description>Processes of Converting Multi-fiber Textile Waste into Products Langley, Kenneth; Kim, Yong K. </description> <dc:date>2004-05-11T00:00:00Z</dc:date> <dc:creator>Langley, Kenneth</dc:creator> <dc:creator>Kim, Yong K.</dc:creator> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4db5a8c5c6a144e6b79ac10b68b648d0", 
+    "source_url": "https://smartech.gatech.edu/feed/rss_1.0/1853/10739"
+}

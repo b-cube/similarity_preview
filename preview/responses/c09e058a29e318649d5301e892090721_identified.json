@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Desch2009 </Local-number>  <Author>Desch, A., Wayne, T., Brainard, R., Freidlander, A., Christensen, J. </Author>  <Editor-Compiler>Freidlander, A., K. Keller, L. Wedding, A. Clarke, and M. Monaco </Editor-Compiler>  <Title>Oceanographic and physical setting </Title>  <Proceedings-Title>A Marine Biogeographic Assessment of the Northwestern Hawaiian Islands </Proceedings-Title>  <Publisher-Name>NCCOS Biogeography Branch in cooperation with the Office of National Marine Sanctuaries Papahanaumokuakea Marine National Monument </Publisher-Name>  <Publication-Date><caldate>2009 </caldate></Publication-Date>  <Series-Title>NOAA Technical Memorandum NOS NCCOS 84 </Series-Title>  <Extent>17-63 </Extent>  <Publication-Place>Silver Spring, MD </Publication-Place>  <Date-Time-Last-Modified>20091112000000 </Date-Time-Last-Modified>  <URL>http://ccma.nos.noaa.gov/ecosystems/sanctuaries/nwhi/nwhi-2009.pdf </URL>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>incollection </CoRIS-Record-Type>  <Local-subject-index>incollection </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c09e058a29e318649d5301e892090721", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BA2378F0F-E0DF-4D47-A13A-EDF0BFE16B97%7D"
+}

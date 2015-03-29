@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description rdf:about=\"http://dublincore.org/documents/dcmi-period/\"> <dc:title>DCMI Period Encoding Scheme</dc:title> <dc:creator>Simon Cox</dc:creator> <dc:description>This document is most recent version of the DCMI Period Encoding Scheme.</dc:description> <dc:publisher>Dublin Core Metadata Initiative</dc:publisher> </rdf:Description> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6fc860bd61c051349e89a4753b66bbd5", 
+    "source_url": "http://dublincore.org/documents/dcmi-period/index.shtml.rdf"
+}

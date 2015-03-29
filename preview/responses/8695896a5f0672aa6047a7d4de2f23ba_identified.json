@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>Confederaci&#243;n Sindical Internacional</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>Union of Green - Climate Change </title>  <author_name></author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/union-of-green-climate-change</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/union-of-green-climate-change'&gt;Union of Green - Climate Change &lt;/a&gt;&lt;/h4&gt;&lt;blockquote class='spip'&gt; &lt;p&gt;ITUC and Sustainlabour just released these four short videos showing union's commitment to fight against climate change. Please circulate them and post them on your website! Join us in making Copenhagen a success for the planet, a success for workers and a success for social justice!&lt;/p&gt; &lt;/blockquote&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8695896a5f0672aa6047a7d4de2f23ba", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Funion-of-green-climate-change"
+}

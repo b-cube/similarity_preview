@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WAI-WEBCONTENT-19990505'            target='http://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505'> <front> <title>Web Content Accessibility Guidelines 1.0</title>  <author initials='W.' surname='Chisholm' fullname='Wendy Chisholm'>     <organization /> </author>  <author initials='G.' surname='Vanderheiden' fullname='Gregg Vanderheiden'>     <organization /> </author>  <author initials='I.' surname='Jacobs' fullname='Ian Jacobs'>     <organization /> </author>  <date month='May' day='5' year='1999' /> </front>  <seriesInfo name='World Wide Web Consortium Recommendation' value='WAI-WEBCONTENT-19990505' /> <format type='HTML' target='http://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "623f3f7a14e5d0e718119cad58749aa1", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WAI-WEBCONTENT-19990505.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Aeby2005 </Local-number>  <Author>Aeby, G. S. </Author>  <Title>Outbreak of coral disease in the Northwestern Hawaiian Islands </Title>  <Journal-Title>Coral Reefs </Journal-Title>  <Publication-Date><caldate>2005 </caldate></Publication-Date>  <Volume-ID>24 </Volume-ID>  <Issue-ID>3 </Issue-ID>  <Extent>481 </Extent>  <Notes>ASFA. FY2004 CRCP Project ID 1436; Project Title: Long-Term Monitoring of Benthos, U.S. Pacific Islands; Principal Investigator: Rusty Brainard </Notes>  <Abstract>This is the first report of diseased caused coral damage in the Northwestern Hawaiian Islands. </Abstract>  <DOI>10.1007/s00338-005-0493-3 </DOI>  <DOI-URL>http://dx.doi.org/10.1007/s00338-005-0493-3 </DOI-URL>  <Keywords>Coral reefs/ Cora/ Bacterial diseases/ Infectious diseases/ Marine invertebrates/ Ecosystem disturbance/ Geographical distribution/ Viral diseases </Keywords>  <Date-Time-Last-Modified>20070215000000 </Date-Time-Last-Modified>  <project>  <ID>1436 </ID>  <title>Long-Term Monitoring of Benthos, U.S. Pacific Islands </title>  <PI>Rusty Brainard </PI>  </project>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>article </CoRIS-Record-Type>  <Local-subject-index>article </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0f75cf7710ad5de175e2331a07beb535", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BF490D6BF-702C-4EB2-B9F7-6ADB453D0CD7%7D"
+}

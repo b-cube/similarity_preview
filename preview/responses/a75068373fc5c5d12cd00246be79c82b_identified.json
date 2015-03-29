@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding=\"ISO-8859-1\" ?> <schema    targetNamespace=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ms=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ogc=\"http://www.opengis.net/ogc\"    xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"    xmlns=\"http://www.w3.org/2001/XMLSchema\"    xmlns:gml=\"http://www.opengis.net/gml\"    elementFormDefault=\"qualified\" version=\"0.1\" >    <import namespace=\"http://www.opengis.net/gml\"           schemaLocation=\"http://schemas.opengis.net/gml/3.1.1/base/gml.xsd\" />    <element name=\"asbestos\"             type=\"ms:asbestosType\"             substitutionGroup=\"gml:_Feature\" />    <complexType name=\"asbestosType\">     <complexContent>       <extension base=\"gml:AbstractFeatureType\">         <sequence>           <element name=\"geometry\" type=\"gml:PointPropertyType\" minOccurs=\"0\" maxOccurs=\"1\"/>           <element name=\"rec_id\" type=\"string\"/>           <element name=\"site_name\" type=\"string\"/>           <element name=\"devel\" type=\"string\"/>           <element name=\"fips_code\" type=\"string\"/>           <element name=\"huc_code\" type=\"string\"/>           <element name=\"quad_code\" type=\"string\"/>           <element name=\"url\" type=\"string\"/>           <element name=\"oremin\" type=\"string\"/>           <element name=\"assocmin\" type=\"string\"/>         </sequence>       </extension>     </complexContent>   </complexType>  </schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a75068373fc5c5d12cd00246be79c82b", 
+    "source_url": "http://mrdata.usgs.gov/wfs/asbestos?request=describefeaturetype&service=WFS&version=1.1.0&typename=asbestos"
+}

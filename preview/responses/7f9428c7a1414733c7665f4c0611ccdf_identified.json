@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/31289\"> <title>Kilise Tepe 1994-98</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/31289</link> <description>Kilise Tepe Project</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/33743\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/33742\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/33741\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/33156\"/> </rdf:Seq> </items> <dc:date>2015-03-13T04:38:41Z</dc:date> </channel> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/33743\"> <title>KT Monograph Fig. C 2 4b</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/33743</link> <description>KT Monograph Fig. C 2 4b Thomas, D C; Gower, J; Postgate, J N; Seffen, L P97/88 (H20 Level Vf4, Rm 53; see Fig. C3:10 for location) </description> <dc:date>2004-01-07T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/33742\"> <title>KT Monograph Fig. C 2 4a</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/33742</link> <description>KT Monograph Fig. C 2 4a Thomas, D C; Gower, J; Postgate, J N; Seffen, L P97/88 (H20 Level Vf4, Rm 53; see Fig. C3:10 for location) </description> <dc:date>2004-01-07T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/33741\"> <title>KT Monograph Fig. b 1</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/33741</link> <description>KT Monograph Fig. b 1 Thomas, D C Surface Collection plots </description> <dc:date>2004-12-09T00:00:00Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/33156\"> <title>P1253</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/33156</link> <description>P1253 Douglas, B Rock cut feature S of tepe, cut into natural conglomerate </description> <dc:date>2009-06-26T23:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7f9428c7a1414733c7665f4c0611ccdf", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/rss_1.0/1810/31289"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/anchorage_areas/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/collision_regulation_lines/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/disposal_areas/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/precautionary_areas/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/restricted_areas/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/shipping_lanes/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6bb726b631f6261e9800f7430a41c7c0", 
+    "source_url": "http://encdirect.noaa.gov/arcgis/rest/services/cmsp?f=geositemap"
+}

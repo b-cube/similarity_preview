@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <Project XSL_DestFolderSet=\"Yes\" XSL_DestFolder=\".\\\\\" XSL_DestFileExtSet=\"Yes\">  <Folder FolderName=\"XML Files\" ExtStr=\"xml;cml;math;rdf;smil;svg;wml\">   <File FilePath=\"raftriverM14.xml\" HomeFolder=\"Yes\"/>   <File FilePath=\"raftriverU14.xml\" HomeFolder=\"Yes\"/>  </Folder>  <Folder FolderName=\"XSL Files\" ExtStr=\"xsl;xslt\">   <File FilePath=\"C:\\\\Program Files\\\\ORM2XMI\\\\orm-mof.xslt\" HomeFolder=\"Yes\"/>   <File FilePath=\"C:\\\\Program Files\\\\ORM2XMI\\\\raw_copy.xsl\" HomeFolder=\"Yes\"/>  </Folder>  <Folder FolderName=\"XQuery Files\" ExtStr=\"xq;xql;xquery\"/>  <Folder FolderName=\"HTML Files\" ExtStr=\"html;htm;xhtml;asp\">   <File FilePath=\"raftriverM14.html\" HomeFolder=\"Yes\"/>  </Folder>  <Folder FolderName=\"DTD/Schemas\" ExtStr=\"dtd;dcd;xdr;biz;xsd\">   <File FilePath=\"C:\\\\Program Files\\\\ORM2XMI\\\\orm-uml14xmi11.dtd\" HomeFolder=\"Yes\"/>  </Folder>  <Folder FolderName=\"Entities\" ExtStr=\"ent\"/> </Project> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5ddbb95276b8634e0f93d8ab2da034b6", 
+    "source_url": "http://gdr.openei.org/files/234/geothermal.spp"
+}

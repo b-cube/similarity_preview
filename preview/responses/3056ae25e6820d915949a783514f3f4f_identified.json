@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr20051173</identifier><identifier type=\"pwpk\">70704</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2005-1173</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Advancing migratory bird conservation and management by using radar: an interagency collaboration</title></titleInfo><originInfo><dateOther>Sat, 1 Jan 2005 00:00 -0600</dateOther><dateIssued>2005</dateIssued></originInfo><name><namePart>Ruth, Janet M.; Barrow, Wylie C.; Sojda, Richard S.; Dawson, Deanna K.; Diehl, Robert H.; Manville, Albert; Green, Michael T.; Krueper, David J.; Johnston, Scott</namePart><role>Author</role></name><abstract>U.S. Geological Survey (USGS) scientists at Fort Collins Science Center, National Wetlands Research Center, Northern Rocky Mountain Science Center, and Patuxent Wildlife Research Center, as well as USFWS Migratory Bird biologists across the country, are collaborating with university partners to develop a suite of products for managers. The goals are to identify migratory pathways and stopover sites for conservation, mitigation, and landscape planning; convey the importance of functional landscapes and unobstructed airspaces for migrating wildlife; enable use of radar by the wider biological, wind power, and related communities; and simplify the analysis of radar data. The long term focus is to use radar technologies to better understand movement patterns and habitat associations of migratory birds and other wildlife. Land managers and industry may use the knowledge and tools developed to optimize the siting of energy projects, other facilities, and migratory bird habitat projects.</abstract><physicalDescription><form>iii, 12 p.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/usgs_thumb.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://www.fort.usgs.gov/Products/Publications/21469/21469.pdf</url></location><note type=\"citation/reference\">Advancing migratory bird conservation and management by using radar: an interagency collaboration; 2005; OFR; 2005-1173; Open-File Report; Ruth, Janet M.; Barrow, Wylie C.; Sojda, Richard S.; Dawson, Deanna K.; Diehl, Robert H.; Manville, Albert; Green, Michael T.; Krueper, David J.; Johnston, Scott</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "3056ae25e6820d915949a783514f3f4f", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr20051173"
+}

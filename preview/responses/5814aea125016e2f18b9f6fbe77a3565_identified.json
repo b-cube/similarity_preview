@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Khan, Amin M</a1>   <a2>Freitag, Felix</a2>   <t1>Exploring the Role of Macroeconomic Mechanisms in Voluntary Resource Provisioning in Community Network Clouds</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Internet and communication technologies have lowered the costs of enabling individuals and communities to collaborate together. This collaboration has provided new services like user-generated content and social computing, as evident from success stories like Wikipedia. Through collaboration, collectively built infrastructures like community wireless mesh networks where users provide the communication network, have also emerged. Community networks have demonstrated successful bandwidth sharing, but have not been able to extend their collective effort to other computing resources like storage and processing. The success of cloud computing has been enabled by economies of scale and the need for elastic, flexible and on-demand provisioning of computing services. The consolidation of today&amp;#39;s cloud technologies offers now the possibility of collectively built community clouds, building upon user-generated content and user-provided networks towards an ecosystem of cloud services. We explore in this paper how macroeconomic mechanisms can play a role in overcoming the barriers of voluntary resource provisioning in such community clouds, by analysing the costs involved in building these services and how they give value to the participants. We indicate macroeconomic policies and how they can be implemented in community networks, to ease the uptake and ensure the sustainability of community clouds.&lt;/p&gt;</ab>   <la/>   <k1/>   <pb/>   <pp/>   <yr>2014-06-04</yr>   <ed/>   <ul>http://dcai.usal.es/;  http://zenodo.org/record/8575/files/Khan2014_DCAI.pdf;  http://zenodo.org/record/8575/files/Khan2014_DCAI.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5814aea125016e2f18b9f6fbe77a3565", 
+    "source_url": "https://zenodo.org/record/8575/export/xw"
+}

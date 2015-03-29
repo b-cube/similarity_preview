@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:socrata=\"http://www.socrata.com/rdf/terms#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:ods=\"http://open-data-standards.github.com/2012/01/open-data-standards#\" xmlns:dcterm=\"http://purl.org/dc/terms/\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dsbase=\"http://data.hawaii.gov/resource/\" xmlns:ds=\"http://data.hawaii.gov/resource/vcaz-dwuy/\" xmlns:usps=\"http://www.w3.org/2000/10/swap/pim/usps#\"> <dsbase:vcaz-dwuy rdf:about=\"http://data.hawaii.gov/resource/vcaz-dwuy/1\">     <socrata:rowID>1</socrata:rowID>     <rdfs:member rdf:resource=\"http://data.hawaii.gov/resource/vcaz-dwuy\"/>     <ds:agency>&lt;p>DBEDT, Department of Business, Economic Development, &amp;amp; Tourism&lt;/p></ds:agency>     <ds:address><geo:SpatialThing>         <usps:deliveryAddress>250 South Hotel Street</usps:deliveryAddress>         <usps:cityName>Honolulu</usps:cityName>         <geo:lat>21.308293856000432</geo:lat>         <geo:long>-157.85876392999975</geo:long>         <usps:stateAbbr>HI</usps:stateAbbr>         <usps:zipCode>96813</usps:zipCode></geo:SpatialThing></ds:address>     <foaf:phone rdf:resource=\"tel:(808) 586-2424\"/>     <foaf:document rdf:resource=\"http://energy.hawaii.gov/green-business-program\"/>     <foaf:document rdf:resource=\"http://energy.hawaii.gov/wp-content/uploads/2011/10/DBEDT-Highlights-20091.pdf\"/>     <foaf:document rdf:resource=\"http://energy.hawaii.gov/wp-content/uploads/2012/03/Final-DBEDT-Press-Packet-2012.pdf\"/></dsbase:vcaz-dwuy></rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4fe129d59dc45919eedb91883580acfd", 
+    "source_url": "https://data.hawaii.gov/api/views/vcaz-dwuy/rows.rdf?accessType=DOWNLOAD"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>AbandonVessel2002 </Local-number>  <Author>Michel, J., Zengel, S., Lord, C., Nixon, Z. </Author>  <Title>Surveys of abandoned vessels: U.S. Caribbean region </Title>  <Institution>Research Planning, Inc. </Institution>  <Publication-Place>Columbia, NC </Publication-Place>  <Publication-Date><caldate>2002 </caldate></Publication-Date>  <Extent>246 </Extent>  <Notes>Funded by NOAA/NOS, Research Planning Inc., and CRCP contract 50ABNC700032, </Notes>  <fundingorganization>  <id>NOAA/NOS, Research Planning Inc., and CRCP </id>  </fundingorganization>  <Abstract>In response to the National Action Plan, NOAA began an investigation of the problems posed by abandoned and derelict vessels on U.S. coral reef habitats. This effort has three elements: 1) development of a database of abandoned vessels1; 2) review of existing legal authorities; and 3) site visits, vessel surveys, and prioritization of problem vessels for potential removal. The database and legal review efforts are on going, and NOAA has begun conducting site visits to identify candidate vessels for removal. This report summarizes survey work conducted during the summer of 2002 in Puerto Rico and the US Virgin Islands. </Abstract>  <Keywords>Puerto Rico, US Virgin Islands </Keywords>  <Date-Time-Last-Modified>20101208000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/other_crcp_publications/AVP_Carib_Report_2002.pdf </URL>  <Region>PR </Region>  <Bounding>  <Eastbc>-65.248715 </Eastbc>  <Westbc>-67.399870 </Westbc>  <Southbc>17.784130 </Southbc>  <Northbc>18.645740 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b414a18703d9c3e0f7e85e1ba3e23ba6", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B02277877-DA86-4D1C-A514-D21CA2EEC52A%7D"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Democracy Now!</ShortName>   <Description>Search the archives of Democracy Now!, a daily independent newshour.</Description>   <Tags>democracynow news archive grassroots history politics</Tags>   <Contact>website@democracynow.org</Contact>   <Url type=\"text/html\" template=\"http://www.democracynow.org/search/{searchTerms}/{startPage}\"/>   <LongName>Democracy Now! News Search</LongName>   <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://www.democracynow.org/favicon.ico</Image>   <Image height=\"64\" width=\"64\" type=\"image/png\">http://www.democracynow.org/images/dn-logo-for-opensearch.png</Image>   <Query role=\"example\" searchTerms=\"prometheus\"/>   <Developer>Democracy Now! Website Development Team</Developer>   <SyndicationRight>limited</SyndicationRight>   <AdultContent>false</AdultContent>   <Language>en-us</Language> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en-us", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "40da6c1d5f5d7f5a5c348374ce74a551", 
+    "source_url": "http://www.democracynow.org/images/dn.opensearch"
+}

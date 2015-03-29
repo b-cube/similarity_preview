@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0170'>  <front> <title>RFC List by Number</title> <author> <organization /></author> <date year='1971' day='1' month='June' /></front>  <seriesInfo name='RFC' value='170' /> <format type='TXT' octets='17670' target='http://www.rfc-editor.org/rfc/rfc170.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a95d256ec2363d0c19e3646d93b0da11", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0170.xml"
+}

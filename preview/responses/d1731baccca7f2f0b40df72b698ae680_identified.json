@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi type=\"zip\">     <location name=\"73034\">       <cdi>2.4718</cdi>       <nresp>2</nresp>       <dist>16</dist>       <lat>35.7023169435</lat>       <lon>-97.4284925058</lon>       <name>Edmond</name>       <state>OK</state>     </location>     <location name=\"73044\">       <cdi>3.0916</cdi>       <nresp>1</nresp>       <dist>4</dist>       <lat>35.8555874545</lat>       <lon>-97.4533252066</lon>       <name>Guthrie</name>       <state>OK</state>     </location>     <location name=\"74631\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>107</dist>       <lat>36.8068603427</lat>       <lon>-97.3055655473</lon>       <name>Blackwell</name>       <state>OK</state>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d1731baccca7f2f0b40df72b698ae680", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/10001lhd/us/cdi_zip.xml"
+}

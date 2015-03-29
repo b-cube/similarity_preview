@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Vierkant, Paul</a1>   <t1>J\\ufffd\\ufffdhrliche Anzahl der gelaunchten Open-Access-Repositorien nach Betreibertypen in Deutschland (1991-2013)</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Das vorliegende Diagramm visualisiert Teile der Forschungsdaten des 2014 Census of Open Access Repositories in Germany, Austria and Switzerland mit Fokus auf die Betreiber. Das Diagramm wurde in folgendem Blogpost verwendet:&amp;nbsp;&lt;/p&gt;  &lt;p&gt;http://libreas.wordpress.com/2014/12/01/eine-kurze-geschichte-der-open-access-repositorien-landschaft-in-deutschland-von-1991-2013/&lt;/p&gt;</ab>   <la/>   <k1>open access;                 open access repositories;                 2014 Census;                 green open access;                 </k1>   <pb/>   <pp/>   <yr>2014-11-28</yr>   <ed/>   <ul>https://zenodo.org/record/12949/files/Jahrliche-Anzahl-der-gelaunchten--Open-Access-Repositorien-nach--Betreibertypen-in-Deutschland-1991-2013.svg;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2976b739f8ac1110575a4b965292bc96", 
+    "source_url": "https://zenodo.org/record/12949/export/xw"
+}

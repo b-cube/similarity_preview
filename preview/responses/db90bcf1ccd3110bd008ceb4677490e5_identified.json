@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Association2011b </Local-number>  <Type-Period-Note>Text only of a TV public service announcement </Type-Period-Note>  <General-Note>PDF document </General-Note>  <Author>St. Croix Environmental Association </Author>  <Title>\"Beneath our crystal waters an invasive predator lurks\" </Title>  <Publication-Date><caldate>2011 </caldate></Publication-Date>  <Extent>1 </Extent>  <Institution>St. Croix Environmental Association </Institution>  <Notes>NOAA CRCP grant NA10NMF4630070 </Notes>  <grantid>  <id>NA10NMF4630070 </id>  </grantid>  <Abstract>\"Beneath our crystal waters an invasive predator lurks, threatening our native fishes, coral reefs and the livelihood of fishermen. The lionfish eats large numbers of juvenile reef fish that keep the corals clean and healthy and that grow into food fish for Virgin Islanders.Lionfish are native to the Indian and Pacific oceans and they have few predators in the Caribbean waters. You can help to control their population. If you see lionfish report their location to a local dive shop or to the CORE Foundation by calling: (340) 201-2340 on St. Croix; (340) 201-2341 on St. Thomas or (340) 201-2342 on St. John. Sign up to join lionfish capture dives at nolionfishstx@yahoo.com, nolionfishstt@yahoo.com or nolionfishstj@yahoo.com. Lionfish have venomous spines that cause a painful sting and may require medical attention. Don't try to touch them without special training. This message brought to you by St. Croix Environmental Association and NOAA's Coral Reef Conservation Program.\" </Abstract>  <Date-Time-Last-Modified>20140919000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/grants/Domestic_FMC_CoRIS_Products/NA10NMF4630070_TV_PSA_text.pdf </URL>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>misc </CoRIS-Record-Type>  <Local-subject-index>outreach </Local-subject-index>  <Local-subject-index>Grants </Local-subject-index>  <Local-subject-index>misc </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "db90bcf1ccd3110bd008ceb4677490e5", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B3244B5F4-761F-447A-8B99-EAFDDF6C04D4%7D"
+}

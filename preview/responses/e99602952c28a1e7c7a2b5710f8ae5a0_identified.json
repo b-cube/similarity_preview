@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"                        xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\"> <ShortName>HIMALDOC</ShortName> <LongName>HIMALDOC</LongName> <Description>Search on HIMALDOC</Description> <InputEncoding>UTF-8</InputEncoding> <OutputEncoding>UTF-8</OutputEncoding> <Language>*</Language> <Contact>himaldoc@icimod.org</Contact> <Query role=\"example\" searchTerms=\"a\" /> <Developer>Powered by Invenio</Developer> <Url type=\"text/html\" indexOffset=\"1\" rel=\"results\" template=\"http://lib.icimod.org/search?p={searchTerms}&amp;jrec={startIndex}&amp;rg={count}&amp;ln={language}&amp;startIndex\" /> <Url type=\"application/rss+xml\" indexOffset=\"1\" rel=\"results\" template=\"http://lib.icimod.org/rss?p={searchTerms}&amp;jrec={startIndex}&amp;rg={count}&amp;ln={language}&amp;startIndex\" /> <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://lib.icimod.org/opensearchdescription\" /> <moz:SearchForm>http://lib.icimod.org</moz:SearchForm> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "*", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e99602952c28a1e7c7a2b5710f8ae5a0", 
+    "source_url": "http://lib.icimod.org/opensearchdescription"
+}

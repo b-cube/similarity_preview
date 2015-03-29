@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20083044</identifier><identifier type=\"pwpk\">81305</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2008-3044</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Impacts of Low-Flow and Stream-Temperature Changes on Endangered Atlantic Salmon - Current Research</title></titleInfo><originInfo><dateOther>Thu, 22 May 2008 00:00 -0500</dateOther><dateIssued>2008</dateIssued><publisher>Geological Survey (U.S.)</publisher></originInfo><name><namePart>Dudley, Robert W.; Hodgkins, Glenn A.; Letcher, Benjamin H.</namePart><role>Author</role></name><abstract>Recent climate studies in New England and the northeastern United States have shown evidence of physical changes over time, including trends toward earlier snowmelt runoff, decreasing river ice, and increasing spring water temperatures. A U.S. Geological Survey (USGS) study funded by the National Global Warming and Wildlife Science Center will be investigating changes in summer low streamflows and stream temperatures and the potential effects of those changes on endangered Atlantic salmon populations. The study also will evaluate management options that would be most likely to mitigate the effects of any changes in streamflow and temperature.</abstract><physicalDescription><form>4 p.</form><form>Geological Survey (U.S.)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2008_3044.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2008/3044/</url></location><note type=\"citation/reference\">Impacts of Low-Flow and Stream-Temperature Changes on Endangered Atlantic Salmon - Current Research; 2008; FS; 2008-3044; Fact Sheet; Dudley, Robert W.; Hodgkins, Glenn A.; Letcher, Benjamin H.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f3f2ad7826a56da55e6d6c92835c60d6", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20083044"
+}

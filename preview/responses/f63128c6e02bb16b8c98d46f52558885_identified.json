@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0058\">   <front>     <title>Multi-User Text Editing</title>     <author initials=\"A.\" surname=\"Shchepin\" fullname=\"Alexey Shchepin\">       <organization/>       <address>         <email>alexey@sevcom.net</email>       </address>     </author>     <date day=\"12\" month=\"November\" year=\"2002\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0058\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0058.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f63128c6e02bb16b8c98d46f52558885", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0058.xml"
+}

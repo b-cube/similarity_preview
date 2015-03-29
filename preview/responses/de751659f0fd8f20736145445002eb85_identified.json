@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?> <metadata xml:lang=\"en\"> <Esri> <CreaDate>20141204</CreaDate> <CreaTime>10033200</CreaTime> <ArcGISFormat>1.0</ArcGISFormat> <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle> <SyncOnce>TRUE</SyncOnce> </Esri> <dataIdInfo> <idAbs/> <idPurp/> <idCredit/> <resConst> <Consts> <useLimit/> </Consts> </resConst> <idCitation> <resTitle>NHFP_ThematicViewer_LinkedBioSamples_Per_HUC12</resTitle> </idCitation> <searchKeys> <keyword/> </searchKeys> </dataIdInfo> <Binary> <Thumbnail> <Data EsriPropertyType=\"PictureX\">/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiikPHagBaKQEkdOaWi4BRRRQAUUd6KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACkbJGB3paKACikzz0paAEoJA60tN6YJxmkMUsOmaB0qCSUJg4yO9TDJPNSpXY2rIUdKiubhbaLzG6ZC9ccmnSSCMA8Yz3oKpKgDAMMZ55ob0aW4Ja3exlfa7uS8KhwhH3I1XII7k+4rYHTrmoLizgu1AmjDAEH0PByKnAAAAGAKilCUW+Z3LqTjJKysLRRRWxkFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFACcDJxS0UUAHagjNFFADPKQZAUDNG0DAJ+mafRSsh3ZE0KHPy5PuetMZZlwI9oX27VPzntihWDDI6ZxUuCY+ZgudozjPfFLRRVkhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFJjk+lLRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/9k=</Data> </Thumbnail> </Binary> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "de751659f0fd8f20736145445002eb85", 
+    "source_url": "http://gis1.usgs.gov/arcgis/rest/services/nfhap/NHFP_ThematicViewer_Linked_BioSamples_Per_HUC12/MapServer/info/metadata"
+}

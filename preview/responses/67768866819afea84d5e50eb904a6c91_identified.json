@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Ettrich, R\\ufffd\\ufffddiger</author>           <author>Thanos, Dimitris</author>           <author>Butcher, Sarah</author>           <author>Kotrcova, Marcela</author>           <author>Stanford, Natalie</author>           <author>Goble, Carole</author>           <author>Oberthuer, Angela</author>           <author>Hoefer, Thomas</author>         </authors>       </contributors>       <titles>         <title>ISBE continuous technology forecasting reports \\ufffd\\ufffd\\ufffd report 2.</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.15831</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>ISBE, systems biology, technologies</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-05-01</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;This second continuous technology report is the outcome of the joint effort of the WP9 members and the Technology and Science Watch committee appointed by the steering committee appointed in April 2014. While the first report was designed to serve as a guide for building up the infrastructure, this second report takes into account the recommendations of the SAB that sees the possible role of the future infrastructure in fostering systems biology research by using existing experimental facilities to participate in systems biology experiments guided by the modelling canters. This report shall guide the interaction/discussion with the RI&amp;#39;s that potentially could provide the required experimental methodologies or technologies that the modelling and data stewardship canters should be able to utilise for designing systems biology experiments. Additionally to highlighting technologies or science demands coming from the scientific community, we also provide a fine-grained view of the appointed experts within the Science and Technology watch committee for their relevant fields. Thus the current report gives a first global overview of the existing state-of-the-art of molecular systems biology with respect to technology or methodology and possible near future directions.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "67768866819afea84d5e50eb904a6c91", 
+    "source_url": "https://zenodo.org/record/15831/export/xe"
+}

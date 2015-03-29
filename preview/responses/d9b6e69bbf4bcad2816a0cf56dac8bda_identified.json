@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"          xmlns:digest=\"http://www.wizards-toolkit.org/digest/1.0/\">   <digest:Content rdf:about=\"PythonMagick-0.9.11.tar.gz\">     <digest:timestamp>2014-08-13T07:14:55-04:00</digest:timestamp>     <digest:modify-date>2014-08-13T07:13:44-04:00</digest:modify-date>     <digest:create-date>2014-08-13T07:13:44-04:00</digest:create-date>     <digest:extent>401614</digest:extent>     <digest:sha256>5b5ccebfcef5786c4f1fc5007933c13a092e3141ae6a2960de14cc89690de007</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"PythonMagick-0.9.11.tar.bz2\">     <digest:timestamp>2014-08-13T07:14:55-04:00</digest:timestamp>     <digest:modify-date>2014-08-13T07:13:44-04:00</digest:modify-date>     <digest:create-date>2014-08-13T07:13:44-04:00</digest:create-date>     <digest:extent>291953</digest:extent>     <digest:sha256>3a633a4351b89c19ee1821586cde7d292c911fed620346da20dc47b63ad78505</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"PythonMagick-0.9.11.tar.lz\">     <digest:timestamp>2014-08-13T07:14:55-04:00</digest:timestamp>     <digest:modify-date>2014-08-13T07:13:44-04:00</digest:modify-date>     <digest:create-date>2014-08-13T07:13:44-04:00</digest:create-date>     <digest:extent>257009</digest:extent>     <digest:sha256>0ee86bf464314c2a5f6cba16ad85234d99652bec7e7186333c26528db0618f76</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"PythonMagick-0.9.11.zip\">     <digest:timestamp>2014-08-13T07:14:55-04:00</digest:timestamp>     <digest:modify-date>2014-08-13T07:13:44-04:00</digest:modify-date>     <digest:create-date>2014-08-13T07:13:44-04:00</digest:create-date>     <digest:extent>491404</digest:extent>     <digest:sha256>3f717830597f9ab51207115a7848e4ecf739297a41765bb1bbfd893cc76f5ea4</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"PythonMagick-0.9.11.tar.xz\">     <digest:timestamp>2014-08-13T07:14:55-04:00</digest:timestamp>     <digest:modify-date>2014-08-13T07:13:44-04:00</digest:modify-date>     <digest:create-date>2014-08-13T07:13:44-04:00</digest:create-date>     <digest:extent>257276</digest:extent>     <digest:sha256>f015b1392d62272bf4daf3e23865348567b95745f97ccf10c997e93cfa66dbbd</digest:sha256>   </digest:Content> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d9b6e69bbf4bcad2816a0cf56dac8bda", 
+    "source_url": "http://www.imagemagick.org/download/python/digest.rdf"
+}

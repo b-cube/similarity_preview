@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>NOAA Cetaceans and Sound Project (CetSound)</dc:title>    <dcterms:alternative>NOAA Cetaceans and Sound Project (CetSound)</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>cetacean, sound, model, density, distribution, cetsound</dc:subject>    <dcterms:abstract>In a January 19, 2010 letter to the President?s Council on Environmental Quality, NOAA Administrator Dr. Jane Lubchenco committed to improving the tools used by the agency to evaluate the impacts of human-induced noise on cetacean species. As a result, two data and product-driven working groups were convened in January 2011: the Underwater Sound-field Mapping Working Group and the Cetacean Density and Distribution Mapping Working Group. In May 2012, the working groups presented their products at a Symposium where potential management applications were discussed with a large multi-stakeholder audience. The NOAA Cetaceans and Sound Project (CetSound) provides a single location where the public, academia, NGOs, and managers and scientists from NOAA and other federal agencies can find the latest data and metadata for cetacean and sound density and distribution. </dcterms:abstract>    <dc:publisher>NMFS Office of Science and Technology</dc:publisher>    <dc:creator>NMFS Office of Science and Technology</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/12695</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/10443</dcterms:isPartOf>    <dcterms:spatial>                         name=US EEZ;                     </dcterms:spatial>    <dcterms:temporal xsi:type=\"dcterms:W3CDTF\">2012-07-01</dcterms:temporal> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0f230961ad34333b2c7c2c1cf92d62d4", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/12695/dublin-core"
+}

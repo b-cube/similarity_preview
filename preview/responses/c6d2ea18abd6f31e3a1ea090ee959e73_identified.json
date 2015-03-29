@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/10283/169\"> <title>Hebrew and Old Testament</title> <link>http://hdl.handle.net/10283/169</link> <description/> <dc:date>2015-03-20T04:26:22Z</dc:date> </channel> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c6d2ea18abd6f31e3a1ea090ee959e73", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/rss_1.0/10283/169"
+}

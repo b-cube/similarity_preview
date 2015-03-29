@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <!-- generator=\"FeedCreator 1.7.2-ppt DokuWiki\" --> <?xml-stylesheet href=\"http://www.groom-fp7.eu/lib/exe/css.php?s=feed\" type=\"text/css\"?> <rdf:RDF     xmlns=\"http://purl.org/rss/1.0/\"     xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"     xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\"     xmlns:dc=\"http://purl.org/dc/elements/1.1/\">     <channel rdf:about=\"http://www.groom-fp7.eu/feed.php\">         <title>GROOM-FP7 EU project</title>         <description></description>         <link>http://www.groom-fp7.eu/</link>         <image rdf:resource=\"http://www.groom-fp7.eu/lib/images/favicon.ico\" />        <dc:date>2015-03-06T03:46:54+01:00</dc:date>         <items>             <rdf:Seq>                 <rdf:li rdf:resource=\"http://www.groom-fp7.eu/doku.php?id=start&amp;rev=1385601150&amp;do=diff\"/>             </rdf:Seq>         </items>     </channel>     <image rdf:about=\"http://www.groom-fp7.eu/lib/images/favicon.ico\">         <title>GROOM-FP7 EU project</title>         <link>http://www.groom-fp7.eu/</link>         <url>http://www.groom-fp7.eu/lib/images/favicon.ico</url>     </image>     <item rdf:about=\"http://www.groom-fp7.eu/doku.php?id=start&amp;rev=1385601150&amp;do=diff\">         <dc:format>text/html</dc:format>         <dc:date>2013-11-28T02:12:30+01:00</dc:date>         <title>start</title>         <link>http://www.groom-fp7.eu/doku.php?id=start&amp;rev=1385601150&amp;do=diff</link>         <description>The objective of the GROOM project is to design a new European Research Infrastructure that uses underwater gliders for collecting oceanographic data. This new infrastructure shall be beneficial for a large number of marine activities and societal applications, which can be related to climate change, marine ecosystems, resources, or security and which rely on academic oceanographic research and/or operational oceanography systems.</description>     </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7b7157e8ccd92bdd922f596c95b5e50f", 
+    "source_url": "http://www.groom-fp7.eu/feed.php?mode=list&ns="
+}

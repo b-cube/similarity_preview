@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Biogeo2011a </Local-number>  <Title>Palmyra BIOMapper </Title>  <Line-Office>NOS </Line-Office>  <Division>CCMA </Division>  <Program-Office>NCCOS </Program-Office>  <Abstract>The Palmyra BIOMapper is a fully interactive, online feature designed to let users explore benthic habitat mapping data from the Benthic Habitat Mapping of Palmyra Atoll project. This portal contains a comprehensive collection of data, including aerial imagery, acoustic imagery, benthic habitat shapefiles, ground validation sites, underwater video, and still photography. In addition, the BIOMapper tool provides the ability to create customized, printable PDF maps. These data products provide a detailed, contemporary evaluation on the status, abundance, and distribution of marine benthic habitats for Palmyra. The results of these efforts will provide resource managers, scientists, and the public increased understanding and technical capacity for ocean exploration, management and stewardship. </Abstract>  <Date-Time-Last-Modified>20110215000000 </Date-Time-Last-Modified>  <URL>http://maps.coastalscience.noaa.gov/biomapper/biomapper.html?id=Palmyra </URL>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <CoRIS-Record-Type>noaa-office </CoRIS-Record-Type>  <Local-subject-index>noaa-office </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2204e3146bd9fb95c88ba2754ebdd165", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B9B202CCB-31A6-4536-A88F-BBE846AC9AA6%7D"
+}

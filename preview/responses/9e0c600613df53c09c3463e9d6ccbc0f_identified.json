@@ -1,0 +1,15 @@
+{
+    "content": "<Response xmlns:i=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"NHTSA/webapi/types\"><Count>1</Count><Message>Results returned successfully</Message><Results><Complaint xmlns=\"\"><ProductType>VEHICLE</ProductType><ModelYear>2012</ModelYear><Make>BMW</Make><Model>3-SERIES</Model><ODINumber>10457576</ODINumber><Manufacturer>BMW of North America, LLC</Manufacturer><Crash>No</Crash><Fire>No</Fire><NumberOfInjured>0</NumberOfInjured><NumberOfDeaths>0</NumberOfDeaths><DateofIncident>2012-04-26T00:00:00</DateofIncident><DateComplaintFiled>2012-05-05T00:00:00</DateComplaintFiled><VIN>WBA3A5C54CF</VIN><Component>SEATS</Component><Summary>WHEN I PURCHASED 328I SOMEONE ACCIDENTALLY PULL UP THE DRIVER-SIDE HEADREST FROM DOWN POSITION. BUT I AM SHORT AND MY HEAD IS PROTECTED WHEN THE HEADREST(CONSTRAINT) IS IN ORIGINAL DOWN POSITION. I WANTED IT TO BE PUT DOWN IN ORIGINAL POSITION. NO ONE INCLUDING SERVICE DEPT TECHNICIAN COULD DO IT. AND DURING THE PROCESS THEY PULL THE PASSENGER SIDE HEADREST UP TOO. NOW BOTH SIDES COULD NOT BE PUT DOWN (BY THE WAY BOTH COULD NOT BE PULLED OUT NEITHER), EVEN THOUGH MANUAL SAID THEY COULD BE PUT DOWN AND OUT TOO. AND I CALLED BMW NORTH AMERICA CUSTOMER SERVICE AND THEY DON'T HAVE ANY ANSWER NOR RELATED INFORMATION.   I'M CONCERNED SINCE IT COULD BE A SAFETY ISSUE TO ME. MAY I ASK YOUR HELP IF IT CAN BE RESEARCHED WHY THEY CAN NOT BE PUT DOWN IN ORIGINAL POSITION? I HOPE IT'S NOT A DEFECT PROBLEM, IS IT?  *TR</Summary></Complaint></Results></Response>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9e0c600613df53c09c3463e9d6ccbc0f", 
+    "source_url": "http://www.nhtsa.gov/webapi/api/Complaints/vehicle/odinumber/10457576?format=xml"
+}

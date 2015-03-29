@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"PKCS.9.1993\"> <front> <title>RSA Encryption Standard Version 1.4</title> <author> <organization>RSA Laboratories</organization> </author> <date day=\"3\" month=\"June\" year=\"1993\" /> </front>  <seriesInfo name=\"PKCS\" value=\"9\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0ce6ad2798d99d462d64200709aa9b8a", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/_bibxml2/_reference.PKCS.9.1993.xml"
+}

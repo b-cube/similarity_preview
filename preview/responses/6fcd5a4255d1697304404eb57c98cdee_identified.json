@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-affordable-housing-units\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-affordable-housing-units</id><updated>2015-03-15T17:01:23Z</updated><entry><title>REST API: Update object city-and-county-of-denver-affordable-housing-units</title><link href=\"/revision/69d1a210-47f0-4003-a977-67f91ef1c3ea\" rel=\"alternate\"></link><updated>2015-03-15T17:01:23Z</updated><published>2015-03-15T17:01:23Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/69d1a210-47f0-4003-a977-67f91ef1c3ea</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-affordable-housing-units</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-affordable-housing-units</title><link href=\"/revision/79d17fff-102d-4915-9698-cc3864646497\" rel=\"alternate\"></link><updated>2015-03-15T17:01:14Z</updated><published>2015-03-15T17:01:14Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/79d17fff-102d-4915-9698-cc3864646497</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-affordable-housing-units</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-affordable-housing-units</title><link href=\"/revision/2916feb6-2fb2-4f69-b18d-1522801864a5\" rel=\"alternate\"></link><updated>2015-03-08T17:00:47Z</updated><published>2015-03-08T17:00:47Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/2916feb6-2fb2-4f69-b18d-1522801864a5</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-affordable-housing-units</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-affordable-housing-units</title><link href=\"/revision/5d300947-c32a-4583-9bd8-68c7c1a7dd34\" rel=\"alternate\"></link><updated>2015-03-08T17:00:36Z</updated><published>2015-03-08T17:00:36Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/5d300947-c32a-4583-9bd8-68c7c1a7dd34</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-affordable-housing-units</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6fcd5a4255d1697304404eb57c98cdee", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-affordable-housing-units?days=14&format=atom"
+}

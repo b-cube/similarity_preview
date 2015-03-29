@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Aeby2003 </Local-number>  <Author>Aeby, G. S., Kenyon, J. C., Maragos, J. E., Potts, D. C. </Author>  <Title>First record of mass coral bleaching in the Northwestern Hawaiian Islands </Title>  <Journal-Title>Coral Reefs </Journal-Title>  <Publication-Date><caldate>2003 </caldate></Publication-Date>  <Volume-ID>22 </Volume-ID>  <Issue-ID>3 </Issue-ID>  <Extent>256 </Extent>  <Notes>FY2003 CRCP Project ID 1221; Project Title: Assessment and Monitoring - Benthic Ecological Assessments: Reproductive Features of Hawaiian Halimeda velasquezii and the Need to Standardize Descriptions of Reproductive (Marine Algae); Principal Investigator: Rusty Brainard </Notes>  <Abstract>\"Records the first time mass bleaching events have been observed in the Northwestern Hawaiian Islands during a September 2002 expedition.\" </Abstract>  <DOI>10.1007/s00338-003-0309-2 </DOI>  <DOI-URL>http://dx.doi.org/10.1007/s00338-003-0309-2 </DOI-URL>  <project>  <ID>1221 </ID>  <title>Assessment and Monitoring - Benthic Ecological Assessments: Reproductive Features of Hawaiian Halimeda velasquezii and the Need to Standardize Descriptions of Reproductive (Marine Algae) </title>  <PI>Rusty Brainard </PI>  </project>  <Date-Time-Last-Modified>19700101000000 </Date-Time-Last-Modified>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>article </CoRIS-Record-Type>  <Local-subject-index>article </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4ad0a40a59412c134b57584c4b5a622f", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B6415B1B1-5736-4EDF-93F5-9763707DEB3D%7D"
+}

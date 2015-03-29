@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Heise, Christian</author>         </authors>       </contributors>       <titles>         <title>Umfrage: Von Open Access zu Open Science - Wissenschaftliche Kommunikation im Rahmen der Digitalisierung</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.14563</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>open access</keyword>         <keyword>open science</keyword>         <keyword>science</keyword>         <keyword>communication</keyword>         <keyword>survey</keyword>       </keywords>       <dates>         <year>2015</year>         <pub-dates>           <date>2015-01-26</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;Wie ver&amp;auml;ndert die Digitalisierung, wie wir auf wissenschaftliche Daten und Informationen zugreifen? Das war Thema in der Befragung im Rahmen der Promotion mit dem Titel: &amp;quot;Von Open Access zu Open Science: Zum Wandel von wissenschaftlicher Kommunikation&amp;quot;. Sie bestand aus f&amp;uuml;nf Fragegruppen und ist wie folgt gegliedert: In der ersten H&amp;auml;lfte wurden die Teilnehmer/innen zu den Rahmenbedingungen Ihrer wissenschaftlichen T&amp;auml;tigkeit und zu Aspekten aus der wissenschaftlichen Leserperspektive befragt. In der zweiten H&amp;auml;lfte wurden die Befragten als Autor_in wissenschaftlicher Arbeiten und Daten angesprochen. Abschlie&amp;szlig;end wurden einige freiwillige personenbezogene Angaben erhoben (die nur begrenzt Teil dieser Ver&amp;ouml;ffentlichung sind).&lt;/p&gt;          &lt;p&gt;Bei dem Datensatz handelt es sich um anonymisierte Rohdaten der Befragung von 1.112 Personen (komplett ausgef&amp;uuml;llt) aus dem deutschsprachigen Raum vom 18.8.2014 bis 18.01.2015.&lt;/p&gt;          &lt;p&gt;Weitere Informationen und die einzelnen weiteren anonymisierten Datensets finden Sie unter &lt;a href=\"http://offene-doktorarbeit.de/anonymisierte-umfragedaten-veroeffentlicht/\"&gt;http://offene-doktorarbeit.de&lt;/a&gt;&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "07b0c214355d91feb46ee05decb2091b", 
+    "source_url": "https://zenodo.org/record/14563/export/xe"
+}

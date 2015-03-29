@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">    <ShortName>Genesys PGR</ShortName>    <LongName>Search global accession database Genesys PGR</LongName>    <Description></Description>    <Image height=\"16\" width=\"16\" type=\"image/x-icon\">https://www.genesys-pgr.org/html/images/genesys16.ico</Image>    <Image height=\"256\" width=\"256\" type=\"image/x-icon\">https://www.genesys-pgr.org/favicon.ico</Image>    <Image height=\"64\" width=\"64\" type=\"image/png\">https://www.genesys-pgr.org/html/images/genesys64.png</Image>    <Tags>accession, PGR, genesys</Tags>    <Contact>helpdesk@genesys-pgr.org</Contact>    <Query role=\"example\" searchTerms=\"IRGC 1001\" />    <Url type=\"application/rss+xml\" template=\"https://www.genesys-pgr.org/acn/opensearch?q={searchTerms}&amp;page={startPage?}\"/>    <Url type=\"application/x-suggestions+json\" template=\"https://www.genesys-pgr.org/acn/opensearch-gossip?q={searchTerms}\"/>    <Url type=\"text/html\" template=\"https://www.genesys-pgr.org/acn/search?q={searchTerms}&amp;page={startPage?}\"/>        <Attribution>See https://www.genesys-pgr.org/content/terms</Attribution>    <SyndicationRight>limited</SyndicationRight>    <AdultContent>false</AdultContent>    <Language>en</Language>    <OutputEncoding>UTF-8</OutputEncoding>    <InputEncoding>UTF-8</InputEncoding>        <moz:SearchForm>https://www.genesys-pgr.org/acn/search</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b8e30b2f1b6927976791d2c2a3971811", 
+    "source_url": "https://www.genesys-pgr.org/acn/opensearch/desc"
+}

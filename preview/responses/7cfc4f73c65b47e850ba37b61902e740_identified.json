@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">Bathymetric Survey - 2008-05-09 - Inishowen Head to Fanad Head</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">ukho.ac.uk:DC:3d3a8650-7742-317c-b203-7ebbb7147a07</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">HI No: HI 1241; IPR Holder: Maritime and Coastguard Agency; Purpose: Safety of navigation; IHO Sea: Inner Seas off the West Coast of Scotland - 18; Survey Start: 2007-11-01; Survey End: 2008-05-09; Primary Instrument Type: Echosounder - multibeam; Primary Navigation Type: Not Known; Information: Part of the Joint Irish Bathymetric Survey (JIBS);</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2010-05-14</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7cfc4f73c65b47e850ba37b61902e740", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/ukho.ac.uk__MEDIN_2.3__3d3a8650-7742-317c-b203-7ebbb7147a07.xml/DC"
+}

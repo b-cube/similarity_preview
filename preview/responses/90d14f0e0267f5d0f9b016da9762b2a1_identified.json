@@ -1,0 +1,15 @@
+{
+    "content": "<b:Sources SelectedStyle=\"\\\\APA.XSL\" StyleName=\"APA\" xmlns:b=\"http://schemas.openxmlformats.org/officeDocument/2006/bibliography\" xmlns=\"http://schemas.openxmlformats.org/officeDocument/2006/bibliography\"></b:Sources>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "90d14f0e0267f5d0f9b016da9762b2a1", 
+    "source_url": "http://www.icao.int/secretariat/PostalHistory/the_chicago_convention_fichiers/item0001.xml"
+}

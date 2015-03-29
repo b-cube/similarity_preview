@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>     <thredds:catalog xmlns:thredds=\"http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0\"                  xmlns:xlink=\"http://www.w3.org/1999/xlink\"                  xmlns:bes=\"http://xml.opendap.org/ns/bes/1.0#\">    <thredds:service name=\"dap\" serviceType=\"OPeNDAP\" base=\"/opendap/hyrax\"/>    <thredds:service name=\"file\" serviceType=\"HTTPServer\" base=\"/opendap/hyrax\"/>         <thredds:dataset name=\"subsets/ab_BSRN_Syowa/2012/MOS021KM\"                     ID=\"/opendap/hyrax//subsets/ab_BSRN_Syowa/2012/MOS021KM\">       <thredds:dataSize units=\"bytes\">1</thredds:dataSize>       <thredds:date type=\"modified\">2015-03-20T01:15:14</thredds:date>       <thredds:access serviceName=\"file\" urlPath=\"//subsets/ab_BSRN_Syowa/2012/MOS021KM\"/>    </thredds:dataset>     </thredds:catalog> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.0", 
+        "protocol": "UNIDATA", 
+        "language": "", 
+        "service": "THREDDS-Catalog", 
+        "has_dataset": true, 
+        "has_metadata": true
+    }, 
+    "digest": "1389312a20f34d3b22cec87d95266bb7", 
+    "source_url": "http://ladsweb.nascom.nasa.gov/opendap/subsets/ab_BSRN_Syowa/2012/MOS021KM/catalog.xml"
+}

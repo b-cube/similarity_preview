@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">    <channel rdf:about=\"https://verc.enes.org/computing/hpc-facilities/hpc-facilities-1/RSS\">   <title>vERC</title>   <link>https://verc.enes.org</link>   <description>Virtual Earth System Modelling Resource Centre</description>   <image rdf:resource=\"https://verc.enes.org/logo.png\"/>    <items>     <rdf:Seq>                <rdf:li rdf:resource=\"https://verc.enes.org/computing/hpc-facilities/cmcc\"/>                       <rdf:li rdf:resource=\"https://verc.enes.org/computing/hpc-facilities/deisa\"/>                       <rdf:li rdf:resource=\"https://verc.enes.org/computing/hpc-facilities/dkrz\"/>                       <rdf:li rdf:resource=\"https://verc.enes.org/computing/hpc-facilities/rpace\"/>            </rdf:Seq>   </items>  </channel>     <item rdf:about=\"https://verc.enes.org/computing/hpc-facilities/cmcc\">     <title>CMCC</title>     <link>https://verc.enes.org/computing/hpc-facilities/cmcc</link>     <description>Centro Euro-Mediterraneo sui Cambiamenti Climatici</description>     <dc:date>2014-06-25T07:47:58Z</dc:date>     <dc:type>Document</dc:type>   </item>     <item rdf:about=\"https://verc.enes.org/computing/hpc-facilities/deisa\">     <title>DEISA</title>     <link>https://verc.enes.org/computing/hpc-facilities/deisa</link>     <description>Distributed European Infrastructure for Supercomputing Applications</description>     <dc:date>2011-11-30T09:53:01Z</dc:date>     <dc:type>Document</dc:type>   </item>     <item rdf:about=\"https://verc.enes.org/computing/hpc-facilities/dkrz\">     <title>DKRZ</title>     <link>https://verc.enes.org/computing/hpc-facilities/dkrz</link>     <description>Deutsches Klimarechenzentrum</description>     <dc:date>2012-07-04T09:16:15Z</dc:date>     <dc:type>Document</dc:type>   </item>     <item rdf:about=\"https://verc.enes.org/computing/hpc-facilities/rpace\">     <title>PRACE</title>     <link>https://verc.enes.org/computing/hpc-facilities/rpace</link>     <description>Partnership for Advanced Computing in Europe</description>     <dc:date>2011-12-06T15:22:49Z</dc:date>     <dc:type>Document</dc:type>   </item>    </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0bac2b6ef970016c3e5b9ca312006f80", 
+    "source_url": "https://verc.enes.org/computing/hpc-facilities/hpc-facilities-1/RSS"
+}

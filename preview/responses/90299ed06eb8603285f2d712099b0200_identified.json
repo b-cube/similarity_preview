@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Carlos C\\ufffd\\ufffdrcamo</a1>   <t1>introduccion a Git: First release</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Primera versi&amp;oacute;n de la gu&amp;iacute;a de introducci&amp;oacute;n a git.&lt;/p&gt;  &lt;p&gt;El presente documento es una gu&amp;iacute;a de introducci&amp;oacute;n a git. Se comparte de forma publica con el objetivo de extender su alcance a toda persona que desee colaborar ya sea corrigiendo, agregando nuevo contenido o bien compartiendo el presente con sus amigos, comunidades, etc.&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;</ab>   <la/>   <k1>git, introducci\\ufffd\\ufffdn, VCS, github, CSHL;                 </k1>   <pb/>   <pp/>   <yr>2015-01-14</yr>   <ed/>   <ul>https://zenodo.org/record/13950/files/introduccionGit-v1.0.0.zip;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "90299ed06eb8603285f2d712099b0200", 
+    "source_url": "https://zenodo.org/record/13950/export/xw"
+}

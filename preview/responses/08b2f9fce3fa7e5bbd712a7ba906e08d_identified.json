@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <?xml-stylesheet type=\"text/css\" href=\"http://www.w3.org/2002/07/actionlist-style.css\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"          xmlns:dc=\"http://purl.org/dc/elements/1.1/\"          xmlns:m=\"http://www.w3.org/2002/07/meeting#\">  <rdf:Description rdf:about=\"\">   <dc:date>2008-09-16T13:00Z</dc:date>   <dc:title>Action Items from http://www.w3.org/2008/09/16-tsdtf-irc</dc:title>   <dc:creator>RRSAgent logger Revision: 1.75.1.88 </dc:creator> </rdf:Description>  <rdf:Description rdf:about=\"http://www.w3.org/2008/09/16-tsdtf-irc\">   <m:actionItems>     <rdf:Seq>       <rdf:li><m:ActionItem rdf:about=\"#1\">         <dc:title>shadi to send out WBS for the existing test samples (001-037)</dc:title>         <dc:source rdf:resource=\"http://www.w3.org/2008/09/16-tsdtf-irc#T12-55-17\"/>         </m:ActionItem></rdf:li>       <rdf:li><m:ActionItem rdf:about=\"#2\">         <dc:title>CarlosI to do reviews for 041-042</dc:title>         <dc:source rdf:resource=\"http://www.w3.org/2008/09/16-tsdtf-irc#T12-57-22\"/>         </m:ActionItem></rdf:li>       <rdf:li><m:ActionItem rdf:about=\"#3\">         <dc:title>ciglesia to do reviews for 041-042</dc:title>         <dc:source rdf:resource=\"http://www.w3.org/2008/09/16-tsdtf-irc#T12-57-58\"/>         </m:ActionItem></rdf:li>       <rdf:li><m:ActionItem rdf:about=\"#4\">         <dc:title>msuuilla to do reviews for 044-045</dc:title>         <dc:source rdf:resource=\"http://www.w3.org/2008/09/16-tsdtf-irc#T12-59-15\"/>         </m:ActionItem></rdf:li>       <rdf:li><m:ActionItem rdf:about=\"#5\">         <dc:title>msquilla to do reviews for 044-045</dc:title>         <dc:source rdf:resource=\"http://www.w3.org/2008/09/16-tsdtf-irc#T12-59-20\"/>         </m:ActionItem></rdf:li>       <rdf:li><m:ActionItem rdf:about=\"#6\">         <dc:title>Mike to do reviews for 044-045</dc:title>         <dc:source rdf:resource=\"http://www.w3.org/2008/09/16-tsdtf-irc#T12-59-40\"/>         </m:ActionItem></rdf:li>       <rdf:li><m:ActionItem rdf:about=\"#7\">         <dc:title>Shadi to do reviews for 046-047</dc:title>         <dc:source rdf:resource=\"http://www.w3.org/2008/09/16-tsdtf-irc#T12-59-58\"/>         </m:ActionItem></rdf:li>       <rdf:li><m:ActionItem rdf:about=\"#8\">         <dc:title>cstrobbe to provide more test samples for review</dc:title>         <dc:source rdf:resource=\"http://www.w3.org/2008/09/16-tsdtf-irc#T13-00-31\"/>         </m:ActionItem></rdf:li>     </rdf:Seq>   </m:actionItems> </rdf:Description>  </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "08b2f9fce3fa7e5bbd712a7ba906e08d", 
+    "source_url": "http://www.w3.org/2008/09/16-tsdtf-actions.rdf"
+}

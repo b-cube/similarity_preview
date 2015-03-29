@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Szabolcs Beke</author>           <author>Luisa De Marco</author>           <author>Paola Pareo</author>           <author>Antonio Qualtieri</author>           <author>Alessandro Cannavale</author>           <author>Fernando Brandi</author>           <author>Giuseppe Gigli</author>           <author>Michele Manca</author>         </authors>       </contributors>       <titles>         <title>3D Photoelectrode for Dye Solar Cells Realized by Laser Micromachining of Photosensitive Glass</title>         <secondary-title/>       </titles>       <doi>10.1021/jp501254k</doi>       <pages>17100\\ufffd\\ufffd\\ufffd17107</pages>       <volume>118</volume>       <number/>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-05-08</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;An explorative dye solar cell architecture based on the implementation of a 3D micropatterned photoelectrode is disclosed here. An array of conical micropillars has been realized by laser micromachining of photosensitive glass which has been advantageously used as a substrate for deposition of a thin transparent conductive layer and a thick mesoporous TiO2&amp;nbsp;electrode. A significantly higher photocurrent density has been detected as an effect of the extended overall absorbing area of the micropatterned photoelectrode with respect to a conventional 2D reference photoelectrode. This enhancement can also be partially imputable to a not negligible &amp;ldquo;waveguide effect&amp;rdquo; occurring within the glass micropillars.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "18fa7902883894031f328d1dbfa6090e", 
+    "source_url": "https://zenodo.org/record/12488/export/xe"
+}

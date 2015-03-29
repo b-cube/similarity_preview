@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20073065</identifier><identifier type=\"pwpk\">80536</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2007-3065</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Phage therapy for Florida corals?</title></titleInfo><originInfo><dateOther>Fri, 12 Oct 2007 00:00 -0500</dateOther><dateIssued>2007</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Kellogg, Christina A.</namePart><role>Author</role></name><abstract>&lt;p>Coral disease is a major cause of reef decline in the Florida Keys. Bacterium has been defined as the most common pathogen (disease-causing organism). Although much is being done to catalog coral diseases, map their locations, determine the causes of disease, or measure the rates of coral demise, very little research has been directed toward actually preventing or eliminating the diseases affecting coral and coral reef decline.&lt;/p></abstract><physicalDescription><form>2 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2007_3065.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2007/3065/</url><url note=\"DOCUMENT\">http://pubs.usgs.gov/fs/2007/3065/pdf/fs2007-3065.pdf</url></location><note type=\"citation/reference\">Phage therapy for Florida corals?; 2007; FS; 2007-3065; Fact Sheet; Kellogg, Christina A.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9d2527089b839016312e28835c0f96e9", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20073065"
+}

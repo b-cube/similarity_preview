@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <oembed>     <version>1.0</version>     <type>rich</type>     <author_name></author_name>     <author_url>http://www.iowacenterforthebook.org/author/webmaster</author_url>     <provider_name>Iowa Center for the Book</provider_name>     <provider_url>http://www.iowacenterforthebook.org</provider_url>    </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c6ac97ae99be71343a04bb417e5093b5", 
+    "source_url": "http://www.iowacenterforthebook.org/@@oembed?url=http%3A%2F%2Fwww.iowacenterforthebook.org%2Fcommittees%2Findex&format=xml"
+}

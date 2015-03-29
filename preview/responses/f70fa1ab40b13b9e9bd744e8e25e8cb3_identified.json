@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"::12.540.htm\"/>  <o:File HRef=\"themedata.xml\"/>  <o:File HRef=\"header.htm\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f70fa1ab40b13b9e9bd744e8e25e8cb3", 
+    "source_url": "http://www-gpsg.mit.edu/~tah/12.540/12.540_files/filelist.xml"
+}

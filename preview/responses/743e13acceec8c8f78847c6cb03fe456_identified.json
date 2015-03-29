@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"                        xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">   <!-- Created on Fri, 05 Oct 2007 20:45:58 GMT -->   <ShortName>UT Libraries CD/DVD</ShortName>   <Description>Search University of Texas Libraries CD's and DVD's</Description>   <Url type=\"text/html\" method=\"get\" template=\"http://catalog.lib.utexas.edu/search/X?SEARCH={searchTerms}&amp;m=h&amp;m=l\"/>   <Contact>mlisle@austin.utexas.edu</Contact>   <Image width=\"16\" height=\"16\">http://www.lib.utexas.edu/gadgets/firefoxsearch/utcddvd.ico</Image>   <Developer>Matt Lisle</Developer>   <InputEncoding>UTF-8</InputEncoding>   <moz:SearchForm>http://catalog.lib.utexas.edu</moz:SearchForm>   <moz:IconUpdateUrl>http://www.lib.utexas.edu/gadgets/firefoxsearch/utcddvd.ico</moz:IconUpdateUrl> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "743e13acceec8c8f78847c6cb03fe456", 
+    "source_url": "http://www.lib.utexas.edu/gadgets/firefoxsearch/utcddvdsearch.xml"
+}

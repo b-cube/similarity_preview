@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\"> <rdf:Description about=\"http://dublincore.org/schemas/\"> <dc:title>DCMI Schemas</dc:title> <dc:description>The Dublin Core Metadata Initiative expects to support the infrastructure for registries provided by RDF Schemas.</dc:description> <dc:date>2007-12-03</dc:date> <dc:format>text/html</dc:format> <dc:language>en</dc:language> <dc:contributor>The Dublin Core Metadata Initiative</dc:contributor> </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "af2fa756d20e0f2a36f44116025514f6", 
+    "source_url": "http://dublincore.org/schemas/index.shtml.rdf"
+}

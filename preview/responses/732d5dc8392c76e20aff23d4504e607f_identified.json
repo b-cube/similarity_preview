@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?> <metadata xml:lang=\"en\"> <Esri> <CreaDate>20130911</CreaDate> <CreaTime>11383500</CreaTime> <ArcGISFormat>1.0</ArcGISFormat> <SyncOnce>TRUE</SyncOnce> </Esri> <dataIdInfo> <idAbs>WMS layer for public consumption.</idAbs> <idPurp/> <idCredit/> <resConst> <Consts> <useLimit/> </Consts> </resConst> <idCitation> <resTitle>nfhap_public_coastal_prod</resTitle> </idCitation> <searchKeys> <keyword/> </searchKeys> </dataIdInfo> <Binary> <Thumbnail> <Data EsriPropertyType=\"PictureX\">/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAqte30Nhb+dMTt3Kpx23HAqzWXqVstxdxLNEJ7fAZogSGDKww2AOQMnjP4GgDUooByM0UAFFFFABRRRQAUUUUAFFFFABRRRQAUUU1pEV1RnUO+dqk8nHXFADqKKKACiiigAooooAKKKKACiiigAqEI/2x3KjZ5ahWzyTk5GPy/M1NTArecz5G0qABjnPNAD6KKKACiiigAooooAKKKKACiiigApskixRPI5wqKWJ9hTqyNU1GGQTaXDIDdSqYvu52kgduMnDZ9hycUAXb6Z41ihjfy5Lh/KSQrkKdpbOPopx74ptppsNpI026SadiSZZW3HnqAOij2AFU4fD8Top1G5nv5Vk81WdigU5B4VcDGQOua2KACiiigAooooAKKKKACiiigAooooAKhuonntpI45mhkYYWRRkqfXHepqKAI4IzFbxxlnbaoG5zlj9fepKa2QCVAJ64J60oIYZBoAWiiigAooooAKKKKACiiigArkvDel/ZfEmrPLMrujAoi5OA2eeee2P8iuke6EjyQWrI86qck8qh9GI7+3WodP0m306SeZC8k87bpJHOSfYegzk/jQBfooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAgubuK1Cb9xeQ7URFJLHGcD8qz7/xBFp0e6a1uQ2OAyhQeRwGJwWxkgDrirGlWiw2/2h4it3P887MMMW7j2A7Cr9AGVY6lfahbJdQ2EaQOMqJZ8OeT2Ckdh3q4LrdESY3ic7giyDG4gZ4/X8vSrIAAAAwBVW/WY22+3UPLG6uEIHzYPIyehIyM0AR6OiJpFrsAy0YZz3LkZYn3znNXqq2ZjLTmJ1dGfeMfw5AyPrnn8atUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUARwwQ24YQxJGGYuwVcZY9SfepKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/Z</Data> </Thumbnail> </Binary> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "732d5dc8392c76e20aff23d4504e607f", 
+    "source_url": "http://gis1.usgs.gov/arcgis/rest/services/nfhap/nfhap_public_coastal/MapServer/info/metadata"
+}

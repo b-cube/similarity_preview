@@ -1,0 +1,15 @@
+{
+    "content": "<OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>Tccon-wiki Search</ShortName><Description>MindTouch Deki Search Engine</Description><Query role=\"example\" searchTerms=\"Wiki\" /><Url type=\"application/atom+xml\" indexOffset=\"0\" template=\"https://tccon-wiki.caltech.edu/@api/deki/site/opensearch?q={searchTerms}&amp;offset={startIndex}&amp;limit={count?}&amp;format=atom\" /><Url type=\"application/rss+xml\" indexOffset=\"0\" template=\"https://tccon-wiki.caltech.edu/@api/deki/site/opensearch?q={searchTerms}&amp;offset={startIndex}&amp;limit={count?}&amp;format=rss\" /><Url type=\"text/html\" indexOffset=\"0\" template=\"https://tccon-wiki.caltech.edu/Special:Search?search={searchTerms}&amp;offset={startIndex}&amp;limit={count?}&amp;format=html\" /><Url type=\"application/x-suggestions+json\" template=\"https://tccon-wiki.caltech.edu/@api/deki/site/opensearch/suggestions?q={searchTerms}\" /></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "44d6a6a6f1512d323539643b880406e9", 
+    "source_url": "https://tccon-wiki.caltech.edu/@gui/opensearch/description"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='SDO-3GPP.03.38'> <front> <title>Alphabets and language-specific information</title> <author><organization>3GPP</organization></author> <date day='13' month='September' year='1994' /> </front>  <seriesInfo name='3GPP TS' value='03.38 4.0.1' /> <format type='HTML' target='http://www.3gpp.org/ftp/Specs/html-info/0338.htm' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8729531a1ab3ff6be1f42c33a3893a1e", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml5/reference.SDO-3GPP.03.38.xml"
+}

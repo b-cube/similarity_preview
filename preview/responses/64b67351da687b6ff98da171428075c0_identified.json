@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.WD-proxy-960221\"> <front> <title>Notification for Proxy Caches</title>  <author initials=\"P\" surname=\"Hallam-Baker\" fullname=\"Phillip M. Hallam-Baker\">     <organization /> </author>  <date month=\"February\" day=\"21\" year=\"1996\" /> </front>  <seriesInfo name=\"W3C NOTE\" value=\"WD-proxy-960221\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/WD-proxy-960221\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "64b67351da687b6ff98da171428075c0", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-proxy-960221.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20123062</identifier><identifier type=\"pwpk\">70038797</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2012-3062</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A climate trend analysis of Uganda</title></titleInfo><originInfo><dateOther>Wed, 20 Jun 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Funk, Chris; Rowland, Jim; Eilerts, Gary; White, Libby</namePart><role>Author</role></name><abstract>This brief report, drawing from a multi-year effort by the U.S. Agency for International Development (USAID) Famine Early Warning Systems Network (FEWS NET), identifies observed changes in rainfall and temperature in Uganda, based on an analysis of a quality-controlled, long time series of station observations throughout Uganda. Extending recent trends forward, it also provides a current and near-future context for understanding the actual nature of climate change impacts in the country, and a basis for identifying climate adaptations that may protect and improve the country's food security.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2012_3062.gif</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2012/3062/</url></location><note type=\"citation/reference\">A climate trend analysis of Uganda; 2012; FS; 2012-3062; Fact Sheet; Funk, Chris; Rowland, Jim; Eilerts, Gary; White, Libby</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "155348431a78402a752a651e928b6914", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20123062"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Inequalities and Identities</dc:title><dc:creator>Jayadev, Arjun</dc:creator><dc:creator>Reddy, Sanjay G.</dc:creator><dc:date>2008</dc:date><dc:type>text</dc:type><dc:subject>Sociology</dc:subject><dc:identifier>http://hdl.handle.net/10022/AC:P:9649</dc:identifier><dc:description>We introduce concepts and measures relating to inequality between identity groups. We define and discuss the concepts of Representational Inequality, Sequence Inequality and Group Inequality Contribution. Representational Inequality captures the extent to which an attribute is shared between members of distinct groups. Sequence Inequality captures the extent to which groups are ordered hierarchically. Group Inequality Contribution captures the extent to which differences between groups account for overall inequality. The concepts have application in interpreting segregation, clustering and polarization in societies. There exists a mapping from familiar inequality measures to the measures we identify, making them empirically applicable.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "450941feb13c13f82c54f9bd7d132845", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A128986.oai_dc_xml"
+}

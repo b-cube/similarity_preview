@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/1883\"> <title>Cadair presentations</title> <link>http://hdl.handle.net/2160/1883</link> <description>Items relating the repository</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/7766\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/7765\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/2221\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/1894\"/> </rdf:Seq> </items> <dc:date>2015-03-19T08:52:37Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/7766\"> <title>Check Citation field</title> <link>http://hdl.handle.net/2160/7766</link> <description>Check Citation field Iola, Hagen Abstract extra text </description> <dc:date>2012-01-31T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/7765\"> <title>Authority Control Checking</title> <link>http://hdl.handle.net/2160/7765</link> <description>Authority Control Checking Iola, Hagen; Johanna, Westwood </description> <dc:date>2012-01-31T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/2221\"> <title>Cadair Power Point presentation for AU Departments</title> <link>http://hdl.handle.net/2160/2221</link> <description>Cadair Power Point presentation for AU Departments Cashman, Nicky A Power Point Presentation designed to introduce Aberystwyth University's online repository, CADAIR, to academic departments. The presentation covers aspects of Open Access, details of contacted publishers, journal conditions and requirements, statistics, content, RCUK issues and general advice. </description> <dc:date>2009-05-12T00:00:00Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/2160/1894\"> <title>How To Raise Your Academic Profile</title> <link>http://hdl.handle.net/2160/1894</link> <description>How To Raise Your Academic Profile Cashman, Nicky This is a Power Point presentation designed in conjunction with the Postgraduate Office for PhD students in Aberystwyth University. The outline of the workshop covers issues of Open Access work, the benefits of submitting to an online repository such as CADAIR, publishers requirements and conditions. </description> <dc:date>2009-02-04T00:00:00Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "909e5d7d6b44f583f346f49d7e5496e5", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/1883"
+}

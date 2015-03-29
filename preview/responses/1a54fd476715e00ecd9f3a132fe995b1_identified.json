@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <?xml-stylesheet type=\"text/css\" href=\"http://glossary.ametsoc.org/w/skins/common/feed.css?303\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\">   <id>http://glossary.ametsoc.org/w/index.php?title=Special:RecentChanges&amp;feed=atom</id>   <title>AMS Glossary  - Recent changes [en]</title>   <link rel=\"self\" type=\"application/atom+xml\" href=\"http://glossary.ametsoc.org/w/index.php?title=Special:RecentChanges&amp;feed=atom\"/>   <link rel=\"alternate\" type=\"text/html\" href=\"http://glossary.ametsoc.org/wiki/Special:RecentChanges\"/>   <updated>2015-03-18T15:43:02Z</updated>   <subtitle>Track the most recent changes to the wiki in this feed.</subtitle>   <generator>MediaWiki 1.18.0</generator>   </feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1a54fd476715e00ecd9f3a132fe995b1", 
+    "source_url": "http://glossary.ametsoc.org/w/index.php?title=Special:RecentChanges&feed=atom"
+}

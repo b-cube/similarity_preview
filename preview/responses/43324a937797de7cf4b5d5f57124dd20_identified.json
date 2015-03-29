@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Center2008 </Local-number>  <Author>Pacific Islands Fisheries Science Center </Author>  <Title>PIFSC Cruise Report CR-08-014 (Cruise HI-08-09) </Title>  <Institution>Pacific Islands Fisheries Science Center </Institution>  <Publication-Place>Honolulu, HI </Publication-Place>  <Publication-Date><caldate>2009 </caldate></Publication-Date>  <Extent>245 </Extent>  <Type-Period-Note>Vessel: Hi'ialakai, Cruise 08-09, Period: 12 September-12 October, 2008, Area of Operation: Northwestern Hawaiian Islands (NWHI) </Type-Period-Note>  <Notes>CRCP Project ID 1221; Project Title: Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls; Principal Investigator: Rusty Brainard </Notes>  <Abstract>Personnel from the Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center, National Marine Fisheries Service (NMFS), NOAA, and their partner agencies conducted reef assessment/monitoring studies in waters surrounding the Northwestern Hawaiian Islands. All activities described in this report were covered by the following permit: PMNM-2008-062. </Abstract>  <Date-Time-Last-Modified>20091109000000 </Date-Time-Last-Modified>  <URL>http://www.pifsc.noaa.gov/library/pubs/cruise/Hiialakai/CRHI0809-PSV.pdf </URL>  <project>  <ID>1221 </ID>  <title>Pacific Reef Assessment and Monitoring Program (Pacific RAMP): Biennial Monitoring for the U.S. Pacific Islands and Atolls </title>  <PI>Rusty Brainard </PI>  </project>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "43324a937797de7cf4b5d5f57124dd20", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B18D51200-3B39-4647-ADBF-4FE7EB9F238A%7D"
+}

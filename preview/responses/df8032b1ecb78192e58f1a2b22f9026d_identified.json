@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/NMSP/FGB_Banks/MapServer</loc> </url> <url> <loc>http://www.ncddc.noaa.gov/arcgis/rest/services/NMSP/FGB/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "df8032b1ecb78192e58f1a2b22f9026d", 
+    "source_url": "http://www.ncddc.noaa.gov/arcgis/rest/services/NMSP?f=sitemap"
+}

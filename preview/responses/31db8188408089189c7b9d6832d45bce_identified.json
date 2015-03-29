@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0514'>  <front> <title>Network make-work</title> <author initials='W.' surname='Kantrowitz' fullname='W. Kantrowitz'> <organization /></author> <date year='1973' month='June' /></front>  <seriesInfo name='RFC' value='514' /> <format type='TXT' octets='8734' target='http://www.rfc-editor.org/rfc/rfc514.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "31db8188408089189c7b9d6832d45bce", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0514.xml"
+}

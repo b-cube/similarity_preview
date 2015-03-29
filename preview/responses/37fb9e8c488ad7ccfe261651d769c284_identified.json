@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <netcdf xmlns=\"http://www.unidata.ucar.edu/namespaces/netcdf/ncml-2.2\">   <remove type=\"attribute\" name=\"creation_date\"/>        <variable name=\"lat\">  <attribute name=\"standard_name\" type=\"String\" value=\"latitude\"/>  <attribute name=\"axis\" type=\"string\" value=\"Y\"/>  <attribute name=\"units\" type=\"string\" value=\"degrees_north\" />   </variable>   <variable name=\"lon\">  <attribute name=\"standard_name\" type=\"string\" value=\"longitude\"/>  <attribute name=\"axis\" type=\"string\" value=\"X\"/>  <attribute name=\"units\" type=\"string\" value=\"degrees_east\" />     </variable>   <variable name=\"time\">  <attribute name=\"standard_name\" type=\"string\" value=\"time\"/>  <attribute name=\"axis\" type=\"string\" value=\"T\"/>  <attribute name=\"units\" type=\"string\" value=\"months since 0000-01-01 00:00:00\"/>   </variable>   <aggregation dimName=\"time\" type=\"joinExisting\">  <netcdf id=\"1\" location =\"http://data.nodc.noaa.gov/thredds/dodsC/woa/DATA_ANALYSIS/NP_REG_CLIMAT/DATA/netcdf/salinity/1.00/s13_01.nc\" coordValue=\"1.5\"/> <netcdf id=\"2\" location =\"http://data.nodc.noaa.gov/thredds/dodsC/woa/DATA_ANALYSIS/NP_REG_CLIMAT/DATA/netcdf/salinity/1.00/s14_01.nc\" coordValue=\"4.5\"/> <netcdf id=\"3\" location =\"http://data.nodc.noaa.gov/thredds/dodsC/woa/DATA_ANALYSIS/NP_REG_CLIMAT/DATA/netcdf/salinity/1.00/s15_01.nc\" coordValue=\"7.5\"/> <netcdf id=\"4\" location =\"http://data.nodc.noaa.gov/thredds/dodsC/woa/DATA_ANALYSIS/NP_REG_CLIMAT/DATA/netcdf/salinity/1.00/s16_01.nc\" coordValue=\"10.5\"/>    </aggregation>  </netcdf> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "UNIDATA:NCML", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "37fb9e8c488ad7ccfe261651d769c284", 
+    "source_url": "http://data.nodc.noaa.gov/nodc/ncml/arctic_ncml/salinity_seasonal_one.ncml"
+}

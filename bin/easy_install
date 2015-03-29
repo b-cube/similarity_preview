@@ -1,0 +1,6 @@
+#!/Users/sscott/Documents/projects/bcube-semantics/similarity_preview/bin/python
+if __name__ == '__main__':
+    import sys
+    from setuptools.command.easy_install import main
+
+    sys.exit(main())

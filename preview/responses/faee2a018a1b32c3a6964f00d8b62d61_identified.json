@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Matentzoglu, Nicolas</a1>   <a2>Parsia, Bijan</a2>   <a2>Sattler, Uli</a2>   <t1>Module Data for the Empirical Investigation of Subsumption Test Hardness in Description Logic Classification</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;This dataset contains 224 modules of 14 distinct ontologies for the submission &amp;quot;Empirical Investigation of Subsumption Test Hardness in Description Logic Classification&amp;quot; to CADE, 2015. The submitted version with the dataset description can be found here:&lt;/p&gt;  &lt;p&gt;http://owl.cs.manchester.ac.uk/publications/supporting-material/subtest-hardness-in-classification/&lt;/p&gt;  &lt;p&gt;The ontologies in this set are BioPortal ontologies from the snapshot provided at http://dx.doi.org/10.5281/zenodo.15667.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The following ontologies are in the set:&amp;nbsp;&lt;/p&gt;  &lt;p&gt;MFOEM - Emotion Ontology&lt;br /&gt; BT - Biotop Ontology&lt;br /&gt; NEMO - Neural Electromagnetic Ontology&lt;br /&gt; NTDO - Neglected Tropical Disease Ontology&lt;br /&gt; OBI - Ontology for Biomedical Investigations&lt;br /&gt; OGSF - Ontology for Genetic Susceptibility Factor&lt;br /&gt; ONL-MSA - Mental State Assemssment&lt;br /&gt; VSO - Vital Sign Ontology&lt;br /&gt; CAO - Clusters of Orthologous Groups Cog Analysis Ontology&amp;nbsp;&lt;br /&gt; ICO - Informed Consent Ontology&lt;br /&gt; OMRSE - Ontology of Medically Related Social Entities&lt;br /&gt; STATO - Statistics Ontology&lt;br /&gt; NPO - Nanoparticle Ontology&lt;br /&gt; OBCS - Ontology of Biological and Clinical Statistics&lt;/p&gt;</ab>   <la/>   <k1>ontologies;                 modules;                 description logic;                 </k1>   <pb/>   <pp/>   <yr>2015-02-26</yr>   <ed/>   <ul>https://zenodo.org/record/15682/files/cade2015_modules.zip;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "faee2a018a1b32c3a6964f00d8b62d61", 
+    "source_url": "https://zenodo.org/record/15682/export/xw"
+}

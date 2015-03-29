@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>2013l </Local-number>  <Title>American Samoa Assessment and Rapid Reef Response Plan </Title>  <Institution>NMFS PIRO </Institution>  <Publication-Date><caldate>2013 </caldate></Publication-Date>  <Extent>7 pp. </Extent>  <Notes>FY2012 Project ID 560; Project Title: Improving Coral Reef Management in American Samoa Through Resilience and Capacity Building; Principal Investigator: Fatima Sauafea-Leau </Notes>  <Abstract>\"This plan will be put into effect to determine if sites have experienced coral damage or loss, what the cause of the coral loss is, the amount of loss at sites, document the progression of the loss episode, and monitor survival rate at those sites. The sites selected cover a broad geographic range, but note that the data will not give an estimate of the percent of coral loss across the whole territory; rather, it will quantify loss at the focus sites.\" </Abstract>  <Date-Time-Last-Modified>20140131000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/560_Leau/AS_ARRR_Plan.pdf </URL>  <project>  <ID>560 </ID>  <title>Improving Coral Reef Management in American Samoa Through Resilience and Capacity Building </title>  <PI>Fatima Sauafea-Leau </PI>  </project>  <Region>AmSam </Region>  <Bounding>  <Eastbc>-167.551612 </Eastbc>  <Westbc>-171.541907 </Westbc>  <Southbc>-15.25183 </Southbc>  <Northbc>-10.207203 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c31141c8201e6b2617e3e44b146c160d", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B7D962918-E413-41D4-B93C-02F6EAA2AFAA%7D"
+}

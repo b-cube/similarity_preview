@@ -1,0 +1,15 @@
+{
+    "content": "<META xmlns=\"http://www.w3.org/2002/01/P3Pv1\"> <POLICY-REFERENCES>     <POLICY-REF about=\"policy.p3p#PrivacyPolicy\">       <INCLUDE>/*</INCLUDE>       <COOKIE-INCLUDE/>     </POLICY-REF>  </POLICY-REFERENCES> </META> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8f39ffd5daf98b2c6e700a46abd925a1", 
+    "source_url": "http://ojjdp.gov/p3p/p3p.xml"
+}

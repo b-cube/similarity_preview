@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>NWSidebar</ShortName>  <Description>Search NWSidebar - The voices of Washington\\ufffd\\ufffd\\ufffds lawyers and legal community</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://nwsidebar.wsba.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://nwsidebar.wsba.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://nwsidebar.wsba.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>NWSidebar</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://0.gravatar.com/blavatar/c78b8d3f58ed2557b52819e77508c2d1?s=16&#038;d=http%3A%2F%2Fnwsidebar.wsba.org%2Ffavicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/png\">http://0.gravatar.com/blavatar/8128dab8ba27fa399f997d1e9ece4a35?s=64&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>bar-exam fashion diversity r74 law-school scotus celebrate-pro-bono license young-lawyers-committee cloud-computing</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://nwsidebar.wsba.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5be8ff53c2276ca40014a214a2c279f9", 
+    "source_url": "http://nwsidebar.wsba.org/osd.xml"
+}

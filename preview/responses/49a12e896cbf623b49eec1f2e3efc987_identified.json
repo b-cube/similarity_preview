@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc = \"http://purl.org/dc/elements/1.1/\">  <rdf:Description about=\"http://dublincore.org/documents/2007/07/02/dcmi-namespace/\">    <dc:title>Namespace Policy for the Dublin Core Metadata Initiative (DCMI)</dc:title>    <dc:description>All terms used in metadata descriptions that conform to the DCMI Abstract Model must be assigned a unique URI. For convenience, the term URIs that are assigned and managed by the DCMI are grouped into collections known as DCMI namespaces. This document describes how term URIs are allocated by the DCMI and the policies associated with DCMI namespaces.</dc:description>    <dc:date>2007-02-05</dc:date>    <dc:format>text/html</dc:format>    <dc:language>en</dc:language>    <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>    <dc:contributor>Andy Powell</dc:contributor>    <dc:contributor>Harry Wagner</dc:contributor>    <dc:contributor>Stuart Weibel</dc:contributor>    <dc:contributor>Thomas Baker</dc:contributor>    <dc:contributor>Tod Matola</dc:contributor>    <dc:contributor>Eric Miller</dc:contributor>    <dc:contributor>Pete Johnston</dc:contributor>  </rdf:Description> </rdf:RDF>   ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "49a12e896cbf623b49eec1f2e3efc987", 
+    "source_url": "http://dublincore.org/documents/2007/07/02/dcmi-namespace/index.shtml.rdf"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../nsc2013highlights.htm\"/>  <o:File HRef=\"image294.png\"/>  <o:File HRef=\"image301.emz\"/>  <o:File HRef=\"oledata.mso\"/>  <o:File HRef=\"image3011.png\"/>  <o:File HRef=\"image307.emz\"/>  <o:File HRef=\"image3071.png\"/>  <o:File HRef=\"image310.jpg\"/>  <o:File HRef=\"image305.emz\"/>  <o:File HRef=\"image3051.png\"/>  <o:File HRef=\"image324.jpg\"/>  <o:File HRef=\"image327.png\"/>  <o:File HRef=\"image338.jpg\"/>  <o:File HRef=\"image303.emz\"/>  <o:File HRef=\"image3031.png\"/>  <o:File HRef=\"image296.jpg\"/>  <o:File HRef=\"image322.jpg\"/>  <o:File HRef=\"image320.jpg\"/>  <o:File HRef=\"image316.jpg\"/>  <o:File HRef=\"image314.jpg\"/>  <o:File HRef=\"image331.png\"/>  <o:File HRef=\"image298.jpg\"/>  <o:File HRef=\"image2981.png\"/>  <o:File HRef=\"image318.jpg\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "10b4901f7bae7c3a0374c9407862e291", 
+    "source_url": "http://directreadout.noaa.gov/2015/nsc2013highlights_files/filelist.xml"
+}

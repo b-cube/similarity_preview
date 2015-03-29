@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>2002 </Local-number>  <Title>U.S Caribbean Regional Fisheries Workshop </Title>  <Publication-Date><caldate>2002 </caldate></Publication-Date>  <Abstract>Within the context of the overarching theme of what is the coral reef ecosystem and its importance, presented three main themes and made recommendations: 1) Federal and Commonwealth Fishing Regulations and Licensing; 2) Boating Regulations and Licensing; and 3) Diving and Hyperbaric Chamber. </Abstract>  <Meeting-Date>September 30-October 1, 2002 </Meeting-Date>  <Location>San Juan, Puerto Rico </Location>  <Proceedings-Title>Summary Recommendations </Proceedings-Title>  <Sponsor>NOAA Fisheries Southeast Region Habitat Conservation Division as part of NOAA Coral Reef Conservation Program </Sponsor>  <URL>http://nsgl.gso.uri.edu/pru/pruw02001.pdf </URL>  <Date-Time-Last-Modified>19700101000000 </Date-Time-Last-Modified>  <Region>PR </Region>  <Bounding>  <Eastbc>-65.248715 </Eastbc>  <Westbc>-67.399870 </Westbc>  <Southbc>17.784130 </Southbc>  <Northbc>18.645740 </Northbc>  </Bounding>  <CoRIS-Record-Type>proceedings </CoRIS-Record-Type>  <Local-subject-index>proceedings </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1a83745de5b7b6c3a924af378cf15fab", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BCA32425E-89FD-43C0-870D-05409228E0C7%7D"
+}

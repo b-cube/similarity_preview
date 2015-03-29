@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>wakeforestmuseum</ShortName>  <Description>Search Wake Forest Historical Museum - 414 N. Main Street Wake Forest, NC 27587           CONTACT:919-556-2911</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://wakeforestmuseum.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://wakeforestmuseum.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://wakeforestmuseum.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>Wake Forest Historical Museum</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://0.gravatar.com/blavatar/2d4e3f8ca60b00b7f5c13e347f4d7a2d?s=16&#038;d=http%3A%2F%2Fwakeforestmuseum.org%2Ffavicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/jpeg\">http://1.gravatar.com/blavatar/f65091f543df33bb7ef3095149d477c9?s=64&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>wake-forest-college wake-forest-historical-museum wake-forest wake-forest-college-birthplace-society calvin-jones-house east-end samuel-wait wake-forest-historical-musuem wake-forest-christmas circa-magazine</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://wakeforestmuseum.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f27b04eca95a205ebe9a47e9e8d7840b", 
+    "source_url": "http://wakeforestmuseum.org/osd.xml"
+}

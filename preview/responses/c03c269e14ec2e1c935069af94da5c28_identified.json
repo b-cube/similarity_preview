@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/10283/245\"> <title>School of Mathematics</title> <link>http://hdl.handle.net/10283/245</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/695\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/680\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/618\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/607\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/541\"/> </rdf:Seq> </items> <dc:date>2015-03-19T01:58:07Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/10283/695\"> <title>Quasi-geostrophic double gyre force function data</title> <link>http://hdl.handle.net/10283/695</link> <description>Quasi-geostrophic double gyre force function data </description> <dc:date>2015-01-22T17:09:36Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/10283/680\"> <title>Parallel simplex benchmarking results</title> <link>http://hdl.handle.net/10283/680</link> <description>Parallel simplex benchmarking results Data used to generate results in \"Parallelizing the dual revised simplex method\" http://www.maths.ed.ac.uk/hall/HuHa13/, a copy of which is attached. </description> <dc:date>2014-12-23T10:57:42Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/10283/618\"> <title>Snapshots of an N-body model of M4</title> <link>http://hdl.handle.net/10283/618</link> <description>Snapshots of an N-body model of M4 326 snapshots of an N-body model of the Galactic globular cluster M4.  Each snapshot consists of a list of all the particles in the simulation at one time. </description> <dc:date>2014-09-04T09:28:57Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/10283/607\"> <title>HypFun</title> <link>http://hdl.handle.net/10283/607</link> <description>HypFun MATLAB code for computing the confluent and Gauss hypergeometric functions using a range of numerical methods. </description> <dc:date>2014-07-29T11:03:16Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/10283/541\"> <title>Symmetry operators Mathematica notebook</title> <link>http://hdl.handle.net/10283/541</link> <description>Symmetry operators Mathematica notebook This a collection of files intended for verification of the results in the paper&#13; Andersson, L, B\\ufffd\\ufffdckdahl, T, Blue, P, \"Second order symmetry operators\", (2014) arXiv:1402.6252 [gr-qc]&#13; to appear in Class. Quantum Grav. </description> <dc:date>2014-04-17T16:23:36Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c03c269e14ec2e1c935069af94da5c28", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/rss_1.0/10283/245"
+}

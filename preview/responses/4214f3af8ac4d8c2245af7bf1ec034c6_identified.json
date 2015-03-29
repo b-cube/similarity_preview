@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"::WKirkwood_2013_CV.htm\"/>  <o:File HRef=\"themedata.xml\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4214f3af8ac4d8c2245af7bf1ec034c6", 
+    "source_url": "http://www.mbari.org/staff/kiwi/WKirkwood_2013_CV_files/filelist.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/CommunityBG_ES_layers/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/ESC_NBMA_CleanAir_repl20141125/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/HUC12NavRMS_MS/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/HUCQuery_Boundaries/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/national_master/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/NHDFlowlines_nolabels/MapServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/SyncHUC12NavModelRMS/GPServer</loc> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/TigerBoundaries/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dcca21b7ffe93238f9497b608902ac46", 
+    "source_url": "http://enviroatlas.epa.gov/arcgis/rest/services/Other?f=sitemap"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>  <event_data eventid=\"c000ttzb\" source=\"us\" network=\"us\" region=\"global\" process_timestamp=\"2015-02-28 18:41:11\" ciim_version=\"5\" code_version=\"1.3\" event_version=\"0\">   <event magnitude=\"3.9\" latitude=\"-12.0556\" longitude=\"-76.5579\" depth=\"29.31\" event_timestamp=\"2015-02-28 04:43:03\" localtime=\"Feb 27 2015 11:43:03 PM local\" locationtext=\"NEAR THE COAST OF CENTRAL PERU\" />   <cdi_summary nresponses=\"29\" max_intensity=\"3.8\" citydb=\"city_2009\" />   <products>     <category name=\"Maps\">       <product name=\"City map\">         <description><![CDATA[Map of responses by city or ZIP code]]></description>         <format type=\"image/jpeg\" file=\"usc000ttzb_ciim.jpg\" />         <format type=\"application/pdf\" file=\"usc000ttzb_ciim.pdf\" />         <format type=\"application/postscript\" file=\"usc000ttzb_ciim.ps\" />         <format type=\"text/html\" file=\"usc000ttzb_ciim_imap.html\" />       </product>     </category>     <category name=\"Plots\">       <product name=\"Intensity vs. Distance\">         <description><![CDATA[Plot of Attenuation (fall-off) with distance for each intensity versus its distance from the epicenter]]></description>         <format type=\"image/jpeg\" file=\"usc000ttzb_plot_atten.jpg\" />         <format type=\"application/postscript\" file=\"usc000ttzb_plot_atten.ps\" />       </product>       <product name=\"Responses vs. Time\">         <description><![CDATA[Plot of total number of responses since the event]]></description>         <format type=\"image/jpeg\" file=\"usc000ttzb_plot_numresp.jpg\" />         <format type=\"application/postscript\" file=\"usc000ttzb_plot_numresp.ps\" />       </product>     </category>     <category name=\"Data\">       <product name=\"Product List\">         <description><![CDATA[List of available DYFI maps and data for this event]]></description>         <format type=\"text/xml\" file=\"event_data.xml\" />       </product>       <product name=\"Intensity Summary\">         <description><![CDATA[Table of intensities aggregated by city or ZIP code]]></description>         <format type=\"text/plain\" file=\"cdi_zip.txt\" />         <format type=\"text/xml\" file=\"cdi_zip.xml\" />       </product>     </category>   </products> </event_data> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d264fab8187902419af289f1c27315c8", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/c000ttzb/us/event_data.xml"
+}

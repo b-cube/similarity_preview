@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <oembed><html>&lt;iframe width=\"480\" height=\"270\" src=\"http://www.youtube.com/embed/AK04FVMZ6pI?feature=oembed\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;</html><width>480</width><thumbnail_height>360</thumbnail_height><provider_url>http://www.youtube.com/</provider_url><author_url>http://www.youtube.com/user/NASAexplorer</author_url><version>1.0</version><provider_name>YouTube</provider_name><title>NASA | So, You Want to Build a Satellite?</title><thumbnail_width>480</thumbnail_width><height>270</height><author_name>NASA Goddard</author_name><thumbnail_url>http://i.ytimg.com/vi/AK04FVMZ6pI/hqdefault.jpg</thumbnail_url><type>video</type></oembed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9459ed0c453565e9849654c18d1147b8", 
+    "source_url": "http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAK04FVMZ6pI&format=xml"
+}

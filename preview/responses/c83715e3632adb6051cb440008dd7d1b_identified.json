@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Cadair Help</title> <link href=\"http://hdl.handle.net/2160/13758\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/2160/13758</id> <updated>2015-03-20T04:01:30Z</updated> <dc:date>2015-03-20T04:01:30Z</dc:date> <entry> <title>Theses</title> <link href=\"http://hdl.handle.net/2160/13764\" rel=\"alternate\"/> <author> <name>Institutional Repository &amp; Metadata Team</name> </author> <id>http://hdl.handle.net/2160/13764</id> <updated>2014-10-23T03:08:23Z</updated> <published>2014-05-07T00:00:00Z</published> <summary type=\"text\">Theses Institutional Repository &amp; Metadata Team </summary> <dc:date>2014-05-07T00:00:00Z</dc:date> </entry> <entry> <title>Queries / Complaints</title> <link href=\"http://hdl.handle.net/2160/13763\" rel=\"alternate\"/> <author> <name>Institutional Repository &amp; Metadata Team</name> </author> <id>http://hdl.handle.net/2160/13763</id> <updated>2014-10-23T03:08:15Z</updated> <published>2014-05-07T00:00:00Z</published> <summary type=\"text\">Queries / Complaints Institutional Repository &amp; Metadata Team </summary> <dc:date>2014-05-07T00:00:00Z</dc:date> </entry> <entry> <title>Open Access</title> <link href=\"http://hdl.handle.net/2160/13762\" rel=\"alternate\"/> <author> <name>Institutional Repository &amp; Metadata Team</name> </author> <id>http://hdl.handle.net/2160/13762</id> <updated>2014-10-23T03:08:11Z</updated> <published>2014-05-07T00:00:00Z</published> <summary type=\"text\">Open Access Institutional Repository &amp; Metadata Team </summary> <dc:date>2014-05-07T00:00:00Z</dc:date> </entry> <entry> <title>Copyright and Licences</title> <link href=\"http://hdl.handle.net/2160/13761\" rel=\"alternate\"/> <author> <name>Institutional Repository &amp; Metadata Team</name> </author> <id>http://hdl.handle.net/2160/13761</id> <updated>2014-10-23T03:08:13Z</updated> <published>2014-05-07T00:00:00Z</published> <summary type=\"text\">Copyright and Licences Institutional Repository &amp; Metadata Team </summary> <dc:date>2014-05-07T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c83715e3632adb6051cb440008dd7d1b", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/13758"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <?xml-stylesheet href=\"http://www.w3.org/2000/08/w3c-synd/style.css\" type=\"text/css\"?><rdf:RDF xmlns:h=\"http://www.w3.org/1999/xhtml\"          xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"          xmlns:dc=\"http://purl.org/dc/elements/1.1/\"          xmlns=\"http://purl.org/rss/1.0/\">    <channel rdf:about=\"http://www.w3.org/2002/09/Lists2RSS?ml=public-wai-ert-tsdtf\">       <link>http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/</link>       <title>public-wai-ert-tsdtf@w3.org  Mail Archives</title>       <dc:language>en</dc:language>       <description/>       <items>          <rdf:Seq>             <rdf:li rdf:resource=\"http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/#msg4\"/>             <rdf:li rdf:resource=\"http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/#msg3\"/>             <rdf:li rdf:resource=\"http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/#msg2\"/>             <rdf:li rdf:resource=\"http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/#msg1\"/>          </rdf:Seq>       </items>    </channel>    <item rdf:about=\"http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/#msg4\">       <title>\"Regrets for Aug 4 TSDTF telecon\" (1 message in thread)</title>       <link>http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/0004.html</link>       <dc:date>2009-07-27</dc:date>       <description>Message posted by Boland Jr., Frederick E.</description>    </item>    <item rdf:about=\"http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/#msg3\">       <title>\"no telecon this week\" (1 message in thread)</title>       <link>http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/0003.html</link>       <dc:date>2009-07-27</dc:date>       <description>Message posted by Christophe Strobbe</description>    </item>    <item rdf:about=\"http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/#msg2\">       <title>\"Regrets for Tue Jul 28\" ( message in thread)</title>       <link>http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/0002.html</link>       <dc:date>2009-07-27</dc:date>       <description>Message posted by Michael A Squillace</description>    </item>    <item rdf:about=\"http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/#msg1\">       <title>\"TSD TF: Agenda for teleconference on Tuesday 7 July 2009\" (2 messages in thread)</title>       <link>http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/2009Jul/0001.html</link>       <dc:date>2009-07-06</dc:date>       <description>Last message posted by Boland Jr., Frederick E.</description>    </item> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "79679c14c12f089ca12485d1ae219600", 
+    "source_url": "http://lists.w3.org/Archives/Public/public-wai-ert-tsdtf/feed.rss"
+}

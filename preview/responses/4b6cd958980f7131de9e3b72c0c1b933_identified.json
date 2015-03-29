@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>SAICM - Strategic Approach to International Chemicals Management</ShortName>   <Description>The Strategic Approach to International Chemicals Management (SAICM) is a policy framework to foster the sound management of chemicals. SAICM was developed by a multi-stakeholder and multi-sectoral Preparatory Committee and supports the achievement of the goal agreed at the 2002 Johannesburg World Summit on Sustainable Development of ensuring that, by the year 2020, chemicals are produced and used in ways that minimize significant adverse impacts on the environment and human health.</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.saicm.org/templates/beez_20/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.saicm.org/index.php?option=com_search&amp;format=opensearch\"/>   <Url type=\"text/html\" template=\"http://www.saicm.org/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4b6cd958980f7131de9e3b72c0c1b933", 
+    "source_url": "http://www.saicm.org/index.php?option=com_search&format=opensearch"
+}

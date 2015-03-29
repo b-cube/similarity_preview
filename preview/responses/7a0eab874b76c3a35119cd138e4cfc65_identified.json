@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc =\"http://purl.org/dc/elements/1.1/\"   xmlns:dcq =\"http://dublincore.org/2000/03/13/dcq#\">  <rdf:Description rdf:about=\"http://dublincore.org/documents/dcmes-xml/\">    <dc:title>Expressing Simple Dublin Core in RDF/XML</dc:title>    <dc:description>The Dublin Core Metadata Element Set V1.1 (DCMES) can be represented  in many syntax formats. This document explains how to encode the DCMES in  RDF/XML, provides a DTD to validate the documents and describes a method  to link them from web pages.</dc:description>    <dc:date>2002-07-31</dc:date>    <dc:creator>Dave Beckett</dc:creator>    <dc:creator>Eric Miller</dc:creator>    <dc:creator>Dan Brickley</dc:creator>    <dc:format>text/html</dc:format>    <dc:language>en</dc:language>    <dc:publisher>Dublin Core Metadata Initiative</dc:publisher>    <dcq:isVersionOf rdf:resource = \"http://dublincore.org/documents/dcmes-xml/\" />    <dcq:replaces rdf:resource = \"http://dublincore.org/documents/2001/11/28/dcmes-xml/\" />  </rdf:Description> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7a0eab874b76c3a35119cd138e4cfc65", 
+    "source_url": "http://dublincore.org/documents/dcmes-xml/index.shtml.rdf"
+}

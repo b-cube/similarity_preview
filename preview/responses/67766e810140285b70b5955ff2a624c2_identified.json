@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-parks\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-parks</id><updated>2015-03-14T12:13:57Z</updated><entry><title>REST API: Update object city-and-county-of-denver-parks</title><link href=\"/revision/28190ffa-66ef-4956-a36a-52dea2124572\" rel=\"alternate\"></link><updated>2015-03-14T12:13:57Z</updated><published>2015-03-14T12:13:57Z</published><author><name>denver</name></author><id>tag:,2015-03-14:/revision/28190ffa-66ef-4956-a36a-52dea2124572</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-parks</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-parks</title><link href=\"/revision/842e8792-ea1e-4215-83c5-bb829310c550\" rel=\"alternate\"></link><updated>2015-03-14T12:12:36Z</updated><published>2015-03-14T12:12:36Z</published><author><name>denver</name></author><id>tag:,2015-03-14:/revision/842e8792-ea1e-4215-83c5-bb829310c550</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-parks</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-parks</title><link href=\"/revision/ef290890-8bd0-4ebf-9e72-35dedff4c24a\" rel=\"alternate\"></link><updated>2015-03-07T13:08:37Z</updated><published>2015-03-07T13:08:37Z</published><author><name>denver</name></author><id>tag:,2015-03-07:/revision/ef290890-8bd0-4ebf-9e72-35dedff4c24a</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-parks</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-parks</title><link href=\"/revision/723b9cb3-67a5-44e4-a888-0ffad30f1e34\" rel=\"alternate\"></link><updated>2015-03-07T13:08:33Z</updated><published>2015-03-07T13:08:33Z</published><author><name>denver</name></author><id>tag:,2015-03-07:/revision/723b9cb3-67a5-44e4-a888-0ffad30f1e34</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-parks</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "67766e810140285b70b5955ff2a624c2", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-parks?days=14&format=atom"
+}

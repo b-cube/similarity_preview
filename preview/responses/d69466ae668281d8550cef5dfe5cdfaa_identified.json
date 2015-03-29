@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-benthic-monitoring-sites\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-benthic-monitoring-sites</id><updated>2015-03-15T16:33:14Z</updated><entry><title>REST API: Update object city-and-county-of-denver-benthic-monitoring-sites</title><link href=\"/revision/105141fa-cdcd-4a1a-9c73-46f9a6fdccfa\" rel=\"alternate\"></link><updated>2015-03-15T16:33:14Z</updated><published>2015-03-15T16:33:14Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/105141fa-cdcd-4a1a-9c73-46f9a6fdccfa</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-benthic-monitoring-sites</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-benthic-monitoring-sites</title><link href=\"/revision/8b893549-75b3-499c-9e84-0640736050a8\" rel=\"alternate\"></link><updated>2015-03-15T16:32:56Z</updated><published>2015-03-15T16:32:56Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/8b893549-75b3-499c-9e84-0640736050a8</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-benthic-monitoring-sites</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-benthic-monitoring-sites</title><link href=\"/revision/b66495c4-8532-4d03-8d71-59547b068b14\" rel=\"alternate\"></link><updated>2015-03-08T16:32:27Z</updated><published>2015-03-08T16:32:27Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/b66495c4-8532-4d03-8d71-59547b068b14</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-benthic-monitoring-sites</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-benthic-monitoring-sites</title><link href=\"/revision/9eb04f17-0e57-4d52-910a-b7f81dd4e444\" rel=\"alternate\"></link><updated>2015-03-08T16:32:20Z</updated><published>2015-03-08T16:32:20Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/9eb04f17-0e57-4d52-910a-b7f81dd4e444</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-benthic-monitoring-sites</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d69466ae668281d8550cef5dfe5cdfaa", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-benthic-monitoring-sites?days=14&format=atom"
+}

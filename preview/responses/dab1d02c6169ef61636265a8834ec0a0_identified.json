@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">7000022</identifier><identifier type=\"pwpk\">7000022</identifier><identifier type=\"series\">General Interest Publication</identifier><genre>USGS Unnumbered Series</genre><titleInfo><title>The Great Ice Age</title></titleInfo><originInfo><dateOther>Fri, 1 Jan 1993 00:00 -0600</dateOther><dateIssued>1992</dateIssued><publisher>Government Printing Office</publisher><placeTerm>Washington, D.C.</placeTerm></originInfo><name><namePart>Ray, Louis L.</namePart><role>Author</role></name><abstract>The Great Ice Age, a recent chapter in the Earth's history, was a period of recurring widespread glaciations. During the Pleistocene Epoch of the geologic time scale, which began about a million or more years ago, mountain glaciers formed on all continents, the icecaps of Antarctica and Greenland were more extensive and thicker than today, and vast glaciers, in places as much as several thousand feet thick, spread across northern North America and Eurasia. So extensive were these glaciers that almost a third of the present land surface of the Earth was intermittently covered by ice. Even today remnants of the great glaciers cover almost a tenth of the land, indicating that conditions somewhat similar to those which produced the Great Ice Age are still operating in polar and subpolar climates.</abstract><physicalDescription><form>7 p. (15 columns)</form><form>Government Printing Office</form><form>Washington, D.C.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/usgs_thumb.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/gip/ice_age/</url><url displayLabel=\"pdf\" note=\"DOCUMENT\">http://pubs.usgs.gov/gip/ice_age/ice_age.pdf</url></location><note type=\"citation/reference\">The Great Ice Age; 1992; USGS Unnumbered Series; General Interest Publication; Ray, Louis L.</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>General Interest Publication</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "dab1d02c6169ef61636265a8834ec0a0", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=7000022"
+}

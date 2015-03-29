@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?> <rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xml:lang=\"fr\">  <dcat:Dataset rdf:about=\"http://data.angers.fr/?eID=smile_od_rdf&amp;id=224\">   <dct:identifier>201_alm_vilan_1er07cantoTrelaze</dct:identifier>   <dct:title>\\ufffd\\ufffdlections cantonales partielles 2007 1er tour canton Tr\\ufffd\\ufffdlaz\\ufffd\\ufffd</dct:title>   <dct:description>Les donn\\ufffd\\ufffdes fournissent les r\\ufffd\\ufffdsultats du premier tour des \\ufffd\\ufffdlections cantonales partielles du canton de Tr\\ufffd\\ufffdlaz\\ufffd\\ufffd, sur les bureaux de vote de la Ville d'Angers, qui se sont d\\ufffd\\ufffdroul\\ufffd\\ufffdes le dimanche 30 septembre 2007.</dct:description>   <dcat:landingPage>http://data.angers.fr/donnees/elections-cantonales-partielles-2007-1er-tour-canton-trelaze/</dcat:landingPage>   <dcat:theme>Citoyennet\\ufffd\\ufffd / Institution</dcat:theme>   <dcat:keywords>\\ufffd\\ufffdlection, \\ufffd\\ufffdlection locale, cantonale, institutions publiques</dcat:keywords>   <dct:licence>Licence ODbL</dct:licence>   <dct:issued>1416351600</dct:issued>   <dct:modified>0</dct:modified>   <lastModificationDescription/>   <dct:temporal>publication unique</dct:temporal>   <dct:created>1416411094</dct:created>   <dct:creator>Ville d'Angers</dct:creator>   <dct:contributor>Angers Loire M\\ufffd\\ufffdtropole</dct:contributor>   <dct:publisher>Ville d'Angers</dct:publisher>   <dct:spatial>Territoire Ville d'Angers</dct:spatial>   <dct:language>fran\\ufffd\\ufffdais</dct:language>   <dcat:dataQuality/>   <dcat:granularity/>   <dct:references/>   <dcat:themeTaxonomy/>   <dcat:distribution>    <dcat:Distribution>     <dcat:Download>fileadmin/datastore/data/Citoyennete/\\ufffd\\ufffdlections/201_alm_vilan_1er07cantoTrelaze.xlsx</dcat:Download>     <dct:format>XLS</dct:format>     <dcat:accessURL>http://data.angers.fr/fileadmin/datastore/data/Citoyennete/\\ufffd\\ufffdlections/201_alm_vilan_1er07cantoTrelaze.xlsx</dcat:accessURL>    </dcat:Distribution>    <dcat:Distribution>     <dcat:Download>fileadmin/datastore/data/Citoyennete/\\ufffd\\ufffdlections/201_alm_vilan_1er07cantoTrelaze.csv</dcat:Download>     <dct:format>CSV</dct:format>     <dcat:accessURL>http://data.angers.fr/fileadmin/datastore/data/Citoyennete/\\ufffd\\ufffdlections/201_alm_vilan_1er07cantoTrelaze.csv</dcat:accessURL>    </dcat:Distribution>   </dcat:distribution>  </dcat:Dataset> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "fr", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "d22b7fe333fffcffb921b69b654df15f", 
+    "source_url": "http://data.angers.fr/?eID=smile_od_rdf&id=224"
+}

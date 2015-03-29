@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <c03 level=\"file\">                   <did>                      <unitid countrycode=\"GB\" repositorycode=\"71\" identifier=\"THM/22/4/2/1/1-2\">THM/22/4/2/1/1-2</unitid>                      <unittitle>Music for                  <title render=\"italic\" linktype=\"simple\">Ace of Spades</title>                      </unittitle>                      <unitdate normal=\"1957/1998\" era=\"ce\" calendar=\"gregorian\">1957-1998</unitdate>                      <physdesc>                         <extent>2 folders</extent>                      </physdesc>                   </did>                </c03>                 ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "de8b72cc5359010beed19c6cb43b6da8", 
+    "source_url": "http://archiveshub.ac.uk/data/gb71-thm/22/thm/22/4/2/1/1-2.xml"
+}

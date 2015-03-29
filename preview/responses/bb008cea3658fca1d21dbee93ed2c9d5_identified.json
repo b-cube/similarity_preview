@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <response><lst name=\"responseHeader\"><int name=\"status\">0</int><int name=\"Qtime\">157</int><str name=\"version\">1.0 </str><lst name=\"params\"><str name=\"q\">bread</str><str name=\"records\">5</str><str name=\"timeout\">20</str></lst><lst name=\"sources_available\"/></lst><result name=\"response\"/></response> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bb008cea3658fca1d21dbee93ed2c9d5", 
+    "source_url": "http://discovery.ac.uk/ww1/api/?q=bread&records=5&timeout=20"
+}

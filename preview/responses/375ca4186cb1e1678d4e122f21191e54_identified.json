@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata record=\"703\"><idinfo><citation><citeinfo><title>Human Health Database</title><pubinfo><publish>U.S. Geological Survey</publish></pubinfo><onlink>http://health.usgs.gov/health_data.html</onlink></citeinfo></citation><descript><abstract>Central site providing links to USGS databases and homepages providing significant data and information on research related to human health.</abstract></descript><accconst>none</accconst><useconst>none</useconst><keywords><theme><themekt>USGS Thesaurus</themekt><themekey>catalogs and indexes</themekey><themekey>contamination and pollution</themekey><themekey>datasets</themekey><themekey>ecotoxicology</themekey><themekey>environmental health (human)</themekey><themekey>health and disease</themekey><themekey>human impacts</themekey><themekey>life sciences</themekey></theme></keywords></idinfo><metainfo><metd>20120905</metd><metstdn>Content Standard for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv></metainfo></metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "375ca4186cb1e1678d4e122f21191e54", 
+    "source_url": "http://www.usgs.gov/science/xml.php?cite=703"
+}

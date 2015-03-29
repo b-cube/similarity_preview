@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0074\">   <front>     <title>Simple Access Control</title>     <author initials=\"J.\" surname=\"Kirby\" fullname=\"Justin Kirby\">       <organization/>       <address>         <email>justin@openaether.org</email>       </address>     </author>     <date day=\"20\" month=\"October\" year=\"2003\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0074\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0074.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "87d166114033b2cc80fa2c3fba0b8136", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0074.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <reference anchor=\"XEP-0008\">   <front>     <title>IQ-Based Avatars</title>     <author initials=\"T.\" surname=\"Muldowney\" fullname=\"Thomas Muldowney\">       <organization/>       <address>         <email>temas@jabber.org</email>       </address>     </author>     <author initials=\"J.\" surname=\"Missig\" fullname=\"Julian Missig\">       <organization/>       <address>         <email>julian@jabber.org</email>       </address>     </author>     <author initials=\"J.\" surname=\"Alfke\" fullname=\"Jens Alfke\">       <organization/>       <address>         <email>jens@mac.com</email>       </address>     </author>     <author initials=\"P.\" surname=\"Millard\" fullname=\"Peter Millard\">       <organization/>       <address>         <email/>       </address>     </author>     <date day=\"16\" month=\"June\" year=\"2005\"/>   </front>   <seriesInfo name=\"XSF XEP\" value=\"0008\"/>   <format type=\"HTML\" target=\"http://xmpp.org/extensions/xep-0008.html\"/> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c6c74d437bbbf0acff59ce00fbfdd66f", 
+    "source_url": "http://www.xmpp.org/extensions/refs/reference.XSF.XEP-0008.xml"
+}

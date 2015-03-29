@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rdf:RDF   xmlns:dcterms=\"http://purl.org/dc/terms/\"   xmlns:documentcontainer=\"http://eidchub.ceh.ac.uk/portal_types/documentContainer#\"   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" >   <documentcontainer:documentContainer rdf:about=\"http://eidchub.ceh.ac.uk/metadata/a7a05363-4232-4c21-9e52-8bdb1b6d5f0a\">     <dcterms:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-01-27T11:49:18Z</dcterms:issued>     <documentcontainer:id xml:lang=\"en\">a7a05363-4232-4c21-9e52-8bdb1b6d5f0a</documentcontainer:id>     <dcterms:created rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-01-24T10:21:30Z</dcterms:created>     <dcterms:subject>Great Britain</dcterms:subject>     <dcterms:subject>Environmental monitoring facilities</dcterms:subject>     <dcterms:subject>vegetation</dcterms:subject>     <dcterms:subject>habitats</dcterms:subject>     <documentcontainer:fileIdentifier xml:lang=\"en\">a7a05363-4232-4c21-9e52-8bdb1b6d5f0a</documentcontainer:fileIdentifier>     <dcterms:title xml:lang=\"en\">Countryside Survey 1990</dcterms:title>     <documentcontainer:catalogLink>http://data.ceh.ac.uk/metadata/a7a05363-4232-4c21-9e52-8bdb1b6d5f0a</documentcontainer:catalogLink>     <dcterms:description xml:lang=\"en\">A range of data has been gathered under the Countryside Survey project including habitat areas, vegetation species, soil data, linear feature data and freshwater habitats. Data in this series were gathered in the 1990 survey in Great Britain. Countryside Survey is a unique study or 'audit' of the natural resources of the UK's countryside. The countryside is sampled and surveyed using rigorous scientific methods, allowing us to compare new results with those from previous surveys. In this way we can detect the gradual and subtle changes that occur in the UK's countryside over time. The 1km square sample sites are chosen from a stratified random sample, based on a 15 by 15 km grid of Britain. Surveys have been carried out in 1978, 1984, 1990, 1998 and 2007 with repeated visits to the majority of survey squares. </dcterms:description>     <dcterms:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#dateTime\">2014-01-30T14:25:30Z</dcterms:modified>     <dcterms:isPartOf rdf:resource=\"http://eidchub.ceh.ac.uk/metadata\"/>     <dcterms:creator>clamw</dcterms:creator>   </documentcontainer:documentContainer> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0b7388ed09ea9ec0c4fbd2f7472e7346", 
+    "source_url": "http://eidchub.ceh.ac.uk/metadata/a7a05363-4232-4c21-9e52-8bdb1b6d5f0a/@@rdf"
+}

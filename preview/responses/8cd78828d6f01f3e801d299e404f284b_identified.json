@@ -1,0 +1,15 @@
+{
+    "content": "<xml xmlns:o=\"urn:schemas-microsoft-com:office:office\">  <o:MainFile HRef=\"../Landau%20Worksheet%202.html\"/>  <o:File HRef=\"image001.gif\"/>  <o:File HRef=\"image002.wmz\"/>  <o:File HRef=\"image003.gif\"/>  <o:File HRef=\"filelist.xml\"/> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8cd78828d6f01f3e801d299e404f284b", 
+    "source_url": "http://www.scienceteacherprogram.org/genscience/Landau%20Worksheet%202_files/filelist.xml"
+}

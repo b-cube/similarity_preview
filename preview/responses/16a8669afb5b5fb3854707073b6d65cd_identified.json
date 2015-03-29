@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20073004</identifier><identifier type=\"pwpk\">80073</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2007-3004</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Precambrian Time - The Story of the Early Earth</title></titleInfo><originInfo><dateOther>Fri, 29 Jun 2007 00:00 -0500</dateOther><dateIssued>2007</dateIssued><publisher>Geological Survey (U.S.)</publisher></originInfo><name><namePart>Lindsey, D.A.</namePart><role>Author</role></name><abstract>The Precambrian is the least-understood part of Earth history, yet it is arguably the most important. Precambrian time spans almost nine-tenths of Earth history, from the formation of the Earth to the dawn of the Cambrian Period. It represents time so vast and long ago that it challenges all comprehension.&#xd; &#xd; The Precambrian is the time of big questions. How old is the Earth? How old are the oldest rocks and continents? What was the early Earth like? What was the early atmosphere like? When did life appear, and what did it look like? And, how do we know this?&#xd; &#xd; In recent years, remarkable progress has been made in understanding the early evolution of the Earth and life itself. Yet, the scientific story of the early Earth is still a work in progress, humankind's latest attempt to understand the planet. Like previous attempts, it too will change as we learn more about the Earth. Read on to discover what we know now, in the early 21st century.</abstract><physicalDescription><form>4 p.</form><form>Geological Survey (U.S.)</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2007_3004.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2007/3004/</url></location><note type=\"citation/reference\">Precambrian Time - The Story of the Early Earth; 2007; FS; 2007-3004; Fact Sheet; Lindsey, D.A.</note><edition>Version 1.0</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "16a8669afb5b5fb3854707073b6d65cd", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20073004"
+}

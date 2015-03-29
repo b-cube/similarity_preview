@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata>   <idinfo>     <citation>       <citeinfo>         <origin>Office of Statewide Health Planning and Development</origin>         <onlink>http://projects.atlas.ca.gov/frs/download.php/2849/MUP.zip</onlink>         <title>Medically Underserved POP</title>         <geoform>vector digital data</geoform>         <pubdate>12/06/2010</pubdate>       </citeinfo>     </citation>     <ceic>       <groupname>California Healthcare Workforce Catalog</groupname>       <groupid>60</groupid>       <packageid>458</packageid>     </ceic>     <descript>       <abstract>California Healthcare Workforce Catalog. The data were developed by the Office of Statewide Health Planning and Development&apos;s (OSHPD) Healthcare Workforce Development Division (HWDD).</abstract>       <purpose />     </descript>     <status>       <progress />       <update />     </status>     <timeperd>       <currentness />     </timeperd>     <spdom>       <bounding>         <eastbc>0.00</eastbc>         <westbc>0.00</westbc>         <northbc>0.00</northbc>         <southbc>0.00</southbc>       </bounding>     </spdom>     <useconst />     <keywords>       <theme>         <themekt>ceres:themes</themekt>         <themekey>Health</themekey>         <themekey>Health services</themekey>       </theme>       <theme>         <themekt>ISO TOPIC CATEGORIES</themekt>         <themekey>health</themekey>       </theme>       <theme>         <themekt>keyword</themekt>         <themekey />       </theme>       <theme>         <placekt>ceres</placekt>         <placekey>State: California</placekey>       </theme>     </keywords>   </idinfo>   <ptcontac>     <cntinfo />   </ptcontac>   <metainfo>     <metc>       <cntinfo>         <orgname>California Natural Resources Agency</orgname>         <pername>Data Librarian</pername>         <cntaddr>           <address>801 K St., 16th Floor</address>           <addrtype>mailing address</addrtype>           <city>Sacramento</city>           <state>CA</state>           <postal>95814</postal>         </cntaddr>         <cntvoice>916-322-3476</cntvoice>         <cntemail>metadata@gis.resources.ca.gov</cntemail>       </cntinfo>     </metc>     <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>     <metstdv>FGDC-STD-001-1998</metstdv>   </metainfo>   <distinfo>     <distrib>       <cntinfo />       <resdesc>downloadableData</resdesc>     </distrib>   </distinfo>   <spref>     <wkid />   </spref> </metadata>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a5db71126bbbaf265815540d1d0026fe", 
+    "source_url": "https://catalog.data.gov/harvest/object/3ca4407a-71d2-4403-be57-f7e9e13dcf18/original"
+}

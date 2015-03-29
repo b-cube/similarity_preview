@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"ITU.T44.1999\"> <front> <title>Mixed Raster Content (MRC)</title> <author> <organization>International Telecommunications Union</organization> </author> <date month=\"April\" year=\"1999\" /> </front>  <seriesInfo name=\"ITU-T\" value=\"Recommendation T.44\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0a85794e8e70155bf3fca043aa9d1789", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/reference.ITU.T44.1999.xml"
+}

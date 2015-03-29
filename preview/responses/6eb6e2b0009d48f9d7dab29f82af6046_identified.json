@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.12432</dc:identifier><dc:creator>Conetta, Orlando</dc:creator><dc:creator>Schafer, Burkhard</dc:creator><dc:title>Self-enforcing or self-executing? What Computational Copyright can learn from LKIF Transaction Configurations for Eurobonds</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Uptake of Artificial Intelligence approaches in commercial practice has been low. By contrast, &amp;ldquo;Copyright by design&amp;rdquo; (DRM) and &amp;ldquo;Privacy by Design&amp;rdquo; have emerged as (commercially) successful applications of computer technology to legal issues, and are now closer to realizing the formalist ideal of a self-enforcing law than traditional approaches to legal AI and their attempt to model legal reasoning explicitly. DRM, and to a lesser extend PETs, have however also their detractors, causing commercial, societal and legal problems. This paper tries to rejoin the two approaches to computer technology in law, learning what can be learned from the success of DRM but trying to address its shortcomings by remaining firmly within the tradition of fully explicit legal modeling in the AI and Law tradition. For this, the paper presents a new theory, called Transaction Configuration, that tries to increase the practical utility of ontology driven approaches. It describes the main task common to contract lawyers in the performance of their work, and was developed in the course of a case study at a magic circle law firm in the City of London. Using Eurobond Transactions as a proof of concept, we discuss first how Transaction Configuration provides a practical context for legal normative assessment, second, we analyze the potential to extend this approach to complex forms of transactions, in particular copyright licensing. With DRM, it shares the idea that the best target for a computational approach to law is not the legal reasoning for a judge, but the automated enforcement/application of a contract or license. With traditional AI, it shares the emphasis on fully explicit modeling of legal reasoning.&amp;nbsp;&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-10-27</dc:date><dc:source>http://zenodo.org/record/12432</dc:source><dc:doi>10.5281/zenodo.12432</dc:doi><dc:identifier>http://zenodo.org/record/12432</dc:identifier><dc:identifier>oai:zenodo.org:12432</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6eb6e2b0009d48f9d7dab29f82af6046", 
+    "source_url": "https://zenodo.org/record/12432/export/xd"
+}

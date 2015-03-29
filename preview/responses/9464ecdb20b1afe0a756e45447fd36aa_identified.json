@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='ISO-8859-1'?><martif type=\"MSC\" lang=\"en\"><martifHeader><fileDesc><sourceDesc><p>OECD Glossary of Statistical Terms</p></sourceDesc></fileDesc><publicationStmt><p type=\"resultCount\">1105</p><p type=\"resultsPerPage\">10</p><p type=\"currentPage\">1</p></publicationStmt></martifHeader><text><body><termEntry id=\"4756\"><descrip type=\"DateUpdated\">Tuesday, March 26, 2013</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>A posteriori audit</term></termGrp></ntig></langSet></termEntry><termEntry id=\"4375\"><descrip type=\"DateUpdated\">Tuesday, April 23, 2013</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>A programme language (APL)</term></termGrp></ntig></langSet></termEntry><termEntry id=\"6343\"><descrip type=\"DateUpdated\">Wednesday, April 24, 2013</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Abatement cost</term></termGrp></ntig></langSet></termEntry><termEntry id=\"3346\"><descrip type=\"DateUpdated\">Tuesday, April 23, 2013</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Acceptance region</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>R&#233;gion d'acceptation</term></termGrp></ntig></langSet></termEntry><termEntry id=\"3347\"><descrip type=\"DateUpdated\">Tuesday, April 23, 2013</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Acceptance rule</term></termGrp></ntig></langSet></termEntry><termEntry id=\"13\"><descrip type=\"DateUpdated\">Wednesday, April 24, 2013</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Account</term></termGrp></ntig></langSet></termEntry><termEntry id=\"14\"><descrip type=\"DateUpdated\">Wednesday, April 24, 2013</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Accountability (environmental)</term></termGrp></ntig></langSet><langSet xml:lang=\"fr\"><ntig><termGrp><term>Responsabilit&#233;</term></termGrp></ntig></langSet></termEntry><termEntry id=\"4757\"><descrip type=\"DateUpdated\">Wednesday, April 24, 2013</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Accountability (in management theory)</term></termGrp></ntig></langSet></termEntry><termEntry id=\"6098\"><descrip type=\"DateUpdated\">Monday, July 23, 2007</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Accounting basis</term></termGrp></ntig></langSet></termEntry><termEntry id=\"4759\"><descrip type=\"DateUpdated\">Wednesday, June 12, 2013</descrip><langSet xml:lang=\"en\"><ntig><termGrp><term>Accounting controls</term></termGrp></ntig></langSet></termEntry></body></text></martif>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9464ecdb20b1afe0a756e45447fd36aa", 
+    "source_url": "http://stats.oecd.org/glossary/filter.asp?vET=ON&vE=ON&Edd=01&Emm=06&Eyy=2007&format=martif"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/afghanistan/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/africa/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/arabian/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/arctic/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/asiapacific/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/bangladesh/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/caribbean/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/europe/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/formersovietunion/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/gulfofmexico/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/iran/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/northamerica_gmna/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/southamerica/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://certmapper.cr.usgs.gov/arcgis/rest/services/geology/southasia/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "65db52757b640a81fa72d0b45655051f", 
+    "source_url": "http://certmapper.cr.usgs.gov/arcgis/rest/services/geology?f=geositemap"
+}

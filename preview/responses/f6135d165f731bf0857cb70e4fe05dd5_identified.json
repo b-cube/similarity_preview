@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE dlib-meta0.1 SYSTEM \"http://www.dlib.org/dlib/dlib-meta01.dtd\"> <dlib-meta0.1> <title>Using Machine Learning to Support Quality Judgments</title> <creator>Myra Custard</creator> <creator>Tamara Sumner</creator> <publisher>Corporation for National Research Initiatives</publisher> <date date-type = \"publication\">October 2005</date> <type resource-type = \"work\">article</type> <identifier uri-type = \"DOI\">10.1045/october2005-custard</identifier> <identifier uri-type = \"URL\">http://www.dlib.org/dlib/october05/custard/10custard.html</identifier> <language>English</language> <relation rel-type = \"InSerial\"> <serial-name>D-Lib Magazine</serial-name> <issn>1082-9873</issn> <volume>11</volume> <issue>10</issue> </relation> <rights>Copyright Myra Custard and Tamara Sumner</rights> </dlib-meta0.1>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f6135d165f731bf0857cb70e4fe05dd5", 
+    "source_url": "http://www.dlib.org/dlib/october05/custard/10custard.meta.xml"
+}

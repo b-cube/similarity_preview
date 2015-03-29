@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-view-planes\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-view-planes</id><updated>2015-03-19T17:59:05Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f1c84045ce0bb401f88127e80b0caf0d", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-view-planes?days=14&format=atom"
+}

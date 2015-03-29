@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Cadair Help and Support</title> <link href=\"http://hdl.handle.net/2160/13757\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/2160/13757</id> <updated>2015-03-19T09:08:04Z</updated> <dc:date>2015-03-19T09:08:04Z</dc:date> <entry> <title>Traethodau Ymchwil</title> <link href=\"http://hdl.handle.net/2160/13769\" rel=\"alternate\"/> <author> <name>T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata</name> </author> <id>http://hdl.handle.net/2160/13769</id> <updated>2014-10-23T03:08:16Z</updated> <published>2014-05-07T00:00:00Z</published> <summary type=\"text\">Traethodau Ymchwil T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata </summary> <dc:date>2014-05-07T00:00:00Z</dc:date> </entry> <entry> <title>Ymholiadau/Cwynion</title> <link href=\"http://hdl.handle.net/2160/13768\" rel=\"alternate\"/> <author> <name>T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata</name> </author> <id>http://hdl.handle.net/2160/13768</id> <updated>2014-10-23T03:08:23Z</updated> <published>2014-05-07T00:00:00Z</published> <summary type=\"text\">Ymholiadau/Cwynion T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata </summary> <dc:date>2014-05-07T00:00:00Z</dc:date> </entry> <entry> <title>Mynediad Agored</title> <link href=\"http://hdl.handle.net/2160/13767\" rel=\"alternate\"/> <author> <name>T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata</name> </author> <id>http://hdl.handle.net/2160/13767</id> <updated>2014-10-23T03:08:23Z</updated> <published>2014-05-07T00:00:00Z</published> <summary type=\"text\">Mynediad Agored T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata </summary> <dc:date>2014-05-07T00:00:00Z</dc:date> </entry> <entry> <title>Hawlfraint a Thrwyddedau</title> <link href=\"http://hdl.handle.net/2160/13766\" rel=\"alternate\"/> <author> <name>T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata</name> </author> <id>http://hdl.handle.net/2160/13766</id> <updated>2014-10-23T03:08:23Z</updated> <published>2014-05-07T00:00:00Z</published> <summary type=\"text\">Hawlfraint a Thrwyddedau T\\ufffd\\ufffdm Cadwrfa Sefydliadol a Metadata </summary> <dc:date>2014-05-07T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d6385ef3bd9c083e4d292b12d3e51087", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/13757"
+}

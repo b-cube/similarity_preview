@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.adrangi-mobileip-natvpn-traversal\"> <front> <title>Mobile IPv4 Traversal Across VPN or \\ufffd\\ufffdNAT and VPN\\ufffd\\ufffd Gateways</title>  <author initials=\"F\" surname=\"Adrangi\" fullname=\"Farid  Adrangi\">     <organization /> </author>  <author initials=\"P\" surname=\"Iyer\" fullname=\"Prakash Iyer\">     <organization /> </author>  <date month=\"March\" day=\"1\" year=\"2002\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-adrangi-mobileip-natvpn-traversal-01\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d6203893d6dc0ada8f6fa6a0891d5f26", 
+    "source_url": "http://xml2rfc.tools.ietf.org/public/rfc/bibxml3/reference.I-D.adrangi-mobileip-natvpn-traversal.xml"
+}

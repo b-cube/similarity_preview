@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/ApalachicolaFL_Oyster/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/ApalachicolaFL_Vibracores/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/Chandeleur2010_Lidar/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/ChandeleurIslands/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/GulfofMexicoRegion/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/NGOM2004_Lidar/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/NGOM2007_Lidar/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex/PearlRiverDelta2008_Lidar/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "09f35ba70bbe235dd5f235ab5458700e", 
+    "source_url": "http://coastalmap.marine.usgs.gov/cmgp/rest/services/GoMex?f=geositemap"
+}

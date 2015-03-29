@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.12467</dc:identifier><dc:creator>G\\ufffd\\ufffdmez-Arostegui, H. Tom\\ufffd\\ufffds</dc:creator><dc:title>Copyright at Common Law in 1774</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;As we approach Congress&amp;rsquo;s upcoming reexamination of copyright law, participants are amassing ammunition for the battle to come over the proper scope of copyright. One item that both sides have turned to is the original purpose of copyright, as reflected in a pair of cases decided in Great Britain in the late 18th century&amp;mdash;the birthplace of Anglo-American copyright. The salient issue is whether copyright was a natural or customary right, protected at common law, or a privilege created solely by statute. These differing viewpoints set the default basis of the right. Whereas the former suggests the principal purpose was to protect authors, the latter indicates that copyright should principally benefit the public.&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The orthodox reading of these two cases is that copyright existed as a common-law right inherent in authors. In recent years, however, revisionist work has challenged that reading. Relying in part on the discrepancies of 18th-century law reporting, scholars have argued that the natural-rights and customary views were rejected. The modified account has made great strides and has nearly displaced the traditional interpretation. Using a unique body of historical research, this Article constitutes the first critical examination of the revision. Ultimately, it concludes that the revision is incorrect and that we must return to the orthodox view.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2014-11-03</dc:date><dc:source>http://zenodo.org/record/12467</dc:source><dc:doi>10.5281/zenodo.12467</dc:doi><dc:identifier>http://zenodo.org/record/12467</dc:identifier><dc:identifier>oai:zenodo.org:12467</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9f5c0cfbb7767e3a420b312e5a46c454", 
+    "source_url": "http://zenodo.org/record/12467/export/xd"
+}

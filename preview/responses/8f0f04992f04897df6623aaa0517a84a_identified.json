@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0094'>  <front> <title>Some thoughts on Network Graphics</title> <author initials='E.' surname='Harslem' fullname='E. Harslem'> <organization /></author> <author initials='J.F.' surname='Heafner' fullname='J.F. Heafner'> <organization /></author> <date year='1971' month='February' /></front>  <seriesInfo name='RFC' value='94' /> <format type='TXT' octets='13516' target='http://www.rfc-editor.org/rfc/rfc94.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8f0f04992f04897df6623aaa0517a84a", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0094.xml"
+}

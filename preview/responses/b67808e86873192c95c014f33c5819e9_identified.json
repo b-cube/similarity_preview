@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Kr\\ufffd\\ufffduter, Christine</a1>   <a2>Trofimova, Darya</a2>   <a2>Nagel, Leila</a2>   <a2>J\\ufffd\\ufffdhne, Bernd</a2>   <t1>High resolution 2-D fluorescence imaging of gas transfer</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;A novel 2-D fluorescence imaging technique has been developed to visualize gas exchange between air and water using ammonia as a tracer. Fluorescence is stimulated by high-power LEDs and is observed from above with a low-noise, high-resolution and high-speed camera.&amp;nbsp; The invasion of ammonia into water leads to an increase in pH (from a starting value of 4), which is visualized with a fluorescent dye. The flux of ammonia can be controlled by controlling its air-side concentration. A higher flux leads to an increase of the thickness of the layer, from which fluorescent light is emitted (pH &amp;gt; 7).&amp;nbsp; In this way, a varying fraction of the thickness of the aqueous mass boundary layer is imaged. In addition to the fluorescence measurement, we conducted collocated and simultaneous thermography and wave imaging measurements. With this data set, it is possible to compare heat and gas transfer and to investigate the effect of waves on both transfer processes.&amp;nbsp; First results will be presented.&lt;/p&gt;</ab>   <la/>   <k1>air-water gas exchange;                 fluorescence;                 high-resolution;                 </k1>   <pb/>   <pp/>   <yr>2014-02-27</yr>   <ed/>   <ul>http://zenodo.org/record/12330/files/AGU_OSM_2014_BLV.png?subformat=icon-90;  http://zenodo.org/record/12330/files/AGU_OSM_2014_BLV.pdf;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b67808e86873192c95c014f33c5819e9", 
+    "source_url": "https://zenodo.org/record/12330/export/xw"
+}

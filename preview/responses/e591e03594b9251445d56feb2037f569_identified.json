@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Daniel Mietchen</author>         </authors>       </contributors>       <titles>         <title>The transformative nature of transparency in research funding</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.12589</doi>       <pages/>       <volume/>       <number/>       <keywords>         <keyword>peer review</keyword>         <keyword>research funding</keyword>         <keyword>research grants</keyword>         <keyword>open science</keyword>         <keyword>collaboration</keyword>         <keyword>science policy</keyword>       </keywords>       <dates>         <year>2014</year>         <pub-dates>           <date>2014-11-05</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;This is a manuscript submitted to PLOS Biology on November 4, 2014 as a commentary on an accepted manuscript by David Gurwitz, Elena Milanesi and Thomas Koenig, entitled &amp;quot;Grant Application Review: The Case of Transparency&amp;quot;.&lt;/p&gt;          &lt;p&gt;It was accepted on November 10, 2014.&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e591e03594b9251445d56feb2037f569", 
+    "source_url": "https://zenodo.org/record/12589/export/xe"
+}

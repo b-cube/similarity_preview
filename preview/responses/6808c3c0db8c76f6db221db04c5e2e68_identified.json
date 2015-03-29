@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\"            xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"            xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\">    <dc:title xmlns:dc=\"http://purl.org/dc/elements/1.1/\">British Geological Survey (BGS) Sampling Survey 2001/4: Estuarine Contaminant: Mersey Estuary (09/May/2000 to 14/June/2001)</dc:title>    <dc:type xmlns:dc=\"http://purl.org/dc/elements/1.1/\">dataset</dc:type>    <dc:identifier xmlns:dc=\"http://purl.org/dc/elements/1.1/\">bgs.nerc.ac.uk:DC:de40de0e-83a3-62c8-e044-0003ba9b0d98</dc:identifier>    <dc:description xmlns:dc=\"http://purl.org/dc/elements/1.1/\">These British Geological Survey (BGS) marine sampling surveys took place from May 2000 to June 2001 in the Mersey estuary. The purpose was to obtain the data necessary for a study of the estuarine geochemistry of the Mersey estuary. Sampling was undertaken using Environment Agency vessels; the hovercraft \\ufffd\\ufffd\\ufffdSea Spray\\ufffd\\ufffd\\ufffd was used May-July and September/October 2000 and May/June 2001; Sea Jet was used 15/16 February 2001 and RV Coastal Guardian, 8/9 February 2001. Seabed samples were obtained using a Day grab; Mackereth corer and manual beach surface sampling and hand coring. Technical details of the survey are contained in BGS report RR/10/002.</dc:description>    <dc:date xmlns:dc=\"http://purl.org/dc/elements/1.1/\">2001-06-14</dc:date> </oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6808c3c0db8c76f6db221db04c5e2e68", 
+    "source_url": "http://portal.oceannet.org/search/full/catalogue/bgs.nerc.ac.uk__MEDIN_2.3__de40de0e-83a3-62c8-e044-0003ba9b0d98.xml/DC"
+}

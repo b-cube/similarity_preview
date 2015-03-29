@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0'  encoding='utf-8' ?>                      <rdf:RDF xmlns:cc=\"http://web.resource.org/cc/\"                     xmlns:dc=\"http://purl.org/dc/elements/1.1/\"                     xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">                       <cc:Work rdf:about=\"http://www.placeography.org/index.php/Main_Page\">     <dc:title>Main Page</dc:title>     <dc:publisher rdf:resource=\"http://www.placeography.org/index.php/Project:About\" />     <dc:language>en</dc:language>     <dc:type>Text</dc:type>     <dc:format>text/html</dc:format>     <dc:identifier>http://www.placeography.org/index.php/Main_Page</dc:identifier>     <dc:date>2013-10-30</dc:date>     <dc:creator>Joe Hoover</dc:creator>     <dc:contributor>Madeline Douglass</dc:contributor>     <dc:contributor rdf:resource=\"http://www.placeography.org/index.php/User:Admin\" />     <dc:contributor>Rose Sherman</dc:contributor>     <dc:rights rdf:resource=\"http://www.gnu.org/copyleft/fdl.html\" />     <cc:license rdf:resource=\"http://www.gnu.org/copyleft/fdl.html\" />   </cc:Work>   <cc:License rdf:about=\"http://www.gnu.org/copyleft/fdl.html\">     <cc:permits rdf:resource=\"http://web.resource.org/cc/DerivativeWorks\" />     <cc:permits rdf:resource=\"http://web.resource.org/cc/Reproduction\" />     <cc:permits rdf:resource=\"http://web.resource.org/cc/Distribution\" />     <cc:requires rdf:resource=\"http://web.resource.org/cc/Notice\" />     <cc:requires rdf:resource=\"http://web.resource.org/cc/ShareAlike\" />     <cc:requires rdf:resource=\"http://web.resource.org/cc/SourceCode\" />   </cc:License> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "60e592c5fe30d01418ef713bac010479", 
+    "source_url": "http://www.placeography.org/index.php?title=Main_Page&action=creativecommons"
+}

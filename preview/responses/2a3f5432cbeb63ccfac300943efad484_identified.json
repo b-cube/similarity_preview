@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.NOTE-newline-20010314\"> <front> <title>The [NEL] Newline Character</title>  <author initials=\"S\" surname=\"Malaika\" fullname=\"Susan Malaika\">     <organization /> </author>  <date month=\"March\" day=\"14\" year=\"2001\" /> </front>  <seriesInfo name=\"W3C NOTE\" value=\"NOTE-newline-20010314\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/2001/NOTE-newline-20010314\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2a3f5432cbeb63ccfac300943efad484", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-newline-20010314.xml"
+}

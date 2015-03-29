@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/alaska_charts/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/alaska_comms/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/alaska_ports_of_entry/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/alaska/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/General_Coastline/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/avpg/point_of_entry/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "0d392ce3bcd23813eddc640788f96eee", 
+    "source_url": "http://encdirect.noaa.gov/arcgis/rest/services/avpg?f=sitemap"
+}

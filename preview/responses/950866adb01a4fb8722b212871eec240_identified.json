@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\"><ShortName>IFA Search</ShortName><Description>Search IFA</Description><Url type=\"text/html\" method=\"get\" template=\"/En/Home/En/Default.aspx?hkey=6c3f9638-dbf5-4ec7-84b3-d6a993e7db8aiMIS/ContentManagement/Search.aspx?SearchTerms={searchTerms}\"/><Image>/En/Home/En/Default.aspx?hkey=6c3f9638-dbf5-4ec7-84b3-d6a993e7db8afavicon.ico</Image><InputEncoding>UTF-8</InputEncoding><SearchForm>/En/Home/En/Default.aspx?hkey=6c3f9638-dbf5-4ec7-84b3-d6a993e7db8a</SearchForm></OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "950866adb01a4fb8722b212871eec240", 
+    "source_url": "http://www.fertilizer.org/OpenSearch.aspx"
+}

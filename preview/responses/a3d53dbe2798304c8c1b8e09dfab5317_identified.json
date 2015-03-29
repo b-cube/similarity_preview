@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"I-D.isoc-internet-for-everyone\"> <front> <title>The Internet is for Everyone</title>  <author initials=\"V\" surname=\"Cerf\" fullname=\"Vint Cerf\">     <organization /> </author>  <date month=\"January\" day=\"8\" year=\"2002\" /> </front>  <seriesInfo name=\"Internet-Draft\" value=\"draft-isoc-internet-for-everyone-01\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a3d53dbe2798304c8c1b8e09dfab5317", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.isoc-internet-for-everyone.xml"
+}

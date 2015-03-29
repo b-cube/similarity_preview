@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <META xmlns=\"http://www.w3.org/2002/01/P3Pv1\">   <POLICY-REFERENCES>     <POLICY-REF about=\"http://www.noaa.gov/w3c/NOAA_Privacy_Policy.xml#NOAA_Privacy_Policy\">       <INCLUDE>/*</INCLUDE>       <INCLUDE>*.noaa.gov/*</INCLUDE>     </POLICY-REF>   </POLICY-REFERENCES> </META>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f8fb0b7dfb56c9f138f81533b5253572", 
+    "source_url": "http://www.star.nesdis.noaa.gov/w3c/p3p.xml"
+}

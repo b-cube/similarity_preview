@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Medical history and ethics</title> <link href=\"http://hdl.handle.net/1773/19651\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/1773/19651</id> <updated>2015-03-12T06:00:09Z</updated> <dc:date>2015-03-12T06:00:09Z</dc:date> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1f0680b6b70353e0233a3256ec031aff", 
+    "source_url": "https://digital.lib.washington.edu/researchworks/feed/atom_1.0/1773/19651"
+}

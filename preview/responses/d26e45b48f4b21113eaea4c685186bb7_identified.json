@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/nfhap_doi_lcc_PROD/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/nfhap_public_catchment/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/nfhap_public_coastal/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/nfhap_public_edu/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/nfhap_public_huc8/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/nfhap_scores_dynamic_PROD/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/nfhap_scores_tiled_catchments_PROD/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/nfhap_scores_tiled_huc12_PROD/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/NFHP_ThematicViewer_All_BioDatasets_Per_HUC12/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/NFHP_ThematicViewer_All_BioSamples_Per_HUC12/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/NFHP_ThematicViewer_Linked_BioDatasets_Per_HUC12/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/NFHP_ThematicViewer_TotMonSamples_Per_HUC12/MapServer</loc> </url> <url> <loc>http://gis1.usgs.gov/arcgis/rest/services/nfhap/NHFP_ThematicViewer_Linked_BioSamples_Per_HUC12/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d26e45b48f4b21113eaea4c685186bb7", 
+    "source_url": "http://gis1.usgs.gov/arcgis/rest/services/nfhap?f=sitemap"
+}

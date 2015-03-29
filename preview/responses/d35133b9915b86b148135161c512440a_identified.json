@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20113143</identifier><identifier type=\"pwpk\">70038018</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2011-3143</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Groundwater quality in the Tahoe and Martis Basins, California</title></titleInfo><originInfo><dateOther>Tue, 10 Apr 2012 00:00 -0500</dateOther><dateIssued>2012</dateIssued><publisher>U.S. Geological Survey</publisher><placeTerm>Reston, VA</placeTerm></originInfo><name><namePart>Fram, Miranda S.; Belitz, Kenneth</namePart><role>Author</role></name><abstract>Groundwater provides more than 40 percent of California's drinking water. To protect this vital resource, the State of California created the Groundwater Ambient Monitoring and Assessment (GAMA) Program. The Priority Basin Project of the GAMA Program provides a comprehensive assessment of the State's groundwater quality and increases public access to groundwater-quality information. The Tahoe and Martis Basins and surrounding watersheds constitute one of the study units being evaluated.</abstract><physicalDescription><form>4 p.</form><form>U.S. Geological Survey</form><form>Reston, VA</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2011_3143.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2011/3143/</url></location><note type=\"citation/reference\">Groundwater quality in the Tahoe and Martis Basins, California; 2012; FS; 2011-3143; Fact Sheet; Fram, Miranda S.; Belitz, Kenneth</note><languageTerm>English</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d35133b9915b86b148135161c512440a", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20113143"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <psh>   <responseDate>2015-03-19T23:04:31Z</responseDate>   <request verb=\"Count\">http://www.opendoar.org/demos/psh.php</request>   <Count>     <header>       <setType>subject</setType>       <setSpec>Ci</setSpec>       <setName>Technology General</setName>       <datestamp />       <numItems>211</numItems>     </header>     <header>       <setType>subject</setType>       <setSpec>Cif</setSpec>       <setName>Architecture</setName>       <datestamp />       <numItems>56</numItems>     </header>     <header>       <setType>subject</setType>       <setSpec>Cil</setSpec>       <setName>Civil Engineering</setName>       <datestamp />       <numItems>41</numItems>     </header>     <header>       <setType>subject</setType>       <setSpec>Cin</setSpec>       <setName>Computers and IT</setName>       <datestamp />       <numItems>165</numItems>     </header>     <header>       <setType>subject</setType>       <setSpec>Cis</setSpec>       <setName>Electrical and Electronic Engineering</setName>       <datestamp />       <numItems>53</numItems>     </header>     <header>       <setType>subject</setType>       <setSpec>Cix</setSpec>       <setName>Mechanical Engineering and Materials</setName>       <datestamp />       <numItems>62</numItems>     </header>   </Count> </psh>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f4ecbd7e851e5f2e13048778070ed080", 
+    "source_url": "http://www.opendoar.org/demos/psh.php?verb=Count&setType=subject&setQuery=Ci&setQueryType=spec&operator=starts"
+}

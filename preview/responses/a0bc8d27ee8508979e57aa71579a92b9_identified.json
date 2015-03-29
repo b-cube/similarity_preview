@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-procurement-and-travel\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-procurement-and-travel</id><updated>2015-03-19T14:43:39Z</updated></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a0bc8d27ee8508979e57aa71579a92b9", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-procurement-and-travel?days=14&format=atom"
+}

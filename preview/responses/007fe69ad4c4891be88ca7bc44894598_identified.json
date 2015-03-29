@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"          xmlns:digest=\"http://www.wizards-toolkit.org/digest/1.0/\">   <digest:Content rdf:about=\"ImageMagick-6.9.0-10.zip\">     <digest:timestamp>2015-03-06T20:40:23-05:00</digest:timestamp>     <digest:modify-date>2015-03-06T17:22:37-05:00</digest:modify-date>     <digest:create-date>2015-03-06T17:22:37-05:00</digest:create-date>     <digest:extent>84317756</digest:extent>     <digest:sha256>604dfa5166ad38bdf1ab60a9a8359ee3eacf00865d9776542238e610d7afb353</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"ImageMagick-windows.zip\">     <digest:timestamp>2015-03-06T20:40:24-05:00</digest:timestamp>     <digest:modify-date>2015-03-06T17:22:37-05:00</digest:modify-date>     <digest:create-date>2015-03-06T17:22:37-05:00</digest:create-date>     <digest:extent>84317756</digest:extent>     <digest:sha256>604dfa5166ad38bdf1ab60a9a8359ee3eacf00865d9776542238e610d7afb353</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"ImageMagick-6.9.0-10.7z\">     <digest:timestamp>2015-03-06T20:40:25-05:00</digest:timestamp>     <digest:modify-date>2015-03-06T20:40:19-05:00</digest:modify-date>     <digest:create-date>2015-03-06T20:40:19-05:00</digest:create-date>     <digest:extent>49880161</digest:extent>     <digest:sha256>524c9d6a422fbd1f26dab0b77e0a543ddd2dbcf4900f065038213c28ea77a399</digest:sha256>   </digest:Content>   <digest:Content rdf:about=\"ImageMagick-windows.7z\">     <digest:timestamp>2015-03-06T20:40:25-05:00</digest:timestamp>     <digest:modify-date>2015-03-06T20:40:19-05:00</digest:modify-date>     <digest:create-date>2015-03-06T20:40:19-05:00</digest:create-date>     <digest:extent>49880161</digest:extent>     <digest:sha256>524c9d6a422fbd1f26dab0b77e0a543ddd2dbcf4900f065038213c28ea77a399</digest:sha256>   </digest:Content> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "007fe69ad4c4891be88ca7bc44894598", 
+    "source_url": "http://www.imagemagick.org/download/windows/digest.rdf"
+}

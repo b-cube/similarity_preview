@@ -1,0 +1,15 @@
+{
+    "content": "<rdf:RDF xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\">   <dcat:Dataset rdf:about=\"http://demo.ckan.org/dataset/113214\">     <owl:sameAs rdf:resource=\"urn:uuid:aa6b7e1b-0cf8-4e8c-88b6-f8f7cbdf04e2\"></owl:sameAs>     <dct:description>21312</dct:description>         <dcat:keyword>\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd</dcat:keyword>     <foaf:homepage rdf:resource=\"http://demo.ckan.org/dataset/113214\"></foaf:homepage>     <rdfs:label>113214</rdfs:label>     <dct:identifier>113214</dct:identifier>     <dct:title>\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd</dct:title>         <dcat:distribution>             <dcat:Distribution>                 <dcat:accessURL rdf:resource=\"http://www.baidu.com\"></dcat:accessURL>                <dct:title>\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd</dct:title>             </dcat:Distribution>         </dcat:distribution>   </dcat:Dataset> </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": true, 
+        "has_metadata": false
+    }, 
+    "digest": "8a44e9ddb146bb4165e31a1078de9ab2", 
+    "source_url": "http://demo.ckan.org/dataset/aa6b7e1b-0cf8-4e8c-88b6-f8f7cbdf04e2.rdf"
+}

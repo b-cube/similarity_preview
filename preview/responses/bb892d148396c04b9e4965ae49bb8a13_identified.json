@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding='UTF-8'?>  <reference anchor=\"W3C.NOTE-rdfarch-971029\"> <front> <title>W3C Data Formats</title>  <author initials=\"T\" surname=\"Berners-Lee\" fullname=\"Tim Berners-Lee\">     <organization /> </author>  <date month=\"October\" day=\"29\" year=\"1997\" /> </front>  <seriesInfo name=\"W3C NOTE\" value=\"NOTE-rdfarch-971029\" /> <format type=\"HTML\" target=\"http://www.w3.org/TR/NOTE-rdfarch-971029\" /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bb892d148396c04b9e4965ae49bb8a13", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.NOTE-rdfarch-971029.xml"
+}

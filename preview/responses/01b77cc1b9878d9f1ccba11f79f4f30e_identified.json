@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>P. filamentosus Size at Maturity Study Column Notes</dc:title>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>gonad, maturation, median size at 50% maturity, paka, Pristipomoides filamentosus, size at maturity</dc:subject>    <dcterms:abstract>Entity describes what types of information can be found in the Pristipomoides filamentosus Size at Maturity Study Data Set.</dcterms:abstract>    <dc:publisher>Pacific Islands Fisheries Science Center</dc:publisher>    <dc:creator>Pacific Islands Fisheries Science Center</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/23693</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/23691</dcterms:isPartOf>    <dcterms:temporal xsi:type=\"dcterms:Period\">                           start=2013-09-15;                         </dcterms:temporal> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "01b77cc1b9878d9f1ccba11f79f4f30e", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/23693/dublin-core"
+}

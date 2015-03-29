@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8' ?><fishbase>   </fishbase>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5a77078bdfdb9408fb9155d7a9466f8f", 
+    "source_url": "http://www.fishbase.org/webservice/Occurrence/PointData.php?Genus=Garra&Species=gotyla+gotyla"
+}

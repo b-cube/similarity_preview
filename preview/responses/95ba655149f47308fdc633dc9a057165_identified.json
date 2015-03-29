@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/10283/237\"> <title>School of Clinical Sciences</title> <link>http://hdl.handle.net/10283/237</link> <description/> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/724\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/691\"/> </rdf:Seq> </items> <dc:date>2015-03-18T23:46:42Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/10283/724\"> <title>IgM antibodies exhibit preferential binding to apoptotic and non-apoptotic nucleated cells</title> <link>http://hdl.handle.net/10283/724</link> <description>IgM antibodies exhibit preferential binding to apoptotic and non-apoptotic nucleated cells Data set characterising IgM antibody binding to non-apoptotic, apoptotic and permeable murine/human thymocytes and murine erythrocytes. Methodology used consisted of flow cytometry, confocal and electron microscopy. With the exception of the 'Images.zip' file, the other zip files contain FCS files which are the standard file type used in flow cytometry. Software used in flow cytometry such as FlowJo can be used to open these files (or FCStrans for conversion). </description> <dc:date>2015-03-05T15:12:15Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/10283/691\"> <title>A test-retest fMRI dataset for motor, language and spatial attention functions.</title> <link>http://hdl.handle.net/10283/691</link> <description>A test-retest fMRI dataset for motor, language and spatial attention functions. A test-retest dataset was acquired to validate fMRI tasks used in pre-surgical planning. In particular, five task-related fMRI time series (finger, foot and lip movement, overt verb generation, covert verb generation, overt word repetition, and landmark tasks) were used to investigate which protocols gave reliable single-subject results. Ten healthy participants in their fifties were scanned twice using an identical protocol 2-3 days apart. In addition to the fMRI sessions, high-angular resolution diffusion tensor MRI (DTI), and high-resolution 3D T1-weighted volume scans were acquired. Scanner type: GE Signa HDxt 1.5T. OpenFMRI accession no. ds000114. </description> <dc:date>2015-01-09T15:07:57Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "95ba655149f47308fdc633dc9a057165", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/rss_1.0/10283/237"
+}

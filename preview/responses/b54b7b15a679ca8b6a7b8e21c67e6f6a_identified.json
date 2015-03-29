@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-zoning-for-light-industrial-food-preparation-and-sales\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-zoning-for-light-industrial-food-preparation-and-sales</id><updated>2015-03-15T13:21:33Z</updated><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-light-industrial-food-preparation-and-sales</title><link href=\"/revision/9787853d-4457-452d-a33f-c80aff29367e\" rel=\"alternate\"></link><updated>2015-03-15T13:21:33Z</updated><published>2015-03-15T13:21:33Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/9787853d-4457-452d-a33f-c80aff29367e</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-light-industrial-food-preparation-and-sales</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-light-industrial-food-preparation-and-sales</title><link href=\"/revision/2e5eeb71-42d6-4cfa-994b-b27d0bed2914\" rel=\"alternate\"></link><updated>2015-03-15T13:21:23Z</updated><published>2015-03-15T13:21:23Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/2e5eeb71-42d6-4cfa-994b-b27d0bed2914</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-light-industrial-food-preparation-and-sales</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-light-industrial-food-preparation-and-sales</title><link href=\"/revision/0ef641bf-1779-482f-a1a7-8ff10bcd6a67\" rel=\"alternate\"></link><updated>2015-03-08T13:40:49Z</updated><published>2015-03-08T13:40:49Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/0ef641bf-1779-482f-a1a7-8ff10bcd6a67</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-light-industrial-food-preparation-and-sales</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-light-industrial-food-preparation-and-sales</title><link href=\"/revision/9cf30e9b-ce66-4e44-a1d1-56eb626680ad\" rel=\"alternate\"></link><updated>2015-03-08T13:40:41Z</updated><published>2015-03-08T13:40:41Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/9cf30e9b-ce66-4e44-a1d1-56eb626680ad</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-light-industrial-food-preparation-and-sales</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b54b7b15a679ca8b6a7b8e21c67e6f6a", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-zoning-for-light-industrial-food-preparation-and-sales?days=14&format=atom"
+}

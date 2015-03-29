@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">   <title>QMRO Community:</title>   <link rel=\"alternate\" href=\"http://qmro.qmul.ac.uk/jspui/handle/123456789/3460\" />   <subtitle />   <id>http://qmro.qmul.ac.uk/jspui/handle/123456789/3460</id>   <updated>2015-03-20T03:56:52Z</updated>   <dc:date>2015-03-20T03:56:52Z</dc:date> </feed>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a5699e06f9c4895512fe486266ae95fc", 
+    "source_url": "https://qmro.qmul.ac.uk/jspui/feed/atom_1.0/123456789/3460"
+}

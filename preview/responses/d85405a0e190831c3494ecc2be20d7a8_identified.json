@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20103112</identifier><identifier type=\"pwpk\">98974</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2010-3112</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Forecasting the effects of land-use and climate change on wildlife communities and habitats in the lower Mississippi Valley</title></titleInfo><originInfo><dateOther>Wed, 29 Dec 2010 00:00 -0600</dateOther><dateIssued>2010</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Faulkner, Stephen P.</namePart><role>Author</role></name><abstract>Landscape patterns and processes reflect both natural ecosystem attributes and the policy and management decisions of individual Federal, State, county, and private organizations. Land-use regulation, water management, and habitat conservation and restoration efforts increasingly rely on landscape-level approaches that incorporate scientific information into the decision-making process. Since management actions are implemented to affect future conditions, decision-support models are necessary to forecast potential future conditions resulting from these decisions. Spatially explicit modeling approaches enable testing of different scenarios and help evaluate potential outcomes of management actions in conjunction with natural processes such as climate change. The ability to forecast the effects of changing land use and climate is critically important to land and resource managers since their work is inherently site specific, yet conservation strategies and practices are expressed at higher spatial and temporal scales that must be considered in the decisionmaking process.</abstract><physicalDescription><form>6 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2010_3112.bmp</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2010/3112/</url></location><note type=\"citation/reference\">Forecasting the effects of land-use and climate change on wildlife communities and habitats in the lower Mississippi Valley; 2010; FS; 2010-3112; Fact Sheet; Faulkner, Stephen P.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d85405a0e190831c3494ecc2be20d7a8", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20103112"
+}

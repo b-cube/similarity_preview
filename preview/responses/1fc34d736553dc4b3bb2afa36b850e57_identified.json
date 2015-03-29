@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Oleson2012 </Local-number>  <Author>Oleson, E. M. </Author>  <Title>PIFSC Cruise Report CR-12-004 (Cruise SE-12-03) </Title>  <Institution>NOAA PIFSC </Institution>  <Publication-Place>Honolulu, HI </Publication-Place>  <Publication-Date><caldate>2012 </caldate></Publication-Date>  <Extent>10 </Extent>  <Type-Period-Note>Vessel: NOAA ship Oscar Elton Sette; Cruise Number: SE-12-03; Cruise Period: 23 April - 17 May 2012; Area of Operation: Palmyra Atoll Exclusive Economic Zone (EEZ); Type of Operation: Cetacean line-transect abundance surveys in the Palmyra Atoll EEZ </Type-Period-Note>  <Abstract>\"Missions: Cetacean line-transect survey; Photo-identification and biopsy sampling; Passive acoustic monitoring; and HARP recovery.\" </Abstract>  <Date-Time-Last-Modified>20140724000000 </Date-Time-Last-Modified>  <URL>http://www.pifsc.noaa.gov/library/pubs/cruise/Sette/CR1203-EO.pdf </URL>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "1fc34d736553dc4b3bb2afa36b850e57", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B5119ACB4-AE05-4E01-9A54-1864722CA7E9%7D"
+}

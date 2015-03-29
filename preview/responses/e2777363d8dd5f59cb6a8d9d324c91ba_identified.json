@@ -1,0 +1,15 @@
+{
+    "content": "<cdidata>   <cdi w=\"128.55835\" e=\"133.57505\" n=\"30.2583\" utm_span=\"5000\" zone=\"52R\" type=\"geo\" s=\"25.8333\">     <location name=\"UTM:(52R 0375 2910 5000)\">       <cdi>2</cdi>       <nresp>2</nresp>       <dist>379</dist>       <lat>26.3272</lat>       <lon>127.7726</lon>       <name>UTM:(52R 0375 2910 5000)</name>     </location>     <location name=\"UTM:(52R 0375 2915 5000)\">       <cdi>2</cdi>       <nresp>2</nresp>       <dist>376</dist>       <lat>26.3723</lat>       <lon>127.7721</lon>       <name>UTM:(52R 0375 2915 5000)</name>     </location>     <location name=\"UTM:(52R 0375 2920 5000)\">       <cdi>3.0280</cdi>       <nresp>3</nresp>       <dist>374</dist>       <lat>26.4175</lat>       <lon>127.7716</lon>       <name>UTM:(52R 0375 2920 5000)</name>     </location>     <location name=\"UTM:(52R 0380 2905 5000)\">       <cdi>3.7738</cdi>       <nresp>1</nresp>       <dist>377</dist>       <lat>26.2824</lat>       <lon>127.8231</lon>       <name>UTM:(52R 0380 2905 5000)</name>     </location>     <location name=\"UTM:(52R 0380 2910 5000)\">       <cdi>3.0916</cdi>       <nresp>1</nresp>       <dist>375</dist>       <lat>26.3276</lat>       <lon>127.8227</lon>       <name>UTM:(52R 0380 2910 5000)</name>     </location>     <location name=\"UTM:(52R 0385 2915 5000)\">       <cdi>2</cdi>       <nresp>1</nresp>       <dist>368</dist>       <lat>26.3732</lat>       <lon>127.8723</lon>       <name>UTM:(52R 0385 2915 5000)</name>     </location>     <location name=\"UTM:(52R 0390 2925 5000)\">       <cdi>3.5612</cdi>       <nresp>3</nresp>       <dist>358</dist>       <lat>26.4638</lat>       <lon>127.9216</lon>       <name>UTM:(52R 0390 2925 5000)</name>     </location>     <location name=\"UTM:(52R 0405 2930 5000)\">       <cdi>3.7738</cdi>       <nresp>1</nresp>       <dist>343</dist>       <lat>26.5100</lat>       <lon>128.0717</lon>       <name>UTM:(52R 0405 2930 5000)</name>     </location>   </cdi> </cdidata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e2777363d8dd5f59cb6a8d9d324c91ba", 
+    "source_url": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/10001mru/us/cdi_geo.xml"
+}

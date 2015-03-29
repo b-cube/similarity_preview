@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Another Person Is a Foreign Country</dc:title><dc:creator>Mee, Charles L.</dc:creator><dc:type>text</dc:type><dc:subject>Theater</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8RN36G9</dc:identifier><dc:description>A one and a half foot tall woman with the voice of an opera singer, a deaf man who signs, a transvestite, a pair of conjoined or identical twins, an immensely tall African American man-all take their places around a dinner table-and we join them for this most basic and universal of social activities, the breaking of bread. [8 actors, and, if possible, a chorus of fifteen people with Down Syndrome, a blind choir from the Lighthouse, and a rock band composed of musicians recently discharged from a mental hospital]</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6887c63762115ec6641d7eab4c24779b", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A178616.xml"
+}

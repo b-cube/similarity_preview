@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>kulturmasche</ShortName>  <Description>Search kulturmasche - Die Masche mit der Kultur</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://kulturmasche.com/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://kulturmasche.com/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://kulturmasche.com/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>kulturmasche</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://kulturmasche.com/favicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/png\">http://s0.wp.com/i/logo/gray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>kulturelle-bildung kultur</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>de</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://kulturmasche.com</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "de", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "6170a27ec7a39f58fa2a72cf8c4795dd", 
+    "source_url": "http://kulturmasche.com/osd.xml"
+}

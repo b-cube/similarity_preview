@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Bush2006 </Local-number>  <Author>Bush, G. W. </Author>  <Title>Establishment of the Northwestern Hawaiian Islands Marine National Monument: A Proclamation by the President of the United States of America </Title>  <Publication-Date><caldate>2006 </caldate></Publication-Date>  <Abstract>Proclamation by President George W. Bush to establish the Northwestern Hawaiian Islands Marine National Monument, providing high level of protection for nearly 140,000 square miles of the Northwestern Hawaiian Islands area. At its establishment it is the largest conservation area in the U.S. and the largest marine protected area in the world. It will preserve access for native Hawaiian cultural activities, provide for regulated educational and scientific activities, enhance visitation in a special area around Midway Island, prohibit unauthorized access to the monument, phase out commercial fishing over a five-year period, and ban other types of resource extraction and dumping of waste. </Abstract>  <Keywords>Northwestern Hawaiian Islands Marine National Monument /Marine biological diversity conservation /cultural property - protection </Keywords>  <Date-Time-Last-Modified>20060726000000 </Date-Time-Last-Modified>  <URL>http://www.gc.noaa.gov/documents/061506-monu_pres_proc.pdf </URL>  <Region>NWHI </Region>  <Bounding>  <Eastbc>-160.5 </Eastbc>  <Westbc>-180 </Westbc>  <Southbc>22.5 </Southbc>  <Northbc>35.0 </Northbc>  </Bounding>  <CoRIS-Record-Type>misc </CoRIS-Record-Type>  <Local-subject-index>misc </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8facd82b4aa69055d5fe8cb5c0060635", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BDF5B610D-A234-4542-89FD-64631AEDEBD1%7D"
+}

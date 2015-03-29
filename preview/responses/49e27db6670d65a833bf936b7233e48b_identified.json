@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Date-Time-Last-Modified>20050429022925 </Date-Time-Last-Modified>  <Title>An ecological assessment of Johnston Atoll / [major contributors: Phillip Lobel ... et al. ; editors: Robert Harris and Mindy Richlen]. </Title>  <URL>http://38uscode.com/booklets/Issues/Agent%20Orange/JohnstonIslandAgentOrange/JohnstonIsland.pdf  </URL>  <Imprint>[Johnston Island : U.S. Army Chemical Materials Agency, 2004?] </Imprint>  <Physical-Description>49 p. : col. ill., maps ; 28 cm. </Physical-Description>  <Bibliography-Note>Includes bibliographical references (p. 44-46). </Bibliography-Note>  <Subject-Added-Topical-Term>Coral reef ecology Johnston Island. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Habitat (Ecology) Johnston Island. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Coral reef fishes Ecology Johnston Island. </Subject-Added-Topical-Term>  <Subject-Added-Topical-Term>Sea birds Ecology Johnston Island. </Subject-Added-Topical-Term>  <Index-Term-Local>Johnston Atoll Chemical Agent Disposal System. </Index-Term-Local>  <Subject-Added-Geographic-Name>Johnston Island Environmental conditions. </Subject-Added-Geographic-Name>  <Added-Entry-Personal-Name>Harris, Robert. </Added-Entry-Personal-Name>  <Added-Entry-Personal-Name>Richlen, Mindy. </Added-Entry-Personal-Name>  <Added-Entry-Personal-Name>Lobel, Philip. </Added-Entry-Personal-Name>  <Added-Entry-Corporate-Name>United States. Army. Chemical Materials Agency. </Added-Entry-Corporate-Name>  <Access-Information>NOAA Central Library, Silver Spring, MD|STACKS|QH198.J64 E3 2004|BOOK|1 </Access-Information>  <Access-Information>NOAA Central Library, Silver Spring, MD|STACKS|QH198.J64 E3 2004|BOOK|2 </Access-Information>  <Access-Information>SWFSC Honolulu Laboratory Library, Honolulu, HI|STACKS|QH541.5.S3 H3 2003|BOOK|1 </Access-Information>  <Access-Information>SWFSC Honolulu Laboratory Library, Honolulu, HI|STACKS|QH541.5.S3 H3 2003|BOOK|2 </Access-Information>  <Access-Information>INTERNET|STACKS|QH541.5.S3 H3 2003 (Online)|BOOK|1 </Access-Information>  <Region>PRIA </Region>  <Bounding>  <Eastbc>-159.385349 </Eastbc>  <Westbc>163.070637 </Westbc>  <Southbc>-0.980462 </Southbc>  <Northbc>19.40 </Northbc>  </Bounding>  <Local-number>OCoLC-ocm55533820 </Local-number>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "49e27db6670d65a833bf936b7233e48b", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BEAB3EB62-3B2D-40B5-8331-475E9F418032%7D"
+}

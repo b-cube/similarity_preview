@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Agyapong, Vincent I. O.</a1>   <a2>Buckmaster, Ruth</a2>   <a2>Keever, Patricia Mc</a2>   <a2>O'Raghallaigh, Jennifer W.</a2>   <a2>Houlihan, Patricia</a2>   <a2>MacHale, Siobhan</a2>   <t1>Text Message Intervention to Reduce Repeat Self-harm in Patients Presenting to the Emergency Department-A Study Protocol</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Aims: To assess the feasibility of using supportive interactive text messages to reduce repeat self-harm, and to reduce the frequency and intensity of suicidal ideation and suicidal behaviour in patients discharged from an Emergency Department (ED) after an episode of self-harm. Study Design: Prospective rater blinded randomised trial. Place and Duration of Study: Sample: ED of Beaumont Hospital, Dublin, Ireland. Methodology: 100 patients presenting with self-harm to the ED will be randomised to receive treatment as usual plus supportive and interactive text messages for three months or to receive treatment as usual. Patients in both groups will be followed up at 1, 3 and 6 months to ascertain frequency and intensity of thoughts of self-harm and selfharming behaviour. Data will be analysed on an intention-to-treat basis using SPSS version 20 for Windows with descriptive statistics, student&amp;rsquo;s t-test, ANOVA analysis and chi-square tests. Results: We hypothesize that supportive, informative and interactive text messages delivered to patients discharged from an ED after an episode of self-harm will significantly reduce the frequency and intensity of thoughts of self-harm and self-harming behaviour in patients compared with those receiving only follow-up treatment as usual. A secondary hypothesis is that patients receiving the text messages will report an overall satisfaction with the text messaging system. Conclusion: This is a low cost, simple strategy which, if shown to have a significant impact on reducing rates of self-harming thoughts and behaviours in patients who have self-harmed, will allow progress in an area of great clinical importance. Further larger studies could then progress to clarify the potential impact on suicide rates.&lt;/p&gt;</ab>   <la/>   <k1>Self-harm;;                 text message;;                 emergency department;;                 repetition;;                 suicide.;                 </k1>   <pb/>   <pp/>   <yr>2013-07-25</yr>   <ed/>   <ul>http://zenodo.org/record/8065/files/1374919539-Agyapong342013BJMMR5242.pdf;  http://zenodo.org/record/8065/files/1374919539-Agyapong342013BJMMR5242.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "66cea7db9137383d1176fbbde7accb7d", 
+    "source_url": "http://zenodo.org/record/8065/export/xw"
+}

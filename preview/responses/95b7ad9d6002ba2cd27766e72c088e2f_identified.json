@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/2160/582\"> <title>Deposit Plait Project</title> <link>http://hdl.handle.net/2160/582</link> <description>Items relating to the Deposit Plait project</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/2160/583\"/> </rdf:Seq> </items> <dc:date>2015-03-19T06:19:43Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/2160/583\"> <title>Deposit Plait Project Overview presentation</title> <link>http://hdl.handle.net/2160/583</link> <description>Deposit Plait Project Overview presentation Lewis, Stuart A presentation given at the CRIG DRY (Don't Repeat Yourself) workshop at Bath University on the 6th June 2007. </description> <dc:date>2008-06-12T10:47:03Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "95b7ad9d6002ba2cd27766e72c088e2f", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/rss_1.0/2160/582"
+}

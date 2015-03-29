@@ -1,0 +1,15 @@
+{
+    "content": "<META xmlns=\"http://www.w3.org/2000/12/P3Pv1\"> <POLICY-REFERENCES>     <POLICY-REF about=\"http://www.sat.dundee.ac.uk/w3c/dsrs.p3p\">       <INCLUDE>/</INCLUDE>       <INCLUDE>\\\\*</INCLUDE>       <INCLUDE>/*</INCLUDE>       <COOKIE-INCLUDE/>     </POLICY-REF>  </POLICY-REFERENCES> </META> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "806e187b7a2159714ff8da68e1313a5f", 
+    "source_url": "http://www.sat.dundee.ac.uk/w3c/p3p.xml"
+}

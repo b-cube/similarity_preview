@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?> <oembed>  <version>1.0</version>  <type>rich</type>  <provider_name>Conf&#233;d&#233;ration Syndicale Internationale</provider_name>  <provider_url>http://www.ituc-csi.org</provider_url>  <title>Espaldarazo del Tribunal Supremo de Canad&#225; al derecho de huelga</title>  <author_name>Mathieu Debroux</author_name>  <width>480</width>  <height>295</height>  <url>http://www.ituc-csi.org/espaldarazo-del-tribunal-supremo</url>  <html>&lt;h4 class='title'&gt;&lt;a href='http://www.ituc-csi.org/espaldarazo-del-tribunal-supremo'&gt;Espaldarazo del Tribunal Supremo de Canad&#225; al derecho de huelga&lt;/a&gt;&lt;/h4&gt;&lt;blockquote class='spip'&gt; &lt;p&gt;En un fallo hist&#243;rico, el Tribunal Supremo de Canad&#225; confirma que el derecho de huelga es un elemento esencial de todo proceso de negociaci&#243;n colectiva eficaz protegido por la Constituci&#243;n canadiense.&lt;br class='autobr' /&gt; El Tribunal consider&#243; que una ley que negaba el derecho de huelga para cierto n&#250;mero de trabajadores y trabajadoras del sector p&#250;blico, sin ning&#250;n otro mecanismo alternativo, era inconstitucional. Al tomar su decisi&#243;n, el Tribunal reafirm&#243; que el derecho de huelga est&#225; protegido por el Convenio n&#250;m. 87 (...)&lt;/p&gt; &lt;/blockquote&gt; </html> </oembed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5008191d9aa8a704c60564309f4ba836", 
+    "source_url": "http://www.ituc-csi.org/oembed.api/?format=xml&url=http%3A%2F%2Fwww.ituc-csi.org%2Fespaldarazo-del-tribunal-supremo"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!-- edited with XMLSpy v2014 sp1 (x64) (http://www.altova.com) by XMLSpy 2013 Professional Ed. Release 2, Installed for 6 users (with SMP from 2013-10-18 to 2014-10-19) (NOAA) --> <xs:schema xmlns:xs=\"http://www.w3.org/2001/XMLSchema\" elementFormDefault=\"qualified\" attributeFormDefault=\"unqualified\">  <xs:include schemaLocation=\"gml-ish.xsd\"/>  <xs:include schemaLocation=\"BasicTypes.xsd\"/>  <xs:complexType name=\"BenchmarksType\">   <xs:sequence>    <xs:element name=\"name\" type=\"xs:string\"/>    <xs:element name=\"position\" type=\"LatLonType\"/>    <xs:element name=\"ellipsoidHeight\">     <xs:complexType>      <xs:simpleContent>       <xs:extension base=\"xs:string\">        <xs:attribute name=\"units\" type=\"LinearUnitsType\" default=\"meters\"/>       </xs:extension>      </xs:simpleContent>     </xs:complexType>    </xs:element>    <xs:element name=\"ownerAgency\" type=\"xs:string\"/>    <xs:element name=\"images\" type=\"ImageType\" minOccurs=\"0\" maxOccurs=\"unbounded\">     <xs:annotation>      <xs:documentation>Photos or rubbings of the benchmark</xs:documentation>     </xs:annotation>    </xs:element>    <xs:element name=\"reports\">     <xs:annotation>      <xs:documentation>Reports will be attached via a browse-to button</xs:documentation>     </xs:annotation>     <xs:complexType>      <xs:sequence>       <xs:element name=\"opusReport\" type=\"AttachedFileType\" nillable=\"true\" maxOccurs=\"unbounded\">        <xs:annotation>         <xs:documentation>PDF file should be named according to Station ID Julian Day and Session ex. NOAA1441_opus.PDF</xs:documentation>        </xs:annotation>       </xs:element>       <xs:element name=\"qualityControlReport\" type=\"AttachedFileType\" nillable=\"true\" maxOccurs=\"unbounded\">        <xs:annotation>         <xs:documentation>PDF file should be named according to Station ID and GPS week ex. NOAA1615_qc.PDF</xs:documentation>        </xs:annotation>       </xs:element>       <xs:element name=\"fieldObservationLogs\" type=\"AttachedFileType\" nillable=\"true\" maxOccurs=\"unbounded\">        <xs:annotation>         <xs:documentation>PDF file should be named according to Station ID and Julian Day ex. NOAA144_fol.PDF</xs:documentation>        </xs:annotation>       </xs:element>      </xs:sequence>     </xs:complexType>    </xs:element>   </xs:sequence>  </xs:complexType> </xs:schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "474cfe10ad44b7bf2a441724d29213ee", 
+    "source_url": "http://www.nauticalcharts.noaa.gov/hsd/xmldr/Schemas/Version_2014_02/Benchmarks.xsd"
+}

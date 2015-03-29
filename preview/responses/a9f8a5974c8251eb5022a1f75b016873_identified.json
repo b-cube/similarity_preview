@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">  <ShortName>LEO Spa-Deu</ShortName>  <Description>Verwenden Sie LEOs Spanisch-Deutsch Online W\\ufffd\\ufffdrterbuch um einzelne W\\ufffd\\ufffdrter oder Phrasen vom Spanischen ins Deutsche (oder umgekehrt) zu \\ufffd\\ufffdbersetzen.</Description>  <Image height=\"16\" width=\"16\" type=\"image/x-icon\">http://dict.leo.org/img/favicons/esde.ico</Image>  <Url type=\"text/html\" template=\"http://dict.leo.org/esde?lang=de&amp;search={searchTerms}\"/>  <Url type=\"application/x-suggestions+json\" template=\"http://dict.leo.org/dictQuery/m-query/conf/esde/query.conf/strlist.json?q={searchTerms}&amp;sort=PLa&amp;shortQuery&amp;noDescription&amp;noQueryURLs\"/>  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://dict.leo.org/pages/helpers/shared/searches/opensearch_esde_de.xml\" />  <Contact>dict@leo.org</Contact>  <Tags>LEO diccionario w\\ufffd\\ufffdrterbuch online traducir algo \\ufffd\\ufffdbersetzen traducci\\ufffd\\ufffdn \\ufffd\\ufffdbersetzung alem\\ufffd\\ufffdn espa\\ufffd\\ufffdol deutsch spanisch</Tags>  <LongName>LEOs Spanisch-Deutsch Online W\\ufffd\\ufffdrterbuch</LongName>  <Query role=\"example\" searchTerms=\"el mapa\"/>  <Developer>LEO GmbH</Developer>  <Attribution>Copyright LEO GmbH</Attribution>  <SyndicationRight>private</SyndicationRight>  <AdultContent>false</AdultContent>  <InputEncoding>UTF-8</InputEncoding>  <OutputEncoding>UTF-8</OutputEncoding> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a9f8a5974c8251eb5022a1f75b016873", 
+    "source_url": "http://dict.leo.org/pages/helpers/shared/searches/opensearch_esde_de.xml"
+}

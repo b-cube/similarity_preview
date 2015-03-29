@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-land-use\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-land-use</id><updated>2015-03-08T13:35:01Z</updated><entry><title>REST API: Update object city-and-county-of-denver-land-use</title><link href=\"/revision/cd09ce0f-e14d-430a-a1cf-eed1e74b313e\" rel=\"alternate\"></link><updated>2015-03-08T13:35:01Z</updated><published>2015-03-08T13:35:01Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/cd09ce0f-e14d-430a-a1cf-eed1e74b313e</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-land-use</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-land-use</title><link href=\"/revision/cd6ca041-658e-4070-bb37-2ae0093bde3f\" rel=\"alternate\"></link><updated>2015-03-08T13:34:55Z</updated><published>2015-03-08T13:34:55Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/cd6ca041-658e-4070-bb37-2ae0093bde3f</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-land-use</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-land-use</title><link href=\"/revision/74ccc9d8-24c9-4245-a62c-794da131ed9d\" rel=\"alternate\"></link><updated>2015-03-08T13:17:34Z</updated><published>2015-03-08T13:17:34Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/74ccc9d8-24c9-4245-a62c-794da131ed9d</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-land-use</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-land-use</title><link href=\"/revision/cb08e476-9038-4230-98f0-42b8bbbcb7d1\" rel=\"alternate\"></link><updated>2015-03-08T13:17:24Z</updated><published>2015-03-08T13:17:24Z</published><author><name>denver</name></author><id>tag:,2015-03-08:/revision/cb08e476-9038-4230-98f0-42b8bbbcb7d1</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-land-use</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "de63b326bb447d8be7ec8da43135fcee", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-land-use?days=14&format=atom"
+}

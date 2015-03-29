@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?>  <?quicktime type = \"application/x-quicktime-media-link\"?>  <embed src = \"rtsp://qtss.indiana.edu/ip/phys/Archimedes_Principle.mov\" />  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "816d239b4f5efdaef9f26128d4918227", 
+    "source_url": "http://www.indiana.edu/%7Ephys/meta/archimedes_principle.qtl"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://hdl.handle.net/10283/15\"> <title>Scottish History</title> <link>http://hdl.handle.net/10283/15</link> <description>Scottish History is one of the five subject areas of the School of History, Classics and Archaeology.</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/45\"/> <rdf:li rdf:resource=\"http://hdl.handle.net/10283/16\"/> </rdf:Seq> </items> <dc:date>2015-03-19T18:16:09Z</dc:date> </channel> <item rdf:about=\"http://hdl.handle.net/10283/45\"> <title>Survey of Scottish Witchcraft, 1563 - 1736</title> <link>http://hdl.handle.net/10283/45</link> <description>Survey of Scottish Witchcraft, 1563 - 1736 The Survey of Scottish Witchcraft is the result of a two-year project funded by the Economic and Social Research Council (ESRC), grant no. R000239234. The primary goal of the project was to create a database of people accused of witchcraft in Scotland between 1563 and 1736. The database was designed to enable the public and academic researchers to examine biographical and social information about accused witches; cultural and sociological patterns of witchcraft belief and accusation; community, ecclesiastical and legal procedures of investigation and trial, national and regional variations; and the chronology and geography of witchcraft accusation and prosecution. </description> <dc:date>2010-08-18T16:05:37Z</dc:date> </item> <item rdf:about=\"http://hdl.handle.net/10283/16\"> <title>Database of Dedications to Saints in Medieval Scotland</title> <link>http://hdl.handle.net/10283/16</link> <description>Database of Dedications to Saints in Medieval Scotland The Survey of Dedications to Saints in Medieval Scotland is the result of a three-year project funded by a Major Research Grant from the Arts and Humanities Research Council (AHRC). The project is based in the Scottish History subject area of the School of History, Classics and Archaeology at the University of Edinburgh. The project began in October 2004 and the final update of data from the AHRC-funded phase of the project was completed in December 2007. However, the contents of the database will continue to be updated annually (in December) to include material from sources outwith the scope of the original survey. </description> <dc:date>2008-09-05T16:38:30Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e5c78eec7d720db3e6a3efb3faa65c42", 
+    "source_url": "http://datashare.is.ed.ac.uk/feed/rss_1.0/10283/15"
+}

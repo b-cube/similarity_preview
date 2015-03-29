@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding=\"ISO-8859-1\"?> <!DOCTYPE WMS_DescribeLayerResponse SYSTEM \"http://schemas.opengis.net/wms/1.1.1/WMS_DescribeLayerResponse.dtd\"> <WMS_DescribeLayerResponse version=\"1.1.1\" > <LayerDescription name=\"SurveyAreaPoly\" wfs=\"http://SDMDataAccess.nrcs.usda.gov/Spatial/SDM.wms\" owsType=\"WFS\" owsURL=\"http://SDMDataAccess.nrcs.usda.gov/Spatial/SDM.wms\"> <Query typeName=\"SurveyAreaPoly\" /> </LayerDescription> <LayerDescription name=\"MapunitPoly\" wfs=\"http://SDMDataAccess.nrcs.usda.gov/Spatial/SDM.wms\" owsType=\"WFS\" owsURL=\"http://SDMDataAccess.nrcs.usda.gov/Spatial/SDM.wms\"> <Query typeName=\"MapunitPoly\" /> </LayerDescription> </WMS_DescribeLayerResponse> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4668643c084eb74c486cbf64805dc144", 
+    "source_url": "http://sdmdataaccess.nrcs.usda.gov/Spatial/SDM.wms?SERVICE=WMS&VERSION=1.1.1&REQUEST=DescribeLayer&LAYERS=SurveyAreaPoly,MapunitPoly"
+}

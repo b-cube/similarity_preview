@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">fs20093012</identifier><identifier type=\"pwpk\">97417</identifier><identifier type=\"series\">Fact Sheet</identifier><identifier type=\"seriesNumber\">2009-3012</identifier><identifier type=\"seriesCode\">FS</identifier><genre>USGS Numbered Series</genre><titleInfo><title>Assessment of In-Place Oil Shale Resources of the Green River Formation, Piceance Basin, Western Colorado</title></titleInfo><originInfo><dateOther>Fri, 10 Apr 2009 00:00 -0500</dateOther><dateIssued>2009</dateIssued><publisher>U.S. Geological Survey</publisher></originInfo><name><namePart>Johnson, Ronald C.; Mercier, Tracey J.; Brownfield, Michael E.; Pantea, Michael P.; Self, Jesse G.</namePart><role>Author</role></name><abstract>The U.S. Geological Survey (USGS) recently completed a reassessment of in-place oil shale resources, regardless of richness, in the Eocene Green River Formation in the Piceance Basin, western Colorado. A considerable amount of oil-yield data has been collected after previous in-place assessments were published, and these data were incorporated into this new assessment. About twice as many oil-yield data points were used, and several additional oil shale intervals were included that were not assessed previously for lack of data. Oil yields are measured using the Fischer assay method. The Fischer assay method is a standardized laboratory test for determining the oil yield from oil shale that has been almost universally used to determine oil yields for Green River Formation oil shales. Fischer assay does not necessarily measure the maximum amount of oil that an oil shale can produce, and there are retorting methods that yield more than the Fischer assay yield. However, the oil yields achieved by other technologies are typically reported as a percentage of the Fischer assay oil yield, and thus Fischer assay is still considered the standard by which other methods are compared.</abstract><physicalDescription><form>6 p.</form><form>U.S. Geological Survey</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/fs_2009_3012.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/fs/2009/3012/</url></location><note type=\"citation/reference\">Assessment of In-Place Oil Shale Resources of the Green River Formation, Piceance Basin, Western Colorado; 2009; FS; 2009-3012; Fact Sheet; Johnson, Ronald C.; Mercier, Tracey J.; Brownfield, Michael E.; Pantea, Michael P.; Self, Jesse G.</note><edition>-</edition><languageTerm>ENGLISH</languageTerm><relatedItem type=\"original\"><titleInfo><title>Fact Sheet</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "d5a9ac4d18006fd2b58bd802c1bae3be", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=fs20093012"
+}

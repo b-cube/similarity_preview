@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\" xmlns:moz=\"http://www.mozilla.org/2006/browser/search/\">  <ShortName>Frontier Fields</ShortName>  <Description>Search Frontier Fields - Pushing the Limits of the Hubble Space Telescope</Description>  <Contact>support@wordpress.com</Contact>  <Url type=\"application/atom+xml\" template=\"http://frontierfields.org/?s={searchTerms}&amp;feed=atom\"/>  <Url type=\"application/rss+xml\"  template=\"http://frontierfields.org/?s={searchTerms}&amp;feed=rss2\"/>  <Url type=\"text/html\"            template=\"http://frontierfields.org/?s={searchTerms}\" method=\"GET\" />  <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"/osd.xml\" />  <LongName>Frontier Fields</LongName>  <Image height=\"16\" width=\"16\" type=\"image/vnd.microsoft.icon\">http://1.gravatar.com/blavatar/1a3dbe3a324fc71afb3a10ff40eb0606?s=16&#038;d=http%3A%2F%2Ffrontierfields.org%2Ffavicon.ico</Image>  <Image height=\"64\" width=\"64\" type=\"image/jpeg\">http://1.gravatar.com/blavatar/3626d882ce3bf7eead76847b357f4514?s=64&#038;d=http%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fgray-white-transparent-64.png</Image>  <Query role=\"example\" searchTerms=\"photography\" />  <Tags>frontier-fields hubble-space-telescope gravitational-lensing hubble space-telescope-science-institute hubble-observations galaxies universe frontierfields galaxy-clusters</Tags>  <Developer>Automattic</Developer>  <SyndicationRight>open</SyndicationRight>  <AdultContent>false</AdultContent>  <Language>en</Language>  <OutputEncoding>UTF-8</OutputEncoding>  <InputEncoding>UTF-8</InputEncoding>  <moz:SearchForm>http://frontierfields.org</moz:SearchForm> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "en", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "47067ed2db6ca6205822e0859db1c8cd", 
+    "source_url": "http://frontierfields.org/osd.xml"
+}

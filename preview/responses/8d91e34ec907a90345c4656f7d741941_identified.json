@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.WD-xquery-semantics-20050915'> <front> <title>XQuery 1.0 and XPath 2.0 Formal Semantics</title>  <author initials='D' surname='Draper' fullname='Denise Draper'>     <organization /> </author>  <author initials='P' surname='Fankhauser' fullname='Peter Fankhauser'>     <organization /> </author>  <author initials='M' surname='Fern\\ufffd\\ufffdndez' fullname='Mary Fern\\ufffd\\ufffdndez'>     <organization /> </author>  <author initials='A' surname='Malhotra' fullname='Ashok Malhotra'>     <organization /> </author>  <author initials='K' surname='Rose' fullname='Kristoffer Rose'>     <organization /> </author>  <author initials='M' surname='Rys' fullname='Michael Rys'>     <organization /> </author>  <author initials='J' surname='Sim\\ufffd\\ufffdon' fullname='J\\ufffd\\ufffdr\\ufffd\\ufffdme Sim\\ufffd\\ufffdon'>     <organization /> </author>  <author initials='P' surname='Wadler' fullname='Philip Wadler'>     <organization /> </author>  <date month='September' day='15' year='2005' /> </front>  <seriesInfo name='W3C WD' value='WD-xquery-semantics-20050915' /> <format type='HTML' target='http://www.w3.org/TR/2005/WD-xquery-semantics-20050915' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8d91e34ec907a90345c4656f7d741941", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.WD-xquery-semantics-20050915.xml"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <jnlp spec=\"1.0+\" codebase=\"http://www.unidata.ucar.edu/software/netcdf-java/v4.3/webstart\">   <information>     <title>NetCDF Tools UI 4.3</title>     <vendor>Unidata</vendor>     <homepage href=\"http://www.unidata.ucar.edu/software/netcdf-java/\"/>     <description kind=\"short\">GUI interface to netCDF-Java / Common Data Model</description>     <icon href=\"nc.gif\"/>     <offline-allowed/>   </information>    <security>     <all-permissions/>   </security>    <resources>     <j2se version=\"1.6+\" max-heap-size=\"1024m\"/>     <jar href=\"netcdfUI.jar\"/>     <extension name=\"netcdfUI Extra\" href=\"netCDFtoolsExtraJars.jnlp\"/>   </resources>    <application-desc main-class=\"ucar.nc2.ui.ToolsUI\">     <argument>http:/dataserver.nccs.nasa.gov/thredds/idd/odas.xml#decadal_ocn_ana_3D_ll</argument>   </application-desc>  </jnlp> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "bb621bef5a67829b9e126bd2102f8c24", 
+    "source_url": "http://dataserver.nccs.nasa.gov/thredds/view/ToolsUI.jnlp?catalog=http:/dataserver.nccs.nasa.gov/thredds/idd/odas.xml&dataset=decadal_ocn_ana_3D_ll"
+}

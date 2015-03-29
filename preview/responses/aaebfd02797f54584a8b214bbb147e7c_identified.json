@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xmlns:os=\"http://a9.com/-/spec/opensearch/1.1/\">    <title type=\"text\">MGDS OpenSearch service</title>    <updated>2013-10-28T18:00:00Z</updated>    <author>       <name>marine-geo.org</name>       <email>info@marine-geo.org</email>    </author>    <link href=\"http://www.marine-geo.org/api/opensearch/1.1/collection/EW9207\" rel=\"self\"/>    <id>http://www.marine-geo.org/api/opensearch/1.1/collection/EW9207</id>    <link href=\"http://www.marine-geo.org/api/opensearch/1.1/collection\" rel=\"search\" type=\"application/opensearchdescription+xml\"/>    <os:Query role=\"request\" searchterms=\"EW9207\"/>    <os:totalResults>1</os:totalResults>    <os:itemsPerPage>1</os:itemsPerPage>    <os:startIndex>0</os:startIndex>    <entry>       <title type=\"text\">Collection \"EW9207\"</title>       <link href=\"http://www.marine-geo.org/services/getCollection/?id=EW9207\"/>       <id>http://www.marine-geo.org/api/opensearch/1.1/collection/EW9207</id>       <summary type=\"html\"/>       <updated>2013-10-28T18:00:00Z</updated>    </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "aaebfd02797f54584a8b214bbb147e7c", 
+    "source_url": "http://www.marine-geo.org/api/opensearch/1.1/collection/EW9207"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/CommunityBG_ES_layers/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/ESC_NBMA_CleanAir_repl20141125/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/HUC12NavRMS_MS/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/HUCQuery_Boundaries/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/national_master/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/NHDFlowlines_nolabels/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> <url> <loc>http://enviroatlas.epa.gov/arcgis/rest/services/Other/TigerBoundaries/MapServer?f=kmz</loc> <geo:geo> <geo:format>kmz</geo:format> </geo:geo> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2b19752625c0021cad3b3d51df79b2b4", 
+    "source_url": "http://enviroatlas.epa.gov/arcgis/rest/services/Other?f=geositemap"
+}

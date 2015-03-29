@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <kml xmlns=\"http://earth.google.com/kml/2.2\"> <Document>   <name>Weybourne Atmospheric Observatory</name>   <description><![CDATA[]]></description>   <Style id=\"style1\">     <IconStyle>       <Icon>         <href>http://maps.gstatic.com/intl/en_uk/mapfiles/ms/micons/blue-dot.png</href>       </Icon>     </IconStyle>   </Style>   <Placemark>     <name>Weybourne Atmospheric Observatory</name>     <description><![CDATA[<div dir=\"ltr\">weybourne.uea.ac.uk</div>]]></description>     <styleUrl>#style1</styleUrl>     <Point>       <coordinates>1.121963,52.950436,0.000000</coordinates>     </Point>   </Placemark> </Document> </kml> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "7ed813cb863ae8bd3e3642ffb22b16c3", 
+    "source_url": "http://www.ingos-infrastructure.eu/?wpfb_dl=80"
+}

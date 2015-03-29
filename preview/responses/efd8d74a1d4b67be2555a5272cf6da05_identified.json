@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Vierkant, Paul</a1>   <a2>Kindling, Maxi</a2>   <t1>Open-Access-Repositorien in Berlin und Brandenburg</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Der &amp;quot;2014 Census on Open Access Repositories in Germany, Austria and Switzerland&amp;quot; (2014 Census) ist eine Studie zur Repositorienlandschaft in den D-A-CH-L&amp;auml;ndern. Im 2014 Census wurden Open-Access-Repositorien (OAR) unter verschiedenen Aspekten wie Gr&amp;ouml;&amp;szlig;e, Software, Metadatenqualit&amp;auml;t sowie Mehrwertdienste etc. untersucht. Durch die Darstellung des Status quo und der Best Practices von OAR sollen Repositorienbetreiber bei der Optimierung ihrer Dienste unterst&amp;uuml;tzt werden. Dieses Poster zeigt einen Ausschnitt f&amp;uuml;r Berlin und Brandenburg mit Fokus auf Gr&amp;ouml;&amp;szlig;e und Typen von Repositorien sowie ihre betreibenden Einrichtungen.&lt;/p&gt;</ab>   <la/>   <k1>open access;                 open access repositories;                 Berlin;                 Brandenburg;                 Census;                 Open Access Repository Ranking;                 repository size;                 repository type;                 repository operator;                 </k1>   <pb/>   <pp/>   <yr>2014-10-01</yr>   <ed/>   <ul>http://www.fu-berlin.de/sites/open_access/Veranstaltungen/oa_berlin/;  https://zenodo.org/record/11928/files/CENSUS_2014_OA-Berlin_Poster_2014-09-30.pdf;  https://zenodo.org/record/11928/files/CENSUS_2014_OA-Berlin_Poster_2014-09-30.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "efd8d74a1d4b67be2555a5272cf6da05", 
+    "source_url": "https://zenodo.org/record/11928/export/xw"
+}

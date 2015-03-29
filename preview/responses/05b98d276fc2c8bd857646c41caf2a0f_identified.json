@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <Catalogs><Catalog>ak</Catalog><Catalog>at</Catalog><Catalog>atlas</Catalog><Catalog>choy</Catalog><Catalog>ci</Catalog><Catalog>dr</Catalog><Catalog>duputel</Catalog><Catalog>gcmt</Catalog><Catalog>hv</Catalog><Catalog>iscgem</Catalog><Catalog>ld</Catalog><Catalog>mb</Catalog><Catalog>nc</Catalog><Catalog>ne</Catalog><Catalog>nm</Catalog><Catalog>nn</Catalog><Catalog>official</Catalog><Catalog>pr</Catalog><Catalog>pt</Catalog><Catalog>se</Catalog><Catalog>us</Catalog><Catalog>uu</Catalog><Catalog>uw</Catalog></Catalogs>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "05b98d276fc2c8bd857646c41caf2a0f", 
+    "source_url": "http://earthquake.usgs.gov/fdsnws/event/1/catalogs"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\" ?> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\" xmlns=\"http://purl.org/rss/1.0/\">             <channel rdf:about=\"https://www2.le.ac.uk/offices/careers-new/information/employers/announcements-1/RSS\">   <title>Welcome to the Career Development Service</title>   <link>https://www2.le.ac.uk</link>    <description>                    </description>                     <syn:updatePeriod>daily</syn:updatePeriod>             <syn:updateFrequency>1</syn:updateFrequency>             <syn:updateBase>2013-05-28T03:48:51Z</syn:updateBase>             <image rdf:resource=\"https://www2.le.ac.uk/logo.png\"/>    <items>     <rdf:Seq>     </rdf:Seq>   </items>  </channel>      </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "84c59b29623c4efd03d3c84ae6682cbc", 
+    "source_url": "https://www2.le.ac.uk/offices/careers-new/information/employers/announcements-1/RSS"
+}

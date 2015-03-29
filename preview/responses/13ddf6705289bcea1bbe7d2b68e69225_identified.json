@@ -1,0 +1,15 @@
+{
+    "content": "<formats><format name=\"endnote\" type=\"text/plain\" /><format name=\"bibtex\" type=\"text/plain\" /><format name=\"ris\" type=\"text/plain\" /><format name=\"mods\" type=\"application/xml\" /></formats>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "13ddf6705289bcea1bbe7d2b68e69225", 
+    "source_url": "http://canarydatabase.org/unapi"
+}

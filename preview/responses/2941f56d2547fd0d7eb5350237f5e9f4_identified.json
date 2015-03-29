@@ -1,0 +1,15 @@
+{
+    "content": "<xsl:stylesheet version=\"1.0\" xmlns:xsl=\"http://www.w3.org/1999/XSL/Transform\" xmlns:fed=\"http://datafed.net/xs/Catalog\" xmlns:wiki=\"http://www.mediawiki.org/xml/export-0.3/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:smw=\"http://smw.ontoware.org/2005/smw#\" xmlns:attribute=\"http://datafedwiki.wustl.edu/index.php/Special:URIResolver/Attribute-3A\"> <xsl:output method=\"xml\" encoding=\"ISO-8859-1\" omit-xml-declaration=\"yes\"  standalone=\"no\" indent=\"no\" /> <xsl:template match=\"node()|@*\">   <xsl:copy>     <xsl:apply-templates select=\"@*|node()\" />   </xsl:copy> </xsl:template> </xsl:stylesheet>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2941f56d2547fd0d7eb5350237f5e9f4", 
+    "source_url": "http://capita.wustl.edu/CAPITA/XSL/Output%20Same%20XML.xsl"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<collection xmlns=\"http://www.loc.gov/MARC21/slim\">    <dc:dc xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:invenio=\"http://invenio-software.org/elements/1.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:identifier>doi:10.5281/zenodo.13855</dc:identifier><dc:creator>Kumarappan Kumar</dc:creator><dc:creator>Patrick Casey</dc:creator><dc:creator>Greg Hughes</dc:creator><dc:title>SIMS characterisation of ZnO and MgO thin films</dc:title><dc:subject>cc-by</dc:subject><dc:description>&lt;p&gt;Poster Presented in the BOC Gases Postgraduate Poster Competition,&amp;nbsp; held by School of Physical Sciences, Dublin City University in 2009.&lt;/p&gt;</dc:description><dc:publisher/><dc:date>2009-02-20</dc:date><dc:source>http://zenodo.org/record/13855</dc:source><dc:doi>10.5281/zenodo.13855</dc:doi><dc:identifier>http://zenodo.org/record/13855</dc:identifier><dc:identifier>oai:zenodo.org:13855</dc:identifier></dc:dc>   </collection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4d5ea324b8bb3cc551c272c332d54059", 
+    "source_url": "https://zenodo.org/record/13855/export/xd"
+}

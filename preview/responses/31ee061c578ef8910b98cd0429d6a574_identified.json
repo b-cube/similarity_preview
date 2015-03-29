@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.CR-css-mobile-20081210'            target='http://www.w3.org/TR/2008/CR-css-mobile-20081210'> <front> <title>CSS Mobile Profile 2.0</title>  <author initials='S.' surname='Schubert' fullname='Svante Schubert'>     <organization /> </author>  <date month='December' day='10' year='2008' /> </front>  <seriesInfo name='World Wide Web Consortium CR' value='CR-css-mobile-20081210' /> <format type='HTML' target='http://www.w3.org/TR/2008/CR-css-mobile-20081210' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "31ee061c578ef8910b98cd0429d6a574", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.CR-css-mobile-20081210.xml"
+}

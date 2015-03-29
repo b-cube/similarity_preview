@@ -1,0 +1,15 @@
+{
+    "content": "<references>    <reference>   <a1>Wolansky, Natania R.</a1>   <a2>Murray-Clay, Ruth</a2>   <t1>Are You There, Gas? It's Me, Planet: The Effects of Gas on Growth of Gas Giants Cores through Planetesimal Accretion</t1>   <t2/>   <sn/>   <op/>   <vo/>   <ab>&lt;p&gt;Presentation of thesis: &amp;quot;Are You There Gas? It&amp;#39;s Me, Planet: The Effects of Gas on Growth of Gas Giant Cores through Planetesimal Accretion&amp;quot;&lt;/p&gt;</ab>   <la/>   <k1>Gas giants;                 Accretion;                 Planetesimals;                 Gravitational force;                 </k1>   <pb/>   <pp/>   <yr>2014-04-04</yr>   <ed/>   <ul>https://zenodo.org/record/12168/files/wolansky_presentation.pdf;  https://zenodo.org/record/12168/files/wolansky_presentation.png?subformat=icon-90;  </ul>   <no>Imported from Invenio.</no> </reference>   </references>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "afa2a7849d1e31cdf6df471b274be443", 
+    "source_url": "https://zenodo.org/record/12168/export/xw"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://purl.org/rss/1.0/\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <channel rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/131675\"> <title>History</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/131675</link> <description>LLCC - History</description> <items> <rdf:Seq> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/131694\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/131693\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/131692\"/> <rdf:li rdf:resource=\"http://www.repository.cam.ac.uk:80/handle/1810/131691\"/> </rdf:Seq> </items> <dc:date>2015-03-12T22:16:13Z</dc:date> </channel> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/131694\"> <title>London Gazette</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/131694</link> <description>London Gazette Ries, Paul French edition of the London Gazette for 1669 UFT-8 encoding </description> <dc:date>2006-04-03T15:48:44Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/131693\"> <title>Gazette d'Amsterdam</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/131693</link> <description>Gazette d'Amsterdam Ries, Paul Gazette d'Amsterdam 1669 UTF-8 encoding </description> <dc:date>2006-04-03T15:20:48Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/131692\"> <title>Gazette d'Amsterdam</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/131692</link> <description>Gazette d'Amsterdam Ries, Paul Gazette d'Amsterdam (french edition) for 1669 </description> <dc:date>2006-04-03T15:07:48Z</dc:date> </item> <item rdf:about=\"http://www.repository.cam.ac.uk:80/handle/1810/131691\"> <title>London Gazette</title> <link>http://www.repository.cam.ac.uk:80/handle/1810/131691</link> <description>London Gazette Ries, Paul London Gazette, 1669. French and English versions </description> <dc:date>2006-04-03T14:34:20Z</dc:date> </item> </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c005fcc2209b0de96d0bb05a1cd88bd3", 
+    "source_url": "https://www.repository.cam.ac.uk/feed/rss_1.0/1810/131675"
+}

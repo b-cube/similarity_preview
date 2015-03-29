@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <results id=\"7264597\" name=\"\" total_number_of_results=\"0\" number_of_results_returned=\"0\" start=\"0\" error_message=\"No names found\" version=\"1.6 [r1152] rev 1152\"/> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "e2b94efcdf5b12b4f031ccd93c51f468", 
+    "source_url": "http://www.catalogueoflife.org/annual-checklist/2011/webservice?id=7264597"
+}

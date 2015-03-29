@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='W3C.REC-xhtml1-20000126'            target='http://www.w3.org/TR/2000/REC-xhtml1-20000126'> <front> <title>XHTML\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd 1.0: The Extensible HyperText Markup Language - A Reformulation of\\ufffd\\ufffd\\ufffd\\ufffdHTML\\ufffd\\ufffd\\ufffd\\ufffd4\\ufffd\\ufffd\\ufffd\\ufffdin\\ufffd\\ufffd\\ufffd\\ufffdXML\\ufffd\\ufffd\\ufffd\\ufffd1.0</title>  <author initials='S.' surname='Pemberton' fullname='Steven Pemberton'>     <organization /> </author>  <date month='January' day='26' year='2000' /> </front>  <seriesInfo name='World Wide Web Consortium Recommendation' value='REC-xhtml1-20000126' /> <format type='HTML' target='http://www.w3.org/TR/2000/REC-xhtml1-20000126' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "583073f078de0e16fc035bdd25693e52", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml4/reference.W3C.REC-xhtml1-20000126.xml"
+}

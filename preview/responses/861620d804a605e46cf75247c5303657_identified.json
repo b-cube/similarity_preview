@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Review of Fosler-Lussier. 2007. Music Divided: Bart\\ufffd\\ufffdk's Legacy in Cold War Culture. Berkeley and Los Angeles: University of California Press.</dc:title><dc:creator>Walden, Joshua S.</dc:creator><dc:date>2008</dc:date><dc:type>text</dc:type><dc:subject>Music</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8FT8JNH</dc:identifier><dc:description>During the Cold War, the ideological split between East and West manifested itself in a stark divide in the critical response to the works of B\\ufffd\\ufffdla Bart\\ufffd\\ufffdk. Throughout much of his career, Bart\\ufffd\\ufffdk had developed a compositional style that incorporated modernist aesthetic techniques with melodic and formal attributes of the rural folk music that he collected during his ethnomusicologicial fieldwork in East Central Europe and elsewhere. Many critics in the West praised his modernist compositional innovations, but associated his use of folk music with antiquated methods and reactionary Soviet policies; cultural critics in the Eastern Bloc, on the other hand, typically rejected Bart\\ufffd\\ufffdk's modernist techniques as decadent cosmopolitanism, while, at least temporarily, hailing his use of folk themes. In a new book, Music Divided: Bart\\ufffd\\ufffdk's Legacy in Cold War Culture, Danielle Fosler-Lussier addresses this intriguing but under-explored chapter in the history of the reception of Bart\\ufffd\\ufffdk's music.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "861620d804a605e46cf75247c5303657", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A178441.oai_dc_xml"
+}

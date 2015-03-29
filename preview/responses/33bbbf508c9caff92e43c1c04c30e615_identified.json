@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"ANSI.X3-106.1983\"> <front> <title>Information Systems - Data Link Encryption - Data Encryption Algorithm - Modes of Operation</title> <author> <organization>American National Standards Institute</organization> </author> <date month=\"\" year=\"1983\" /> </front>  <seriesInfo name=\"ANSI\" value=\"X3.106\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "33bbbf508c9caff92e43c1c04c30e615", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.ANSI.X3-106.1983.xml"
+}

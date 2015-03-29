@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Search ncWMS</ShortName>   <InputEncoding>UTF-8</InputEncoding>   <Image width=\"16\" height=\"16\" type=\"image/x-icon\">http://www.resc.rdg.ac.uk/trac/ncWMS/chrome/common/trac.ico</Image>   <Url type=\"text/html\" template=\"http://www.resc.rdg.ac.uk/trac/ncWMS/search?q={searchTerms}&amp;page={startPage}\"/> </OpenSearchDescription>", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "a1d30c86bc2b62bbfb99619dda67faf5", 
+    "source_url": "http://www.resc.rdg.ac.uk/trac/ncWMS/search/opensearch"
+}

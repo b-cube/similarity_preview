@@ -1,0 +1,15 @@
+{
+    "content": "<oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\"><dc:title>Being Home: Jazz Authority and the Politics of Place</dc:title><dc:creator>Iyer, Vijay</dc:creator><dc:date>2002</dc:date><dc:type>text</dc:type><dc:subject>Music</dc:subject><dc:identifier>http://dx.doi.org/10.7916/D8S75F19</dc:identifier><dc:description>Songs of the Unsung: The Musical and Social Journey of Horace Tapscott sets forth an astonishing, searingly honest view of one segment of music history that is indeed unsung. Tapscott (1934-1999) was a pianist, composer, bandleader, and social activist who spent most of his life in the Mrican American communities of Los Angeles. In 1998, sociologist Steven Isoardi collaborated with several generations of Los Angeles jazz musicians to compile a vital oral history of that city's rich, undervalued role in African American music and culture (Bryant et al. 1998). Among Isoardi's interview subjects was Tapscott, who also served as a co-editor of the compilation. Several hours of conversation with Tapscott were distilled into a handful of pages for his entry in that volume. Subsequent to Tapscott's death, Isoardi arranged these transcribed recollections into a coherent, compelling autobiography. The resultant memoir reminds us with stunning candor that too much has happened under the radar of the jazz industry. Released in time for the holiday season in 2000, The Oxford Companion to Jazz (hereafter OCJ) endeavors to be viewed as \"the one indispensable publication in the field,\" to quote a highlighted phrase in the back-of-thejacket testimonial by seasoned producer George Avakian. Editor Bill Kirchner commissioned sixty brief thematic chapters by fifty-nine different contributors, including journalists, critics, scholars, and musicians. Many of the chapters take the form of mini-histories, covering important individual figures of jazz, single canonical stylistic eras by decade and genre, notable musicians by instrument, or specific jazz histories by region.</dc:description><dc:language>English</dc:language></oai_dc:dc>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "8f92ee5dd40b0da9de2e63f6748ed09d", 
+    "source_url": "http://academiccommons.columbia.edu/catalog/ac%3A179778.oai_dc_xml"
+}

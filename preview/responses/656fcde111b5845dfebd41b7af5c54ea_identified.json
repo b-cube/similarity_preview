@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Conservancy2002 </Local-number>  <Author>The Nature Conservancy </Author>  <Title>St. Croix East End Marine Park management plan </Title>  <Institution>Virgin Islands Department of Planning and Natural Resources </Institution>  <Publication-Date><caldate>2002 </caldate></Publication-Date>  <Extent>115 </Extent>  <Notes>NOAA Award No. NA07020513 </Notes>  <grantid>  <id>NA07020513 </id>  </grantid>  <Abstract>This management plan is presented as an output of the VI Marine Park Project. The project is an initiative of the Government of the USVI, implemented as part of the National Action Plan to Conserve Coral Reefs. The US National Action Plan to Conserve Coral Reefs was developed to guide the sustainable use of coral reef ecosystems within the jurisdiction of the USA, including its Territories and Commonwealths. Sustainable use simply means that coral reef ecosystems should be used and managed in such a manner as to ensure the security of the economic, cultural, social, and environmental values and benefits of such ecosystems in perpetuity. The overall goal of the VI Marine Park Project is to establish the objectives, policies, and procedures for management of marine resources within the territorial waters of the USVI, through the development of marine protected areas. </Abstract>  <Date-Time-Last-Modified>20140423000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/other/other_crcp_publications/STX-EE-Manage-Plan.pdf </URL>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "656fcde111b5845dfebd41b7af5c54ea", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B33CFFF1E-E5D0-4F18-8DD4-6A5FDCDE5F17%7D"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <metadata xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"           xmlns:dc=\"http://purl.org/dc/elements/1.1/\"           xmlns:dcterms=\"http://purl.org/dc/terms/\">    <dc:title>Cooperative Research Program: A Project to Augment the Data Collection and development of an Electronic System Used within the Gulf of mexico shrimp fishery</dc:title>    <dcterms:alternative>Cooperative Research Program: A Project to Augment the Data Collection and development of an Electronic System Used within the Gulf of mexico shrimp fishery</dcterms:alternative>    <dc:language xsi:type=\"dcterms:ISO639-3\">eng</dc:language>    <dc:type xsi:type=\"dcterms:DCMIType\">Dataset</dc:type>    <dc:subject>shrimp, judy jamison, electronic logbook, elb, red snapper, bycatch, logbook, gulf &amp; south atlantic fisheries foundation, observer, na06nmf4540044</dc:subject>    <dcterms:abstract>Collection of shrimp bycatch and effort data by the Gulf and South Atlantic Foundation.  Part of the shrimp observer program dataset. </dcterms:abstract>    <dc:publisher>Southeast Fisheries Science Center</dc:publisher>    <dc:creator>Southeast Fisheries Science Center</dc:creator>    <dc:identifier xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/10063</dc:identifier>    <dcterms:isPartOf xsi:type=\"dcterms:URI\">                 https://inport.nmfs.noaa.gov/inport/item/9406</dcterms:isPartOf>    <dcterms:references xsi:type=\"dcterms:URI\">                         https://inport.nmfs.noaa.gov/inport/item/21539</dcterms:references>    <dcterms:temporal xsi:type=\"dcterms:Period\">                             start=2005-04-01;                             end=2008-12-31;                         </dcterms:temporal>    <dcterms:accessRights>The project data is not available for online viewing or downloading.</dcterms:accessRights> </metadata> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "338f1329f421cc790f3f6331e7a5e8cf", 
+    "source_url": "https://inport.nmfs.noaa.gov/inport/item/10063/dublin-core"
+}

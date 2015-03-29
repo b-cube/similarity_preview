@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?> <rdf:RDF      xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"      xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\"      xmlns:dc=\"http://purl.org/dc/elements/1.1/\"      xmlns:dcq=\"http://dublincore.org/2000/03/13/dcq#\"      xmlns:lom=\"http://www.imsproject.org/rdf/imsmd_rootv1p2#\"      xmlns:lom_gen=\"http://www.imsproject.org/rdf/imsmd_generalv1p2#\">    <rdf:Property rdf:ID=\"catalogentry\">     <rdfs:label>Catalog Entry</rdfs:label>     <rdfs:comment>An entry in a catalog.</rdfs:comment>   </rdf:Property>      <rdfs:Class rdf:ID=\"Structure\">     <rdfs:label>Structure types</rdfs:label>     <rdfs:comment>Instances of this class represent organizational structures.</rdfs:comment>   </rdfs:Class>      <lom_gen:Structure ID=\"Collection\"/>   <lom_gen:Structure ID=\"Mixed\"/>   <lom_gen:Structure ID=\"Linear\"/>   <lom_gen:Structure ID=\"Hierarchical\"/>   <lom_gen:Structure ID=\"Networked\"/>   <lom_gen:Structure ID=\"Branched\"/>   <lom_gen:Structure ID=\"Parceled\"/>   <lom_gen:Structure ID=\"Atomic\"/>    <rdf:Property rdf:ID=\"structure\">     <rdf:range rdf:resource=\"#Structure\"/>     <rdfs:label>Structure</rdfs:label>     <rdfs:comment>Underlying organizational structure of the learning object.</rdfs:comment>   </rdf:Property>      <rdfs:Class rdf:ID=\"AggregationLevel\">     <rdfs:label>Aggregation levels</rdfs:label>     <rdfs:comment>Instances of this class represent aggregation levels.</rdfs:comment>   </rdfs:Class>      <lom_gen:AggregationLevel ID=\"Level1\"/>   <lom_gen:AggregationLevel ID=\"Level2\"/>   <lom_gen:AggregationLevel ID=\"Level3\"/>   <lom_gen:AggregationLevel ID=\"Level4\"/>     <rdf:Property rdf:ID=\"aggregationlevel\">     <rdf:range rdf:resource=\"#AggregationLevel\"/>     <rdfs:label>Aggregation Level</rdfs:label>     <rdfs:comment>The functional granularity of the learning object.</rdfs:comment>   </rdf:Property>  </rdf:RDF>", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f40f9e6f74ad44ab538afc9271117f5a", 
+    "source_url": "http://www.imsglobal.org/rdf/imsmd_generalv1p2.xml"
+}

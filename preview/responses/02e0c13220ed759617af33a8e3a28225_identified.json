@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Bauer2010 </Local-number>  <Author>Bauer, L. J., Kendall, M. S. </Author>  <Title>An Ecological Characterization of Vieques, Puerto Rico Part II: Field Studies of Habitats, Nutrients, Contaminants, Fish, and Benthic Communities </Title>  <Institution>NOAA/NCCOS Center for Coastal Monitoring and Assessment, Center for Coastal Fisheries and Habitat Research, and NOAA's Office of Response and Restoration </Institution>  <Publication-Date><caldate>2010 </caldate></Publication-Date>  <Type-Period-Note>NOAA Technical Memorandum NOS NCCOS 110 </Type-Period-Note>  <Abstract>This report is Part II of an ecological characterization of the marine resources of Vieques, Puerto Rico. The purpose of this work, conducted by NOAA's National Centers for Coastal Ocean Science (NCCOS) in consultation with NOAA's Office of Response and Restoration and other local and regional partners, was to provide natural resource managers with a spatially comprehensive characterization of the marine ecosystem surrounding Vieques. In the first part of this assessment, previously existing data and descriptions from published reports and assessments were integrated into a synthesis report. Part II of this assessment is a joint NCCOS effort encompassing the work of CCMA's Biogeography Branch, CCMA's Coastal and Oceanographic Assessment, Status and Trends (COAST) Branch, and the Center for Fisheries and Habitat Research (CCFHR). This work builds upon previous efforts by presenting new data on benthic habitats, associated biological communities, nutrients, and contaminant concentrations in coral and sediments. Together, both components of the characterization will provide research and monitoring tools in order to support effective management and conservation of the island's marine resources. </Abstract>  <Date-Time-Last-Modified>20100616000000 </Date-Time-Last-Modified>  <URL>http://ccma.nos.noaa.gov/ecosystems/coralreef/vieques/vieques_part_ii.pdf </URL>  <Region>PR </Region>  <Bounding>  <Eastbc>-65.248715 </Eastbc>  <Westbc>-67.399870 </Westbc>  <Southbc>17.784130 </Southbc>  <Northbc>18.645740 </Northbc>  </Bounding>  <CoRIS-Record-Type>techreport </CoRIS-Record-Type>  <Local-subject-index>techreport </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "02e0c13220ed759617af33a8e3a28225", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7B86DB9A52-379B-422F-89FB-A7AB3D14C94A%7D"
+}

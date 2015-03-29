@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.adams-qos-broadband'> <front> <title>A New QoS Mechanism for Mass-Market Broadband</title>  <author initials='J' surname='Adams' fullname='John Adams'>     <organization /> </author>  <author initials='A' surname='Smith' fullname='Adam Smith'>     <organization /> </author>  <date month='February' day='20' year='2002' /> </front>  <seriesInfo name='Internet-Draft' value='draft-adams-qos-broadband-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-adams-qos-broadband-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "60f19891df4ba130e2837237e0374a40", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-ids/reference.I-D.adams-qos-broadband.xml"
+}

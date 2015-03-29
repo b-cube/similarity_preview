@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?><modsCollection rowCount=\"1\"><mods><identifier type=\"pw\">ofr20111142</identifier><identifier type=\"pwpk\">70004796</identifier><identifier type=\"series\">Open-File Report</identifier><identifier type=\"seriesNumber\">2011-1142</identifier><identifier type=\"seriesCode\">OFR</identifier><genre>USGS Numbered Series</genre><titleInfo><title>A program for the conversion of The National Map data from proprietary format to resource description framework (RDF)</title></titleInfo><originInfo><dateOther>Tue, 12 Jul 2011 00:00 -0500</dateOther><dateIssued>2011</dateIssued></originInfo><name><namePart>Bulen, Andrew; Carter, Jonathan J.; Varanka, Dalia E.</namePart><role>Author</role></name><abstract>To expand data functionality and capabilities for users of The National Map of the U.S. Geological Survey, data sets for six watersheds and three urban areas were converted from the Best Practices vector data model formats to Semantic Web data formats. This report describes and documents the conver-sion process. The report begins with an introduction to basic Semantic Web standards and the background of The National Map. Data were converted from a proprietary format to Geog-raphy Markup Language to capture the geometric footprint of topographic data features. Configuration files were designed to eliminate redundancy and make the conversion more efficient. A SPARQL endpoint was established for data validation and queries. The report concludes by describing the results of the conversion.</abstract><physicalDescription><form>vi, 9 p.</form></physicalDescription><location><url note=\"THUMBNAIL\">http://pubs.er.usgs.gov/thumbnails/ofr_2011_1142.jpg</url><url displayLabel=\"html\" note=\"INDEX PAGE\">http://pubs.usgs.gov/of/2011/1142/</url></location><note type=\"citation/reference\">A program for the conversion of The National Map data from proprietary format to resource description framework (RDF); 2011; OFR; 2011-1142; Open-File Report; Bulen, Andrew; Carter, Jonathan J.; Varanka, Dalia E.</note><relatedItem type=\"original\"><titleInfo><title>Open-File Report</title></titleInfo></relatedItem></mods></modsCollection>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "b6b84fa594a6cc8a650db41b1c6a330b", 
+    "source_url": "http://pubs.er.usgs.gov/service/search/xml/advance?prod_id=ofr20111142"
+}

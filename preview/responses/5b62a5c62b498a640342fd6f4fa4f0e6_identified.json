@@ -1,0 +1,15 @@
+{
+    "content": "<CoRIS>  <Local-number>Conservancy2007 </Local-number>  <Author>The Ocean Conservancy </Author>  <Title>Final Report to National Oceanic and Atmospheric Administration from The Ocean Conservancy for grant NA04NMF4630334 Covering Work from 10/01/2004 to 12/31/2006 </Title>  <Publication-Date><caldate>2007 </caldate></Publication-Date>  <Notes>FY2004 CRCP Project ID 1413; Project Title: General Coral Conservation Grants; Principal Investigator: Andy Bruckner </Notes>  <Abstract>The Coral Reef Management Assistant (CRMA) was able to provide a detailed data analysis of biophysical data relevant to the management of the East End Marine Park (EEMP), make management recommendations, produce and distribute education and outreach materials to EEMP visitors and St. Croix residents, and provide technical assistance to the Department of Planning and Natural Resources (DPNR)'s Coastal Zone Management (CZM), who manages the EEMP. The CRMA was also active in developing the Rules and Regulations for the EEMP, which still needs to be passed into law. The USVI has recently undergone gubernatorial and senatorial elections. The new administration took office on January 2nd 2007, however, the division heads and other appointed staff are still in transition. The final report of this project will form part of a comprehensive package of information to be presented to the head of the Division of Fish and Wildlife, the senior staff of CZM, the commissioner, and key staff members of DPNR, once these officials are in place. </Abstract>  <Date-Time-Last-Modified>20100816000000 </Date-Time-Last-Modified>  <URL>http://data.nodc.noaa.gov/coris/library/NOAA/CRCP/project/1413/NA04NMF4630334_CRMA_final_report.pdf </URL>  <project>  <ID>1413 </ID>  <title>General Coral Conservation Grants </title>  <PI>Andy Bruckner </PI>  </project>  <Region>USVI </Region>  <Bounding>  <Eastbc>-64.435020 </Eastbc>  <Westbc>-65.205180 </Westbc>  <Southbc>17.543930 </Southbc>  <Northbc>18.533300 </Northbc>  </Bounding>  <CoRIS-Record-Type>misc </CoRIS-Record-Type>  <Local-subject-index>Grants </Local-subject-index>  <Local-subject-index>misc </Local-subject-index>  <Local-subject-index>publication </Local-subject-index>  <resdesc>CoRIS Bibliographic </resdesc> </CoRIS>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5b62a5c62b498a640342fd6f4fa4f0e6", 
+    "source_url": "http://www.coris.noaa.gov/geoportal/rest/document?id=%7BDB22227D-513D-4C90-B167-FF90EDFAA6BE%7D"
+}

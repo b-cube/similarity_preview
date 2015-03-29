@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.T30.1988\"> <front> <title>Procedures For Document Facsimile Transmission in the General Switched Telephone Network</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"\" year=\"1988\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation T.30\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f87346b0c2bb5e489e37c694366712fd", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml2/_reference.CCITT.T30.1988.xml"
+}

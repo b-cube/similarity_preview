@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <!DOCTYPE reference SYSTEM \"rfc2629.dtd\">  <reference anchor=\"CCITT.Q922.1991\"> <front> <title>ISDN Data Link Layer Specification for Frame Mode Bearer Services</title> <author> <organization>International Telephone and Telegraph Consultative Committee</organization> </author> <date month=\"April\" year=\"1991\" /> </front>  <seriesInfo name=\"CCITT\" value=\"Recommendation Q.922\" />  </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "c2812ea7480709b703245652ee7ef313", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml-misc/_reference.CCITT.Q922.1991.xml"
+}

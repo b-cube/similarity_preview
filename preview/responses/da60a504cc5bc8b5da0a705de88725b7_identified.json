@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><xml><records><record><source-app name=\"Biblio\" version=\"6.x\">Drupal-Biblio</source-app><ref-type>17</ref-type><contributors><authors><author><style face=\"normal\" font=\"default\" size=\"100%\">Rogora, M</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Mosello R.</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Calderoni A.</style></author><author><style face=\"normal\" font=\"default\" size=\"100%\">Barbieri A.</style></author></authors></contributors><titles><title><style face=\"normal\" font=\"default\" size=\"100%\">Nitrogen budget of a subalpine lake in North-Western Italy: the role of atmospheric input in the upward trend of nitrogen concentrations</style></title><secondary-title><style face=\"normal\" font=\"default\" size=\"100%\">Verh. Internat. Verein. Limnol.</style></secondary-title></titles><dates><year><style  face=\"normal\" font=\"default\" size=\"100%\">2006</style></year></dates><volume><style face=\"normal\" font=\"default\" size=\"100%\">29</style></volume><pages><style face=\"normal\" font=\"default\" size=\"100%\">2027-2030</style></pages><issue><style face=\"normal\" font=\"default\" size=\"100%\">4</style></issue><custom1><style face=\"normal\" font=\"default\" size=\"100%\">General</style></custom1></record></records></xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "da60a504cc5bc8b5da0a705de88725b7", 
+    "source_url": "http://www.clrtap-tfrn.org/biblio/export/xml/61"
+}

@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <feed xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns=\"http://www.w3.org/2005/Atom\"> <title>Gwleidyddiaeth Ryngwladol / International Politics</title> <link href=\"http://hdl.handle.net/2160/8\" rel=\"alternate\"/> <subtitle/> <id>http://hdl.handle.net/2160/8</id> <updated>2015-03-18T04:58:28Z</updated> <dc:date>2015-03-18T04:58:28Z</dc:date> <entry> <title>The BBC External Services and the Hungarian uprising, 1956</title> <link href=\"http://hdl.handle.net/2160/27473\" rel=\"alternate\"/> <author> <name>Gary</name> </author> <id>http://hdl.handle.net/2160/27473</id> <updated>2015-03-16T22:04:36Z</updated> <published>1999-01-01T00:00:00Z</published> <summary type=\"text\">The BBC External Services and the Hungarian uprising, 1956 Gary </summary> <dc:date>1999-01-01T00:00:00Z</dc:date> </entry> <entry> <title>The Campaign of Truth</title> <link href=\"http://hdl.handle.net/2160/27472\" rel=\"alternate\"/> <author> <name>Gary</name> </author> <id>http://hdl.handle.net/2160/27472</id> <updated>2015-03-16T22:04:34Z</updated> <published>1999-01-01T00:00:00Z</published> <summary type=\"text\">The Campaign of Truth Gary </summary> <dc:date>1999-01-01T00:00:00Z</dc:date> </entry> <entry> <title>The Political Art of Procrastination</title> <link href=\"http://hdl.handle.net/2160/27447\" rel=\"alternate\"/> <author> <name>Richard</name> </author> <id>http://hdl.handle.net/2160/27447</id> <updated>2015-03-16T22:02:28Z</updated> <published>1999-02-01T00:00:00Z</published> <summary type=\"text\">The Political Art of Procrastination Richard </summary> <dc:date>1999-02-01T00:00:00Z</dc:date> </entry> <entry> <title>Technology, Memory, and Value</title> <link href=\"http://hdl.handle.net/2160/27446\" rel=\"alternate\"/> <author> <name>Richard</name> </author> <id>http://hdl.handle.net/2160/27446</id> <updated>2015-03-16T22:02:26Z</updated> <published>1999-01-01T00:00:00Z</published> <summary type=\"text\">Technology, Memory, and Value Richard </summary> <dc:date>1999-01-01T00:00:00Z</dc:date> </entry> </feed> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "735e88a40a45d70a6412453a4724502b", 
+    "source_url": "http://cadair.aber.ac.uk/dspace/feed/atom_1.0/2160/8"
+}

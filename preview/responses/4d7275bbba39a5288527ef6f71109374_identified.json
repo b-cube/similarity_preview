@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <!-- JNLP File for NARCSS Application --> <jnlp   spec=\"1.0+\"   codebase=\"http://www.star.nesdis.noaa.gov/smcd/opdb/poes/apps\"   href=\"NARCS.jnlp\">   <information>     <title>NARCS Application</title>     <vendor>Sun Microsystems, Inc.</vendor>     <homepage href=\"docs/help.html\"/>     <description>NARCS Application</description>     <description kind=\"short\">NARCS - Graphical User Interface for NPROVS Collocation Summary Trends</description>     <icon href=\"images/swingset2.jpg\"/>     <icon kind=\"splash\" href=\"images/splash.gif\"/>     <offline-allowed/>   </information>   <security>       <all-permissions/>   </security>   <resources>     <j2se version=\"1.4+\"/>     <jar href=\"NARCS.jar\"/>   </resources>   <application-desc main-class=\"NARCS\"/> </jnlp>  ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "4d7275bbba39a5288527ef6f71109374", 
+    "source_url": "http://www.star.nesdis.noaa.gov/smcd/opdb/nprovs/apps/NARCS.jnlp"
+}

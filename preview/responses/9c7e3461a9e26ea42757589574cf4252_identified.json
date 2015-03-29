@@ -1,0 +1,15 @@
+{
+    "content": "<xml>   <records>        <record>       <contributors>         <authors>           <author>Danalet, Antonin</author>         </authors>       </contributors>       <titles>         <title>A Bayesian Approach to Detect Pedestrian Destination-Sequences from WiFi Signatures: Data (Transp. Res. Part C, 2014)</title>         <secondary-title/>       </titles>       <doi>10.5281/zenodo.15798</doi>       <pages/>       <volume/>       <number>doi</number>       <keywords>         <keyword>Network traces</keyword>         <keyword>WiFi traces</keyword>         <keyword>pedestrian</keyword>         <keyword>potential attractivity measure</keyword>         <keyword>semantically-enriched routing graph</keyword>       </keywords>       <dates>         <year>2015</year>         <pub-dates>           <date>2015-03-03</date>         </pub-dates>       </dates>       <abstract>&lt;p&gt;This dataset contains and describes the data used in&lt;/p&gt;          &lt;p&gt;Danalet, A., Farooq, B., &amp;amp; Bierlaire, M. (2014). A Bayesian approach to detect pedestrian destination-sequences from WiFi signatures. &lt;em&gt;Transportation Research Part C: Emerging Technologies&lt;/em&gt;, &lt;strong&gt;44&lt;/strong&gt;, 146-170. doi:10.1016/j.trc.2014.03.015&lt;/p&gt;          &lt;p&gt;Specifically it contains WiFi traces, pedestrian Semantically-Enriched Routing Graph (SERG), and Potential Attractivity measure (PAM).&lt;/p&gt;</abstract>     </record>      </records> </xml>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "9c7e3461a9e26ea42757589574cf4252", 
+    "source_url": "http://zenodo.org/record/15798/export/xe"
+}

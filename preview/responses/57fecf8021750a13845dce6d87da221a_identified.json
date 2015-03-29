@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding=\"ISO-8859-1\" ?> <schema    targetNamespace=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ms=\"http://mapserver.gis.umn.edu/mapserver\"     xmlns:ogc=\"http://www.opengis.net/ogc\"    xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"    xmlns=\"http://www.w3.org/2001/XMLSchema\"    xmlns:gml=\"http://www.opengis.net/gml\"    elementFormDefault=\"qualified\" version=\"0.1\" >    <import namespace=\"http://www.opengis.net/gml\"           schemaLocation=\"http://schemas.opengis.net/gml/3.1.1/base/gml.xsd\" />    <element name=\"minfac\"             type=\"ms:minfacType\"             substitutionGroup=\"gml:_Feature\" />    <complexType name=\"minfacType\">     <complexContent>       <extension base=\"gml:AbstractFeatureType\">         <sequence>           <element name=\"geometry\" type=\"gml:PointPropertyType\" minOccurs=\"0\" maxOccurs=\"1\"/>           <element name=\"rec_id\" type=\"string\"/>           <element name=\"year\" type=\"string\"/>           <element name=\"country\" type=\"string\"/>           <element name=\"commodity\" type=\"string\"/>           <element name=\"location\" type=\"string\"/>           <element name=\"fac_name\" type=\"string\"/>           <element name=\"fac_type\" type=\"string\"/>           <element name=\"dmslat\" type=\"string\"/>           <element name=\"dmslong\" type=\"string\"/>           <element name=\"latitude\" type=\"string\"/>           <element name=\"longitude\" type=\"string\"/>           <element name=\"precision\" type=\"string\"/>           <element name=\"mm\" type=\"string\"/>           <element name=\"op_comp\" type=\"string\"/>           <element name=\"maininvest\" type=\"string\"/>           <element name=\"othinvest\" type=\"string\"/>           <element name=\"status\" type=\"string\"/>           <element name=\"capacity\" type=\"string\"/>           <element name=\"units\" type=\"string\"/>           <element name=\"notes\" type=\"string\"/>           <element name=\"cite\" type=\"string\"/>           <element name=\"fips_code\" type=\"string\"/>           <element name=\"huc_code\" type=\"string\"/>           <element name=\"quad_code\" type=\"string\"/>         </sequence>       </extension>     </complexContent>   </complexType>  </schema> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "57fecf8021750a13845dce6d87da221a", 
+    "source_url": "http://mrdata.usgs.gov/wfs/minfac?request=describefeaturetype&service=WFS&version=1.1.0&typename=minfac"
+}

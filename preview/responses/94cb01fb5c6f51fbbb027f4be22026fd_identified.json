@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='I-D.zill-ipv6wg-zone-prefixlen'> <front> <title>Organization Zone Prefix Length Discovery</title>  <author initials='B' surname='Zill' fullname='Brian Zill'>     <organization /> </author>  <date month='February' day='26' year='2003' /> </front>  <seriesInfo name='Internet-Draft' value='draft-zill-ipv6wg-zone-prefixlen-00' /> <format type='TXT'         target='http://www.ietf.org/internet-drafts/draft-zill-ipv6wg-zone-prefixlen-00.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "94cb01fb5c6f51fbbb027f4be22026fd", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml3/reference.I-D.zill-ipv6wg-zone-prefixlen.xml"
+}

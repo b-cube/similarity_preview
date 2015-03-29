@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version='1.0' encoding='UTF-8'?>  <reference anchor='RFC0537'>  <front> <title>Announcement of NGG meeting July 16-17</title> <author initials='S.' surname='Bunch' fullname='S. Bunch'> <organization /></author> <date year='1973' month='June' /></front>  <seriesInfo name='RFC' value='537' /> <format type='TXT' octets='2695' target='http://www.rfc-editor.org/rfc/rfc537.txt' /> </reference> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "ad2b3d959d337a97b64526ef42f4c211", 
+    "source_url": "http://xml2rfc.ietf.org/public/rfc/bibxml/reference.RFC.0537.xml"
+}

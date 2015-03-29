@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/anchorage_areas/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/collision_regulation_lines/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/disposal_areas/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/precautionary_areas/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/restricted_areas/MapServer</loc> </url> <url> <loc>http://encdirect.noaa.gov/arcgis/rest/services/cmsp/shipping_lanes/MapServer</loc> </url> </urlset> ", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "83083764582d8255bfd892c8ca27d666", 
+    "source_url": "http://encdirect.noaa.gov/arcgis/rest/services/cmsp?f=sitemap"
+}

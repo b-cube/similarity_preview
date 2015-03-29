@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\"?> <rdf:RDF   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"   xmlns:atom=\"http://www.w3.org/2005/Atom\"   xmlns=\"http://purl.org/rss/1.0/\" >  <channel rdf:about=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CMT-GLASGOW&amp;v=1.0\">  <dc:identifier>https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&amp;L=CMT-GLASGOW&amp;v=1.0</dc:identifier>  <title>CMT-GLASGOW List</title>  <link>https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=CMT-GLASGOW</link>  <description>CMT-GLASGOW List Archives</description>  <dc:date>2014-11-27T13:18:16Z</dc:date>  <image rdf:resource=\"http://www.lsoft.com/images/listserv_small.gif\"/>    <items>   <rdf:Seq>     <rdf:li resource=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CMT-GLASGOW;b12a7447.1411\"/>     </rdf:Seq>  </items>   </channel>  <image rdf:about=\"http://www.lsoft.com/images/listserv_small.gif\">     <title>Powered by L-Soft's LISTSERV mailing list manager</title>     <link>http://www.lsoft.com/products/listserv-powered.asp</link>     <url>http://www.lsoft.com/images/listserv_small.gif</url> </image>   <item rdf:about=\"https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CMT-GLASGOW;b12a7447.1411\">   <title>Neurocreator - new magazine </title>   <link>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CMT-GLASGOW;b12a7447.1411</link>   <description> *apologies for cross-posting*&lt;br&gt;&lt;br&gt;Hello Creators,&lt;br&gt;&lt;br&gt;the inaugural edition of Neurocreator introduces a different way of looking&lt;br&gt;at how creators do what we do.&lt;br&gt;&lt;br&gt;From the traditions of general semantics, neuro-linguistics, changework&lt;br&gt;therapies and the latest explorations of neuroscience comes an approach&lt;br&gt;that is already transforming creators' lives.&lt;br&gt;&lt;br&gt;For instance, the concepts of inspiration and the muse are based on very&lt;br&gt;old ideas - such as the belief system of the Roman Empire and their gods!&lt;br&gt;Surely in the 21st Century we can get closer to the reality of the creative&lt;br&gt;process? [...]   </description>   <dc:date>2014-11-27T13:08:08+00:00</dc:date>   <dc:creator>Mal Williamson</dc:creator>   <dc:identifier>https://www.jiscmail.ac.uk:443/cgi-bin/webadmin?A2=CMT-GLASGOW;b12a7447.1411</dc:identifier> </item>   </rdf:RDF> ", 
+    "identity": {
+        "subtype": "dataset", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "RDF", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "f13a537c4c247b3309eb77fbc4b8dee6", 
+    "source_url": "https://www.jiscmail.ac.uk/cgi-bin/webadmin?RSS&L=CMT-GLASGOW&v=1.0"
+}

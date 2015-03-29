@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <feed xmlns=\"http://www.w3.org/2005/Atom\" xml:lang=\"en\"><title>CKAN Dataset Revision History</title><link href=\"/revision/city-and-county-of-denver-zoning-for-general-manufacturing-of-food\" rel=\"alternate\"></link><id>/revision/city-and-county-of-denver-zoning-for-general-manufacturing-of-food</id><updated>2015-03-15T13:20:51Z</updated><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-general-manufacturing-of-food</title><link href=\"/revision/9cf17288-bb8e-4649-9fa6-3f9f358e53e3\" rel=\"alternate\"></link><updated>2015-03-15T13:20:51Z</updated><published>2015-03-15T13:20:51Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/9cf17288-bb8e-4649-9fa6-3f9f358e53e3</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-general-manufacturing-of-food</summary></entry><entry><title>REST API: Update object city-and-county-of-denver-zoning-for-general-manufacturing-of-food</title><link href=\"/revision/26f63302-afb8-4868-a052-a9007f669b92\" rel=\"alternate\"></link><updated>2015-03-15T13:20:46Z</updated><published>2015-03-15T13:20:46Z</published><author><name>denver</name></author><id>tag:,2015-03-15:/revision/26f63302-afb8-4868-a052-a9007f669b92</id><summary type=\"html\">Log message: REST API: Update object city-and-county-of-denver-zoning-for-general-manufacturing-of-food</summary></entry></feed>", 
+    "identity": {
+        "subtype": "", 
+        "is_error": false, 
+        "version": "", 
+        "protocol": "", 
+        "language": "", 
+        "service": "", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "2ba7dc85f8b605b93f76cfdcea0d2986", 
+    "source_url": "http://data.opencolorado.org/dataset/history/city-and-county-of-denver-zoning-for-general-manufacturing-of-food?days=14&format=atom"
+}

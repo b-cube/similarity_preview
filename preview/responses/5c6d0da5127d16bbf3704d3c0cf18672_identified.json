@@ -1,0 +1,15 @@
+{
+    "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <OpenSearchDescription xmlns=\"http://a9.com/-/spec/opensearch/1.1/\">   <ShortName>Green Festival</ShortName>   <Description>Green Festival, America's Largest and Longest-Running Sustainability and Green Living Event.</Description>   <InputEncoding>UTF-8</InputEncoding>   <Image type=\"image/vnd.microsoft.icon\" width=\"16\" height=\"16\">http://www.greenfestivals.org/templates/fontaine_j25/favicon.ico</Image>   <Url type=\"application/opensearchdescription+xml\" rel=\"self\" template=\"http://www.greenfestivals.org/search?format=opensearch&amp;id=930\"/>   <Url type=\"text/html\" template=\"http://www.greenfestivals.org/index.php?option=com_search&amp;searchword={searchTerms}\"/> </OpenSearchDescription> ", 
+    "identity": {
+        "subtype": "service", 
+        "is_error": false, 
+        "version": "1.1", 
+        "protocol": "OpenSearch", 
+        "language": "", 
+        "service": "OpenSearchDescription", 
+        "has_dataset": false, 
+        "has_metadata": false
+    }, 
+    "digest": "5c6d0da5127d16bbf3704d3c0cf18672", 
+    "source_url": "http://www.greenfestivals.org/search?format=opensearch&id=930"
+}
