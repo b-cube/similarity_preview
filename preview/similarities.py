@@ -8,6 +8,7 @@ app = Flask(__name__)
 import os
 import glob
 import json
+import operator
 from lxml import etree
 from xml.sax.saxutils import escape
 
@@ -71,17 +72,26 @@ def get_response(digest):
 
 @app.route("/similarity/<digest>")
 def get_similarity(digest):
-    fpath = 'preview/similarities/%s_similarity.txt' % digest
+    sort_order = request.args.get('order', 'asc')
+    fpath = 'preview/similarities/%s_similarities.txt' % digest
     if not os.path.exists(fpath):
         abort(404)
-    parsed_sim = parse_similarities(fpath)
+    parsed_sim = parse_similarities(fpath, sort_order)
     if not parsed_sim:
         abort(500)
-    return parsed_sim
+    return flask.jsonify(sorted=parsed_sim)
 
 
-def parse_similarities():
-    pass
+def parse_similarities(sim_path, sort_order='asc'):
+    with open(sim_path, 'r') as f:
+        data = f.readlines()
+    data = [d.split(',') for d in data if d]
+    data = {d[1].strip(): d[0].strip() for d in data[1:] if d}
+
+    sorted_sims = sorted(data.items(), key=operator.itemgetter(1))
+    if sort_order == 'desc':
+        sorted_sims.reverse()
+    return sorted_sims
 
 
 def parse_response(digest_path, html_escape=True):
