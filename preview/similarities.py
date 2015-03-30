@@ -3,6 +3,7 @@ from flask import Flask
 from flask import abort
 from flask import render_template
 from flask import request
+from flask import Response
 app = Flask(__name__)
 
 import os
@@ -60,14 +61,17 @@ def get_simlist():
 
 @app.route("/response/<digest>")
 def get_response(digest):
+    format = request.args.get('format', 'txt')
+
     fpath = 'preview/responses/%s_identified.json' % digest
     if not os.path.exists(fpath):
         abort(404)
 
-    parsed_xml = parse_response(fpath)
+    do_escape = format == 'txt'
+    parsed_xml = parse_response(fpath, do_escape)
     if not parsed_xml:
         abort(500)
-    return parsed_xml
+    return Response(parsed_xml, mimetype='text/plain')
 
 
 @app.route("/similarity/<digest>")
@@ -98,11 +102,11 @@ def parse_response(digest_path, html_escape=True):
     with open(digest_path, 'r') as f:
         data = json.loads(f.read())
 
-    content = data['content']
+    content = data['content'].encode('unicode_escape')
     try:
         xml = etree.fromstring(content)
-    except:
-        return None
+    except Exception as ex:
+        raise ex
     text = etree.tostring(xml, pretty_print=True)
 
     # html encode it
