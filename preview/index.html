@@ -1,22 +1,19 @@
 <!doctype html>
-<html class="no-js" lang="">
+<html lang="">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
+        <title>Similarity Previewer</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <!-- Place favicon.ico in the root directory -->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/normalize.css') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+        <script src="{{ url_for('static', filename='js/vendor/modernizr-2.8.3.min.js') }}"></script>
 
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+        <script src="{{ url_for('static', filename='js/highlight.pack.js') }}"></script>
 
-        <script src="js/highlight.pack.js"></script>
-
-        <link rel="stylesheet" href="css/styles/default.css">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/styles/default.css') }}">
         
         <style type="text/css">
             code {
@@ -26,7 +23,6 @@
             h2 {
                 margin:0;
                 padding:0;
-
             }
 
             .cosim {
@@ -82,7 +78,6 @@
                 padding-left:20px;
             }
 
-    
             .xml-box {
                 float:left;
                 margin:20px;
@@ -127,18 +122,12 @@
             <div class="">
                 <h2>Responses</h2>
                 <ul class="simlist">
-                    <li>
-                        <div class="cosim cosim-high">0.89</div>
-                        <div class="identity oaipmh">some digest value: UNIDATA</div>
-                    </li>
-                    <li>
-                        <div class="cosim cosim-medium">0.33</div>
-                        <div class="identity unidata">some digest value: UNIDATA</div>
-                    </li>
-                    <li>
-                        <div class="cosim cosim-low">0.11</div>
-                        <div class="identity ogc">some digest value: UNIDATA</div>
-                    </li>
+                    {% for item in similarities %}
+                        <li>
+                            <div class="cosim cosim-high">{{item.1}}</div>
+                            <div class="identity oaipmh">{{item.0}}</div>
+                        </li>
+                    {% endfor %}
                 </ul>
             </div>
             <div style="clear:both;">
@@ -149,79 +138,13 @@
                 <div class="xml-box">
                     <h2>Source</h2>
                     <pre><code class="language-html">
-    &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
-    &lt;catalog xmlns=&quot;http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; version=&quot;1.0.1&quot;&gt;
-      &lt;service name=&quot;allServices&quot; serviceType=&quot;Compound&quot; base=&quot;&quot;&gt;
-        &lt;service name=&quot;ncdods&quot; serviceType=&quot;OPENDAP&quot; base=&quot;/thredds/dodsC/&quot; /&gt;
-        &lt;service name=&quot;HTTPServer&quot; serviceType=&quot;HTTPServer&quot; base=&quot;/thredds/fileServer/&quot; /&gt;
-        &lt;service name=&quot;wcs&quot; serviceType=&quot;WCS&quot; base=&quot;/thredds/wcs/&quot; /&gt;
-        &lt;service name=&quot;ncss&quot; serviceType=&quot;NetcdfSubset&quot; base=&quot;/thredds/ncss/grid/&quot; /&gt;
-        &lt;service name=&quot;wms&quot; serviceType=&quot;WMS&quot; base=&quot;/thredds/wms/&quot; /&gt;
-        &lt;service name=&quot;iso&quot; serviceType=&quot;ISO&quot; base=&quot;/thredds/iso/&quot; /&gt;
-        &lt;service name=&quot;ncml&quot; serviceType=&quot;NCML&quot; base=&quot;/thredds/ncml/&quot; /&gt;
-        &lt;service name=&quot;uddc&quot; serviceType=&quot;UDDC&quot; base=&quot;/thredds/uddc/&quot; /&gt;
-      &lt;/service&gt;
-      &lt;dataset name=&quot;PV_SHELF&quot; ID=&quot;TSdata/PV_SHELF&quot;&gt;
-        &lt;metadata inherited=&quot;true&quot;&gt;
-          &lt;serviceName&gt;allServices&lt;/serviceName&gt;
-          &lt;publisher&gt;
-            &lt;name vocabulary=&quot;DIF&quot;&gt;USGS/ER/WHCMSC/Ellyn Montgomery&lt;/name&gt;
-            &lt;contact url=&quot;http://www.usgs.gov/&quot; email=&quot;emontgomery@usgs.gov&quot; /&gt;
-          &lt;/publisher&gt;
-        &lt;/metadata&gt;
-        &lt;dataset name=&quot;3981-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3981-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3981-a.nc&quot;&gt;
-          &lt;dataSize units=&quot;Mbytes&quot;&gt;1.051&lt;/dataSize&gt;
-          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
-        &lt;/dataset&gt;
-        &lt;dataset name=&quot;3982-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3982-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3982-a.nc&quot;&gt;
-          &lt;dataSize units=&quot;Mbytes&quot;&gt;1.350&lt;/dataSize&gt;
-          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
-        &lt;/dataset&gt;
-        &lt;dataset name=&quot;3982cs-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3982cs-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3982cs-a.nc&quot;&gt;
-          &lt;dataSize units=&quot;Kbytes&quot;&gt;600.8&lt;/dataSize&gt;
-          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
-        &lt;/dataset&gt;
-      &lt;/dataset&gt;
-    &lt;/catalog&gt;
+                        {{source_response}}
                     </code></pre>
                 </div>
                 <div class="xml-box">
                     <h2>Compared to</h2>
                     <pre><code class="language-xml">
-    &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
-    &lt;catalog xmlns=&quot;http://www.unidata.ucar.edu/namespaces/thredds/InvCatalog/v1.0&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; version=&quot;1.0.1&quot;&gt;
-      &lt;service name=&quot;allServices&quot; serviceType=&quot;Compound&quot; base=&quot;&quot;&gt;
-        &lt;service name=&quot;ncdods&quot; serviceType=&quot;OPENDAP&quot; base=&quot;/thredds/dodsC/&quot; /&gt;
-        &lt;service name=&quot;HTTPServer&quot; serviceType=&quot;HTTPServer&quot; base=&quot;/thredds/fileServer/&quot; /&gt;
-        &lt;service name=&quot;wcs&quot; serviceType=&quot;WCS&quot; base=&quot;/thredds/wcs/&quot; /&gt;
-        &lt;service name=&quot;ncss&quot; serviceType=&quot;NetcdfSubset&quot; base=&quot;/thredds/ncss/grid/&quot; /&gt;
-        &lt;service name=&quot;wms&quot; serviceType=&quot;WMS&quot; base=&quot;/thredds/wms/&quot; /&gt;
-        &lt;service name=&quot;iso&quot; serviceType=&quot;ISO&quot; base=&quot;/thredds/iso/&quot; /&gt;
-        &lt;service name=&quot;ncml&quot; serviceType=&quot;NCML&quot; base=&quot;/thredds/ncml/&quot; /&gt;
-        &lt;service name=&quot;uddc&quot; serviceType=&quot;UDDC&quot; base=&quot;/thredds/uddc/&quot; /&gt;
-      &lt;/service&gt;
-      &lt;dataset name=&quot;PV_SHELF&quot; ID=&quot;TSdata/PV_SHELF&quot;&gt;
-        &lt;metadata inherited=&quot;true&quot;&gt;
-          &lt;serviceName&gt;allServices&lt;/serviceName&gt;
-          &lt;publisher&gt;
-            &lt;name vocabulary=&quot;DIF&quot;&gt;USGS/ER/WHCMSC/Ellyn Montgomery&lt;/name&gt;
-            &lt;contact url=&quot;http://www.usgs.gov/&quot; email=&quot;emontgomery@usgs.gov&quot; /&gt;
-          &lt;/publisher&gt;
-        &lt;/metadata&gt;
-        &lt;dataset name=&quot;3981-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3981-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3981-a.nc&quot;&gt;
-          &lt;dataSize units=&quot;Mbytes&quot;&gt;1.051&lt;/dataSize&gt;
-          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
-        &lt;/dataset&gt;
-        &lt;dataset name=&quot;3982-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3982-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3982-a.nc&quot;&gt;
-          &lt;dataSize units=&quot;Mbytes&quot;&gt;1.350&lt;/dataSize&gt;
-          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
-        &lt;/dataset&gt;
-        &lt;dataset name=&quot;3982cs-a.nc&quot; ID=&quot;TSdata/PV_SHELF/3982cs-a.nc&quot; urlPath=&quot;TSdata/PV_SHELF/3982cs-a.nc&quot;&gt;
-          &lt;dataSize units=&quot;Kbytes&quot;&gt;600.8&lt;/dataSize&gt;
-          &lt;date type=&quot;modified&quot;&gt;2014-12-02T21:12:29Z&lt;/date&gt;
-        &lt;/dataset&gt;
-      &lt;/dataset&gt;
-    &lt;/catalog&gt;
+{{source_response}}
                     </code></pre>
                 </div>
 
@@ -233,9 +156,9 @@
         <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
           <script>window.jQuery || document.write('<script src="../js/vendor/jquery-1.11.2.min.js"><\/script>')</script> -->
 
-        <script src="js/vendor/jquery-1.11.2.min.js"></script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
+        <script src="{{ url_for('static', filename='js/vendor/jquery-1.11.2.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/plugins.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/main.js') }}"></script>
 
         <script>hljs.initHighlightingOnLoad();</script>
 
