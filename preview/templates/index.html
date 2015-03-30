@@ -135,13 +135,13 @@
                 <a href="#">View Diff</a>
             </div>
             <div>
-                <div class="xml-box">
+                <div id="source" class="xml-box">
                     <h2>Source</h2>
                     <pre><code class="lang-xml">
 {{source_response}}
                     </code></pre>
                 </div>
-                <div class="xml-box">
+                <div id="compare" class="xml-box">
                     <h2>Compared to</h2>
                     <pre><code class="lang-xml">
 {{compare_response}}
@@ -170,6 +170,10 @@
             function init() {
                 $('code').each(function(i, block) {
                   hljs.highlightBlock(block);
+                });
+
+                $('#source').on('scroll', function () {
+                    $('#compare').scrollTop($(this).scrollTop());
                 });
             }
         </script>
