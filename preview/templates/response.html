@@ -28,41 +28,16 @@
         <h1>Similarity Viewer</h1>
         <div class="">
             
-            <div class="">
-                <h2>Responses</h2>
-                <ul class="simlist">
-                    {% for item in similarities %}
-                        <li>
-                            <div class="cosim cosim-high">{{item.sim}}</div>
-                            <div class="identity oaipmh">{{item.id}}</div>
-                        </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <div style="clear:both;">
-                <a href="#">View Response</a>
-                <a href="#">View Diff</a>
-            </div>
-            <div>
-                <div id="source" class="xml-box">
-                    <h2>Source</h2>
-                    <pre><code class="lang-xml">
+            <h2>{{digest}}</h2>
+
+            <div id="source" class="xml-box">
+                <h2>Source</h2>
+                <pre><code class="lang-xml">
 {{source_response}}
-                    </code></pre>
-                </div>
-                <div id="compare" class="xml-box">
-                    <h2>Compared to</h2>
-                    <pre><code class="lang-xml">
-{{compare_response}}
-                    </code></pre>
-                </div>
-
-
+                </code></pre>
             </div>
-
-            <div style="clear:both;">
-                {{diff|safe}}
-            </div>
+                
+            
             
         </div>
 
@@ -79,10 +54,6 @@
             function init() {
                 $('code').each(function(i, block) {
                   hljs.highlightBlock(block);
-                });
-
-                $('#source').on('scroll', function () {
-                    $('#compare').scrollTop($(this).scrollTop());
                 });
             }
         </script>

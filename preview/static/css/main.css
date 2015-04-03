@@ -96,19 +96,14 @@ textarea {
    ========================================================================== */
 
 
+code {
+    font-size: 0.85em;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+h2 {
+    margin:0;
+    padding:0;
+}
 
 
 /* ==========================================================================
@@ -279,4 +274,91 @@ textarea {
     h3 {
         page-break-after: avoid;
     }
+}
+
+/**
+similarity styles
+**/
+.cosim {
+     background-color: #c4c4c4;
+     height: 40px;
+     width: 40px;
+     text-align: center;
+
+     -webkit-border-bottom-left-radius: 20px;
+    -webkit-border-top-left-radius: 20px;
+    -moz-border-radius-topleft: 20px;
+    -moz-border-radius-bottomleft: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.cosim-high {
+    color:#236a28;
+    font-weight:bold;
+}
+.cosim-medium {
+    color:#f80e1d;
+}
+.cosim-low {
+    color:#919191;
+}
+
+.simlist {
+    list-style: none;
+}
+.simlist::after {
+    clear: left;
+}
+.simlist li {
+    clear:left;
+    padding: 10px 0px;
+}
+.simlist li div {
+    float:left;
+    line-height:40px;
+    font-size: 10pt;
+    display: inline-block;    
+    position: relative;  
+}
+.simlist li div.identity {
+    width: 300px;
+    -webkit-border-bottom-right-radius: 20px;
+    -webkit-border-top-right-radius: 20px;
+    -moz-border-radius-topright: 20px;
+    -moz-border-radius-bottomright: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-left:20px;
+}
+
+.xml-box {
+    float:left;
+    margin:20px;
+    width:500px;
+    height:800px;
+    overflow-y:scroll;
+    border:1px solid #ccc;
+}
+
+.unidata {
+    background-color: #ceddc6;
+}
+.iso {
+    background-color: #e8c6e8;
+}
+.opensearch {
+    background-color: #eda9ae;
+}
+.ogc {
+    background-color: #a8b6f2;
+}
+.oaipmh {
+    background-color: #f2c9a9;
+}
+.rdf {
+    background-color: #c9eaec;
+}
+.others {
+    background-color: #d2cdca;
 }
