@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Similarity Previewer</title>
+        <title>Response Previewer</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +16,10 @@
         <link rel="stylesheet" href="{{ url_for('static', filename='css/styles/github.css') }}">
         
         <style type="text/css">
-            
+            #source {
+                width:80%;
+                height: auto;
+            }
         </style>
     </head>
     <body onload="init();">
@@ -25,15 +28,24 @@
         <![endif]-->
 
         <!-- Add your site or application content here -->
-        <h1>Similarity Viewer</h1>
         <div class="">
             
-            <h2>{{digest}}</h2>
+            <h2>{{response.digest}}</h2>
+
+            {% if response.identity is defined %}
+                <div>
+                    <p><span>Protocol:</span> {{response.identity.protocol}}</p>
+                    <p><span>Type:</span> {{response.identity.subtype}}</p>
+                    <p><span>Service:</span> {{response.identity.service}}</p>
+                    <p><span>Version:</span> {{response.identity.version}}</p>
+                    <p><span>Is Error:</span> {{response.identity.is_error}}</p>
+                </div>
+            {% endif %}
 
             <div id="source" class="xml-box">
                 <h2>Source</h2>
                 <pre><code class="lang-xml">
-{{source_response}}
+{{response.xml}}
                 </code></pre>
             </div>
                 

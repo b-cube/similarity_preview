@@ -86,7 +86,22 @@ def get_parsed(process, digest):
         abort(404)
 
     fpath = 'preview/responses/{0}_{1}.json'.format(digest, process)
+    if not os.path.exists(fpath):
+        abort(404)
 
+    with open(fpath, 'r') as f:
+        data = json.loads(f.read())
+
+    # xml_key = 'raw_content' if process in ['cleaned', 'identified'] else 'content'
+    xml_key = 'content' if 'raw_content' not in data else 'raw_content'
+    response = {}
+    for k, v in data.iteritems():
+        if k == xml_key:
+            response['xml'] = _parse_xml(v)
+        else:
+            response[k] = v
+
+    print response
 
     return render_template(
         'response.html',
@@ -157,17 +172,11 @@ def parse_response(digest_path, html_escape=True):
     with open(digest_path, 'r') as f:
         data = json.loads(f.read())
 
-    content = data['content'].encode('unicode_escape')
+    content = data['content']
     try:
-        parser = etree.XMLParser(
-            encoding='utf-8',
-            remove_blank_text=True,
-            recover=True
-        )
-        xml = etree.fromstring(content, parser=parser)
+        text = _parse_xml(content, True)
     except Exception as ex:
         raise ex
-    text = etree.tostring(xml, pretty_print=True)
 
     # html encode it
     if html_escape:
@@ -183,6 +192,25 @@ def generate_diff(source_xml_as_text, comparison_xml_as_text, as_table=True):
     for the two pretty-printed xml
     '''
     pass
+
+
+# utils
+def _parse_xml(text, pretty_print=True):
+    text = text.encode('unicode_escape')
+    try:
+        parser = etree.XMLParser(
+            encoding='utf-8',
+            remove_blank_text=True,
+            recover=True
+        )
+        xml = etree.fromstring(text, parser=parser)
+    except Exception as ex:
+        raise ex
+
+    if pretty_print:
+        return etree.tostring(xml, pretty_print=True)
+
+    return xml
 
 
 if __name__ == "__main__":
