@@ -77,6 +77,23 @@ def get_page():
     )
 
 
+@app.route("/view/<process>/<digest>")
+def get_parsed(process, digest):
+    # just show a nice view of the json response
+    # by process level (raw, identify, parsed)
+
+    if process not in ['cleaned', 'identified', 'parsed']:
+        abort(404)
+
+    fpath = 'preview/responses/{0}_{1}.json'.format(digest, process)
+
+
+    return render_template(
+        'response.html',
+        response=response
+    )
+
+
 @app.route("/similarities")
 def get_simlist():
     files = glob.glob('preview/similarities/*_similarities.txt')
